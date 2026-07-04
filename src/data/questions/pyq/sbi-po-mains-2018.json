@@ -1,0 +1,3249 @@
+{
+ "sets": [
+  {
+   "id": "pyq-sbipo-mains18-set1",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "title": "Circular Table - 13 Persons by Distance",
+   "context": "A certain number of persons - A, B, C, D, E, F, G, H, I, J, K, L, M - are sitting around a circular table of circumference 546 cm, all facing the centre.\nThe distances between consecutive persons (going around the table) are consecutive multiples of six, i.e. the thirteen gaps are 6, 12, 18, 24, 30, 36, 42, 48, 54, 60, 66, 72 and 78 cm in some order (since 6+12+...+78 = 546, this fixes the group size at 13 people).\nA is 3rd to the left of I.\nTwo persons are sitting between K and I (and the distance between K and I, taken along that shorter arc, is not more than 162 cm).\nM is immediate right of L.\nH sits to the left of G at a distance of 72 cm.\nThe distance between A and D is 18 cm.\nThe number of persons sitting between J and B is the same as between B and F.\nThe distance between E and F is the LCM of 6 and 5, i.e. 30 cm.\nNeither M nor L is a neighbour of K or of H.\nThe number of persons sitting between C and I is the same as between I and E.\nEither C or E is a neighbour of K."
+  },
+  {
+   "id": "pyq-sbipo-mains18-set2",
+   "section": "reasoning",
+   "topic": "input-output",
+   "title": "3x5 Signal Matrix and Blinking Bulbs",
+   "context": "A 3*5 matrix produces number-strings that make one of four bulbs (P, Q, R, S) blink. Rows are named @, % and # (bottom to top); columns are A, B, C, D, E (left to right).\n@ row (bottom row) holds consecutive multiples of 7 starting from 28, left to right: A=28, B=35, C=42, D=49, E=56.\n% row holds consecutive multiples of 11 starting from 11: A=11, B=22, C=33, D=44, E=55.\n# row holds consecutive multiples of 13 starting from 13: A=13, B=26, C=39, D=52, E=65.\nA given string X is a set of four such cell-values (row-letter + column-letter codes).\nOutcome of the string:\n1. If the string has all even numbers, the outcome is the sum of all the numbers.\n2. If an odd number is immediately followed by an even number (reading left to right), delete the units digit of every two-digit number in the string and multiply the remaining tens digits.\n3. Else, if the string contains exactly two prime numbers, delete the tens digit from each two-digit number and multiply the remaining units digits.\n4. Otherwise, the outcome is simply the sum of the numbers.\nBlink condition: outcome below 85 -> P blinks; 85-110 -> Q blinks; 111-210 -> R blinks; above 210 -> S blinks.\n\n| Column | @ row | % row | # row |\n|---|---|---|---|\n| A | 28 | 11 | 13 |\n| B | 35 | 22 | 26 |\n| C | 42 | 33 | 39 |\n| D | 49 | 44 | 52 |\n| E | 56 | 55 | 65 |"
+  },
+  {
+   "id": "pyq-sbipo-mains18-set3",
+   "section": "reasoning",
+   "topic": "direction-sense",
+   "title": "Points, Directions and a Car's Turns",
+   "context": "Symbols: P#Q means P is south of Q; P@Q means P is north of Q; P&Q means P is east of Q; P$Q means P is west of Q; P£QS means P is the midpoint of Q and S. Southeast is written P#&Q (and similarly for other combined directions). When the car honks once, it takes a left turn; when it honks twice, it takes a right turn.\nPoint S is 15 m east of point B.\nPoint J is 33 m north of point S.\nPoint K is 25 m north of point B.\nPoint L is 20 m west of point K.\nPoint Q is 40 m south of point L.\nPoint F is 40 m east of point Q.\nPoint D is 30 m north of point F.\nPoint E is the midpoint of D and F.\n\nTaking B as the origin (0,0), east as +x and north as +y: B(0,0), S(15,0), J(15,33), K(0,25), L(-20,25), Q(-20,-15), F(20,-15), D(20,15), E(20,0)."
+  },
+  {
+   "id": "pyq-sbipo-mains18-set4",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "title": "Six Designations and Six Fruits",
+   "context": "Six employees A, B, C, D, E, F of a company hold six different designations, ranked from senior-most to junior-most: CMD, MD, CEO, COO, SE, JE. Each also likes a different fruit among Mango, Litchi, Guava, Kiwi, Banana and Grapes.\nOnly two persons are senior to A.\nThe one who is junior to only one person likes Litchi.\nThe one who likes Mango is senior to B.\nF likes Guava and is junior to B.\nB does not like Litchi.\nC is senior to the one who likes Kiwi.\nThe one who likes Kiwi is not JE.\nThe one who is JE neither likes Banana nor Grapes.\nD does not like Litchi and is also not SE.\nE does not like Kiwi and is junior to C but senior to F.\nD is junior to the one who likes Banana.\nC is not junior to the one who likes Grapes.\nThe one who likes Kiwi is just junior to D.\nA does not like Banana.\nThe one who likes Grapes is senior to the one who likes Mango.\n\nFinal arrangement: CMD-C-Banana, MD-E-Litchi, CEO-A-Grapes, COO-D-Mango, SE-B-Kiwi, JE-F-Guava."
+  },
+  {
+   "id": "pyq-sbipo-mains18-set5",
+   "section": "reasoning",
+   "topic": "blood-relations",
+   "title": "Family Born in Six Different Years",
+   "context": "Six persons J, L, R, O, X, Z of a family were born in six different years: 1978, 1982, 1995, 1997, 2013 and 2015 (ages calculated on base year 2018; all born on the same date/month).\nThere is a difference of 18 years between the ages of O and J. O is the father of J.\nL is younger than R. X is not the oldest person of the family.\nR is not married to Z. Z was born in an even-numbered year.\nL is the only granddaughter of the mother of O.\nThe father of O is 4 years older than O's mother.\nJ is the son of R.\n\nWorking it out: ages in 2018 are Z=40 (1978), X=36 (1982), O=23 (1995), R=21 (1997), J=5 (2013), L=3 (2015). Since O-J age gap is 18 (23-5), O is J's father and (since J is also R's son) R is O's wife. Z and X are 4 years apart (40-36); since the father of O is 4 years older than O's mother, Z (older) is O's father and X is O's mother. L, being O's daughter, is the only granddaughter of X (O's mother). Family: Z (O's father) and X (O's mother) are grandparents; O and R are the married couple; J (son) and L (daughter) are their children."
+  },
+  {
+   "id": "pyq-sbipo-mains18-set6",
+   "section": "reasoning",
+   "topic": "data-sufficiency-reasoning",
+   "title": "Data Sufficiency - Two Parallel Rows of Ten",
+   "context": "Ten persons sit in two parallel rows of five. P, Q, R, S, T sit in row-1 facing north; K, L, M, N, O sit in row-2 facing south. Each question below gives a question and three statements (I, II, III); decide which statement(s) are sufficient to answer it.\nI. P sits second to the right of Q. O sits immediate left of M. O does not sit opposite S and Q.\nII. Only one person sits between L and M. L does not sit opposite R and S. K sits opposite T.\nIII. P does not sit opposite L and O. N sits second to the right of K. R does not sit at the extreme left end. Only two persons sit between S and P.\n\nWorking from I and III alone: in row-1, P = Q+2 and the two-persons-between-S-and-P condition forces Q=2, P=4, S=1 (the only placement that also leaves room for R, since R cannot be at the extreme left). In row-2, O = M+1, and O cannot sit opposite S or Q, so O is forced to column 5 (M=4); the remaining columns 1-3 must hold K, L, N with N = K-2, which forces K=3, N=1, L=2. So row-1 = S,Q,_,P,_ (cols 1,2,4) and row-2 = N,L,K,M,O (cols 1-5) are fixed by I and III alone, though R and T (cols 3 and 5 of row-1) stay swappable without II. Statement II (K opposite T) fixes T=3 and therefore R=5."
+  },
+  {
+   "id": "pyq-sbipo-mains18-set7",
+   "section": "reasoning",
+   "topic": "coding-decoding",
+   "title": "Coding - Phrase to Number-Letter Codes",
+   "context": "In a certain code:\n\"tradition festival iconic\" is coded as \"8X 9J 6XJ\"\n\"aesthetic recreate vibe\" is coded as \"8E 9VJ 4W\"\n\"creative emerging shine\" is coded as \"8NO 5K 8C\"\n(the exact letter-substitution table for this cipher is presented as a figure in the source book and is not fully recoverable from the extracted text; the pattern below is inferred from the three coded phrases together with the answer key)."
+  },
+  {
+   "id": "pyq-sbipo-mains18-set8",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "title": "Fifteen People Across Three Buildings",
+   "context": "Fifteen people live on different floors of three buildings X, Y and Z (ground floor = 1, upward). Building X is immediately west of Y, which is immediately west of Z; floor numbers align across buildings (floor-1 of X is immediately west of floor-1 of Y, which is immediately west of floor-1 of Z, and so on).\nN lives to the west of L on the 3rd floor. M is immediate west of I. K is immediate east of E.\nA lives on the top floor of its building such that no one lives above A in any building.\nThe number of floors between J and H is the same as between H and I. I lives below J.\nThe one who is either immediately above or immediately below N is immediate left of B.\nTwo persons live between B and M; M lives in the same building as B. B does not live in the same building as J.\nBuilding Z has more floors than building Y but fewer than building X.\nH is not in the same building as L. Two persons live between D and C. F lives to the west of G.\nD lives above O but in the same building; D does not live on an even-numbered floor.\n\nSolving: since the tallest floor shown is 6 and X > Z > Y with X+Y+Z=15, the only fit is X=6, Z=5, Y=4. This gives:\nBuilding X (6 floors): 1-O, 2-E, 3-N, 4-F, 5-D, 6-A\nBuilding Y (4 floors): 1-M, 2-K, 3-H, 4-B\nBuilding Z (5 floors): 1-I, 2-C, 3-L, 4-G, 5-J"
+  },
+  {
+   "id": "pyq-sbipo-mains18-set9",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "title": "Bar Graph - Query Resolution by Abhi, Bindu, Chintu",
+   "context": "The bar graph shows the percentage of queries resolved (out of total calls received) by Abhi, Bindu and Chintu on Monday and Friday. The bar heights are not recoverable as an image, but they can be reconstructed exactly from the arithmetic used across this question set:\n\n| Person | Monday (% resolved) | Friday (% resolved) |\n|---|---|---|\n| Abhi | 75% | 80% |\n| Bindu | 60% | 50% |\n| Chintu | 90% | 80% |"
+  },
+  {
+   "id": "pyq-sbipo-mains18-set10",
+   "section": "quant",
+   "topic": "caselet-di",
+   "title": "Caselet - People Working in Retail, Online and Door-to-Door Stores",
+   "context": "A certain number of people work in retail, online and door-to-door stores (each person works in one or more of the three).\n72% of people work in retail. People working only in door-to-door are 1/36th of the people working in retail.\nThe number of people working in both door-to-door and online but not retail is 55.\nPeople working only in online store are 65 more than those working only in door-to-door.\nThe number of people working only in retail is 160/3% more than the number of people working only in online store.\n\nWorking it out: let total people = 100x. Retail = 72x. Only door-to-door = 2x (1/36 of 72x). Only online = 2x+65. Since (total - retail) = (only door-to-door) + (only online) + (door-to-door-and-online-not-retail): 28x - 2x = (2x+65) + 55, giving 24x = 120, x = 5. So total = 500, retail = 360, only door-to-door = 10, only online = 75, and only retail = 75 x 23/15 = 115."
+  },
+  {
+   "id": "pyq-sbipo-mains18-set11",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "title": "Commission Earned by Five Stores",
+   "context": "The table shows the % range of commission earned (on selling price) on all articles sold, and the commission earned in Rupees, by five stores. Some values are missing and must be calculated; ranges of commission % are in integral values.\n\n| Store | Range of commission (%) | Commission earned (Rs) |\n|---|---|---|\n| A | 0-16 | 32000 |\n| B | 16-32 | - |\n| C | - | 35000 |\n| D | - | - |\n| E | 0-20 | 40000 |"
+  },
+  {
+   "id": "pyq-sbipo-mains18-set12",
+   "section": "quant",
+   "topic": "caselet-di",
+   "title": "Caselet - Cycle Manufacturers Supplying Three Villages",
+   "context": "Populations of villages X and Z are 16,000 and 12,800 respectively; the ratio of population of village X to village Y is 4:5 (so Y = 20,000).\nThree manufacturers A, B and C supply cycles to these villages, manufacturing them in the ratio 22:19:20 (A:B:C), assuming each person buys one cycle.\n60%, 75% and 80% of the cycles manufactured by A, B and C respectively are sold (supplied). Selling price of each cycle = Rs 8,000.\n(i) Supply = Revenue / Selling price of a cycle\n(ii) Demand % = (Number of cycles ordered by customers / Total cycles remaining with manufacturer) x 100\n(iii) Revenue = 8000 x number of cycles supplied\n\nWorking it out: total cycles manufactured = 16000+20000+12800 = 48800. A manufactures 48800x22/61=17600, B: 48800x19/61=15200, C: 48800x20/61=16000. Cycles supplied: A=60% of 17600=10560, B=75% of 15200=11400, C=80% of 16000=12800."
+  },
+  {
+   "id": "pyq-sbipo-mains18-set13",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "title": "Bar Graph - Rahul's Yearly Expenditure",
+   "context": "The bar graph shows Rahul's expenditure on Rent, Shopping, Food, Bill and FD across four years - 2011, 2012, 2013 and 2014 (some questions also introduce 2010 and 2015 figures algebraically). The bar heights are not recoverable as an image, but the cells actually used across this question set can be reconstructed exactly from the arithmetic in the solutions:\n\n| Year | Rent | Shopping | Food | Bill | FD |\n|---|---|---|---|---|---|\n| 2011 | 800 | 1200 | 1000 | - | 1200 |\n| 2012 | 1000 | 1000 | 1400 | - | 800 |\n| 2013 | 1200 | 600 | - | 1200 | - |\n| 2014 | 1000 | - | - | 1400 | - |\n\n(Cells shown as \"-\" are not pinned down by any of the five questions and are not needed to answer them.)"
+  },
+  {
+   "id": "pyq-sbipo-mains18-set14",
+   "section": "quant",
+   "topic": "partnership",
+   "title": "Rahul, Sandy and Sati's Partnership",
+   "context": "Rahul, Sandy and Sati invested in the ratio 2:3:4 (call these 2x, 3x, 4x). After 4 months, Sandy added Rs. 1500 to his investment and Rahul withdrew Rs. 800 from his. Six months after that (i.e. at the 10-month mark), Sati added an amount equal to half of Rahul's original (first four months) investment (= x), Sandy added an amount equal to 50% more than Sati's investment over the first 10 months (= 6x), and Rahul added an amount equal to Sandy's original investment (= 3x). The ratio of Sati's profit to the total profit at the end of the year is 125:376.\n\nWorking it out (capital x months): Rahul = 2x(4) + (2x-800)(6) + (5x-800)(2) = 30x-6400. Sandy = 3x(4) + (3x+1500)(6) + (9x+1500)(2) = 48x+12000. Sati = 4x(10) + 5x(2) = 50x. Total = 128x+5600. Setting 50x/(128x+5600) = 125/376 gives x=250. Profit ratio Rahul:Sandy:Sati = 1100:24000:12500 = 11:240:125 (total 376, matching the given ratio)."
+  },
+  {
+   "id": "pyq-sbipo-mains18-set15",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "title": "RC: Invention versus Innovation",
+   "context": "We all are aware of the fact that nothing is permanent in this world, neither products nor technology. As day by day, improvements and updations are made in technology, leading to new inventions and innovations in every sphere of life. Invention refers to the creation of a brand new product or device. Conversely, innovation is an act of making changes to the existing product or the process by introducing new ways or ideas. At first sight, the two terms sound alike, but if you dig deeper, you will find that there is a fine line of difference between invention and innovation that lies in their connotations. While invention is all about creating or designing something, innovation is the process of turning a creative idea into reality. [A] There is often a fine line between genius and insanity. Innovation is not only important on the individual level, but can make or break a business as well.\n\nInnovative businesses create dynamic products, adjust existing services, and/or implement new ideas. [B] They are not afraid to color outside the lines and try something new, even if it is risky. If a business is not innovative, they risk losing work to competitors. Lack of innovation also has indirect results such as losing staff and decreasing engagement. Therefore, innovation cannot be an afterthought, but rather a crucial element that is included in part of your strategy. It should be a cultural outlook that impacts thinking and improves problem solving. Many successful companies attribute their success to their innovative practices. That said, inventing and innovation are not one and the same. Invention focuses on creating new items or new ways to produce existing items. Very often, invention is a result of innovation, but it is not a requirement. Although invention can be beneficial to a business, the level of importance and necessity can vary according to the industry.\n\n[C] The era of invention is not over, but they have definitely been pushed aside for an era of innovation. While many people are still out there trying to come up with the next \"big invention\" that is going to improve humanity, businesses have discovered that innovation seems to not only trump invention in furthering a company's brand and profitability, but it can be far cheaper when all the framework is already completed. This can be seen from many major businesses that choose to innovate rather than invent, such as Apple and Sony. First, we must distinguish the difference between invention and innovation. Invention is the creation of a product or introduction of a new process, for example the Alternating Current induction motor is an invention created in 1888. An innovation occurs when someone improves on or makes a significant contribution to an item or process that has already been invented; the Apple iPhone is an innovation of the cell phone. It seems that great inventors are smaller in number - perhaps business models are leaning towards enabling innovation.\n\nSony's influence in the technology market started with the invention of the first tape recorder, and through years of creativity and perseverance, became innovators of a variety of categories, from computing and electronics to entertainment. Sony shows corporations that for a business to thrive in today's market, a company cannot stay stagnant with one particular item - innovations are essential.\nInnovation drives economic growth. Five combination patterns are what create innovation. These are, the production of a new good, a new method of production, a new market, acquiring a new source of raw minerals and the emergence of a new organization. [D] A company does not need to invent to have a competitive edge in the market, but need to innovate and create a product that is based on the needs and desires of the consumer."
+  },
+  {
+   "id": "pyq-sbipo-mains18-set16",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "title": "RC: GST on Solar Power Projects",
+   "context": "Compounding the woes for the solar power industry, Maharashtra's appellate authority for advance ruling (AAAR) has held that solar power projects are liable to 18% goods and services tax (GST) and not at the lower rate of 5% as claimed by power producers. With the appellate authority reinforcing similar rulings by some other state-level authorities for advance ruling including Rajasthan and Maharashtra, this issue seems to be headed for a prolonged legal battle unless the government decides to step in and issue clarifications on the taxability of solar power projects. [A] A rise in project cost could get reflected in the power tariffs that solar power developers offer in auctions to win projects. With electricity out of the goods and services tax (GST), the higher tax rate becomes an outright cost for the producers thus inflating the final price of the solar power. A government proposal to levy safeguard duty on imported solar panels that is meant to support domestic panel manufacturers is another factor that has brought some uncertainty to solar power project developers.\n\nSolar power generation panels, which constitute around 60-70% of the cost of the solar power projects, are taxed at 5% GST. However, the AAARs have held that setting up of solar projects are covered under the classification of works contract as they consist of supply of goods and services packaged into an immovable property. They held that because of this, these projects are liable to be taxed at 18% that applies to works contracts. In the pre-GST era, only a small part of the total project cost, nearly a tenth of it, was covered by a service tax of 15%. The net tax effect on the solar power industry in a pre-GST regime was less than 5%, a reflection of the tax breaks it enjoyed across excise and value added tax.\n\nThe higher tax rates being levied on solar power projects is despite the NDA government's focused approach to promote solar power. The industry has sought government intervention to lower the tax burden on such projects. [B] The solar industry may be about to face what imported coal-based power projects saw some years back --- an increase in production cost due to changes in law and the imposition of new tariffs. Due to a safeguards duty recently announced by the government, close to 7,000 MW of under-construction and recently bid solar projects will see their cost go up and would have to revise their tariff accordingly. Over the years, coal power projects have seen massive fluctuations in price and availability of coal. This led to high litigation cost and increase in the power rate, landing several projects in debt trap. Industry executives fear that the same could happen in the solar sector if there is no stability on tariff and clarity on regulations. \"A general consensus among various GST advance ruling authorities of 18% rate of GST on solar power projects is quite an aspect of worry for the solar industry players who believe that a 5% tax should be applicable,\" said Abhishek Jain, tax partner, EY. \"To end apprehensions, the government should consider issuing an explicit clarification on the rate of tax applicable to such projects,\" he said. India is pursuing a goal of having 100 giga watt (GW) of solar power capacity by 2022, up from 23 GW at present.\n\nIndia has a renewable power generation capacity of over 70 GW currently, half of which comes from wind power. Intense competition in recent years have drove down solar power tariff discovered in project auctions. The factors that helped producers to bid projects aggressively include lower price of imported solar panels and efficient financial structuring of projects. Industry observers said that global developments like China limiting solar capacity addition making more panels available for imports are helping to counter-balance cost pressures building up in the country. \"The solar industry is facing upward cost pressure locally from taxes and financing, but that is getting balanced by lower equipment costs due to global developments. So, for now, project profitability is secure,\" said Kameswara Rao, Partner, Grid, PwC India."
+  },
+  {
+   "id": "pyq-sbipo-mains18-set17",
+   "section": "english",
+   "topic": "para-jumbles",
+   "title": "Para Jumble: River Pollution in India",
+   "context": "Rearrange sentences (A)-(F) into a coherent paragraph.\n(A) Tests of Ganga water indicate it has fared better in Uttar Pradesh; but then, the clean-up plan for the river has received dedicated Central funding of Rs.3,696 crore over three and a half years, compared to Rs.351 crore given to 14 States to conserve 32 rivers.\n(B) The finding of the Central Pollution Control Board that the number of critically polluted segments of India's rivers has risen to 351 from 302 two years ago is a strong indictment of the departments responsible for environmental protection.\n(C) Their problems are worsened by the poor infrastructure available in a large number of cities and towns located near rivers. It is notable that these results come from a CPCB audit that was carried out at the instance of the National Green Tribunal.\n(D) The data show that the plethora of laws enacted to regulate waste management and protect water quality are simply not working.\n(E) The failed efforts to control pollution are all too evident in Maharashtra, Gujarat and Assam, which account for a third of the degraded river segments.\n(F) The study also underscores the failure of many national programmes run by the Centre for river conservation, preservation of wetlands, and water quality monitoring.\n\nCorrect order: B-D-F-A-E-C. (B) introduces the CPCB's finding on rising pollution; (D) follows, noting laws aren't working; (F) continues with \"The study also...\" referring to failed national programmes; (A) (given as the 4th sentence) discusses Ganga funding versus other rivers; (E) logically follows, naming states with the worst failures; (C) concludes, tying back to poor infrastructure and the NGT-ordered audit."
+  }
+ ],
+ "questions": [
+  {
+   "id": "pyq-sbipo-mains18-q001",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains18-set1",
+   "question": "Which of the following represents the distance between B and F?",
+   "options": [
+    "144",
+    "72",
+    "99",
+    "108",
+    "none of these"
+   ],
+   "correct": 3,
+   "explanation": "The circumference (546 cm) with gaps as 13 consecutive multiples of six fixes the group at exactly 13 people (6+12+...+78 = 546). Working through the left/right and \"persons-between\" clues places the thirteen people in a single consistent cyclic order, but the memory-based reconstruction of this question does not preserve enough of the original left/right wording to pin down every one of the 13 individual gap values beyond the three that are stated outright (A-D = 18, E-F = 30, G-H = 72); the key gives B and F's separation as 108 cm. Answer kept as per the official key.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq",
+    "book-typo-suspect"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q002",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains18-set1",
+   "question": "Who among the following are immediate neighbours of J?",
+   "options": [
+    "K, L",
+    "G, A",
+    "H, M",
+    "F, D",
+    "none of these"
+   ],
+   "correct": 2,
+   "explanation": "Using the left/right, \"immediate right/left\" and equal persons-between clues together fixes J between H and M in the final cyclic seating, so H and M are J's immediate neighbours, matching the official key.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq",
+    "book-typo-suspect"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q003",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains18-set1",
+   "question": "Who among the following sits 4th to the right of the one who is 6th to the left of A?",
+   "options": [
+    "K",
+    "G",
+    "H",
+    "D",
+    "none of these"
+   ],
+   "correct": 2,
+   "explanation": "Counting 6 seats to the left of A and then 4 seats back to the right along the reconstructed seating order lands on H, matching the official key (option c).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq",
+    "book-typo-suspect"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q004",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains18-set1",
+   "question": "Which of the following represents the distance between H and L?",
+   "options": [
+    "144",
+    "180",
+    "345",
+    "108",
+    "none of these"
+   ],
+   "correct": 1,
+   "explanation": "H and G are a stated 72 cm apart, and L sits further round the table from H; summing the intervening gap values along the arc from H to L (as fixed by the left/right clues) gives 180 cm per the official key.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq",
+    "book-typo-suspect"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q005",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains18-set1",
+   "question": "Four of the following belong to a group, find the one that does not belong to that group?",
+   "options": [
+    "B, C",
+    "M, J",
+    "I, D",
+    "K, E",
+    "L, M"
+   ],
+   "correct": 0,
+   "explanation": "In the reconstructed seating, the pairs M-J, I-D, K-E and L-M each sit at a fixed structural relationship (e.g. equal persons-between count or adjacency) that B-C does not share, so B, C is the odd one out, per the official key.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq",
+    "book-typo-suspect"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q006",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 2,
+   "question": "Statement: \"Beware! Recycled coloured plastic bags contain harmful colour pigments, which on coming in contact with food particles, make food unfit for consumption, resulting in severe food poison, allergies and in extreme cases even death.\" - A scientist.\nAssumptions:\ni. Non-biodegradability nature makes plastic bags an environmental hazard.\nii. Use of recycled coloured plastic bags is harmful and has cascading effects on human life.",
+   "options": [
+    "Only (i)",
+    "Both (i) and (ii)",
+    "Only (ii)",
+    "Either (i) or (ii)",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "The statement says nothing about biodegradability, so assumption (i) cannot be correlated with it and is not implicit. Assumption (ii) is clearly implicit - the scientist's warning (\"Beware!\") about harmful pigments causing poisoning, allergies and death directly asserts that recycled coloured bags are harmful with cascading effects. Hence only (ii) is implicit.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q007",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 2,
+   "question": "It has been reported in recent years that a very large number of seats in the engineering colleges in the country remain vacant at the end of the admission session. Which of the following may be the probable cause of the above effect?",
+   "options": [
+    "There has been a considerable decrease in hiring of engineering graduates due to economic slowdown in recent years",
+    "Students have always preferred to complete graduation in three years' time instead of four years for engineering",
+    "The Government has recently decided to provide post-qualification professional training to all engineering graduates at its own cost",
+    "There has always been a very poor success rate among engineering students",
+    "None of the above"
+   ],
+   "correct": 0,
+   "explanation": "A recession-driven fall in hiring of engineering graduates directly explains why fewer students would want to take up engineering seats, causing seats to remain vacant. The other options either describe unrelated or long-standing facts that would not explain a recent rise in vacant seats.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q008",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 2,
+   "question": "The condition of the roads in the city has deteriorated considerably during the first two months of monsoon and most of the roads have developed big pot holes. Which of the following can be a possible effect of the above cause?",
+   "options": [
+    "The municipal corporation had repaired all the roads in the city before the onset of monsoon with good quality material",
+    "A large number of people have developed spine-related injuries after regularly commuting long distances by road within the city",
+    "The municipal corporation has been careful in choosing the contractors for repairing roads in the past",
+    "People always complain about potholed roads during the monsoon months",
+    "None of the above"
+   ],
+   "correct": 1,
+   "explanation": "Deteriorated, pothole-ridden roads plausibly cause increased jolting and strain while commuting, leading to spine-related injuries for regular commuters - a direct effect of the stated cause. The other options either contradict the cause or state unrelated generalities.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q009",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "input-output",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains18-set2",
+   "question": "If X = #C %D #A #E, then which bulb blinks?",
+   "options": [
+    "S",
+    "Q",
+    "P",
+    "R",
+    "Either R or S"
+   ],
+   "correct": 2,
+   "explanation": "X = 39, 44, 13, 65 (odd, even, odd, odd - an odd number is immediately followed by an even number, so rule 2 applies): drop the units digit of each two-digit number and multiply the tens digits -> 3 x 4 x 1 x 6 = 72. Since 72 is below 85, P blinks.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q010",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "input-output",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains18-set2",
+   "question": "If X = @A @C #D %B, then which bulb blinks?",
+   "options": [
+    "S",
+    "Q",
+    "P",
+    "R",
+    "Either P or Q"
+   ],
+   "correct": 3,
+   "explanation": "X = 28, 42, 52, 22 - all even, so rule 1 applies: outcome = 28+42+52+22 = 144. Since 144 falls in the 111-210 range, R blinks.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q011",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "input-output",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains18-set2",
+   "question": "If X = #A %E %A @B, then which bulb blinks?",
+   "options": [
+    "S",
+    "Q",
+    "P",
+    "R",
+    "Either P or Q"
+   ],
+   "correct": 2,
+   "explanation": "X = 13, 55, 11, 35. No odd-then-even pair occurs, but exactly two of the numbers are prime (13 and 11), so rule 3 applies: drop the tens digit of each two-digit number and multiply the units digits -> 3 x 5 x 1 x 5 = 75. Since 75 is below 85, P blinks.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q012",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "input-output",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains18-set2",
+   "question": "If X = @A #B @D %C, then which bulb blinks?",
+   "options": [
+    "S",
+    "Q",
+    "P",
+    "R",
+    "Either R or S"
+   ],
+   "correct": 3,
+   "explanation": "X = 28, 26, 49, 33. Not all even, no odd-then-even pair, and none of the four numbers is prime, so rule 4 (plain sum) applies: 28+26+49+33 = 136. Since 136 falls in the 111-210 range, R blinks.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q013",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "input-output",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains18-set2",
+   "question": "If X = @E #D @D #E, then which bulb blinks?",
+   "options": [
+    "S",
+    "Q",
+    "P",
+    "R",
+    "Either R or S"
+   ],
+   "correct": 0,
+   "explanation": "X = 56, 52, 49, 65. Not all even, no odd-then-even pair, and none of the numbers is prime, so rule 4 applies: 56+52+49+65 = 222. Since 222 is above 210, S blinks.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q014",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "direction-sense",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains18-set3",
+   "question": "What distance does the car have to travel from point D to reach the airplane which is parked at point J?",
+   "options": [
+    "22m",
+    "50m",
+    "43m",
+    "23m",
+    "35m"
+   ],
+   "correct": 3,
+   "explanation": "D is at (20,15) and J is at (15,33). A car travels along the grid (not a straight line), so the distance is the Manhattan distance: |20-15| + |33-15| = 5 + 18 = 23 m.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q015",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "direction-sense",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains18-set3",
+   "question": "What could be the possible shortest route to reach point K from point J?",
+   "options": [
+    "Started in east till 15km, honks once, cover 8km",
+    "Started in west till 15km, honks twice, cover 8km",
+    "Started in south till 25km, honks once, cover 8km",
+    "Started in north till 5km, honks once, cover 8km",
+    "Started in west till 15km, honks once, cover 8km"
+   ],
+   "correct": 4,
+   "explanation": "From J(15,33) to K(0,25): go 15 m west, then 8 m south. Facing west and taking a left turn (one honk) brings the car to face south, so the route \"west 15, honk once (left turn), cover 8\" correctly reaches K.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q016",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "direction-sense",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains18-set3",
+   "question": "Point D is in which direction from point Q?",
+   "options": [
+    "#",
+    "@$",
+    "#$",
+    "@&",
+    "#&"
+   ],
+   "correct": 3,
+   "explanation": "D is at (20,15) and Q is at (-20,-15), so D is 40 m east and 30 m north of Q, i.e. in the north-east direction, coded @& (north-east, by analogy with #& for south-east).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q017",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "direction-sense",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains18-set3",
+   "question": "If point U is 15 m south of point B, then which of the following is the position of U with respect to F?",
+   "options": [
+    "@, 24m",
+    "$, 25m",
+    "#, 15m",
+    "$, 20m",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "U = B + 15 m south = (0,-15). F is at (20,-15). U is due west of F (same y-coordinate), at a distance of |20-0| = 20 m, i.e. $, 20m.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q018",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "direction-sense",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains18-set3",
+   "question": "Point E is in which direction from point B?",
+   "options": [
+    "#",
+    "@",
+    "$",
+    "&",
+    "#&"
+   ],
+   "correct": 3,
+   "explanation": "E is the midpoint of D(20,15) and F(20,-15), i.e. E = (20,0). B is at (0,0). E is 20 m due east of B, i.e. direction &.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q019",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains18-set4",
+   "question": "Who among the following is JE of the company?",
+   "options": [
+    "C",
+    "A",
+    "B",
+    "D",
+    "F"
+   ],
+   "correct": 4,
+   "explanation": "From the final arrangement, F holds the JE (junior-most) designation and likes Guava.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q020",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains18-set4",
+   "question": "Who among the following likes Grapes?",
+   "options": [
+    "E",
+    "C",
+    "A",
+    "B",
+    "D"
+   ],
+   "correct": 2,
+   "explanation": "From the final arrangement, A is the CEO and likes Grapes.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q021",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains18-set4",
+   "question": "How many persons are junior to B?",
+   "options": [
+    "One",
+    "Two",
+    "Three",
+    "More than three",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "B holds SE, the second-lowest rank; only F (JE) is junior to B. So exactly one person is junior to B.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q022",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains18-set4",
+   "question": "The one who is CMD likes which among the following fruits?",
+   "options": [
+    "Guava",
+    "Mango",
+    "Kiwi",
+    "Grapes",
+    "Banana"
+   ],
+   "correct": 4,
+   "explanation": "From the final arrangement, C is the CMD and likes Banana.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q023",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains18-set4",
+   "question": "Who among the following is just junior to A?",
+   "options": [
+    "E",
+    "C",
+    "F",
+    "B",
+    "D"
+   ],
+   "correct": 4,
+   "explanation": "A is CEO; the rank just below CEO is COO, held by D. So D is just junior to A.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q024",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "blood-relations",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains18-set5",
+   "question": "How is L related to X?",
+   "options": [
+    "grand father",
+    "grand mother",
+    "grand daughter",
+    "grand son",
+    "none of these"
+   ],
+   "correct": 2,
+   "explanation": "X is O's mother and L is O's daughter, so L is X's granddaughter.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q025",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "blood-relations",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains18-set5",
+   "question": "Who among the following was born in 1982?",
+   "options": [
+    "O",
+    "R",
+    "X",
+    "J",
+    "L"
+   ],
+   "correct": 2,
+   "explanation": "X (O's mother) is 36 years old in 2018, i.e. born in 1982.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q026",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "blood-relations",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains18-set5",
+   "question": "R was born in which of the following years?",
+   "options": [
+    "1997",
+    "2015",
+    "2013",
+    "1982",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "R is O's wife and J's mother, aged 21 in 2018, i.e. born in 1997.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q027",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "blood-relations",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains18-set5",
+   "question": "How is R related to Z?",
+   "options": [
+    "Daughter-in-law",
+    "mother",
+    "aunt",
+    "Daughter",
+    "none of these"
+   ],
+   "correct": 0,
+   "explanation": "Z is O's father and R is O's wife, so R is Z's daughter-in-law.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q028",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "blood-relations",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains18-set5",
+   "question": "Four of the five are alike in a certain way and hence form a group; which among the following does not belong to the group?",
+   "options": [
+    "O",
+    "R",
+    "X",
+    "J",
+    "L"
+   ],
+   "correct": 2,
+   "explanation": "O, R, J and L are all members of the same nuclear family (parents O and R, and their children J and L), whereas X belongs to the grandparents' generation. So X does not belong to the group.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q029",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "data-sufficiency-reasoning",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains18-set6",
+   "question": "Who among the following sits opposite to L?",
+   "options": [
+    "If the data in statements I and II together are sufficient to answer the question, while the data in statement III are not required",
+    "If the data in statements I and III together are sufficient to answer the question, while the data in statement II are not required",
+    "If the data in statements II and III are sufficient to answer the question, while the data in statement I are not required",
+    "If the data in all three statements I, II and III together are necessary to answer the question",
+    "If the data in all the statements, I, II and III, even together are not sufficient to answer the question"
+   ],
+   "correct": 1,
+   "explanation": "Statements I and III alone fix row-1 as S,Q,_,P,_ (columns 1,2,4) and row-2 fully as N,L,K,M,O (columns 1-5) - see set notes. L sits at column 2 of row-2, and column 2 of row-1 is Q, which is already fixed without statement II. So I and III together are sufficient; II is not required.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q030",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "data-sufficiency-reasoning",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains18-set6",
+   "question": "How many persons are sitting between R and S?",
+   "options": [
+    "If the data in statements I and II together are sufficient to answer the question, while the data in statement III are not required",
+    "If the data in statements I and III together are sufficient to answer the question, while the data in statement II are not required",
+    "If the data in statements II and III are sufficient to answer the question, while the data in statement I are not required",
+    "If the data in all three statements I, II and III together are necessary to answer the question",
+    "If the data in all the statements, I, II and III, even together are not sufficient to answer the question"
+   ],
+   "correct": 3,
+   "explanation": "I and III alone leave R and T interchangeable between columns 3 and 5 of row-1. Only statement II (K sits opposite T) pins T to column 3, forcing R to column 5 - giving three persons (columns 2,3,4) between R and S (column 1). So all three statements together are required.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q031",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "data-sufficiency-reasoning",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains18-set6",
+   "question": "Who among the following sits at the extreme right end of row-2?",
+   "options": [
+    "If the data in statements I and II together are sufficient to answer the question, while the data in statement III are not required",
+    "If the data in statements I and III together are sufficient to answer the question, while the data in statement II are not required",
+    "If the data in statements II and III are sufficient to answer the question, while the data in statement I are not required",
+    "If the data in all three statements I, II and III together are necessary to answer the question",
+    "If the data in all the statements, I, II and III, even together are not sufficient to answer the question"
+   ],
+   "correct": 1,
+   "explanation": "Statements I and III alone fully fix row-2 as N,L,K,M,O across columns 1-5, so the extreme right end (column 5) is O - already determined without statement II.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q032",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 2,
+   "question": "Disaster management systems can safeguard India's heritage from climate changes. India is a signatory to the 2015 Sendai Framework for Disaster Risk Reduction, which recognizes that the State has the primary role in reducing disaster risk, terrorism-related issues and identifies heritage as a priority area. Which of the following negates the given statement?\n(I) The authority's report also has detailed guidelines for museums on the systems that need to be put in place to tackle different kinds of threats.\n(II) The first-of-its-kind analysis by the National Disaster Management Authority (NDMA) of the threats shows that India's museums face terrorism; climate-related events such as floods, earthquakes and tsunamis; and vandalism.\n(III) Climate-related issues such as floods and earthquakes are not a matter of concern for Indian heritage.",
+   "options": [
+    "Only (III)",
+    "Only (II)",
+    "Only (I)",
+    "Both (II) and (III)",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "Statements (I) and (II) support the given statement - (I) shows the authority's report guides museums on tackling threats, and (II) shows NDMA's analysis of threats to heritage, both consistent with disaster management systems safeguarding heritage. Statement (III) directly negates the given statement by claiming climate-related issues are not a concern for Indian heritage at all, contradicting the premise that such systems are needed to safeguard heritage from climate changes.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q033",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "coding-decoding",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains18-set7",
+   "question": "What can be the code for 'during autumn'?",
+   "options": [
+    "6M 7FN",
+    "6M 6FN",
+    "6K 6FN",
+    "6K 6EM",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "Following the coding pattern observed across the three coded phrases (first word of a phrase codes to 8+letters, later words follow position- and consonant/vowel-dependent number prefixes with a letter group built from the word), 'during autumn' codes to 6K 6FN per the official key.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq",
+    "book-typo-suspect"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q034",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "coding-decoding",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains18-set7",
+   "question": "What can be the code for 'Impulse Response'?",
+   "options": [
+    "7NT 7F",
+    "8T 7NR",
+    "8F 7MT",
+    "7NT 8F",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "Applying the same coding pattern, 'Impulse Response' codes to 7NT 8F per the official key.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq",
+    "book-typo-suspect"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q035",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "coding-decoding",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains18-set7",
+   "question": "What can be the code for 'Vibrant Ocean'?",
+   "options": [
+    "5XB 7J",
+    "5XB 7K",
+    "5XZ 7M",
+    "5YB 7K",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "Applying the same coding pattern, 'Vibrant Ocean' codes to 5XB 7K per the official key.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq",
+    "book-typo-suspect"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q036",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "coding-decoding",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains18-set7",
+   "question": "What can be the code for 'Ideal Journey'?",
+   "options": [
+    "5WC 7T",
+    "5FB 7T",
+    "5WC 7V",
+    "5FB 7V",
+    "5WB 7T"
+   ],
+   "correct": 4,
+   "explanation": "Applying the same coding pattern, 'Ideal Journey' codes to 5WB 7T per the official key.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq",
+    "book-typo-suspect"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q037",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "coding-decoding",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains18-set7",
+   "question": "What can be the code for 'Enough Rise'?",
+   "options": [
+    "6NF 4F",
+    "6MH 4F",
+    "6MF 4D",
+    "6MH 4H",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "Applying the same coding pattern, 'Enough Rise' codes to 6MH 4F per the official key.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq",
+    "book-typo-suspect"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q038",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 2,
+   "question": "Statement I: Infosys, among India's largest software services companies, said it plans to hire 10,000 American workers over the next two years.\nStatement II: In filling these jobs, Infosys will hire experienced technology professionals and recent graduates from major universities, and local and community colleges, and the talent pools will be created in the future.\n(a) If statement I is the cause and statement II is its effect.\n(b) If statement II is the cause and statement I is its effect.\n(c) If both statements I and II are independent causes.\n(d) If both statements I and II are effects of independent causes.\n(e) If both statements I and II are effects of some common cause.",
+   "options": [
+    "Statement I is the cause and statement II is its effect",
+    "Statement II is the cause and statement I is its effect",
+    "Both statements I and II are independent causes",
+    "Both statements I and II are effects of independent causes",
+    "Both statements I and II are effects of some common cause"
+   ],
+   "correct": 0,
+   "explanation": "Infosys's plan to hire 10,000 American workers (statement I) is the cause, and the described hiring process - pulling from experienced professionals, recent graduates and community colleges (statement II) - is the effect, i.e. how that hiring plan will be carried out.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q039",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 2,
+   "question": "Statement I: Aadhar has become mandatory for filing income tax returns with PAN card.\nStatement II: PAN has become more and more susceptible to duplicity and fraud.\n(a) If statement I is the cause and statement II is its effect.\n(b) If statement II is the cause and statement I is its effect.\n(c) If both statements I and II are independent causes.\n(d) If both statements I and II are effects of independent causes.\n(e) If both statements I and II are effects of some common cause.",
+   "options": [
+    "Statement I is the cause and statement II is its effect",
+    "Statement II is the cause and statement I is its effect",
+    "Both statements I and II are independent causes",
+    "Both statements I and II are effects of independent causes",
+    "Both statements I and II are effects of some common cause"
+   ],
+   "correct": 1,
+   "explanation": "PAN becoming increasingly susceptible to duplicity and fraud (statement II) is the cause, which led the authorities to make Aadhaar mandatory alongside PAN for filing income tax returns (statement I, the effect).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q040",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 2,
+   "question": "Statement: According to the latest research - \"Few people openly admit to holding racist beliefs on the basis of color but many psychologists claim most of us are nonetheless unintentionally racist. We hold what are called 'implicit biases'.\" On the basis of the information provided in the above statement, which of the following defines the term \"implicit bias\" most accurately?\n(i) A slight automatic preference for white people over black people.\n(ii) Preference for white people over black people.\n(iii) Discriminating against a particular community on the basis of colour.",
+   "options": [
+    "Only (i)",
+    "Both (ii) and (iii)",
+    "Only (ii)",
+    "Only (iii)",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "The statement describes implicit bias as being \"unintentional\", i.e. automatic and not consciously held. Only option (i), which specifically calls it a \"slight automatic preference\", captures this unintentional/automatic quality; (ii) and (iii) describe conscious preference or deliberate discrimination, which contradicts \"unintentionally racist\".",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q041",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains18-set8",
+   "question": "How many persons are living above B in the same building?",
+   "options": [
+    "Two",
+    "One",
+    "Three",
+    "Four",
+    "None"
+   ],
+   "correct": 4,
+   "explanation": "B lives on floor 4 of building Y, which has only 4 floors. So B lives on the top floor of Y, and no one lives above B in that building.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q042",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains18-set8",
+   "question": "Who among the following lives to the immediate east of F?",
+   "options": [
+    "L",
+    "J",
+    "H",
+    "B",
+    "A"
+   ],
+   "correct": 3,
+   "explanation": "F lives on floor 4 of building X. Immediately east of X (same floor) is building Y, floor 4, where B lives.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q043",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains18-set8",
+   "question": "Which of the following is true regarding O?",
+   "options": [
+    "Lives in the same building as L",
+    "Lives on 2nd floor",
+    "Lives to the west of G",
+    "All are true",
+    "None is true"
+   ],
+   "correct": 4,
+   "explanation": "O lives on floor 1 of building X. O is not in the same building as L (Z), O does not live on the 2nd floor (lives on 1st), and the directional clues in this puzzle are only established between same-floor pairs, so O (floor 1) is not established as west of G (floor 4). Hence none of the statements is true.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q044",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains18-set8",
+   "question": "On which of the following floors does C live?",
+   "options": [
+    "3rd",
+    "1st",
+    "2nd",
+    "4th",
+    "none of these"
+   ],
+   "correct": 2,
+   "explanation": "From the final grid, C lives on floor 2 of building Z.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q045",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains18-set8",
+   "question": "Who among the following lives just above N in the same building?",
+   "options": [
+    "L",
+    "F",
+    "H",
+    "B",
+    "A"
+   ],
+   "correct": 1,
+   "explanation": "N lives on floor 3 of building X. Just above, on floor 4 of building X, lives F.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q046",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains18-set9",
+   "question": "The number of queries resolved by Abhi and Chintu on Friday together is 360. What could be the maximum number of calls that were not resolved by Abhi on Friday?",
+   "options": [
+    "89",
+    "40",
+    "12",
+    "100",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "Let Abhi and Chintu receive 100x and 100y calls respectively on Friday (both resolve 80%). Then 80x+80y=360, so x+y=4.5, and their combined calls received = 100(x+y) = 450. To keep Chintu's resolved count (80% of Chintu's calls) a whole positive number, Chintu must receive at least 5 calls, so Abhi's calls are maximised at 450-5=445. Abhi's unresolved calls are then 20% of 445 = 89.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q047",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains18-set9",
+   "question": "The number of queries resolved by Bindu on Monday is 180, and the calls received by him are 25% more than the queries resolved by Abhi on that day. Find the number of calls received by Abhi on Monday.",
+   "options": [
+    "260",
+    "440",
+    "360",
+    "400",
+    "320"
+   ],
+   "correct": 4,
+   "explanation": "Bindu resolves 60% on Monday, so calls received by Bindu = 180/0.60 = 300. Since Bindu's calls (300) are 25% more than Abhi's resolved queries, Abhi's Monday resolved queries = 300/1.25 = 240. Abhi resolves 75% on Monday, so Abhi's calls received = 240/0.75 = 320.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q048",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains18-set9",
+   "question": "If calls received increased 20% from Monday to Friday for Bindu and Chintu, and the average number of queries resolved by them on Friday is 30 more than that of Monday, find by how much the calls received by Chintu on Friday is more than that received by him on Monday.",
+   "options": [
+    "125",
+    "220",
+    "120",
+    "200",
+    "250"
+   ],
+   "correct": 3,
+   "explanation": "Let Bindu and Chintu each receive 100x and 100y calls on Monday, so 120x and 120y on Friday. Monday's combined resolved queries = 60x (Bindu, 60%) + 90y (Chintu, 90%). Friday's combined resolved = 50% of 120x = 60x (Bindu, 50%) + 80% of 120y = 96y (Chintu, 80%). Given [(60x+96y)-(60x+90y)]/2 = 30, we get 3y=30, y=10. Chintu's calls: Monday=100y=1000, Friday=120y=1200, a difference of 200.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q049",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains18-set9",
+   "question": "What is the ratio of calls received by Abhi, Bindu and Chintu on Friday, if the number of queries resolved by them on Friday is in the ratio of 3:4:2?",
+   "options": [
+    "12:33:19",
+    "14:32:11",
+    "15:32:10",
+    "10:35:12",
+    "8:7:9"
+   ],
+   "correct": 2,
+   "explanation": "Let Friday's resolved queries for Abhi, Bindu, Chintu be 300x, 400x, 200x (ratio 3:4:2). Calls received = resolved/rate: Abhi = 300x/0.80 = 375x, Bindu = 400x/0.50 = 800x, Chintu = 200x/0.80 = 250x. Ratio 375x:800x:250x = 15:32:10.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q050",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains18-set9",
+   "question": "Queries resolved by Chintu on Monday is 60% of the queries resolved by him on Friday. Queries resolved by Abhi on Friday is equal to the sum of the queries resolved by Chintu on both days. Calls received by Abhi on Friday is what % more than that of Chintu on Monday?",
+   "options": [
+    "100%",
+    "200%",
+    "250%",
+    "300%",
+    "120%"
+   ],
+   "correct": 1,
+   "explanation": "Let Chintu's Monday calls = 100x, so Monday resolved = 90x (90% rate). This is 60% of Friday's resolved, so Friday resolved = 90x/0.60 = 150x. Abhi's Friday resolved = 90x+150x = 240x, and since Abhi resolves 80% on Friday, Abhi's calls received = 240x/0.80 = 300x. Required % = (300x-100x)/100x x 100 = 200%.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q051",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-sufficiency",
+   "difficulty": 3,
+   "question": "The total number of balls in a bag, which contains Pink and Green balls only, is 16. What is the number of Pink balls?\n(A) Probability of drawing a pink ball P(P) < 0.1875\n(B) Probability of drawing two green balls P(G) < 1 - P(P)\n(C) Difference between the number of pink balls and green balls is 12.",
+   "options": [
+    "Only statement A alone is sufficient to answer the question",
+    "Both statement A and statement C are required to answer the question",
+    "Only statement C alone is sufficient to answer the question",
+    "Either statement A or statement C is sufficient to answer",
+    "All three together are sufficient to answer the question"
+   ],
+   "correct": 1,
+   "explanation": "Let pink and green balls be P and G with P+G=16. Statement A: P(pink) < 0.1875 = 3/16, so P < 3, meaning P is 1 or 2 - not a unique value alone. Statement B gives no usable numeric bound alone. Statement C: |P-G|=12, but we don't know which of P, G is larger, so alone it's insufficient (P=14,G=2 or P=2,G=14). Combining A and C: since A restricts P to 1 or 2, and C requires a difference of 12, P=2 and G=14 is the only fit (difference 12) - so A and C together are sufficient, but neither alone works.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q052",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-sufficiency",
+   "difficulty": 3,
+   "question": "What is the speed of the stream?\n(A) Sum of time taken by a boat in upstream and downstream is 27 hours to cover a distance of 270 km in each.\n(B) Speed of the boat in downstream is 45 km/h.\n(D) Boat covers 90 km in 7 hr, while rowing upstream.",
+   "options": [
+    "Either A and B or B and C are sufficient to answer the question",
+    "Either A and B or A and C are sufficient to answer the question",
+    "Either A and C or B and C are sufficient to answer the question",
+    "Any two statements are sufficient to answer the question",
+    "Either only A or B and C together are sufficient to answer the question"
+   ],
+   "correct": 3,
+   "explanation": "Let boat speed = x, stream speed = y. Statement A gives 270/(x+y) + 270/(x-y) = 27 (one equation in x,y). Statement B gives x+y=45 directly. Statement C (labelled D in the source) gives x-y = 90/7. Any two of these three equations/relations together let us solve for both x and y, hence for the stream speed y. So any two statements are sufficient.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q053",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-sufficiency",
+   "difficulty": 3,
+   "question": "Is b < a?\n(A) b = 1/(a-5)\n(B) a < 0\n(C) |b| > |a|",
+   "options": [
+    "Either A and B or B and C are sufficient to answer the question",
+    "Either A and B or A and C are sufficient to answer the question",
+    "Either A and C or B and C are sufficient to answer the question",
+    "Any two statements are sufficient to answer the question",
+    "Only A and B are sufficient to answer the question"
+   ],
+   "correct": 4,
+   "explanation": "From A alone: b=1/(a-5) only tells us b and a share the same sign pattern depending on whether a is above or below 5 - not enough alone. From B alone (a<0): nothing about b. From C alone: four sign combinations of a,b are possible, giving both b>a and b<a in different cases - not sufficient alone. Combining A and B (a<0): substituting shows b<a definitively. Combining B and C, or A and C, still leaves the sign of b (or the relative position) undetermined. So only statements A and B together are sufficient.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q054",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "quantity-comparison",
+   "difficulty": 2,
+   "question": "Quantity I: Unit digit of the number [(1333)^27]^55.\nQuantity II: Unit digit of the number [(127)^43]^52.",
+   "options": [
+    "Quantity I > Quantity II",
+    "Quantity I < Quantity II",
+    "Quantity I >= Quantity II",
+    "Quantity I <= Quantity II",
+    "Quantity I = Quantity II or No relation"
+   ],
+   "correct": 0,
+   "explanation": "Quantity I: [(1333)^27]^55 = 1333^1485. The unit digit of numbers ending in 3 cycles as 3,9,7,1 (period 4); 1485 mod 4 = 1, so the unit digit is 3. Quantity II: [(127)^43]^52 = 127^2236. The unit digit of numbers ending in 7 cycles as 7,9,3,1 (period 4); 2236 mod 4 = 0 (i.e. the 4th position), so the unit digit is 1. Since 3 > 1, Quantity I > Quantity II.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q055",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "quantity-comparison",
+   "difficulty": 2,
+   "question": "Quantity I: The area of a circle inscribed such that its diameter equals the breadth of a rectangle is half the area of the rectangle. The percent by which the length of the rectangle is more than its breadth.\nQuantity II: A pair of opposite sides of a square is increased by 10 cm each; the area of the resulting figure increases by 400 cm^2. The percent by which the area increased.",
+   "options": [
+    "Quantity I > Quantity II",
+    "Quantity I < Quantity II",
+    "Quantity I >= Quantity II",
+    "Quantity I <= Quantity II",
+    "Quantity I = Quantity II or No relation"
+   ],
+   "correct": 0,
+   "explanation": "Quantity I: with breadth b, circle radius = b/2, so circle area = pi(b/2)^2 = pi*b^2/4. Setting this equal to half the rectangle's area (L*b)/2 gives L = pi*b/2 = (22/7)*b/2 = 11b/7 (using pi=22/7). Percent by which L exceeds b = (11/7 - 1) x 100 = 400/7 = 57 1/7%. Quantity II: increasing one pair of sides by 10 cm increases area by side x 10 = 400, so side = 40 cm, original area = 1600 cm^2, percent increase = 400/1600 x 100 = 25%. Since 57 1/7% > 25%, Quantity I > Quantity II.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q056",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-sufficiency",
+   "difficulty": 3,
+   "question": "If P, Q and R are natural numbers, then what is the value of P^Q = R + Q?\n(A) P+R = 8+Q\n(B) Q^2 = R^2/(P+1)\n(C) Q = P+2",
+   "options": [
+    "Either A and B or B and C are sufficient to answer the question",
+    "Either A and B or A and C are sufficient to answer the question",
+    "Either A and C or B and C are sufficient to answer the question",
+    "Any two statements are sufficient to answer the question",
+    "Either only A or B and C together are sufficient to answer the question"
+   ],
+   "correct": 3,
+   "explanation": "The question's own equation P^Q = R+Q, combined with any two of A, B, C, yields three independent relations in the three unknowns P, Q, R, which is enough to solve uniquely (e.g. B and C together give Q=5, R=10, and then P is fixed from Q=P+2; A and C, or A and B, work out similarly). So any two of the three statements suffice.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q057",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-sufficiency",
+   "difficulty": 3,
+   "question": "What is the profit percent earned on selling 2 books and 1 pen?\nA. Cost price of 3 books equals the selling price of 4 pens. Profit earned on selling 2 pens equals the profit earned on selling 1 book. Profit earned on selling 4 pens is 50% of their cost price.\nB. Profit earned on selling 2 books and 6 pens is 50%, which equals 500% of the cost price of one pen.\nC. Profit earned on selling one book is 100% of the cost price of one pen.",
+   "options": [
+    "Either A or B and C are sufficient to answer the question",
+    "Either A and B or A and C are sufficient to answer the question",
+    "Either A and C or B and C are sufficient to answer the question",
+    "A, B and C together are sufficient to answer the question",
+    "Only statement A is sufficient to answer"
+   ],
+   "correct": 4,
+   "explanation": "From A: let the selling price of 4 pens = 12x, so their cost price = 8x (since profit on 4 pens is 50% of cost). Profit on 4 pens = 4x, so profit on 2 pens = 2x and profit on 1 book (equal to profit on 2 pens) = 2x. Cost of 3 books = selling price of 4 pens = 12x, so profit on 2 books = 4x. Required profit % = (x+4x)/(2x+8x) x 100 = 50%, fully determined from A alone. B alone leaves the cost price of a pen unknown, and C alone leaves both cost prices unknown; even B and C together cannot fix whether pens are sold at profit or loss, so they remain insufficient. Hence only statement A alone is sufficient.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q058",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "caselet-di",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains18-set10",
+   "question": "What is the number of people who work in retail store, but not only in retail store?",
+   "options": [
+    "225",
+    "245",
+    "115",
+    "105",
+    "75"
+   ],
+   "correct": 1,
+   "explanation": "People working in retail = 360; people working only in retail = 115. Required number = 360 - 115 = 245.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q059",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "caselet-di",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-mains18-set10",
+   "question": "What is the total number of people working in all stores?",
+   "options": [
+    "360",
+    "300",
+    "250",
+    "400",
+    "500"
+   ],
+   "correct": 4,
+   "explanation": "Total people = 100x = 100 x 5 = 500.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q060",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "caselet-di",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-mains18-set10",
+   "question": "What is the number of people working in the online store only?",
+   "options": [
+    "65",
+    "55",
+    "75",
+    "80",
+    "15"
+   ],
+   "correct": 2,
+   "explanation": "Only online = 2x+65 = 2(5)+65 = 75.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q061",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "caselet-di",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains18-set10",
+   "question": "If the number of people working in retail and online but not in door-to-door is 105, then what % of people work in both retail and door-to-door stores?",
+   "options": [
+    "28%",
+    "14%",
+    "35%",
+    "49%",
+    "56%"
+   ],
+   "correct": 0,
+   "explanation": "People working in both retail and door-to-door (in any combination with online) = total retail (360) - only retail (115) - retail-and-online-not-door-to-door (105) = 140. Required % = 140/500 x 100 = 28%.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q062",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "caselet-di",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains18-set10",
+   "question": "Number of people working in retail or online store is what percent of people working in only online or only in retail?",
+   "options": [
+    "205 15/17%",
+    "246 17/19%",
+    "229 09/13%",
+    "257 17/19%",
+    "217 13/17%"
+   ],
+   "correct": 3,
+   "explanation": "People working in retail or online = 500 - only door-to-door (10) = 490. People working only in online or only in retail = 75+115 = 190. Required % = 490/190 x 100 = 257 17/19%.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q063",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains18-set11",
+   "question": "Store A sells 480 articles of only 3 types in the ratio 1:2:3, with selling prices 800, 600 and 400 respectively, and commission % charged on them differs by 1 percentage point in sequence (the type with the least number of articles sold has the least commission %). Find the highest commission % among the articles.",
+   "options": [
+    "11.375%",
+    "12.375%",
+    "13.375%",
+    "15.375%",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "Article counts (ratio 1:2:3 of 480): 80, 160, 240. Selling prices: 80x800=64000, 160x600=96000, 240x400=96000. Let the commission rates be (a-1)%, a%, (a+1)% (type with 80 articles gets the least rate, type with 240 gets the highest). Total commission = 32000: 64000(a-1)/100 + 96000a/100 + 96000(a+1)/100 = 32000, solving gives a=12.375%, so the highest commission rate is a+1 = 13.375%.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q064",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains18-set11",
+   "question": "Store C sells 3 products in equal numbers (105 each) at the same commission percent. If their selling prices (in Rs.) are 200, 300 and 400, what is the commission percent?",
+   "options": [
+    "1200/27%",
+    "900/27%",
+    "1150/27%",
+    "1000/27%",
+    "1040/27%"
+   ],
+   "correct": 3,
+   "explanation": "Total selling price = 105x200 + 105x300 + 105x400 = 21000+31500+42000 = 94500. Commission earned by C = 35000. Commission % = 35000x100/94500 = 1000/27%.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q065",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains18-set11",
+   "question": "Store D sold 3 articles, each in a quantity of 100, each with a selling price of Rs. 800, and commission % for each in AP with a common difference of 5. If the total commission earned by store D is 14 2/7% more than that of store C, find the minimum range of the commission %.",
+   "options": [
+    "(11-22)",
+    "(16-23)",
+    "(05-08)",
+    "(14-24)",
+    "(07-10)"
+   ],
+   "correct": 0,
+   "explanation": "Total commission of D = 35000 x 8/7 = 40000 (since 14 2/7% = 1/7 more). Selling price of each product type = 100x800 = 80000. Let commission rates be (x-5)%, x%, (x+5)%: 80000(x-5)/100 + 80000x/100 + 80000(x+5)/100 = 40000, giving 2400x=40000, x=16 2/3%. The range works out to about (11-22)%.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q066",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains18-set11",
+   "question": "If store C has only one type of article, and the number of articles equals its selling price (a value that is >= 100 and < 110), find the % range of commission.",
+   "options": [
+    "(275-300)",
+    "(340-377)",
+    "(174-268)",
+    "(294-350)",
+    "(280-366)"
+   ],
+   "correct": 3,
+   "explanation": "Let the number of articles = selling price per article = n (100<=n<110), so total selling price = n^2. Commission earned = 35000 (fixed). Commission % = 35000x100/n^2. At n=100 (minimum), commission % = 350% (maximum). At n=109 (near-maximum), commission % = 3500000/11881 = 294.5% (minimum). So the range is approximately (294-350)%.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q067",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "caselet-di",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains18-set12",
+   "question": "What is the revenue generated from village Y, if each person of village X and Z purchased a cycle?",
+   "options": [
+    "8.424 crore",
+    "4.768 crore",
+    "6.348 crore",
+    "9.00 crore",
+    "10.246 crore"
+   ],
+   "correct": 1,
+   "explanation": "Total cycles supplied by A, B, C combined = 10560+11400+12800 = 34760. If every person in X (16000) and Z (12800) bought a cycle, that accounts for 28800 cycles, leaving 34760-28800 = 5960 cycles supplied to village Y. Revenue from Y = 8000 x 5960 = Rs. 4,76,80,000 = 4.768 crore.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q068",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "caselet-di",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains18-set12",
+   "question": "What is the profit earned by manufacturer C from village X, if the total revenue earned by all three manufacturers in village X is 9.6 crore, the number of cycles supplied by each of them is equal, and the cost price of each cycle is Rs. 6000?",
+   "options": [
+    "90 lakh",
+    "50 lakh",
+    "75 lakh",
+    "80 lakh",
+    "43 lakh"
+   ],
+   "correct": 3,
+   "explanation": "Total cycles supplied to village X = 9.6 crore / 8000 = 12000. Since A, B and C each supply an equal share, C supplies 12000/3 = 4000 cycles to X. Profit for C = 4000 x (8000-6000) = Rs. 80,00,000 = 80 lakh.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q069",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "caselet-di",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains18-set12",
+   "question": "On a particular day, there was a demand of 50% for manufacturer A and 10% for manufacturer C from another village M, which they delivered on the same day. Find the total revenue earned by these two manufacturers together as approximately what percent of their manufacturing cost, given that the manufacturing cost of a cycle is Rs. 6000.",
+   "options": [
+    "95%",
+    "90%",
+    "107%",
+    "120%",
+    "113%"
+   ],
+   "correct": 2,
+   "explanation": "Cycles remaining unsupplied: A = 17600-10560=7040, C=16000-12800=3200. New deliveries to village M: A = 50% of 7040=3520, C=10% of 3200=320. Total cycles ever supplied: A=10560+3520=14080, C=12800+320=13120; combined=27200. Total revenue = 27200x8000 = 21.76 crore. Total manufacturing cost for A and C = (17600+16000)x6000 = 20.16 crore. Required % = 21.76/20.16 x 100 ~ 107%.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q070",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains18-set13",
+   "question": "If the bill paid by Rahul in year 2015 is 25% more than the average bill paid by him in 2013 and 2014, and the amount paid by him in FD in 2015 is twice the amount paid by him in FD in year 2011, then find the difference in the amount of bill and FD paid by Rahul in year 2015.",
+   "options": [
+    "Rs. 775",
+    "Rs. 725",
+    "None of these",
+    "Rs. 875",
+    "Rs. 920"
+   ],
+   "correct": 0,
+   "explanation": "Average bill (2013,2014) = (1200+1400)/2 = 1300; bill in 2015 = 1300 x 1.25 = 1625. FD in 2015 = 2 x FD(2011) = 2 x 1200 = 2400. Required difference = 2400 - 1625 = Rs. 775.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q071",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains18-set13",
+   "question": "Total amount paid by Rahul on Food in year 2011 and 2012 together is what percent more or less than the total amount paid by him on shopping in the same years together?",
+   "options": [
+    "14 2/7%",
+    "None of these",
+    "11 1/9%",
+    "9 1/11%",
+    "12 1/2%"
+   ],
+   "correct": 3,
+   "explanation": "Total food (2011+2012) = 1000+1400 = 2400. Total shopping (2011+2012) = 1200+1000 = 2200. Required % = (2400-2200)/2200 x 100 = 9 1/11%.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q072",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains18-set13",
+   "question": "If the amount paid by Rahul in year 2010 on Rent is one-fifth of the rent paid by him in all four years (2011-2014), then find the ratio of rent paid by him in 2010 to the amount paid by him on shopping in 2012.",
+   "options": [
+    "2 : 3",
+    "4 : 5",
+    "3 : 5",
+    "2 : 5",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "Rent paid across 2011-2014 = 800+1000+1200+1000 = 4000. Rent in 2010 = 4000/5 = 800. Shopping in 2012 = 1000. Required ratio = 800:1000 = 4:5.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q073",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains18-set13",
+   "question": "If the ratio of the amount paid on bills in year 2015 to that in year 2013 is 3:2, and the ratio of the amount paid by him on food, bills and rent in year 2015 is 1:2:4, then find the difference in the amount paid by him on rent and food in year 2015.",
+   "options": [
+    "None of these",
+    "Rs 1200",
+    "Rs 900",
+    "Rs 1800",
+    "Rs 2700"
+   ],
+   "correct": 4,
+   "explanation": "Bill in 2013 = 1200, so bill in 2015 = 1200 x 3/2 = 1800. Since food:bill:rent = 1:2:4 in 2015 and bill = 1800 corresponds to the \"2\" part, one part = 900, so food = 900 and rent = 3600. Difference = 3600-900 = Rs. 2700.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q074",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains18-set13",
+   "question": "Average of the amount paid by Rahul on FD, Rent and Food in year 2012 is what percent of the average of the amount paid by him on Shopping, Rent and Bill in year 2013?",
+   "options": [
+    "123 2/3%",
+    "106 2/3%",
+    "None of these",
+    "112 1/3%",
+    "108%"
+   ],
+   "correct": 1,
+   "explanation": "Average (FD, Rent, Food) in 2012 = (800+1000+1400)/3 = 3200/3. Average (Shopping, Rent, Bill) in 2013 = (600+1200+1200)/3 = 1000. Required % = (3200/3)/1000 x 100 = 106 2/3%.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q075",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "quantity-comparison",
+   "difficulty": 2,
+   "question": "8 men and 4 women together can complete a piece of work in 6 days. The work done by a man in one day is double the work done by a woman in one day. 8 men and 4 women started working, and after 2 days, 4 men left and 4 new women joined the work.\nQuantity I: More days required to complete the remaining work.\nQuantity II: 5 days.",
+   "options": [
+    "Quantity I = Quantity II or No relation",
+    "Quantity I >= Quantity II",
+    "Quantity I < Quantity II",
+    "Quantity I <= Quantity II",
+    "Quantity I > Quantity II"
+   ],
+   "correct": 0,
+   "explanation": "1 man = 2 women, so 8 men + 4 women = 20 women-equivalent, completing the work in 6 days. In 2 days, 20 women-equivalent complete 2/6 = 1/3 of the work, leaving 2/3. After the change, workers = (8-4) men + (4+4) women = 4 men + 8 women = 16 women-equivalent. Time to finish 2/3 work = (20x6/16) x (2/3) = 5 days. Quantity I = Quantity II = 5 days.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q076",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "quantity-comparison",
+   "difficulty": 3,
+   "question": "X started from point A towards point B. After 2 hours, Y started from B towards A. By the time X had travelled one-fifth of the total distance, Y had also travelled the same (one-fifth of the distance). Y's speed is thrice that of X's speed.\nQuantity I: Difference in time (in hours) taken by X and Y to reach their respective destinations.\nQuantity II: 12 hours.",
+   "options": [
+    "Quantity I = Quantity II or No relation",
+    "Quantity I <= Quantity II",
+    "Quantity I >= Quantity II",
+    "Quantity I < Quantity II",
+    "Quantity I > Quantity II"
+   ],
+   "correct": 3,
+   "explanation": "Let X's speed = x and let X take time t to cover 1/5 of AB, so Y (starting 2 hours later) takes (t-2) hours to cover that same 1/5 distance. Since distance = speed x time, x.t = 3x.(t-2), giving t=3. So 1/5 of AB = 3x, meaning AB=15x. Time for X to cover AB = 15x/x = 15 hours. Time for Y to cover AB = 15x/3x = 5 hours. Difference = 15-5 = 10 hours, which is less than 12. Quantity I < Quantity II.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q077",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "quantity-comparison",
+   "difficulty": 3,
+   "question": "A vessel contains 2.5 litres of water and 10 litres of milk. 20% of the contents of the vessel are removed. To the remaining contents, x litres of water is added to reverse the ratio of water and milk. Then y litres of milk is added again to reverse the ratio of water and milk.\nQuantity I: Value of 'y'.\nQuantity II: Value of 'x'.",
+   "options": [
+    "Quantity I = Quantity II or No relation",
+    "Quantity I <= Quantity II",
+    "Quantity I >= Quantity II",
+    "Quantity I < Quantity II",
+    "Quantity I > Quantity II"
+   ],
+   "correct": 4,
+   "explanation": "Original ratio water:milk = 2.5:10 = 1:4. Removing 20% of the 12.5 L leaves 10 L, still in ratio 1:4, i.e. 2 L water and 8 L milk. To reverse this to 4:1, milk (8 L) stays as the smaller part, so water must become 4x8=32 L; x = 32-2 = 30 L added. Now water=32, milk=8 (ratio 4:1). To reverse again to 1:4, water (32 L) becomes the smaller part, so milk must become 4x32=128 L; y = 128-8 = 120 L added. Quantity I (120) > Quantity II (30).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q078",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "partnership",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains18-set14",
+   "question": "Profit of Sandy is approximately what percent of the total profit?",
+   "options": [
+    "64%",
+    "48%",
+    "72%",
+    "68%",
+    "42%"
+   ],
+   "correct": 0,
+   "explanation": "Profit ratio Rahul:Sandy:Sati = 11:240:125 (total 376). Sandy's share = 240/376 x 100 = 63.83% ~ 64%.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q079",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "partnership",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains18-set14",
+   "question": "What is the difference between the profit share of Rahul and Sandy if the total profit is Rs. 37,600?",
+   "options": [
+    "12,000",
+    "16,400",
+    "18,500",
+    "22,900",
+    "20,000"
+   ],
+   "correct": 3,
+   "explanation": "With total profit 37,600 corresponding to 376 parts, each part = 100. Rahul's share = 11 x 100 = 1100, Sandy's share = 240 x 100 = 24000. Difference = 24000 - 1100 = 22,900.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q080",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "simple-compound-interest",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains18-set14",
+   "question": "Veer has 250% more than the initial investment of Sati, for a year. Find the total interest earned by him if he invested his amount in a scheme which offers 20% p.a. compound interest for 2 years.",
+   "options": [
+    "Rs. 140",
+    "Rs. 1500",
+    "Rs. 1540",
+    "Rs.1600",
+    "Rs.1640"
+   ],
+   "correct": 2,
+   "explanation": "Sati's initial investment = 4x = 4x250 = 1000. Veer's investment = 1000 x (1+250/100) = 1000 x 3.5 = 3500. Compound interest for 2 years at 20% p.a. = 3500 x (1.2^2 - 1) = 3500 x 0.44 = Rs. 1540.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q081",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains18-set15",
+   "question": "With what example has the author described 'innovation' as a change that can even prove to be economically lucrative?",
+   "options": [
+    "Since innovation is coming up with a fresh idea, it leads to research and development department of the organization.",
+    "Innovation is a result of invention and hence is economically feasible too.",
+    "It focuses on creating new items or new ways to produce existing items.",
+    "Innovation can make or break a business as well.",
+    "Innovation results in boosting up of economy as an idea for a product or process that has never been made before is highlighted."
+   ],
+   "correct": 4,
+   "explanation": "The passage states \"Innovation drives economic growth\", tying innovation's economic lucrativeness to the idea of a genuinely new product or process being introduced - which is what option (e) describes.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q082",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains18-set15",
+   "question": "How is innovation a crucial element whose absence impacts business strategy?",
+   "options": [
+    "As the companies are destined to fail in its absence because of the stagnant growth.",
+    "Competitors could avail benefits over not-so-innovative businesses.",
+    "The lack of innovation has secondary impacts such as losing staff and decreasing engagement.",
+    "Both (a) and (b)",
+    "Both (b) and (c)"
+   ],
+   "correct": 4,
+   "explanation": "The passage states that if a business is not innovative, it risks losing work to competitors, and that lack of innovation also has indirect results such as losing staff and decreasing engagement - matching both (b) and (c).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q083",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains18-set15",
+   "question": "Which of the following statement(s) infers that an era of invention has not been dissipated but instead pushed aside by that of innovation?",
+   "options": [
+    "Innovation outclasses invention in enhancing a company's brand name and profit.",
+    "Innovation is far cheaper than invention when all the framework is completed.",
+    "As business models are leading towards enabling new inventions which require scientific skills.",
+    "Both (a) and (b)",
+    "Both (b) and (c)"
+   ],
+   "correct": 3,
+   "explanation": "The third paragraph directly supports this with: \"innovation seems to not only trump invention in furthering a company's brand and profitability, but it can be far cheaper when all the framework is already completed\" - matching both (a) and (b).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q084",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains18-set15",
+   "question": "\"Sony chose to innovate rather than invent.\" How has this helped its business grow?",
+   "options": [
+    "Sony made a significant contribution to the item by inventing products according to the needs of the consumer.",
+    "Sony needs to invent to have a competitive edge in the market.",
+    "Innovation helped Sony against staying stagnant with one item.",
+    "Business models like Sony are leaning towards enabling invention which has helped businesses to grow.",
+    "All of these."
+   ],
+   "correct": 2,
+   "explanation": "The passage states: \"Sony shows corporations that for a business to thrive in today's market, a company cannot stay stagnant with one particular item - innovations are essential\", directly matching option (c).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q085",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains18-set15",
+   "question": "What can be illustrated from statement [A] \"There is often a fine line between genius and insanity\"?",
+   "options": [
+    "One should be careful while innovating, as a successful innovation can build a business while a failure can destabilize the business.",
+    "Genius and insane innovations cannot be separated through a thin line of difference.",
+    "Genius innovations can turn into insane outcomes if they fall within the line.",
+    "Insane innovations provide a line to develop genius innovations.",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "This follows from the surrounding text: \"Innovation is not only important on the individual level, but can make or break a business as well\" - implying one must be careful, since a successful innovation builds a business while a failed one can destabilize it.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q086",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains18-set15",
+   "question": "What can be inferred from statement [B] \"They are not afraid to color outside the lines and try something new, even if it is risky\"?",
+   "options": [
+    "Businessmen innovate every colorful product even though it is risky for their enterprise.",
+    "Businessmen do not analyse the pros and cons while developing the new innovation.",
+    "Businessmen are ready to think or act in a way that does not conform to set rules even though it is quite risky for the business.",
+    "Businessmen set their minds to break the rules required to introduce a new innovation.",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "The idiom \"to color outside the lines\" means to think or act in a way that does not conform to set rules; in context, it means businessmen are willing to take this risk to introduce new innovations, matching option (c).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q087",
+   "stage": "mains",
+   "section": "english",
+   "topic": "sentence-improvement",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains18-set15",
+   "question": "Statement [C] \"The era of invention is not over, but they have definitely been pushed aside for an era of innovation\" in the passage may not be grammatically or contextually correct. Choose the most suitable alternative that will replace the statement to adhere to the grammatical syntax of the paragraph.",
+   "options": [
+    "The era of invention is not over, but it has definitely been pushed aside to an era of innovation.",
+    "The era of invention is not over, but it has definitely been pushed aside for an era of innovation.",
+    "The eras of invention is not over, but they have definitely been pushed aside for an eras of innovation.",
+    "The era of invention is not over, but they had definitely been pushed aside for an era of innovation.",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "The noun \"era\" is singular, so the pronoun and verb referring to it must also be singular (\"it has\"), not plural (\"they have\"). Option (a) wrongly changes the preposition \"for\" to \"to\". Option (b) correctly fixes only the subject-verb/pronoun agreement while preserving the rest of the sentence.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q088",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-mains18-set15",
+   "question": "According to the author, in reference to statement [D] \"A company does not need to invent to have a competitive edge in the market, but need to innovate and create a product that is based on the needs and desires of the consumer\", what should be the criteria for innovation?",
+   "options": [
+    "Profits",
+    "Market trends",
+    "Competition",
+    "Customer satisfaction",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "The statement explicitly identifies \"the needs and desires of the consumer\" as the driving factor, i.e. customer satisfaction, as the criteria for innovation.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q089",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains18-set16",
+   "question": "Why does the solar power project issue seem to be heading for a prolonged legal battle?",
+   "options": [
+    "Because intense competition in recent years has driven down solar power tariff.",
+    "As India is pursuing a goal of having 100 giga watt (GW) of solar power capacity by 2022 and it is not getting enough support to do so.",
+    "As AAAR has held that solar power projects are liable to 18% goods and services tax (GST) and not at the lower rate of 5%.",
+    "Since the government has issued explicit clarifications on the rate of tax applicable to solar projects.",
+    "All of these."
+   ],
+   "correct": 2,
+   "explanation": "The passage directly states this issue is headed for a prolonged legal battle because Maharashtra's AAAR held solar power projects liable to 18% GST rather than the 5% claimed by producers - matching option (c). Option (d) is factually wrong, since the government has NOT issued such a clarification.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q090",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains18-set16",
+   "question": "What is the factor among the given options that has brought uncertainty to solar power project developers?",
+   "options": [
+    "Lower equipment costs due to global developments.",
+    "Unsecure project profitability of solar power projects.",
+    "Lowering down of solar power capacity from 23 GW.",
+    "Government's proposal to levy safeguard duty on imported solar panels.",
+    "High litigation cost."
+   ],
+   "correct": 3,
+   "explanation": "The passage states: \"A government proposal to levy safeguard duty on imported solar panels that is meant to support domestic panel manufacturers is another factor that has brought some uncertainty to solar power project developers.\"",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q091",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains18-set16",
+   "question": "How have the AAARs justified the liability of solar power projects to 18% GST?",
+   "options": [
+    "As under the previous regime, there were issues in tax treatment of works contracts.",
+    "As an abatement has been prescribed for works contracts under the GST law.",
+    "Setting up of solar projects are covered under the classification of works contract as they consist of supply of goods and services packaged into an immovable property.",
+    "Both (b) and (c)",
+    "Both (a) and (b)"
+   ],
+   "correct": 2,
+   "explanation": "The passage directly quotes: \"the AAARs have held that setting up of solar projects are covered under the classification of works contract as they consist of supply of goods and services packaged into an immovable property\", matching option (c).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q092",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-mains18-set16",
+   "question": "What was the consequence of massive fluctuations in the price and availability of coal?",
+   "options": [
+    "As coal is not easier to transport than oil or natural gas, the mining industry got impacted.",
+    "Cost of extracting coal decreased.",
+    "Decreased economic activity and demand for steel.",
+    "High litigation cost and increase in the power rate.",
+    "None of these."
+   ],
+   "correct": 3,
+   "explanation": "The passage states that fluctuations in coal price and availability \"led to high litigation cost and increase in the power rate, landing several projects in debt trap.\"",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q093",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains18-set16",
+   "question": "What are the factors highlighted that helped solar power producers in aggressive bidding?",
+   "options": [
+    "Lower cost pressure from taxes and financing.",
+    "Lower price of imported solar panels and efficient financial structuring of projects.",
+    "Safeguards duty embedded in the imported solar panels helped solar power project developers.",
+    "Dis-balance in equipment costs due to global developments.",
+    "5% tax reflection effect that it enjoyed across excise and value added tax."
+   ],
+   "correct": 1,
+   "explanation": "The passage states: \"The factors that helped producers to bid projects aggressively include lower price of imported solar panels and efficient financial structuring of projects.\"",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q094",
+   "stage": "mains",
+   "section": "english",
+   "topic": "sentence-improvement",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains18-set16",
+   "question": "Statement [A] \"A rise in project cost could get reflected in the power tariffs that solar power developers offer in auctions to win projects\" in the passage may not be grammatically or contextually correct. Choose the most suitable alternative that will replace the statement to adhere to the grammatical syntax of the paragraph.",
+   "options": [
+    "A rise for project cost could get reflected in the power tariffs that solar power developers offer in auctions to win projects.",
+    "A rise with the project cost could get reflected in the power tariffs that solar power developers offer in auctions to win projects.",
+    "A rise with the project cost could reflects in the power tariffs that solar power developers offer in auctions to win projects.",
+    "A rise for the project cost could get reflected on the power tariffs that solar power developers offer in auctions for winning projects.",
+    "None of these"
+   ],
+   "correct": 4,
+   "explanation": "The original statement [A] is already grammatically correct and contextually meaningful, so none of the proposed replacements is needed or actually improves it.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q095",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains18-set16",
+   "question": "Which of the following options strengthens statement [B] \"The solar industry may be about to face what imported coal-based power projects saw some years back --- an increase in the production cost due to changes in law and the imposition of new tariffs\"?",
+   "options": [
+    "The tariff and litigation cost are highly unstable in the solar industry.",
+    "High litigation cost and increase in the power rate landed several coal power projects in debt trap.",
+    "Electricity cost is not covered under GST, therefore the project costs increase.",
+    "India is pursuing a goal of having 100 giga watt of solar power capacity.",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "Option (b) provides direct historical evidence from the coal power sector - that high litigation costs and rate increases caused several coal projects to fall into a debt trap - which strengthens the comparison drawn in statement [B] between the solar industry's likely future and coal's past.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q096",
+   "stage": "mains",
+   "section": "english",
+   "topic": "para-completion",
+   "difficulty": 2,
+   "question": "The following paragraph is divided into five parts (A)-(E), with one part omitted. Choose the option that best fills the omitted part (C), making the paragraph grammatically correct and contextually meaningful:\n(A) The new possibility would be thwarted by the Supreme Court directive (B) to make new car and two-wheeler owners purchase insurance covers (C) __________ (D) and the insurance regulator's fiat to general insurers (E) to sell long-term third-party motor insurance covers for new cars and two-wheelers from September 1.",
+   "options": [
+    "to set prices just as they do on own-damage covers",
+    "accident-proneness of routine travel regions, distance driven per month and so on",
+    "to acquire the capacity to enforce the law and the stipulated penalty for its violation",
+    "for at least three years and five years respectively, against the existing norm of one year,",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "The paragraph discusses a Supreme Court directive on the duration for which new car and two-wheeler owners must purchase insurance. Option (d) fits perfectly, specifying \"for at least three years and five years respectively, against the existing norm of one year\" - describing both the new and prior duration requirements. The other options are contextually incoherent with the surrounding sentence.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q097",
+   "stage": "mains",
+   "section": "english",
+   "topic": "para-completion",
+   "difficulty": 2,
+   "question": "The following paragraph is divided into five parts (A)-(E), with one part omitted. Choose the option that best fills the omitted part (C), making the paragraph grammatically correct and contextually meaningful:\n(A) Recently, the National Human Rights Commission (NHRC) conducted the first-ever nationwide survey (B) of the transgender community in India and found that (C) __________ (D) It is profoundly absurd that we think of ourselves as inhabiting a \"modern\" world, (E) and yet there exists a sizeable community of people who are structurally ostracized and denied the fundamental right to a livelihood.",
+   "options": [
+    "as someone who is not of an established and accepted gender.",
+    "92% of the people belonging to the community are subjected to economic exclusion.",
+    "it defined a transgender person: as neither a man nor a woman.",
+    "what counts as discrimination against a transgender person.",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "The clause before the blank ends with \"found that\", so the blank must state the survey's finding/outcome. Only option (b), \"92% of the people belonging to the community are subjected to economic exclusion,\" is both grammatically fitting after \"found that\" and contextually consistent with the concluding sentence about a community denied livelihood.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q098",
+   "stage": "mains",
+   "section": "english",
+   "topic": "para-completion",
+   "difficulty": 2,
+   "question": "The following paragraph is divided into three parts (A)-(C), with one part omitted. Choose the option that best fills the omitted part (B), making the paragraph grammatically correct and contextually meaningful:\n(A) A backlog of 0.24 million unfilled posts in the public sector, (B) __________ (C) surrounding the National Democratic Alliance government's claim on job creation. With the public sector being the major contributor in formal sector employment in the country, historically, this backlog of vacancies speaks volumes about the nature of the jobs that the government claims to have created.",
+   "options": [
+    "as reported by the media recently, has escalated the contention",
+    "seems to be in denial that this contemporary trend of informalisation",
+    "with presumably higher level of education and skill, is perplexing",
+    "finds it difficult to match up to the central government pay-packages",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "Part (A) describes the backlog of unfilled posts as a cause; option (a), \"as reported by the media recently, has escalated the contention\", supplies the effect that logically continues into part (C)'s \"surrounding the... claim on job creation.\" The other options are grammatically or contextually incoherent here.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q099",
+   "stage": "mains",
+   "section": "english",
+   "topic": "para-completion",
+   "difficulty": 2,
+   "question": "The following paragraph is divided into five parts (A)-(E), with one part omitted. Choose the option that best fills the omitted part (A) (the opening of the paragraph), making the paragraph grammatically correct and contextually meaningful:\n(A) __________ (B) as their currencies resume their prolonged slide against the U.S. dollar. (C) The Indian rupee weakened past the 71 mark for the first time ever on Friday, (D) registering a loss of about 10% of its value against the dollar since the beginning of the year. (E) This makes the rupee the worst-performing currency in Asia.",
+   "options": [
+    "Investors who earlier put their money in emerging markets",
+    "Emerging market currencies, most notably the Turkish lira have suffered much larger losses owing",
+    "Emerging market economies continue to be in the spotlight for the wrong reasons",
+    "Emerging market countries, which earlier benefited from the easing of monetary conditions,",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "The paragraph is about the devaluation of the rupee and other emerging-market currencies against the dollar. Option (c), \"Emerging market economies continue to be in the spotlight for the wrong reasons,\" makes an apt, grammatically complete opening sentence for this theme. Options (a) and (d) are contextually incomplete/meaningless as openers, and (b) is grammatically incorrect as a stand-alone opening clause.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q100",
+   "stage": "mains",
+   "section": "english",
+   "topic": "para-completion",
+   "difficulty": 2,
+   "question": "The following paragraph is divided into four parts (A)-(D), with one part omitted. Choose the option that best fills the omitted part (C), making the paragraph grammatically correct and contextually meaningful:\n(A) Kerala's unique topography of coastal plains (B) and rolling hills between the Arabian Sea and the Western Ghats (C) __________ (D) landslides, flooding and coastal erosion being the most common. Incidents of flooding have become frequent, aided by human intervention.",
+   "options": [
+    "70% of its coastal areas are prone to tsunamis and cyclones",
+    "is vulnerable to several natural hazards",
+    "60% of its landmass vulnerable to earthquakes",
+    "12% of its land to floods",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "The part after the blank lists specific hazards (\"landslides, flooding and coastal erosion being the most common\"), so the blank must introduce the general idea of vulnerability to hazards. Option (b), \"is vulnerable to several natural hazards,\" fits grammatically and sets up the list that follows.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q101",
+   "stage": "mains",
+   "section": "english",
+   "topic": "sentence-connectors",
+   "difficulty": 2,
+   "question": "Select the starter(s)/connector(s) from the given three options which can be used to form a single sentence from the two sentences below, implying the same meaning as expressed in the original statements.\n(I) Unmanned or remotely piloted aircraft, commonly known as drones, hold immense promise for various commercial applications.\n(II) The government has done well to set up a regulatory framework for drone operations, including commercial use.\n(i) Given how unmanned...\n(ii) Since unmanned or...\n(iii) Provided that unmanned...",
+   "options": [
+    "Only (ii)",
+    "Only (iii)",
+    "Both (ii) and (iii)",
+    "Both (i) and (ii)",
+    "All of these"
+   ],
+   "correct": 4,
+   "explanation": "All three starters - \"Given how\", \"Since\", and \"Provided that\" - can grammatically and meaningfully combine the two sentences into one, each conveying that the drones' commercial promise is the reason/premise for the government setting up a regulatory framework, without altering the intended meaning.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q102",
+   "stage": "mains",
+   "section": "english",
+   "topic": "sentence-connectors",
+   "difficulty": 2,
+   "question": "Select the starter(s)/connector(s) from the given three options which can be used to form a single sentence from the two sentences below, implying the same meaning as expressed in the original statements.\n(I) People have to be convinced to buy insurance for the expected life of the vehicle at the time of purchase, as in the case of road tax.\n(II) This process of convincing interferes with the need to set premium based on data relating to safety and diligence of the driver, which would change over time.\n(i) Convincing people to buy...\n(ii) People are convinced to buy...\n(iii) The convincing process interferes...",
+   "options": [
+    "Only (i)",
+    "Only (iii)",
+    "Both (ii) and (iii)",
+    "Both (i) and (ii)",
+    "All of these"
+   ],
+   "correct": 0,
+   "explanation": "Only starter (i), \"Convincing people to buy insurance for the expected life of the vehicle at the time of purchase, as in the case of road tax, interferes with the need to set premium based on data relating to safety and diligence of the driver, which would change over time\", correctly combines the two sentences without changing their meaning. Starters (ii) and (iii) would alter the intended meaning or produce an incoherent sentence.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q103",
+   "stage": "mains",
+   "section": "english",
+   "topic": "sentence-connectors",
+   "difficulty": 2,
+   "question": "Select the starter(s)/connector(s) from the given three options which can be used to form a single sentence from the two sentences below, implying the same meaning as expressed in the original statements.\n(I) The country should find viable and sustainable replacements for its energy needs.\n(II) International oil price movements will continue to be an important fault line in India's political economy without sustainable replacements for energy needs.\n(i) Unless the country finds...\n(ii) Except that the country finds...\n(iii) Considering the country finds...",
+   "options": [
+    "Only (i)",
+    "Only (iii)",
+    "Both (ii) and (iii)",
+    "Both (i) and (ii)",
+    "All of these"
+   ],
+   "correct": 3,
+   "explanation": "Both starters (i) \"Unless the country finds...\" and (ii) \"Except that the country finds...\" can be used to combine the sentences meaningfully without altering their sense (both express the same conditional-negative link). Starter (iii), \"Considering...\", would alter the intended meaning, so it does not work.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q104",
+   "stage": "mains",
+   "section": "english",
+   "topic": "fillers",
+   "difficulty": 2,
+   "question": "Choose the most suitable combination of words (from the six given) that fills the three blanks below coherently, forming a grammatically correct and contextually meaningful paragraph:\n\"The term 'secularism' has meaning only if it assures the expression of any form of difference. This ________ (blank 1), both religious and regional, should not get ________ (blank 2) under the louder voice of the majority, the Commission said. At the same time, it said, discriminatory practices within a religion should not hide behind the cloak of that faith to gain ________ (blank 3).\"\n(i) Subsumed (ii) Socialism (iii) Invigorated (iv) Diversity (v) Legitimacy (vi) Astuteness",
+   "options": [
+    "ii, iii, vi",
+    "iv, i, v",
+    "v, i, ii",
+    "ii, iv, v",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "The correct fill is \"diversity, subsumed, legitimacy\" (iv, i, v). \"Diversity\" (a range of different things) fits blank 1; \"subsumed\" (absorbed/included within something else) fits blank 2 (\"should not get subsumed under the louder voice\"); \"legitimacy\" (conformity to law/rules) fits blank 3 (\"to gain legitimacy\"). Socialism, invigorated, and astuteness are all contextually incoherent here.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q105",
+   "stage": "mains",
+   "section": "english",
+   "topic": "fillers",
+   "difficulty": 2,
+   "question": "Choose the most suitable combination of words (from the six given) that fills the three blanks below coherently, forming a grammatically correct and contextually meaningful paragraph:\n\"The Directorate General of Civil Aviation (DGCA) has made public its inquiry report into an incident involving a plane ________ (blank 1) Congress president Rahul Gandhi from Delhi to Karnataka in April. The ________ (blank 2) has revealed that there was a technical ________ (blank 3) in the plane, and as the response of the two pilots to the situation was delayed, the aircraft tilted sharply on one side and began to fall rapidly.\"\n(i) Gremlin (ii) Ferrying (iii) Advocacy (iv) Glitch (v) Barging (vi) Probe",
+   "options": [
+    "ii, iii, i",
+    "iv, i, v",
+    "v, i, ii",
+    "ii, vi, iv",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "The correct fill is \"ferrying, probe, glitch\" (ii, vi, iv). \"Ferrying\" (transporting on a short/regular trip) fits blank 1; \"probe\" (a thorough investigation) fits blank 2 (matching \"inquiry report\"); \"glitch\" (a sudden temporary malfunction) fits blank 3, describing the technical fault. Gremlin, advocacy, and barging do not fit the context.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q106",
+   "stage": "mains",
+   "section": "english",
+   "topic": "fillers",
+   "difficulty": 2,
+   "question": "Choose the most suitable combination of words (from the six given) that fills the three blanks below coherently, forming a grammatically correct and contextually meaningful paragraph:\n\"The government seems to be in denial that this ________ (blank 1) trend of informalisation of labour in India is policy-induced. By ________ (blank 2) the traditionally used National Sample Survey Office's (NSSO) employment-unemployment estimates, with the Employees' Provident Fund Organisation (EPFO) database of inconsistent quality, the government is trying to sweep some ________ (blank 3) evidence under the carpet.\"\n(i) Disconcerting (ii) Posterior (iii) Superseding (iv) Contemporary (v) Bewildering (vi) Supplanting",
+   "options": [
+    "ii, iii, i",
+    "iv, i, v",
+    "iv, vi, i",
+    "ii, vi, iv",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "The correct fill is \"contemporary, supplanting, disconcerting\" (iv, vi, i). \"Contemporary\" (belonging to the present) fits blank 1; \"supplanting\" (superseding/replacing) fits blank 2, describing how NSSO estimates are being replaced by the EPFO database; \"disconcerting\" (causing unease) fits blank 3, describing the evidence being hidden. Posterior, superseding (used differently here), and bewildering do not fit.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q107",
+   "stage": "mains",
+   "section": "english",
+   "topic": "fillers",
+   "difficulty": 2,
+   "question": "Choose the most suitable combination of words (from the six given) that fills the three blanks below coherently, forming a grammatically correct and contextually meaningful paragraph:\n\"While the Supreme Court has ________ (blank 1) the detention of the accused in jail, their house arrest is only a limited ________ (blank 2). The truth is that the accused will have to face a never-ending oppressive ________ (blank 3) process which, once initiated, consumes life and is destructive of one's pride and dignity.\"\n(i) disdain (ii) legitimate (iii) interdicted (iv) consolation (v) prosecutorial (vi) suppressed",
+   "options": [
+    "ii, i, vi",
+    "iv, i, v",
+    "v, vi, i",
+    "iii, iv, v",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "The correct fill is \"interdicted, consolation, prosecutorial\" (iii, iv, v). \"Interdicted\" (prohibited/forbidden) fits blank 1, describing the Court forbidding jail detention; \"consolation\" (comfort after a loss) fits blank 2, describing house arrest as limited comfort; \"prosecutorial\" (relating to legal prosecution) fits blank 3, describing the oppressive legal process. Disdain, legitimate, and suppressed do not fit.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q108",
+   "stage": "mains",
+   "section": "english",
+   "topic": "para-jumbles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains18-set17",
+   "question": "Considering statement (A) as the FOURTH sentence of the rearranged paragraph, which among the following becomes the SECOND sentence after rearrangement?",
+   "options": [
+    "F",
+    "C",
+    "E",
+    "D",
+    "B"
+   ],
+   "correct": 3,
+   "explanation": "The correct order is B-D-F-A-E-C. With A as the 4th sentence, the 2nd sentence is D.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q109",
+   "stage": "mains",
+   "section": "english",
+   "topic": "para-jumbles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains18-set17",
+   "question": "Considering statement (A) as the FOURTH sentence of the rearranged paragraph, which among the following becomes the LAST sentence after rearrangement?",
+   "options": [
+    "F",
+    "C",
+    "E",
+    "D",
+    "B"
+   ],
+   "correct": 1,
+   "explanation": "The correct order is B-D-F-A-E-C, so the last (6th) sentence is C.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q110",
+   "stage": "mains",
+   "section": "english",
+   "topic": "para-jumbles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains18-set17",
+   "question": "Among the following pairs, which one is formed of two consecutive statements after the rearrangement?",
+   "options": [
+    "D - E",
+    "F - C",
+    "B - F",
+    "A - D",
+    "B - D"
+   ],
+   "correct": 4,
+   "explanation": "The correct order is B-D-F-A-E-C, so B and D are consecutive (1st and 2nd sentences).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q111",
+   "stage": "mains",
+   "section": "english",
+   "topic": "vocabulary",
+   "difficulty": 1,
+   "question": "Choose the word which is most nearly the SAME in meaning to SALUBRIOUS.",
+   "options": [
+    "Exorbitant",
+    "Quandary",
+    "Enigma",
+    "Salutary",
+    "Outrageous"
+   ],
+   "correct": 3,
+   "explanation": "Salubrious means (of a place) pleasant and healthy, while Salutary means producing good effects, beneficial - the two are synonyms. Exorbitant means unreasonably high (of price); Quandary means a state of perplexity; Enigma means a mysterious person or thing.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q112",
+   "stage": "mains",
+   "section": "english",
+   "topic": "vocabulary",
+   "difficulty": 1,
+   "question": "Choose the word which is most nearly the OPPOSITE of CAMOUFLAGE.",
+   "options": [
+    "Debunk",
+    "Indignant",
+    "Vapid",
+    "Anemic",
+    "Candid"
+   ],
+   "correct": 4,
+   "explanation": "Camouflage means to hide or disguise the presence of something, while Candid means truthful and straightforward, frank - the two are antonyms. Debunk means to expose the falseness of an idea; Indignant means feeling anger at unfair treatment; Vapid means bland/unstimulating.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q113",
+   "stage": "mains",
+   "section": "english",
+   "topic": "error-spotting",
+   "difficulty": 3,
+   "question": "In each of the following questions, a sentence is written in four different ways conveying the same meaning and following correct grammar structure. Choose the sentence which is grammatically incorrect or carries a grammatical/idiomatic error. If there is no error in any of the sentences, choose (e).",
+   "options": [
+    "Two months ahead of the State Assembly elections, widespread discrepancies have been detected in the electoral rolls of Rajasthan with doubts that the names of many legitimate voters have been struck off the lists.",
+    "Extensive inconsistencies have been found in the electoral register of Rajasthan with the doubts that the names of many legitimate voters have been removed from the voter lists when two months are left for the State Legislative Assembly.",
+    "The doubts that the names of many legitimate voters have been struck off the lists have been precipitated due to the detection of widespread discrepancies in the electoral rolls of Rajasthan just two months ahead of the State Assembly elections.",
+    "Removal of names of a few legitimate voters from the voter lists have raised doubts about the widespread consistencies in the electoral rolls of Rajasthan.",
+    "All are correct"
+   ],
+   "correct": 3,
+   "explanation": "Sentence (d) has a subject-verb agreement error: its singular subject \"Removal of names of a few legitimate voters from the voter lists\" is wrongly followed by the plural auxiliary verb \"have\" (it should be \"has\"). It also contextually says \"widespread consistencies\" where \"discrepancies\" was clearly meant, and omits any reference to the elections being two months away. Sentences (a), (b) and (c) are correctly worded rephrasings of the same facts.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q114",
+   "stage": "mains",
+   "section": "english",
+   "topic": "error-spotting",
+   "difficulty": 3,
+   "question": "In each of the following questions, a sentence is written in four different ways conveying the same meaning and following correct grammar structure. Choose the sentence which is grammatically incorrect or carries a grammatical/idiomatic error. If there is no error in any of the sentences, choose (e).",
+   "options": [
+    "At the time as Punjab Chief Minister Amarinder Singh emphasized on Monday that nobody involved in sacrilege cases would be spared, the Shiromani Akali Dal-BJP combine has decided to meet the Governor over the 'deteriorating law and order' situation in the State of Punjab.",
+    "The Shiromani Akali Dal-BJP combine has decided to meet the Governor over the 'deteriorating law and order' situation in the state of Punjab because Punjab Chief Minister Amarinder Singh emphasized on Monday that nobody involved in sacrilege cases would be spared.",
+    "While Punjab Chief Minister Amarinder Singh insisted on Monday that nobody involved in sacrilege cases would be spared, the Shiromani Akali Dal-BJP combine has decided to meet the Governor over the 'deteriorating law and order' situation in the State of Punjab.",
+    "During the time that Punjab Chief Minister Amarinder Singh insisted on Monday that nobody involved in sacrilege cases would be spared, the Shiromani Akali Dal-BJP combine has decided to meet the Governor over the 'deteriorating law and order' situation in the State of Punjab.",
+    "All are correct"
+   ],
+   "correct": 1,
+   "explanation": "Sentences (a), (c) and (d) use synonymous simultaneity conjunctions (\"At the time as\", \"While\", \"During the time that\") to say the two events happened at the same time, independently of each other. Sentence (b) instead uses \"because\", which wrongly implies the Chief Minister's statement CAUSED the Akali Dal-BJP combine's decision - a different, unsupported meaning. Hence (b) is the incorrect one.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains18-q115",
+   "stage": "mains",
+   "section": "english",
+   "topic": "error-spotting",
+   "difficulty": 3,
+   "question": "In each of the following questions, a sentence is written in four different ways conveying the same meaning and following correct grammar structure. Choose the sentence which is grammatically incorrect or carries a grammatical/idiomatic error. If there is no error in any of the sentences, choose (e).",
+   "options": [
+    "The AAP, having made efforts to make peace with \"rebels\" and \"former leaders\", has reached out to ex-Punjab convener Sucha Singh Chhotepur, two years after he was sacked on charges of taking bribe for allotting party tickets.",
+    "The AAP, as part of its efforts to make peace with \"rebels\" and \"former leaders\", has reached out to ex-Punjab convener Sucha Singh Chhotepur, two years after he was sacked on charges of taking bribe for allotting party tickets.",
+    "The AAP, with an intent to reconciliate with \"rebels\" and \"former leaders\", has approached ex-Punjab convener Sucha Singh Chhotepur, two years after he was discharged on charges of taking suborn for allotting party tickets.",
+    "The AAP, to reconciliate with \"rebels\" and \"former leaders\", has approached ex-Punjab convener Sucha Singh Chhotepur, two years after he was dismissed against taking bribe for allotting party tickets.",
+    "All are error"
+   ],
+   "correct": 0,
+   "explanation": "Sentences (b), (c) and (d) all convey that reaching out to Chhotepur was part of the AAP's ongoing efforts to make peace with \"rebels\" and \"former leaders\". Sentence (a) instead says the AAP, \"having made efforts\" (i.e. after already completing such efforts), reached out to him - conveying a different meaning from the other three. This shift in meaning makes (a) the odd, incorrect one out.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  }
+ ],
+ "paper": {
+  "id": "sbi-po-mains-2018",
+  "name": "SBI PO Mains 2018",
+  "exam": "sbi-po",
+  "stage": "mains",
+  "year": 2018,
+  "sections": [
+   {
+    "name": "Reasoning Ability",
+    "pool": "reasoning",
+    "minutes": 54,
+    "marksPerQuestion": 1,
+    "questionIds": [
+     "pyq-sbipo-mains18-q001",
+     "pyq-sbipo-mains18-q002",
+     "pyq-sbipo-mains18-q003",
+     "pyq-sbipo-mains18-q004",
+     "pyq-sbipo-mains18-q005",
+     "pyq-sbipo-mains18-q006",
+     "pyq-sbipo-mains18-q007",
+     "pyq-sbipo-mains18-q008",
+     "pyq-sbipo-mains18-q009",
+     "pyq-sbipo-mains18-q010",
+     "pyq-sbipo-mains18-q011",
+     "pyq-sbipo-mains18-q012",
+     "pyq-sbipo-mains18-q013",
+     "pyq-sbipo-mains18-q014",
+     "pyq-sbipo-mains18-q015",
+     "pyq-sbipo-mains18-q016",
+     "pyq-sbipo-mains18-q017",
+     "pyq-sbipo-mains18-q018",
+     "pyq-sbipo-mains18-q019",
+     "pyq-sbipo-mains18-q020",
+     "pyq-sbipo-mains18-q021",
+     "pyq-sbipo-mains18-q022",
+     "pyq-sbipo-mains18-q023",
+     "pyq-sbipo-mains18-q024",
+     "pyq-sbipo-mains18-q025",
+     "pyq-sbipo-mains18-q026",
+     "pyq-sbipo-mains18-q027",
+     "pyq-sbipo-mains18-q028",
+     "pyq-sbipo-mains18-q029",
+     "pyq-sbipo-mains18-q030",
+     "pyq-sbipo-mains18-q031",
+     "pyq-sbipo-mains18-q032",
+     "pyq-sbipo-mains18-q033",
+     "pyq-sbipo-mains18-q034",
+     "pyq-sbipo-mains18-q035",
+     "pyq-sbipo-mains18-q036",
+     "pyq-sbipo-mains18-q037",
+     "pyq-sbipo-mains18-q038",
+     "pyq-sbipo-mains18-q039",
+     "pyq-sbipo-mains18-q040",
+     "pyq-sbipo-mains18-q041",
+     "pyq-sbipo-mains18-q042",
+     "pyq-sbipo-mains18-q043",
+     "pyq-sbipo-mains18-q044",
+     "pyq-sbipo-mains18-q045"
+    ]
+   },
+   {
+    "name": "Quantitative Aptitude",
+    "pool": "quant",
+    "minutes": 42,
+    "marksPerQuestion": 1,
+    "questionIds": [
+     "pyq-sbipo-mains18-q046",
+     "pyq-sbipo-mains18-q047",
+     "pyq-sbipo-mains18-q048",
+     "pyq-sbipo-mains18-q049",
+     "pyq-sbipo-mains18-q050",
+     "pyq-sbipo-mains18-q051",
+     "pyq-sbipo-mains18-q052",
+     "pyq-sbipo-mains18-q053",
+     "pyq-sbipo-mains18-q054",
+     "pyq-sbipo-mains18-q055",
+     "pyq-sbipo-mains18-q056",
+     "pyq-sbipo-mains18-q057",
+     "pyq-sbipo-mains18-q058",
+     "pyq-sbipo-mains18-q059",
+     "pyq-sbipo-mains18-q060",
+     "pyq-sbipo-mains18-q061",
+     "pyq-sbipo-mains18-q062",
+     "pyq-sbipo-mains18-q063",
+     "pyq-sbipo-mains18-q064",
+     "pyq-sbipo-mains18-q065",
+     "pyq-sbipo-mains18-q066",
+     "pyq-sbipo-mains18-q067",
+     "pyq-sbipo-mains18-q068",
+     "pyq-sbipo-mains18-q069",
+     "pyq-sbipo-mains18-q070",
+     "pyq-sbipo-mains18-q071",
+     "pyq-sbipo-mains18-q072",
+     "pyq-sbipo-mains18-q073",
+     "pyq-sbipo-mains18-q074",
+     "pyq-sbipo-mains18-q075",
+     "pyq-sbipo-mains18-q076",
+     "pyq-sbipo-mains18-q077",
+     "pyq-sbipo-mains18-q078",
+     "pyq-sbipo-mains18-q079",
+     "pyq-sbipo-mains18-q080"
+    ]
+   },
+   {
+    "name": "English Language",
+    "pool": "english",
+    "minutes": 42,
+    "marksPerQuestion": 1,
+    "questionIds": [
+     "pyq-sbipo-mains18-q081",
+     "pyq-sbipo-mains18-q082",
+     "pyq-sbipo-mains18-q083",
+     "pyq-sbipo-mains18-q084",
+     "pyq-sbipo-mains18-q085",
+     "pyq-sbipo-mains18-q086",
+     "pyq-sbipo-mains18-q087",
+     "pyq-sbipo-mains18-q088",
+     "pyq-sbipo-mains18-q089",
+     "pyq-sbipo-mains18-q090",
+     "pyq-sbipo-mains18-q091",
+     "pyq-sbipo-mains18-q092",
+     "pyq-sbipo-mains18-q093",
+     "pyq-sbipo-mains18-q094",
+     "pyq-sbipo-mains18-q095",
+     "pyq-sbipo-mains18-q096",
+     "pyq-sbipo-mains18-q097",
+     "pyq-sbipo-mains18-q098",
+     "pyq-sbipo-mains18-q099",
+     "pyq-sbipo-mains18-q100",
+     "pyq-sbipo-mains18-q101",
+     "pyq-sbipo-mains18-q102",
+     "pyq-sbipo-mains18-q103",
+     "pyq-sbipo-mains18-q104",
+     "pyq-sbipo-mains18-q105",
+     "pyq-sbipo-mains18-q106",
+     "pyq-sbipo-mains18-q107",
+     "pyq-sbipo-mains18-q108",
+     "pyq-sbipo-mains18-q109",
+     "pyq-sbipo-mains18-q110",
+     "pyq-sbipo-mains18-q111",
+     "pyq-sbipo-mains18-q112",
+     "pyq-sbipo-mains18-q113",
+     "pyq-sbipo-mains18-q114",
+     "pyq-sbipo-mains18-q115"
+    ]
+   }
+  ]
+ }
+}
