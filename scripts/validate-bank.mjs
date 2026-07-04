@@ -1,6 +1,7 @@
 // Validates question bank JSON files against the schema + syllabus slugs.
-// Usage: node scripts/validate-bank.mjs src/data/questions/english.json [...more]
-import { readFileSync } from 'node:fs';
+// Usage: node scripts/validate-bank.mjs <file.json | dir> [...more]
+import { readFileSync, readdirSync, statSync, existsSync } from 'node:fs';
+import { join } from 'node:path';
 
 const syllabus = JSON.parse(readFileSync(new URL('../src/data/syllabus.json', import.meta.url)));
 const slugsBySection = {};
@@ -16,8 +17,13 @@ const STAGES = ['prelims', 'mains', 'both'];
 let failed = false;
 const err = (f, m) => { failed = true; console.error(`[${f}] ${m}`); };
 
+const files = process.argv.slice(2).flatMap((p) => {
+  if (!existsSync(p)) return [p]; // let the parse step report it
+  return statSync(p).isDirectory() ? readdirSync(p).filter((f) => f.endsWith('.json')).map((f) => join(p, f)) : [p];
+});
+
 const seenIds = new Set();
-for (const file of process.argv.slice(2)) {
+for (const file of files) {
   let bank;
   try {
     bank = JSON.parse(readFileSync(file, 'utf8'));

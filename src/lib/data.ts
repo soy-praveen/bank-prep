@@ -1,20 +1,33 @@
-import type { Question, QuestionSet, SectionBank, SectionId, Stage, Trick } from '../types';
+import type { MockDef, Question, QuestionSet, SectionBank, SectionId, Stage, Trick } from '../types';
 import syllabusJson from '../data/syllabus.json';
 import english from '../data/questions/english.json';
 import quant from '../data/questions/quant.json';
 import reasoning from '../data/questions/reasoning.json';
 import general from '../data/questions/general.json';
 import tricksJson from '../data/tricks.json';
+import mocksJson from '../data/mocks.json';
 
 export const syllabus = syllabusJson;
 export const tricks = tricksJson as Trick[];
+/** Curated fixed-paper mocks (reconstructed PYQ papers etc.) */
+export const curatedMocks = mocksJson as MockDef[];
 
-const banks: Record<SectionId, SectionBank> = {
-  english: english as SectionBank,
-  quant: quant as SectionBank,
-  reasoning: reasoning as SectionBank,
-  general: general as SectionBank,
-};
+// Extracted previous-year banks: every JSON dropped into questions/pyq/ is merged automatically.
+const pyqModules = import.meta.glob('../data/questions/pyq/*.json', { eager: true }) as Record<
+  string,
+  SectionBank | { default: SectionBank }
+>;
+const pyqBanks: SectionBank[] = Object.values(pyqModules).map((m) =>
+  'default' in m ? (m.default as SectionBank) : (m as SectionBank),
+);
+
+const allBanks: SectionBank[] = [
+  english as SectionBank,
+  quant as SectionBank,
+  reasoning as SectionBank,
+  general as SectionBank,
+  ...pyqBanks,
+];
 
 export const SECTION_META: Record<SectionId, { name: string; short: string }> = {
   english: { name: 'English Language', short: 'English' },
@@ -23,15 +36,16 @@ export const SECTION_META: Record<SectionId, { name: string; short: string }> = 
   general: { name: 'General / Banking Awareness', short: 'GA' },
 };
 
-export const allQuestions: Question[] = Object.values(banks).flatMap((b) => b.questions);
+export const allQuestions: Question[] = allBanks.flatMap((b) => b.questions);
 export const questionById = new Map<string, Question>(allQuestions.map((q) => [q.id, q]));
 export const setById = new Map<string, QuestionSet>(
-  Object.values(banks).flatMap((b) => b.sets).map((s) => [s.id, s]),
+  allBanks.flatMap((b) => b.sets).map((s) => [s.id, s]),
 );
 
 export function questionsFor(section: SectionId, opts?: { stage?: Stage; topic?: string }): Question[] {
-  return banks[section].questions.filter(
+  return allQuestions.filter(
     (q) =>
+      q.section === section &&
       (!opts?.topic || q.topic === opts.topic) &&
       (!opts?.stage || opts.stage === 'both' || q.stage === opts.stage || q.stage === 'both'),
   );
@@ -51,7 +65,7 @@ export function topicName(section: SectionId, slug: string): string {
 /** All topic slugs (with names) available in a section's bank, with counts. */
 export function bankTopics(section: SectionId): { slug: string; name: string; count: number }[] {
   const counts = new Map<string, number>();
-  for (const q of banks[section].questions) counts.set(q.topic, (counts.get(q.topic) ?? 0) + 1);
+  for (const q of allQuestions) if (q.section === section) counts.set(q.topic, (counts.get(q.topic) ?? 0) + 1);
   return [...counts.entries()]
     .map(([slug, count]) => ({ slug, name: topicName(section, slug), count }))
     .sort((a, b) => b.count - a.count);

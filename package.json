@@ -8,7 +8,7 @@
     "build": "tsc -b && vite build",
     "lint": "oxlint",
     "preview": "vite preview",
-    "validate": "node scripts/validate-bank.mjs src/data/questions/english.json src/data/questions/quant.json src/data/questions/reasoning.json src/data/questions/general.json"
+    "validate": "node scripts/validate-bank.mjs src/data/questions/english.json src/data/questions/quant.json src/data/questions/reasoning.json src/data/questions/general.json src/data/questions/pyq"
   },
   "dependencies": {
     "@fontsource-variable/inter": "^5.2.8",

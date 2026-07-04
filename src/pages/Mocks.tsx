@@ -3,7 +3,7 @@ import { AlertTriangle, ClipboardList, History, Play, Timer, Zap } from 'lucide-
 import { useMemo, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { Button, Card, Chip, SectionTitle, Stat } from '../components/ui';
-import { buildGeneratedMock, poolCoverage, sampleSection, stagePattern, SECTION_META } from '../lib/data';
+import { buildGeneratedMock, curatedMocks, poolCoverage, sampleSection, stagePattern, SECTION_META } from '../lib/data';
 import { loadSession } from '../lib/engine';
 import { useApp } from '../lib/store';
 import type { MockDef, SectionId } from '../types';
@@ -143,6 +143,45 @@ export default function Mocks() {
           })}
         </div>
       </div>
+
+      {/* previous year papers */}
+      {curatedMocks.filter((m) => m.stage === stage).length > 0 && (
+        <div>
+          <SectionTitle title="Previous Year Papers" sub="Reconstructed memory-based real papers, attempted under exam conditions" />
+          <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-4">
+            {curatedMocks
+              .filter((m) => m.stage === stage)
+              .map((mock, i) => {
+                const attempted = attempts.filter((a) => a.mockId === mock.id);
+                const best = attempted.length ? Math.max(...attempted.map((a) => a.totalScore)) : null;
+                const total = mock.sections.reduce((n, s) => n + s.questionIds.length, 0);
+                return (
+                  <motion.div key={mock.id} initial={{ opacity: 0, y: 14 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: i * 0.05 }}>
+                    <Card hover className="p-5 flex flex-col gap-3 h-full border-l-[3px] border-l-violet">
+                      <div className="flex items-center justify-between">
+                        <div className="w-9 h-9 rounded-xl bg-violet-soft text-violet flex items-center justify-center">
+                          <History size={17} />
+                        </div>
+                        {best !== null && <Chip tone="teal">Best {best.toFixed(1)}</Chip>}
+                      </div>
+                      <div>
+                        <div className="font-display font-semibold">{mock.name}</div>
+                        <div className="text-xs text-ink-3 mt-1">
+                          {mock.description} · {total} Q · {mock.sections.reduce((n, s) => n + s.minutes, 0)} min
+                        </div>
+                      </div>
+                      <div className="mt-auto pt-2">
+                        <Button size="sm" variant="soft" onClick={() => startMock(mock)} className="w-full">
+                          <Play size={14} /> Attempt Paper
+                        </Button>
+                      </div>
+                    </Card>
+                  </motion.div>
+                );
+              })}
+          </div>
+        </div>
+      )}
 
       {/* sectional drill builder */}
       <div>
