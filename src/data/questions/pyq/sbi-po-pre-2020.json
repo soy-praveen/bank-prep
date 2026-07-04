@@ -1,0 +1,2767 @@
+{
+ "sets": [
+  {
+   "id": "pyq-sbipo-pre20-set1",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "title": "RC: Technology and Employment",
+   "context": "Read the following passage and answer the given questions. Some words are highlighted to help you answer the questions.\n\nTechnology is growing by leaps and bounds. Innovation and disruption have become everyday phenomena. A technology **driven** organization is a company whose business model, innovation strategy, and growth are technology-centric. Advancements in technology not only help industries to function at a faster pace, but they also help to minimize human effort and increase the efficiency of production. At the same time, technology is also becoming an increasing factor for increasing unemployment.\n\nTechnology is ___(I)___ to a variety of avenues of new scientific discoveries and developments. Some of these developments are artificial intelligence, 3D printing, self-driven vehicles, and robotics. As a result, technology has started creating employment for skilled professionals. Also, considering automation in agriculture and manufacturing, this has opened opportunities for people who can drive machines and even for companies which work on automation technology. Along with the growth of jobs in the automation sector, dependent industries start growing. For example, with increasing automation in manufacturing, research and development in supply chain and logistics grows. Hence, technology has been a boon considering the number of jobs it continues to create. Given the fact that these developments in technology are endless, employment opportunities too will see an ever-increasing graph, more so in talent-rich countries such as India and China. However, the immediate result of technological advancements is observed as losses in employment. This is because, with the growth in technology, more and more manual tasks are replaced by machines. This makes more and more jobs redundant as machines guarantee efficiency as well as are a cost-effective alternative to human employees. This forces people to continuously update themselves and hence leads to survival of the fittest. This can be hard on an unskilled workforce which has no access to skill development training or to education.\n\nAlthough some of the studies are close when it comes to predictions up to 2020-2021, jumping ahead a decade the numbers become incomprehensibly bigger. To think that only 1.8 million jobs will go within the next two years, and ten years later that figure increases by half a million or more, is difficult to accept. But change is coming, and as the technology becomes more prevalent and embedded within different sectors of the economy, it could be far reaching and rapid.\n\nThe 2017 McKinsey study also assesses degrees of automation and revealed a now well documented statistic: 60% of occupations have at least 30% of constituent work activities that can be automated. It further states that although half of all jobs have the technical potential to become automated based on currently available technologies, due to social, economic and technical factors, the rate of adoption will be varied and slow. However, over 200 million global workers will need to switch occupational categories by 2030 and most likely re-train because of role changes.\n\nThe intervention of technology in any domain has become absolutely inevitable. The wonders of technology are such that it has not just boosted productivity and efficiency, but also the level of safety which would have been unachievable by humans alone. Faster communication, rapid transactions, global reach are all by-products of growth in technology. However, most policymakers are neither keyed in nor in pace, and we could be **frittering** away these growth opportunities as a result. We can, therefore, conclude by saying that although technology in terms of automation has reduced jobs for unskilled people, it has outgrown the growth in employment in other areas. This can be dealt with a shift of people from unskilled to specially-skilled employees. This change will further enhance the growth of people, their employability, their pay scales, basic income and purchasing power of people, leading the world to development alone."
+  },
+  {
+   "id": "pyq-sbipo-pre20-set2",
+   "section": "english",
+   "topic": "para-jumbles",
+   "title": "Para Jumble: Diener's Happiness Research",
+   "context": "Rearrange the following six sentences (A), (B), (C), (D), (E) and (F) in the proper sequence to form a meaningful paragraph and then answer the questions based on the sequence formed.\n(A) In Diener's words, it's more like \"a moving baseline\" than one set point over a lifetime.\n(B) Happy people have strong social relationships. In one study conducted by Diener, the happiest 10 percent of the participants all had strong supportive relationships.\n(C) A strong social network didn't guarantee happiness, but it was a requirement to be in the happiest group.\n(D) Diener discussed the set point theory of temperament, which states that people have ups and downs in reaction to life events, but that they adapt and return to a set point.\n(E) Temperament, which appears to have a genetic component according to several recent studies, also affects mood.\n(F) There is evidence for this, but studies have shown that people who have experienced a major loss, like being fired or losing a spouse, often don't fully adapt or take years to do so."
+  },
+  {
+   "id": "pyq-sbipo-pre20-set3",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "title": "Pie Chart - Ice Cream Orders of Five Shops",
+   "context": "The pie chart shows the percentage distribution of the total orders of ice cream purchased by five different shops, and the table shows the percentage of orders of ice cream sold by these shops out of the total orders purchased.\nTotal orders of ice cream purchased by all shops together = 400\n\n| Shop | % of total orders purchased | % of purchased orders sold |\n|---|---|---|\n| A | 10% | 60% |\n| B | 20% | 75% |\n| C | 35% | 80% |\n| D | 20% | 95% |\n| E | 15% | 90% |"
+  },
+  {
+   "id": "pyq-sbipo-pre20-set4",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "title": "Table - Bus Seats Booked and Vacant",
+   "context": "The table shows the number of seats available in five different buses and the percentage of seats booked in these buses out of the total available seats.\n\n| Bus | Total seats available | % of seats booked (out of total available) |\n|---|---|---|\n| A | 20 | 60% |\n| B | 24 | 75% |\n| C | 15 | 60% |\n| D | NA | 80% |\n| E | NA | 62.5% |\n\nNote:\nTotal seats available in any bus = Booked seats + Vacant seats.\nTotal seats available in buses D and E together is 65.\nTotal vacant seats in all five buses together are 40."
+  },
+  {
+   "id": "pyq-sbipo-pre20-set5",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "title": "Nine Persons in Three Departments",
+   "context": "Nine persons J, K, L, M, N, O, P, Q and R are working in three different departments - IT, HR and Production - but not necessarily in the same order. At least two persons work in the same department but not more than four.\nL works with Q but not in IT.\nP does not work in HR.\nBoth K and R work in the same department but do not work with either P or J.\nM works only with O but not in IT.\nJ works with N.\nO does not work in Production."
+  },
+  {
+   "id": "pyq-sbipo-pre20-set6",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "title": "Six Lectures Across Six Months",
+   "context": "Six persons take a lecture on different topics, i.e., Coffee, Tea, Cold Drink, Juice, Diaper and Baby Lotion, in different months of the same year, i.e., January, May, June, July, September and December, but not necessarily in the same order.\nD takes the lecture on Baby Lotion in a month which has 30 days.\nE takes the lecture on Tea but not just before A.\nA takes a lecture in a month which has an even number of days.\nTwo persons take a lecture between D and the one who takes the lecture on Juice.\nThe number of persons taking a lecture before A is the same as the number of persons taking a lecture after the one who takes the lecture on Coffee.\nC takes a lecture just before the one who takes the lecture on Diaper.\nB takes a lecture neither on Coffee nor on Juice.\nF does not take the lecture on Cold Drink.\nE does not take a lecture after D."
+  },
+  {
+   "id": "pyq-sbipo-pre20-set7",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "title": "Square Table - Eight Persons",
+   "context": "Eight persons A, B, C, D, E, F, G and H are sitting around a square table in such a way that four persons sit at the four corners of the table and the other four sit at the middle of each side. The one who sits at a corner faces the centre of the table and the one who sits at the middle of a side faces outside (away from the centre).\nB sits at one of the middle sides.\nOne person sits between B and E.\nF sits immediate left of E.\nThree persons sit between A and F.\nH sits second to the left of C.\nD is not an immediate neighbour of B.\nG and C are not immediate neighbours of each other."
+  },
+  {
+   "id": "pyq-sbipo-pre20-set8",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "title": "Straight Line - Unknown Number of Persons",
+   "context": "A certain number of persons are sitting in a straight line facing towards the north direction.\nThree persons sit between A and G.\nFive persons sit between G and T.\nAs many persons sit between A and T as between A and H.\nT is third from one of the extreme ends.\nJ is second from the left end.\nD sits second to the right of J.\nD sits second to the left of H.\nJ and T are not immediate neighbours of each other."
+  },
+  {
+   "id": "pyq-sbipo-pre20-set9",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "title": "Eight Persons Born in Four Months",
+   "context": "Eight persons were born in four different months - February, April, August and October - on either the 13th or the 24th, but not necessarily in the same order.\nR was born on an even date in a month which has 31 days.\nMore than three persons were born between D and R.\nThe number of persons born before D is the same as the number of persons born after H.\nNo one was born between R and M.\nBoth S and B were born on the same date but before August.\nNot more than two persons were born between P and Q.\nS was born before Q but not just before."
+  },
+  {
+   "id": "pyq-sbipo-pre20-set10",
+   "section": "reasoning",
+   "topic": "blood-relations",
+   "title": "Family of Seven Members",
+   "context": "Seven family members are living in a family.\nA and C are the only sisters of B.\nH is the father of B.\nM is married to H.\nB is married to V.\nV has no siblings.\nR is the paternal grandfather of B.\nM has only three children.\nV is not a son-in-law of M."
+  },
+  {
+   "id": "pyq-sbipo-pre20-set11",
+   "section": "reasoning",
+   "topic": "order-ranking",
+   "title": "Six Jars of Water",
+   "context": "Six jars A, B, C, D, E and F are filled with different quantities of water, in litres, in integer numbers.\nThe jar filled with 15 litres of water has just more water than jar E.\nThe jar with the maximum quantity has 33 litres of water.\nJar D has more water than jar B but not more than jar C.\nJar F has more water than jar E but not more than jar A, which has less water than jar D.\nJar B has more water than the jar filled with 15 litres of water."
+  }
+ ],
+ "questions": [
+  {
+   "id": "pyq-sbipo-pre20-q001",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre20-set1",
+   "question": "Which of the following sentence(s) is/are true according to the context of the passage?\n(i) Technology and automation have compressed the opportunities for dependent industries.\n(ii) Technical advancement is forcing people to continuously update their knowledge to sustain in the job market.\n(iii) Even though some jobs will become redundant, technological advancement has the potential to create many more employment opportunities.",
+   "options": [
+    "Only (i)",
+    "Both (i) and (ii)",
+    "Only (iii)",
+    "Both (ii) and (iii)",
+    "All of these"
+   ],
+   "correct": 3,
+   "explanation": "The passage says dependent industries start GROWING with automation, so (i) is false. (ii) matches 'This forces people to continuously update themselves', and (iii) matches the point that endless developments in technology keep creating new employment opportunities.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q002",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-pre20-set1",
+   "question": "Which of the following statements provides an appropriate premise of the given passage?",
+   "options": [
+    "Technological innovations result in the improved lifestyles, and hence consumerism increases and thereby results in more employment opportunities.",
+    "Harnessing technological change for the good also requires vigilance to prevent new technology being used to emancipate workforce.",
+    "Highly-paid workers are more commonly affected, but the effects are more severe for less well-paid workers.",
+    "Machines have gained an upper hand in its war with humans.",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "The passage concludes that automation has reduced jobs for unskilled people even while growing employment overall, so technological change must be harnessed carefully - option (b) captures this premise.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q003",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre20-set1",
+   "question": "Which of the following statement(s) is/are false with regard to the context of the passage?\n(i) 60% of occupations have at least 30% of constituent work activities that can be automated.\n(ii) The rate of technology adoption of most of the jobs will be varied and slow.\n(iii) Half a million global workers will need to switch to occupational categories by 2030.",
+   "options": [
+    "Only (i)",
+    "Both (i) and (ii)",
+    "Only (iii)",
+    "Both (ii) and (iii)",
+    "All of these"
+   ],
+   "correct": 2,
+   "explanation": "The passage says over 200 million (not half a million) global workers will need to switch occupational categories by 2030, so (iii) is false; (i) and (ii) are stated in the McKinsey-study paragraph.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q004",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "vocabulary",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre20-set1",
+   "question": "Which of the following is a synonym of the word DRIVEN as highlighted in the passage?",
+   "options": [
+    "operated",
+    "mobilized",
+    "voluntary",
+    "researched",
+    "developing"
+   ],
+   "correct": 0,
+   "explanation": "'Driven' here means moved, operated or controlled by something, so 'operated' is the closest synonym.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q005",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "vocabulary",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre20-set1",
+   "question": "Which of the following is a synonym of the word FRITTERING as highlighted in the passage?",
+   "options": [
+    "organize",
+    "squander",
+    "influence",
+    "accomplish",
+    "accumulate"
+   ],
+   "correct": 1,
+   "explanation": "'Frittering away' means wasting money, time or an opportunity little by little; 'squander' means to waste in a reckless manner.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q006",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "fillers",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre20-set1",
+   "question": "Choose the most suitable word/phrase to fill the blank (I) given in the passage.",
+   "options": [
+    "enhancing",
+    "giving birth",
+    "motivating",
+    "growing risks",
+    "gathering"
+   ],
+   "correct": 1,
+   "explanation": "'Technology is giving birth to a variety of avenues of new scientific discoveries' fits best - 'giving birth to' means bringing something into existence.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q007",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "word-usage",
+   "difficulty": 2,
+   "question": "The idiom 'eye to eye' has been used in the sentences given below. Identify the statements where the idiom has been used in a contextually and grammatically correct manner.\n(i) I'm glad that we see eye to eye on the project's details.\n(ii) It was the end of term and the children were getting a little eye to eye.\n(iii) My sisters don't see eye to eye with me about the arrangements.",
+   "options": [
+    "Only (i)",
+    "Both (i) and (iii)",
+    "Only (iii)",
+    "Both (ii) and (iii)",
+    "All of these"
+   ],
+   "correct": 1,
+   "explanation": "'See eye to eye' means to agree with each other; it is used correctly in (i) and (iii), while in (ii) it makes no sense.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q008",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "word-usage",
+   "difficulty": 2,
+   "question": "The idiom 'a stone's throw' has been used in the sentences given below. Identify the statements where the idiom has been used in a contextually and grammatically correct manner.\n(i) This article about the current problems of the nation is right a stone's throw.\n(ii) We need someone who's really a stone's throw to answer questions from the press.\n(iii) The apartment is just a stone's throw from the sea.",
+   "options": [
+    "Only (i)",
+    "Both (i) and (iii)",
+    "Only (iii)",
+    "Both (ii) and (iii)",
+    "All of these"
+   ],
+   "correct": 2,
+   "explanation": "'A stone's throw' means a very short distance, so only (iii), which describes how near the apartment is to the sea, uses it correctly.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q009",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "word-usage",
+   "difficulty": 1,
+   "question": "The idiom 'bite the bullet' has been used in the sentences given below. Identify the statements where the idiom has been used in a contextually and grammatically correct manner.\n(i) I hate going to the dentist, but I'll just have to bite the bullet.\n(ii) I decided I had to bite the bullet and take a couple of math classes even though I knew they were hard.\n(iii) I don't actually enjoy cleaning, but I bite the bullet and do it so that everything in my house isn't covered in a thick layer of dust.",
+   "options": [
+    "Only (i)",
+    "Both (i) and (iii)",
+    "Only (iii)",
+    "Both (ii) and (iii)",
+    "All of these"
+   ],
+   "correct": 4,
+   "explanation": "'Bite the bullet' means to force yourself to do or accept something unpleasant, often after hesitation; all three sentences use it correctly.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q010",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "error-spotting",
+   "difficulty": 2,
+   "question": "In the following question, a sentence is divided into four parts. Choose the part of the sentence which contains a grammatical error. If all the parts are grammatically correct and contextually meaningful, choose 'No error'.\n\nIt is not the (a)/ faculty members (b)/ but the president (c)/ who decide this issue. (d)",
+   "options": [
+    "Part (a)",
+    "Part (b)",
+    "Part (c)",
+    "Part (d)",
+    "No error"
+   ],
+   "correct": 3,
+   "explanation": "When a positive and a negative subject are compounded, the verb agrees with the positive subject ('the president'), so 'decide' should be 'decides'.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q011",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "error-spotting",
+   "difficulty": 2,
+   "question": "In the following question, a sentence is divided into four parts. Choose the part of the sentence which contains a grammatical error. If all the parts are grammatically correct and contextually meaningful, choose 'No error'.\n\nEither the (a)/ man or his wife (b)/ know the (c)/ truth of the matter. (d)",
+   "options": [
+    "Part (a)",
+    "Part (b)",
+    "Part (c)",
+    "Part (d)",
+    "No error"
+   ],
+   "correct": 2,
+   "explanation": "Singular subjects joined by 'either...or' take a singular verb, so 'know' should be 'knows'.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q012",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "error-spotting",
+   "difficulty": 1,
+   "question": "In the following question, a sentence is divided into four parts. Choose the part of the sentence which contains a grammatical error. If all the parts are grammatically correct and contextually meaningful, choose 'No error'.\n\nThey don't seem (a)/ to be able to find (b)/ a solution too the problem (c)/ of global warming yet. (d)",
+   "options": [
+    "Part (a)",
+    "Part (b)",
+    "Part (c)",
+    "Part (d)",
+    "No error"
+   ],
+   "correct": 2,
+   "explanation": "'Too' is an adverb meaning 'excessively' or 'also'; the preposition 'to' is needed here - 'a solution to the problem'.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q013",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "error-spotting",
+   "difficulty": 2,
+   "question": "In the following question, a sentence is divided into four parts. Choose the part of the sentence which contains a grammatical error. If all the parts are grammatically correct and contextually meaningful, choose 'No error'.\n\nNo sooner (a)/ the company had (b)/ launched its new product (c)/ than it went bankrupt. (d)",
+   "options": [
+    "Part (a)",
+    "Part (b)",
+    "Part (c)",
+    "Part (d)",
+    "No error"
+   ],
+   "correct": 1,
+   "explanation": "When 'no sooner' opens the sentence, the subject and auxiliary are inverted: 'No sooner had the company launched its new product...'.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q014",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "error-spotting",
+   "difficulty": 2,
+   "question": "In the following question, a sentence is divided into four parts. Choose the part of the sentence which contains a grammatical error. If all the parts are grammatically correct and contextually meaningful, choose 'No error'.\n\nI read (a)/ at least 100 books (b)/ by the time (c)/ I was twelve. (d)",
+   "options": [
+    "Part (a)",
+    "Part (b)",
+    "Part (c)",
+    "Part (d)",
+    "No error"
+   ],
+   "correct": 0,
+   "explanation": "The earlier of two past actions takes the past perfect: 'I had read at least 100 books by the time I was twelve'.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q015",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "fillers",
+   "difficulty": 2,
+   "question": "Each of the two sentences below has a blank. Pick the word which fits into both the blanks.\n(I) He currently _____ the position of technical manager.\n(II) I hope the repair _____ until we get the car to a garage.",
+   "options": [
+    "had",
+    "requires",
+    "holds",
+    "accepts",
+    "provides"
+   ],
+   "correct": 2,
+   "explanation": "'Holds' fits both: he holds (occupies) the position, and the repair holds (stays intact) until the car reaches a garage.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q016",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "fillers",
+   "difficulty": 1,
+   "question": "Each of the two sentences below has a blank. Pick the word which fits into both the blanks.\n(I) All living organisms have to _____ to changes in environmental conditions.\n(II) The scriptwriter helped him to _____ his novel for the screen.",
+   "options": [
+    "adapt",
+    "adept",
+    "adopt",
+    "adequate",
+    "addresses"
+   ],
+   "correct": 0,
+   "explanation": "'Adapt' fits both: organisms adapt (adjust) to new conditions, and a novel is adapted (altered) for the screen.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q017",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "fillers",
+   "difficulty": 2,
+   "question": "Each of the two sentences below has a blank. Pick the word which fits into both the blanks.\n(I) She _____ the conclusion that there was no more she could do.\n(II) The child _____ down and picked up the kitten.",
+   "options": [
+    "resembled",
+    "hovered",
+    "made",
+    "recognized",
+    "reached"
+   ],
+   "correct": 4,
+   "explanation": "'Reached' fits both: she reached (arrived at) the conclusion, and the child reached down (stretched out an arm) to pick up the kitten.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q018",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "fillers",
+   "difficulty": 1,
+   "question": "Each of the two sentences below has a blank. Pick the word which fits into both the blanks.\n(I) New business opportunities will _____ with advances in technology.\n(II) The economy has started to _____ from recession.",
+   "options": [
+    "appear",
+    "emerge",
+    "disclose",
+    "eliminate",
+    "influence"
+   ],
+   "correct": 1,
+   "explanation": "'Emerge' fits both: opportunities emerge (develop) with technological advances, and an economy emerges (recovers) from recession.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q019",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "para-jumbles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre20-set2",
+   "question": "What should be the FOURTH sentence after rearrangement?",
+   "options": [
+    "F",
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "correct": 4,
+   "explanation": "The correct sequence is BCEDFA: (B) introduces the happiness theme, (C) explains the study, (E) adds temperament as another factor, (D) states Diener's set point theory, (F) gives evidence against full adaptation, and (A) concludes with the 'moving baseline'. The fourth sentence is D.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q020",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "para-jumbles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre20-set2",
+   "question": "What should be the THIRD sentence after rearrangement?",
+   "options": [
+    "E",
+    "C",
+    "A",
+    "B",
+    "F"
+   ],
+   "correct": 0,
+   "explanation": "The correct sequence is BCEDFA, so the third sentence is E, which brings in temperament ('also affects mood') after the social-relationship point.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q021",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "para-jumbles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre20-set2",
+   "question": "What should be the LAST sentence after rearrangement?",
+   "options": [
+    "F",
+    "C",
+    "B",
+    "A",
+    "D"
+   ],
+   "correct": 3,
+   "explanation": "The correct sequence is BCEDFA; sentence A closes the paragraph with Diener's 'moving baseline' remark.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q022",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "para-jumbles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre20-set2",
+   "question": "What should be the SECOND sentence after rearrangement?",
+   "options": [
+    "F",
+    "B",
+    "C",
+    "D",
+    "E"
+   ],
+   "correct": 2,
+   "explanation": "The correct sequence is BCEDFA; C follows B by elaborating on the finding that a strong social network was a requirement for the happiest group.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q023",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "para-jumbles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre20-set2",
+   "question": "What should be the FIRST sentence after rearrangement?",
+   "options": [
+    "F",
+    "D",
+    "E",
+    "B",
+    "C"
+   ],
+   "correct": 3,
+   "explanation": "The correct sequence is BCEDFA; B opens the paragraph by introducing its theme - happy people and their strong social relationships.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q024",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "match-the-columns",
+   "difficulty": 2,
+   "question": "In the sentence below, four words are given in bold (marked A, B, C and D). These words may or may not be in their correct positions. Select the sequence of the words which makes the sentence contextually meaningful. If the words are correct in their current positions, choose 'No rearrangement required'.\n\nDrone vital (A) is playing a technology (B) role in delivering food and other activities (C) alongside relief essentials (D).",
+   "options": [
+    "BADC",
+    "ADCB",
+    "CDBA",
+    "BACD",
+    "No rearrangement required"
+   ],
+   "correct": 0,
+   "explanation": "The meaningful sentence is: 'Drone technology (B) is playing a vital (A) role in delivering food and other essentials (D) alongside relief activities (C)' - sequence BADC.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q025",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "match-the-columns",
+   "difficulty": 2,
+   "question": "In the sentence below, four words are given in bold (marked A, B, C and D). These words may or may not be in their correct positions. Select the sequence of the words which makes the sentence contextually meaningful. If the words are correct in their current positions, choose 'No rearrangement required'.\n\nIndividual (A) of speech and expression pedestal (B) to media is not on a higher freedom (C) than the rights of available (D) citizens.",
+   "options": [
+    "BADC",
+    "ADCB",
+    "No rearrangement required",
+    "BACD",
+    "CDBA"
+   ],
+   "correct": 4,
+   "explanation": "The meaningful sentence is: 'Freedom (C) of speech and expression available (D) to media is not on a higher pedestal (B) than the rights of individual (A) citizens' - sequence CDBA.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q026",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "match-the-columns",
+   "difficulty": 1,
+   "question": "In the sentence below, four words are given in bold (marked A, B, C and D). These words may or may not be in their correct positions. Select the sequence of the words which makes the sentence contextually meaningful. If the words are correct in their current positions, choose 'No rearrangement required'.\n\nSchools that provide (A) pick and drop services to students (B) have been asked to ensure (C) that the service providers (D) always have their masks on.",
+   "options": [
+    "BADC",
+    "ADCB",
+    "No rearrangement required",
+    "BACD",
+    "CDBA"
+   ],
+   "correct": 2,
+   "explanation": "All four highlighted words are already in their correct positions; the sentence is meaningful as it stands.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q027",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "phrase-replacement",
+   "difficulty": 2,
+   "question": "Which of the phrases given below should replace the phrase printed in bold to make the sentence grammatically correct? If the sentence is correct as it is, mark 'No replacement required'.\n\n**Not only would you be learning** grammar, but you'll also put it into practice.",
+   "options": [
+    "Not only will you learn",
+    "Not only you will learnt",
+    "You will be learning",
+    "Not only you will be learning",
+    "No replacement required"
+   ],
+   "correct": 0,
+   "explanation": "When 'not only' begins a clause, the subject and verb invert: 'Not only will you learn... but you'll also...'.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q028",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "phrase-replacement",
+   "difficulty": 1,
+   "question": "Which of the phrases given below should replace the phrase printed in bold to make the sentence grammatically correct? If the sentence is correct as it is, mark 'No replacement required'.\n\nIf you notice any faulty office equipment or hazards, please report them to your supervisor **whom will notify the management**.",
+   "options": [
+    "which will notify the management",
+    "whom would notify the management",
+    "who will notify the management",
+    "they will notify the management",
+    "No replacement required"
+   ],
+   "correct": 2,
+   "explanation": "'Who' is the subject pronoun needed here (the supervisor performs the notifying); 'whom' is only used as an object.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q029",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "phrase-replacement",
+   "difficulty": 2,
+   "question": "Which of the phrases given below should replace the phrase printed in bold to make the sentence grammatically correct? If the sentence is correct as it is, mark 'No replacement required'.\n\nThe water **had been running** for five minutes before she turned it off.",
+   "options": [
+    "have been running",
+    "is running",
+    "had run",
+    "was running",
+    "No replacement required"
+   ],
+   "correct": 4,
+   "explanation": "Past perfect continuous ('had been running') correctly describes an action in progress up to a point in the past; the sentence needs no change.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q030",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "phrase-replacement",
+   "difficulty": 2,
+   "question": "Which of the phrases given below should replace the phrase printed in bold to make the sentence grammatically correct? If the sentence is correct as it is, mark 'No replacement required'.\n\nWe are looking forward to the movie, **have saw the trailer last week**.",
+   "options": [
+    "with saw the trailer last week",
+    "having seeing the trailer last week",
+    "while seeing the trailer last week",
+    "having seen the trailer last week",
+    "No replacement required"
+   ],
+   "correct": 3,
+   "explanation": "A perfect participial phrase is required: 'having seen the trailer last week' correctly modifies the main clause.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q031",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre20-set3",
+   "question": "Total unsold orders of ice cream of shop E are what percent more than total unsold orders of ice cream of shop D?",
+   "options": [
+    "30%",
+    "50%",
+    "40%",
+    "20%",
+    "60%"
+   ],
+   "correct": 1,
+   "explanation": "E unsold = 400 x 15% x 10% = 6; D unsold = 400 x 20% x 5% = 4. Required % = (6-4)/4 x 100 = 50%.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q032",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-pre20-set3",
+   "question": "Out of the total orders of ice cream sold by shop B, 25% are chocolate, 15% are vanilla and the rest are strawberry. If 33 1/3% and 75% of the total orders of chocolate and vanilla purchased respectively were sold, then find the total orders of strawberry purchased by B.",
+   "options": [
+    "19",
+    "27",
+    "29",
+    "23",
+    "21"
+   ],
+   "correct": 3,
+   "explanation": "B purchased 80 and sold 60. Chocolate sold = 25% of 60 = 15, which is 33 1/3% of chocolate purchased, so chocolate purchased = 45. Vanilla sold = 15% of 60 = 9 = 75% of vanilla purchased, so vanilla purchased = 12. Strawberry purchased = 80 - (45 + 12) = 23.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q033",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre20-set3",
+   "question": "The cost price of each order purchased by shop D is Rs. 200. If shop D sold 25% of its sold orders at Rs. 175 each and the rest at Rs. 250 each, find the overall profit percent (approximate) of shop D.",
+   "options": [
+    "25%",
+    "5%",
+    "15%",
+    "10%",
+    "20%"
+   ],
+   "correct": 3,
+   "explanation": "D purchased 80 orders, total cost = 80 x 200 = Rs. 16000; D sold 76 orders. Revenue = 19 x 175 + 57 x 250 = 3325 + 14250 = Rs. 17575. Profit % = 1575/16000 x 100, approximately 10%.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q034",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre20-set3",
+   "question": "Find the average number of unsold orders of ice cream for shops A, B and E.",
+   "options": [
+    "14",
+    "12",
+    "16",
+    "18",
+    "22"
+   ],
+   "correct": 0,
+   "explanation": "Unsold: A = 40 x 40% = 16, B = 80 x 25% = 20, E = 60 x 10% = 6. Average = (16+20+6)/3 = 14.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q035",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre20-set3",
+   "question": "If the total orders of ice cream purchased by shop X are 25% more than that of B, and the total unsold orders of ice cream of shop X equal the difference between the total unsold orders of ice cream of shops C and D, then find the total sold orders of ice cream of shop X.",
+   "options": [
+    "76",
+    "78",
+    "72",
+    "70",
+    "64"
+   ],
+   "correct": 0,
+   "explanation": "X purchased = 80 x 1.25 = 100. C unsold = 140 x 20% = 28; D unsold = 4; X unsold = 28 - 4 = 24. Sold by X = 100 - 24 = 76.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q036",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre20-set3",
+   "question": "Find the central angle for the total orders of ice cream purchased by shop C.",
+   "options": [
+    "96",
+    "102",
+    "112",
+    "108",
+    "126"
+   ],
+   "correct": 4,
+   "explanation": "C's share is 35%, so central angle = 35/100 x 360 = 126 degrees.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q037",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "mixtures-alligations",
+   "difficulty": 2,
+   "question": "A vessel contains a mixture of milk and water in the ratio 6 : 1 respectively. If 21 litres of the mixture are taken out and replaced with 77 litres of milk, the resultant mixture becomes twice the initial mixture. Find the quantity of the initial mixture.",
+   "options": [
+    "56 litres",
+    "42 litres",
+    "84 litres",
+    "35 litres",
+    "91 litres"
+   ],
+   "correct": 0,
+   "explanation": "Let the initial mixture be 7x litres. After removing 21 litres and adding 77 litres, total = 7x + 56 = 2 x 7x, so 7x = 56 litres.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q038",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "trains",
+   "difficulty": 3,
+   "question": "The length and speed of train A are 'L' metres and 108 km/hr. It crosses a platform whose length is 60% less than the length of train A in 28 seconds. If train B crosses the same platform in 24 seconds running at a speed of 90 km/hr, then find the time taken by train A to cross train B running in the same direction.",
+   "options": [
+    "172 sec",
+    "198 sec",
+    "196 sec",
+    "184 sec",
+    "192 sec"
+   ],
+   "correct": 4,
+   "explanation": "(L + 0.4L)/30 = 28 gives L = 600 m, platform = 240 m. Train B: (X + 240)/24 = 25 gives X = 360 m. Same-direction crossing time = (600+360)/((108-90) x 5/18) = 960/5 = 192 sec.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q039",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "time-work",
+   "difficulty": 3,
+   "question": "A can complete 45% of a work in 11 1/4 days and B can do 30% of the same work in 3 days. If A, B and C together can do the same work in 6 1/4 days, then find how much percent less efficient C is than A.",
+   "options": [
+    "60%",
+    "50%",
+    "40%",
+    "54%",
+    "72%"
+   ],
+   "correct": 1,
+   "explanation": "A does the full work in 25 days, B in 10 days. Taking work = 90x units: A = 3.6x/day, B = 9x/day, (A+B+C) = 90x/6.25 = 14.4x/day, so C = 1.8x/day. Required % = (3.6x-1.8x)/3.6x x 100 = 50%.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q040",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "ages",
+   "difficulty": 2,
+   "question": "Six years ago, the ratio of the ages of Kunal to Sagar was 6 : 5, and four years hence the ratio of the ages of Kunal to Sagar will be 11 : 10. Find the present age of Sagar.",
+   "options": [
+    "15 years",
+    "16 years",
+    "14 years",
+    "10 years",
+    "12 years"
+   ],
+   "correct": 1,
+   "explanation": "Six years ago let ages be 6x and 5x. Then (6x+10)/(5x+10) = 11/10 gives x = 2. Sagar's present age = 5x + 6 = 16 years.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q041",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "partnership",
+   "difficulty": 3,
+   "question": "A and B entered into a business by making investments of Rs. 2400 and Rs. 2800 respectively. After six months A left the business, and after four more months C joined the business with capital 20% more than A's investment. If at the end of the year the sum of the profit shares of A and C is Rs. 4200, then find the total profit.",
+   "options": [
+    "10200 Rs.",
+    "11200 Rs.",
+    "11600 Rs.",
+    "11800 Rs.",
+    "10800 Rs."
+   ],
+   "correct": 1,
+   "explanation": "Profit ratio A : B : C = 2400x6 : 2800x12 : 2880x2 = 14400 : 33600 : 5760 = 15 : 35 : 6. A + C = 21 parts = Rs. 4200, so 1 part = Rs. 200 and total profit = 56 x 200 = Rs. 11200.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q042",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "simple-compound-interest",
+   "difficulty": 2,
+   "question": "A man borrowed Rs. 12000 on compound interest at the rate of 20% per annum, and at the end of the first year the man again borrowed Rs. 'X' more on compound interest at the same rate of interest. If at the end of the second year the man paid a total amount of Rs. 20400, then find the value of 'X'.",
+   "options": [
+    "Rs. 2400",
+    "Rs. 2000",
+    "Rs. 3600",
+    "Rs. 2600",
+    "Rs. 4000"
+   ],
+   "correct": 3,
+   "explanation": "After year 1 the debt is 12000 x 1.2 = 14400. Then (14400 + X) x 1.2 = 20400, so 14400 + X = 17000 and X = Rs. 2600.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q043",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "quadratic-equations",
+   "difficulty": 1,
+   "question": "In the following question two equations (I) and (II) are given. Solve both the equations and mark the appropriate answer.\n\nI. x² = 256\nII. y² - 17y + 16 = 0",
+   "options": [
+    "x = y or no relation can be established",
+    "x > y",
+    "x < y",
+    "x ≥ y",
+    "x ≤ y"
+   ],
+   "correct": 0,
+   "explanation": "I: x = 16 or -16. II: (y-1)(y-16) = 0, y = 1 or 16. x = 16 vs y = 16 gives equality but x = -16 < y, so no definite relation.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q044",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "quadratic-equations",
+   "difficulty": 1,
+   "question": "In the following question two equations (I) and (II) are given. Solve both the equations and mark the appropriate answer.\n\nI. x² + 20x + 100 = 0\nII. y² + 13y + 30 = 0",
+   "options": [
+    "x = y or no relation can be established",
+    "x > y",
+    "x < y",
+    "x ≥ y",
+    "x ≤ y"
+   ],
+   "correct": 4,
+   "explanation": "I: (x+10)² = 0, x = -10. II: (y+10)(y+3) = 0, y = -10 or -3. x is always less than or equal to y, so x ≤ y.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q045",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "quadratic-equations",
+   "difficulty": 2,
+   "question": "In the following question two equations (I) and (II) are given. Solve both the equations and mark the appropriate answer.\n\nI. 4x² - 8x - 5 = 0\nII. 2y² - 11y + 14 = 0",
+   "options": [
+    "x = y or no relation can be established",
+    "x > y",
+    "x < y",
+    "x ≥ y",
+    "x ≤ y"
+   ],
+   "correct": 0,
+   "explanation": "I: (2x+1)(2x-5) = 0, x = -1/2 or 5/2. II: (2y-7)(y-2) = 0, y = 2 or 7/2. x = 5/2 > y = 2 but x = -1/2 < y, so no definite relation.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q046",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "quadratic-equations",
+   "difficulty": 2,
+   "question": "In the following question two equations (I) and (II) are given. Solve both the equations and mark the appropriate answer.\n\nI. 6x² + 5x + 1 = 0\nII. 20y² + 9y + 1 = 0",
+   "options": [
+    "x = y or no relation can be established",
+    "x > y",
+    "x < y",
+    "x ≥ y",
+    "x ≤ y"
+   ],
+   "correct": 2,
+   "explanation": "I: (3x+1)(2x+1) = 0, x = -1/3 or -1/2. II: (4y+1)(5y+1) = 0, y = -1/4 or -1/5. The largest x (-1/3) is still smaller than the smallest y (-1/4), so x < y.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q047",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "quadratic-equations",
+   "difficulty": 2,
+   "question": "In the following question two equations (I) and (II) are given. Solve both the equations and mark the appropriate answer.\n\nI. 2x² - 9x + 9 = 0\nII. 6y² - 17y + 12 = 0",
+   "options": [
+    "x = y or no relation can be established",
+    "x > y",
+    "x < y",
+    "x ≥ y",
+    "x ≤ y"
+   ],
+   "correct": 3,
+   "explanation": "I: (2x-3)(x-3) = 0, x = 3/2 or 3. II: (2y-3)(3y-4) = 0, y = 3/2 or 4/3. Every x is greater than or equal to every y, so x ≥ y.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q048",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "quadratic-equations",
+   "difficulty": 2,
+   "question": "In the following question two equations (I) and (II) are given. Solve both the equations and mark the appropriate answer.\n\nI. 4x² - 17x + 15 = 0\nII. 2y² - 17y + 35 = 0",
+   "options": [
+    "x = y or no relation can be established",
+    "x > y",
+    "x < y",
+    "x ≥ y",
+    "x ≤ y"
+   ],
+   "correct": 2,
+   "explanation": "I: (x-3)(4x-5) = 0, x = 3 or 5/4. II: (y-5)(2y-7) = 0, y = 5 or 7/2. The smallest y (7/2) exceeds the largest x (3), so x < y.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q049",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "simple-compound-interest",
+   "difficulty": 2,
+   "question": "'A' invested Rs. X in a scheme on simple interest at the rate of 20% p.a. for two years and 'B' invested Rs. Y in the same scheme. If the interest received by A is Rs. 480 more than that of B after two years, and X is 25% more than Y, then find the sum of the amounts invested by A and B.",
+   "options": [
+    "11400 Rs.",
+    "10800 Rs.",
+    "10200 Rs.",
+    "10400 Rs.",
+    "11800 Rs."
+   ],
+   "correct": 1,
+   "explanation": "X = 1.25Y. Interest difference: (1.25Y - Y) x 2 x 20% = 480, so 0.1Y = 480 and Y = 4800, X = 6000. Sum = Rs. 10800.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q050",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "profit-loss",
+   "difficulty": 2,
+   "question": "A shopkeeper marked the price of a pair of jeans 25% above the cost price and allowed two successive discounts of 10% and 5% respectively. If the shopkeeper made a profit of Rs. 89.1, then find at what price the shopkeeper should sell the jeans to make a profit of 40%.",
+   "options": [
+    "1844.4 Rs.",
+    "1814.4 Rs.",
+    "1860.4 Rs.",
+    "1890.4 Rs.",
+    "1880.4 Rs."
+   ],
+   "correct": 1,
+   "explanation": "Let CP = 100x; SP = 125x x 0.9 x 0.95 = 106.875x. Profit 6.875x = 89.1 gives x = 12.96, so CP = Rs. 1296. For 40% profit, SP = 1296 x 1.4 = Rs. 1814.4.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q051",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "probability",
+   "difficulty": 2,
+   "question": "A box contains 12 red, 6 green and 'x' yellow balls. The probability of choosing one green ball out of the box is 2/9. Find the probability of choosing one ball which can be either red or yellow.",
+   "options": [
+    "4/9",
+    "5/9",
+    "2/3",
+    "7/9",
+    "8/9"
+   ],
+   "correct": 3,
+   "explanation": "6/(18+x) = 2/9 gives x = 9, total balls = 27. P(red or yellow) = (12+9)/27 = 21/27 = 7/9 (equivalently 1 - 2/9... = 1 - 6/27 = 7/9).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q052",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "percentages",
+   "difficulty": 2,
+   "question": "When the digits of a two-digit number are reversed, the number obtained is 9 less than twice the original number. Also, the new number obtained is 175% of the original number. Find the sum of the digits of the number.",
+   "options": [
+    "13",
+    "10",
+    "9",
+    "12",
+    "15"
+   ],
+   "correct": 2,
+   "explanation": "1.75(10x+y) = 10y+x gives x : y = 1 : 2. With digits a and 2a: 21a + 9 = 2(12a) gives a = 3, so the number is 36 (reversed 63). Sum of digits = 9.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q053",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "boats-streams",
+   "difficulty": 2,
+   "question": "The time taken by a boat upstream is double the time taken by it downstream, but the distance covered upstream is only 75% of the distance covered downstream. Find the ratio of the speed of the boat in still water to the speed of the current.",
+   "options": [
+    "5 : 11",
+    "11 : 7",
+    "7 : 11",
+    "11 : 3",
+    "11 : 5"
+   ],
+   "correct": 4,
+   "explanation": "With downstream distance d, (3d/4)/(x-y) = 2 x d/(x+y) gives 3(x+y) = 8(x-y), so 11y = 5x and x : y = 11 : 5.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q054",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre20-set4",
+   "question": "If the total vacant seats in bus C are 60% less than those in bus E, then find the number of vacant seats in bus D.",
+   "options": [
+    "6",
+    "5",
+    "4",
+    "7",
+    "3"
+   ],
+   "correct": 1,
+   "explanation": "C vacant = 15 x 40% = 6 = 40% of E vacant, so E vacant = 15. A vacant = 8, B vacant = 6. D vacant = 40 - (8+6+6+15) = 5.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q055",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre20-set4",
+   "question": "Find the ratio of total vacant seats in bus B to total booked seats in bus A.",
+   "options": [
+    "1 : 3",
+    "1 : 2",
+    "2 : 3",
+    "3 : 4",
+    "1 : 1"
+   ],
+   "correct": 1,
+   "explanation": "B vacant = 24 x 25% = 6; A booked = 20 x 60% = 12. Ratio = 6 : 12 = 1 : 2.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q056",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre20-set4",
+   "question": "Vacant seats in bus C are what percent less than vacant seats in bus A?",
+   "options": [
+    "15%",
+    "20%",
+    "30%",
+    "25%",
+    "36%"
+   ],
+   "correct": 3,
+   "explanation": "A vacant = 8, C vacant = 6. Required % = (8-6)/8 x 100 = 25%.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q057",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-pre20-set4",
+   "question": "What percent of seats remained vacant in buses A, C and D together, if the ratio of total seats booked in bus B to bus E is 18 : 25?",
+   "options": [
+    "30%",
+    "33 2/3%",
+    "31 2/3%",
+    "33 1/3%",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "B booked = 18, so E booked = 25; E total = 25/(62.5%) = 40 and D total = 65 - 40 = 25. Vacant in A, C, D = 8 + 6 + 5 = 19 out of 20 + 15 + 25 = 60 seats, i.e., 19/60 x 100 = 31 2/3%.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q058",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-pre20-set4",
+   "question": "If the difference between total vacant seats in buses D and E is 10, then find the ratio of booked seats in D to E.",
+   "options": [
+    "4 : 3",
+    "4 : 5",
+    "4 : 7",
+    "3 : 5",
+    "3 : 4"
+   ],
+   "correct": 1,
+   "explanation": "Let D have x seats, E have 65 - x. Vacant: E = (65-x) x 3/8, D = 0.2x; (65-x) x 3/8 - x/5 = 10 gives 975 - 23x = 400, x = 25. Booked D : E = 20 : 25 = 4 : 5.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q059",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre20-set4",
+   "question": "Find the average number of booked seats in buses A, B and C.",
+   "options": [
+    "13",
+    "8",
+    "9",
+    "11",
+    "7"
+   ],
+   "correct": 0,
+   "explanation": "Booked: A = 12, B = 18, C = 9. Average = (12+18+9)/3 = 13.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q060",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "simplification-approximation",
+   "difficulty": 1,
+   "question": "What approximate value should come in place of the question mark (?) in the following question?\n\n379.98 + (7.99)² - ? + 901.03 = 969.93",
+   "options": [
+    "380",
+    "385",
+    "365",
+    "345",
+    "375"
+   ],
+   "correct": 4,
+   "explanation": "380 + 64 - ? + 901 = 970, so ? = 1345 - 970 = 375.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q061",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "simplification-approximation",
+   "difficulty": 1,
+   "question": "What approximate value should come in place of the question mark (?) in the following question?\n\n(89.99% of 7000.02 + (24.01)²) ÷ ? = 1719.01",
+   "options": [
+    "4",
+    "3",
+    "2",
+    "6",
+    "5"
+   ],
+   "correct": 0,
+   "explanation": "(6300 + 576) ÷ ? = 1719, so ? = 6876/1719 = 4.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q062",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "simplification-approximation",
+   "difficulty": 1,
+   "question": "What approximate value should come in place of the question mark (?) in the following question?\n\n32.01 x 4.99 + ? = 64.03% of 349.97",
+   "options": [
+    "48",
+    "96",
+    "72",
+    "64",
+    "32"
+   ],
+   "correct": 3,
+   "explanation": "160 + ? = 64% of 350 = 224, so ? = 64.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q063",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "simplification-approximation",
+   "difficulty": 2,
+   "question": "What approximate value should come in place of the question mark (?) in the following question?\n\n312.07/? + (12.99)² = 20.01% of 909.99",
+   "options": [
+    "None of these",
+    "48",
+    "6",
+    "12",
+    "24"
+   ],
+   "correct": 4,
+   "explanation": "312/? + 169 = 182, so 312/? = 13 and ? = 24.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q064",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "simplification-approximation",
+   "difficulty": 2,
+   "question": "What approximate value should come in place of the question mark (?) in the following question?\n\n199.99 + 12.01% of 499.99 - ∛63.99 = ?²",
+   "options": [
+    "12",
+    "16",
+    "14",
+    "18",
+    "8"
+   ],
+   "correct": 1,
+   "explanation": "200 + 60 - 4 = 256 = ?², so ? = 16.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q065",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "simplification-approximation",
+   "difficulty": 2,
+   "question": "What approximate value should come in place of the question mark (?) in the following question?\n\n84.01/? + 26.03% of 799.97 + (16.03)^(1/4) = (5.99)³",
+   "options": [
+    "42",
+    "21",
+    "12",
+    "14",
+    "4"
+   ],
+   "correct": 3,
+   "explanation": "84/? + 208 + 2 = 216, so 84/? = 6 and ? = 14.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q066",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "alphanumeric-series",
+   "difficulty": 2,
+   "question": "In the given number '729645138', if all the even digits are increased by 1 and all the odd digits are decreased by 1, what is the resultant when the third and the sixth digits from the left end of the new number are multiplied?",
+   "options": [
+    "24",
+    "18",
+    "25",
+    "36",
+    "32"
+   ],
+   "correct": 4,
+   "explanation": "729645138 becomes 638754029. The third digit from the left is 8 and the sixth is 4; 8 x 4 = 32.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q067",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre20-set5",
+   "question": "Who among the following works with Q, apart from L?",
+   "options": [
+    "P",
+    "K",
+    "N",
+    "R",
+    "Both (b) and (d)"
+   ],
+   "correct": 4,
+   "explanation": "M works only with O; since M is not in IT and O is not in Production, M-O form the two-member HR. P (not HR, not with K-R) goes to IT with J and N, and K, R join L, Q in Production. So both K and R work with Q.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q068",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre20-set5",
+   "question": "How many persons work in HR?",
+   "options": [
+    "Two",
+    "One",
+    "Four",
+    "Three",
+    "Can't be determined"
+   ],
+   "correct": 0,
+   "explanation": "HR consists of only M and O (M works only with O) - two persons. Final grouping: IT - P, J, N; HR - M, O; Production - L, Q, K, R.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q069",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre20-set5",
+   "question": "In which of the following departments does R work?",
+   "options": [
+    "IT",
+    "HR or IT",
+    "Production",
+    "HR",
+    "IT or Production"
+   ],
+   "correct": 2,
+   "explanation": "K and R cannot be with P or J (both in IT) and HR is full with M-O, so R works in Production along with K, L and Q.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q070",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre20-set5",
+   "question": "Four of the following five are alike in a certain way and so form a group. Find the one which does not belong to that group.",
+   "options": [
+    "P-N",
+    "J-K",
+    "L-K",
+    "Q-R-L",
+    "M-O"
+   ],
+   "correct": 1,
+   "explanation": "P-N (IT), L-K (Production), Q-R-L (Production) and M-O (HR) are colleagues in the same department, while J (IT) and K (Production) work in different departments.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q071",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre20-set5",
+   "question": "Which of the following pairs/groups of persons works in IT?",
+   "options": [
+    "P-J",
+    "P-K",
+    "R-J",
+    "N-R",
+    "K-N"
+   ],
+   "correct": 0,
+   "explanation": "IT consists of P, J and N, so the pair P-J works in IT.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q072",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre20-set6",
+   "question": "Which of the following statements is true?",
+   "options": [
+    "C takes a lecture before E",
+    "F takes the lecture on Coffee",
+    "B takes a lecture in January",
+    "C does not take the lecture on Juice",
+    "None is true"
+   ],
+   "correct": 1,
+   "explanation": "The schedule works out to: January-E (Tea), May-C (Juice), June-A (Diaper), July-F (Coffee), September-D (Baby Lotion), December-B (Cold Drink). F indeed takes the Coffee lecture; the other statements contradict this schedule.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q073",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-pre20-set6",
+   "question": "The number of persons taking a lecture after C is the same as the number of persons taking a lecture between ___ and ___?",
+   "options": [
+    "E and the one who takes the lecture on Cold Drink",
+    "C and D",
+    "The one who takes the lecture on Baby Lotion and F",
+    "Both (a) and (c)",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "Four persons (A, F, D, B) lecture after C (May). Between E (January) and B, the Cold Drink lecturer (December), there are also four persons (C, A, F, D); between the Baby Lotion lecturer D (September) and F (July) there is only one month gap with no lecturer in between counted this way, so only option (a) matches.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q074",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre20-set6",
+   "question": "Who among the following takes a lecture in May?",
+   "options": [
+    "F",
+    "E",
+    "B",
+    "C",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "C takes the May lecture (on Juice).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q075",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre20-set6",
+   "question": "Four of the following five are alike in a certain way and so form a group. Find the one who does not belong to that group.",
+   "options": [
+    "D",
+    "B",
+    "F",
+    "E",
+    "C"
+   ],
+   "correct": 0,
+   "explanation": "B (December), F (July), E (January) and C (May) all lecture in 31-day months, while D lectures in September, a 30-day month.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q076",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre20-set6",
+   "question": "Who among the following takes a lecture just before B?",
+   "options": [
+    "The one who takes the lecture on Baby Lotion",
+    "E",
+    "D",
+    "Both (a) and (c)",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "B lectures in December; just before B comes D (September), who takes the Baby Lotion lecture - so both (a) and (c) are correct.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q077",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "alphanumeric-series",
+   "difficulty": 2,
+   "question": "If it is possible to make a meaningful word with the 1st, 3rd, 9th and 11th letters of the word 'AGGREGATION', which would be the third letter of the word from the left? If more than one such meaningful word can be formed, give 'Y' as the answer. If no such meaningful word can be formed, give 'Z' as your answer.",
+   "options": [
+    "Y",
+    "A",
+    "I",
+    "Z",
+    "N"
+   ],
+   "correct": 2,
+   "explanation": "The 1st, 3rd, 9th and 11th letters of AGGREGATION are A, G, I and N, which form exactly one meaningful word - GAIN. Its third letter is I.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q078",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-pre20-set7",
+   "question": "How many persons sit between A and H when counted from the right of A?",
+   "options": [
+    "One",
+    "Three",
+    "Six",
+    "Five",
+    "Two"
+   ],
+   "correct": 2,
+   "explanation": "The arrangement clockwise is: G (corner), B (middle), A (corner), H (middle), D (corner), C (middle), F (corner), E (middle). A faces the centre, so A's right runs anti-clockwise: B, G, E, F, C, D and then H - six persons sit between A and H.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q079",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre20-set7",
+   "question": "Who sits immediate left of D?",
+   "options": [
+    "C",
+    "H",
+    "B",
+    "E",
+    "A"
+   ],
+   "correct": 0,
+   "explanation": "D sits at a corner facing the centre, so D's immediate left is the next seat clockwise, which is occupied by C.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q080",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre20-set7",
+   "question": "Four of the following are alike in a certain way; find the one which is different from all.",
+   "options": [
+    "D",
+    "F",
+    "C",
+    "G",
+    "A"
+   ],
+   "correct": 2,
+   "explanation": "D, F, G and A all sit at corners facing the centre; C sits at the middle of a side facing outside.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q081",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre20-set7",
+   "question": "Which of the following pairs faces outside the centre?",
+   "options": [
+    "D, F",
+    "A, B",
+    "F, E",
+    "H, E",
+    "G, B"
+   ],
+   "correct": 3,
+   "explanation": "The middle-side (outside-facing) sitters are B, H, C and E; among the given pairs only H, E are both outside-facing.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q082",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "syllogism",
+   "difficulty": 2,
+   "question": "Statements:\nOnly points are draw.\nOnly a few points are pins.\nSome pins are toys.\nConclusions:\nI. All pins are points.\nII. No toys are point.",
+   "options": [
+    "Only conclusion I follows",
+    "Only conclusion II follows",
+    "Either conclusion I or II follows",
+    "Neither conclusion I nor II follows",
+    "Both conclusions I and II follow"
+   ],
+   "correct": 3,
+   "explanation": "'Only a few points are pins' fixes just a partial overlap - pins may or may not lie wholly inside points, so I is not definite. Toys are linked only to pins and are not definitely excluded from points, so II is not definite either.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q083",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "syllogism",
+   "difficulty": 3,
+   "question": "Statements:\nOnly pennies are coins.\nSome gems are pennies.\nOnly pennies are dollar.\nConclusions:\nI. Some pennies are not gems.\nII. All coins being gems is a possibility.",
+   "options": [
+    "Only conclusion I follows",
+    "Only conclusion II follows",
+    "Either conclusion I or II follows",
+    "Neither conclusion I nor II follows",
+    "Both conclusions I and II follow"
+   ],
+   "correct": 0,
+   "explanation": "Book's key: only I follows. Under the book's convention, 'only pennies are coins/dollar' makes coins and dollar exclusive sub-classes of pennies that other classes (like gems) cannot coincide with; it therefore treats the coin/dollar portion of pennies as distinct from gems, so I is taken as definite and the possibility in II as blocked. On a strict Venn reading II would also be possible, so treat this key with caution.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq",
+    "book-typo-suspect"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q084",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "syllogism",
+   "difficulty": 2,
+   "question": "Statements:\nAll caps are bullet.\nNo pill is cap.\nNo bullet is gun.\nConclusions:\nI. Some caps being gun is a possibility.\nII. Some bullets are not pill.",
+   "options": [
+    "Only conclusion I follows",
+    "Only conclusion II follows",
+    "Either conclusion I or II follows",
+    "Neither conclusion I nor II follows",
+    "Both conclusions I and II follow"
+   ],
+   "correct": 1,
+   "explanation": "All caps are bullets and no bullet is a gun, so no cap can ever be a gun - I fails. Since no pill is a cap, the caps (which are bullets) are bullets that are not pills, so II definitely follows.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q085",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "syllogism",
+   "difficulty": 2,
+   "question": "Statements:\nOnly gloves are socks.\nNo gloves are foot.\nOnly gloves are stands.\nConclusions:\nI. No socks are foot.\nII. Some gloves are not foot.",
+   "options": [
+    "Only conclusion I follows",
+    "Only conclusion II follows",
+    "Either conclusion I or II follows",
+    "Neither conclusion I nor II follows",
+    "Both conclusions I and II follow"
+   ],
+   "correct": 4,
+   "explanation": "'Only gloves are socks' places all socks inside gloves, and no glove is foot, so no sock is foot (I follows). Since no glove is foot, 'some gloves are not foot' is certainly true as well (II follows).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q086",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "alphanumeric-series",
+   "difficulty": 2,
+   "question": "In the word 'HANDCRAFT', how many pairs of letters have the same number of letters between them in the word (in both forward and backward directions) as in the alphabetical series?",
+   "options": [
+    "One",
+    "Three",
+    "Two",
+    "More than three",
+    "None"
+   ],
+   "correct": 3,
+   "explanation": "In H-A-N-D-C-R-A-F-T the pairs N-T, D-C, D-A, C-A and C-F each have the same number of letters between them in the word as in the alphabet - five pairs, i.e., more than three.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q087",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-pre20-set8",
+   "question": "If X sits fifth to the right of H, then how many persons sit between X and A?",
+   "options": [
+    "Two",
+    "Five",
+    "Three",
+    "Four",
+    "Seven"
+   ],
+   "correct": 3,
+   "explanation": "From the left: J is 2nd, D 4th, H 6th; T must be 3rd from the right end (3rd from the left would make J and T neighbours). With A 16th, G 20th and T 26th all clues hold, giving 28 persons. X = 11th (five right of H), so persons 12th-15th - four - sit between X and A (16th).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q088",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-pre20-set8",
+   "question": "What is the total number of persons sitting in the straight line?",
+   "options": [
+    "28",
+    "14",
+    "17",
+    "25",
+    "32"
+   ],
+   "correct": 0,
+   "explanation": "J=2nd, D=4th, H=6th. Taking A=16th makes persons between A and T equal persons between A and H (nine each) with T=26th, and G=20th satisfies three between A-G and five between G-T. T being 3rd from the right end gives 26 + 2 = 28 persons.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q089",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre20-set8",
+   "question": "How many persons sit between J and H?",
+   "options": [
+    "Five",
+    "Three",
+    "Four",
+    "Six",
+    "None"
+   ],
+   "correct": 1,
+   "explanation": "J is 2nd and H is 6th from the left, so the 3rd, 4th and 5th persons - three - sit between them.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q090",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre20-set9",
+   "question": "Which of the following is true?\nI. Three persons were born between S and R.\nII. M was born in the month which has 30 days.\nIII. D was born just before S.",
+   "options": [
+    "Only II",
+    "Both I and III",
+    "Only I",
+    "Both II and III",
+    "None is true"
+   ],
+   "correct": 1,
+   "explanation": "Birth order: Feb 13-D, Feb 24-S, Apr 13-P, Apr 24-B, Aug 13-Q, Aug 24-R, Oct 13-M, Oct 24-H. Three persons (P, B, Q) were born between S and R (I true); M was born in October, a 31-day month (II false); D was born just before S (III true).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q091",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-pre20-set9",
+   "question": "How many persons were born before the one who was born just after P?",
+   "options": [
+    "As many persons as were born between H and B",
+    "Two",
+    "The same as the number of persons born after R",
+    "Five",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "The one born just after P (Apr 13) is B (Apr 24), the 4th born, so three persons were born before B. Between B (4th) and H (8th) there are also three persons (Q, R, M), so option (a) is correct; after R only two persons were born.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q092",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre20-set9",
+   "question": "How many persons were born between Q and D?",
+   "options": [
+    "4",
+    "2",
+    "1",
+    "3",
+    "5"
+   ],
+   "correct": 3,
+   "explanation": "D was born 1st and Q 5th, so S, P and B - three persons - were born between them.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q093",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre20-set9",
+   "question": "Four of the following five are alike in a certain way and so form a group. Find the one who does not belong to that group.",
+   "options": [
+    "D",
+    "Q",
+    "M",
+    "P",
+    "H"
+   ],
+   "correct": 4,
+   "explanation": "D, Q, M and P were all born on the 13th of their months; H was born on the 24th.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q094",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "coding-decoding",
+   "difficulty": 2,
+   "question": "In the given word 'CARBONIZE', if each vowel is replaced with its next letter and each consonant is replaced with its previous letter, then how many letters are repeated?",
+   "options": [
+    "Two",
+    "One",
+    "Three",
+    "More than three",
+    "None"
+   ],
+   "correct": 1,
+   "explanation": "CARBONIZE becomes B-B-Q-A-P-M-J-Y-F (C to B, A to B, R to Q, B to A, O to P, N to M, I to J, Z to Y, E to F). Only the letter B occurs twice, so exactly one letter is repeated.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q095",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "blood-relations",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre20-set10",
+   "question": "How many females are living in the family?",
+   "options": [
+    "Two",
+    "Four",
+    "More than four",
+    "Three",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "H (male) is married to M (female); their three children are B and his only sisters A and C (females). Since V is not a son-in-law of M, V is B's wife (female) and B is male; R is B's paternal grandfather (male). Females: M, A, C, V - four.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q096",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "blood-relations",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre20-set10",
+   "question": "How is M related to R?",
+   "options": [
+    "Daughter",
+    "Mother-in-law",
+    "Daughter-in-law",
+    "Mother",
+    "Wife"
+   ],
+   "correct": 2,
+   "explanation": "R is the paternal grandfather of B, i.e., the father of H; M is H's wife, so M is R's daughter-in-law.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q097",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "order-ranking",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre20-set11",
+   "question": "How many jars have less water than jar A?",
+   "options": [
+    "One",
+    "Two",
+    "Four",
+    "Three",
+    "Can't be determined"
+   ],
+   "correct": 4,
+   "explanation": "The order is C(33) > D > A/B > B/A > F(15) > E; F holds 15 litres because the 15-litre jar is just above E while B exceeds 15. Since A and B's mutual order is not fixed, the count below A is 2 or 3 - it cannot be determined.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q098",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "order-ranking",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre20-set11",
+   "question": "If jar D has twice the quantity of jar F, then what is the exact quantity of water in jar D?",
+   "options": [
+    "66 litres",
+    "22 litres",
+    "13 litres",
+    "30 litres",
+    "25 litres"
+   ],
+   "correct": 3,
+   "explanation": "F holds 15 litres, so D = 2 x 15 = 30 litres, which correctly lies between F and C (33 litres, the maximum).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q099",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "order-ranking",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre20-set11",
+   "question": "If jar A has 16 litres of water, then what may be the possible quantity of water in jar D?",
+   "options": [
+    "25 litres",
+    "9 litres",
+    "12 litres",
+    "35 litres",
+    "16 litres"
+   ],
+   "correct": 0,
+   "explanation": "D lies strictly between A (16 litres) and C (33 litres); among the options only 25 litres fits.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre20-q100",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "order-ranking",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre20-set11",
+   "question": "If jar B has 10 litres more water than jar F, then what is the sum of the quantities of water in jar B and jar C?",
+   "options": [
+    "57 litres",
+    "56 litres",
+    "51 litres",
+    "47 litres",
+    "None of these"
+   ],
+   "correct": 4,
+   "explanation": "B = 15 + 10 = 25 litres and C = 33 litres, so B + C = 58 litres, which is not among the given options - hence 'None of these'.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2020 (memory-based, 50+ Papers book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  }
+ ],
+ "paper": {
+  "id": "sbi-po-pre-2020",
+  "name": "SBI PO Prelims 2020",
+  "exam": "sbi-po",
+  "stage": "prelims",
+  "year": 2020,
+  "sections": [
+   {
+    "name": "English Language",
+    "pool": "english",
+    "minutes": 20,
+    "marksPerQuestion": 1,
+    "questionIds": [
+     "pyq-sbipo-pre20-q001",
+     "pyq-sbipo-pre20-q002",
+     "pyq-sbipo-pre20-q003",
+     "pyq-sbipo-pre20-q004",
+     "pyq-sbipo-pre20-q005",
+     "pyq-sbipo-pre20-q006",
+     "pyq-sbipo-pre20-q007",
+     "pyq-sbipo-pre20-q008",
+     "pyq-sbipo-pre20-q009",
+     "pyq-sbipo-pre20-q010",
+     "pyq-sbipo-pre20-q011",
+     "pyq-sbipo-pre20-q012",
+     "pyq-sbipo-pre20-q013",
+     "pyq-sbipo-pre20-q014",
+     "pyq-sbipo-pre20-q015",
+     "pyq-sbipo-pre20-q016",
+     "pyq-sbipo-pre20-q017",
+     "pyq-sbipo-pre20-q018",
+     "pyq-sbipo-pre20-q019",
+     "pyq-sbipo-pre20-q020",
+     "pyq-sbipo-pre20-q021",
+     "pyq-sbipo-pre20-q022",
+     "pyq-sbipo-pre20-q023",
+     "pyq-sbipo-pre20-q024",
+     "pyq-sbipo-pre20-q025",
+     "pyq-sbipo-pre20-q026",
+     "pyq-sbipo-pre20-q027",
+     "pyq-sbipo-pre20-q028",
+     "pyq-sbipo-pre20-q029",
+     "pyq-sbipo-pre20-q030"
+    ]
+   },
+   {
+    "name": "Quantitative Aptitude",
+    "pool": "quant",
+    "minutes": 20,
+    "marksPerQuestion": 1,
+    "questionIds": [
+     "pyq-sbipo-pre20-q031",
+     "pyq-sbipo-pre20-q032",
+     "pyq-sbipo-pre20-q033",
+     "pyq-sbipo-pre20-q034",
+     "pyq-sbipo-pre20-q035",
+     "pyq-sbipo-pre20-q036",
+     "pyq-sbipo-pre20-q037",
+     "pyq-sbipo-pre20-q038",
+     "pyq-sbipo-pre20-q039",
+     "pyq-sbipo-pre20-q040",
+     "pyq-sbipo-pre20-q041",
+     "pyq-sbipo-pre20-q042",
+     "pyq-sbipo-pre20-q043",
+     "pyq-sbipo-pre20-q044",
+     "pyq-sbipo-pre20-q045",
+     "pyq-sbipo-pre20-q046",
+     "pyq-sbipo-pre20-q047",
+     "pyq-sbipo-pre20-q048",
+     "pyq-sbipo-pre20-q049",
+     "pyq-sbipo-pre20-q050",
+     "pyq-sbipo-pre20-q051",
+     "pyq-sbipo-pre20-q052",
+     "pyq-sbipo-pre20-q053",
+     "pyq-sbipo-pre20-q054",
+     "pyq-sbipo-pre20-q055",
+     "pyq-sbipo-pre20-q056",
+     "pyq-sbipo-pre20-q057",
+     "pyq-sbipo-pre20-q058",
+     "pyq-sbipo-pre20-q059",
+     "pyq-sbipo-pre20-q060",
+     "pyq-sbipo-pre20-q061",
+     "pyq-sbipo-pre20-q062",
+     "pyq-sbipo-pre20-q063",
+     "pyq-sbipo-pre20-q064",
+     "pyq-sbipo-pre20-q065"
+    ]
+   },
+   {
+    "name": "Reasoning Ability",
+    "pool": "reasoning",
+    "minutes": 20,
+    "marksPerQuestion": 1,
+    "questionIds": [
+     "pyq-sbipo-pre20-q066",
+     "pyq-sbipo-pre20-q067",
+     "pyq-sbipo-pre20-q068",
+     "pyq-sbipo-pre20-q069",
+     "pyq-sbipo-pre20-q070",
+     "pyq-sbipo-pre20-q071",
+     "pyq-sbipo-pre20-q072",
+     "pyq-sbipo-pre20-q073",
+     "pyq-sbipo-pre20-q074",
+     "pyq-sbipo-pre20-q075",
+     "pyq-sbipo-pre20-q076",
+     "pyq-sbipo-pre20-q077",
+     "pyq-sbipo-pre20-q078",
+     "pyq-sbipo-pre20-q079",
+     "pyq-sbipo-pre20-q080",
+     "pyq-sbipo-pre20-q081",
+     "pyq-sbipo-pre20-q082",
+     "pyq-sbipo-pre20-q083",
+     "pyq-sbipo-pre20-q084",
+     "pyq-sbipo-pre20-q085",
+     "pyq-sbipo-pre20-q086",
+     "pyq-sbipo-pre20-q087",
+     "pyq-sbipo-pre20-q088",
+     "pyq-sbipo-pre20-q089",
+     "pyq-sbipo-pre20-q090",
+     "pyq-sbipo-pre20-q091",
+     "pyq-sbipo-pre20-q092",
+     "pyq-sbipo-pre20-q093",
+     "pyq-sbipo-pre20-q094",
+     "pyq-sbipo-pre20-q095",
+     "pyq-sbipo-pre20-q096",
+     "pyq-sbipo-pre20-q097",
+     "pyq-sbipo-pre20-q098",
+     "pyq-sbipo-pre20-q099",
+     "pyq-sbipo-pre20-q100"
+    ]
+   }
+  ]
+ }
+}
