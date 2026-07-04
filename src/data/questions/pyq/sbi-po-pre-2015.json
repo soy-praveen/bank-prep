@@ -1,0 +1,2717 @@
+{
+ "sets": [
+  {
+   "id": "pyq-sbipo-pre15-set1",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "title": "Circular Seating - Eight People Facing Centre",
+   "context": "A, B, C, D, E, F, G and H are sitting around a circle facing the centre.\nB is 2nd to the right of D who is 3rd to the right of F.\nC is 2nd to the left of A who is 2nd to the left of F.\nG is 3rd to the right of E."
+  },
+  {
+   "id": "pyq-sbipo-pre15-set2",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "title": "Club Members - Sport and Colour Preferences",
+   "context": "P, Q, R, S, T, V and W are seven members of a club. Each of them has a favourite sport from Chess, Table Tennis, Lawn Tennis, Volleyball, Badminton, Basketball and Carrom (not necessarily in that order). Each of them also has a specific choice of colour from Blue, Red, Green, Yellow, Grey, Black and White (not necessarily in that order).\nR likes Green and his favourite sport is Badminton.\nV's choice of colour is neither Red nor Black.\nT's favourite sport is neither Table Tennis nor Basketball.\nThe one who likes Blue does not like Carrom.\nThe one who likes Volleyball does not like Yellow and Grey.\nQ's favourite sport is Lawn Tennis and he likes Black.\nS likes White.\nW likes Basketball.\nP likes Volleyball.\nT likes Blue.\nThe one who likes Basketball does not like Grey."
+  },
+  {
+   "id": "pyq-sbipo-pre15-set3",
+   "section": "reasoning",
+   "topic": "blood-relations",
+   "title": "Family of Six Members",
+   "context": "In a family there are six members - A, B, C, D, E and F. A and B are a married couple, A being the male member. D is the only son of C, who is the brother of A. E is the sister of D. B is the daughter-in-law of F, whose husband has died."
+  },
+  {
+   "id": "pyq-sbipo-pre15-set4",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "title": "Line Graph - Production of Two Companies (2008-2015)",
+   "context": "The line graph shows the production (in lakh units) of two companies, A and B, over the years 2008 to 2015. (Chart is image-based in the source; the year-wise figures below were reconstructed from the arithmetic shown in the solutions.)\n\n| Year | Company A | Company B |\n|---|---|---|\n| 2008 | 4 | 1 |\n| 2009 | 3 | 1 |\n| 2010 | 8 | 1 |\n| 2011 | 8 | 2 |\n| 2012 | 8 | 3 |\n| 2013 | 7 | 5 |\n| 2014 | 8 | 7 |\n| 2015 | 12 | 11 |\n\n(All figures in lakh units.)"
+  },
+  {
+   "id": "pyq-sbipo-pre15-set5",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "title": "Students by Course and Gender",
+   "context": "Total students = 1200 (800 girls + 400 boys), enrolled across six courses A-F. The chart shows the percentage of total students in each course, and separately the percentage of girls (out of 800) in each course.\n\n| Course | % of total students (1200) | % of girls (out of 800) |\n|---|---|---|\n| A | 20% | 30% |\n| B | 15% | 10% |\n| C | 5% | 2% |\n| D | 35% | 30% |\n| E | 12% | 14% |\n| F | 13% | 14% |"
+  },
+  {
+   "id": "pyq-sbipo-pre15-set6",
+   "section": "english",
+   "topic": "para-jumbles",
+   "title": "Para Jumble - Patterns of Population Growth",
+   "context": "Given below are six sentences (A, B, C, D, E and F), which have been presented in a wrong order. Arrange them to form a meaningful paragraph.\n(A) Some others, like the European nations, have a low birth rate and a low death rate.\n(B) Many others have a high birth rate with a low death rate.\n(C) Different countries show different patterns of growth.\n(D) Some have a high birth rate and still have a high death rate.\n(E) Compared to this, in Europe the growth rate is low.\n(F) The developing countries show the most rapid growth rate."
+  },
+  {
+   "id": "pyq-sbipo-pre15-set7",
+   "section": "english",
+   "topic": "cloze-test",
+   "title": "Cloze: How Children Learn to Talk",
+   "context": "Let children learn to judge their own work. A child ___(76)___ to talk does not learn ___(77)___ being corrected all the time; ___(78)___ corrected too much, he will ___(79)___ talking. He notices a thousand times a day the difference between the ___(80)___ he uses and the language those around him use."
+  },
+  {
+   "id": "pyq-sbipo-pre15-set8",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "title": "RC: Attitudes Toward Extravagance",
+   "context": "It is strange that, according to his position in life, an extravagant man is admired or despised. A successful businessman does nothing to increase his popularity by being careful with his money. He is expected to display his success, to have a smart car, an expensive lifestyle, and to be lavish with his hospitality. If he is not so, he is considered mean and his reputation in business may even suffer in consequence. The paradox remains that if he had not been careful with his money in the first place, he would never have achieved his present wealth. Among the two income groups, a different set of values exists.\n\nThe young clerk who makes his wife a present of a new dress when he hadn't paid his house rent is condemned as extravagant. Carefulness with money to the point of meanness is applauded as a virtue. Nothing in his life is considered more worthy than paying his bills. The ideal wife for such a man separates her housekeeping money into joyless little piles - so much for rent, for food, for the children's shoes; she is able to face the milkman with equanimity and never knows the guilt of buying something she can't really afford. As for myself, I fall into neither of these categories. If I have money to spare I can be extravagant, but when, as is usually the case, I am hard up, then I am the meanest man imaginable."
+  }
+ ],
+ "questions": [
+  {
+   "id": "pyq-sbipo-pre15-q001",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "alphanumeric-series",
+   "difficulty": 3,
+   "question": "How many such pairs of letters are there in the word SHOULDER each of which has as many letters between them in the word as in the English alphabet (counted in the same order as they occur in the word)?",
+   "options": [
+    "None",
+    "One",
+    "Two",
+    "Three",
+    "More than three"
+   ],
+   "correct": 1,
+   "explanation": "SHOULDER = S(1) H(2) O(3) U(4) L(5) D(6) E(7) R(8). Checking pairs where the word-gap equals the alphabet-gap AND the order is preserved (the letter occurring first in the word must also come first alphabetically): D (word position 6) and E (word position 7) are adjacent in the word (0 letters between) and adjacent in the alphabet, D before E both times. This is the only qualifying pair, so the answer is One.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q002",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 2,
+   "question": "If it is possible to make only one meaningful English word with the first, the fifth, the seventh and the tenth letters of the word STREAMLINE, using each letter once in each word, which of the following is the third letter of that word? If no such word can be made, give 'X' as the answer and if more than one such word can be made, give 'Y' as the answer.",
+   "options": [
+    "L",
+    "E",
+    "S",
+    "X",
+    "Y"
+   ],
+   "correct": 4,
+   "explanation": "STREAMLINE = S(1) T(2) R(3) E(4) A(5) M(6) L(7) I(8) N(9) E(10). The 1st, 5th, 7th and 10th letters are S, A, L, E. These four letters can form more than one meaningful word - SALE and SEAL. Since more than one word can be made, the answer is 'Y'.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q003",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 1,
+   "question": "Four of the following five are alike in a certain way and so form a group. Which is the one that does not belong to that group?",
+   "options": [
+    "Nitrogen",
+    "Hydrogen",
+    "Methane",
+    "Neon",
+    "Helium"
+   ],
+   "correct": 2,
+   "explanation": "Nitrogen, Hydrogen, Neon and Helium are all elemental gases (single-element substances), while Methane (CH4) is a compound gas made of carbon and hydrogen. Methane does not belong to the group.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q004",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "coding-decoding",
+   "difficulty": 3,
+   "question": "In a certain code, BREAKING is written as BFSCFMHJ. How is MOTHERLY written in that code?",
+   "options": [
+    "IUPNZMSF",
+    "IUPNXKQD",
+    "IUPNFSMZ",
+    "GSNLZMSF",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "Applying the same letter-substitution pattern used to code BREAKING as BFSCFMHJ to the word MOTHERLY: M/T shift by the same amount to I/P, O/H shift to U/N, E/R shift to X/K, and L/Y shift to Q/D, giving the coded word IUPNXKQD.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q005",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "order-ranking",
+   "difficulty": 2,
+   "question": "Among P, Q, R, S and T, each having a different height, Q is taller than S. T is shorter than P. R is taller than Q but shorter than T. Who among them is the tallest?",
+   "options": [
+    "S",
+    "P",
+    "R",
+    "Data inadequate",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "From the clues: Q > S; P > T; T > R > Q. Combining all: P > T > R > Q > S. So P is the tallest.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q006",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 2,
+   "question": "In a row of 40 children, R is 11th from the right and there are 15 children between R and M. What is M's position from the left end of the row?",
+   "options": [
+    "14th",
+    "15th",
+    "13th",
+    "Can't be determined",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "R is 11th from the right, so R's position from the left = 40 - 11 + 1 = 30th. With 15 children between R and M (M to the left of R), M's position from the left = 30 - 15 - 1 = 14th.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q007",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "coding-decoding",
+   "difficulty": 2,
+   "question": "In a certain code language, 'how many are there' is written as 'ka na ta da' and 'many are welcome here' is written as 'na pa ni ka'. How is 'how' written in that code language?",
+   "options": [
+    "ta",
+    "da",
+    "ta or da",
+    "Data inadequate",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "Comparing the two statements, the common words are 'many' and 'are', and the common codes are 'na' and 'ka'. So {many, are} correspond to {na, ka} in some order, which leaves {ta, da} to stand for the remaining words {how, there} in the first statement, but their exact one-to-one mapping cannot be pinned down. So 'how' is coded as either 'ta' or 'da'.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q008",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "coding-decoding",
+   "difficulty": 2,
+   "question": "If 'R' denotes '÷', 'T' denotes '-', 'M' denotes '+' and 'W' denotes '×', then what is the value of: 27 T 15 R 3 W 4 M 6 = ?",
+   "options": [
+    "7",
+    "13",
+    "-23",
+    "1",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "Substituting the symbols: 27 - 15 ÷ 3 × 4 + 6. By order of operations: 15 ÷ 3 = 5, then 5 × 4 = 20. So the expression becomes 27 - 20 + 6 = 13.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q009",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "direction-sense",
+   "difficulty": 2,
+   "question": "A man is facing west. He turns 45 degrees in the clockwise direction, then another 180 degrees in the same (clockwise) direction, and then 270 degrees in the anticlockwise direction. Which direction is he facing now?",
+   "options": [
+    "South-West",
+    "West",
+    "South",
+    "East-South",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "Starting at West (270 degrees bearing). Turning 45 degrees clockwise gives 315 degrees. Turning another 180 degrees clockwise gives 495 mod 360 = 135 degrees. Turning 270 degrees anticlockwise gives 135 - 270 = -135, which is 225 degrees bearing - South-West.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q010",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "syllogism",
+   "difficulty": 2,
+   "question": "Statements: All drums are tubes. Some tubes are pipes. No pipe is stick. Some sticks are rubbers.\nConclusions: I. Some rubbers are tubes. II. Some sticks are drums. III. Some pipes are drums. IV. Some sticks are tubes.\nWhich conclusions logically follow?",
+   "options": [
+    "None follows",
+    "Only I follows",
+    "Only I and II follow",
+    "Only III follows",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "Drums are wholly inside tubes, tubes only partly overlap pipes, pipes and sticks are fully separate, and sticks only partly overlap rubbers. None of the four chains of 'some'/'all' relations forces a link between rubbers and tubes, sticks and drums, pipes and drums, or sticks and tubes. So none of the conclusions follows.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q011",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "syllogism",
+   "difficulty": 2,
+   "question": "Statements: Some pens are rooms. All rooms are walls. Some walls are bricks. All bricks are slates.\nConclusions: I. Some slates are walls. II. Some walls are pens. III. Some bricks are rooms. IV. Some slates are rooms.\nWhich conclusions logically follow?",
+   "options": [
+    "Only I and III follow",
+    "Only II and III follow",
+    "Only I and II follow",
+    "Only III and IV follow",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "Since all bricks are slates and some walls are bricks, those bricks are also slates and walls, so some slates are walls (I is true). Since some pens are rooms and all rooms are walls, those pens are also walls, so some walls are pens (II is true). No forced link exists between bricks and rooms, or between slates and rooms, so III and IV do not follow. Only I and II follow.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q012",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "syllogism",
+   "difficulty": 3,
+   "question": "Statements: Some chairs are pencils. Some pencils are bottles. Some bottles are bags. Some bags are books.\nConclusions: I. Some books are pencils. II. Some bottles are chairs. III. No book is pencil. IV. Some bags are chairs.\nWhich conclusions logically follow?",
+   "options": [
+    "Only I follows",
+    "Only either I or III follows",
+    "Only III follows",
+    "Only IV follows",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "This is a chain of four independent 'some' statements linking chairs to pencils to bottles to bags to books, which does not force any definite overlap between books and pencils (II and IV also do not follow for the same reason). However, 'Some books are pencils' (I) and 'No book is pencil' (III) are complementary statements - exactly one of them must be true even though neither is individually guaranteed. So only either I or III follows.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q013",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "syllogism",
+   "difficulty": 3,
+   "question": "Statements: Some roads are buses. All buses are trains. Some trains are trucks. All trucks are kites.\nConclusions: I. Some trucks are roads. II. Some kites are buses. III. Some trains are roads. IV. Some kites are trains.\nWhich conclusions logically follow?",
+   "options": [
+    "None follows",
+    "Only I follows",
+    "Only II follows",
+    "Only III follows",
+    "None of these"
+   ],
+   "correct": 4,
+   "explanation": "Since some roads are buses and all buses are trains, those roads are also trains, so some trains are roads (III is true). Since some trains are trucks and all trucks are kites, those trains are also kites, so some kites are trains (IV is true). Since both III and IV follow together but no single option lists that combination, the answer is 'None of these'.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q014",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "syllogism",
+   "difficulty": 1,
+   "question": "Statements: All beads are rings. All rings are bangles. All bangles are tyres. All tyres are pendants.\nConclusions: I. Some pendants are beads. II. Some tyres are rings. III. Some bangles are beads. IV. Some pendants are rings.\nWhich conclusions logically follow?",
+   "options": [
+    "Only I and II follow",
+    "Only I, II and III follow",
+    "Only II, III and IV follow",
+    "Only I, III and IV follow",
+    "All follow"
+   ],
+   "correct": 4,
+   "explanation": "This is a clean nested chain: Beads are wholly inside Rings, which are wholly inside Bangles, which are wholly inside Tyres, which are wholly inside Pendants. Since beads are a subset of every later category, and rings/bangles are subsets of tyres and pendants, all four conclusions (I, II, III, IV) hold.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q015",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "syllogism",
+   "difficulty": 3,
+   "question": "Statements: Some desks are fruits. All fruits are flowers. No flower is branch. Some branches are roots.\nConclusions: I. Some roots are flowers. II. No branches are desks. III. Some flowers are desks. IV. Some desks are branches.\nWhich conclusions logically follow?",
+   "options": [
+    "Only either II and IV follows",
+    "Only III follows",
+    "Only either II or IV, and III follow",
+    "Only I and II follow",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "Since some desks are fruits and all fruits are flowers, those desks are also flowers, so some flowers are desks (III is true). Flowers and branches are entirely separate categories, so roots (which only partly overlap branches) are not forced to overlap flowers (I is false). Whether the desks that are NOT fruits happen to be branches or not is left undetermined by the statements - either none of the desks are branches (II) or at least one is (IV), and these two are the only possibilities, so exactly one of them must hold. Hence only 'either II or IV' together with III follow.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q016",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre15-set1",
+   "question": "In which of the following combinations is the 1st named person sitting between the 2nd and the 3rd named persons?",
+   "options": [
+    "GCD",
+    "FGH",
+    "EFH",
+    "ABE",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "Working from the clues, the clockwise seating order is F, H, G, D, C, B, A, E (and back to F). A's immediate neighbours are B and E, so A sits between B and E - matching combination ABE.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q017",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre15-set1",
+   "question": "Who is 3rd to the right of H?",
+   "options": [
+    "G",
+    "D",
+    "C",
+    "Data inadequate",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "The clockwise seating order is F, H, G, D, C, B, A, E. Moving 3 places to the right (clockwise) of H: G (1st), D (2nd), C (3rd). So C is 3rd to the right of H.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q018",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre15-set1",
+   "question": "Who is to the immediate right of A?",
+   "options": [
+    "B",
+    "E",
+    "F",
+    "Data inadequate",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "The clockwise seating order is F, H, G, D, C, B, A, E. The person immediately clockwise (to the right) of A is E.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q019",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-pre15-set1",
+   "question": "What is H's position with respect to B?",
+   "options": [
+    "5th to the right",
+    "3rd to the left",
+    "5th to the left",
+    "3rd to the right",
+    "4th to the left"
+   ],
+   "correct": 4,
+   "explanation": "The clockwise seating order is F, H, G, D, C, B, A, E. With 8 people around the circle, H and B sit exactly opposite each other (4 seats apart in either direction), so H is 4th to the left (and equally 4th to the right) of B.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q020",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre15-set1",
+   "question": "Who is to the immediate left of G?",
+   "options": [
+    "H",
+    "F",
+    "D",
+    "Data inadequate",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "The clockwise seating order is F, H, G, D, C, B, A, E. The person immediately counter-clockwise (to the left) of G is H.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q021",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre15-set2",
+   "question": "What is V's choice of colour?",
+   "options": [
+    "Black",
+    "Grey",
+    "Yellow",
+    "Data inadequate",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "Working through the clues: R-Green/Badminton, Q-Black/Lawn Tennis, S-White, T-Blue, leaving Red/Yellow/Grey for P/V/W. Volleyball-player P cannot like Yellow or Grey, so P is Red. Basketball-player W cannot like Grey, so W is Yellow, leaving V with Grey.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q022",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre15-set2",
+   "question": "What is T's favourite sport?",
+   "options": [
+    "Basketball",
+    "Volleyball",
+    "Chess",
+    "Data inadequate",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "R-Badminton, Q-Lawn Tennis, P-Volleyball and W-Basketball are already fixed, leaving Chess, Table Tennis and Carrom for S, T and V. T's favourite sport is neither Table Tennis nor Basketball, and since T likes Blue and 'the one who likes Blue does not like Carrom', T cannot play Carrom either - so T's sport must be Chess.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q023",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-pre15-set2",
+   "question": "Whose favourite sport is Carrom?",
+   "options": [
+    "S",
+    "R",
+    "W",
+    "Data inadequate",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "After fixing R-Badminton, Q-Lawn Tennis, P-Volleyball, W-Basketball and T-Chess, only Table Tennis and Carrom remain for S and V, but nothing in the clues distinguishes which of S or V plays which. So it cannot be determined who specifically plays Carrom.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q024",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre15-set2",
+   "question": "Whose favourite sport is Basketball?",
+   "options": [
+    "S",
+    "T",
+    "W",
+    "R",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "It is directly given that W likes Basketball.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q025",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre15-set2",
+   "question": "What is W's choice of colour?",
+   "options": [
+    "Green",
+    "White",
+    "Black",
+    "Data inadequate",
+    "None of these"
+   ],
+   "correct": 4,
+   "explanation": "As derived, W (Basketball) ends up with Yellow, since P (Volleyball) takes Red and V takes Grey among the remaining Red/Yellow/Grey options. Yellow is not listed among options (a)-(d), so the answer is 'None of these'.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q026",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "inequality",
+   "difficulty": 2,
+   "question": "In the coded inequality questions below: '@' means '>=', '+' means '<=', '%' means '>', '×' means '<', and '$' means '='.\nStatements: M @ R, R % T, T $ K.\nConclusions: I. K × M, II. T × M.\nWhich is/are definitely true?",
+   "options": [
+    "Only conclusion I is true",
+    "Only conclusion II is true",
+    "Either I or II is true",
+    "Neither I nor II is true",
+    "Both I and II are true"
+   ],
+   "correct": 4,
+   "explanation": "The statements give M >= R > T = K, so M > K (Conclusion I: K < M, true) and M > T (Conclusion II: T < M, true). Both conclusions are true.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q027",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "inequality",
+   "difficulty": 3,
+   "question": "In the coded inequality questions below: '@' means '>=', '+' means '<=', '%' means '>', '×' means '<', and '$' means '='.\nStatements: H % J, B + J, B @ F.\nConclusions: I. F $ J, II. J % F.\nWhich is/are definitely true?",
+   "options": [
+    "Only conclusion I is true",
+    "Only conclusion II is true",
+    "Either I or II is true",
+    "Neither I nor II is true",
+    "Both I and II are true"
+   ],
+   "correct": 2,
+   "explanation": "The statements give F <= B <= J, so F <= J overall - it could be that F equals J, or that J is strictly greater than F, but not both at once and not neither. Since Conclusion I (F = J) and Conclusion II (J > F) are the only two possibilities and are mutually exclusive, either I or II must be true.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q028",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "inequality",
+   "difficulty": 2,
+   "question": "In the coded inequality questions below: '@' means '>=', '+' means '<=', '%' means '>', '×' means '<', and '$' means '='.\nStatements: D $ M, M % W, W @ R.\nConclusions: I. R × D, II. W + D.\nWhich is/are definitely true?",
+   "options": [
+    "Only conclusion I is true",
+    "Only conclusion II is true",
+    "Either I or II is true",
+    "Neither I nor II is true",
+    "Both I and II are true"
+   ],
+   "correct": 0,
+   "explanation": "The statements give D = M > W >= R, so R < D (Conclusion I is true). D is strictly greater than W (not merely W <= D), so Conclusion II does not hold as the definite relation. Only Conclusion I follows.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q029",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "inequality",
+   "difficulty": 2,
+   "question": "In the coded inequality questions below: '@' means '>=', '+' means '<=', '%' means '>', '×' means '<', and '$' means '='.\nStatements: A + N, N × V, V $ J.\nConclusions: I. J @ N, II. A + V.\nWhich is/are definitely true?",
+   "options": [
+    "Only conclusion I is true",
+    "Only conclusion II is true",
+    "Either I or II is true",
+    "Neither I nor II is true",
+    "Both I and II are true"
+   ],
+   "correct": 3,
+   "explanation": "The statements give A <= N < V = J, so J is strictly greater than N (not the tested 'J >= N') and A is strictly less than V (not the tested 'A <= V'). Neither of the tested (loose) conclusions is the exact relation that follows, so neither conclusion follows.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q030",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "inequality",
+   "difficulty": 2,
+   "question": "In the coded inequality questions below: '@' means '>=', '+' means '<=', '%' means '>', '×' means '<', and '$' means '='.\nStatements: K × T, T @ B, B + M.\nConclusions: I. M % T, II. K + B.\nWhich is/are definitely true?",
+   "options": [
+    "Only conclusion I is true",
+    "Only conclusion II is true",
+    "Either I or II is true",
+    "Neither I nor II is true",
+    "Both I and II are true"
+   ],
+   "correct": 3,
+   "explanation": "The statements give K < T >= B <= M. There is no chain directly linking M with T, or K with B, so neither M > T (Conclusion I) nor K <= B (Conclusion II) can be established as definitely true. Neither conclusion follows.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q031",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "blood-relations",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre15-set3",
+   "question": "How is F related to A?",
+   "options": [
+    "Mother",
+    "Sister-in-law",
+    "Sister",
+    "Mother-in-law",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "B is F's daughter-in-law, and B is married to A, so F's son is A - F is A's mother.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q032",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "blood-relations",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre15-set3",
+   "question": "How is E related to C?",
+   "options": [
+    "Sister",
+    "Daughter",
+    "Cousin",
+    "Aunt",
+    "Mother"
+   ],
+   "correct": 1,
+   "explanation": "D is C's only son, and E is D's sister - so E is also C's child, i.e., C's daughter.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q033",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "blood-relations",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre15-set3",
+   "question": "Who is C to B?",
+   "options": [
+    "Brother",
+    "Brother-in-law",
+    "Nephew",
+    "Son-in-law",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "C is the brother of A, and B is A's wife, so C is B's brother-in-law.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q034",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "blood-relations",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre15-set3",
+   "question": "How many male members are there in the family?",
+   "options": [
+    "One",
+    "Two",
+    "Three",
+    "Four",
+    "Five"
+   ],
+   "correct": 2,
+   "explanation": "The male members are A (husband), C (A's brother) and D (C's son) - three male members in total.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q035",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "blood-relations",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre15-set3",
+   "question": "How is F related to C?",
+   "options": [
+    "Mother-in-law",
+    "Sister-in-law",
+    "Mother",
+    "Aunt",
+    "Sister"
+   ],
+   "correct": 2,
+   "explanation": "F is the mother of A, and C is A's brother, so F is also C's mother.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q036",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "simple-compound-interest",
+   "difficulty": 2,
+   "question": "The simple interest accrued on an amount of Rs. 20,000 at the end of three years is Rs. 7,200. What would be the compound interest accrued on the same amount at the same rate in the same period?",
+   "options": [
+    "Rs. 8098.56",
+    "Rs. 8246.16",
+    "Rs. 8112.86",
+    "Rs. 8342.36",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "Rate = (SI x 100)/(P x T) = (7200 x 100)/(20000 x 3) = 12% per annum. CI = P[(1 + R/100)^T - 1] = 20000[(1.12)^3 - 1] = 20000 x 0.404928 = Rs. 8098.56.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q037",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "percentages",
+   "difficulty": 2,
+   "question": "If the numerator of a fraction is increased by 300% and the denominator is increased by 500%, the resultant fraction is 5/12. What was the original fraction?",
+   "options": [
+    "8/5",
+    "5/11",
+    "12/5",
+    "5/7",
+    "None of these"
+   ],
+   "correct": 4,
+   "explanation": "Let the original fraction be x/y. A 300% increase makes the numerator 4x, and a 500% increase makes the denominator 6y. So 4x/6y = 5/12, giving x/y = (5/12) x (6/4) = 5/8. This is not among options (a)-(d), so the answer is 'None of these'.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q038",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "ratio-proportion",
+   "difficulty": 2,
+   "question": "A sum of money is divided among A, B, C and D in the ratio of 3 : 5 : 9 : 13 respectively. If the share of C is Rs. 2412 more than the share of A, then what is the total amount of money of B and D together?",
+   "options": [
+    "Rs. 4422",
+    "Rs. 7236",
+    "Rs. 6030",
+    "Rs. 4824",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "Sum of ratio parts = 3+5+9+13 = 30. Let the total be x. C's share - A's share = (9x/30) - (3x/30) = 6x/30 = x/5 = 2412, so x = 12060. B and D together get (5+13)/30 of the total = 18/30 x 12060 = Rs. 7236.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q039",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "averages",
+   "difficulty": 2,
+   "question": "The average age of 80 girls was 20 years, the average age of 20 of them was 22 years and that of another 20 was 24 years. Find the average age of the remaining girls.",
+   "options": [
+    "17 years",
+    "19 years",
+    "21 years",
+    "15 years",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "Total age of all 80 girls = 80 x 20 = 1600 years. Remaining 40 girls' total age = 1600 - (20 x 22) - (20 x 24) = 1600 - 440 - 480 = 680 years. Their average = 680/40 = 17 years.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q040",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "percentages",
+   "difficulty": 2,
+   "question": "Ms. Pooja Pushpan invests 13% of her monthly salary, i.e. Rs. 8554, in Mediclaim Policies. Later she invests 23% of her monthly salary in Child Education Policies, and also invests another 8% of her monthly salary in Mutual Funds. What is the total annual amount invested by Ms. Pooja Pushpan?",
+   "options": [
+    "Rs. 28952",
+    "Rs. 43428",
+    "Rs. 347424",
+    "Rs. 173712",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "Monthly salary = 8554 x 100/13 = Rs. 65800. Total monthly investment percentage = 13 + 23 + 8 = 44%. Monthly investment = 44% of 65800 = Rs. 28952. Annual investment = 12 x 28952 = Rs. 347424.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q041",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "profit-loss",
+   "difficulty": 1,
+   "question": "The profit earned after selling an article for Rs. 878 is the same as the loss incurred after selling the article for Rs. 636. What is the cost price of the article?",
+   "options": [
+    "Rs. 797",
+    "Rs. 787",
+    "Rs. 767",
+    "Rs. 757",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "Let the cost price be x. Profit = 878 - x, Loss = x - 636. Since these are equal: 878 - x = x - 636, so 2x = 1514, giving x = Rs. 757.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q042",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "percentages",
+   "difficulty": 1,
+   "question": "In a class of 240 students, each student got sweets that are 15% of the total number of students. How many sweets were there in total?",
+   "options": [
+    "3000",
+    "3125",
+    "8640",
+    "Cannot be determined",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "Each student gets 15% of 240 = 36 sweets. Total sweets = 240 x 36 = 8640.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q043",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "percentages",
+   "difficulty": 2,
+   "question": "Sonika spent Rs. 45,760 on the interior decoration for her home, Rs. 27,896 on buying an air conditioner, and the remaining 28% of the total amount she had as cash with her. What was the total amount she had?",
+   "options": [
+    "Rs. 98540",
+    "Rs. 102300",
+    "Rs. 134560",
+    "Cannot be determined",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "Amount spent = 100% - 28% = 72% of the total. 72% of x = 45760 + 27896 = 73656, so x = 73656 x 100/72 = Rs. 102300.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q044",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "ages",
+   "difficulty": 2,
+   "question": "The ages of Khushi and Jagriti are in the ratio of 5 : 8 respectively. After 8 years, the ratio of their ages will be 3 : 4. What is the difference in their ages?",
+   "options": [
+    "16 years",
+    "8 years",
+    "10 years",
+    "12 years",
+    "None of these"
+   ],
+   "correct": 4,
+   "explanation": "Let their present ages be 5x and 8x. After 8 years: (5x+8)/(8x+8) = 3/4, so 4(5x+8) = 3(8x+8), giving 20x+32 = 24x+24, so 4x = 8, x = 2. The difference in their ages = 8x - 5x = 3x = 6 years, which is not listed among options (a)-(d), so the answer is 'None of these'.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q045",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "permutation-combination",
+   "difficulty": 1,
+   "question": "In how many different ways can the letters of the word 'PUNCTUAL' be arranged?",
+   "options": [
+    "64",
+    "40320",
+    "960",
+    "20160",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "PUNCTUAL has 8 letters in which the letter 'U' repeats twice. Number of arrangements = 8!/2! = 40320/2 = 20160.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q046",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "number-series",
+   "difficulty": 2,
+   "question": "What will come in place of the question mark (?) in the following number series: 93 95 98 ? 110 121 134",
+   "options": [
+    "104",
+    "96",
+    "82",
+    "103",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "The series adds consecutive prime numbers: 93+2=95, 95+3=98, 98+5=103, 103+7=110, 110+11=121, 121+13=134. So the missing term is 103.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q047",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "number-series",
+   "difficulty": 2,
+   "question": "What will come in place of the question mark (?) in the following number series: 8 12 18 27 40.5 60.75 ?",
+   "options": [
+    "104.125",
+    "121.125",
+    "96.125",
+    "83.125",
+    "None of these"
+   ],
+   "correct": 4,
+   "explanation": "Each term is 1.5 times the previous term: 8x1.5=12, 12x1.5=18, 18x1.5=27, 27x1.5=40.5, 40.5x1.5=60.75, and 60.75x1.5=91.125. Since 91.125 is not listed among options (a)-(d), the answer is 'None of these'.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q048",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "number-series",
+   "difficulty": 2,
+   "question": "What will come in place of the question mark (?) in the following number series: 4 7 11 18 29 ? 76 123",
+   "options": [
+    "59",
+    "38",
+    "46",
+    "53",
+    "None of these"
+   ],
+   "correct": 4,
+   "explanation": "Each term is the sum of the two preceding terms (Fibonacci-style): 4+7=11, 7+11=18, 11+18=29, 18+29=47, 29+47=76, 47+76=123. Since 47 is not listed among options (a)-(d), the answer is 'None of these'.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q049",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "number-series",
+   "difficulty": 3,
+   "question": "What will come in place of the question mark (?) in the following number series: 3 10 ? 172 885 5346 37471 299832",
+   "options": [
+    "39",
+    "27",
+    "24",
+    "34",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "The pattern is: term x n + n^2, with n = 2,3,4,5,6,7,8: 3x2+2^2=10, 10x3+3^2=39, 39x4+4^2=172, 172x5+5^2=885, 885x6+6^2=5346, 5346x7+7^2=37471, 37471x8+8^2=299832. So the missing term is 39.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q050",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "number-series",
+   "difficulty": 3,
+   "question": "What will come in place of the question mark (?) in the following number series: 15 22 56 183 ? 3755 22542",
+   "options": [
+    "709",
+    "698",
+    "748",
+    "800",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "The pattern is term x n + n x (7-n+1), with n = 1,2,3,4,5,6: 15x1+1x7=22, 22x2+2x6=56, 56x3+3x5=183, 183x4+4x4=748, 748x5+5x3=3755, 3755x6+6x2=22542. So the missing term is 748.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q051",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "simplification-approximation",
+   "difficulty": 1,
+   "question": "What approximate value will come in place of the question mark (?): 2959.85 ÷ 16.001 - 34.99 = ?",
+   "options": [
+    "160",
+    "150",
+    "140",
+    "180",
+    "170"
+   ],
+   "correct": 1,
+   "explanation": "Approximating: 2960 ÷ 16 - 35 = 185 - 35 = 150.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q052",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "simplification-approximation",
+   "difficulty": 1,
+   "question": "What approximate value will come in place of the question mark (?): (1702 ÷ 68) × 136.05 = ?",
+   "options": [
+    "3500",
+    "3550",
+    "3450",
+    "3400",
+    "3525"
+   ],
+   "correct": 3,
+   "explanation": "Approximating: (1700 ÷ 68) x 136 = 25 x 136 = 3400.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q053",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "simplification-approximation",
+   "difficulty": 2,
+   "question": "What approximate value will come in place of the question mark (?): 2950 ÷ 12.25 + 160 = ?",
+   "options": [
+    "440",
+    "350",
+    "380",
+    "360",
+    "400"
+   ],
+   "correct": 4,
+   "explanation": "Approximating: 2950 ÷ 12.25 is approximately 240.8, so 240.8 + 160 is approximately 400.8, closest to 400.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q054",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "simplification-approximation",
+   "difficulty": 1,
+   "question": "What approximate value will come in place of the question mark (?): 25.05% of 2845 + 14.95 × 2400 = ?",
+   "options": [
+    "36,700",
+    "36,500",
+    "35,800",
+    "35,600",
+    "36,200"
+   ],
+   "correct": 0,
+   "explanation": "Approximating: 25% of 2845 = 711.25, and 15 x 2400 = 36000. Sum = 711.25 + 36000 = 36711.25, closest to 36,700.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q055",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "simplification-approximation",
+   "difficulty": 1,
+   "question": "What approximate value will come in place of the question mark (?): (186 × 270.99) ÷ 40 = ?",
+   "options": [
+    "1160",
+    "1200",
+    "1300",
+    "1180",
+    "1260"
+   ],
+   "correct": 4,
+   "explanation": "Approximating: (186 x 271) ÷ 40 = 50406 ÷ 40 is approximately 1260.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q056",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "quadratic-equations",
+   "difficulty": 3,
+   "question": "In the following question, two equations I and II are given. Solve both and give the answer:\nGive (a) if p < q; (b) if p > q; (c) if p <= q; (d) if p >= q; (e) if p = q.\nI. p^2 - 7p = -12\nII. q^2 - 3q + 2 = 0",
+   "options": [
+    "p < q",
+    "p > q",
+    "p <= q",
+    "p >= q",
+    "p = q"
+   ],
+   "correct": 1,
+   "explanation": "I: p^2-7p+12=0 => (p-3)(p-4)=0 => p=3 or 4. II: q^2-3q+2=0 => (q-1)(q-2)=0 => q=1 or 2. Since every value of p (3 or 4) exceeds every value of q (1 or 2), p > q.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q057",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "quadratic-equations",
+   "difficulty": 3,
+   "question": "In the following question, two equations I and II are given. Solve both and give the answer:\nGive (a) if p < q; (b) if p > q; (c) if p <= q; (d) if p >= q; (e) if p = q.\nI. 12p^2 - 7p = -1\nII. 6q^2 - 7q + 2 = 0",
+   "options": [
+    "p < q",
+    "p > q",
+    "p <= q",
+    "p >= q",
+    "p = q"
+   ],
+   "correct": 0,
+   "explanation": "I: 12p^2-7p+1=0 => (3p-1)(4p-1)=0 => p=1/3 or 1/4. II: 6q^2-7q+2=0 => (3q-2)(2q-1)=0 => q=2/3 or 1/2. Since every value of p (1/3 or 1/4) is less than every value of q (2/3 or 1/2), p < q.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q058",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "quadratic-equations",
+   "difficulty": 3,
+   "question": "In the following question, two equations I and II are given. Solve both and give the answer:\nGive (a) if p < q; (b) if p > q; (c) if p <= q; (d) if p >= q; (e) if p = q.\nI. p^2 + 12p + 35 = 0\nII. 2q^2 + 22q + 56 = 0",
+   "options": [
+    "p < q",
+    "p > q",
+    "p <= q",
+    "p >= q",
+    "p = q"
+   ],
+   "correct": 2,
+   "explanation": "I: p^2+12p+35=0 => (p+5)(p+7)=0 => p=-5 or -7. II: q^2+11q+28=0 => (q+4)(q+7)=0 => q=-4 or -7. Matching the smallest root with the smallest and the largest with the largest: -7 with -7 (equal) and -5 with -4 (p<q), so p never exceeds q, giving p <= q.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q059",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "quadratic-equations",
+   "difficulty": 3,
+   "question": "In the following question, two equations I and II are given. Solve both and give the answer:\nGive (a) if p < q; (b) if p > q; (c) if p <= q; (d) if p >= q; (e) if p = q.\nI. p^2 - 8p + 15 = 0\nII. q^2 - 5q = -6",
+   "options": [
+    "p < q",
+    "p > q",
+    "p <= q",
+    "p >= q",
+    "p = q"
+   ],
+   "correct": 3,
+   "explanation": "I: p^2-8p+15=0 => (p-3)(p-5)=0 => p=3 or 5. II: q^2-5q+6=0 => (q-2)(q-3)=0 => q=2 or 3. p is never less than q (matching 3 with 3 gives equality, and 5 with 2 or 3 gives p>q), so p >= q.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q060",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "quadratic-equations",
+   "difficulty": 2,
+   "question": "In the following question, two equations I and II are given. Solve both and give the answer:\nGive (a) if p < q; (b) if p > q; (c) if p <= q; (d) if p >= q; (e) if p = q.\nI. 2p^2 + 20p + 50 = 0\nII. q^2 = 25",
+   "options": [
+    "p < q",
+    "p > q",
+    "p <= q",
+    "p >= q",
+    "p = q"
+   ],
+   "correct": 2,
+   "explanation": "I: p^2+10p+25=0 => (p+5)^2=0 => p=-5 (only value). II: q^2=25 => q=5 or -5. Since p=-5 is either equal to q (-5) or less than q (5), p is never greater than q, giving p <= q.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q061",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre15-set4",
+   "question": "For Company A, what is the percent decrease in production from 2008 to 2009?",
+   "options": [
+    "75%",
+    "50%",
+    "25%",
+    "10%",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "Company A's production in 2008 = 4 lakh units, in 2009 = 3 lakh units. Decrease = 1 lakh unit. Percent decrease = (1/4) x 100 = 25%.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q062",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre15-set4",
+   "question": "In 2015, the production of Company B is approximately what per cent of that in 2014?",
+   "options": [
+    "60",
+    "157",
+    "192",
+    "50",
+    "92"
+   ],
+   "correct": 1,
+   "explanation": "Company B's production in 2014 = 7 lakh units, in 2015 = 11 lakh units. Required percentage = (11/7) x 100 = 157.14%, approximately 157%.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q063",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre15-set4",
+   "question": "What is the difference in the total production of the two companies for the given years (2008-2015)?",
+   "options": [
+    "27,00,000",
+    "31,00,000",
+    "2,70,000",
+    "3,10,000",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "Total production of Company A over 2008-2015 = 4+3+8+8+8+7+8+12 = 58 lakh units. Total production of Company B = 1+1+1+2+3+5+7+11 = 31 lakh units. Difference = (58-31) lakh units = 27 lakh = 27,00,000 units.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q064",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre15-set4",
+   "question": "Which of the following is the closest average production (in lakh units) of Company B for the given years (2008-2015)?",
+   "options": [
+    "4.1",
+    "3.5",
+    "4.3",
+    "3.75",
+    "3.9"
+   ],
+   "correct": 4,
+   "explanation": "Total production of Company B over the 8 years = 1+1+1+2+3+5+7+11 = 31 lakh units. Average = 31/8 = 3.875, closest to 3.9 lakh units.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q065",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre15-set5",
+   "question": "For course D, what is the respective ratio of boys and girls?",
+   "options": [
+    "3 : 4",
+    "4 : 5",
+    "3 : 5",
+    "5 : 6",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "Girls in D = 30% of 800 = 240. Total students in D = 35% of 1200 = 420. So boys in D = 420 - 240 = 180. Ratio of boys to girls = 180 : 240 = 3 : 4.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q066",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre15-set5",
+   "question": "For which pair of courses is the number of boys the same?",
+   "options": [
+    "E & F",
+    "A & D",
+    "C & F",
+    "B & D",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "Boys in a course = (overall % x 1200) - (girls % x 800). E: 144-112=32; F: 156-112=44; A: 240-240=0; D: 420-240=180; C: 60-16=44; B: 180-80=100. Courses C and F both have 44 boys.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q067",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre15-set5",
+   "question": "For course E, the number of girls is how much per cent more than the boys for course E?",
+   "options": [
+    "250",
+    "350",
+    "150",
+    "80",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "Girls in E = 14% of 800 = 112. Boys in E = 12% of 1200 - 14% of 800 = 144-112 = 32. Required percentage = (112-32)/32 x 100 = 250%.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q068",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre15-set5",
+   "question": "For which course is the number of boys the minimum?",
+   "options": [
+    "E",
+    "F",
+    "C",
+    "A",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "Boys per course: E=32, F=44, A=240-240=0, D=180, C=44, B=100. Course A has the minimum (zero) boys.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q069",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre15-set5",
+   "question": "How many girls are in course C?",
+   "options": [
+    "44",
+    "16",
+    "40",
+    "160",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "Girls in course C = 2% of 800 = 16.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q070",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "para-jumbles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre15-set6",
+   "question": "Which sentence will be the LAST sentence in the paragraph?",
+   "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+   ],
+   "correct": 4,
+   "explanation": "The correct order is C-D-A-B-F-E: the paragraph introduces different growth patterns (C), then describes high-birth/high-death countries (D), low-birth/low-death European nations (A), high-birth/low-death countries (B), the rapidly growing developing countries (F), and finally contrasts this with Europe's low growth rate (E). The last sentence is E.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q071",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "para-jumbles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre15-set6",
+   "question": "Which sentence will be the FIRST sentence in the paragraph?",
+   "options": [
+    "E",
+    "D",
+    "C",
+    "B",
+    "A"
+   ],
+   "correct": 2,
+   "explanation": "The correct order is C-D-A-B-F-E. Sentence C ('Different countries show different patterns of growth') is the natural topic-introducing first sentence.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q072",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "para-jumbles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre15-set6",
+   "question": "Which sentence will come at the SECOND place in the paragraph?",
+   "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+   ],
+   "correct": 3,
+   "explanation": "The correct order is C-D-A-B-F-E, so D ('Some have a high birth rate and still have a high death rate') comes second, right after the introductory sentence C.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q073",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "para-jumbles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre15-set6",
+   "question": "Which sentence will come at the FIFTH place in the paragraph?",
+   "options": [
+    "F",
+    "D",
+    "B",
+    "A",
+    "C"
+   ],
+   "correct": 0,
+   "explanation": "The correct order is C-D-A-B-F-E, so F ('The developing countries show the most rapid growth rate') is fifth, right before the closing contrast in sentence E.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q074",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "para-jumbles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre15-set6",
+   "question": "Which sentence will be the THIRD sentence in the paragraph?",
+   "options": [
+    "B",
+    "A",
+    "D",
+    "F",
+    "E"
+   ],
+   "correct": 1,
+   "explanation": "The correct order is C-D-A-B-F-E, so A ('Some others, like the European nations, have a low birth rate and a low death rate') is third.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q075",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "cloze-test",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre15-set7",
+   "question": "Select the most appropriate word for blank (76): 'A child ___(76)___ to talk does not learn...'",
+   "options": [
+    "endeavouring",
+    "learning",
+    "experimenting",
+    "experiencing",
+    "preparing"
+   ],
+   "correct": 1,
+   "explanation": "'A child learning to talk' correctly describes a child in the process of acquiring speech.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q076",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "cloze-test",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre15-set7",
+   "question": "Select the most appropriate word for blank (77): 'does not learn ___(77)___ being corrected all the time'",
+   "options": [
+    "In",
+    "on",
+    "By",
+    "to",
+    "From"
+   ],
+   "correct": 2,
+   "explanation": "'Does not learn BY being corrected' - 'by' correctly introduces the means/method.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q077",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "cloze-test",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre15-set7",
+   "question": "Select the most appropriate word for blank (78): '___(78)___ corrected too much, he will stop talking'",
+   "options": [
+    "unless",
+    "being",
+    "until",
+    "if",
+    "so"
+   ],
+   "correct": 3,
+   "explanation": "'If corrected too much, he will stop talking' correctly sets up the conditional clause.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q078",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "cloze-test",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre15-set7",
+   "question": "Select the most appropriate word for blank (79): 'he will ___(79)___ talking'",
+   "options": [
+    "stop",
+    "halt",
+    "avoid",
+    "shun",
+    "give up"
+   ],
+   "correct": 0,
+   "explanation": "'He will stop talking' is the natural idiomatic phrasing in this context.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q079",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "cloze-test",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre15-set7",
+   "question": "Select the most appropriate word for blank (80): 'the difference between the ___(80)___ he uses and the language those around him use'",
+   "options": [
+    "speech",
+    "language",
+    "talk",
+    "skill",
+    "virtue"
+   ],
+   "correct": 1,
+   "explanation": "'The language he uses and the language others use' - 'language' fits both parts of the comparison consistently.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q080",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "fillers",
+   "difficulty": 2,
+   "question": "Select the most suitable word to fill in the blank: Intelligence is an _____ part of one's success.",
+   "options": [
+    "inseparable",
+    "inimitable",
+    "indivisible",
+    "indispensable",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "'Indispensable' means essential/necessary, which fits the sentence's meaning best.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q081",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "fillers",
+   "difficulty": 2,
+   "question": "Select the most suitable word to fill in the blank: Anjana impressed the interviewer with her concise, ____ answers.",
+   "options": [
+    "allusive",
+    "revealing",
+    "pertinent",
+    "referential",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "'Pertinent' means relevant or applicable to the matter at hand, which fits the context of impressing an interviewer with focused answers.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q082",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "fillers",
+   "difficulty": 2,
+   "question": "Select the most suitable word to fill in the blank: The coach asked the players to _____ with his ideology or leave the team.",
+   "options": [
+    "counter",
+    "align",
+    "favour",
+    "separate",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "'Align' means to adjust or bring into agreement with, fitting the context of following the coach's ideology.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q083",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "fillers",
+   "difficulty": 1,
+   "question": "Select the most suitable word to fill in the blank: The seminar helped _____ the students on the harmful effects of smoking and alcohol.",
+   "options": [
+    "educate",
+    "learn",
+    "teach",
+    "insist",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "'Educate the students on...' is the grammatically correct construction; the other options do not fit this structure correctly.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q084",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "fillers",
+   "difficulty": 2,
+   "question": "Select the most suitable word to fill in the blank: Rajeev was _____ legal aid to fight his extradition.",
+   "options": [
+    "offered",
+    "granted",
+    "allowed",
+    "awarded",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "Legal aid is conventionally 'granted', making this the most natural collocation.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q085",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "error-spotting",
+   "difficulty": 2,
+   "question": "Read the sentence, divided into four parts, and identify which part has a grammatical error (ignore punctuation errors); if there is no error, choose 'No error'.\n'The patient is comparatively better (a) / today and I hope (b) / that he will recover soon (c) / said the doctor (d)'",
+   "options": [
+    "The patient is comparatively better",
+    "today and I hope",
+    "that he will recover soon",
+    "said the doctor",
+    "No error"
+   ],
+   "correct": 0,
+   "explanation": "'Comparatively' implies an explicit comparison; here it should simply be 'better' or 'comparatively good', not 'comparatively better'. The error is in part (a).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q086",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "error-spotting",
+   "difficulty": 2,
+   "question": "Read the sentence, divided into four parts, and identify which part has a grammatical error (ignore punctuation errors); if there is no error, choose 'No error'.\n'All the members (a) / of the committee are (b) / kindly requested to appear (c) / in the next morning (d)'",
+   "options": [
+    "All the members",
+    "of the committee are",
+    "kindly requested to appear",
+    "in the next morning",
+    "No error"
+   ],
+   "correct": 2,
+   "explanation": "'Kindly' and 'requested' (passive voice) are not used together - 'kindly'/'please' pair with an active-voice request, while passive constructions simply use 'requested'. The error is in part (c).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q087",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "error-spotting",
+   "difficulty": 2,
+   "question": "Read the sentence, divided into four parts, and identify which part has a grammatical error (ignore punctuation errors); if there is no error, choose 'No error'.\n'This is the new (a) / book \"One Night @ the Call Centre\" authored by Chetan Bhagat which my father (b) / bought it (c) / for you (d)'",
+   "options": [
+    "This is the new",
+    "book \"One Night @ the Call Centre\" authored by Chetan Bhagat which my father",
+    "bought it",
+    "for you",
+    "No error"
+   ],
+   "correct": 2,
+   "explanation": "The pronoun 'it' in 'bought it' is superfluous since the object (the book) has already been named in the sentence. The error is in part (c).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q088",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "error-spotting",
+   "difficulty": 1,
+   "question": "Read the sentence, divided into four parts, and identify which part has a grammatical error (ignore punctuation errors); if there is no error, choose 'No error'.\n'The passing marks (a) / in Economics is thirty three (b) / but he has secured (c) / just twenty-nine (d)'",
+   "options": [
+    "The passing marks",
+    "in Economics is thirty three",
+    "but he has secured",
+    "just twenty-nine",
+    "No error"
+   ],
+   "correct": 0,
+   "explanation": "The correct term is 'pass marks', not 'passing marks'. The error is in part (a).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q089",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "error-spotting",
+   "difficulty": 1,
+   "question": "Read the sentence, divided into four parts, and identify which part has a grammatical error (ignore punctuation errors); if there is no error, choose 'No error'.\n'As my neighbourers (a) / are very co-operative (b) / I do not (c) / feel any difficulty in living in this locality (d)'",
+   "options": [
+    "As my neighbourers",
+    "are very co-operative",
+    "I do not",
+    "feel any difficulty in living in this locality",
+    "No error"
+   ],
+   "correct": 0,
+   "explanation": "'Neighbourers' is not a standard English word; the correct word is 'neighbours'. The error is in part (a).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q090",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre15-set8",
+   "question": "In the opinion of the writer, a successful businessman:",
+   "options": [
+    "is more popular if he appears to be doing nothing",
+    "should not bother about his popularity",
+    "must be extravagant before achieving success",
+    "is expected to have expensive tastes",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "The passage states he is 'expected to display his success, to have a smart car, an expensive lifestyle, and to be lavish with his hospitality' - i.e., expected to have expensive tastes.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q091",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre15-set8",
+   "question": "The phrase 'lavish with his hospitality' signifies:",
+   "options": [
+    "miserliness in dealing with his friends",
+    "considerateness in spending on guests and strangers",
+    "extravagance in entertaining guests",
+    "indifference in treating his friends and relatives",
+    "none of these"
+   ],
+   "correct": 2,
+   "explanation": "'Lavish' means giving or spending very generously, so 'lavish with his hospitality' signifies extravagance in entertaining guests.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q092",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre15-set8",
+   "question": "We understand from the passage that:",
+   "options": [
+    "all mean people are wealthy",
+    "wealthy people are invariably successful",
+    "carefulness generally leads to failure",
+    "thrift may lead to success",
+    "none of these"
+   ],
+   "correct": 3,
+   "explanation": "The passage notes 'if he had not been careful with his money in the first place, he would never have achieved his present wealth' - implying that thrift (carefulness with money) can lead to success.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q093",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre15-set8",
+   "question": "It seems that low paid people should:",
+   "options": [
+    "not pay their bills promptly",
+    "not keep their creditors waiting",
+    "borrow money to meet their essential needs",
+    "feel guilty if they overspend",
+    "none of these"
+   ],
+   "correct": 3,
+   "explanation": "The passage describes the low-income wife as never knowing 'the guilt of buying something she can't really afford' when she is careful - implying that overspending among low-paid people is expected to bring guilt.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q094",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "vocabulary",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre15-set8",
+   "question": "The word 'paradox' (as used in the passage) means:",
+   "options": [
+    "statement based on facts",
+    "that which brings out the inner meaning",
+    "that which is contrary to received opinion",
+    "statement based on the popular opinion",
+    "none of these"
+   ],
+   "correct": 2,
+   "explanation": "A 'paradox' is a statement that seems self-contradictory or contrary to expectation/received opinion, which fits its use in the passage.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q095",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre15-set8",
+   "question": "How does the housewife, described by the writer, feel when she saves money?",
+   "options": [
+    "is content to be so thrifty",
+    "wishes life were less burdensome",
+    "is still troubled by a sense of guilt",
+    "wishes she could sometimes be extravagant",
+    "none of these"
+   ],
+   "correct": 0,
+   "explanation": "The passage describes her as managing her joyless little piles of housekeeping money and facing the milkman 'with equanimity', suggesting she is content with her thrifty ways rather than troubled by them.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q096",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "vocabulary",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre15-set8",
+   "question": "Which of the following is opposite in meaning to the word 'applauded' as used in the passage?",
+   "options": [
+    "Humiliated",
+    "Decried",
+    "Cherished",
+    "Suppressed",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "'Applauded' means praised or approved of; its opposite is 'decried', meaning publicly criticized or condemned.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q097",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-pre15-set8",
+   "question": "The statement 'she is able to face the milkman with equanimity' implies that:",
+   "options": [
+    "she is not upset as she has been paying the milkman his dues regularly",
+    "she loses her nerve at the sight of the milkman who always demands his dues",
+    "she manages to keep cool as she has to pay the milkman who always demands his dues",
+    "she remains composed and confident as she knows that she can handle the milkman tactfully",
+    "none of these"
+   ],
+   "correct": 0,
+   "explanation": "Having budgeted carefully (setting aside money for rent, food, and other needs), she can meet the milkman calmly because she has already paid her dues, not because she is dodging or tactfully managing an unpaid debt.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q098",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre15-set8",
+   "question": "As far as money is concerned, we get the impression that the writer:",
+   "options": [
+    "is incapable of saving anything",
+    "is never inclined to be extravagant",
+    "would like to be considered extravagant",
+    "doesn't often have any money to save",
+    "none of these"
+   ],
+   "correct": 3,
+   "explanation": "The writer says 'when, as is usually the case, I am hard up, then I am the meanest man imaginable' - implying money is usually tight and there isn't often anything to spare.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre15-q099",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre15-set8",
+   "question": "Which of the following would be the most suitable title for the passage?",
+   "options": [
+    "Extravagance leads to poverty",
+    "Miserly habits of the poor",
+    "Extravagance in the life of the rich and the poor",
+    "Extravagance is always condemnable",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "The passage contrasts how extravagance is viewed differently for the wealthy businessman versus the low-paid clerk, so 'Extravagance in the life of the rich and the poor' best captures its overall theme.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  }
+ ],
+ "paper": {
+  "id": "sbi-po-pre-2015",
+  "name": "SBI PO Prelims 2015",
+  "exam": "sbi-po",
+  "stage": "prelims",
+  "year": 2015,
+  "sections": [
+   {
+    "name": "Reasoning Ability",
+    "pool": "reasoning",
+    "minutes": 20,
+    "marksPerQuestion": 1,
+    "questionIds": [
+     "pyq-sbipo-pre15-q001",
+     "pyq-sbipo-pre15-q002",
+     "pyq-sbipo-pre15-q003",
+     "pyq-sbipo-pre15-q004",
+     "pyq-sbipo-pre15-q005",
+     "pyq-sbipo-pre15-q006",
+     "pyq-sbipo-pre15-q007",
+     "pyq-sbipo-pre15-q008",
+     "pyq-sbipo-pre15-q009",
+     "pyq-sbipo-pre15-q010",
+     "pyq-sbipo-pre15-q011",
+     "pyq-sbipo-pre15-q012",
+     "pyq-sbipo-pre15-q013",
+     "pyq-sbipo-pre15-q014",
+     "pyq-sbipo-pre15-q015",
+     "pyq-sbipo-pre15-q016",
+     "pyq-sbipo-pre15-q017",
+     "pyq-sbipo-pre15-q018",
+     "pyq-sbipo-pre15-q019",
+     "pyq-sbipo-pre15-q020",
+     "pyq-sbipo-pre15-q021",
+     "pyq-sbipo-pre15-q022",
+     "pyq-sbipo-pre15-q023",
+     "pyq-sbipo-pre15-q024",
+     "pyq-sbipo-pre15-q025",
+     "pyq-sbipo-pre15-q026",
+     "pyq-sbipo-pre15-q027",
+     "pyq-sbipo-pre15-q028",
+     "pyq-sbipo-pre15-q029",
+     "pyq-sbipo-pre15-q030",
+     "pyq-sbipo-pre15-q031",
+     "pyq-sbipo-pre15-q032",
+     "pyq-sbipo-pre15-q033",
+     "pyq-sbipo-pre15-q034",
+     "pyq-sbipo-pre15-q035"
+    ]
+   },
+   {
+    "name": "Quantitative Aptitude",
+    "pool": "quant",
+    "minutes": 20,
+    "marksPerQuestion": 1,
+    "questionIds": [
+     "pyq-sbipo-pre15-q036",
+     "pyq-sbipo-pre15-q037",
+     "pyq-sbipo-pre15-q038",
+     "pyq-sbipo-pre15-q039",
+     "pyq-sbipo-pre15-q040",
+     "pyq-sbipo-pre15-q041",
+     "pyq-sbipo-pre15-q042",
+     "pyq-sbipo-pre15-q043",
+     "pyq-sbipo-pre15-q044",
+     "pyq-sbipo-pre15-q045",
+     "pyq-sbipo-pre15-q046",
+     "pyq-sbipo-pre15-q047",
+     "pyq-sbipo-pre15-q048",
+     "pyq-sbipo-pre15-q049",
+     "pyq-sbipo-pre15-q050",
+     "pyq-sbipo-pre15-q051",
+     "pyq-sbipo-pre15-q052",
+     "pyq-sbipo-pre15-q053",
+     "pyq-sbipo-pre15-q054",
+     "pyq-sbipo-pre15-q055",
+     "pyq-sbipo-pre15-q056",
+     "pyq-sbipo-pre15-q057",
+     "pyq-sbipo-pre15-q058",
+     "pyq-sbipo-pre15-q059",
+     "pyq-sbipo-pre15-q060",
+     "pyq-sbipo-pre15-q061",
+     "pyq-sbipo-pre15-q062",
+     "pyq-sbipo-pre15-q063",
+     "pyq-sbipo-pre15-q064",
+     "pyq-sbipo-pre15-q065",
+     "pyq-sbipo-pre15-q066",
+     "pyq-sbipo-pre15-q067",
+     "pyq-sbipo-pre15-q068",
+     "pyq-sbipo-pre15-q069"
+    ]
+   },
+   {
+    "name": "English Language",
+    "pool": "english",
+    "minutes": 20,
+    "marksPerQuestion": 1,
+    "questionIds": [
+     "pyq-sbipo-pre15-q070",
+     "pyq-sbipo-pre15-q071",
+     "pyq-sbipo-pre15-q072",
+     "pyq-sbipo-pre15-q073",
+     "pyq-sbipo-pre15-q074",
+     "pyq-sbipo-pre15-q075",
+     "pyq-sbipo-pre15-q076",
+     "pyq-sbipo-pre15-q077",
+     "pyq-sbipo-pre15-q078",
+     "pyq-sbipo-pre15-q079",
+     "pyq-sbipo-pre15-q080",
+     "pyq-sbipo-pre15-q081",
+     "pyq-sbipo-pre15-q082",
+     "pyq-sbipo-pre15-q083",
+     "pyq-sbipo-pre15-q084",
+     "pyq-sbipo-pre15-q085",
+     "pyq-sbipo-pre15-q086",
+     "pyq-sbipo-pre15-q087",
+     "pyq-sbipo-pre15-q088",
+     "pyq-sbipo-pre15-q089",
+     "pyq-sbipo-pre15-q090",
+     "pyq-sbipo-pre15-q091",
+     "pyq-sbipo-pre15-q092",
+     "pyq-sbipo-pre15-q093",
+     "pyq-sbipo-pre15-q094",
+     "pyq-sbipo-pre15-q095",
+     "pyq-sbipo-pre15-q096",
+     "pyq-sbipo-pre15-q097",
+     "pyq-sbipo-pre15-q098",
+     "pyq-sbipo-pre15-q099"
+    ]
+   }
+  ]
+ }
+}
