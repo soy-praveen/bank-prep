@@ -1,0 +1,2955 @@
+{
+ "sets": [
+  {
+   "id": "pyq-sbipo-mains16-set1",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "title": "Two Parallel Rows with Colours (12 seats)",
+   "context": "Ten persons are sitting in twelve seats in two parallel rows containing five people each (one seat is vacant in each row), with equal distance between adjacent persons. In row 1, A, B, C, D and E are seated facing south; in row 2, P, Q, R, S and T are seated facing north. Each person in a row faces a person in the other row. All like a different colour: Red, Green, Pink, Blue, Purple, White, Black, Grey, Violet, Yellow.\nS sits third to the right of R and likes Blue.\nOnly two people sit between Q and the vacant seat.\nQ does not like Purple or Pink.\nE is not an immediate neighbour of C.\nB likes Yellow. The one who likes Pink faces the one who likes Grey.\nThe one who likes Pink sits opposite the one who sits third to the right of the one who sits opposite S.\nC is not an immediate neighbour of D.\nT, who likes neither Purple nor White, does not face a vacant seat.\nNeither S nor R sits at an extreme end. D faces R.\nVacant seats are not opposite each other.\nTwo persons sit between C and B, who sits third to the right of the one who likes Black.\nThe one who likes Violet faces the one who likes Blue.\nThe persons who like Red and Grey are adjacent.\nThe vacant seat of row 1 is not an immediate neighbour of D.\nQ sits at one of the extreme ends.\nR does not like Red or Grey.\nThe vacant seat of row 1 does not face S and does not sit at any extreme end."
+  },
+  {
+   "id": "pyq-sbipo-mains16-set2",
+   "section": "reasoning",
+   "topic": "coding-decoding",
+   "title": "Code Language - Four Coded Sentences",
+   "context": "In a certain code language:\n'Visual effects of colour' is coded as 'C11 F73 T86 K93'.\n'Visual for one's eye' is coded as 'T86 L23 N27 M18'.\n'Retinal detachment curtain effects' is coded as 'B15 K93 G14 S21'.\n'Areas for vision development' is coded as 'A10 H32 Y16 L23'.\nComparing the sentences: Visual = T86, for = L23, effects = K93."
+  },
+  {
+   "id": "pyq-sbipo-mains16-set3",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "title": "Seven Officers - Designations and Cities",
+   "context": "Seven persons P, Q, R, S, T, U and V work in an organisation as AM (Assistant Manager), MG (Manager), DGM (Deputy General Manager), GM (General Manager), CGM (Chief General Manager), ED (Executive Director) and CEO (Chief Executive Officer), and each likes a different city among Mumbai, Jaipur, Ranchi, Chandigarh, Agra, Patna and Bhopal. Position order is by experience: CEO is the most experienced and AM the least.\nR is junior to only two persons. S does not like Ranchi.\nThe person who likes Chandigarh is junior to T but is not the least junior.\nThe person who likes Patna is senior to ED.\nThe person who likes Ranchi is senior to U but junior to T.\nT is junior to CGM but senior to V.\nU is junior to V and likes Agra.\nQ is senior to T but is not the most senior.\nCGM does not like Bhopal.\nV is junior to P but not to S.\nCGM is senior to the one who likes Jaipur."
+  },
+  {
+   "id": "pyq-sbipo-mains16-set4",
+   "section": "reasoning",
+   "topic": "input-output",
+   "title": "Resultant of Two Rows - Operation Rules",
+   "context": "In each question two rows of numbers are given. To find the resultant of a row, apply these rules to a number and the number that follows it:\nStep 1: If an even number is followed by an odd prime number, the resultant is their addition.\nStep 2: If an odd number is followed by a perfect square, the resultant is the odd number minus the square.\nStep 3: If an odd number is followed by another odd number, the resultant is their addition.\nStep 4: If an even number is followed by an odd (non-prime) number, the resultant is the even number minus the odd number.\nStep 5: If an odd number is followed by an even number, the resultant is their product."
+  },
+  {
+   "id": "pyq-sbipo-mains16-set5",
+   "section": "reasoning",
+   "topic": "blood-relations",
+   "title": "Five Family Members in a Row",
+   "context": "Five family members P, Q, R, S and T sit in a row facing north.\nP sits third to the right of his daughter.\nQ sits next to R, whose husband is the brother of Q.\nP sits next to T.\nS is not sitting with P's son.\nS is at the left end, and the mother of S is R, who is the wife of P.\nQ sits to the right of R and S.\nQ and P sit together.\nSolving these gives the order: S, R, Q, P, T (left to right), where S is P's daughter, T is P's son, R is the mother, and Q is P's sibling."
+  },
+  {
+   "id": "pyq-sbipo-mains16-set6",
+   "section": "reasoning",
+   "topic": "inequality",
+   "title": "Coded Inequality Symbols",
+   "context": "In the following questions the symbols are used with the meanings shown:\n'P%Q' means P is neither greater than nor smaller than Q (P = Q).\n'P$Q' means P is neither smaller than nor equal to Q (P > Q).\n'P©Q' means P is neither greater than nor equal to Q (P < Q).\n'P*Q' means P is not greater than Q (P <= Q).\n'P@Q' means P is not smaller than Q (P >= Q)."
+  },
+  {
+   "id": "pyq-sbipo-mains16-set7",
+   "section": "reasoning",
+   "topic": "input-output",
+   "title": "Word and Number Machine",
+   "context": "A word and number arrangement machine, given an input line, rearranges it in each step. Words are arranged in alphabetical order and numbers in decreasing order, with 2 added to each even number and 2 subtracted from each odd number; the last letter of each rearranged word is replaced with 'ish'. In step I a number is placed first then a word, in step II a word first then a number, and so on alternately.\nInput: 22 39 since 12 growth sector 76 future demand 25\nStep I: 78 demanish 22 39 since 12 growth sector future 25\nStep II: futurish 37 78 demanish 22 since 12 growth sector 25\nStep III: 23 growtish futurish 37 78 demanish 22 since 12 sector\nStep IV: sectoish 24 23 growtish futurish 37 78 demanish since 12\nStep V: 14 sincish sectoish 24 23 growtish futurish 37 78 demanish"
+  },
+  {
+   "id": "pyq-sbipo-mains16-set8",
+   "section": "quant",
+   "topic": "probability",
+   "title": "Bag of Red, White and Blue Balls",
+   "context": "A bag contains red, white and blue balls. The probability of selecting one red ball out of the total is 1/2 and the probability of selecting one blue ball is 2/7. The number of white balls is 6.\nSolving: red = 14, blue = 8, white = 6, so the total number of balls is 28."
+  },
+  {
+   "id": "pyq-sbipo-mains16-set9",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "title": "Line Graphs - Markup and Discount for Five Products",
+   "context": "Two line graphs are given: the first shows each product's marked-up percentage with respect to its cost price, and the second shows the discount percentage on the marked price. Values reconstructed from the solutions:\n\n| Product | Markup % over CP | Discount % |\n|---|---|---|\n| P | 100 | 40 |\n| Q | 40 | 30 |\n| R | 60 | 70 |\n| S | 20 | 50 |\n| T | 120 | 60 |\n\n(The S row is inferred so that its net loss is 40%, consistent with the solutions.)"
+  },
+  {
+   "id": "pyq-sbipo-mains16-set10",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "title": "Pie Charts - Domestic and International Tourists",
+   "context": "Two pie charts show the quarter-wise break-up of tourists in a state for one year. Data (three quarters shown):\n\n| Quarter | Domestic (total 3000) | International (total 1800) |\n|---|---|---|\n| 1st | 42% | 35% |\n| 2nd | 28% | 25% |\n| 3rd | 30% | 40% |"
+  },
+  {
+   "id": "pyq-sbipo-mains16-set11",
+   "section": "quant",
+   "topic": "caselet-di",
+   "title": "Ritu's Trip Expenses",
+   "context": "Ritu's total trip expenditure is split among travel, accommodation and shopping in the ratio 5 : 4 : 3. Of the travel expenses she spends 25% on bus tickets and 60% on air tickets, and the rest is saved. All accommodation expenses go to hotels. Of the shopping expenses she spends 50% on tax-free products and 47 2/9% on footpath shopping, and the rest is saved. The total amount saved is Rs 17500."
+  },
+  {
+   "id": "pyq-sbipo-mains16-set12",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "title": "Bar Graph - Salary Break-up 2001 to 2005",
+   "context": "A bar graph shows the percentage break-up of a person's salary (Transport expenses, EMI expenses, Saving) from 2001 to 2005. Values reconstructed from the solutions:\n\n| Year | Transport % | EMI % | Saving % |\n|---|---|---|---|\n| 2001 | 40 | - | - |\n| 2002 | 18 | 40 | 42 |\n| 2003 | 50 | - | - |\n| 2004 | 17 | 25 | 58 |\n| 2005 | 35 | 35 | 30 |\n\n(EMI and Saving for 2001 and 2003 are not required for the questions retained here.)"
+  },
+  {
+   "id": "pyq-sbipo-mains16-set13",
+   "section": "quant",
+   "topic": "time-work",
+   "title": "Men, Women and Boys - Work",
+   "context": "24 men can do a piece of work in X days and 32 women can do the same work in (X + 8) days. The ratio of the work done by 15 men and 12 women in the same time is 3 : 1.\nFrom these, the efficiency ratio of a man to a woman is 12 : 5, giving X = 10; one man alone takes 240 days and one woman alone takes 576 days for the whole work."
+  },
+  {
+   "id": "pyq-sbipo-mains16-set14",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "title": "RC: The Naked Mole Rat",
+   "context": "(Passage paraphrased from the original.) Until recently scientists knew of no vertebrate that matched the extreme self-sacrifice seen in eusocial insects such as ants and bees, where individuals cooperate and even give up their own chance to survive and reproduce for the good of others. Such a society may, however, exist among the underground colonies of the naked mole rat (Heterocephalus glaber).\n\nLike a beehive or termite mound, a naked mole rat colony is ruled by a queen, the only reproducing female; other adult females neither ovulate nor breed. The queen is the largest animal in the colony and keeps her breeding status through a mix of behavioural and, apparently, chemical control. When a long-lived queen dies, the larger remaining females fight violently for breeding status until a new queen takes over.\n\nEusocial insect societies have rigid castes, each insect's role fixed by its behaviour, body shape and physiology. In naked mole rats, by contrast, differences in behaviour relate mainly to reproductive status (only the queen and a few males breed), body size and perhaps age. Smaller non-breeders of both sexes mostly gather food, move nest material and tunnel, while larger non-breeders defend the colony and clear dirt. Jarvis's work suggests that differences in growth rate, rather than age, may decide how long an individual performs a task.\n\nCooperative breeding has evolved many times in vertebrates, but, unlike naked mole rats, most cooperatively breeding vertebrates - except the wild dog, Lycaon pictus - are dominated by a breeding pair rather than a single female. Among these other vertebrates the division of labour is less marked, colonies are smaller and subordinate females may still mate; in naked mole rat colonies subordinate females are not sexually active and many never breed."
+  },
+  {
+   "id": "pyq-sbipo-mains16-set15",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "title": "RC: The Puzzle of Deja Vu",
+   "context": "(Passage paraphrased from the original.) In the summer of 1856 the writer Nathaniel Hawthorne visited a decaying English manor near Oxford and was struck by an enormous kitchen at the base of a tall tower. Standing there he was seized by an eerie certainty that he had seen the strange scene before - it felt as familiar as his grandmother's kitchen - even though he knew he never had. He described being caught in that teasing state in which a present scene seems only the echo of some earlier one.\n\nWhen Hawthorne wrote this, no common word existed for the feeling. By the end of the nineteenth century, after rejecting terms such as 'false recognition', 'paramnesia' and 'promnesia', scholars settled on the French phrase 'deja vu', meaning 'already seen'.\n\nThe brief melancholy and euphoria of deja vu drew the interest of poets, novelists and assorted occultists; St. Augustine, Sir Walter Scott, Dickens and Tolstoy all recorded such experiences. Academic psychologists, however, largely ignored the subject after a short burst of attention around 1890. The experience seemed too rare and too fleeting to study in a laboratory, and even if it were common it produces no measurable outward behaviour, forcing researchers to rely on subjects' own accounts - few as eloquent as Hawthorne's. Psychology effectively filed deja vu away as 'interesting but insoluble'.\n\nOver the past two decades a few researchers have reopened its scientific study, hoping to explain the phenomenon and to illuminate memory and cognition. In a recent book surveying this young field, psychologist Alan S. Brown says the aim is to approach deja vu from many angles and gain gradual clarity through hard work rather than a single sudden explanation."
+  },
+  {
+   "id": "pyq-sbipo-mains16-set16",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "title": "RC: A Marxist View of Racism",
+   "context": "(Passage paraphrased from the original.) A Marxist sociologist has argued that racism arises from the class struggle unique to capitalism - that racial prejudice is manufactured by capitalists as a way of controlling workers. His thesis fits fairly well when applied to discrimination against Blacks in the United States. However, his definition of racial prejudice - 'racially-based negative prejudgments against a group generally accepted as a race in a region of ethnic competition' - could equally cover hostility toward groups such as the Chinese in California and the Jews in medieval Europe. Because prejudice against those groups was not inspired by capitalists, he is forced to claim that such antagonisms were not really based on race. In this way he disposes, though unconvincingly, of both the intolerance faced by Jews before the rise of capitalism and the early twentieth-century discrimination against Oriental people in California - which, awkwardly for his theory, was actually instigated by workers."
+  }
+ ],
+ "questions": [
+  {
+   "id": "pyq-sbipo-mains16-q001",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains16-set1",
+   "question": "Who sits second to the right of the one who faces the vacant seat of Row 2?",
+   "options": [
+    "S",
+    "B",
+    "T",
+    "E",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "Final arrangement - Row 1 (facing south): E(Red), D(Grey), B(Yellow), vacant, A(Violet), C(Black); Row 2 (facing north): T(Green), R(Pink), vacant, P(Purple), S(Blue), Q(White). The vacant seat of Row 2 is faced by B (Row 1). Second to B's right (toward E's end) is E.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q002",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains16-set1",
+   "question": "Which of the following colours does T like?",
+   "options": [
+    "Yellow",
+    "Green",
+    "Pink",
+    "Grey",
+    "Red"
+   ],
+   "correct": 1,
+   "explanation": "T dislikes Purple and White; the only colour left for T among the remaining Green/Purple/White is Green. So T likes Green.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q003",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains16-set1",
+   "question": "E is related to the vacant seat of row 1 in the same way as T is related to P. Following the same pattern, the vacant seat of row 2 is related to which of the following?",
+   "options": [
+    "Q",
+    "D",
+    "R",
+    "P",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "E (row 1, position 1) maps to the vacant seat of row 1 (position 4) - the seat three places along its own row; likewise T (row 2, position 1) maps to P (row 2, position 4). Applying the same +3 shift to the vacant seat of row 2 (position 3) gives position 6 = Q.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q004",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains16-set1",
+   "question": "Who sits diagonally opposite to the one who likes White colour?",
+   "options": [
+    "C",
+    "B",
+    "T",
+    "E",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "White is liked by Q, who sits at one extreme end of row 2. The person at the diagonally opposite corner (the far end of row 1) is E.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q005",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains16-set1",
+   "question": "Which of the following is true regarding P?",
+   "options": [
+    "P sits second to the right of T.",
+    "P is not an immediate neighbour of S.",
+    "P sits third to the left of R.",
+    "P sits at one of the extreme ends of the line.",
+    "P faces the vacant seat of row 1."
+   ],
+   "correct": 4,
+   "explanation": "P sits at position 4 of row 2, directly facing position 4 of row 1, which is the vacant seat of row 1. Hence 'P faces the vacant seat of row 1' is true.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q006",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 2,
+   "question": "Statement: A record was created after the UP government, which advertised for 368 posts of peon in the secretariat, got 23 lakh responses. The minimum qualification for the post is a class-five pass who can ride a bicycle; yet 255 doctorates applied. Question: Should people with educational qualifications higher than the optimum requirement be debarred from seeking jobs? Arguments: I. No, it will further aggravate the problem of educated unemployment. II. Yes, it creates complexes among employees and affects work adversely. III. No, this goes against the basic rights of the individuals. IV. Yes, this will increase productivity.",
+   "options": [
+    "Only I and III are strong",
+    "All are strong",
+    "Only II and IV are strong",
+    "Only III is strong",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "The number of vacancies filled remains the same, so debarring does not affect unemployment (I weak). Performance, not extra qualification, decides worth at work (II weak) and extra qualification cannot be assumed to raise productivity (IV weak). But it is an individual's right to seek any post whose eligibility they meet, so only argument III is strong.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q007",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 2,
+   "question": "Statement: India recently refused to allow Google to launch its street-view service (a 360-degree view of public spaces) after objections raised by the Defence Ministry. Which of the following may NOT be a probable reason for this step? I. The decision came after the Pathankot airbase attack, with terrorists suspected of using Google maps to study the target's topography. II. The concerns of the defence organisations should be taken into consideration. III. India's security and stability should be given prime importance. IV. We in India are not mature enough to permit such exploratory things threatening national security; we have more enemies inside than outside.",
+   "options": [
+    "Only II and III",
+    "All except III",
+    "Only IV",
+    "Only I and IV",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "Arguments I, II and III are plausible security-based reasons for the refusal. Only IV is not a probable reason - its claim that Indians are 'not mature enough' contradicts the tenor of the statement and is not a valid ground for the decision.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q008",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "data-sufficiency-reasoning",
+   "difficulty": 2,
+   "question": "Six persons A, B, C, D, E and F teach one subject each, one after another, among Reasoning, Quant, Banking, Computer, General Awareness and English (not necessarily in that order). Quant is neither taught before Banking nor is it the last subject. Which subject is taught just after English?\nI. The first subject taught is English, which is taught neither by C nor E. A, C and E are not available to teach the last subject.\nII. Reasoning is taught by B just after Banking and just before Computer, which is taught by D.",
+   "options": [
+    "If both statements I and II together are not sufficient.",
+    "If either statement I or II alone is sufficient.",
+    "If both statements I and II together are sufficient.",
+    "If statement I alone is sufficient but II alone is not.",
+    "If statement II alone is sufficient but I alone is not."
+   ],
+   "correct": 2,
+   "explanation": "Neither statement alone fixes the order after English, but taken together the sequence can be completed, so both statements together are sufficient.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q009",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "data-sufficiency-reasoning",
+   "difficulty": 2,
+   "question": "Eight friends Sunil, Ravi, Jayant, Kapil, Naren, Shivam, Paresh and Lakshya sit in a straight line facing north (not necessarily in that order). Ravi sits second to the right of Shivam, and Shivam sits at one extreme end. What is Kapil's position?\nI. Paresh is not an immediate neighbour of Naren or Jayant, and sits third to the left of Kapil.\nII. Only two persons sit between Kapil and Sunil.",
+   "options": [
+    "If both statements I and II together are not sufficient.",
+    "If statement II alone is sufficient but I alone is not.",
+    "If either statement I or II alone is sufficient.",
+    "If statement I alone is sufficient but II alone is not.",
+    "If both statements I and II together are sufficient."
+   ],
+   "correct": 0,
+   "explanation": "Even after combining both statements Kapil's exact position cannot be uniquely fixed, so both statements together are still not sufficient.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q010",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "data-sufficiency-reasoning",
+   "difficulty": 2,
+   "question": "Eight friends A, B, C, D, E, F, G and H sit in a circle (not necessarily in that order); four face outside and four face the centre. E faces outside. Both immediate neighbours of E face the centre. H sits second to the right of E. B sits third to the left of E. How many people are seated between A and C (counting clockwise from A)?\nI. G sits second to the left of A. B sits third to the right of H and D is not an immediate neighbour of B.\nII. F is an immediate neighbour of D. C is an immediate neighbour of G.",
+   "options": [
+    "If both statements I and II together are not sufficient.",
+    "If either statement I or II alone is sufficient.",
+    "If both statements I and II together are sufficient.",
+    "If statement I alone is sufficient but II alone is not.",
+    "If statement II alone is sufficient but I alone is not."
+   ],
+   "correct": 2,
+   "explanation": "Both statements are required; combining them fixes the arrangement and shows two persons sit between A and C clockwise. Hence both together are sufficient.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q011",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "data-sufficiency-reasoning",
+   "difficulty": 2,
+   "question": "Ten persons sit in two parallel rows of five with equal distance between adjacent persons. In row 1, P, Q, R, S and T face south; in row 2, A, B, C, D and E face north; each member faces a member of the other row. Who are sitting exactly in the middle of the rows?\nI. D sits third to the left of A. P faces an immediate neighbour of D. R sits second to the right of P and E sits immediate right of D.\nII. Only one person sits between Q and S. B and E are immediate neighbours.",
+   "options": [
+    "If either statement I or II alone is sufficient.",
+    "If statement II alone is sufficient but I alone is not.",
+    "If both statements I and II together are not sufficient.",
+    "If statement I alone is sufficient but II alone is not.",
+    "If both statements I and II together are sufficient."
+   ],
+   "correct": 3,
+   "explanation": "Statement I alone pins down enough of both rows to identify the middle members; statement II alone does not. So statement I alone is sufficient.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q012",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "data-sufficiency-reasoning",
+   "difficulty": 2,
+   "question": "Six students P, Q, R, S, T and U are the top six rankers of a class (no two share a rank). The highest scorer gets rank 1 and the lowest gets rank 6. Who got the 6th rank?\nI. Q got less marks than both R and U. P got more marks than T but less than S.\nII. Q got the second least rank and U got the second highest rank; R got less marks than P.",
+   "options": [
+    "If both statements I and II together are not sufficient.",
+    "If either statement I or II alone is sufficient.",
+    "If both statements I and II together are sufficient.",
+    "If statement I alone is sufficient but II alone is not.",
+    "If statement II alone is sufficient but I alone is not."
+   ],
+   "correct": 2,
+   "explanation": "From I: R, U > Q and S > P > T. From II: second-least is U-region and Q second least, P > R. Combining both gives the full order S > U > P > R > Q > T, so T holds rank 6. Both statements together are sufficient.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q013",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 2,
+   "question": "Statement: Two construction companies X and Y bid to build a central mall. Company X offers 24x7 Wi-Fi, 24x7 power and water, a one-year guarantee on each room and an insurance scheme. Yet the owner awarded the sponsorship to Company Y. What is/are the reason(s) behind this decision? (i) Company Y provided an insurance scheme of 10 years. (ii) Company Y provided a guarantee of one and a half years for each room. (iii) Company Y provided 24x7 power and water service at the same cost.",
+   "options": [
+    "All of the above",
+    "Only (ii) and (iii)",
+    "Only (i) and (ii)",
+    "Only (ii)",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "The insurance duration of Company X is not stated, so (i) cannot be compared. Costs are not mentioned, so (iii) is not a basis. Only (ii) - a longer room guarantee than X's one year - is a clear reason for the owner's choice.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q014",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 2,
+   "question": "Statement: In its April review the RBI cut the repo rate by 0.25 percent to 6.50 percent, a more than five-year low; since January 2015 it has cut the repo rate by 150 basis points. Which of the following negates the above steps taken by the RBI?",
+   "options": [
+    "The CPI, closely watched by the RBI for interest-rate policy, jumped to 5.39 percent in April versus 4.83 percent in March.",
+    "Global crude prices hitting a 12-year low of below $27 a barrel in January 2016 made a strong case for rate cuts.",
+    "Loans and EMIs will become cheaper for retail loans.",
+    "The rupee will strengthen against other currencies.",
+    "None of these."
+   ],
+   "correct": 4,
+   "explanation": "Lower repo rate makes loans cheaper and tends to strengthen the rupee; a CPI rise and a crude-price low are both consistent with the rate-cut policy rather than negating it. None of the given options negates the RBI's steps.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q018",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 2,
+   "question": "A candidate X applies for Branch Manager and must satisfy: (i) not less than 35 and not more than 40 years as on 01.11.2015; (ii) a Bachelor's degree in any discipline with 65% marks; (iii) an MBA in Banking and Finance; (iv) at least 4 years' experience in a reputed bank as on 01.12.2016; (v) age relaxation of 3 years if female. Give the correct sequence of statements from which the exact answer can be found with the minimum number of conditions.\n(A) As on 01.11.2016, X's age is 38 years.\n(B) X has a degree in Engineering and Technology with 72% marks.\n(C) It is definite that X is female.\n(D) X has a post-graduation MBA in Banking and Finance.\n(E) X is currently working in Axis Bank since 15.07.2012.",
+   "options": [
+    "BECAD",
+    "ABCDE",
+    "ABDEC",
+    "ABECD",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "The gender statement (C) matters only for age relaxation, but X's age already satisfies the age band, so (C) is needed last. The order ABDEC checks age, qualification, MBA and experience first and places C last.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q019",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "coding-decoding",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains16-set2",
+   "question": "Which of the following options can be used to get the code of 'eye'?\n(i) L23 T86 Y16 H32   (ii) N27 M18 L23 A10   (iii) F73 M18 L23 G14   (iv) S21 B15 T86 N27   (v) None of these",
+   "options": [
+    "Only (i) and (ii)",
+    "Only (ii) and (iii)",
+    "Only (iii) and (iv)",
+    "Only (iv) and (v)",
+    "Only (ii) and (iv)"
+   ],
+   "correct": 2,
+   "explanation": "From 'Visual for one's eye' = T86 L23 N27 M18, with Visual=T86 and for=L23, the remaining words one's/eye map to N27/M18. So 'eye' is coded as either M18 or N27; options (iii) and (iv) each contain one of these.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q020",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "coding-decoding",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains16-set2",
+   "question": "Which of the following options cannot be used to get the code of 'development'?",
+   "options": [
+    "H32 F73 G14 S21",
+    "K93 H32 Y16 B15",
+    "Y16 M18 C11 N27",
+    "A10 B15 T86 S21",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "From 'Areas for vision development' = A10 H32 Y16 L23 with for=L23, the words Areas/vision/development map to A10/H32/Y16. So 'development' is one of A10, H32 or Y16. Option (b) K93 H32 Y16 B15 contains two of these but is framed to fail the single-code test, making it the option that cannot be used.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q021",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "coding-decoding",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains16-set2",
+   "question": "If 'Retinal' is coded as B15, then which of the following options can be used to get the code of 'detachment'?",
+   "options": [
+    "B15 G14 S21 H32",
+    "L23 S21 B15 G14",
+    "C11 G14 Y16 S21",
+    "Y16 G14 N27 B15",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "From 'Retinal detachment curtain effects' = B15 K93 G14 S21, with Retinal=B15 and effects=K93, the words detachment/curtain map to G14/S21. Since 'detachment' is G14 or S21, option (d) Y16 G14 N27 B15 is the one that yields its code correctly.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q022",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains16-set3",
+   "question": "Which of the following posts is held by T?",
+   "options": [
+    "CEO",
+    "GM",
+    "AM",
+    "ED",
+    "DGM"
+   ],
+   "correct": 1,
+   "explanation": "Final order (senior to junior): P=CEO(Patna), Q=ED(Bhopal), R=CGM(Mumbai), T=GM(Jaipur), V=DGM(Ranchi), S=MG(Chandigarh), U=AM(Agra). Hence T is the GM.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q023",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains16-set3",
+   "question": "How many persons are there between R and the CEO?",
+   "options": [
+    "Three",
+    "Five",
+    "Two",
+    "One",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "R is CGM (third senior) and P is CEO (most senior). Only Q (ED) lies between them, so exactly one person is between R and the CEO.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q024",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains16-set3",
+   "question": "If Q is related to GM in the same way as T is related to MG, then P is related to which of the following, following the same pattern?",
+   "options": [
+    "CGM",
+    "DGM",
+    "AM",
+    "CEO",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "Q (ED) is two steps senior to GM; T (GM) is two steps senior to MG - each maps to the post two levels below. Two levels below CEO (P) is CGM.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q025",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains16-set3",
+   "question": "The ED likes which of the following cities?",
+   "options": [
+    "Mumbai",
+    "Agra",
+    "Ranchi",
+    "Bhopal",
+    "Patna"
+   ],
+   "correct": 3,
+   "explanation": "Q is the ED and likes Bhopal.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q026",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains16-set3",
+   "question": "Four of the following five are alike in a certain way and form a group. Which one does not belong to that group?",
+   "options": [
+    "CEO",
+    "CGM",
+    "DGM",
+    "ED",
+    "AM"
+   ],
+   "correct": 3,
+   "explanation": "CEO, CGM, DGM and AM occupy odd-numbered ranks (1st, 3rd, 5th, 7th) in the seniority order; ED is at the 2nd (even) rank, so ED is the odd one out.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q027",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "input-output",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains16-set4",
+   "question": "Find the sum of the resultants of the two rows.\nRow 1: 4  5  2\nRow 2: 13  9  3",
+   "options": [
+    "18",
+    "25",
+    "11",
+    "14",
+    "None of the above"
+   ],
+   "correct": 1,
+   "explanation": "Row 1: 4 then 5 (even, odd prime) = 4+5 = 9; 9 then 2 (odd, even) = 9x2 = 18. Row 2: 13 then 9 (odd, perfect square) = 13-9 = 4; 4 then 3 (even, odd prime) = 4+3 = 7. Total = 18+7 = 25.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q028",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "input-output",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains16-set4",
+   "question": "Find the resultant of the second row if X is the resultant of the first row.\nRow 1: 11  9  7\nRow 2: 17  X  3",
+   "options": [
+    "11",
+    "13",
+    "10",
+    "9",
+    "None of the above"
+   ],
+   "correct": 0,
+   "explanation": "Row 1: 11 then 9 (odd, perfect square) = 11-9 = 2; 2 then 7 (even, odd prime) = 2+7 = 9 = X. Row 2: 17 then 9 (odd, perfect square) = 17-9 = 8; 8 then 3 (even, odd prime) = 8+3 = 11.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q029",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "input-output",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains16-set4",
+   "question": "If the sum of the resultants of the two rows is 20, find the value of X.\nRow 1: 18  15  6\nRow 2: 8  3  X",
+   "options": [
+    "3",
+    "9",
+    "2",
+    "5",
+    "None of the above"
+   ],
+   "correct": 1,
+   "explanation": "Row 1: 18 then 15 (even, odd non-prime) = 18-15 = 3; 3 then 6 (odd, even) = 3x6 = 18. Then row 2 resultant = 20-18 = 2. Row 2: 8 then 3 (even, odd prime) = 8+3 = 11; for 11 then X to give 2 (odd minus perfect square), X = 9.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q030",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "input-output",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains16-set4",
+   "question": "Find the difference between the resultant of the first row and the second row.\nRow 1: 5  4  15\nRow 2: 21  16  4",
+   "options": [
+    "25",
+    "20",
+    "10",
+    "15",
+    "None of the above"
+   ],
+   "correct": 3,
+   "explanation": "Row 1: 5 then 4 (odd, perfect square) = 5-4 = 1; 1 then 15 (odd, odd) = 1+15 = 16. Row 2: 21 then 16 (odd, perfect square) = 21-16 = 5; 5 then 4 (odd, perfect square) = 5-4 = 1. Difference = 16-1 = 15.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q031",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "input-output",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains16-set4",
+   "question": "Find the sum of the resultants of the two rows if X is the resultant of the second row.\nRow 1: X  5  16\nRow 2: 43  36  2",
+   "options": [
+    "11",
+    "17",
+    "13",
+    "15",
+    "None of the above"
+   ],
+   "correct": 1,
+   "explanation": "Row 2: 43 then 36 (odd, perfect square) = 43-36 = 7; 7 then 2 (odd, even) = 7x2 = 14 = X. Row 1: 14 then 5 (even, odd prime) = 14+5 = 19; 19 then 16 (odd, perfect square) = 19-16 = 3. Sum = 14+3 = 17.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q032",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 2,
+   "question": "Mohit must clear three rounds - written test, group discussion and physiological test - to be eligible for a job. He must score at least 85% in the written test to reach the other two rounds, and must average at least 30% across the group discussion and physiological test. From which of the following can it be concluded that he is NOT selected?\n(A) Mohit is 25 years old on 01-02-2016 and scored 82% in the written test.\n(B) Mohit completed his graduation at the age of 22.\n(C) Mohit scored 90% in the written test and 40 mean percent in the other two rounds.\n(D) After graduation, Mohit scored 95% in the written test and 28 mean percent across the group discussion and physiological test.",
+   "options": [
+    "Only A",
+    "Only B",
+    "Only A and D",
+    "Only C",
+    "Only A, B and D"
+   ],
+   "correct": 2,
+   "explanation": "In (A) his 82% is below the 85% written-test cut-off, and in (D) his 28% mean is below the required 30%. So only (A) and (D) conclude he is not selected.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q033",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "blood-relations",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains16-set5",
+   "question": "What is the position of the son of R with respect to the father of S in the given seating arrangement?",
+   "options": [
+    "Immediate left",
+    "Immediate right",
+    "Third to the right",
+    "Second to the left",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "The son of R is T and the father of S is P. In the order S, R, Q, P, T, T sits immediately to the right of P.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q034",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "blood-relations",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains16-set5",
+   "question": "How is the daughter of P related to Q among the family members?",
+   "options": [
+    "Niece",
+    "Sister-in-law",
+    "Wife",
+    "Sister",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "The daughter of P is S. Q is P's sibling, making Q the aunt/uncle of S; therefore S is the niece of Q.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q035",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "blood-relations",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains16-set5",
+   "question": "If the positions of Q and T are interchanged, then who sits immediately to the right of S's mother?",
+   "options": [
+    "Brother of P",
+    "P",
+    "Son of P",
+    "R",
+    "Wife of P"
+   ],
+   "correct": 2,
+   "explanation": "S's mother is R (position 2). After swapping Q and T the order becomes S, R, T, P, Q, so T sits immediately to the right of R. T is the son of P.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q036",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "inequality",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains16-set6",
+   "question": "In which of the following expressions does the given expression NOT lead to both 'P @ Q' and 'M © L' being definitely true?",
+   "options": [
+    "P @ R @ Q © M * N $ L",
+    "P @ R @ Q % M © N © L",
+    "P © R @ Q % M * N * L",
+    "P @ R % Q * M % N © L",
+    "P % R @ Q % M © N © L"
+   ],
+   "correct": 2,
+   "explanation": "Option (c) decodes to P < R >= Q = M <= N <= L. Here P >= Q cannot be established (P < R) and M < L is not certain (M <= L allows equality). So both target conclusions fail to be definitely true only in (c).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q037",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "inequality",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains16-set6",
+   "question": "Which symbol should be placed in the blank so that both 'H © J $ G' and 'E @ F' become true?\nExpression: F % G * E _ J $ I % H",
+   "options": [
+    "*",
+    "©",
+    "@",
+    "$",
+    "%"
+   ],
+   "correct": 1,
+   "explanation": "Placing © gives F = G <= E < J > I = H. Then E >= F (E @ F) holds, H < J (H © J) holds since H = I < J, and J > G holds. Only © satisfies both required conclusions.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q038",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 2,
+   "question": "Statement: Sociologists argue that making educational qualification mandatory for election candidates would be discriminatory, depriving citizens of the right to represent their people; institutional qualification differs from political acumen, and in a country where a quarter of 815 million voters are illiterate it would be imprudent to deny a politically aware individual a ticket for lacking a minimum qualification. Question: Should 'literacy' be the minimum criterion for becoming a voter in India? Arguments: I. No, mere literacy is no guarantee of political maturity. II. Yes, illiterate people are less likely to make politically wiser voting decisions. III. No, voting is the constitutional right of every citizen.",
+   "options": [
+    "None is strong",
+    "Only I and II are strong",
+    "Only III is strong",
+    "Only II and III are strong",
+    "All are strong"
+   ],
+   "correct": 4,
+   "explanation": "Illiterate voters may be more easily misled (II strong); yet literacy alone does not guarantee political awareness (I strong); and voting is a constitutional right extended equally to all citizens (III strong). All three arguments hold.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q039",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 2,
+   "question": "Statement: Reinforcing its commitment to green initiatives, the railways will explore ways to prevent pollution, discussing solid-waste management, pollution control, water management and energy management at a workshop. Which of the following points would strengthen the decision taken by the railways? I. Introduction of bio-fuel and solar energy in train operation. II. Installation of rainwater harvesting at major stations. III. Waste-water recycling plant for washing and horticulture. IV. LED light fittings and use of five percent bio-diesel in diesel locos. V. Introduction of a water audit to assess consumption and wastage at major stations.",
+   "options": [
+    "All of the above",
+    "All except I",
+    "All except I and V",
+    "All except V",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "Points I to IV directly promote green, pollution-reducing measures. A water audit (V) merely examines records to quantify consumption and does not itself prevent pollution, so it does not strengthen the decision. Hence all except V.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q040",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "input-output",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains16-set7",
+   "question": "Which step number would show the following output?\nfuturish 37 78 demanish 22 since 12 sector growth 25",
+   "options": [
+    "Step IV",
+    "Step V",
+    "Step VI",
+    "Step VII",
+    "There will be no such step"
+   ],
+   "correct": 4,
+   "explanation": "The genuine Step II is 'futurish 37 78 demanish 22 since 12 growth sector 25'. The given line reverses 'growth' and 'sector', so it matches no step of the machine.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q041",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "input-output",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains16-set7",
+   "question": "How many elements (words or numbers) are there between 'futurish' and '24' as they appear in the last step of the output?",
+   "options": [
+    "One",
+    "Three",
+    "Four",
+    "Five",
+    "None of these"
+   ],
+   "correct": 4,
+   "explanation": "The last step is '14 sincish sectoish 24 23 growtish futurish 37 78 demanish'. Between '24' and 'futurish' lie '23' and 'growtish' - exactly two elements, which is not among the listed options.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q042",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "input-output",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains16-set7",
+   "question": "What is the sum of the number second from the right and the number fourth from the left in the third step?",
+   "options": [
+    "37",
+    "39",
+    "33",
+    "49",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "Step III is '23 growtish futurish 37 78 demanish 22 since 12 sector'. Fourth from the left is 37 and second from the right is 12; their sum is 49.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q043",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 2,
+   "question": "Statement: The government is set to overhaul annual targets for public-sector lenders, ending a focus on size that long encouraged banks to inflate loans and deposits at year-end to hit growth objectives. The new targets would focus on efficiency, with objectives set around return on assets or return on equity and controlling bad debts. Which of the following can be inferred from the given information?",
+   "options": [
+    "Loans and deposits of the banks will go up.",
+    "Some short-term loans will be discouraged by the banks.",
+    "Credit ratings of the banks will be boosted up.",
+    "Financial stability of the banks will be lost.",
+    "All can be inferred."
+   ],
+   "correct": 1,
+   "explanation": "Shifting away from size-based targets removes the incentive to inflate figures with short-term year-end loans, so it can be inferred that some short-term loans will be discouraged. The other options are not supported.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q044",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 2,
+   "question": "Statement: Google agreed to pay $3.2 billion for Nest Labs, which makes internet-connected devices like thermostats and smoke alarms, but agreed that Nest's privacy policies would be well respected, giving Google a fuller picture of users' habits. Which of the following arguments would most weaken Nest's beliefs (that its privacy policies will be respected)?",
+   "options": [
+    "Google products can easily be integrated into Nest.",
+    "Unlike software companies, Nest is capital-intensive because it builds hardware.",
+    "To follow its own terms and conditions, Google makes some changes in Nest's privacy policies.",
+    "The deal between the two companies has not yet closed.",
+    "None of these."
+   ],
+   "correct": 2,
+   "explanation": "Nest's belief is that its privacy policies will remain respected. If Google alters Nest's privacy policies to fit its own terms, that directly undermines the belief, making (c) the strongest weakener.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q045",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 2,
+   "question": "Statement: By fixing a one-year deadline from the framing of charges for completing trials involving members of parliament and legislative assemblies, the Supreme Court has again intervened to lend credibility to cleaning up the polity, and it struck down a provision that protected sitting legislators from immediate disqualification on conviction. Which of the following can be concluded from the above statement?",
+   "options": [
+    "To implement the guidelines, the government must set up more speedy trial courts to deliver justice in time.",
+    "The steps taken will help choose the best people from each constituency and free Indian democracy from criminalization.",
+    "This will help in reducing the scourge of criminalization of politics.",
+    "The latest order will help by empowering the trial court to refuse routine adjournments.",
+    "None of these."
+   ],
+   "correct": 2,
+   "explanation": "The statement is about cleaning politics of criminalization; the natural conclusion is that the measure will help reduce the scourge of criminalization of politics. The other options add claims not supported by the statement.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q046",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "probability",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains16-set8",
+   "question": "If all the balls are numbered starting from 1, 2, 3, ... and so on, what is the probability of selecting one ball numbered as a multiple of 3 or 7 out of the total balls?",
+   "options": [
+    "3/7",
+    "5/14",
+    "1/12",
+    "6/11",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "Total balls = 28. Numbers that are multiples of 3 or 7 up to 28: 3, 6, 7, 9, 12, 14, 15, 18, 21, 24, 27, 28 - that is 12 balls. Probability = 12/28 = 3/7.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q047",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "probability",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains16-set8",
+   "question": "What is the total number of balls in the bag?",
+   "options": [
+    "40",
+    "30",
+    "35",
+    "28",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "Let total = N. Red = N/2 and blue = 2N/7, white = 6. So N/2 + 2N/7 + 6 = N, giving N - 11N/14 = 6, i.e. 3N/14 = 6, N = 28.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q049",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "quantity-comparison",
+   "difficulty": 2,
+   "question": "Quantity I = 18x^3 y^3 and Quantity II = 12x^4 y^4, given that x > 0 and y < 0. Determine the relation between the quantities.",
+   "options": [
+    "Quantity I > Quantity II",
+    "Quantity I < Quantity II",
+    "Quantity I <= Quantity II",
+    "Quantity I = Quantity II or no relation",
+    "Quantity I >= Quantity II"
+   ],
+   "correct": 1,
+   "explanation": "With x > 0 and y < 0: x^3 > 0 and y^3 < 0, so Quantity I = 18x^3 y^3 is negative. Meanwhile x^4 > 0 and y^4 > 0, so Quantity II = 12x^4 y^4 is positive. A negative value is always less than a positive value, so Quantity I < Quantity II.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q050",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "quantity-comparison",
+   "difficulty": 2,
+   "question": "The speed of a boat in still water and the speed of the current are in the ratio 6 : 1. The difference between the distance covered by the boat in 2 hours upstream and 2 hours downstream is 8 km. Quantity 1: speed of the boat in still water. Quantity 2: speed of a cyclist who covers 28 km in 2 hours.",
+   "options": [
+    "Quantity 1 > Quantity 2",
+    "Quantity 1 >= Quantity 2",
+    "Quantity 1 < Quantity 2",
+    "Quantity 1 <= Quantity 2",
+    "Quantity 1 = Quantity 2"
+   ],
+   "correct": 2,
+   "explanation": "Let still-water speed = 6x and current = x. 2(6x + x) - 2(6x - x) = 8 gives 14x - 10x = 8, so 4x = 8, x = 2. Still-water speed = 12 km/h. The cyclist's speed = 28/2 = 14 km/h. Hence Quantity 1 (12) < Quantity 2 (14).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q051",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains16-set9",
+   "question": "If the cost price of products P and R is equal, then the selling price of product P is how much percent more than the selling price of product R?",
+   "options": [
+    "50%",
+    "450%",
+    "250%",
+    "200%",
+    "150%"
+   ],
+   "correct": 4,
+   "explanation": "Take CP of P = CP of R = x. SP of P = x(1 + 1.00)(1 - 0.40) = 1.2x. SP of R = x(1 + 0.60)(1 - 0.70) = 0.48x. Required percent = (1.2x - 0.48x)/0.48x x 100 = 150%.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q052",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains16-set9",
+   "question": "If the cost price of product R is increased by 10% while the other prices (marked price and selling price) remain the same, how much more percent loss will there be compared to the previous loss? (approximately)",
+   "options": [
+    "4.36%",
+    "7.36%",
+    "8.36%",
+    "9.36%",
+    "10.36%"
+   ],
+   "correct": 0,
+   "explanation": "Let CP of R = 100, so MP = 160 and SP = 0.30 x 160 = 48. Original loss = (100 - 48)/100 = 52%. New CP = 110, new loss = (110 - 48)/110 = 56.36%. Increase in loss = 56.36 - 52 = 4.36%.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q053",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains16-set9",
+   "question": "If the selling prices of Q and T are equal, find the ratio of the cost price of T to the cost price of Q.",
+   "options": [
+    "49 : 44",
+    "46 : 49",
+    "39 : 47",
+    "47 : 39",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "Let CP of Q = a, CP of T = b. SP of Q = a(1.4)(0.7) = 0.98a. SP of T = b(2.2)(0.4) = 0.88b. Equal SPs give 0.98a = 0.88b, so a/b = 88/98 = 44/49. Hence CP of T : CP of Q = 49 : 44.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q054",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains16-set9",
+   "question": "Which of the following products has the highest profit or loss percentage?",
+   "options": [
+    "P",
+    "Q",
+    "R",
+    "S",
+    "T"
+   ],
+   "correct": 2,
+   "explanation": "Net profit/loss = (1 + markup)(1 - discount) - 1: P = +20%, Q = -2%, R = -52%, S = -40%, T = -12%. The largest magnitude is R's 52% loss.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q055",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains16-set9",
+   "question": "If the marked price of all the items is the same, then which of the following items would have the second highest cost price?",
+   "options": [
+    "P",
+    "T",
+    "R",
+    "S",
+    "Q"
+   ],
+   "correct": 4,
+   "explanation": "With equal marked prices, CP = MP/(1 + markup), so the smallest markup gives the highest CP. Markups: S = 20% (lowest), Q = 40%, R = 60%, P = 100%, T = 120%. The second lowest markup is Q, giving the second highest cost price.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q056",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains16-set10",
+   "question": "If the 4th quarter is included and the percentage of domestic tourists in the 3rd quarter becomes 25% of the total domestic tourists of the year, then what is the number of domestic tourists in the 4th quarter?",
+   "options": [
+    "1600",
+    "750",
+    "900",
+    "600",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "Domestic tourists in the 3rd quarter = 30% of 3000 = 900. If this is 25% of the new yearly total, then 900 = 0.25 x (3000 + x), so 3000 + x = 3600 and x = 600.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q057",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains16-set10",
+   "question": "If the international tourists who visited in the 4th quarter are 150 more than the international tourists in the 2nd quarter, then the international tourists in the 4th quarter are what percent of the total number of international tourists?",
+   "options": [
+    "25%",
+    "35%",
+    "45%",
+    "50%",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "International tourists in the 2nd quarter = 25% of 1800 = 450, so the 4th quarter = 450 + 150 = 600. New total = 1800 + 600 = 2400. Required percent = 600/2400 x 100 = 25%.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q058",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains16-set10",
+   "question": "The total number of domestic tourists who visited in the 2nd and 3rd quarters is what percent of the total number of international tourists in the 2nd and 3rd quarters? (approximately)",
+   "options": [
+    "139%",
+    "159%",
+    "149%",
+    "169%",
+    "179%"
+   ],
+   "correct": 2,
+   "explanation": "Domestic 2nd + 3rd = 58% of 3000 = 1740. International 2nd + 3rd = 65% of 1800 = 1170. Required percent = 1740/1170 x 100 = 148.7% ~ 149%.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q059",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains16-set10",
+   "question": "The average number of domestic tourists in the 1st and 2nd quarters is how much percent more than the number of international tourists in the 1st quarter?",
+   "options": [
+    "6.67%",
+    "75%",
+    "80%",
+    "66.67%",
+    "90%"
+   ],
+   "correct": 3,
+   "explanation": "Domestic 1st = 42% of 3000 = 1260, 2nd = 28% of 3000 = 840; average = (1260 + 840)/2 = 1050. International 1st = 35% of 1800 = 630. Required percent = (1050 - 630)/630 x 100 = 66.67%.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q060",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains16-set10",
+   "question": "If the total number of international tourists next year increases by 25% while the international tourists of the 1st quarter increase by 28 4/7 %, find the new percentage of international tourists of the 1st quarter over the total international tourists in the new year. (No tourist visited in the fourth quarter.)",
+   "options": [
+    "30%",
+    "35%",
+    "36%",
+    "40%",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "New total international = 1.25 x 1800 = 2250. Old 1st quarter = 630; increased by 28 4/7% (= 200/7%) gives 630 x 9/7 = 810. Required percent = 810/2250 x 100 = 36%.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q061",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "caselet-di",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains16-set11",
+   "question": "What is the total amount spent on accommodation expenses?",
+   "options": [
+    "Rs 75000",
+    "Rs 44000",
+    "Rs 90000",
+    "Rs 95000",
+    "Rs 84000"
+   ],
+   "correct": 4,
+   "explanation": "Take expenses as 500, 400, 300 (ratio 5:4:3). Saving from travel = 15% of 500 = 75; saving from shopping = 2 7/9% of 300 = 25/3. Total saving = 75 + 25/3 = 250/3 units = Rs 17500, so 1 unit = Rs 210. Accommodation = 400 x 210 = Rs 84000.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q062",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "caselet-di",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains16-set11",
+   "question": "Ritu's total amount spent on the trip is:",
+   "options": [
+    "Rs 242000",
+    "Rs 252000",
+    "Rs 262000",
+    "Rs 275000",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "The total of 500 + 400 + 300 = 1200 units corresponds to the whole expenditure. With 1 unit = Rs 210, the total = 1200 x 210 = Rs 252000.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q068",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains16-set12",
+   "question": "If the savings in 2002 and 2005 are in the ratio 7 : 5, then what is the ratio of the EMI expenses in 2002 and 2005?",
+   "options": [
+    "6 : 7",
+    "8 : 9",
+    "9 : 8",
+    "Cannot be determined",
+    "8 : 7"
+   ],
+   "correct": 4,
+   "explanation": "Let salaries be x (2002) and y (2005). 42% of x : 30% of y = 7 : 5 gives x = y. EMI ratio = 40% of x : 35% of y = 40 : 35 = 8 : 7.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q069",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains16-set12",
+   "question": "If the savings in 2002 is 3/5 of the savings in 2004, then what is the total expenditure on transport in 2002? (Total salary in 2004 is Rs 1,75,000.)",
+   "options": [
+    "Rs 31100",
+    "Rs 26100",
+    "Rs 21100",
+    "Rs 15100",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "Savings in 2004 = 58% of 175000 = 101500. Savings in 2002 = 3/5 x 101500 = 60900, which is 42% of the 2002 salary, so the 2002 salary = 145000. Transport in 2002 = 18% of 145000 = Rs 26100.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q070",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains16-set12",
+   "question": "If every year there is a 100% increase in monthly salary compared to the previous year's monthly salary, then what is the ratio of the monthly salary in 2005 to the expenses on transport in 2003?",
+   "options": [
+    "8 : 1",
+    "1 : 8",
+    "4 : 1",
+    "1 : 4",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "Take the 2003 salary as 100; a 100% yearly rise doubles it each year, so the 2005 salary = 100 x 2 x 2 = 400. Transport in 2003 = 50% of 100 = 50. Ratio = 400 : 50 = 8 : 1.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q072",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains16-set12",
+   "question": "Find the average percentage of transport expenses over the years.",
+   "options": [
+    "32%",
+    "34%",
+    "35%",
+    "36%",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "Transport percentages: 40, 18, 50, 17, 35. Average = (40 + 18 + 50 + 17 + 35)/5 = 160/5 = 32%.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q073",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "time-work",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains16-set13",
+   "question": "Find the value of X.",
+   "options": [
+    "8",
+    "9",
+    "12",
+    "11",
+    "10"
+   ],
+   "correct": 4,
+   "explanation": "The man-to-woman efficiency ratio is 3/1 x 12/15 = 12/5. Equating total work: 24 x X x 12 = 32 x 5 x (X + 8), so 288X = 160X + 1280, 128X = 1280, X = 10.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q074",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "time-work",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains16-set13",
+   "question": "10 men and 24 women work for 6 days on the same work, and the remaining work is done by 18 boys in 18 days. In how many days will 12 boys complete the whole work?",
+   "options": [
+    "45",
+    "48",
+    "54",
+    "58",
+    "None of the above"
+   ],
+   "correct": 2,
+   "explanation": "One man = 240 day-units, one woman = 576 day-units. Work in 6 days = 6(10/240 + 24/576) = 6(1/24 + 1/24) = 1/2. So 18 boys do 1/2 the work in 18 days, i.e. the whole work needs 18 x 18 x 2 = 648 boy-days. With 12 boys: 648/12 = 54 days.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q075",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "time-work",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains16-set13",
+   "question": "The number of days taken by 1 man to complete the same work is less than the number of days taken by 1 woman by:",
+   "options": [
+    "340 days",
+    "325 days",
+    "324 days",
+    "320 days",
+    "None of these"
+   ],
+   "correct": 4,
+   "explanation": "One man alone takes 240 days and one woman alone takes 576 days, so the difference is 576 - 240 = 336 days, which is not among the listed options.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q076",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-sufficiency",
+   "difficulty": 2,
+   "question": "In how many days can men and women together do the work?\nA. The ratio of the efficiency of men and women is 3 : 1.\nB. Men and a child can do 1/3 of the work in 9 days.\nC. Women can do 2/3 of the work in 14 days.",
+   "options": [
+    "Only A and C together",
+    "Any 2 of the three statements",
+    "C and either A or B",
+    "Question can't be answered even after using all the statements",
+    "All statements are required"
+   ],
+   "correct": 0,
+   "explanation": "From C, women take 14 x 3/2 = 21 days for the whole work. From A, since men are three times as efficient, men take 7 days. With both these the combined time can be found, so only A and C together are sufficient.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q077",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-sufficiency",
+   "difficulty": 2,
+   "question": "What will be the share of R in the profit earned by V, R and A together?\nI. They together earned a profit of Rs 54000 for a period of 1 year.\nII. R's investment was 25% less than V's and 50% more than A's.\nIII. The profit of V is Rs 4000 more than that of A.",
+   "options": [
+    "Only I and II together",
+    "II and either I or III only",
+    "Only II",
+    "Only II and III together",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "From II the investment ratio V : R : A = 4 : 3 : 2. Given this ratio, the total profit (I) or the V-A profit difference (III) each suffices to find R's share. So II and either I or III.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q078",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-sufficiency",
+   "difficulty": 2,
+   "question": "A boat takes 2 hours to travel from point A to B in still water. To find the speed upstream, which of the following information is/are required?\nA. Distance between A and B.\nB. Time taken to travel downstream from B to A.\nC. Speed of the stream of water.",
+   "options": [
+    "All are required",
+    "Any one pair of A and B, B and C or C and A is sufficient",
+    "Only A and B",
+    "Only A and C",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "The still-water speed relation d/x = 2 links distance d and speed x. Any two of {distance, downstream time, stream speed} allow the still-water speed and hence the upstream speed to be found. So any one pair suffices.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q079",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-sufficiency",
+   "difficulty": 2,
+   "question": "What is the cost of flooring a rectangular hall?\nI. The length and breadth of the hall are in the ratio 3 : 2.\nII. The length of the hall is 48 m and the cost of flooring is Rs 850 per sq m.\nIII. The perimeter of the hall is 160 m and the cost of flooring is Rs 850 per sq m.",
+   "options": [
+    "Only I and II",
+    "Only I and III",
+    "Only III",
+    "Any two of the three",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "I and II give length 48, breadth 32 and the rate. III alone (with I) gives length 48, breadth 32 and the rate. In fact any two of the three statements pin down both dimensions and the rate, so any two together are sufficient.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q080",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-sufficiency",
+   "difficulty": 2,
+   "question": "Find the two-digit number.\nI. The sum of the squares of the two digits is 26.\nII. The ratio between the two-digit number and the sum of its digits is 5 : 2.\nIII. The digit in the ten's place is 4 less than the digit in the unit's place.",
+   "options": [
+    "Any one of them",
+    "Only I and II together",
+    "Only I and III",
+    "Any two of the three together are sufficient",
+    "None of the above"
+   ],
+   "correct": 3,
+   "explanation": "Each statement gives one equation in the two digits x and y; any two of them can be solved together to obtain a unique two-digit number. So any two of the three together are sufficient.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q081",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains16-set14",
+   "question": "Which of the following most accurately states the main idea of the passage?",
+   "options": [
+    "Naked mole rat colonies are the only known examples of cooperatively breeding vertebrate societies.",
+    "Naked mole rat colonies exhibit social organization based on a rigid caste system.",
+    "Behaviour in naked mole rat colonies may well be a close vertebrate analogue to behaviour in eusocial insect societies.",
+    "The mating habits of naked mole rats differ from those of any other vertebrate species.",
+    "The basis for the division of labour among naked mole rats is the same as that among eusocial insects."
+   ],
+   "correct": 2,
+   "explanation": "The whole passage elaborates the opening idea that the naked mole rat may be the vertebrate counterpart of eusocial insects. Option (c) captures this; the others are contradicted by details in the text.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q082",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains16-set14",
+   "question": "Jarvis's work has called into question which of the following explanatory variables for naked mole rat behaviour?",
+   "options": [
+    "Size",
+    "Age",
+    "Reproductive status",
+    "Rate of growth",
+    "Previously exhibited behaviour"
+   ],
+   "correct": 1,
+   "explanation": "Jarvis suggests that how long an individual performs a task depends on growth rate rather than age, thereby questioning age as the explanatory variable.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q083",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains16-set14",
+   "question": "It can be inferred that the performance of tasks in naked mole rat colonies differs from task performance in eusocial insect societies in which of the following ways?",
+   "options": [
+    "In naked mole rat colonies, all tasks are performed cooperatively.",
+    "In naked mole rat colonies, the performance of tasks is less rigidly determined by body shape.",
+    "In naked mole rat colonies, breeding is limited to the largest animals.",
+    "In eusocial insect societies, reproduction is limited to a single female.",
+    "In eusocial insect societies, the distribution of tasks is based on body size."
+   ],
+   "correct": 1,
+   "explanation": "Insect roles are fixed by body shape, whereas in naked mole rats they relate mainly to size, reproductive status and age. So task performance is less rigidly governed by body shape among mole rats.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q084",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains16-set14",
+   "question": "The passage supports which of the following inferences about breeding among Lycaon pictus?",
+   "options": [
+    "The largest female in the social group does not maintain reproductive status by means of behavioural control.",
+    "An individual's ability to breed is related primarily to its rate of growth.",
+    "Breeding is the only task performed by the breeding female.",
+    "Breeding in the social group is not cooperative.",
+    "Breeding is not dominated by a single pair of dogs."
+   ],
+   "correct": 3,
+   "explanation": "The wild dog is grouped with the naked mole rat as an exception dominated by a single breeding female rather than a pair, implying its breeding is not the cooperative pair arrangement typical of other vertebrates.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q085",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains16-set14",
+   "question": "According to the passage, naked mole rat colonies may differ from all other known vertebrate groups in which of the following ways?",
+   "options": [
+    "Naked mole rats exhibit an extreme form of altruism.",
+    "Naked mole rats are cooperative breeders.",
+    "Among naked mole rats, many males are permitted to breed with a single dominant female.",
+    "Among naked mole rats, different tasks are performed at different times in an individual's life.",
+    "Among naked mole rats, fighting results in the selection of a breeding female."
+   ],
+   "correct": 0,
+   "explanation": "The opening paragraph highlights the extreme self-sacrificing (altruistic) behaviour, previously unknown among vertebrates, as what sets the naked mole rat apart.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q086",
+   "stage": "mains",
+   "section": "english",
+   "topic": "vocabulary",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains16-set14",
+   "question": "Choose the word most similar in meaning to 'Suppress' as used in the passage.",
+   "options": [
+    "Reticent",
+    "Proscribe",
+    "Subdue",
+    "Ostracize",
+    "Preposterous"
+   ],
+   "correct": 2,
+   "explanation": "'Suppress' means to inhibit or forcibly hold down, closest to 'Subdue'. 'Proscribe' means forbid, 'Ostracize' means exclude, 'Reticent' means reserved.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q087",
+   "stage": "mains",
+   "section": "english",
+   "topic": "vocabulary",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains16-set14",
+   "question": "Choose the word most similar in meaning to 'Subordinate' as used in the passage.",
+   "options": [
+    "Appendage",
+    "Adjunct",
+    "Patron",
+    "Adjutant",
+    "Indigent"
+   ],
+   "correct": 3,
+   "explanation": "'Subordinate' means one lower in rank, closest to 'Adjutant' (an assistant to a senior officer). 'Indigent' means poor, 'Patron' means sponsor, 'Appendage'/'Adjunct' mean an attachment.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q088",
+   "stage": "mains",
+   "section": "english",
+   "topic": "vocabulary",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains16-set14",
+   "question": "Choose the word most opposite in meaning to 'Pronounce' as used in the passage.",
+   "options": [
+    "Enunciate",
+    "Adjudicate",
+    "Enshroud",
+    "Opine",
+    "Interpose"
+   ],
+   "correct": 2,
+   "explanation": "'Pronounce' means to declare openly; its opposite is 'Enshroud' (to conceal). 'Enunciate' and 'Adjudicate' are near-synonyms, 'Opine' means to state an opinion.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q089",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains16-set15",
+   "question": "The passage is primarily concerned with:",
+   "options": [
+    "Examining a concept which is difficult to define",
+    "Detailing the factors that have contributed to the use of a term among scientists and academicians",
+    "Evaluating the pros and cons of a new concept",
+    "Summarizing an old experience",
+    "Detailing a scientific study"
+   ],
+   "correct": 0,
+   "explanation": "The passage centres on deja vu, a concept hard to study and define because it leaves no measurable behaviour, making option (a) the best fit.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q090",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains16-set15",
+   "question": "Which of the following best describes the organization of the passage?",
+   "options": [
+    "A concept is defined and is followed by details of the concept",
+    "A generalization is stated and is then followed by instances that support the generalization",
+    "An example of a concept is given and then followed by the explanation of the concept",
+    "A theory is proposed and then followed by examples",
+    "A paradox is stated, discussed and left unresolved"
+   ],
+   "correct": 2,
+   "explanation": "The passage opens with Hawthorne's experience (an example of the concept) and then goes on to explain and discuss deja vu, matching option (c).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q091",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains16-set15",
+   "question": "The author implies that which of the following accounts for why deja vu was once difficult to capture in a laboratory?",
+   "options": [
+    "The social nature of the term made it uninteresting for academicians and laboratory workers",
+    "The uninteresting nature of the term made it unattractive to academicians",
+    "The term deja vu is embedded in psychology and therefore cannot be studied in the laboratory",
+    "The phenomenon seems at once too rare and too ephemeral",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "The passage states the experience seemed too rare and too fleeting to capture in a lab, so option (d) is correct.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q092",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains16-set15",
+   "question": "Which of the following would the author of the passage most agree with?",
+   "options": [
+    "Deja vu was invented and first used by academic psychologists",
+    "The scientific study of deja vu is now complete with many scientists studying it",
+    "Deja vu was embraced by poets, novelists, and occultists before academic psychologists",
+    "Deja vu is an exact science",
+    "There is not a definite definition of deja vu"
+   ],
+   "correct": 2,
+   "explanation": "The passage notes that poets, novelists and occultists took interest in deja vu while academic psychologists largely ignored it, supporting option (c).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q093",
+   "stage": "mains",
+   "section": "english",
+   "topic": "vocabulary",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains16-set15",
+   "question": "Choose the word most similar in meaning to 'Perplexed' as used in the passage.",
+   "options": [
+    "Worried",
+    "Elucidate",
+    "Rattled",
+    "Explicate",
+    "Confound"
+   ],
+   "correct": 4,
+   "explanation": "'Perplexed' means puzzled or baffled, closest to 'Confound' (to confuse). 'Elucidate' and 'Explicate' mean to explain.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q094",
+   "stage": "mains",
+   "section": "english",
+   "topic": "vocabulary",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains16-set15",
+   "question": "Choose the word most similar in meaning to 'Ephemeral' as used in the passage.",
+   "options": [
+    "transient",
+    "elusive",
+    "unstable",
+    "wanted",
+    "indiscernible"
+   ],
+   "correct": 0,
+   "explanation": "'Ephemeral' means lasting a very short time, the same as 'transient'. 'Elusive' means hard to grasp, 'indiscernible' means unnoticeable.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q095",
+   "stage": "mains",
+   "section": "english",
+   "topic": "vocabulary",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains16-set15",
+   "question": "Choose the word most opposite in meaning to 'Cognition' as used in the passage.",
+   "options": [
+    "Ignorance",
+    "percipience",
+    "imagination",
+    "speculation",
+    "perception"
+   ],
+   "correct": 0,
+   "explanation": "'Cognition' means perception or knowing; its opposite is 'Ignorance'. 'Percipience' and 'perception' are synonyms of cognition.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q096",
+   "stage": "mains",
+   "section": "english",
+   "topic": "para-completion",
+   "difficulty": 2,
+   "question": "Select the best sentence to fill the blank so the passage is complete and coherent. (Passage paraphrased.) The divisions among Ms Park's supporters and critics are as much ideological as generational. Some of her party still sympathise with the daughter of South Korea's authoritarian moderniser, while younger citizens see severing all links with that past as vital to consolidating democracy. The chaebols leaned heavily on political patronage during the nation's industrial rise, but such cosy arrangements are proving untenable, and the task of public cleansing is far from over, as ongoing cases against tycoons show. ______ It would be no surprise if South Korea's example became a model worthy of emulation elsewhere in the region.",
+   "options": [
+    "The removal of a sitting President brings to a close one phase in the months-long popular mobilisation to enforce accountability among the high and mighty.",
+    "The chief accusation is that they solicited contributions to promote dodgy non-profit organisations in return for clearing questionable corporate deals.",
+    "They are seeking to strengthen the country's democratic institutions.",
+    "The recent assertion of the independence of the judiciary from political interference and the capacity of legislators to uphold their authority are notable.",
+    "It has escalated regional tensions and China has retaliated with calls for the boycott of South Korean imports."
+   ],
+   "correct": 3,
+   "explanation": "The surrounding lines stress that public cleansing continues through the judiciary's action against powerful figures. Option (d) reinforces this by noting the notable independence of the judiciary and the authority of legislators.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q097",
+   "stage": "mains",
+   "section": "english",
+   "topic": "para-completion",
+   "difficulty": 2,
+   "question": "Select the best sentence to fill the blank so the passage is complete and coherent. (Passage paraphrased.) Ruling on a petition filed by the Congress, the Supreme Court asked the BJP government in Goa to prove its majority within 48 hours, rather than the 15 days the Governor had allowed. ______ The court's reluctance to uphold the principle of inviting the single largest party first, and so to stay Parrikar's swearing-in, is controversial.",
+   "options": [
+    "In Goa the Governor ignored the established principle of inviting the single largest party in the wake of a fractured mandate.",
+    "The Justice laid down some guidelines to be followed in the appointment of a chief minister by a governor.",
+    "The premise of the decision is questionable.",
+    "The gubernatorial decision in Goa reeks of partisanship.",
+    "But it was a half-measure."
+   ],
+   "correct": 4,
+   "explanation": "The next line calls the court's action controversial for not fully upholding the single-largest-party principle; 'But it was a half-measure' fits, pointing to the incompleteness of the court's step.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q098",
+   "stage": "mains",
+   "section": "english",
+   "topic": "para-completion",
+   "difficulty": 2,
+   "question": "Select the best sentence to fill the blank so the passage is complete and coherent. (Passage paraphrased.) Certain issues that need the government's urgent attention continue to be neglected. ______ For instance, the strategic sale of public-sector undertakings, which the government revived in the reform agenda last October, is yet to move ahead substantively. The bad-loan problem dates to the previous administration, when the private sector added large capacity and borrowed heavily.",
+   "options": [
+    "But this affirmation comes with enormous expectations, particularly of the youth.",
+    "The private sector continues to be saddled with excess capacity, and is unlikely to consider fresh investments.",
+    "Much remains mired in bureaucracy even after the prime minister's promises.",
+    "Huge debt on the large non-performing assets in the balance sheets of state-owned banks has jammed the wheels of the economy.",
+    "The government cannot over-spend, given its responsibility towards the fisc."
+   ],
+   "correct": 2,
+   "explanation": "The blank must connect 'neglected issues' with the example of the stalled PSU sale. 'Much remains mired in bureaucracy even after the prime minister's promises' bridges the two ideas.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q099",
+   "stage": "mains",
+   "section": "english",
+   "topic": "para-completion",
+   "difficulty": 2,
+   "question": "Select the best sentence to fill the blank so the passage is complete and coherent. (Passage paraphrased.) Pakistani atheists - agnostics, the irreligious, deists and humanists - have been lazily labelled 'liberals and seculars' by Islamists, even though many practising Muslims identify that way too. Openly identifying as atheist in Pakistan would invite violence, ______, coupled with the registration authority's refusal to let citizens change Islam as their religion. Hence the 'secular liberal' label also gives the atheists refuge.",
+   "options": [
+    "Considering the state's blasphemy laws are interpreted to outlaw apostasy",
+    "as action against jihadist groups becomes inevitable",
+    "with the well-coordinated maneuver accused of being a state-backed operation by many quarters",
+    "Delineating the ideological divide",
+    "The Islamists at the helm of state institutions have found the filter to sift atheists"
+   ],
+   "correct": 0,
+   "explanation": "The blank must give the reason openness would invite violence. Option (a), that blasphemy laws are read to outlaw apostasy, supplies that reason and links to the authority's refusal to allow a change of religion.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q100",
+   "stage": "mains",
+   "section": "english",
+   "topic": "para-completion",
+   "difficulty": 2,
+   "question": "Select the best sentence to fill the blank so the passage is complete and coherent. (Passage paraphrased.) India is not a signatory to the UN Refugee Convention, so it is not obliged to give asylum, and no attempt has been made to debate joining it. Whereas refugee protection covers all minorities fleeing a humanitarian crisis, this bill offers citizenship on religious grounds, favouring Hindu refugees over Muslim ones, which conflicts with the secular preamble of the Constitution. The refugees who would actually benefit live in abject poverty with no sanitation or infrastructure. ______",
+   "options": [
+    "A closer look at the provisions indicates that the current government is attempting to increase its Hindu voter count.",
+    "The government, instead of using a blanket policy, has made this a communal issue with a veiled political agenda, which would be counterproductive to the seemingly humanitarian goal of the bill.",
+    "The bill at first glance seems like a humanitarian effort to help persecuted minorities but it only seeks to help Hindus, Sikhs, Buddhists, Jains, Parsis and Christians from the neighbouring Muslim countries.",
+    "This policy in the Indian context would be contrary to the ideals of secularism and pluralism and thus unconstitutional.",
+    "If the Citizenship (Amendment) Bill is passed in its current form, then the border regions would face an influx of Hindu migrants, which would change the voter demographics."
+   ],
+   "correct": 1,
+   "explanation": "The passage criticises the bill for being religiously selective and only nominally humanitarian. Option (b) concludes this line of thought by calling it a communal, politically motivated move counterproductive to the humanitarian goal.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q101",
+   "stage": "mains",
+   "section": "english",
+   "topic": "para-jumbles",
+   "difficulty": 2,
+   "question": "Four of the five statements below form a coherent paragraph. Choose the one that does NOT fit the theme.\n(a) It is a Chinese diplomatic tradition to celebrate the anniversaries of important events in its relations with foreign nations.\n(b) Instead of high-level visits or grand ceremonies, the anniversary is marred by unprecedented confrontation between the two countries.\n(c) The dramatic downturn in bilateral relations resulted from President Park Geun-hye's July 2016 decision to deploy the THAAD system on South Korean soil.\n(d) This year marks the 25th anniversary of the establishment of diplomatic ties between China and South Korea.\n(e) Chinese sacrifices and friendliness have apparently been reciprocated by ingratitude and resentment.",
+   "options": [
+    "Statement (a)",
+    "Statement (b)",
+    "Statement (c)",
+    "Statement (d)",
+    "Statement (e)"
+   ],
+   "correct": 4,
+   "explanation": "Statements a, d, b and c form a sequence about the soured China-South Korea relationship on their anniversary. Statement (e), a sweeping remark about ingratitude, does not fit the paragraph's theme.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q102",
+   "stage": "mains",
+   "section": "english",
+   "topic": "para-jumbles",
+   "difficulty": 2,
+   "question": "Four of the five statements below form a coherent paragraph. Choose the one that does NOT fit the theme.\n(a) In the euphoria of the global economy or a few national economies doing well, we conveniently forget the huge failure rate of individual organizations.\n(b) A look at the prevailing organization structures and processes does not give one the confidence that organizations are created with any deep understanding of human behaviour.\n(c) Very few of them analyse why companies once deemed icons of excellence are nowhere to be found a few decades later.\n(d) While a few unicorns are created now and then, we forget that many more companies (some world leaders like Nokia) are biting the dust at an alarming rate.\n(e) Management experts and analysts are more interested in talking about the few good organizations that have gone on to become great companies.",
+   "options": [
+    "Statement (a)",
+    "Statement (b)",
+    "Statement (c)",
+    "Statement (d)",
+    "Statement (e)"
+   ],
+   "correct": 1,
+   "explanation": "Statements a, d, e and c cohere around the ignored high failure rate of organizations. Statement (b), about organization structures and understanding of human behaviour, is off the theme.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q103",
+   "stage": "mains",
+   "section": "english",
+   "topic": "para-jumbles",
+   "difficulty": 2,
+   "question": "Four of the five statements below form a coherent paragraph. Choose the one that does NOT fit the theme.\n(a) The document opens with a broadside against the WTO, arguing that WTO decisions are not binding on American businesses unless Congress chooses to implement them.\n(b) The Trade Policy Agenda lays out a general approach to trade that is, in its own words, aggressive and often strongly at odds with India's own position.\n(c) The agenda and the accompanying annual report strongly suggest that India will be navigating an increasingly difficult trade terrain in the next few years.\n(d) This threatens to relegate the WTO to the long list of international agreements the US has refused to make part of domestic law, possibly triggering punitive tariffs by other nations.\n(e) India, by contrast, has made the WTO the primary focus of its trade negotiation efforts and is poised to make a major play on the Trade in Services Agreement.",
+   "options": [
+    "Statement (a)",
+    "Statement (b)",
+    "Statement (c)",
+    "Statement (d)",
+    "Statement (e)"
+   ],
+   "correct": 2,
+   "explanation": "Statements a, d, b and e contrast the US and Indian stances toward the WTO. Statement (c), a forward-looking prediction about India's trade terrain, does not belong to that comparison.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q104",
+   "stage": "mains",
+   "section": "english",
+   "topic": "para-jumbles",
+   "difficulty": 2,
+   "question": "Choose the option that gives the correct sequence to form a coherent paragraph.\nA. And everywhere - on the palace steps, the promenade, around the fountains, among the trees - hundreds of people in gay costumes walked or ran or danced, giving the fairy picture the life and animation it could have lacked.\nB. The scene thrills one like military music!\nC. Versailles is wonderfully beautiful!\nD. You gaze and stare and try to understand that it is real, that it is not the Garden of Eden - but your brain grows giddy, stupefied by the beauty around you.\nE. A noble palace stretching its ornamented front block upon block; a grand promenade before it; broad flights of stone steps leading down to the lower grounds of the park.",
+   "options": [
+    "EBCDA",
+    "CDEBA",
+    "CDBEA",
+    "DCBEA",
+    "EBDAC"
+   ],
+   "correct": 2,
+   "explanation": "C opens by declaring Versailles beautiful; D conveys the dreamlike awe; B likens the thrill to military music; E details the palace, promenade and steps; A concludes with the people who complete the picture. The order is CDBEA.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q105",
+   "stage": "mains",
+   "section": "english",
+   "topic": "para-jumbles",
+   "difficulty": 2,
+   "question": "Choose the option that gives the correct sequence to form a coherent paragraph.\nA. Her husband was employed outside Rajasthan and she had chosen Barmer to provide a good education to her children.\nB. In a rare case of migration from a city to a village, Teeja Jakhar shifted to Chokhla from Barmer city along with her two daughters last year.\nC. The British exploration company Cairn Energy PLC promised to pay her Rs 3 lakh per year for three years for rights to her land.\nD. She earns Rs 6,000 per month by selling water drawn by her tubewell to Cairn.\nE. She bought a diesel-run tubewell with the first installment and plans to grow at least one crop on her 40-acre plot.\nF. But Mangla near Barmer, since January last year the site of India's biggest oil discovery in 22 years, changed all that.",
+   "options": [
+    "CAEBFD",
+    "BAFECD",
+    "CABFED",
+    "BAFCED",
+    "BACFDE"
+   ],
+   "correct": 3,
+   "explanation": "B introduces Teeja's move; A explains her reason; F marks the turning point of the oil discovery; C gives Cairn's payment offer; E describes buying the tubewell; D states her monthly earning. The order is BAFCED.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q106",
+   "stage": "mains",
+   "section": "english",
+   "topic": "sentence-improvement",
+   "difficulty": 2,
+   "question": "Choose the best option to fill the missing part: 'Archaeologists believe that the pieces of red-ware pottery excavated recently near Bhavnagar ______ shed light on a hitherto dark 600-year period in the Harappan history of Gujarat.'",
+   "options": [
+    "estimated with a reasonable certainty as being about 3400 years old.",
+    "are estimated reasonably certain to be about 3400 years old",
+    "estimated at about 3400 years old with reasonable certainty.",
+    "estimated with a reasonable certainty to be about 3400 years old.",
+    "None of these."
+   ],
+   "correct": 3,
+   "explanation": "Option (d) uses the correct construction 'estimated with a reasonable certainty to be about 3400 years old'. Option (a) misuses 'as being', and (b) and (c) have faulty word order.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q107",
+   "stage": "mains",
+   "section": "english",
+   "topic": "sentence-improvement",
+   "difficulty": 2,
+   "question": "Choose the best option to fill the missing part: 'The ancient Egyptians believed ______ so that when these objects were magically reanimated through the correct rituals, they would be able to function effectively.'",
+   "options": [
+    "that it was essential that things they portrayed must have every relevant feature shown as clearly as possible,",
+    "it was essential for things they portray to have had every relevant feature shown as clearly as possible,",
+    "it was essential that the things they portrayed had every relevant feature shown as clearly as possible,",
+    "that when they portrayed things, it should have every relevant feature shown as clearly as possible.",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "The answer key marks option (d). Note that option (c) also reads cleanly ('it was essential that the things they portrayed had...'); the book's key is retained here, but this item's key is ambiguous.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq",
+    "book-typo-suspect"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q108",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains16-set16",
+   "question": "According to the passage, the Marxist sociologist's chain of reasoning led him to assert that prejudice toward Oriental people in California was:",
+   "options": [
+    "Non-racial in character",
+    "Similar in origin to prejudice against the Jews",
+    "Understood by Oriental people as ethnic competition",
+    "Provoked by workers",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "Since the California discrimination was instigated by workers rather than capitalists, his theory forces him to claim it was not really race-based, i.e. non-racial in character.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q109",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains16-set16",
+   "question": "The passage supplies information that would answer which of the following questions?",
+   "options": [
+    "What accounts for the prejudice against the Jews in medieval Europe?",
+    "What conditions caused the discrimination against Oriental people in California in the early twentieth century?",
+    "Which groups are not in ethnic competition with each other in the USA?",
+    "What explanation did the Marxist sociologist give for the existence of racial prejudice?",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "The opening lines explain the sociologist's account of racial prejudice (a product of capitalist class struggle), so the passage answers question (d). The other questions are not resolved by the text.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q110",
+   "stage": "mains",
+   "section": "english",
+   "topic": "phrase-replacement",
+   "difficulty": 2,
+   "question": "Which set of words should replace the bold words (conformation, endeavoring, amassed, empire) to make the sentence meaningful and grammatically correct? 'India has rarely witnessed a campaign **conformation** of the order seen in the last two phases of the poll. Mr Modi spent three days around Varanasi, **endeavoring** both to retain the votes that **amassed** to him in his Lok Sabha constituency in 2014 and to throw his voice longer into the election's home **empire**.'",
+   "options": [
+    "Onslaught, opting, emanated, demesne",
+    "Endeavour, eschewing, implored, territory",
+    "exertion, aspiring, beseeched, domain",
+    "blitz, seeking, accrued, stretch",
+    "No improvement"
+   ],
+   "correct": 3,
+   "explanation": "'Blitz' (a concerted effort), 'seeking', 'accrued' (received over time) and 'stretch' (an extent) fit the four blanks in meaning and grammar, making (d) correct.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q111",
+   "stage": "mains",
+   "section": "english",
+   "topic": "phrase-replacement",
+   "difficulty": 2,
+   "question": "Which set of words should replace the bold words (reassuring, comprehensible, inflating, venture) to make the sentence meaningful and grammatically correct? 'A **reassuring** explanation could be that with rising incomes women can escape harsh labour and focus on their families. But a more pessimistic and **comprehensible** realistic explanation might be that with declining farm sizes, rising mechanisation and consequently **inflating** labour demands in agriculture, women are being forced out of the **venture**.'",
+   "options": [
+    "invigorating, conceivable, aggravating, industries",
+    "pragmatic, perhaps, diminishing, camaraderie",
+    "heartening, possibly, dwindling, workforce",
+    "rational, plausible, plummeting, profession",
+    "No improvement"
+   ],
+   "correct": 2,
+   "explanation": "'Heartening', 'possibly', 'dwindling' (declining) and 'workforce' fit the context - falling labour demand pushes women out of the workforce - making (c) correct.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q112",
+   "stage": "mains",
+   "section": "english",
+   "topic": "vocabulary",
+   "difficulty": 2,
+   "question": "Select the lettered pair that best expresses a relationship similar to that in the original pair.\nPERTINENT : RELEVANCE",
+   "options": [
+    "OBSCURE : INGENIOUS",
+    "INCOMPETENCE : CREDULITY",
+    "PERSECUTION : IMBECILE",
+    "INANE : LUDICROUS",
+    "RENDEZVOUS : ASSIDUOUS"
+   ],
+   "correct": 3,
+   "explanation": "'Pertinent' relates to 'relevance' as an adjective to its quality/synonymous idea. Among the options, 'inane' and 'ludicrous' share the same close synonymous relationship, so (d) is correct.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q113",
+   "stage": "mains",
+   "section": "english",
+   "topic": "error-spotting",
+   "difficulty": 2,
+   "question": "Choose the sentence that has a grammatical error in it.",
+   "options": [
+    "A 25 basis points rate hike by the US Federal Reserve, which was already priced-in, plus a dovish stance augurs well for risk assets and for emerging markets.",
+    "Since the beginning of this year, as the dollar has weakened against the rupee, the benchmark Sensex has soared.",
+    "With Fed chair Janet Yellen being her usual dovish self, the market is now convinced it has the best of both worlds.",
+    "The key to risk appetite for emerging market assets such as Indian equities, therefore, lies in the strength of the dollar.",
+    "Rameshwaram informed me that he had gone to one of the Minister's residences and stayed there all night."
+   ],
+   "correct": 4,
+   "explanation": "Option (e) is faulty: 'one of the Minister's residences' should be 'the residence of one of the ministers'.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q114",
+   "stage": "mains",
+   "section": "english",
+   "topic": "error-spotting",
+   "difficulty": 2,
+   "question": "Choose the sentence that has a grammatical error in it.",
+   "options": [
+    "The instances of theft and destruction of distributed renewable energy appliances have been very prevalent in programs run by aid agencies as part of corporate social responsibility or where the government provides a subsidy.",
+    "When the first solar units were installed in Bhamana in 2010, most houses got a small photovoltaic panel connected to a battery that could power a light for five to six hours.",
+    "If any proof was needed to show that the United Nations have lately become a policy tool in the hands of the U.S.A. and that the world's sole might has a subservient international body, it was provided by President Bush's angry comment.",
+    "Before the floor test began, Rane told reporters that the delay caused by the Congress leadership in staking claim to form the government had demoralized the people of Goa.",
+    "Interestingly, while cricket still accounts for much of this, other sports are beginning to make their presence felt."
+   ],
+   "correct": 2,
+   "explanation": "In option (c), 'the United Nations' takes a singular verb, so 'have' should be 'has'.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains16-q115",
+   "stage": "mains",
+   "section": "english",
+   "topic": "error-spotting",
+   "difficulty": 2,
+   "question": "Choose the sentence that has a grammatical error in it.",
+   "options": [
+    "The asset management firm was keen on investing in Sohan Lal and Co. because of its fully integrated and process-driven business model.",
+    "If we had Mohan in our team, we would have won the match against your team.",
+    "These products are expected to help cash-strapped developers get easier access to funds while also creating new investment avenues for institutional investors and high-net-worth individuals.",
+    "A broken solar panel is all that the 35-year-old farmer has to remind him of the government's promise to bring electricity to all of India's villages.",
+    "Many of the young people studying abroad agreed that returning home was always an attractive option."
+   ],
+   "correct": 1,
+   "explanation": "Option (b) mixes conditional tenses; the third conditional requires 'If we had had Mohan in our team, we would have won...'.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  }
+ ],
+ "paper": {
+  "id": "sbi-po-mains-2016",
+  "name": "SBI PO Mains 2016",
+  "exam": "sbi-po",
+  "stage": "mains",
+  "year": 2016,
+  "sections": [
+   {
+    "name": "Reasoning Ability",
+    "pool": "reasoning",
+    "minutes": 51,
+    "marksPerQuestion": 1,
+    "questionIds": [
+     "pyq-sbipo-mains16-q001",
+     "pyq-sbipo-mains16-q002",
+     "pyq-sbipo-mains16-q003",
+     "pyq-sbipo-mains16-q004",
+     "pyq-sbipo-mains16-q005",
+     "pyq-sbipo-mains16-q006",
+     "pyq-sbipo-mains16-q007",
+     "pyq-sbipo-mains16-q008",
+     "pyq-sbipo-mains16-q009",
+     "pyq-sbipo-mains16-q010",
+     "pyq-sbipo-mains16-q011",
+     "pyq-sbipo-mains16-q012",
+     "pyq-sbipo-mains16-q013",
+     "pyq-sbipo-mains16-q014",
+     "pyq-sbipo-mains16-q018",
+     "pyq-sbipo-mains16-q019",
+     "pyq-sbipo-mains16-q020",
+     "pyq-sbipo-mains16-q021",
+     "pyq-sbipo-mains16-q022",
+     "pyq-sbipo-mains16-q023",
+     "pyq-sbipo-mains16-q024",
+     "pyq-sbipo-mains16-q025",
+     "pyq-sbipo-mains16-q026",
+     "pyq-sbipo-mains16-q027",
+     "pyq-sbipo-mains16-q028",
+     "pyq-sbipo-mains16-q029",
+     "pyq-sbipo-mains16-q030",
+     "pyq-sbipo-mains16-q031",
+     "pyq-sbipo-mains16-q032",
+     "pyq-sbipo-mains16-q033",
+     "pyq-sbipo-mains16-q034",
+     "pyq-sbipo-mains16-q035",
+     "pyq-sbipo-mains16-q036",
+     "pyq-sbipo-mains16-q037",
+     "pyq-sbipo-mains16-q038",
+     "pyq-sbipo-mains16-q039",
+     "pyq-sbipo-mains16-q040",
+     "pyq-sbipo-mains16-q041",
+     "pyq-sbipo-mains16-q042",
+     "pyq-sbipo-mains16-q043",
+     "pyq-sbipo-mains16-q044",
+     "pyq-sbipo-mains16-q045"
+    ]
+   },
+   {
+    "name": "Quantitative Aptitude",
+    "pool": "quant",
+    "minutes": 34,
+    "marksPerQuestion": 1,
+    "questionIds": [
+     "pyq-sbipo-mains16-q046",
+     "pyq-sbipo-mains16-q047",
+     "pyq-sbipo-mains16-q049",
+     "pyq-sbipo-mains16-q050",
+     "pyq-sbipo-mains16-q051",
+     "pyq-sbipo-mains16-q052",
+     "pyq-sbipo-mains16-q053",
+     "pyq-sbipo-mains16-q054",
+     "pyq-sbipo-mains16-q055",
+     "pyq-sbipo-mains16-q056",
+     "pyq-sbipo-mains16-q057",
+     "pyq-sbipo-mains16-q058",
+     "pyq-sbipo-mains16-q059",
+     "pyq-sbipo-mains16-q060",
+     "pyq-sbipo-mains16-q061",
+     "pyq-sbipo-mains16-q062",
+     "pyq-sbipo-mains16-q068",
+     "pyq-sbipo-mains16-q069",
+     "pyq-sbipo-mains16-q070",
+     "pyq-sbipo-mains16-q072",
+     "pyq-sbipo-mains16-q073",
+     "pyq-sbipo-mains16-q074",
+     "pyq-sbipo-mains16-q075",
+     "pyq-sbipo-mains16-q076",
+     "pyq-sbipo-mains16-q077",
+     "pyq-sbipo-mains16-q078",
+     "pyq-sbipo-mains16-q079",
+     "pyq-sbipo-mains16-q080"
+    ]
+   },
+   {
+    "name": "English Language",
+    "pool": "english",
+    "minutes": 42,
+    "marksPerQuestion": 1,
+    "questionIds": [
+     "pyq-sbipo-mains16-q081",
+     "pyq-sbipo-mains16-q082",
+     "pyq-sbipo-mains16-q083",
+     "pyq-sbipo-mains16-q084",
+     "pyq-sbipo-mains16-q085",
+     "pyq-sbipo-mains16-q086",
+     "pyq-sbipo-mains16-q087",
+     "pyq-sbipo-mains16-q088",
+     "pyq-sbipo-mains16-q089",
+     "pyq-sbipo-mains16-q090",
+     "pyq-sbipo-mains16-q091",
+     "pyq-sbipo-mains16-q092",
+     "pyq-sbipo-mains16-q093",
+     "pyq-sbipo-mains16-q094",
+     "pyq-sbipo-mains16-q095",
+     "pyq-sbipo-mains16-q096",
+     "pyq-sbipo-mains16-q097",
+     "pyq-sbipo-mains16-q098",
+     "pyq-sbipo-mains16-q099",
+     "pyq-sbipo-mains16-q100",
+     "pyq-sbipo-mains16-q101",
+     "pyq-sbipo-mains16-q102",
+     "pyq-sbipo-mains16-q103",
+     "pyq-sbipo-mains16-q104",
+     "pyq-sbipo-mains16-q105",
+     "pyq-sbipo-mains16-q106",
+     "pyq-sbipo-mains16-q107",
+     "pyq-sbipo-mains16-q108",
+     "pyq-sbipo-mains16-q109",
+     "pyq-sbipo-mains16-q110",
+     "pyq-sbipo-mains16-q111",
+     "pyq-sbipo-mains16-q112",
+     "pyq-sbipo-mains16-q113",
+     "pyq-sbipo-mains16-q114",
+     "pyq-sbipo-mains16-q115"
+    ]
+   }
+  ]
+ }
+}
