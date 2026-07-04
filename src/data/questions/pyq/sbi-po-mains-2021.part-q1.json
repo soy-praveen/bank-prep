@@ -1,0 +1,101 @@
+{
+ "sets": [],
+ "questions": [
+  {
+   "id": "pyq-sbipo-mains21-q046",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-sufficiency",
+   "difficulty": 3,
+   "question": "The following question is accompanied by three statements (I), (II) and (III). You have to determine which statement(s) is/are sufficient/necessary to answer the question.\n\nA shopkeeper sold two articles P and Q to a customer. In this transaction the shopkeeper made neither profit nor loss. Find the cost price of article Q.\nI. The profit percentage on article P is 66 2/3%. The loss percentage on article Q is 28 4/7%.\nII. The selling prices of articles P and Q are equal.\nIII. The total selling price of the two articles P and Q is Rs 5000.",
+   "options": ["Both I and III", "Both I and II", "III and either I or II only", "All the three statements", "Any of the three statements"],
+   "correct": 0,
+   "explanation": "From I: profit on P = (2/3)CP(P) and loss on Q = (2/7)CP(Q); no overall profit/loss gives (2/3)CP(P) = (2/7)CP(Q), so CP(Q) = (7/3)CP(P). Then SP(P) = (5/3)CP(P) and SP(Q) = (5/7)CP(Q) = (5/3)CP(P); with III, total SP = (10/3)CP(P) = 5000, so CP(P) = 1500 and CP(Q) = 3500. Statement II adds nothing that fixes the amount. Hence I and III together suffice.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q047",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-sufficiency",
+   "difficulty": 3,
+   "question": "The following question is accompanied by three statements (I), (II) and (III). You have to determine which statement(s) is/are sufficient/necessary to answer the question.\n\nFind the length of train B.\nI. The difference between the speeds of trains A and B is 22 km/h.\nII. Trains A and B, running in opposite directions, cross each other in 32 seconds.\nIII. The length of train A is 192 m and the ratio of the speeds of the trains is 20 : 31.",
+   "options": [
+    "The data in statements I and II are sufficient to answer the question, while the data in statement II alone is not sufficient to answer the question.",
+    "The data in statement II alone is sufficient to answer the question, while the data in statements I and III is not sufficient to answer the question.",
+    "The data in statement I alone or in statement II alone is sufficient to answer the question, while the data in statement III alone is not sufficient to answer the question.",
+    "The data in all the statements I, II and III is not sufficient to answer the question.",
+    "The data in all the statements I, II and III together is necessary to answer the question."
+   ],
+   "correct": 4,
+   "explanation": "From I and III: speed ratio 20:31 with difference 22 km/h gives speeds 40 and 62 km/h. From II: relative speed 102 km/h for 32 s covers the sum of lengths; subtracting train A's 192 m (III) yields train B's length. All three statements are needed.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q048",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-sufficiency",
+   "difficulty": 3,
+   "question": "The following question is accompanied by three statements (I), (II) and (III). You have to determine which statement(s) is/are sufficient/necessary to answer the question.\n\nFind the number of days for which the first man was absent more than the third man.\nI. Three men worked together for 30 days to do a work and all of them remained absent for a few days.\nII. The first man was absent for 10 days more than the second man.\nIII. The third man completed 1/3rd of the total work.",
+   "options": [
+    "The data in statements I and II are sufficient to answer the question, while the data in statement II alone is not sufficient to answer the question.",
+    "The data in statement II alone is sufficient to answer the question, while the data in statements I and III is not sufficient to answer the question.",
+    "The data in all the statements I, II and III are not sufficient to answer the question.",
+    "The data in all the statements I, II and III together is necessary to answer the question.",
+    "The data in statement I alone or in statement II alone is sufficient to answer the question, while the data in statement II alone is not sufficient to answer the question."
+   ],
+   "correct": 2,
+   "explanation": "The statements never relate the first man's absences to the third man's, nor give efficiencies or actual absent-day counts. Even combining all three, the difference between the first and third man's absent days cannot be determined - the data are insufficient.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q049",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "quantity-comparison",
+   "difficulty": 2,
+   "question": "In the following question two statements are numbered as I and II. On solving them we get quantities I and II respectively. Solve both quantities and choose the correct option.\n\n**Quantity I:** When 5 is subtracted from one-third of one-fifth of a number, the result is 1/30 of the same number. Find the number.\n**Quantity II:** A bag contains an equal number of Rs 50, Rs 100 and Rs 200 notes. If the total amount in the bag is Rs 10500, find the number of notes of each kind.",
+   "options": ["Quantity I <= Quantity II", "Quantity I >= Quantity II", "Quantity I > Quantity II", "Quantity I < Quantity II", "Quantity I = Quantity II or no relation"],
+   "correct": 2,
+   "explanation": "Quantity I: x/15 - 5 = x/30 gives x/30 = 5, so x = 150. Quantity II: n(50+100+200) = 10500 gives n = 30. Since 150 > 30, Quantity I > Quantity II.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q050",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "quantity-comparison",
+   "difficulty": 3,
+   "question": "A box contains 50 balls, of which 5 are red, 6 are green, 9 are blue, and the rest are yellow.\n**Quantity I:** Probability of picking 2 balls such that one is green and the other one is blue.\n**Quantity II:** Probability of picking 3 balls such that at least one of them is red.\n**Quantity III:** Probability of picking 3 balls such that at least one of them is blue.",
+   "options": [
+    "Quantity III > Quantity I > Quantity II",
+    "Quantity II > Quantity III > Quantity I",
+    "Quantity III > Quantity II > Quantity I",
+    "Quantity I = Quantity II > Quantity III",
+    "Quantity I > Quantity III < Quantity II"
+   ],
+   "correct": 2,
+   "explanation": "QI = (6C1 x 9C1)/50C2 = 54/1225 = 0.044. QII = 1 - 45C3/50C3 = 1 - 0.724 = 0.276. QIII = 1 - 41C3/50C3 = 1 - 0.544 = 0.456. So Quantity III > Quantity II > Quantity I.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q051",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "quantity-comparison",
+   "difficulty": 2,
+   "question": "In the following question two statements are numbered as I and II. On solving them we get quantities I and II respectively. Solve both quantities and choose the correct option.\n\n**Quantity I:** P and Q started a business. After eight months from the start of the business P left and R joined. The amount invested by Q was twice that invested by P. The amount invested by R was thrice that invested by P. Q got Rs 252 as share from the total annual profit. Find the profit share of R.\n**Quantity II:** Rs 280",
+   "options": ["Quantity I <= Quantity II", "Quantity I >= Quantity II", "Quantity I > Quantity II", "Quantity I < Quantity II", "Cannot be determined or Quantity I = Quantity II"],
+   "correct": 3,
+   "explanation": "Capital-months: P = 8p, Q = 24p, R = 12p, ratio 2 : 6 : 3. Q's 6 units = Rs 252, so 1 unit = Rs 42 and R gets 3 x 42 = Rs 126. Since 126 < 280, Quantity I < Quantity II.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq"]
+  }
+ ]
+}

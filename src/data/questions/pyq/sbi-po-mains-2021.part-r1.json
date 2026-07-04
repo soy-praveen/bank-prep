@@ -1,0 +1,146 @@
+{
+ "sets": [
+  {
+   "id": "pyq-sbipo-mains21-set1",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "title": "Circular Table - Three Married Couples with Ages",
+   "context": "Six persons A, B, C, D, E and F are sitting around a circular table, not necessarily in the same order, all facing the centre. All are married and there is an equal number of husbands and wives in the group. They are of different ages viz. 36, 51, 48, 33, 41 and 28, not necessarily in the same order. The age of a husband is greater than the age of his wife. No couple sits together and no two even-aged or two odd-aged persons sit together.\nB, an even-aged person, is sitting second to the left of the person whose age is 48.\nOnly two persons sit between A, the female person, and the person whose age is 41.\nD is married to F, who is the oldest person.\nC, whose age lies between 30 and 40, is sitting second to the right of A's husband.\nThe youngest person sits to the immediate right of the oldest person.\nA is not the youngest person."
+  },
+  {
+   "id": "pyq-sbipo-mains21-set2",
+   "section": "reasoning",
+   "topic": "direction-sense",
+   "title": "Coded Directions - Points A to K",
+   "context": "The coding language used to indicate the positions of points is as follows:\nP 17@ Q means P is 14 m north of point Q.\nP 15$ Q means P is 20 m east of point Q.\nP 13% Q means P is 10 m south of point Q.\nP 12& Q means P is 17 m west of point Q.\n(For north/south codes the distance is 3 less than the coded number; for east/west codes it is 5 more.)\nThe positions of some points are:\nA 15& B, B 27% C, C 17& D, L 18% A, M 33$ L, N 28@ M, O 15$ N, K 17@ O."
+  }
+ ],
+ "questions": [
+  {
+   "id": "pyq-sbipo-mains21-q001",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains21-set1",
+   "question": "What is the sum of the ages of A's husband and F's wife?",
+   "options": ["77", "80", "91", "89", "84"],
+   "correct": 3,
+   "explanation": "Couples: F(51)-D(48), C(33)-B(28), E(41)-A(36). Clockwise arrangement: F(51), A(36), C(33), D(48), E(41), B(28) - ages alternate even/odd and no couple is adjacent. A's husband is E (41) and F's wife is D (48); 41 + 48 = 89.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q002",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains21-set1",
+   "question": "Who among the following is the wife of C?",
+   "options": ["E", "B", "A", "D", "None of these"],
+   "correct": 1,
+   "explanation": "C (33) is married to B (28): F(51) pairs with D(48), E(41) with A(36), leaving C(33) with B(28) - the husband must be older than the wife. So B is the wife of C.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q003",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains21-set1",
+   "question": "What is the position of C with respect to his/her spouse?",
+   "options": ["Second to the left", "Exactly opposite", "Immediate right", "Second to the right", "Fourth to left"],
+   "correct": 1,
+   "explanation": "In the arrangement F, A, C, D, E, B (clockwise), C and B occupy diametrically opposite seats, so C sits exactly opposite his wife B.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q004",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains21-set1",
+   "question": "How many persons are sitting between F and the person aged 28, if we start counting from F in clockwise direction?",
+   "options": ["Four", "Three", "Two", "One", "None"],
+   "correct": 0,
+   "explanation": "Clockwise from F: A, C, D, E and then B (28). So four persons (A, C, D, E) sit between F and the 28-year-old when counted clockwise from F.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q005",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "direction-sense",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains21-set2",
+   "question": "If Y is to the south of D and west of O, then which of the following is nearest to Y?",
+   "options": ["M", "N", "B", "O", "K"],
+   "correct": 1,
+   "explanation": "Taking B as origin (0,0): A(-20,0), C(0,24), D(22,24), L(-20,-15), M(18,-15), N(18,10), O(38,10), K(38,24). Y is south of D and west of O, so Y = (22,10). Distances: N is only 4 m away, closer than O (16 m), K, B or M. Nearest is N.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q006",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "direction-sense",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains21-set2",
+   "question": "Which of the following is true?",
+   "options": ["C 24@ B", "B 10& A", "M 28$ N", "D 11& K", "None of these"],
+   "correct": 3,
+   "explanation": "With B(0,0): D(22,24), K(38,24). D 11& K means D is 11+5 = 16 m west of K, which is true since K - D = 16 m along east-west at the same latitude. Option 1 would mean C is 21 m north of B (actual 24 m); option 2 means B is 15 m west of A (B is east of A); option 3 means M is 38 m east of N (M is south of N).",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q007",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "direction-sense",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains21-set2",
+   "question": "Which of the following expressions is false?",
+   "options": ["C 33& K", "N 15& O", "O 17% K", "A 18@ L", "None of these"],
+   "correct": 4,
+   "explanation": "C 33& K: C(0,24) is 38 m west of K(38,24) - true. N 15& O: N(18,10) is 20 m west of O(38,10) - true. O 17% K: O is 14 m south of K - true. A 18@ L: A(-20,0) is 15 m north of L(-20,-15) - true. All four are true, so none is false.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q008",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "direction-sense",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains21-set2",
+   "question": "If a point Z such that Z 15& C is situated, what will be the relationship between Z and A?",
+   "options": ["A 21% Z", "Z 21@ A", "Z 27@ A", "A 27% Z", "Both 3) and 4)"],
+   "correct": 4,
+   "explanation": "Z 15& C puts Z 20 m west of C(0,24), so Z = (-20,24), directly 24 m north of A(-20,0). Z 27@ A means Z is 27-3 = 24 m north of A (true), and A 27% Z means A is 24 m south of Z (also true). Hence both 3) and 4).",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q009",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "direction-sense",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains21-set2",
+   "question": "What is the relationship between C and K?",
+   "options": ["C 41& K", "C 33$ K", "K 33$ C", "C 38$ K", "None of the above"],
+   "correct": 2,
+   "explanation": "C(0,24) and K(38,24) lie on the same east-west line with K 38 m east of C. K 33$ C means K is 33+5 = 38 m east of C - correct. (C 33& K would also describe it from C's side, but among the given options only K 33$ C matches.)",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq"]
+  }
+ ]
+}

@@ -1,0 +1,172 @@
+{
+ "sets": [
+  {
+   "id": "pyq-sbipo-mains21-set3",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "title": "Two Parallel Rows - Chocolates",
+   "context": "Ten people are sitting in two parallel rows. Row 1 consists of A, B, C, D, E, all facing south. Row 2 consists of F, G, H, I, J, all facing north.\nAll ten have a different number of chocolates: 6, 1, 11, 12, 9, 10, 8, 4, 2 and 7.\nNeither D nor C is sitting at the extreme ends.\nF has an odd number of chocolates.\nE is sitting opposite J, who is sitting second from one of the extreme ends.\nJ has the highest number of chocolates.\nH is sitting second to the left of J and is facing the one who has 6 chocolates.\nThe one who is sitting third from the left end of the first row has a prime number of chocolates.\nE has more chocolates than I.\nB, who is sitting at the left end, has 11 chocolates, 9 more than the one sitting at the right end of the same row.\nA is sitting diagonally opposite I, who has an even number of chocolates.\nD is sitting to the right side of C.\nThe number of people sitting to the right of G equals the number sitting to the left of G.\nThe chocolates of F and H add up to a perfect square, and that sum is less than the number of chocolates G has."
+  },
+  {
+   "id": "pyq-sbipo-mains21-set4",
+   "section": "reasoning",
+   "topic": "input-output",
+   "title": "Input-Output Machine - Words and Numbers",
+   "context": "Study the following machine illustration:\nInput: Sums 98 76 Own Act 118 Mode 88 Card 112\nStep I: 76 Act 88 Card 98 Mode 112 Own 118 Sums\nStep II: 38 Bct 44 Dard 49 Node 56 Pwn 59 Tums\nStep III: 24 Bdt 16 Dbrd 36 Npde 30 Pxn 45 Tvms\nStep IV: 6 Bdu 7 Dbsd 9 Npee 3 Pxo 9 Tvns\nStep V: 36 Bdu 49 Dbse 81 Npef 9 Pxo 81 Tvnt\nStep V is the last step.\n(Logic: Step I sorts numbers ascending and words alphabetically, alternating; Step II halves each number and moves each word's 1st letter one ahead; Step III takes the product of digits and moves the 2nd letter one ahead; Step IV takes the digit sum and moves the 3rd letter one ahead; Step V squares the digit sum and moves the 4th letter one ahead.)\nAs per the rules followed in the given steps, answer for the new Input:\nMaps 114 Code 92 126 Yawn Ice 78 Sip 106"
+  }
+ ],
+ "questions": [
+  {
+   "id": "pyq-sbipo-mains21-q010",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains21-set3",
+   "question": "Four of the following five persons are somehow similar and thus form a group. Which of the following persons does not belong to that group?",
+   "options": ["J", "F", "A", "B", "I"],
+   "correct": 0,
+   "explanation": "Final arrangement west-to-east: Row 1 (facing south): A(2), D(6), C(7), E(9), B(11); Row 2 (facing north): F(1), H(8), G(10), J(12), I(4). F, A, B and I all sit at extreme ends; J does not, so J is the odd one out.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q011",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains21-set3",
+   "question": "How many chocolates are owned by the person who is sitting second to the left of the person who is sitting opposite G?",
+   "options": ["12", "6", "7", "9", "11"],
+   "correct": 4,
+   "explanation": "G sits in the middle of row 2, so the person opposite G is C. Second to the left of C (row 1 faces south, so left is towards B's end) is B, who has 11 chocolates.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q012",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains21-set3",
+   "question": "Who is sitting second to the right of H?",
+   "options": ["F", "I", "G", "J", "None of the above"],
+   "correct": 3,
+   "explanation": "In row 2 (facing north) the order is F, H, G, J, I. Second to the right of H (right = towards I's end for north-facing people) is J.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q013",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains21-set3",
+   "question": "How many chocolates does G have?",
+   "options": ["12", "1", "8", "10", "9"],
+   "correct": 3,
+   "explanation": "F + H must be a perfect square smaller than G's count. With F odd, F = 1 and H = 8 (sum 9), forcing G = 10 (the only remaining number greater than 9 after I takes an even number and E > I).",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q014",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains21-set3",
+   "question": "What is the position of F with respect to J?",
+   "options": ["Third to the left", "Third to the right", "Second to the left", "Second to the right", "None of these"],
+   "correct": 0,
+   "explanation": "Row 2 order (facing north): F, H, G, J, I. From J's own perspective, F is three places to J's left, i.e. third to the left.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q015",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "input-output",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains21-set4",
+   "question": "Which is the penultimate step for the new input?",
+   "options": [
+    "27 Dpde 24 Jde 15 Nbps 35 Tjp 18 Zbwn",
+    "78 Code 92 Ice 106 Maps 114 Sip 126 Yawn",
+    "9 Dpee 6 Jdf 6 Nbqs 8 Tjq 9 Zbxn",
+    "81 Dpef 36 Jdf 36 Nbqt 64 Tjq 81 Zbxo",
+    "39 Dode 46 Jce 53 Naps 57 Tip 63 Zawn"
+   ],
+   "correct": 2,
+   "explanation": "For Maps 114 Code 92 126 Yawn Ice 78 Sip 106: Step I: 78 Code 92 Ice 106 Maps 114 Sip 126 Yawn. Step II: 39 Dode 46 Jce 53 Naps 57 Tip 63 Zawn. Step III: 27 Dpde 24 Jde 15 Nbps 35 Tjp 18 Zbwn. Step IV (penultimate): digit sums and 3rd letter forward: 9 Dpee 6 Jdf 6 Nbqs 8 Tjq 9 Zbxn.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q016",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "input-output",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains21-set4",
+   "question": "Which of the following elements lies exactly between 92 and 126 in Step I?",
+   "options": ["Maps", "Ice", "106", "114", "Sip"],
+   "correct": 0,
+   "explanation": "Step I: 78 Code 92 Ice 106 Maps 114 Sip 126 Yawn. Between 92 (3rd element) and 126 (9th element) the middle (6th) element is Maps.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q017",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "input-output",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains21-set4",
+   "question": "Which is the following step?\nStep: 39 Dode 46 Jce 53 Naps 57 Tip 63 Zawn",
+   "options": ["Step I", "Step III", "Step IV", "Step V", "Step II"],
+   "correct": 4,
+   "explanation": "Numbers are the halves of 78, 92, 106, 114, 126 and each word's first letter has moved one ahead (Code to Dode, Ice to Jce, ...), which is exactly the Step II transformation.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q018",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "input-output",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains21-set4",
+   "question": "What is the 4th element from the right end in Step III?",
+   "options": ["8", "35", "Nbps", "57", "Jde"],
+   "correct": 1,
+   "explanation": "Step III: 27 Dpde 24 Jde 15 Nbps 35 Tjp 18 Zbwn. From the right: Zbwn (1st), 18 (2nd), Tjp (3rd), 35 (4th).",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q019",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "input-output",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains21-set4",
+   "question": "Which of the following is the fifth step for the input?",
+   "options": [
+    "9 Dpee 6 Jdf 6 Nbqs 8 Tjq 9 Zbxn",
+    "9 Dpef 6 Jdf 6 Nbqt 8 Tjq 9 Zbxo",
+    "39 Dode 46 Jce 53 Naps 57 Tip 63 Zawn",
+    "81 Dpef 36 Jdf 36 Nbqt 64 Tjq 81 Zbxo",
+    "27 Dpde 24 Jde 15 Nbps 35 Tjp 18 Zbwn"
+   ],
+   "correct": 3,
+   "explanation": "Step V squares each Step IV number (9, 6, 6, 8, 9 become 81, 36, 36, 64, 81) and moves the 4th letter of each word one ahead (Dpee to Dpef, Nbqs to Nbqt, Zbxn to Zbxo; 3-letter words Jdf and Tjq stay the same): 81 Dpef 36 Jdf 36 Nbqt 64 Tjq 81 Zbxo.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq"]
+  }
+ ]
+}

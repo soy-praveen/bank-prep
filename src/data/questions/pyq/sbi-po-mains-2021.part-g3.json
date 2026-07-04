@@ -1,0 +1,141 @@
+{
+ "sets": [],
+ "questions": [
+  {
+   "id": "pyq-sbipo-mains21-q095",
+   "stage": "mains",
+   "section": "general",
+   "topic": "current-affairs",
+   "difficulty": 2,
+   "question": "Who was appointed as the Prime Minister (PM) of Lebanon? (Jan 2020)",
+   "options": ["Gebran Bassil", "Hassan Diab", "Michel Aoun", "Saad Hariri", "Nawaf Salam"],
+   "correct": 1,
+   "explanation": "Hassan Diab was appointed Prime Minister of Lebanon in January 2020, succeeding Saad Hariri.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq", "dated-ca"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q096",
+   "stage": "mains",
+   "section": "general",
+   "topic": "current-affairs",
+   "difficulty": 2,
+   "question": "Which country ranks lower than India in the Global Hunger Index 2020?",
+   "options": ["Bangladesh", "Myanmar", "Pakistan", "Nigeria", "Nepal"],
+   "correct": 3,
+   "explanation": "India ranked 94th in GHI 2020. Of the listed countries, only Nigeria (98th) ranked below India; Bangladesh (75), Myanmar (78), Pakistan (88) and Nepal (73) ranked above.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq", "dated-ca"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q097",
+   "stage": "mains",
+   "section": "general",
+   "topic": "static-gk",
+   "difficulty": 1,
+   "question": "In GRIHA, H stands for?",
+   "options": ["Human", "Healthy", "Habitat", "Harmony", "None of the above"],
+   "correct": 2,
+   "explanation": "GRIHA stands for Green Rating for Integrated Habitat Assessment, India's national green-building rating system.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq", "dated-ca"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q098",
+   "stage": "mains",
+   "section": "general",
+   "topic": "static-gk",
+   "difficulty": 2,
+   "question": "Which one of the following is the largest producer of crude oil?",
+   "options": ["U.S.A", "Russia", "Saudi Arabia", "Canada", "China"],
+   "correct": 0,
+   "explanation": "The United States has been the world's largest crude oil producer since 2018, ahead of Russia and Saudi Arabia.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq", "dated-ca"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q099",
+   "stage": "mains",
+   "section": "general",
+   "topic": "static-gk",
+   "difficulty": 2,
+   "question": "The Indian Parliament House was designed by?",
+   "options": ["Alvar Aalto", "Michael Graves", "Edwin Lutyens", "Renzo Piano", "None of the above"],
+   "correct": 2,
+   "explanation": "The (old) Parliament House in New Delhi was designed by Edwin Lutyens and Herbert Baker and completed in 1927.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq", "dated-ca"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q100",
+   "stage": "mains",
+   "section": "general",
+   "topic": "current-affairs",
+   "difficulty": 2,
+   "question": "Which company relaunched the Jawa and Yezdi bikes in India?",
+   "options": ["Hero", "Eicher", "Mahindra & Mahindra (M&M)", "Bajaj", "None of the above"],
+   "correct": 2,
+   "explanation": "Classic Legends, a subsidiary backed by Mahindra & Mahindra, revived the Jawa (2018) and Yezdi motorcycle brands in India.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq", "dated-ca"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q101",
+   "stage": "mains",
+   "section": "general",
+   "topic": "economy",
+   "difficulty": 2,
+   "question": "Ethanol blending subsidy is ___ per annum or 50% of the rate of interest charged by banks, whichever is lower.",
+   "options": ["6%", "10%", "5%", "2%", "1%"],
+   "correct": 0,
+   "explanation": "Under the government's interest subvention scheme for ethanol capacity augmentation, the subsidy is 6% per annum or 50% of the interest charged by banks, whichever is lower.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq", "dated-ca"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q102",
+   "stage": "mains",
+   "section": "general",
+   "topic": "financial-awareness",
+   "difficulty": 2,
+   "question": "Choose the incorrect answer regarding Pradhan Mantri Vaya Vandana Yojana (PMVVY)?",
+   "options": [
+    "Last fiscal year to apply is 2023-24",
+    "The scheme provides for an assured return of 8% percent per annum payable monthly",
+    "Minimum Age: 60 years; no maximum age limit",
+    "It is operated and managed by LIC",
+    "The period for this scheme is 12 years"
+   ],
+   "correct": 4,
+   "explanation": "PMVVY is a pension scheme for senior citizens (60+) run by LIC with a policy term of 10 years, not 12 - so the 12-year statement is incorrect.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq", "dated-ca"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q103",
+   "stage": "mains",
+   "section": "general",
+   "topic": "static-gk",
+   "difficulty": 2,
+   "question": "The Living Root Bridges are a rare ecological phenomenon seen in which state of India?",
+   "options": ["West Bengal", "Meghalaya", "Sikkim", "Mizoram.", "None of the above"],
+   "correct": 1,
+   "explanation": "Living root bridges, grown from the aerial roots of rubber fig trees, are found in Meghalaya (notably around Cherrapunji and Mawlynnong).",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq", "dated-ca"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q104",
+   "stage": "mains",
+   "section": "general",
+   "topic": "banking-awareness",
+   "difficulty": 2,
+   "question": "According to BASEL-II guidelines the minimum CRAR is 9%. RBI released the 22nd issue of the Financial Stability Report (FSR). The capital to risk-weighted assets ratio (CRAR) of Scheduled Commercial Banks improved to how much per cent in September 2020, from 14.7 per cent in March 2020?",
+   "options": ["14.9", "15.1", "15.4", "15.8", "16.3"],
+   "correct": 3,
+   "explanation": "Per the RBI's 22nd Financial Stability Report (January 2021), the CRAR of scheduled commercial banks improved to 15.8% in September 2020 from 14.7% in March 2020.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq", "dated-ca"]
+  }
+ ]
+}

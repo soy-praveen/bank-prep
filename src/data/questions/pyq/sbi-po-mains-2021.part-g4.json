@@ -1,0 +1,141 @@
+{
+ "sets": [],
+ "questions": [
+  {
+   "id": "pyq-sbipo-mains21-q105",
+   "stage": "mains",
+   "section": "general",
+   "topic": "banking-awareness",
+   "difficulty": 2,
+   "question": "Choose the incorrect option regarding the Payment Infrastructure Development Fund (PIDF) operationalised by RBI in 2021.",
+   "options": [
+    "To benefit the acquiring banks/non-banks and merchants by lowering overall acceptance infrastructure costs.",
+    "To increase payments acceptance infrastructure by adding 30 lakh touch points every year - 10 lakh physical and 20 lakh digital payment acceptance devices.",
+    "RBI has contributed Rs 250 crore to this fund.",
+    "To increase the number of acceptance devices multi-fold in the country.",
+    "POS will be established in tier 1 and tier 2 cities"
+   ],
+   "correct": 4,
+   "explanation": "The PIDF targets deployment of payment acceptance infrastructure in tier-3 to tier-6 centres and north-eastern states, not tier 1 and tier 2 cities - so that statement is incorrect. The RBI made an initial contribution of Rs 250 crore to the Rs 345 crore corpus.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq", "dated-ca"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q106",
+   "stage": "mains",
+   "section": "general",
+   "topic": "banking-awareness",
+   "difficulty": 2,
+   "question": "National Payments Corporation of India (NPCI) launched recurring payments for UPI. What is its name?",
+   "options": ["UPI Repay", "UPI Prepay", "AutoPay", "UPI recurring", "UPI pay"],
+   "correct": 2,
+   "explanation": "NPCI launched 'UPI AutoPay' for recurring payments, letting customers set e-mandates for subscriptions, EMIs and bills through UPI.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq", "dated-ca"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q107",
+   "stage": "mains",
+   "section": "general",
+   "topic": "current-affairs",
+   "difficulty": 2,
+   "question": "In December 2020, SBI Cards and Payment Services Ltd (SBI Card) raised how many rupees (in crores) by issuing bonds on a private placement basis?",
+   "options": ["250", "350", "450", "550", "650"],
+   "correct": 3,
+   "explanation": "SBI Card raised Rs 550 crore in December 2020 through the issue of non-convertible debentures on a private placement basis.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq", "dated-ca"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q108",
+   "stage": "mains",
+   "section": "general",
+   "topic": "banking-awareness",
+   "difficulty": 2,
+   "question": "According to RBI's National Strategy for Financial Inclusion, the minimum radius within which banking facilities should be available to a person is ______.",
+   "options": ["5 km", "50 km", "20 km", "6 km", "None of the above"],
+   "correct": 0,
+   "explanation": "The National Strategy for Financial Inclusion (2019-2024) targets access to formal banking services within a 5 km radius of every village/hamlet.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq", "dated-ca"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q109",
+   "stage": "mains",
+   "section": "general",
+   "topic": "static-gk",
+   "difficulty": 3,
+   "question": "Indian traditional mathematics 'Kotipakoti' has how many zeros?",
+   "options": ["21", "15", "36", "42", "2"],
+   "correct": 0,
+   "explanation": "In traditional Indian numeration, kotipakoti denotes 10^21, i.e. a number with 21 zeros.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq", "dated-ca"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q110",
+   "stage": "mains",
+   "section": "general",
+   "topic": "banking-awareness",
+   "difficulty": 2,
+   "question": "In which of the following banks in India has LIC completed the acquisition of a 51 percent stake?",
+   "options": ["Dena Bank", "IDBI Bank", "Punjab National Bank", "IDFC Bank", "Bandhan Bank"],
+   "correct": 1,
+   "explanation": "LIC completed the acquisition of a 51% controlling stake in IDBI Bank in January 2019.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq", "dated-ca"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q111",
+   "stage": "mains",
+   "section": "general",
+   "topic": "static-gk",
+   "difficulty": 2,
+   "question": "Where is Keetham lake situated?",
+   "options": ["Agra", "Jaipur", "Kanpur", "Bhopal", "None of the above"],
+   "correct": 0,
+   "explanation": "Keetham Lake (Sur Sarovar) lies near Agra, Uttar Pradesh, within the Sur Sarovar Bird Sanctuary.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq", "dated-ca"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q112",
+   "stage": "mains",
+   "section": "general",
+   "topic": "static-gk",
+   "difficulty": 2,
+   "question": "Dr APJ Abdul Kalam Missile Complex is situated in ________.",
+   "options": ["Hyderabad", "Tamil Nadu", "Kerala", "Karnataka", "None of the above"],
+   "correct": 0,
+   "explanation": "The DRDO missile complex in Hyderabad, comprising DRDL, RCI and ASL, is named the Dr APJ Abdul Kalam Missile Complex.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq", "dated-ca"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q113",
+   "stage": "mains",
+   "section": "general",
+   "topic": "current-affairs",
+   "difficulty": 2,
+   "question": "The Defence Minister inaugurated the advanced Hypersonic Wind Tunnel (HWT) test facility at Hyderabad, making India the third country to have such a facility. Which are the other two countries?",
+   "options": ["US and Russia", "China and South Korea", "Japan and China", "Australia and Japan", "None of the above"],
+   "correct": 0,
+   "explanation": "With the HWT facility at DRDO Hyderabad (December 2020), India became the third country after the USA and Russia to have such a large hypersonic wind tunnel.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq", "dated-ca"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q114",
+   "stage": "mains",
+   "section": "general",
+   "topic": "banking-awareness",
+   "difficulty": 1,
+   "question": "Which of the following governs Non-Banking Financial Companies (NBFC)?",
+   "options": ["Central government", "Reserve Bank of India", "Small Industries Development Bank of India", "Industrial Finance Corporation of India", "Securities and Exchange Board of India"],
+   "correct": 1,
+   "explanation": "NBFCs are registered and regulated by the Reserve Bank of India under the RBI Act, 1934 (Chapter III-B).",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq", "dated-ca"]
+  }
+ ]
+}

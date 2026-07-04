@@ -1,0 +1,123 @@
+{
+ "sets": [
+  {
+   "id": "pyq-sbipo-mains21-set11",
+   "section": "quant",
+   "topic": "caselet-di",
+   "title": "Caselet - Football Tournament",
+   "context": "In a football tournament there are four teams: Chennai, Mumbai, Delhi and Kolkata. Each team plays against each other two times.\n1. One match is at home and the other match is away.\n2. Each team gets 2 game points when it scores a goal and loses 1 game point when it concedes a goal.\n3. A team gets 5 table points for winning a game. To qualify for the finals a team should get above 10 table points.\nNote:\n(i) Chennai won 3 matches, Mumbai won 5 matches, and Delhi and Kolkata won the remaining matches equally.\n(ii) The two matches between Kolkata and Delhi were drawn due to an equal number of goals.\n(The five-option exam format is restored here; the source print carried only four options per question in this set.)"
+  }
+ ],
+ "questions": [
+  {
+   "id": "pyq-sbipo-mains21-q067",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "caselet-di",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains21-set11",
+   "question": "The average of the table points of Mumbai and Chennai is how much percentage of Chennai's table points?",
+   "options": ["100/3%", "200/3%", "50/3%", "400/3%", "None of these"],
+   "correct": 3,
+   "explanation": "12 matches in all; the two Kolkata-Delhi games were draws, so 10 decisive games: Chennai 3 wins, Mumbai 5, Delhi 1, Kolkata 1. Table points: Mumbai 25, Chennai 15. Average = 20, and 20/15 = 133.33% = 400/3%.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q068",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "caselet-di",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains21-set11",
+   "question": "Find the ratio of the winning percentage of Mumbai and Delhi together to the losing percentage of Chennai and Kolkata together.",
+   "options": ["7 : 6", "1 : 1", "3 : 4", "4 : 5", "None of these"],
+   "correct": 1,
+   "explanation": "Mumbai and Delhi won 5 + 1 = 6 of their 12 games (50%). Chennai lost 3 of 6 and Kolkata lost 3 of 6 (1 win, 2 draws), together 6 of 12 (50%). Ratio 1 : 1.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q069",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "caselet-di",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains21-set11",
+   "question": "What is the sum of the table points of Kolkata and Delhi, and the sum of the matches won by them both?",
+   "options": ["10 points, 2 matches", "15 points, 3 matches", "20 points, 4 matches", "25 points, 5 matches", "None of these"],
+   "correct": 0,
+   "explanation": "Delhi and Kolkata won 1 match each (5 table points each): together 10 table points and 2 wins.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q070",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "caselet-di",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains21-set11",
+   "question": "In a match, Chennai scored 2 goals more than Delhi. The game points of Chennai are 7 and of Delhi are 1. What is the average of the two teams' goals?",
+   "options": ["1", "2", "3", "4", "None of these"],
+   "correct": 3,
+   "explanation": "Let Delhi score d goals, Chennai d+2. Chennai's game points: 2(d+2) - d = d + 4 = 7, so d = 3 and Chennai scored 5 (check Delhi: 2 x 3 - 5 = 1). Average = (5 + 3)/2 = 4.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q071",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "caselet-di",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains21-set11",
+   "question": "In a match, Mumbai beat Delhi by a difference of 6 game points and Delhi got 2 game points. Find the ratio of goals scored by Mumbai and Delhi.",
+   "options": ["3 : 2", "9 : 4", "8 : 3", "4 : 5", "None of these"],
+   "correct": 0,
+   "explanation": "Mumbai's game points = 2 + 6 = 8. With goals m and d: 2m - d = 8 and 2d - m = 2. Solving, m = 6 and d = 4. Ratio 6 : 4 = 3 : 2.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q072",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "caselet-di",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-mains21-set11",
+   "question": "What is the total number of matches played in the tournament, and how many matches were played by each team?",
+   "options": ["14 & 7", "18 & 9", "8 & 4", "12 & 6", "None of these"],
+   "correct": 3,
+   "explanation": "Four teams playing each other twice: 4C2 x 2 = 12 matches in total, and each team plays 3 opponents twice = 6 matches.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q073",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "number-series",
+   "difficulty": 3,
+   "question": "In the given series A, B, C, D are positive integers given in terms of x, y and z, which are also positive integers.\n\nNumber series: ?, A, B, C, D\n**Set 1:**\nx^2 - 10x + 21 = 0 (smaller root)\ny^2 - 33y + 266 = 0 (greater root)\nz = 9x - 1\n**Set 2:**\nA = (x + 1)^2 + y\nB = (x + 2)^2 + z\nC = (x + 6)^2 + 2\nD = (x + 9)^2 + 3\n\nWhat will come in place of '?' in the given number series?",
+   "options": ["19", "27", "29", "35", "17"],
+   "correct": 1,
+   "explanation": "x = 3 (smaller root), y = 19 (greater root of 14 and 19), z = 26. A = 16+19 = 35, B = 25+26 = 51, C = 81+2 = 83, D = 144+3 = 147. Differences: 16, 32, 64 (doubling), so the difference before A is 8 and ? = 35 - 8 = 27.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q074",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "number-series",
+   "difficulty": 3,
+   "question": "In the given series a, b, c, d are positive integers given in terms of x, y and z, which are also positive integers.\n\nNumber series: 20, a, b, c, d, 65\n**Set 1:**\nx = HCF(2, 7)\ny = z, where z^2 - 8z + 12 = 0 (smaller root)\n**Set 2:**\n(a - 20) = x^2 + y^2\nb = (x + 1)^2 + y + a + 1\nc = (x + 2)^2 + y + b - 2\nd = (x + 1)^2 + y + c + 2\n\nFind the value of 'c' in the given number series.",
+   "options": ["41", "36", "25", "51", "38"],
+   "correct": 0,
+   "explanation": "x = HCF(2,7) = 1; z = 2 (smaller root of 2 and 6), so y = 2. a = 20 + 1 + 4 = 25; b = 4 + 2 + 25 + 1 = 32; c = 9 + 2 + 32 - 2 = 41.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq"]
+  }
+ ]
+}

@@ -1,0 +1,171 @@
+{
+ "sets": [],
+ "questions": [
+  {
+   "id": "pyq-sbipo-mains21-q030",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "alphanumeric-series",
+   "difficulty": 2,
+   "question": "If it is possible to make only one seven-letter meaningful English word with the 1st, 4th, 5th and 7th letters of the word PRIORITY and the 3rd, 5th and 6th letters of the word SECTOR, which of the following will be the first letter from the left of that word? If no such word can be made, give 'X' as the answer, and if more than one such word can be made, give 'Y' as the answer.",
+   "options": ["P", "R", "Y", "O", "X"],
+   "correct": 0,
+   "explanation": "Letters: P, O, R, T (from PRIORITY) and C, O, R (from SECTOR). The only seven-letter word formed is PROCTOR, whose first letter is P.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q031",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 2,
+   "question": "In the question below a statement is followed by two courses of action numbered I and II. A course of action is a step or administrative decision to be taken for improvement, follow-up or further action in regard to the problem. Assuming the statement to be true, decide which suggested course(s) of action logically follow(s).\n\n**Statement:** The management of XYZ Ltd has been at the receiving end of constant complaints from its employees about the HR department. The management is concerned that poor HR management will likely spread to impact all levels of the company, causing issues such as employee conflict, poor team building and personality conflicts among many others.\n\nWhich of the following is/are a viable course of action to tackle the problem?\nI. Replacing the HR personnel with an HR management software.\nII. Develop an effective training program for HR which includes guidance on improving the company's interdepartmental communications.",
+   "options": ["Only I follows", "Only II follows", "Both I and II follow", "Neither I nor II follows", "Either I or II follows"],
+   "correct": 1,
+   "explanation": "Replacing all HR personnel with software is an extreme and impractical response to complaints. Training the HR team to work better is a constructive, proportionate remedy, so only II follows.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q032",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 2,
+   "question": "In the question below is a passage followed by three courses of action numbered I, II and III. Considering the information in the passage to be true, decide which of the suggested courses of action logically follow(s).\n\n**Passage:** Reports suggest that the majority of the destitute widows, deserted women, and physically challenged men and women in the villages of Gujarat and Rajasthan are facing unemployment issues. It has been observed that they have good handicraft and sewing skills.\n\n**Courses of Action:**\nI. The Government should make all the people rich and stable.\nII. The Government should provide free housing to all.\nIII. The Government should introduce such schemes which will provide a free supply of sewing machines to the needy with a view to increase the self-employment potential.",
+   "options": ["Only II follows.", "Only III follows.", "Both I and III follow.", "All of them follow.", "None of them follow."],
+   "correct": 1,
+   "explanation": "I is vague and impossible as policy; II (free housing) does not address unemployment. III directly leverages the reported handicraft and sewing skills to create self-employment, so only III follows.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q033",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 2,
+   "question": "The critical reasoning question is based on a short passage. Select the best answer of the choices given.\n\n**Passage:** A diversified brick and mortar company recently hired a web designer and created an interesting online clothing catalogue to take its clothing business online. As a result, the company had a huge uptick in the volume of sales in the clothing segment. The spurt was caused by increased orders from digitally literate clients. Now, the company is planning to take another of its business segments, namely electronic goods, online.\n\nWhich of the following assumptions holds?",
+   "options": [
+    "Other Electronic Goods companies don't have an online presence.",
+    "Digitally literate clients will be interested in Electronic Goods.",
+    "The same web designer can be used for designing the Electronic goods catalogue too.",
+    "Other companies do not have quality web designers.",
+    "The company can wind up its brick and mortar business."
+   ],
+   "correct": 1,
+   "explanation": "The plan to repeat the online success with electronics rests on the assumption that the same digitally literate customer base will also buy electronic goods online. The other options are neither necessary nor implied.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q034",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 2,
+   "question": "Read the following passage and find the inference stated through the passage.\n\n**Statement:** Until the 19th century, loneliness referred to an action like journeying to a place outside a city and had less to do with feeling. Descriptions of loneliness and abandonment were used to generate fear of nonexistence within men, of being cut off from the world and from God's love.\n\nWhich of the following can be logically inferred from the statement above?",
+   "options": [
+    "God loves all equally.",
+    "People felt scared to be lonely and devoid of God's love.",
+    "Perception of people about loneliness changed in the 20th century.",
+    "Feeling should be associated with the idea of loneliness.",
+    "None of these."
+   ],
+   "correct": 1,
+   "explanation": "Since descriptions of loneliness were used to generate fear of being cut off from the world and from God's love, it follows that people feared being lonely and devoid of God's love. The other options go beyond or against the text.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q035",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 2,
+   "question": "In the question below a statement is followed by three courses of action numbered I, II and III. Assuming everything in the statement to be true, decide which of the suggested courses of action logically follow(s).\n\n**Statement:** The people who share the border of states X and Y are generally involved in fights regarding the distribution of water, usage of national highways, and many more issues. The problem occurs when these fights hamper the other citizens as well. Due to this conflict, many a time they block the highways or destroy national properties.\n\n**Courses of Action:**\nI. The local police station should immediately deploy policemen round the clock at the borders of X and Y.\nII. The police need to identify the people involved in such fighting activities and put them behind bars.\nIII. All the transport facilities should be stopped between the two states.",
+   "options": ["Only II follows", "Neither II nor III follows", "None follows", "All except III", "All I, II and III follow"],
+   "correct": 3,
+   "explanation": "Deploying police at the trouble-prone border (I) and acting against those who damage public property (II) both address the problem directly. Stopping all transport (III) punishes ordinary citizens and does not solve the conflict. So all except III follow.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q036",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "data-sufficiency-reasoning",
+   "difficulty": 3,
+   "question": "The question consists of a question and three statements numbered I, II and III. Decide whether the data provided in the statements are sufficient to answer the question.\n\nSix students M, N, O, P, Q and R were given a seminar in the same week starting from Monday to Saturday, one on each day. How many of them gave seminars before O?\n**Statement I:** P gave the seminar before at least three students. M gave the seminar on Tuesday.\n**Statement II:** Q gave the seminar before at least one of them. O gave immediately after P.\n**Statement III:** O did not give the seminar on Monday.",
+   "options": [
+    "If the data in statements I and II are sufficient to answer the question",
+    "If the data in statements II and III are sufficient to answer the question",
+    "If the data in statements I and III are sufficient to answer the question",
+    "If the data in all the statements I, II and III together are not sufficient to answer the question",
+    "If all the statements I, II and III are necessary to answer the question"
+   ],
+   "correct": 0,
+   "explanation": "From I: P spoke on Monday, Tuesday or Wednesday, and Tuesday is M's, so P spoke Monday or Wednesday. From II: O spoke immediately after P; if P were Monday, O would be Tuesday (M's day), impossible - so P spoke Wednesday and O on Thursday. Hence exactly three students spoke before O. Statements I and II suffice.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q037",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "data-sufficiency-reasoning",
+   "difficulty": 3,
+   "question": "The question consists of a question and three statements numbered I, II and III. Decide whether the data provided in the statements are sufficient to answer the question.\n\nSix members of a family X, Y, Z, A, B and C are standing in a row, all facing north. Who is standing between Z and B?\n**Statement I:** X is standing second from the left end. Z is standing third to the left of Y, who is near to B.\n**Statement II:** Y is not the immediate neighbour of C, who does not stand at any extreme end of the row.\n**Statement III:** B is not the neighbour of X.",
+   "options": [
+    "If the data in statement I alone or in statement II alone or in statement III alone is sufficient to answer the question.",
+    "If the data in statements I and II are sufficient to answer the question, while the data in statement III are not sufficient to answer the question.",
+    "If the data in statements I and III are sufficient to answer the question, while the data in statement II is not sufficient to answer the question.",
+    "If the data in statements II and III are sufficient to answer the question, while the data in statement I is not sufficient to answer the question.",
+    "If the data in all the statements I, II and III are necessary to answer the question."
+   ],
+   "correct": 1,
+   "explanation": "From I: X is at position 2, and (Z,Y) can be (1,4) or (3,6) with B adjacent to Y. Adding II: in the (1,4) case C would have no valid position (not extreme, not adjacent to Y, position 2 taken), so Z=3, Y=6, B=5, and C must take position 4 with A at 1. Then C stands between Z and B. I and II together are sufficient; III is not needed.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q038",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "data-sufficiency-reasoning",
+   "difficulty": 2,
+   "question": "The question consists of a question and three statements numbered I, II and III. Decide whether the data provided in the statements are sufficient to answer the question.\n\nFive buildings I, J, K, L and M are standing in a straight line facing north. Which building is standing at the extreme left?\n**Statement I:** J is standing exactly between M and K.\n**Statement II:** J is standing to the right of M.\n**Statement III:** L is standing between I and M.",
+   "options": [
+    "Statements I and II together required.",
+    "Statements II and III together required.",
+    "Statements I and III together required.",
+    "All statements together required to answer the question",
+    "The question cannot be answered with all the statements together."
+   ],
+   "correct": 3,
+   "explanation": "I and II give the order M, J, K. III places L between I and M, giving I, L, M, J, K, so building I is at the extreme left. No pair of statements alone fixes the left end; all three together are required.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q039",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "data-sufficiency-reasoning",
+   "difficulty": 2,
+   "question": "The question consists of a question and two statements numbered I and II. Decide whether the data provided in the statements are sufficient to answer the question.\n\nIn a certain code language, how is the word \"Love\" coded?\n**Statement I:** \"money love fun common\" is coded as \"sd fr gr da\" and \"ransom jump love fun\" is coded as \"cg nb fr gr\".\n**Statement II:** \"must ransom burden common\" is coded as \"tj pl da cg\" and \"wan fun house\" is coded as \"qs sw gr\".",
+   "options": [
+    "If the data in statement I alone are sufficient to answer the question, while the data in statement II alone are not sufficient to answer the question.",
+    "If the data in statement II alone are sufficient to answer the question, while the data in statement I alone are not sufficient to answer the question.",
+    "If the data either in statement I alone or in statement II alone are sufficient to answer the question.",
+    "If the data given in both statements I and II together are not sufficient to answer the question.",
+    "If the data in both statements I and II together are necessary to answer the question."
+   ],
+   "correct": 4,
+   "explanation": "From I alone, love and fun map to fr and gr but cannot be separated. Statement II does not contain love at all. Combining them, fun appears with code gr in II (\"wan fun house\" = \"qs sw gr\"), so fun = gr and hence love = fr. Both statements together are necessary.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq"]
+  }
+ ]
+}

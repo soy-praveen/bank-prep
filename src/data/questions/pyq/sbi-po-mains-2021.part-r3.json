@@ -1,0 +1,160 @@
+{
+ "sets": [
+  {
+   "id": "pyq-sbipo-mains21-set5",
+   "section": "reasoning",
+   "topic": "computer-aptitude",
+   "title": "4x4 Matrix and String Compiler",
+   "context": "There is a 4x4 matrix. The rows are represented as %, $, # and @ from first to fourth, and the columns as 1 to 4 from first to fourth. The matrix is built by these operations, in order:\n1. One diagonal of the matrix is I B P S and the other diagonal is 2 0 1 9, in the same order; they have their first element in the first column and the fourth column respectively (so %1=I, $2=B, #3=P, @4=S and %4=2, $3=0, #2=1, @1=9).\n2. The immediate neighbour of any alphabet in the same row is the alphabetical position of that alphabet (I=9, B=2, P=16, S=19).\n3. The remaining places are filled by the difference between the two numbers surrounding that place in the same row.\nIn the obtained matrix, the sum of digits in the second column is less than that of the third column.\n\nResulting matrix (rows % $ # @, columns 1-4):\n| | 1 | 2 | 3 | 4 |\n|---|---|---|---|---|\n| % | I | 9 | 7 | 2 |\n| $ | 2 | B | 0 | 2 |\n| # | 15 | 1 | P | 16 |\n| @ | 9 | 10 | 19 | S |\n\nA cell reference like $3 means the value in row $, column 3. The compiler of a PC responds to an input string by computing its value as per these conditions:\n1. If the string has an equal number of even and odd numbers, its value is the absolute difference between the sum of the even numbers and the sum of the odd numbers.\n2. If the string has an equal number of alphabets and numbers, its value is the absolute difference between the sum of alphabetical positions of the alphabets and the sum of the numbers.\n3. If there is only one even number in the string, its value is the sum of all the numbers in the string.\n4. If there is a vowel in the string, its value is the alphabetical position of that vowel.\n5. Otherwise, its value is the highest number minus the lowest number in the string.\nNotes: The value of an input is obtained by adding the values of all its strings and then adding the digits of the result repeatedly until a single digit remains. If the final value is prime, the program is executed; if even, it is not executed; if both even and prime, it executes but shows an error; otherwise the PC hangs.\n\nConsider the following four strings for all questions:\nAA = $2 #1 @3 #3\nBB = @1 %4 @3 %3\nCC = $4 @2 #4 %1\nDD = %4 @2 @4 #2"
+  },
+  {
+   "id": "pyq-sbipo-mains21-set6",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "title": "Eight-Floor Building - Colours and Birth Years",
+   "context": "Eight persons P, Q, R, S, T, U, V and W live in an eight-floor building numbered 1 (lowermost) to 8. Each likes a different colour - Red, Violet, Pink, Yellow, Black, Purple, Blue and White - and each has a different birth year - 1954, 1969, 1983, 1989, 1995, 1997, 1999 and 2001. Ages are calculated with 2019 as base year.\nThere is one floor between the floors of U, who likes Red, and Q.\nT, who likes Yellow, lives immediately above the one who likes White.\nQ lives on an even-numbered floor but not the topmost floor.\nThe age of S, who likes Violet, is a multiple of 11.\nThere are at least five floors between S and U.\nU lives somewhere above S but not immediately above S.\nThe birth year of Q is an even number.\nW lives immediately above S.\nThe difference between the ages of W and R is 20 years.\nThe person who likes Black lives immediately above the one who likes Purple and immediately below the one who likes White.\nV lives on floor four.\nThere are two floors between V and R.\nR neither lives on floor one nor likes Pink.\nThe person born in 1997 lives on the bottommost floor and likes Violet.\nThe age of P is two times the age of V.\nThe age difference of R and Q is 35 years.\nU is not 20 years old.\nW is older than R."
+  }
+ ],
+ "questions": [
+  {
+   "id": "pyq-sbipo-mains21-q020",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "computer-aptitude",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains21-set5",
+   "question": "What is the value of the input if only signals AA and BB are taken into account?",
+   "options": ["2", "8", "7", "1", "9"],
+   "correct": 1,
+   "explanation": "AA = B, 15, 19, P: equal alphabets and numbers, so |(2+16) - (15+19)| = 16. BB = 9, 2, 19, 7: only one even number, so 9+2+19+7 = 37. Input = 16+37 = 53, digits 5+3 = 8.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q021",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "computer-aptitude",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains21-set5",
+   "question": "What is the correct option if only signal CC is taken into account?",
+   "options": ["The program will be executed.", "The program will not be executed.", "The program will be executed but it will show an error.", "The PC will hang.", "Cannot be determined"],
+   "correct": 3,
+   "explanation": "CC = 2, 10, 16, I. It contains the vowel I, so its value is I's alphabetical position, 9. As a single string, 9 is already one digit. 9 is odd but not prime, so none of the execute conditions apply - the PC will hang.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q022",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "computer-aptitude",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains21-set5",
+   "question": "What is the correct option if both signals AA and DD are taken as input?",
+   "options": ["The program will be executed.", "The program will not be executed.", "The program will be executed but it will show an error.", "The PC will hang.", "Cannot be determined"],
+   "correct": 0,
+   "explanation": "AA = 16 (see string rules). DD = 2, 10, S, 1: no condition 1-4 applies, so value = highest - lowest = 10 - 1 = 9. Input = 16 + 9 = 25, digits 2+5 = 7. Since 7 is an odd prime, the program will be executed.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q023",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "computer-aptitude",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains21-set5",
+   "question": "It is given that signal BB is incorrect and the program was executed but showed an error. What could be the correct string for it?",
+   "options": ["@1 %4 @3 %3", "#3 @4 @2 %3", "@1 %4 @3 $4", "#4 $3 $2 #4", "None of the above"],
+   "correct": 4,
+   "explanation": "Executed-with-error needs a final single-digit value that is both even and prime, i.e. 2. Option 1 gives 37 -> 10 -> 1; option 2 (P, S, 10, 7) gives |35-17| = 18 -> 9; option 3 (9, 2, 19, 2) has equal even/odd counts: |4-28| = 24 -> 6; option 4 (16, 0, B, 16) gives 16-0 = 16 -> 7. None yields 2, so none of the above.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q024",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "computer-aptitude",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains21-set5",
+   "question": "What will be the value of the string if all four signals given are taken as input?",
+   "options": ["2", "5", "7", "1", "8"],
+   "correct": 4,
+   "explanation": "AA = 16, BB = 37, CC = 9, DD = 9. Total = 71; adding digits, 7+1 = 8.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q025",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains21-set6",
+   "question": "Which of the following combinations of Year, Colour and Person is correct?",
+   "options": ["U - Red - 1989", "S - Violet - 1969", "P - Black - 1983", "Q - Blue - 2001", "None of these"],
+   "correct": 2,
+   "explanation": "Final arrangement floor 1 to 8: S-Violet-1997, W-Purple-1969, P-Black-1983, V-White-2001, T-Yellow-1999, Q-Pink-1954, R-Blue-1989, U-Red-1995. P - Black - 1983 is correct.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q026",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains21-set6",
+   "question": "Who lives on the 5th floor?",
+   "options": ["One who likes Pink colour.", "One whose birth year is 1995", "One whose age is 20 years", "One who likes Red colour", "V"],
+   "correct": 2,
+   "explanation": "T (Yellow, born 1999, age 20 on the 2019 base) lives on floor 5. So the 5th-floor resident is the one whose age is 20 years.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q027",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains21-set6",
+   "question": "What is the sum of the ages of R and Q?",
+   "options": ["100", "105", "95", "89", "72"],
+   "correct": 2,
+   "explanation": "R was born in 1989 (age 30) and Q in 1954 (age 65); their age difference is 35 as required. Sum = 30 + 65 = 95.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q028",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains21-set6",
+   "question": "Whose birth year is 1983?",
+   "options": ["One who likes Red colour.", "One who likes Black colour.", "One who lives on 7th floor", "One who lives on the topmost floor", "One who likes Purple colour."],
+   "correct": 1,
+   "explanation": "P, born 1983 (age 36 = twice V's 18), lives on floor 3 and likes Black. So the 1983-born person is the one who likes Black.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q029",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains21-set6",
+   "question": "Four of the following five are alike in a certain way and hence form a group. Find the one which does not belong to the group.",
+   "options": ["U", "One who likes Blue colour.", "Whose birth year is 1954.", "V", "W"],
+   "correct": 1,
+   "explanation": "U (floor 8), the 1954-born Q (floor 6), V (floor 4) and W (floor 2) all live on even-numbered floors. The Blue-liking person R lives on floor 7, an odd floor, so R is the odd one out.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq"]
+  }
+ ]
+}

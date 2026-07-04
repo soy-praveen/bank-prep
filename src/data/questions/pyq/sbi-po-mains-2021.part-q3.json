@@ -1,0 +1,98 @@
+{
+ "sets": [
+  {
+   "id": "pyq-sbipo-mains21-set10",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "title": "Table - Milkman Mixture with Missing Values",
+   "context": "A milkman has 'X' litres of milk-and-water mixture in the ratio 5 : 1. He serves three clients: Amit, Gareema and Madhu. The table shows the quantity of mixture given to each client, the milk and water added back afterwards, and the quantity left after the addition. Some values are missing.\n\n| Person | Quantity given to client (L) | Milk added (L) | Water added (L) | Quantity left after adding (L) |\n|---|---|---|---|---|\n| Amit | 120 | 80 | 0 | 560 |\n| Gareema | y | 60 | 10 | M |\n| Madhu | 200 | 3r | r | z |\n\nData calculated from solving one part can be used in the calculation of the other parts.",
+   "context_note": ""
+  }
+ ],
+ "questions": [
+  {
+   "id": "pyq-sbipo-mains21-q061",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains21-set10",
+   "question": "If the cost of 1 litre of mixture is Rs 45, a discount of 6.66% is given to Amit and a discount of 11.11% is given to Madhu, then the money paid by Amit is what percentage less than the money paid by Madhu?",
+   "options": ["35%", "37%", "63%", "25%", "45%"],
+   "correct": 1,
+   "explanation": "Amit: 120 x 45 = Rs 5400; less 1/15 (6.66%) = Rs 5040. Madhu: 200 x 45 = Rs 9000; less 1/9 (11.11%) = Rs 8000. Difference 2960/8000 = 37% less.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q062",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains21-set10",
+   "question": "If the milkman, after giving mixture to another person Mahesh, is left with 180 litres of mixture after adding milk and water in the ratio 7 : 6, and the quantity of milk added is 10 litres more than the water, what quantity of mixture did he give to Mahesh?",
+   "options": ["50 litre", "100 litre", "30 litre", "45 litre", "110 litre"],
+   "correct": 0,
+   "explanation": "Milk and water added are in the ratio 7 : 6 with a difference of 10 L, i.e. 70 L milk and 60 L water (130 L added). So before the addition he held 180 - 130 = 50 L. The book's key (option 1) gives 50 litres; the printed statement does not state the stock he gave Mahesh from, so the step equating the given quantity with this 50 L cannot be reconstructed cleanly.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq", "book-typo-suspect"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q063",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains21-set10",
+   "question": "If the value of r is equal to 50, then the total quantity of water added is what percentage of the total quantity of milk added?",
+   "options": ["34.67%", "5.89%", "20.69%", "58.75%", "12%"],
+   "correct": 2,
+   "explanation": "Water added = 0 + 10 + 50 = 60 L; milk added = 80 + 60 + 3 x 50 = 290 L. 60/290 = 20.69%.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q064",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains21-set10",
+   "question": "If the value of z is 60% of the value of X, then find the value of r.",
+   "options": ["50", "30", "120", "45", "20"],
+   "correct": 0,
+   "explanation": "X = 600, so z = 360. Using y = 75% of the final quantity left (from the linked part), y = 0.75 x 360 = 270, so M = 560 - 270 + 70 = 360. Then z = M - 200 + 4r gives 360 = 160 + 4r, so r = 50.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q065",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains21-set10",
+   "question": "If y is equal to 75% of the mixture of milk and water left with the milkman and the ratio of milk and water in M is 9 : 1, what is the quantity of milk in the mixture M?",
+   "options": ["450 litre", "441 litre", "360 litre", "720 litre", "423 litre"],
+   "correct": 1,
+   "explanation": "The book's key gives 441 L, which corresponds to M = 490 L at a 9 : 1 milk-water ratio. From the table's own chain (y = 270, M = 360) the milk would be 324 L, so the key's value cannot be derived cleanly from the printed data - the answer is kept as per the key.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq", "book-typo-suspect"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q066",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-mains21-set10",
+   "question": "Find the value of 'X'.",
+   "options": ["1200", "720", "600", "360", "300"],
+   "correct": 2,
+   "explanation": "From Amit's row: X - 120 + 80 + 0 = 560, so X = 600.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq"]
+  }
+ ]
+}

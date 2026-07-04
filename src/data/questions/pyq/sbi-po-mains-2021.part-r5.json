@@ -1,0 +1,118 @@
+{
+ "sets": [
+  {
+   "id": "pyq-sbipo-mains21-set7",
+   "section": "reasoning",
+   "topic": "blood-relations",
+   "title": "Coded Blood Relations - Symbols",
+   "context": "Study the following information carefully:\nIf 'L + M' means 'L is the brother of M'.\nIf 'L x M' means 'L is the mother of M'.\nIf 'L % M' means 'L is the husband of M'.\nIf 'L / M' means 'L is the father of M'.\nIf 'L $ M' means 'L is the daughter of M'."
+  }
+ ],
+ "questions": [
+  {
+   "id": "pyq-sbipo-mains21-q040",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "syllogism",
+   "difficulty": 3,
+   "question": "In the following question some conclusions are given. Take the given conclusions to be true even if they seem to be at variance with commonly known facts, and decide which of the sets of statements given in the options makes the given conclusions definitely true.\n\n**Conclusions:**\nI. All Trees being Forest is a possibility.\nII. All City being Forest is a possibility.",
+   "options": [
+    "Statements I: All City are Trees. No Trees is Forest. All Branch are Forest",
+    "Statements II: All City are Trees. No Trees is Branch. All Branch are Forest",
+    "Statements III: Some City are Trees. No Trees is Forest. All Branch are Forest",
+    "Statements IV: No City is Forest. No Trees is Branch. All Branch are Forest",
+    "Statements V: Some City are Trees. No Trees is Branch. No City is Forest"
+   ],
+   "correct": 1,
+   "explanation": "With 'All City are Trees. No Trees is Branch. All Branch are Forest', nothing prevents Forest from covering all Trees (Forest is not limited to Branch), so both possibilities hold. Options containing 'No Trees is Forest' or 'No City is Forest' rule the possibilities out.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q041",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "syllogism",
+   "difficulty": 3,
+   "question": "In the following question some conclusions are given. Take the given conclusions to be true and decide which of the sets of statements given in the options makes the given conclusions definitely true.\n\n**Conclusions:**\nI. Some pillows are mats.\nII. All wells can never be pillows.",
+   "options": [
+    "Statements I: Only a few wells are mats. All pillows are mats.",
+    "Statements II: Only a few mats are wells. All mats are pillows.",
+    "Statements III: Some pillows are wells. Some mats are wells.",
+    "Statements IV: No pillow is mats. No well is pillow.",
+    "Statements V: All pillows are mats. All wells are pillows."
+   ],
+   "correct": 0,
+   "explanation": "From 'All pillows are mats' we get some pillows are mats. 'Only a few wells are mats' means some wells are definitely not mats; those wells cannot be pillows (every pillow is a mat), so all wells can never be pillows. Both conclusions are definitely true only for option 1.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q042",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "syllogism",
+   "difficulty": 3,
+   "question": "In the following question some conclusions are given. Take the given conclusions to be true and decide which of the sets of statements given in the options makes the given conclusions definitely true.\n\n**Conclusions:**\nI. No Rose is a flower.\nII. Some plants are flowers.",
+   "options": [
+    "Statements I: No Rose is root. No root is a flower. Some flowers are plants.",
+    "Statements II: All Rose are roots. All roots are flower. No flower is plant.",
+    "Statements III: All Rose are roots. No root is a flower. Some flowers are plants.",
+    "Statements IV: All Rose are roots. No root is a flower. No flower is plant.",
+    "Statements V: All Rose are roots. All roots are flower. Some flowers are plants."
+   ],
+   "correct": 2,
+   "explanation": "'All Rose are roots' plus 'No root is a flower' gives 'No Rose is a flower', and 'Some flowers are plants' directly gives 'Some plants are flowers'. Option 3 makes both conclusions definitely true.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q043",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "blood-relations",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains21-set7",
+   "question": "How is G related to Y according to the following statement?\nG + I % T x K + Y",
+   "options": ["Mother", "Grandfather", "Paternal Uncle", "Maternal Uncle", "Father"],
+   "correct": 2,
+   "explanation": "G is the brother of I; I is the husband of T; T is the mother of K; K is the brother of Y. So I is Y's father and G, being the father's brother, is Y's paternal uncle.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q044",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "blood-relations",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains21-set7",
+   "question": "How is F related to H according to the given statement?\nF / U $ J $ V % H",
+   "options": ["Father", "Son", "Nephew", "Son-in-law", "Mother-in-law"],
+   "correct": 3,
+   "explanation": "F is the father of U; U is the daughter of J (so F is J's husband); J is the daughter of V; V is the husband of H. F, being the husband of H's daughter J, is H's son-in-law.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq"]
+  },
+  {
+   "id": "pyq-sbipo-mains21-q045",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "blood-relations",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains21-set7",
+   "question": "In which of the following options is N the granddaughter of R?",
+   "options": [
+    "C + L / N % Q $ R",
+    "R % Q + L / C % N",
+    "Q x N $ C + L $ R",
+    "C x N + R $ L / Q",
+    "R + L $ N / C x Q"
+   ],
+   "correct": 2,
+   "explanation": "Option 3: Q is the mother of N; N is the daughter of C; C is the brother of L; L is the daughter of R. Since C is R's son and N is C's daughter, N is R's granddaughter.",
+   "source": {"kind": "pyq", "ref": "SBI PO Mains 2021 (memory-based, Testbook Mains book)", "year": 2021},
+   "tags": ["pyq"]
+  }
+ ]
+}
