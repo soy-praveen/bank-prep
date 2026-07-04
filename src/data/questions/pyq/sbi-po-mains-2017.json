@@ -1,0 +1,3015 @@
+{
+ "sets": [
+  {
+   "id": "pyq-sbipo-mains17-set1",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "title": "RC: Budget Session Uproar Over Hate Crimes Against Indians in USA",
+   "context": "[Passage paraphrased from the original]\n\nThe Budget session of Parliament opened in turmoil as opposition members demanded a debate on recent hate crimes against Indians living in the USA. The Congress party accused the Modi government of staying silent on the attacks on Indians in the US. Replying to this, the Union Home Minister said the government had taken serious note of the matter and that the Prime Minister would respond in the following week of the Parliament session. In recent weeks at least two Indians have been killed in hate-crime incidents in the US; each attack reportedly involved the slogan \"Go back to your country.\" America condemned the attacks but has not taken any concrete steps to address the underlying issue."
+  },
+  {
+   "id": "pyq-sbipo-mains17-set2",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "title": "Row of Eight - A to H with Distinct Hobbies",
+   "context": "Eight members A, B, C, D, E, F, G and H sit in a row facing north, not necessarily in this order. No two members whose names are consecutive in the alphabet sit next to each other (e.g. A does not sit next to B, B does not sit next to C, and so on).\nThey each have a different hobby: Playing games, Watching TV, Singing, Dancing, Online surfing, Chatting, Acting and Cooking.\nEither A or H sits at an extreme end of the row.\nA sits third to the left of the person whose hobby is online surfing.\nB sits second to the right of the person who likes acting.\nC sits second to the right of F.\nG, who likes watching TV, sits second from the right end of the row.\nThe person who likes dancing is an immediate neighbour of F, who likes playing games.\nThe person who likes acting does not sit adjacent to the person who likes online surfing.\nC's hobby is neither acting nor online surfing.\nD and E do not sit at either extreme end of the row.\nOne of the immediate neighbours of H likes cooking, and the person who likes singing sits at the left end of the row.\nNeither H nor D likes acting.\n\nSolving the puzzle (numbering seats 1-8 left to right): seat 1 = A (singing), seat 2 = D (dancing), seat 3 = F (playing games), seat 4 = H (online surfing), seat 5 = C (cooking), seat 6 = E (acting), seat 7 = G (watching TV), seat 8 = B (chatting). This satisfies every clue, including the no-alphabetically-consecutive-neighbours rule."
+  },
+  {
+   "id": "pyq-sbipo-mains17-set3",
+   "section": "reasoning",
+   "topic": "coding-decoding",
+   "title": "Clock Time Codes - Symbol Legend",
+   "context": "Each symbol below stands for either the hour-hand or the minute-hand position on a clock face, given as the corresponding hour-number (1-12): @ = 8, # = 5, $ = 4, % = 12, & = 2, £ = 3.\nWhen two symbols are given together, the first is always the hour hand and the second is always the minute hand (the minute hand's number is read as that number x 5 minutes past the hour). All times are taken to be PM."
+  },
+  {
+   "id": "pyq-sbipo-mains17-set4",
+   "section": "reasoning",
+   "topic": "input-output",
+   "title": "Number Grid - Four-Step Operations (Q18-20)",
+   "context": "An input is processed through four steps using a sequence of arithmetic operations shown in the original figure (not reproduced here); the numeric results below are taken directly from the book's solution key and are cross-checked for consistency against all three questions in this set.\nInput: 42 51 29 32 71 14\nStep-I result: 86, 57, 89\nStep-II: the tens digits of Step-I's three numbers (8, 5, 8) are added to give the first value, and the units digits (6, 7, 9) are added to give the second value -> 21, 22\nStep-III: half of the sum of the two digits of each Step-II number -> half of (2+1) = 1.5, half of (2+2) = 2 -> 1.5, 2\nStep-IV: the difference between the two Step-III numbers -> 2 - 1.5 = 0.5"
+  },
+  {
+   "id": "pyq-sbipo-mains17-set5",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "title": "Two Concentric Square Fields - Eight Gate-Keepers",
+   "context": "There are two square fields of different sizes, with the larger field surrounding the smaller one. Each field has four gates, one at the middle of each side. Eight people, A, B, C, D, E, F, G and H, stand at the eight gates (one per gate), not necessarily in this order. The people at the gates of the larger (outer) field face the centre; the people at the gates of the smaller (inner) field face outward - so each inner-field gatekeeper faces the outer-field gatekeeper directly opposite (on the same side).\nThere is one person standing between B and D (within the same field).\nC faces B.\nA is immediately to the right of C.\nG is not an immediate neighbour of D.\nG faces neither D nor F.\nThere is one person standing between H and F (within the same field).\nE faces the centre.\n\nWorking through the clues: since F and H have one gatekeeper between them (like B and D), and G isn't adjacent to D or facing D or F, D, F, H and B must all belong to the inner field (facing outward) - with B and D directly opposite each other, and F and H directly opposite each other. That leaves A, C, E and G on the outer field (facing the centre), matching 'E faces the centre'. Since C faces B, C occupies the outer-field gate aligned with B; A, immediately to C's right, takes the next gate; G (who cannot face D) ends up facing H instead, leaving E to face D.\nFinal facing pairs (inner - outer, same side): B-C, F-A, D-E, H-G."
+  },
+  {
+   "id": "pyq-sbipo-mains17-set6",
+   "section": "reasoning",
+   "topic": "blood-relations",
+   "title": "Family Tree - P, Q, T's Children and Grandchildren",
+   "context": "P is the husband of Q. P and Q have only one child, a son, who is married to one of T's children.\nT has only two children - one son and one daughter - referred to as U and V.\nW is married to T's son.\nX is grandson of T, and X is the son of U's brother.\nR is a grandchild of P.\n(S is the brother-in-law of T's son, though S does not feature in the two questions below.)\n\nSince 'U's brother' can only make sense if U has a brother among T's two children, U must be T's daughter (so her brother is V, T's son). W, married to 'the son of T', is therefore married to V. That leaves P and Q's son married to U, T's daughter. R, P's grandchild, is therefore the child of (P and Q's son) and U - making T (U's parent) R's maternal-side grandparent. X, described as the son of U's brother (V), is V and W's own son."
+  },
+  {
+   "id": "pyq-sbipo-mains17-set7",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "title": "Ten Lecturers Across Five Months - Attendance Puzzle",
+   "context": "Ten lecturers P, Q, R, S, T, U, V, W, X and Y teach in the same college.\nThey give lectures across five months (April, May, June, September and December), on the 7th and 21st of each month, with exactly two lectures (one lecturer each) held per month.\nThe lectures are attended by different numbers of students; the total strength of each class is 100 and 50% attendance is compulsory, so each class has between 50 and 100 students.\nThe number of students attending is even in a month that has 30 days and odd in a month that has 31 days.\nNo lecturer gives a lecture after W (W's slot is the last one).\nU gives a lecture in a month which has 30 days.\nT and Q give lectures after U, on the 7th of different months respectively, with T before Q.\nThe number of students who attend class on 7th September is a two-digit perfect square.\nR does not give a lecture in the month in which Y or Q gives a lecture.\nThe sum of the number of students who attend class on the 7th of two months is 152.\nOnly three lecturers give lectures between U and the lecturer whose class is attended by 68 students.\nThe difference between the number of students who attend class on 7th September and the sum of the number of students who attend class in May is 58.\nQ gives a lecture in a month which has 30 days.\nThe average of the number of students who attend class on 21st April and 21st June is 76.\nP gives a lecture in a month which has 31 days.\nTotal 55 students attend V's lecture.\nV does not give a lecture in the month in which W gives a lecture.\nThere are four lecturers who give lectures between V and S.\nY gives a lecture in the month which is after the month in which V gives a lecture.\nThe total number of students who attend class across the five months is 714.\nThe sum of the number of students who attend class on 7th May and 7th June is 147.\nThe number of students who attend class on 7th June is less than 90.\nThe difference between the number of students who attend the lectures of Y and R is 4.\nX gives a lecture after P, and the number of students who attend his lecture is greater than 70, less than 80, and not divisible by 4.\nThe number of students who attend class on 7th December is a multiple of 11.\nThe number of students who attend the lecture of W is greater than 60 but less than 70.\n\nWorking through all of the clues together (cross-checked against every constraint above) gives this fully solved schedule:\n| Month | Date | Lecturer | Students |\n|---|---|---|---|\n| April | 7 | R | 72 |\n| April | 21 | U | 84 |\n| May | 7 | P | 67 |\n| May | 21 | V | 55 |\n| June | 7 | T | 80 |\n| June | 21 | Y | 68 |\n| September | 7 | Q | 64 |\n| September | 21 | X | 78 |\n| December | 7 | S | 77 |\n| December | 21 | W | 69 |"
+  },
+  {
+   "id": "pyq-sbipo-mains17-set8",
+   "section": "reasoning",
+   "topic": "alphanumeric-series",
+   "title": "12 Even Numbers with Letters of SACRED",
+   "context": "The first 12 even numbers (2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24) are written from top to bottom.\nThe letters of the word 'SACRED' are written in alphabetical order from top to bottom against each multiple of 4 (one letter against one number).\nThere are 2 letters between N and S.\nThere are as many letters between E and N as between P and D.\nP is not written against number 14.\nThere are 5 letters between U and T, with U above T.\nI is written against number 6.\n(No letter is repeated against any number.)\n\nWorking through the clues pins down every position:\n| Number | 2 | 4 | 6 | 8 | 10 | 12 | 14 | 16 | 18 | 20 | 22 | 24 |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|\n| Letter | U | A | I | C | P | D | T | E | N | R | L | S |"
+  },
+  {
+   "id": "pyq-sbipo-mains17-set9",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "title": "Ten Shelves in Two Rows - Colours, Glass Slabs and Photo Frames",
+   "context": "There are 10 shelves numbered 1 to 10, arranged in two rows, one above the other. Shelves 1-5 are in row 1, arranged left to right (shelf 1 at the extreme left); shelves 6-10 are in row 2 (above row 1), also arranged left to right with shelf 6 at the extreme left - so shelf (n+5) in row 2 sits directly above shelf n in row 1.\nEach shelf contains a certain number of glass slabs and photo frames, with at least one glass slab in every shelf. Each glass slab is 15 cm long and each photo frame is 6 cm long, so a shelf's length = 15 x (number of glass slabs) + 6 x (number of photo frames).\nShelf 3 has length 33 cm.\nThere is one shelf between shelf 3 and the yellow shelf.\nThe yellow shelf contains 1 glass slab and 6 photo frames more than shelf 3.\nThe silver shelf is just above the yellow shelf.\nThe silver shelf contains the same number of glass slabs as the yellow shelf, and 1 photo frame.\nThere are 2 shelves between the silver and green shelves.\nThe length of the green shelf is 3 cm greater than the silver shelf.\nThe blue shelf is immediately next in number to the green shelf.\nThe blue shelf contains 1 glass slab more than the silver shelf, and 1 photo frame less than the green shelf.\nThere is one shelf between the blue and orange shelves.\nThe white shelf is just below the orange shelf.\nThere is one shelf between the white and red shelves.\nThe black shelf is in row 2.\nThe pink shelf is just below the black shelf.\nThe black shelf has the same number of photo frames and glass slabs.\nThe orange shelf has 1 glass slab more than the black shelf.\nThe length of the orange shelf is 24 cm more than the length of the pink shelf.\nThe length of the violet shelf is half the length of the yellow shelf.\nThe red shelf has four or more glass slabs.\nThe length of the pink shelf is 6 cm less than that of the shelf immediately next to it in number.\nThe length of row 1 is 267 cm and that of row 2 is 249 cm.\nThe blue shelf is not next to the black shelf.\n\nKey deductions: shelf 3's length of 33 cm forces exactly 1 glass slab + 3 photo frames (15+18=33; no other combination with at least one slab works). The 'one shelf between shelf 3 and yellow' clue puts yellow at shelf 1 or shelf 5; taking yellow = shelf 5 eventually forces the blue and black shelves to end up next to each other, which the last clue forbids, so yellow = shelf 1 is the correct branch. That fixes silver = shelf 6 (directly above yellow), and every other colour's shelf number then follows in a forced chain: green = shelf 9, blue = shelf 10, orange = shelf 8, white = shelf 3, red = shelf 5, black = shelf 7 (the only row-2 shelf left), pink = shelf 2 (below black), violet = shelf 4 (the last shelf left). Combining each colour's glass-slab/photo-frame relations with these positions and the two row-length totals pins down every shelf's contents, giving:\n| Shelf | Colour | Glass slabs | Photo frames | Length (cm) |\n|---|---|---|---|---|\n| 1 | Yellow | 2 | 9 | 84 |\n| 2 | Pink | 1 | 2 | 27 |\n| 3 | White | 1 | 3 | 33 |\n| 4 | Violet | 2 | 2 | 42 |\n| 5 | Red | 5 | 1 | 81 |\n| 6 | Silver | 2 | 1 | 36 |\n| 7 | Black | 2 | 2 | 42 |\n| 8 | Orange | 3 | 1 | 51 |\n| 9 | Green | 1 | 4 | 39 |\n| 10 | Blue | 3 | 3 | 63 |\nRow 1's five shelves add up to exactly 267 cm, matching the stated row-1 length precisely (row 1 is fully packed). Row 2's five shelves add up to only 231 cm against a stated row-2 length of 249 cm, leaving 18 cm of unused space - enough for 3 more photo frames (18/6 = 3), which is the fact the book's own solution highlights ('remaining will be 18cm')."
+  },
+  {
+   "id": "pyq-sbipo-mains17-set10",
+   "section": "quant",
+   "topic": "boats-streams",
+   "title": "Boat Upstream/Downstream Distances - Pie Charts & Stream Speed (Q50-54)",
+   "context": "The pie charts show the percentage of the total distance a boat covered upstream and downstream on each day of a week. The table shows the speed of the stream (km/hr) on each day - two days are left blank and must be derived within the individual questions below.\n\nUpstream pie chart (total upstream distance = 1800 km): Sunday 18%, Monday 15%, Tuesday 16%, Wednesday 14%, Thursday 12%, Friday 15%, Saturday 10%.\nDownstream pie chart (total downstream distance = 1500 km): Sunday 10%, Monday 16%, Tuesday 14%, Wednesday 15%, Thursday 12%, Friday 15%, Saturday 18%.\n\n| Day | Upstream % | Upstream distance (km) | Downstream % | Downstream distance (km) | Stream speed (km/hr) |\n|---|---|---|---|---|---|\n| Sunday | 18% | 324 | 10% | 150 | 4 |\n| Monday | 15% | 270 | 16% | 240 | 2 |\n| Tuesday | 16% | 288 | 14% | 210 | 3 |\n| Wednesday | 14% | 252 | 15% | 225 | — |\n| Thursday | 12% | 216 | 12% | 180 | 1 |\n| Friday | 15% | 270 | 15% | 225 | 2 |\n| Saturday | 10% | 180 | 18% | 270 | — |\n\n(Upstream distance = pie % x 1800; downstream distance = pie % x 1500. The missing stream speeds for Wednesday and Saturday are derived within Q52 and Q53 respectively.)"
+  },
+  {
+   "id": "pyq-sbipo-mains17-set11",
+   "section": "quant",
+   "topic": "probability",
+   "title": "Three Bags of Coloured Balls - Yellow, Green, Black (Q55-57)",
+   "context": "Three bags A, B and C each contain yellow, green and black balls.\n\nBag A: number of yellow balls = y, green balls = g = y + 4. Probability of drawing a black ball at random = 5/13. y is 18 2/11% less than g.\nBag B: number of yellow balls is 22 2/9% more than bag A's yellow balls. Total balls in B = 75. Probability of drawing two green balls at random (without replacement) = 4/37.\nBag C: ratio of green : black balls = 7 : 5, and green + black = 36. Probability of drawing a yellow ball at random = 7/13.\n\nWorking these out consistently gives:\n\n| Bag | Yellow | Green | Black | Total |\n|---|---|---|---|---|\n| A | 18 | 22 | 25 | 65 |\n| B | 22 | 25 | 28 | 75 |\n| C | 42 | 21 | 15 | 78 |\n\n(Check - bag A: g - y = 22 - 18 = 4, and (g-y)/g = 4/22 = 2/11 = 18 2/11% less, matching; black/total = 25/65 = 5/13, matching. Bag B: 18 x (1 + 200/900) = 22 yellow, matching 22 2/9% more; C(25,2)/C(75,2) = 300/2775 = 4/37, matching. Bag C: green=21, black=15 from a 7:5 ratio summing to 36; yellow=42 gives 42/78 = 7/13, matching.)"
+  },
+  {
+   "id": "pyq-sbipo-mains17-set12",
+   "section": "quant",
+   "topic": "caselet-di",
+   "title": "Five Sellers' Discount Table Across Four Items (Q58-62)",
+   "context": "There are five shop owners A, B, C, D and E selling five different items. The table gives the discount (as a percentage of the marked price) offered by each seller on Items I-IV. The marked price of a particular item is the same for all five sellers. Some values are missing (\"—\") and must be calculated from the data given in the individual questions.\n\n| Seller | Item I | Item II | Item III | Item IV |\n|---|---|---|---|---|\n| A | 18% | 32% | 36% | — |\n| B | 22% | — | 33% | 40% |\n| C | — | 16% | 14% | 15% |\n| D | 28% | 28% | 16% | — |\n| E | — | 8% | — | 7% |"
+  },
+  {
+   "id": "pyq-sbipo-mains17-set13",
+   "section": "quant",
+   "topic": "partnership",
+   "title": "A, B, C Partnership with Changing Quarterly Investment Ratios (Q63-64)",
+   "context": "A, B and C invested Rs. 900, Rs. 1600 and Rs. 700 respectively in a business venture. After the end of the first quarter they invested additional amounts in the ratio 2:5:3. After the end of the second quarter, A, B and C invested further additional amounts in the ratio 4:3:4. After the end of the third quarter, they invested further additional amounts in the ratio 7:6:7. The whole amount was invested for one year, and the profit earned is proportional to investment x time period."
+  },
+  {
+   "id": "pyq-sbipo-mains17-set14",
+   "section": "quant",
+   "topic": "trains",
+   "title": "Two Trains Between Stations P and Q (Q65-66)",
+   "context": "Train A leaves station P at 9:45 am at a speed of 54 kmph, heading towards station Q. Half an hour later, train B leaves station Q at a speed of 66 kmph, heading towards P (the opposite direction to A). The two trains meet at 2:35 pm the same day. Stations P and Q are x km apart."
+  },
+  {
+   "id": "pyq-sbipo-mains17-set15",
+   "section": "quant",
+   "topic": "time-work",
+   "title": "A, B, C, D Unique Work Rates - Relay and Alternate-Day Work (Q69-70)",
+   "context": "A can do a certain work in x days and B can do it in 2x days. A works alone for 22 2/9 days, then is replaced by B, who completes the remaining work in the same time that C and D together would take to complete the WHOLE work.\n\nThe efficiency ratio of C to D is 4:5. Working on alternate days starting with C, C and D together complete the work in 44 1/2 days."
+  },
+  {
+   "id": "pyq-sbipo-mains17-set16",
+   "section": "quant",
+   "topic": "time-work",
+   "title": "Line Graph - Individual Completion Times for Job X (Q71-75)",
+   "context": "A, B, C, D and E can individually complete a job X in 10, 12, 15, 18 and 20 days respectively (line graph). The table below shows the actual number of whole-number days each of them worked on job X (some entries are not given and must be derived within individual questions).\n\n| Person | Days worked on job X |\n|---|---|\n| A | 2 |\n| B | — |\n| C | 3 |\n| D | — |\n| E | 2 |\n\nJobs Y and Z require the same total effort as job X, so each person's daily work-rate (1/10, 1/12, 1/15, 1/18, 1/20 of the job per day for A, B, C, D, E respectively) is the same across jobs X, Y and Z."
+  },
+  {
+   "id": "pyq-sbipo-mains17-set17",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "title": "RC: Noise — Inconsistent Professional Judgment in Organizations",
+   "context": "[Passage paraphrased from the original]\n\nParagraph 1: When a longtime client of a global financial services firm accidentally filed the same application with two separate offices, the guideline-bound reviewers should have produced similar outcomes; instead the quotes that came back were far apart, and the taken-aback customer moved the business to a competitor. The firm had assumed that employees in the same role were interchangeable — in this case they were not. \"Unfortunately, this is a common problem.\"\n\nParagraph 2: Organizations routinely hand out cases to professionals — appraisers at credit-rating agencies, emergency-room physicians, underwriters of loans and insurance — on an arbitrary basis, expecting identical cases to be treated much the same. Humans, though, are unreliable deciders: irrelevant influences such as current mood, the time since the last meal, or the weather colour their judgments. \"We call the chance variability of judgments noise\" — an invisible tax on the bottom line of many companies.\n\nParagraph 3: By design, some jobs are noise-free: clerks at a bank or post office do complex work under strict rules that shut out subjective judgment, so identical cases are handled identically. Medical professionals, loan officers, project managers, judges and executives are different — they make judgment calls guided by informal experience and general principles rather than by rigid rules, and a small divergence from what any peer in the role would decide is acceptable; that is what is meant by calling a decision \"a matter of judgment\". A firm whose employees exercise judgment does not expect zero noise, but noise frequently sits far above the level executives would consider tolerable — and they are completely unaware of it.\n\nParagraph 4: Study after study confirms how prevalent noise is, with professionals contradicting even their own earlier calls on identical data: estimates given on two separate days by the same software developers for the same task's completion time differed by 71% on average, and pathologists' paired ratings of the severity of the same biopsy results correlated at only .61 out of a perfect 1.0 — inconsistent diagnoses were frequent. Across different people the spread widens further: expert decisions have proved highly variable in valuing stocks, appraising real estate, sentencing criminals, evaluating job performance, auditing financial statements and more. The unavoidable conclusion is that professionals often deviate significantly from their peers, from their own prior decisions, and from rules they themselves claim to follow.\n\nParagraph 5: Noise is insidious — it quietly drains money from even successful companies without their realizing it. To size the leak, executives in one organization studied were asked what it would cost the firm if a case whose optimal assessment was $100,000 were instead valued at $115,000, or at $85,000. Their cost estimates were high; aggregated over the assessments made every year, the cost of noise ran into billions — unacceptable even for a large global firm — while reducing noise by even a few percentage points would be worth tens of millions. Remarkably, the organization had completely ignored the question of consistency until then."
+  },
+  {
+   "id": "pyq-sbipo-mains17-set18",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "title": "RC: Deutsche Bank and Europe's Banking Troubles",
+   "context": "[Passage paraphrased from the original]\n\nParagraph 1: Deutsche is more leveraged than its peers, unusual in lacking a crown-jewel business around which to build its model, and sits on a stack of derivatives whose prices are hard to observe in the market. On the brighter side, it carries few of the non-performing loans that clog the balance-sheets of banks in places like Italy. Its other troubles, though, are familiar ones: it struggles to make a decent return, has taken too long to face up to its problems, and operates in an overbanked market. Years after American banks were forced to clean themselves up, too many European lenders are still flailing.\n\nParagraph 2: Europeans prefer to pin the turmoil on others. Deutsche blamed \"forces in the market\" for its latest bout of trouble, yet its shares had already fallen 42% that year before news broke of a proposed Department of Justice (DoJ) fine of $14 billion for mortgage-related misdeeds. German politicians insinuate the mooted fine is revenge for Europe's recent tax case against Apple, an American champion — but the DoJ has slapped large fines on American banks too. \"Deutsche's vulnerability to shocks is the problem, not the shocks themselves.\"\n\nParagraph 3: Fingers also point at global regulators — Credit Suisse's boss, Tidjane Thiam, calls the sector \"not really investible\". Rules have indeed grown much stricter in recent years, especially for institutions like Deutsche with big investment-banking arms, and the ultra-loose monetary policy and negative interest rates now prevailing across much of Europe eat away at banks' profitability. But some banks cope better than others in this painful environment: comparing returns on equity before and after the financial crisis, the IMF found an 11.4-percentage-point fall at large European banks against a dip of only three points at American lenders. Rather than blaming speculators, Americans and regulators, Europe's bankers and policymakers need to put their own house in order.\n\nParagraph 4: Within institutions, that means cutting costs and raising capital. Per S&P Global Market Intelligence, the average cost-to-income ratio at an American bank in 2015 was 59%, against 67% in Italy and 72% in Germany, while Scandinavian banks already run far leaner than their European peers. The axe is now swinging: Commerzbank, another struggling German lender, and ING, a Dutch bank, have announced thousands of job cuts in recent days.\n\nParagraph 5: More can be done, and pay is one obvious lever: Deutsche's bankers pocketed roughly the same annual compensation from 2011 to 2015 even as the bank's share price dived. And before shareholders complain too loudly, recall that 90 euro-zone banks paid out €223 billion ($250 billion) in dividends over 2007-15; their retained earnings would have been 64% higher at the end of that period had they not paid dividends."
+  }
+ ],
+ "questions": [
+  {
+   "id": "pyq-sbipo-mains17-q001",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains17-set1",
+   "question": "What may be the repercussions after the recent attacks on Indians in the US?\n(I) There may be an impact on Indian-US trade policy.\n(II) The Indian Government will coerce the US Government.\n(III) The American Government will give life imprisonment to the accused to make a mark that America is against racism.",
+   "options": [
+    "Only I",
+    "Only I and III",
+    "Only III",
+    "Only I and II",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "Since the US is not taking concrete steps to address the hate crimes, it is plausible this strain spills over into Indian-US trade relations, and that the Indian government would press (coerce) the US government to act - both (I) and (II) follow. Nothing in the passage suggests the American government will hand down life imprisonment to the accused (III) - America has only condemned the attacks in words while taking no action, the opposite of a strong punitive response. Hence only (I) and (II), option (d).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q002",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains17-set1",
+   "question": "Which of the following best substantiates the laxity (negligence) of the Indian and American governments?\n(I) The Modi government has taken serious note of the issue and is ready to reply in the next week of the Parliament session.\n(II) The American Government has condemned the attacks but is not taking any steps to address them.\n(III) There is still no action even as the racist slogan \"Go back to your country\" keeps spreading.",
+   "options": [
+    "Only III",
+    "Only I and II",
+    "All of three",
+    "Only II",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "All three statements point to negligence on both sides: the Indian government's reply is delayed to the following week rather than being immediate (I); the American government condemns the attacks in words but takes no concrete action (II); and the racist slogan keeps spreading unchecked despite this inaction (III). Together, all three substantiate the laxity of both governments, so the answer is (c) All of three.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q003",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains17-set2",
+   "question": "Which of the following members is sitting sixth to the right of the person who is second from the right end of the row?",
+   "options": [
+    "E",
+    "The one whose hobby is acting",
+    "A",
+    "The one whose hobby is cooking",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "The person second from the right end is G (seat 7). Counting six seats further to the right runs past the end of an 8-seat row (seat 7 + 6 = seat 13), so this clue is almost certainly garbled in the memory-based source. Taking the position cyclically (13 mod 8 = seat 5) lands on C, whose hobby is cooking - which matches the book's key answer of (d), the cooking hobbyist. Treat this as a best-effort reconstruction of a likely mistranscribed question rather than a clean derivation.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq",
+    "book-typo-suspect"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q004",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains17-set2",
+   "question": "A is related to B, and F is related to E in the same way. Following the same pattern, the person who likes dancing is related to which of the following?",
+   "options": [
+    "The one whose hobby is acting",
+    "G",
+    "The one whose hobby is cooking",
+    "C",
+    "B"
+   ],
+   "correct": 1,
+   "explanation": "A (seat 1) and B (seat 8) sit at mirror-image positions about the centre of the row (1+8=9); likewise F (seat 3) and E (seat 6) are mirror positions (3+6=9). Applying the same mirror-seat relationship to the dancer, D, at seat 2: the seat mirroring seat 2 is seat 7 (2+7=9), occupied by G. So the dancer relates to G, matching the key.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q005",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains17-set2",
+   "question": "Which of the following combinations is not true?",
+   "options": [
+    "A-Singing",
+    "E-Acting",
+    "G-Watching TV",
+    "B-Playing games",
+    "D-Dancing"
+   ],
+   "correct": 3,
+   "explanation": "From the solved arrangement: A likes singing, E likes acting, G likes watching TV, and D likes dancing - all true. B's hobby is actually chatting, not playing games (playing games is F's hobby), so 'B-Playing games' is the false combination. Hence (d).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q006",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "coding-decoding",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains17-set3",
+   "question": "If A takes 25 minutes to reach the railway station and his train is scheduled at '#&', at what time should he leave to reach the station 5 minutes earlier (than the scheduled departure)?",
+   "options": [
+    "$%",
+    "$&",
+    "&S",
+    "$@",
+    "£$"
+   ],
+   "correct": 3,
+   "explanation": "The train is scheduled at '#&': # = 5 (hour hand -> 5 o'clock) and & = 2 (minute hand -> 2 x 5 = 10 minutes), i.e. 5:10 PM. Leaving to arrive 5 minutes before that means leaving 25 + 5 = 30 minutes before 5:10 PM, i.e. at 4:40 PM. In code: hour hand at 4 = $, minute hand at 40 minutes = 40/5 = 8 = @. So the code is $@, option (d).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q007",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "coding-decoding",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains17-set3",
+   "question": "If a train departed from a station at '&£' and takes 2 hours to reach its destination, when will it reach the destination?",
+   "options": [
+    "$£",
+    "$%",
+    "#$",
+    "$#",
+    "£$"
+   ],
+   "correct": 0,
+   "explanation": "'&£': & = 2 (hour hand -> 2 o'clock) and £ = 3 (minute hand -> 3 x 5 = 15 minutes), i.e. 2:15 PM. Adding 2 hours gives 4:15 PM. In code: hour hand at 4 = $, minute hand at 15 minutes = 15/5 = 3 = £. So the code is $£, option (a).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q008",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "coding-decoding",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains17-set3",
+   "question": "A person has to catch a train scheduled to depart at '@%'. It takes him 4 hours 15 minutes to reach the station from home. At what time should he leave home to arrive at least 25 minutes before the train's departure?",
+   "options": [
+    "%@",
+    "£$",
+    "%+",
+    "+@",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "'@%': @ = 8 (hour hand -> 8 o'clock) and % = 12 (minute hand -> 12 x 5 = 60, i.e. 0 minutes past the hour), i.e. 8:00 PM. Travel time (4h 15m) plus the required 25-minute buffer totals 4 hours 40 minutes, so he must leave 4:40 before 8:00 PM, i.e. at 3:20 PM. In code: hour hand at 3 = £, minute hand at 20 minutes = 20/5 = 4 = $. So the code is £$, option (b).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q009",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 3,
+   "question": "The mushrooming of business schools in the country is a cause for shortage of faculty with a Ph.D. qualification. In addition, the higher pay and generous fringe benefits given by industry have encouraged qualified people to not seek academic positions. Which of the following statements, if true, would tend to STRENGTHEN the argument?",
+   "options": [
+    "The average salary for industry positions in Gujarat is more than the average salary for faculty positions in some business schools in Ahmedabad by around 30%",
+    "The average salary for industry positions in Gujarat is less than the average salary for faculty positions in a top business school in Ahmedabad by around 30%",
+    "The average salary for recent Ph.D. graduates in industry is 20% higher than that in industry",
+    "The rate of growth of salaries for industry positions is equal to the rate of growth of salaries for academic positions for the past three years",
+    "None of the above"
+   ],
+   "correct": 0,
+   "explanation": "Option (a) directly supports the argument's claim that higher industry pay draws qualified people away from academia, by showing industry salaries in Gujarat run about 30% ahead of business-school faculty salaries in Ahmedabad. Option (b) says the opposite (industry pays less there), which would weaken rather than strengthen the argument. Option (c) is garbled in the source (it compares industry pay to itself) and gives no clear support either way. Option (d) says salary growth rates are equal, which does nothing to explain an existing pay gap. Hence (a).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq",
+    "book-typo-suspect"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q010",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 2,
+   "question": "The Government has appealed to all citizens to use potable water judiciously as there is an acute shortage in supply. Excessive use may lead to huge scarcity in future months. Which of the following assumptions is implicit in the above statement? (An assumption is something supposed or taken for granted.)",
+   "options": [
+    "People may ignore the appeal and continue using water as per their own consideration",
+    "The Government may be able to identify those who do not respond to the appeal",
+    "The Government may be able to put in place alternate sources of water in the event of a crisis situation",
+    "A large number of people may positively respond to the Government's appeal and help tide over the crisis",
+    "Only the poor are going to suffer from this shortage of water supply"
+   ],
+   "correct": 3,
+   "explanation": "An appeal only makes sense to issue if the appealer assumes it stands a reasonable chance of working - i.e. the Government implicitly assumes a large number of people will respond positively and help ease the shortage (d). The other options either contradict the very point of making an appeal (a), or introduce unstated enforcement capability (b), alternate supply plans (c), or a narrowed impact to only the poor (e) - none of which the statement takes for granted.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q011",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "input-output",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains17-set4",
+   "question": "Find the sum of the two numbers obtained in Step-III.",
+   "options": [
+    "1.5",
+    "3",
+    "7",
+    "3.5",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "Step-III's two numbers are 1.5 and 2 (see the set context). Their sum is 1.5 + 2 = 3.5.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q012",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "input-output",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains17-set4",
+   "question": "Find the difference between the sum of the numbers obtained in the 1st step and the sum of the numbers obtained in all the other steps.",
+   "options": [
+    "232",
+    "185",
+    "188",
+    "183.5",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "Sum of Step-I's numbers = 86 + 57 + 89 = 232. Sum of all other steps = Step-II (21+22=43) + Step-III (1.5+2=3.5) + Step-IV (0.5) = 47. Required difference = 232 - 47 = 185.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q013",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "input-output",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains17-set4",
+   "question": "Find the multiplication of the numbers obtained in Step-II.",
+   "options": [
+    "426",
+    "462",
+    "188",
+    "98",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "Step-II's numbers are 21 and 22. Their product is 21 x 22 = 462.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q014",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 2,
+   "question": "Statement: Science is a sort of news agency comparable in principle to other news agencies. But this news agency gives us information which is reliable to an extraordinarily high degree due to elaborate techniques of verification and its capacity to survive for centuries. So, science should be read with as much interest as we read news.\nAssumptions:\nI. Science encourages an investigative spirit.\nII. People read news out of interest.",
+   "options": [
+    "If only assumption I is implicit",
+    "If only assumption II is implicit",
+    "If either I or II is implicit",
+    "If neither I nor II is implicit",
+    "Both I and II are implicit"
+   ],
+   "correct": 3,
+   "explanation": "Assumption I (that science encourages an investigative spirit) is not something the statement takes for granted - it is not mentioned or implied anywhere in the argument about reliability and reading interest. Assumption II is also not implicit: the statement recommends reading science with 'as much interest as we read news' - it does not assume people read news purely out of interest, and the conclusion is built as a comparison rather than resting on that assumption. So neither I nor II is implicit, option (d).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q015",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "data-sufficiency-reasoning",
+   "difficulty": 3,
+   "question": "What is the direction of point U with respect to point X?\nStatement I: Point R is 7 m to the North of point Q. Point P is 8 m to the West of point Q. Point R is 6 m to the West of point U.\nStatement II: Point B is 9 m to the North of point A. Point P is 5 m to the North of point Z. Point Z is 4 m to the West of point A.\nStatement III: Point C is 7 m to the East of point A. Point X is 2 m to the East of point F. Point F is 3 m to the North of point C.",
+   "options": [
+    "Both I and III",
+    "Both II and III",
+    "All I, II and III",
+    "II and either I or III",
+    "Even I, II and III together are also not sufficient"
+   ],
+   "correct": 2,
+   "explanation": "Fixing Q at the origin: Statement I places R at (0,7) and P at (-8,0), and (since R is 6 m west of U) U at (6,7). Statement II re-uses the same point P: Z = P - (0,5) = (-8,-5), and since Z is 4 m west of A, A = (-4,-5). Statement III then gives C = A + (7,0) = (3,-5), F = C + (0,3) = (3,-2), and X = F + (2,0) = (5,-2). Only by chaining all three statements together - through the shared points P (linking I and II) and A (linking II and III) - can U's position (6,7) and X's position (5,-2) both be pinned down in the same coordinate system, giving U about 1 m east and 9 m north of X, a well-defined direction. No pair of statements alone connects U to X: I only reaches P, and III only reaches A via II. So all three statements together are required, option (c).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q016",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "data-sufficiency-reasoning",
+   "difficulty": 3,
+   "question": "What does the code 'bp' stand for in the given code language?\nStatement I: In the language, 'black white red' is coded as 'df dc or', and 'green blue grey' is coded as 'st hn wo'.\nStatement II: In the language, 'blue pink brown' is coded as 'er bp hn', and 'pink blue white' is coded as 'hn or bp'.\nStatement III: In the language, 'green violet orange' is coded as 'pa wo kl', and 'yellow pink brown' is coded as 'bp bi er'.",
+   "options": [
+    "Both II and III",
+    "I and either II or III",
+    "II and either I or III",
+    "Both I and III",
+    "All I, II and III"
+   ],
+   "correct": 2,
+   "explanation": "From Statement II alone: comparing 'blue pink brown'->'er bp hn' with 'pink blue white'->'hn or bp', the common words {blue, pink} map to the common codes {hn, bp} (and 'white' must be the leftover code 'or'), but this alone does not say which of hn/bp is blue and which is pink. Adding Statement I: 'green blue grey'->'st hn wo' shares 'blue' with Statement II's first sentence, and the only code common to 'st hn wo' and 'er bp hn' is 'hn' - so blue = hn, forcing pink = bp. Alternatively, adding Statement III instead: 'yellow pink brown'->'bp bi er' shares 'pink, brown' with Statement II's first sentence, and the codes common to both are {bp, er}, so {pink, brown} = {bp, er}; combined with Statement II's own {pink, blue} = {hn, bp}, the only code common to both of pink's possible pairs is 'bp' - so pink = bp again, without Statement I. Statement II is essential either way, and it can be paired with either I or III (I and III alone share only the word 'green' and cannot pin down pink's code). Hence 'II and either I or III', option (c).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q017",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 2,
+   "question": "A very large number of technically qualified young Indians are coming out of colleges every year, though there are not enough opportunities for them to get gainful employment. Which of the following contradicts the views expressed in the above statement?",
+   "options": [
+    "Technically qualified persons are superior to those having standard degrees like B.A./B.Sc./B.Com etc.",
+    "The Government has not done effective perspective planning for engaging technically qualified personnel while authorising the setting up of technical colleges.",
+    "Opportunities are available, but a huge gap exists between the level of competence of technically qualified graduates and the requirements of the industry.",
+    "A majority of technically qualified persons are migrating from India to developed countries for better opportunities.",
+    "None of the above"
+   ],
+   "correct": 2,
+   "explanation": "The original statement claims there simply aren't enough job opportunities for technically qualified graduates. Option (c) contradicts this directly by asserting opportunities do exist, and that the real problem is a skills mismatch (a competence gap) rather than a shortage of opportunities. The other options are consistent with, or unrelated to, the original claim rather than contradicting it.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q018",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains17-set5",
+   "question": "Which of the following pairs of persons are facing each other?",
+   "options": [
+    "BD",
+    "EB",
+    "FH",
+    "DE",
+    "AH"
+   ],
+   "correct": 3,
+   "explanation": "From the solved facing pairs (B-C, F-A, D-E, H-G), D and E face each other. Hence (d).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q019",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains17-set5",
+   "question": "Four of the following five are alike in a certain way and so form a group; which one does not belong to that group?",
+   "options": [
+    "EF",
+    "CH",
+    "DA",
+    "FC",
+    "BH"
+   ],
+   "correct": 4,
+   "explanation": "Each of EF, CH, DA and FC pairs one person from the inner field with one from the outer field (E-outer with F-inner, C-outer with H-inner, D-inner with A-outer, F-inner with C-outer). BH, however, pairs two people who are BOTH on the inner field (B and H are both inner-field gatekeepers), breaking the one-inner-one-outer pattern. Hence (e) does not belong.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q020",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "blood-relations",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains17-set6",
+   "question": "If T is married to Y, then how is T related to R?",
+   "options": [
+    "Grandfather",
+    "Grandmother",
+    "Maternal Grandfather",
+    "Maternal Grandmother",
+    "Either (c) or (d)"
+   ],
+   "correct": 4,
+   "explanation": "R is the child of P and Q's son and U, T's daughter - so T, being U's parent, is R's maternal-side grandparent. Nothing in the clues (including 'T is married to Y') fixes T's own gender, so T could be R's maternal grandfather or maternal grandmother. Hence (e).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q021",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "blood-relations",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-mains17-set6",
+   "question": "How is X related to V?",
+   "options": [
+    "Son",
+    "Daughter",
+    "Son-in-law",
+    "Daughter-in-law",
+    "Husband"
+   ],
+   "correct": 0,
+   "explanation": "X is described as the son of U's brother, and U's brother is V (T's son). So X is V's own son. Hence (a).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q022",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 1,
+   "question": "A statement below is followed by two courses of action, I and II. Assume everything in the statement to be true, and decide which course(s) of action logically follow(s) for pursuing.\nStatement: Every year, at the beginning or end of the monsoon, there are some cases of conjunctivitis, but this year it seems to be a major epidemic, witnessed after nearly four years.\nCourses of action:\nI. Precautionary measures should be taken after every four years to check this epidemic.\nII. People should be advised to wash their eyes with clean water.",
+   "options": [
+    "Only I follows",
+    "Only II follows",
+    "Either I or II follows",
+    "Neither I nor II follows",
+    "Both I and II follow"
+   ],
+   "correct": 1,
+   "explanation": "The disease recurs to some degree at the end of every monsoon, and this year's epidemic happening 'after nearly four years' is simply an observed gap, not evidence of a fixed four-year cycle - so scheduling precautions only once every four years (I) does not sensibly follow. Advising people to wash their eyes with clean water (II) is a straightforward, generally applicable preventive measure for conjunctivitis and follows directly. Hence only II follows, option (b).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q023",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 1,
+   "question": "A statement below is followed by two courses of action, I and II. Assume everything in the statement to be true, and decide which course(s) of action logically follow(s) for pursuing.\nStatement: Researchers are feeling agitated as libraries are not equipped to provide the right information to the right users at the right time in the required format. Even the users are not aware of the various services available to them.\nCourses of action:\nI. All the information available in the libraries should be computerised to provide faster services to users.\nII. Library staff should be trained in computer operations.",
+   "options": [
+    "Only I follows",
+    "Only II follows",
+    "Either I or II follows",
+    "Neither I nor II follows",
+    "Both I and II follow"
+   ],
+   "correct": 4,
+   "explanation": "Both courses of action directly address the two problems named in the statement: computerising library information (I) would let libraries deliver the right information faster, and training staff in computer operations (II) is a necessary enabling step for that same computerisation to actually work and for staff to better inform users of the available services. Both follow, option (e).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q024",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains17-set7",
+   "question": "Who among the following lecturers gives lecture on 21st June?",
+   "options": [
+    "T",
+    "P",
+    "Y",
+    "V",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "From the fully solved schedule, 21st June is Y's slot (attended by 68 students). Hence the answer is Y.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q025",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-mains17-set7",
+   "question": "Which among the following is the number of students who attend class on 7th December?",
+   "options": [
+    "67",
+    "80",
+    "68",
+    "77",
+    "55"
+   ],
+   "correct": 3,
+   "explanation": "7th December is S's slot. December has 31 days so attendance must be odd, and the clue requires it to be a multiple of 11 - both point to 77 (= 7 x 11), matching the solved schedule.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q026",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains17-set7",
+   "question": "How many lecturers give lectures between P and Q?",
+   "options": [
+    "Three",
+    "Two",
+    "Four",
+    "One",
+    "None"
+   ],
+   "correct": 0,
+   "explanation": "The chronological order of the ten slots is R (Apr 7), U (Apr 21), P (May 7), V (May 21), T (Jun 7), Y (Jun 21), Q (Sep 7), X (Sep 21), S (Dec 7), W (Dec 21). P is the 3rd slot and Q is the 7th, so V, T and Y - three lecturers - fall between them.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q027",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-mains17-set7",
+   "question": "Who among the following gives lecture which is attended by 80 students?",
+   "options": [
+    "S",
+    "T",
+    "R",
+    "U",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "From the solved schedule, T's lecture (7th June) is attended by 80 students.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q028",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains17-set7",
+   "question": "Four of the following five are alike in a certain way and hence they form a group. Which one of the following does not belong to that group?",
+   "options": [
+    "R",
+    "67",
+    "V",
+    "T",
+    "64"
+   ],
+   "correct": 2,
+   "explanation": "R (April 7), T (June 7), 67 (the attendance figure tied to P's May 7 lecture) and 64 (the attendance figure tied to Q's September 7 lecture) are all linked to a lecture held on the 7th of a month. V is the odd one out because V's own lecture falls on 21st May, a 21st-date slot, not a 7th-date one.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q029",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "alphanumeric-series",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains17-set8",
+   "question": "Which is the second letter of the word formed by the letters against numbers 6, 12, 14, and 20?",
+   "options": [
+    "T",
+    "D",
+    "N",
+    "I",
+    "R"
+   ],
+   "correct": 3,
+   "explanation": "Numbers 6, 12, 14 and 20 carry the letters I, D, T and R respectively. Rearranged, these four letters spell the word DIRT, whose second letter is I.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q030",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "alphanumeric-series",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains17-set8",
+   "question": "If there are 3 alphabets in the English alphabetical series between the alphabets written against numbers 10 and 22, then how many alphabets in the English alphabetical series are there between the alphabets written against numbers 18 and 22?",
+   "options": [
+    "Three",
+    "Five",
+    "One",
+    "Four",
+    "Cannot be determined"
+   ],
+   "correct": 2,
+   "explanation": "Number 10 carries P. Three letters away from P alphabetically lands on T (going forward through Q, R, S) or on L (going backward through O, N, M). Since T is already used against number 14 and no letter repeats, the letter against 22 must be L. Number 18 carries N, and between N and L in the English alphabet lies only M - so the answer is One.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q031",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 2,
+   "question": "The rate of violent crime in this state has increased by up to 30% from last year. The fault lies entirely in our system of justice. Recently our judges' sentences have been so lenient that criminals can now do almost anything without fear of a long prison term. The argument above would be weakened if it were true that",
+   "options": [
+    "85% of the other states in the nation have lower crime rates than does this state",
+    "White-collar crime in this state has also increased by over 25% in the last year",
+    "35% of the police in this state have been laid off in the last year due to budget cuts",
+    "Polls show that 65% of the population in this state opposes capital punishment",
+    "None of the above"
+   ],
+   "correct": 2,
+   "explanation": "The argument blames lenient judicial sentencing entirely for the rise in violent crime. If 35% of the police force was laid off due to budget cuts, that offers an alternative explanation (reduced law enforcement) for the crime increase, weakening the claim that leniency in sentencing is the sole cause.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q032",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains17-set9",
+   "question": "How many more photo frames can row 2 adjust (accommodate)?",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "None",
+    "4"
+   ],
+   "correct": 2,
+   "explanation": "Row 2's five shelves (silver 36 + black 42 + orange 51 + green 39 + blue 63 cm) currently total 231 cm, but row 2's stated length is 249 cm, leaving 18 cm of unused space. At 6 cm per photo frame, that is room for exactly 3 more photo frames.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q033",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains17-set9",
+   "question": "The colour of shelf 2 is?",
+   "options": [
+    "Cannot be determined",
+    "Violet",
+    "Red",
+    "White",
+    "Pink"
+   ],
+   "correct": 4,
+   "explanation": "Following the forced position chain (yellow=1, silver=6, green=9, blue=10, orange=8, white=3, red=5, black=7), the only shelves left are 2 and 4 for pink and violet; since pink sits just below black (shelf 7), pink = shelf 2.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q034",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains17-set9",
+   "question": "How many total glass slabs do the silver, black and red shelves contain?",
+   "options": [
+    "7",
+    "9",
+    "10",
+    "Other than those given in options",
+    "12"
+   ],
+   "correct": 1,
+   "explanation": "Silver has 2 glass slabs, black has 2 (equal to its photo-frame count), and red has 5 (satisfying the 'four or more' condition). Together: 2 + 2 + 5 = 9.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q035",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains17-set9",
+   "question": "What is the total length of the pink, orange and blue shelves?",
+   "options": [
+    "146 cm",
+    "134 cm",
+    "141 cm",
+    "133 cm",
+    "126 cm"
+   ],
+   "correct": 2,
+   "explanation": "Pink = 27 cm, orange = 51 cm (24 cm more than pink) and blue = 63 cm. Total = 27 + 51 + 63 = 141 cm.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q036",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains17-set9",
+   "question": "If all the photo frames of the silver and white shelves are removed and added to the black shelf, then what will be the total length of the black shelf now?",
+   "options": [
+    "67 cm",
+    "66 cm",
+    "61 cm",
+    "69 cm",
+    "62 cm"
+   ],
+   "correct": 1,
+   "explanation": "Silver has 1 photo frame and white (shelf 3) has 3, so 4 photo frames move onto black. Black already holds 2 glass slabs and 2 photo frames; adding 4 more frames makes it 2 glass slabs and 6 photo frames, i.e. 15(2) + 6(6) = 30 + 36 = 66 cm.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q037",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 2,
+   "question": "During the SARS days, about 23,500 doctors who had treated SARS sufferers died, and about 23,670 doctors who had not engaged in treatment for SARS sufferers died. On the basis of these figures, it can be concluded that it was not much more dangerous to participate in SARS treatment during the SARS days than it was not to participate in SARS treatment. Which of the following would reveal most clearly the absurdity of the conclusion drawn above?",
+   "options": [
+    "Counting deaths among doctors who had participated in SARS treatment in addition to deaths among doctors who had not participated in SARS treatment",
+    "Expressing the difference between the numbers of deaths among doctors who had treated SARS sufferers and doctors who had not treated SARS sufferers as a percentage of the total number of deaths",
+    "Separating deaths caused by accidents during the treatment of SARS sufferers from deaths caused by infection from SARS sufferers",
+    "Comparing death rates per thousand members of each group rather than comparing total numbers of deaths",
+    "None of the above"
+   ],
+   "correct": 3,
+   "explanation": "The flaw in the original conclusion is that it compares raw death totals from two groups without knowing how large each group is. If, say, far fewer doctors treated SARS patients than did not, a near-equal death count would actually mean treating SARS patients was vastly more dangerous per capita. Comparing death rates per thousand doctors in each group, rather than total deaths, exposes this flaw, making option (d) correct.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q038",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 2,
+   "question": "Following are the conditions for selecting a Marketing Manager in an organization. The candidate must - (i) be a graduate in any discipline with at least 55% marks; (ii) have secured at least 40% marks in the selection interview; (iii) have post-qualification work experience of at least five years in the marketing division of an organization; (iv) have secured at least 45% marks in the selection examination; (v) have a post-graduate degree/diploma in Marketing Management with at least 60% marks. Which of the following pieces of information shows that the candidate is not selected?",
+   "options": [
+    "Candidate is the daughter of a renowned freedom fighter from another state.",
+    "Candidate has a post-graduate degree in Finance with 60% marks.",
+    "Candidate has completed her graduation with 80% marks.",
+    "Candidate does not own a house in Noida.",
+    "Candidate has secured 56% marks in Cap Gemini's interview."
+   ],
+   "correct": 1,
+   "explanation": "Condition (v) specifically requires a post-graduate degree/diploma in Marketing Management (not any post-graduate field) with at least 60% marks. A candidate holding a post-graduate degree in Finance - even with 60% marks - fails this condition on subject-matter grounds, so the candidate is not selected. The other options either satisfy a condition (80% graduation marks satisfies condition (i); 56% interview marks satisfies condition (ii)) or are irrelevant to any of the five conditions (freedom-fighter parentage, house ownership in Noida).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q039",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 2,
+   "question": "Quantity I: Number of ways of arranging 5 men and 5 women such that no two men or two women sit adjacent to each other.\nQuantity II: Number of ways of arranging 5 men and 5 women such that all men sit together.",
+   "options": [
+    "Quantity I > Quantity II",
+    "Quantity I < Quantity II",
+    "Quantity I >= Quantity II",
+    "Quantity I <= Quantity II",
+    "Quantity I = Quantity II or no relation"
+   ],
+   "correct": 1,
+   "explanation": "Quantity I: to keep no two men and no two women adjacent, men and women must alternate; the M/W pattern can start with either a man or a woman (2 ways), and within that the 5 men and 5 women can each be permuted in 5! ways, so Quantity I = 2 x 5! x 5! = 2 x 120 x 120 = 28800. Quantity II: treating all 5 men as a single block, the block plus the 5 women can be arranged in 6! ways, and the men inside the block in 5! ways, so Quantity II = 6! x 5! = 720 x 120 = 86400. Since 28800 < 86400, Quantity I < Quantity II.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q040",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 2,
+   "question": "Quantity I: Value of 'a', given that angle s is an acute angle and PR is parallel to QT (the accompanying figure marks one angle as (a + 40) degrees and an adjacent angle as a degrees, with s being the third angle in the same figure).\nQuantity II: 25 degrees.",
+   "options": [
+    "Quantity I > Quantity II",
+    "Quantity I < Quantity II",
+    "Quantity I >= Quantity II",
+    "Quantity I <= Quantity II",
+    "Quantity I = Quantity II or no relation"
+   ],
+   "correct": 1,
+   "explanation": "Per the answer key, since angle s is acute, (a + 40) + a < 90, i.e. 2a + 40 < 90, so 2a < 50 and a < 25 degrees. Hence Quantity I (the value of a) is always less than Quantity II (25 degrees), so Quantity I < Quantity II. Note: the original geometric figure showing exactly how the (a+40) and a angles relate to angle s and the parallel lines PR and QT is not reproduced in the source text; the inequality (a+40)+a<90 is taken directly from the book's answer key and used as given.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q041",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 3,
+   "question": "There are 63 cards in a box, numbered from 1 to 63; every card has only one number.\nQuantity I: Probability of picking a card whose digits, if interchanged, result in a number which is 36 more than the number picked up.\nQuantity II: Probability of picking a card whose printed number is a multiple of 8 but not a multiple of 16.",
+   "options": [
+    "Quantity I > Quantity II",
+    "Quantity I < Quantity II",
+    "Quantity I >= Quantity II",
+    "Quantity I <= Quantity II",
+    "Quantity I = Quantity II or no relation"
+   ],
+   "correct": 0,
+   "explanation": "Quantity I: writing the number as 10x+y, interchanging digits gives 10y+x = (10x+y)+36, so y-x=4. The qualifying numbers from 1-63 are 04, 15, 26, 37, 48 and 59 - six numbers - so the probability is 6/63. Quantity II: multiples of 8 up to 63 are 8, 16, 24, 32, 40, 48, 56; removing the multiples of 16 (16, 32, 48) leaves 8, 24, 40, 56 - four numbers - so the probability is 4/63. Since 6/63 > 4/63, Quantity I > Quantity II.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q042",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "data-sufficiency-reasoning",
+   "difficulty": 2,
+   "question": "If m and n are integers, is n completely divisible by 10?\nA. The value of (m/10 + n/10) is an integer.\nB. The value of (m/7 + n/10) is an integer.\nC. The value of n is greater than m.",
+   "options": [
+    "Only A is sufficient",
+    "Only B is sufficient",
+    "Only C is sufficient",
+    "Any two of them are sufficient",
+    "Data is not sufficient and it requires more information to answer the given question"
+   ],
+   "correct": 1,
+   "explanation": "From A: m+n = 10k for some integer k - this only fixes m+n as a multiple of 10, not n itself (e.g. m=3, n=7 gives m+n=10 but n is not divisible by 10), so A alone is not sufficient. From B: multiplying by 70, 10m+7n = 70l, so 10m = 7(10l-n), which forces m to be a multiple of 7 (since 10 and 7 are coprime); writing m=7p then gives 7n = 70l-70p, i.e. n=10(l-p), so n must be divisible by 10 - B alone is sufficient. From C: knowing only that n > m tells us nothing about divisibility. Hence only statement B is sufficient.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q043",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "boats-streams",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains17-set10",
+   "question": "If the time taken by the boat to travel upstream on Thursday is equal to the time taken by it to travel downstream on Monday, and the speed of the boat in still water on Monday is 16 kmph, then find the speed of the boat in still water on Thursday.",
+   "options": [
+    "16.2 kmph",
+    "17.2 kmph",
+    "15.4 kmph",
+    "12.5 kmph",
+    "18.2 kmph"
+   ],
+   "correct": 1,
+   "explanation": "Upstream distance on Thursday = 12% of 1800 = 216 km; stream speed on Thursday = 1 km/hr, so time = 216/(x-1), where x is the boat's still-water speed on Thursday. Downstream distance on Monday = 16% of 1500 = 240 km; still-water speed on Monday = 16, stream speed = 2, so time = 240/(16+2) = 240/18. Equating the two times: 216/(x-1) = 240/18, so x - 1 = 216x18/240 = 16.2, giving x = 17.2 kmph.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q044",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "boats-streams",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains17-set10",
+   "question": "If the time taken by the boat to travel upstream on Monday is 45/11 hrs more than the time taken by it to travel downstream on the same day, then find the speed of the boat in still water on Monday.",
+   "options": [
+    "22 kmph",
+    "18 kmph",
+    "20 kmph",
+    "19 kmph",
+    "24 kmph"
+   ],
+   "correct": 2,
+   "explanation": "Upstream distance on Monday = 15% of 1800 = 270 km; downstream distance on Monday = 16% of 1500 = 240 km; stream speed on Monday = 2 km/hr. Let the still-water speed be x. Then 270/(x-2) = 45/11 + 240/(x+2). Testing x = 20: 270/18 = 15 and 240/22 = 10.909..., and 15 - 10.909 = 4.09 = 45/11, which satisfies the equation. So x = 20 kmph.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q045",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "boats-streams",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains17-set10",
+   "question": "If the speed of the boat in still water on Tuesday was 15 km/hr and the speed of the boat in still water on Wednesday was 66 2/3% more than that of Tuesday, and the time taken to travel upstream on Wednesday is 9/10 times the time taken to travel downstream on Tuesday, then find the speed of the stream (in kmph) on Wednesday.",
+   "options": [
+    "1.5",
+    "2.5",
+    "2",
+    "1",
+    "0.5 km/hr"
+   ],
+   "correct": 3,
+   "explanation": "Upstream distance on Wednesday = 14% of 1800 = 252 km. Downstream distance on Tuesday = 14% of 1500 = 210 km; still-water speed on Tuesday = 15, stream speed on Tuesday = 3, so time downstream on Tuesday = 210/18 = 35/3 hrs. Still-water speed on Wednesday = 15 x 5/3 = 25 kmph. Let the stream speed on Wednesday be x. Time upstream on Wednesday = 252/(25-x) = (9/10) x (35/3) = 21/2. So 25 - x = 252/(21/2) = 24, giving x = 1 km/hr.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q046",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "boats-streams",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains17-set10",
+   "question": "The speed of the boat in still water on Saturday was 21 km/hr, and that on Sunday was 28 4/7% less than that on Saturday. If the time taken by the boat to travel upstream on Saturday is 1 3/16 times the time taken to travel downstream on Sunday, then find the time taken by the boat to cover a distance of 57.6 km upstream when the speed of the stream is the same as that of Saturday.",
+   "options": [
+    "3 hrs.",
+    "2 hrs.",
+    "4 hrs.",
+    "2.5 hrs.",
+    "3.5 hrs."
+   ],
+   "correct": 0,
+   "explanation": "28 4/7% = 2/7, so still-water speed on Sunday = 21 x 5/7 = 15 kmph. Upstream distance on Saturday = 10% of 1800 = 180 km; downstream distance on Sunday = 10% of 1500 = 150 km; stream speed on Sunday = 4. Time downstream on Sunday = 150/(15+4) = 150/19. Let the stream speed on Saturday be x. Time upstream on Saturday = 180/(21-x) = (19/16) x (150/19) = 150/16 = 9.375. So 21 - x = 180/9.375 = 19.2, giving x = 1.8 km/hr. Required time = 57.6/(21-1.8) = 57.6/19.2 = 3 hrs.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q047",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "boats-streams",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains17-set10",
+   "question": "If the time taken by the boat to travel upstream on Sunday is 2 hours more than the time taken by it to travel downstream on Thursday, and the speed of the boat in still water on Thursday is 17 kmph, then find the upstream speed of the boat on Sunday.",
+   "options": [
+    "27 kmph",
+    "22 kmph",
+    "20 kmph",
+    "25 kmph",
+    "23 kmph"
+   ],
+   "correct": 0,
+   "explanation": "Upstream distance on Sunday = 18% of 1800 = 324 km; stream speed on Sunday = 4. Downstream distance on Thursday = 12% of 1500 = 180 km; still-water speed on Thursday = 17, stream speed = 1, so time downstream on Thursday = 180/18 = 10 hrs. Let the still-water speed on Sunday be x. Time upstream on Sunday = 324/(x-4) = 2 + 10 = 12, so x - 4 = 27, giving x = 31 kmph. Upstream speed = x - 4 = 27 kmph.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q048",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "probability",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains17-set11",
+   "question": "If x number of yellow balls from bag B are taken and placed into bag A, and 20% of the black balls from bag A are taken and placed into bag B, then the probability that a ball picked at random from bag B is black becomes 11/26. Find the value of x.",
+   "options": [
+    "5",
+    "6",
+    "3",
+    "2",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "20% of bag A's 25 black balls = 5 balls move to bag B, so bag B's black balls become 28 + 5 = 33, and bag B's total becomes (75 - x) + 5 = 80 - x. So 33/(80-x) = 11/26. Cross-multiplying: 33 x 26 = 11 x (80-x), i.e. 858 = 880 - 11x, giving 11x = 22, so x = 2.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q049",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "probability",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains17-set11",
+   "question": "If one ball is picked at random from each of bag A and bag B, find the probability that both balls are of the same colour.",
+   "options": [
+    "(21x47)/(65x75)",
+    "(22x43)/(65x75)",
+    "(11x17)/(65x75)",
+    "Can't be determined",
+    "None of these"
+   ],
+   "correct": 4,
+   "explanation": "Required probability = P(both yellow) + P(both green) + P(both black) = (18/65 x 22/75) + (22/65 x 25/75) + (25/65 x 28/75) = (18x22 + 22x25 + 25x28)/(65x75) = (396+550+700)/(65x75) = 1646/(65x75). This numerator (1646) does not match 21x47=987, 22x43=946, or 11x17=187, so none of the numeric options are correct - the answer is None of these.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q050",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "probability",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains17-set11",
+   "question": "The difference between the number of green balls in bag A and bag C is how much percent more/less than the sum of the number of black balls in bag A and bag C together?",
+   "options": [
+    "100%",
+    "95%",
+    "97.5%",
+    "102.5%",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "Green balls: A = 22, C = 21, so the difference = 1. Black balls: A = 25, C = 15, so the sum = 40. Required % = (40-1)/40 x 100 = 39/40 x 100 = 97.5% (the difference of green balls, 1, is 97.5% less than the sum of black balls, 40).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q051",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "caselet-di",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains17-set12",
+   "question": "If the profit percentage of seller A after selling item II is s% and that of seller C for the same item is (2s-4)%, and the ratio of the cost price of item II by seller A and seller C is 17:21, then find the value of s.",
+   "options": [
+    "2",
+    "3",
+    "4",
+    "5",
+    "2"
+   ],
+   "correct": 2,
+   "explanation": "Selling price of item II: seller A = 68% of the marked price (32% discount), seller C = 84% of the marked price (16% discount). Since CP = SP/(1+profit%/100), CP_A/CP_C = [68/(1+s/100)] / [84/(1+(2s-4)/100)] = 17/21. As 68/84 = 17/21, this reduces to (100+2s-4)/(100+s) = 1, i.e. 96+2s = 100+s, giving s = 4.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q052",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "caselet-di",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains17-set12",
+   "question": "For seller D, the difference between the selling price of item II and that of item III is Rs. 420. If the sum of the marked price of item II and item III by the same seller is Rs. 6000, then the marked price of item II is what percent more/less than that of item III by the same seller? (Selling price of item II is greater than that of item III.)",
+   "options": [
+    "50%",
+    "40%",
+    "30%",
+    "35%",
+    "45%"
+   ],
+   "correct": 1,
+   "explanation": "Let marked price of item II = 100x and item III = 100y, so x+y = 60. Seller D's discounts are 28% (item II) and 16% (item III), so SP_II - SP_III = 72x - 84y = 420, i.e. 6x - 7y = 35. Solving the two equations gives y = 25, x = 35, so MP of item II = 3500 and MP of item III = 2500. Required % = (3500-2500)/2500 x 100 = 40%.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q053",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "caselet-di",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains17-set12",
+   "question": "Average selling price of item II of sellers A and B is Rs. 3888, and that of sellers B and C is Rs. 4320. Find the selling price (in Rs.) of item III of seller C.",
+   "options": [
+    "4536",
+    "3656",
+    "5430",
+    "4150",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "Let MP of item II = 100a. SP of item II: A = 68a (32% discount), C = 84a (16% discount), and B = (100-d)a for unknown discount d. Given SP_A+SP_B=7776 and SP_B+SP_C=8640: (168-d)a=7776 and (184-d)a=8640. Subtracting gives 16a=864, so a=54, and then d=24. SP of item II by seller C = 84x54 = 4536. Note: the question text asks for 'item III' but the two given averages are both item-II figures, and the answer key's derivation (matching option (a)) computes the SP of item II by seller C - most likely 'item III' here is a typo for 'item II' in the source; the key's answer is kept.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq",
+    "book-typo-suspect"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q054",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "caselet-di",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains17-set12",
+   "question": "If the selling prices of item I and item III of seller E are in the ratio 5:6, and the seller earned a profit of 25% (which is Rs. 750) on item I and 20% on item III, then find the total profit (in Rs.) by selling item I and item III together by the same seller.",
+   "options": [
+    "750",
+    "2000",
+    "1750",
+    "1250",
+    "1500"
+   ],
+   "correct": 4,
+   "explanation": "Let SP of item I = 500 and SP of item III = 600 (ratio 5:6). CP of item I = 500/1.25 = 400, so profit (in these units) = 100. CP of item III = 600/1.2 = 500, so profit (in these units) = 100. Since the actual profit on item I is Rs. 750 for these 100 units, 1 unit = Rs. 7.5. Total profit = (100+100) x 7.5 = Rs. 1500.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q055",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "caselet-di",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains17-set12",
+   "question": "The cost price of item III is Rs. 60 for all of the sellers, and all of them marked the same product at 66 2/3% higher than the cost price. To get a total profit of Rs. 80 for all five sellers combined after selling item III, what is the minimum discount that should be provided by seller E on the marked price of item III?",
+   "options": [
+    "21%",
+    "19%",
+    "17%",
+    "25%",
+    "27%"
+   ],
+   "correct": 0,
+   "explanation": "Marked price of item III = 60 x 5/3 = 100 for every seller. Total cost price for 5 sellers = 60x5 = 300, so total selling price needed for a total profit of Rs. 80 = 380. Selling price of item III: A (36% discount) = 64, B (33%) = 67, C (14%) = 86, D (16%) = 84; their sum = 301. So the SP needed from E = 380-301 = 79, meaning E's discount = 100-79 = 21%.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q056",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "partnership",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains17-set13",
+   "question": "If they had invested the additional amount at the end of each quarter in the same ratio as they had invested after the end of the first quarter (i.e. 2:5:3 throughout), find B's profit at the end of the year if the total profit is Rs. 125000.",
+   "options": [
+    "75000 Rs.",
+    "62500 Rs.",
+    "125000 Rs.",
+    "37500 Rs.",
+    "65000 Rs."
+   ],
+   "correct": 1,
+   "explanation": "A's and C's initial investments sum to B's: 900+700=1600. If every additional investment also follows the ratio 2:5:3 (note 2+3=5), then at every point in time B's cumulative investment equals A's plus C's cumulative investment (adding 2k,5k,3k to amounts where B=A+C keeps B=A+C true by induction). So B's investment-time product always equals (A+C)'s, meaning B's profit share equals (A+C)'s share, i.e. half the total profit. B's profit = 125000/2 = Rs. 62500.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q057",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "partnership",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains17-set13",
+   "question": "If the sum of the total amount invested by A and B in the year is Rs. 9000, and that of B and C is Rs. 10500, then find the total additional amount invested by all of them together at the start of the 2nd quarter.",
+   "options": [
+    "16500 Rs.",
+    "17000 Rs.",
+    "17500 Rs.",
+    "18500 Rs.",
+    "18000 Rs."
+   ],
+   "correct": 1,
+   "explanation": "Let the additional investments after quarters 1, 2 and 3 be (2x,5x,3x), (4y,3y,4y) and (7z,6z,7z) for A,B,C. By year end, A's total = 900+2x+4y+7z, B's total = 1600+5x+3y+6z, C's total = 700+3x+4y+7z. So A+B = 2500+7x+7y+13z = 9000 ...(i), and B+C = 2300+8x+7y+13z = 10500 ...(ii). Subtracting (i) from (ii): -200+x = 1500, so x = 1700. The additional amount invested by all three at the start of the 2nd quarter (ratio 2:5:3) = (2+5+3)x = 10x = 17000.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q058",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "trains",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains17-set14",
+   "question": "Calculate the difference between the original time taken (as given above) for train A and train B to meet, and the time train B would take to catch up with train A if train A had instead started in the same direction as train B, with train B starting 2 hours after train A while both travelled in that same direction.",
+   "options": [
+    "45 hrs. 40 min.",
+    "24 hrs. 20 min.",
+    "55 hrs. 30 min.",
+    "49 hrs. 45 min.",
+    "48 hrs. 45 min."
+   ],
+   "correct": 3,
+   "explanation": "Original (opposite-direction) meeting: in the first half hour before B starts, A alone covers 54x1/2=27 km; after B starts, the gap (x-27) closes at the combined speed 54+66=120 kmph. Since they meet at 2:35 pm (4 hr 50 min = 29/6 hr after A's 9:45 am start), PQ = 27 + 120x(29/6-1/2) = 27+120x(13/3) = 27+520 = 547 km, and the total elapsed time is 29/6 hr.\n\nSame-direction scenario: A gets a 2-hour head start, covering 2x54=108 km before B starts from station Q (547 km away), chasing in the same direction. The effective gap B must close = 547+108 = 655 km, at relative speed 66-54=12 kmph, taking 655/12 hours.\n\nRequired difference = 655/12 - 29/6 = 655/12 - 58/12 = 597/12 = 49.75 hr = 49 hrs 45 min.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q059",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "trains",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains17-set14",
+   "question": "What is the ratio of the relative speed of the two trains while travelling in the same direction to their relative speed while travelling in opposite directions?",
+   "options": [
+    "10:1",
+    "9:2",
+    "1:10",
+    "10:3",
+    "1:12"
+   ],
+   "correct": 2,
+   "explanation": "Relative speed in the same direction = 66-54 = 12 kmph. Relative speed in opposite directions = 66+54 = 120 kmph. Required ratio = 12:120 = 1:10.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q060",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "partnership",
+   "difficulty": 3,
+   "question": "A, B and C entered into a partnership. A invested Rs. 3000 at the start. B invested 33 1/3% more than A, and C invested the average of A's and B's investments. After 4 months, A withdrew 40% of his amount, B doubled his amount, and C increased his amount by 20%. After another 5 months, B left the partnership, A doubled his amount, and C maintained his amount. The profit at the end of the year was Rs. 677000, shared in the ratio of investment x time.\nQuantity I: Profit earned by C.\nQuantity II: Average of the profits earned by A, B and C together.",
+   "options": [
+    "Quantity I > Quantity II",
+    "Quantity I < Quantity II",
+    "Quantity I >= Quantity II",
+    "Quantity I <= Quantity II",
+    "Quantity I = Quantity II or no relation"
+   ],
+   "correct": 0,
+   "explanation": "Investments: A=3000, B=3000x4/3=4000, C=average(3000,4000)=3500.\nMonths 1-4: A=3000, B=4000, C=3500. After 4 months: A=3000x0.6=1800, B=4000x2=8000, C=3500x1.2=4200 (held for the next 5 months). After 9 months, B leaves; A=1800x2=3600, C stays 4200 (for the final 3 months).\nInvestment x time: A = 3000x4+1800x5+3600x3 = 12000+9000+10800=31800; B=4000x4+8000x5=16000+40000=56000; C=3500x4+4200x5+4200x3=14000+21000+12600=47600.\nRatio A:B:C = 31800:56000:47600 = 159:280:238 (sum=677). Profit of C = (238/677)x677000 = 238000. Average profit of A,B,C = 677000/3 = 225666.67. Since 238000 > 225666.67, Quantity I > Quantity II.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q061",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "time-work",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains17-set15",
+   "question": "Find the value of x.",
+   "options": [
+    "66 2/3",
+    "33 1/3",
+    "16 2/3",
+    "14 2/7",
+    "37 1/2"
+   ],
+   "correct": 1,
+   "explanation": "Let C's one-day work = 4y and D's one-day work = 5y. A 2-day (C then D) cycle does 9y of work. In 44 days (22 cycles), 198y is done; the remaining half-day (C's turn) needs 1/18 of the whole work, i.e. 2y, so 200y=1, y=1/200. Hence C alone takes 200y/4y = 50 days and D alone takes 40 days, so together C and D take (50x40)/90 = 200/9 days for the whole work.\nA works for 22 2/9 = 200/9 days, then B takes over and finishes the rest in another 200/9 days (equal to C&D's combined whole-work time). So (200/9)(1/x) + (200/9)(1/2x) = 1, i.e. (200/9x)x(3/2)=1, giving x = 300/9 = 100/3 = 33 1/3 days.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q062",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "time-work",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains17-set15",
+   "question": "E and F work together for 24 days on a job; they are then replaced by A and B respectively, who complete the remaining work in 20 days. The efficiency of E and F is in the ratio 5:4. If E and F together (each working at their own pace) were to complete the whole job, find the difference between the fraction of work done by E and the fraction of work done by F.",
+   "options": [
+    "1/9",
+    "1/7",
+    "2/7",
+    "1/3",
+    "3/4"
+   ],
+   "correct": 0,
+   "explanation": "Since the efficiency ratio E:F is 5:4, their time ratio is 4:5; let E's time = 4n days and F's time = 5n days. Using x=100/3 (A's time) and 2x=200/3 (B's time) from the previous question: 24/(4n) + 24/(5n) + 20/(100/3) + 20/(200/3) = 1. This gives 24x9/(20n) = 1 - 0.9 = 0.1, so n=108. Hence E's time = 432 days and F's time = 540 days.\nWorking together, E and F complete the whole job in (432x540)/(432+540) = 240 days. In that joint 240-day effort, E's share of the work = 240/432 = 5/9 and F's share = 240/540 = 4/9. Required difference = 5/9 - 4/9 = 1/9.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q063",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "time-work",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains17-set16",
+   "question": "A and C worked on job Y, working on alternate days, for 10 days (5 days each). B and D then worked together for 'x' days. If 1/36 of the job still remained, find the value of x.",
+   "options": [
+    "2 days",
+    "1 1/4 days",
+    "1 1/3 days",
+    "1 1/7 days",
+    "1 day"
+   ],
+   "correct": 4,
+   "explanation": "In 10 alternating days, A and C each work 5 days: A does 5/10=1/2 and C does 5/15=1/3, together 5/6 of the job. B and D then work together for x days, doing x/12+x/18=5x/36 more. Since 1/36 of the job remains: 5/6 + 5x/36 = 1 - 1/36 = 35/36. So 5x/36 = 35/36 - 30/36 = 5/36, giving x=1 day.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q064",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "time-work",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains17-set16",
+   "question": "E worked on job Z for 5 days, and the remaining job was completed by A, B and D, who worked on alternate days starting with A, followed by B, then D, in that order. Find the number of days for which B worked.",
+   "options": [
+    "2",
+    "4",
+    "9",
+    "3",
+    "5"
+   ],
+   "correct": 3,
+   "explanation": "E's 5 days complete 5/20=1/4 of the job, leaving 3/4. Each 3-day (A,B,D) cycle does 1/10+1/12+1/18=43/180. Three cycles (9 days) do 3x43/180=129/180. Remaining work = 3/4-129/180 = 135/180-129/180=6/180=1/30, which A (whose turn is next) finishes in (1/30)x10=1/3 of a day. So the job completes 9 1/3 days in, during which B (2nd in each 3-day cycle) worked on days 2, 5 and 8 - a total of 3 days.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q065",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "time-work",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains17-set16",
+   "question": "If A, C and E worked on job Z for 2 days each, and the remaining job was done by B and D whose number of days worked is in the ratio 20:21, find the number of days for which B worked.",
+   "options": [
+    "50 days",
+    "4 1/2 days",
+    "5 1/2 days",
+    "4 days",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "A, C and E's 2 days each contribute 2/10+2/15+2/20 = 12/60+8/60+6/60=26/60=13/30, leaving 17/30. Let B and D work 20k and 21k days respectively: 20k/12+21k/18=17/30. Over a common denominator of 36: (60k+42k)/36=17/30, i.e. 102k=17x36/30, giving k=6/30=1/5. So B worked 20x(1/5)=4 days.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q066",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "time-work",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains17-set16",
+   "question": "If the ratio of the number of days for which B and D worked on job X is 4:3, then find the difference between the number of days for which B and D worked.",
+   "options": [
+    "2",
+    "3",
+    "1",
+    "4",
+    "5"
+   ],
+   "correct": 2,
+   "explanation": "A worked 2 days, C worked 3 days and E worked 2 days on job X (from the table). Let B work 4k and D work 3k days. Then 2/10+4k/12+3/15+3k/18+2/20=1 (whole job X done). This gives 1/5+k/3+1/5+k/6+1/10=1, i.e. (6+10k+6+5k+3)/30=1, so 15k+15=30, giving k=1. So B worked 4 days and D worked 3 days; the difference = 4-3 = 1.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q067",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "time-work",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains17-set16",
+   "question": "If C worked on job Y with 5/4 times his given efficiency and was assisted by B every 3rd day, then find the time taken by C to complete job Y.",
+   "options": [
+    "13 days",
+    "12 1/6 days",
+    "13 1/2 days",
+    "9 days",
+    "12 days"
+   ],
+   "correct": 3,
+   "explanation": "At 5/4 times his usual efficiency, C's new rate = (5/4)x(1/15)=1/12, so C alone would now finish the job in 12 days. With B assisting every 3rd day, each 3-day cycle consists of 3 days of C's work (3x1/12=1/4) plus 1 day of B's work (1/12): total per cycle = 1/4+1/12=1/3. Three such cycles (9 days) complete exactly 3x1/3=1 whole job, so C completes job Y in 9 days.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q068",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "mensuration",
+   "difficulty": 2,
+   "question": "ABCD is a trapezoid. PQRS and MLKJ are two rhombuses. The diagonals of PQRS are 6 cm and 8 cm. One of the angles of MLKJ is 120 degrees, and the diagonal bisecting that angle measures 15 cm. Side of PQRS = AB, side of MLKJ = CD. Find XY (the median of the trapezoid).",
+   "options": [
+    "5 cm",
+    "10 cm",
+    "15 cm",
+    "20 cm",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "Rhombus PQRS: with diagonals 6 and 8, side = (1/2)xsqrt(6^2+8^2) = (1/2)x10 = 5 cm = AB.\nRhombus MLKJ: the 15 cm diagonal bisects the 120-degree angle into two 60-degree halves, so half this diagonal (7.5 cm) and the side form a right triangle where side = 7.5/sin(30 degrees) [equivalently 7.5/cos(60 degrees)] = 7.5/0.5 = 15 cm = CD.\nMedian of the trapezoid XY = (AB+CD)/2 = (5+15)/2 = 10 cm.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q069",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "mixtures-alligations",
+   "difficulty": 2,
+   "question": "A vessel contains 2.5 litres of water and 10 litres of milk. 20% of the contents of the vessel are removed. To the remaining contents, x litres of water is added to reverse the ratio of water and milk. Then y litres of milk is added again to reverse the ratio of water and milk. Find y.",
+   "options": [
+    "100",
+    "110",
+    "120",
+    "130",
+    "150"
+   ],
+   "correct": 2,
+   "explanation": "Total initial contents = 12.5 litres, water:milk = 1:4. Removing 20% (well-mixed) leaves 10 litres in the same 1:4 ratio: 2 litres water and 8 litres milk.\nAdding x litres of water reverses the ratio to 4:1 (water:milk): (2+x)/8=4/1, so 2+x=32, giving x=30 (water is now 32, milk stays 8).\nAdding y litres of milk reverses the ratio again to 1:4 (water:milk): 32/(8+y)=1/4, so 8+y=128, giving y=120.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q070",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-sufficiency",
+   "difficulty": 3,
+   "question": "A, B and C entered into a partnership. If the profit earned in the business is proportional to the investment and the period of investment, and all of them invested the amount for one year, what is the profit of B if the total profit is Rs. x?\nA. A invested Rs. 1500 more than that of C.\nB. A invested 2 times more than that of B. C invested 3 times more than that of A.\nC. B invested 200 percent more than that of A and 100% less than that of C.",
+   "options": [
+    "Any two of them",
+    "Either B or C alone",
+    "Any of them",
+    "All statements are required",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "Statement A alone only relates A and C (A=C+1500) and says nothing about B, so it cannot fix B's share by itself.\nStatement B alone: A=3B and C=4A=12B, giving A:B:C=3:1:12 (sum=16), so B's profit=x/16 - a complete, determinate ratio.\nStatement C alone: B=3A and C=2B=6A, giving A:B:C=1:3:6 (sum=10), so B's profit=3x/10 - also a complete, determinate ratio.\nSince either B alone or C alone pins down a full investment ratio (and hence B's profit share), the answer is 'Either B or C alone'.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q071",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-sufficiency",
+   "difficulty": 3,
+   "question": "6 men, 9 women and 5 children can do a work in 14 days. In how many days can 12 men, 3 women and 5 children do the same work?\nA. 20 men and 30 women can do the same work in 5 days.\nB. Work done by 2 men is equal to work done by 3 women.\nC. 6 children can do two-thirds of the same work in 28 days.",
+   "options": [
+    "Any one of them",
+    "Only C",
+    "C and either A or B",
+    "Any two of them",
+    "Only either A or B"
+   ],
+   "correct": 3,
+   "explanation": "Let the one-day work rates of one man, one woman and one child be m, w, c respectively; the base fact gives 6m+9w+5c=1/14 (taking total work=1).\nFrom B: m=1.5w, a ratio between men's and women's rates. Combined with the base equation and A (a second rate equation, 20m+30w=1/5), or combined with C (which pins down c=1/252 directly, since 6 children finish 2/3 of the work in 28 days), all three rates m, w, c become individually determined, letting us compute 12m+3w+5c and hence the number of days.\nSo any two of the three statements (together with the base fact) are enough to answer the question.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q072",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-sufficiency",
+   "difficulty": 2,
+   "question": "Rajnish buys 30 books and 65 pens. If the price of each book is more than the price of each pen, then what amount does he have to pay for this?\nA. At a profit of 20%, he sells all the books and pens together for Rs. 3828.\nB. The cost price of one book and one pen together is Rs. 90.\nC. The difference between the sum and the difference of the buying prices of one pen and one book is Rs. 28.",
+   "options": [
+    "Only A alone or B alone is sufficient",
+    "B and C together are sufficient",
+    "A alone or B and C together are sufficient",
+    "All together are necessary",
+    "All even together are not sufficient"
+   ],
+   "correct": 2,
+   "explanation": "Let book price = p and pen price = q (p>q). Required amount = 30p+65q.\nFrom A: total selling price (at 20% profit on the total cost) = 3828, so total cost = 3828/1.2 = 3190 - this directly gives 30p+65q, so A alone is sufficient.\nFrom C: (sum) - (difference) = (p+q)-(p-q) = 2q = 28, so q=14 - alone this only fixes the pen price.\nFrom B: p+q=90 alone only gives the sum, not each price individually.\nB and C together: q=14 (from C) and p=90-14=76 (from B), giving 30(76)+65(14)=2280+910=3190, matching A's total exactly.\nSo either A alone, or B and C together, are sufficient.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q073",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains17-set17",
+   "question": "What is the opposite of the phrase \"Unfortunately, this is a common problem\" as mentioned in Paragraph 1?",
+   "options": [
+    "Employees often constitute variable decision-making capability even if they are assigned the same task to perform.",
+    "Even though employees are expected to come out with fair, positive and noise-free results, organizations find it almost an opposite and contradictory outcome to it.",
+    "A major problem is that the outcomes of decisions taken by different employees in the organization often aren't known until far in the future, if at all.",
+    "Employees have to follow the strict norms and rules of the organization which often allow them to take rationale and conventional decisions in the best interest of the organization which hardly go unnoticed.",
+    "None of the above."
+   ],
+   "correct": 3,
+   "explanation": "The highlighted phrase refers to the widespread problem of variability in employees' decision-making: people in the same role, given the same case, reach different outcomes. Options (a), (b) and (c) all describe or support that problem. Option (d) instead describes employees bound by strict organizational rules who take rational, conventional decisions in the firm's best interest — a noise-free, consistent picture, which is the opposite of the problem the phrase laments. Hence (d).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q074",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains17-set17",
+   "question": "What does the author mean by the term \"noise\" as used in Paragraph 2?\n(I) In an organization where work efficiency decides the potential of its employees, employees find it difficult to cope with their decisions and most of the time they land up in variable outcome to their motive which is termed as Noise.\n(II) Noise is a problem which is effectively invisible in the business world; it can be observed that audiences get quite surprised when the reliability of professional judgment is mentioned as an issue.\n(III) Noise is a problem associated with the decision-making process of the employees involved in the corporate world which is invisible as people do not go through life imagining plausible alternatives to every judgment they make.",
+   "options": [
+    "Only (I) is correct",
+    "Only (III) is correct",
+    "Both (II) and (III) are correct",
+    "Both (I) and (III) are correct",
+    "All are correct"
+   ],
+   "correct": 2,
+   "explanation": "Paragraph 2 defines noise as \"the chance variability of judgments\" and calls it \"an invisible tax\" on companies' bottom lines — i.e., a decision-making problem that stays effectively invisible. Statements (II) and (III) both capture this: noise concerns the (un)reliability of professional judgment and goes unnoticed because people do not imagine plausible alternatives to their own judgments. Statement (I) instead ties noise to work-efficiency pressure and employees failing to cope, which is not what the paragraph says. Hence (c).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q075",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains17-set17",
+   "question": "Why, according to the author, is decision considered as \"a matter of judgment\" as mentioned in Paragraph 3?\n(I) In most of the cases, decisions are guided by informal experience and general principles rather than by rigid rules.\n(II) In certain cases, medical professionals, judges and executives have to take decisions which are beyond the strict rules that control the instinctive judgment which might not be noise-free, yet acceptable to the system.\n(III) Long experience on a job always increases people's confidence in their judgments, but in the absence of rapid feedback, confidence is no guarantee of either accuracy or consensus.",
+   "options": [
+    "Only (I) is correct",
+    "Only (III) is correct",
+    "Both (I) and (III) are correct",
+    "Both (I) and (II) are correct",
+    "All are correct"
+   ],
+   "correct": 3,
+   "explanation": "Paragraph 3 says professionals such as doctors, judges and executives make judgment calls guided by informal experience and general principles rather than rigid rules (statement I), and that some divergence in such decisions — while not noise-free — is acceptable; that is precisely what \"a matter of judgment\" means (statement II). Statement (III), about long experience inflating confidence without feedback, is not made in the paragraph. Hence (d) Both (I) and (II).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q076",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains17-set17",
+   "question": "Which of the following statements can follow Paragraph 4 to form a connection with Paragraph 5?",
+   "options": [
+    "The surprising result of much research is that in many contexts reasoned rules are about as accurate as statistical models built with outcome data.",
+    "Uncomfortable as people may be with the idea, studies have shown that while humans can provide useful input to formulas, algorithms do better in the role of final decision maker.",
+    "Executives who are concerned with accuracy should also confront the prevalence of inconsistency in professional judgments.",
+    "Controlling noise is hard, but we expect that an organization that conducts an audit and evaluates the cost of noise in dollars will conclude that reducing random variability is worth the effort.",
+    "The major puzzle for us was the fact that neither organization had ever considered reliability to be an issue."
+   ],
+   "correct": 0,
+   "explanation": "Paragraph 4 catalogues research findings with statistical figures on how variable professional judgments are, and Paragraph 5 moves on to estimating what that variability costs. Per the book's solution, sentence (a) — a further research-based finding that reasoned rules are about as accurate as statistical models — continues Paragraph 4's research thread and leads naturally into Paragraph 5, so it best bridges the two. The other options either jump ahead to remedies or repeat points made elsewhere. Hence (a).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q077",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains17-set17",
+   "question": "What is/are the author's viewpoint(s) in accordance with Paragraph 5?\n(I) The author is skeptical about the credibility of the research works on the measurement of cost of noise.\n(II) The author is critical about the consequences of the problem of noise as it leads organizations to lose substantial amounts of money that often go unrealized.\n(III) The author feels that the problem of noise is severe enough to require action.",
+   "options": [
+    "Only (I)",
+    "Only (II)",
+    "Both (I) and (III)",
+    "Both (II) and (III)",
+    "All (I), (II) and (III)"
+   ],
+   "correct": 4,
+   "explanation": "Per the book's key, all three statements reflect the author's stance in Paragraph 5. The author is plainly critical of noise's consequences — companies lose substantial sums without realizing it (II) — and the framing that billions are at stake and even a few percentage points of reduction are worth tens of millions shows the problem demands action (III). The cost figure itself rests on executives' own rough estimates rather than precise measurement, which the book reads as the author's guarded view of how the cost of noise is measured (I). Hence (e).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q078",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains17-set18",
+   "question": "Which of the following sentences justifies the statement, \"Deutsche is more leveraged than its peers\" as mentioned in Paragraph 1?\n(I) Deutsche is scuffling to generate adequate profits to stay afloat in the market.\n(II) Though the market in which Deutsche operates is overbanked, it has a mound of derivatives whose prices are hard to observe in the market.\n(III) Though Deutsche has taken a longer time to face up to its problems, it is still airy on the non-performing loans that obstruct the balance-sheets of banks in places like Italy.",
+   "options": [
+    "Only (I) is correct",
+    "Only (II) is correct",
+    "Both (I) and (II) are correct",
+    "Both (II) and (III) are correct",
+    "All are correct"
+   ],
+   "correct": 3,
+   "explanation": "Paragraph 1 backs the statement by noting that Deutsche holds a stack of hard-to-price derivatives in an overbanked market (statement II) and that, despite being slow to face its problems, it is light on the non-performing loans that clog balance-sheets at banks in places like Italy (statement III). Statement (I) — struggling to generate profits — restates a separate difficulty rather than describing its leveraged position. Hence (d) Both (II) and (III), matching the book's key.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q079",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains17-set18",
+   "question": "What does the author mean by the statement, \"Deutsche's vulnerability to shocks is the problem, not the shocks themselves\" as mentioned in Paragraph 2?",
+   "options": [
+    "Deutsche is more prone to consistent failures which may have indirect effects on the market in coming years.",
+    "Deutsche is losing its share values inadvertently due to certain forces in the market which is surprising to German politicians.",
+    "Despite performing better in certain specific fields than other banks, Deutsche is finding itself in the midst of turbulence which is itself a revelation.",
+    "The arguable fine of $14 billion for mortgage-related misdeeds by Department of Justice has completely shocked the entire European bureaucrats.",
+    "None of the above."
+   ],
+   "correct": 2,
+   "explanation": "The author's point is that external shocks (market forces, the DoJ fine) are not the real issue — American banks face such fines too — but Deutsche's fragility when shocks arrive is: its shares had already fallen 42% before the fine was even mooted. In other words, even though Deutsche does better than peers in certain respects (for example fewer NPLs), it still finds itself in turbulence, which is itself revealing of its underlying weakness. Option (c) captures this; (b) and (d) merely repeat the blame-shifting the author rejects. Hence (c).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q080",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains17-set18",
+   "question": "Which of the following statements cannot be inferred from Paragraph 3?",
+   "options": [
+    "Despite having bigger investment-banking arms, the consistent downfall of European banks is a matter of serious concern.",
+    "The prevailing negative interest rates in many parts of Europe indicate that there is ultra-loose monetary policy in Europe.",
+    "The IMF figures on return on equity show that American banks are performing far better than European banks in the existing critical market.",
+    "European policymakers need to come out with strict and robust policies to safeguard its downgrading existence in the world market than pointing fingers on speculators and regulators.",
+    "Without pruning, returns on equity of European banks are projected to fall towards zero as a result of ultra-low rates and regulation as compared to American counterpart."
+   ],
+   "correct": 4,
+   "explanation": "Options (a) through (d) all follow from Paragraph 3: stricter rules hit banks with big investment-banking arms, negative rates reflect ultra-loose monetary policy, the IMF's return-on-equity comparison (a fall of 11.4 percentage points at large European banks versus 3 at American ones) shows American banks faring far better, and the closing line urges Europe to put its own house in order instead of pointing fingers. Option (e), however, claims returns on equity are projected to fall towards zero without pruning — a projection the paragraph never makes. Hence (e).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q081",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains17-set18",
+   "question": "Which of the following sentences can be connected with Paragraph 4 to make a connection with Paragraph 5?",
+   "options": [
+    "Some European markets have been clearing away excess capacity.",
+    "Like Deutsche, Credit Suisse is freer to make plans after a recent settlement with American authorities over mis-selling mortgage-backed securities before the financial crisis.",
+    "It expects to wind up a unit in which it has dumped unwanted assets by the end of 2018, a year ahead of schedule.",
+    "European banks could have done a lot more sooner.",
+    "The recapitalisation of Europe's banks has been as gradual as that of America's was swift, and in dribs and drabs of tens of billions a year rather than in one big splurge."
+   ],
+   "correct": 0,
+   "explanation": "Paragraph 4 is about the industry shrinking costs — job cuts at Commerzbank and ING — and Paragraph 5 opens with \"more can be done\", turning to pay restraint and dividends. Option (a), noting that some European markets have been clearing away excess capacity, continues Paragraph 4's cost-cutting/consolidation theme and hands off naturally to Paragraph 5's further levers. The book's solution likewise finds only (a) connectable; the other options bring in out-of-context specifics (Credit Suisse's settlement, a wind-down unit, recapitalisation pace). Hence (a).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q082",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains17-set18",
+   "question": "What could be the possible solutions for the rehabilitation of European banks in the existing system?\n(I) Proper fiscal stimulus by European governments would cut the chances that central banks have to keep interest rates so low.\n(II) Using public money to recapitalise the weakest banks in countries like Italy, and requiring them to slim down in return, is the fastest way to return them to health.\n(III) Significant job cuts of their employees to compensate the losses occurred in last few years could bring everything back to normalcy.",
+   "options": [
+    "Only (I)",
+    "Only (II)",
+    "Both (I) and (III)",
+    "Both (I) and (II)",
+    "All (I), (II) and (III)"
+   ],
+   "correct": 3,
+   "explanation": "In the passage's diagnosis, negative interest rates erode bank profitability, so fiscal stimulus that lets central banks lift rates (statement I) addresses a root cause, and publicly funded recapitalisation of the weakest banks with obligatory slimming down (statement II) directly restores their health. Statement (III) overreaches: job cuts are mentioned as one cost-cutting step already underway, not something that alone \"could bring everything back to normalcy\". Hence (d) Both (I) and (II), per the book's key.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q083",
+   "stage": "mains",
+   "section": "english",
+   "topic": "sentence-connectors",
+   "difficulty": 2,
+   "question": "Four statements are given below. Choose the option that connects them into a single sentence which is both grammatically correct and contextually meaningful, without altering their meaning. If none does, choose (e).\n\nThere is a statedly contemporary twist of a 360 degree review by peers, seniors and colleagues; it is an equally hush-hush affair; it does not really pass muster as an objective assessment tool for professional capabilities; it is in spite of our unique work environment.",
+   "options": [
+    "The statedly contemporary twist of a 360 degree review by peers, seniors and colleagues, is an equally hush-hush affair and does not really pass muster as an objective assessment tool for professional capabilities, given our unique work environment.",
+    "Despite our unique work environment, there is a statedly contemporary twisting of a 360 degree review by peers, seniors and colleagues which is an equally hush-hush affair but it has not really passed muster as an objective assessment tool for professional capabilities.",
+    "Twisting review to 360 degree by peers, seniors and colleagues and making it an equally hush-hush affair, it does not really pass muster as an objective assessment tool for professional capabilities in our unique work environment.",
+    "Although we have unique work environment, there is a statedly contemporary twist of a 360 degree review by peers, seniors and colleagues and an equally hush-hush affairs which do not pass muster as an objective assessment tool for professional capabilities.",
+    "None of the above is correct."
+   ],
+   "correct": 0,
+   "explanation": "Option (a) fuses all four ideas faithfully: the 360-degree review's contemporary twist is the subject, 'is an equally hush-hush affair and does not really pass muster' coordinates the two predicates, and 'given our unique work environment' renders the final clause. Option (b) changes the tense ('has not really passed'), (c) turns the subject into a dangling participial phrase, and (d) has agreement errors ('an equally hush-hush affairs which do not pass'). Hence (a).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q084",
+   "stage": "mains",
+   "section": "english",
+   "topic": "error-spotting",
+   "difficulty": 2,
+   "question": "The sentence below is divided into three parts, one or more of which may contain a grammatical error. From the alternatives (I), (II), (III) given after it, find the correct replacement(s) for the erroneous part(s). If a part is erroneous but no alternative correctly replaces it, choose (d); if the sentence needs no correction, choose (e).\n\nThe announcement by the Saudi-led coalition to sever (I)/ diplomatic ties with Qatar marks the culmination of a year-long (II)/ dispute over few Gulf Arab states and Qatar. (III)\n\n(I) The announcement by the Saudi-led coalition severing\n(II) diplomatic tie with Qatar marked a year-long culmination\n(III) dispute between some Gulf Arab states and Qatar",
+   "options": [
+    "Only (I)",
+    "Only (III)",
+    "Both (I) and (III)",
+    "None of the (I), (II) and (III)",
+    "No correction required"
+   ],
+   "correct": 1,
+   "explanation": "The error is in the third part: 'dispute over few Gulf Arab states and Qatar' misuses 'few' (which means almost none) and the wrong preposition; a dispute involving two named sides needs 'between some Gulf Arab states and Qatar', exactly what alternative (III) supplies. Parts (I) and (II) are already correct, and their proposed alternatives would introduce errors ('severing' after 'announcement... to', and 'diplomatic tie... marked a year-long culmination'). Hence (b) Only (III).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q085",
+   "stage": "mains",
+   "section": "english",
+   "topic": "phrase-replacement",
+   "difficulty": 2,
+   "question": "A part of the sentence below is given in quotes (bold in the original). Three statements follow that try to explain the meaning of that phrase. Choose the set of statements that explains it correctly without altering the meaning of the sentence.\n\nThe problem of secularism in independent India lies in the fact that the Constitution was essentially \"a Western construct\" with the sidelining of the Gandhian influence in the Constituent Assembly.\n\n[Statements paraphrased from the original]\n(I) Secularism in India is largely inspired by the Western pattern of the Constitution, with hardly any trace of Gandhian influence.\n(II) The Constitution was shaped essentially by the culture and practices followed in Western societies and gave little consideration to the Gandhian influence in the Constituent Assembly, and this is what underlies the problem of secularism in independent India.\n(III) The developmental projects of Western countries influenced the Indian Constitution so strongly that it ignored the Gandhian influence, which is why the country faces the problem of secularism today.",
+   "options": [
+    "Only (I) is correct",
+    "Only (II) is correct",
+    "Both (I) and (II) are correct",
+    "Both (II) and (III) are correct",
+    "All are correct"
+   ],
+   "correct": 1,
+   "explanation": "'A Western construct' means something built on the ideas, culture and practices of Western societies. Statement (II) alone renders the sentence faithfully: the Constitution itself was Western-shaped, Gandhian influence was sidelined in the Constituent Assembly, and therein lies the secularism problem. Statement (I) inverts the logic by making secularism (not the Constitution) the thing modelled on the West, and (III) misreads 'construct' as Western 'developmental projects'. Hence (b), per the book's key.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q086",
+   "stage": "mains",
+   "section": "english",
+   "topic": "vocabulary",
+   "difficulty": 2,
+   "question": "Each of the two statements below has two blanks. Choose the option providing the pair of words that fits both blanks in both statements, in the same order, making them meaningful and grammatically correct.\n\n(1) Despite the fact that cancerous ovarian stem cells are ________ to chemoresistance, they are the ________ targets for therapy.\n(2) How quickly the ________ branch of Homo heidelbergensis turned into something that could be called Homo sapiens was therefore ________.",
+   "options": [
+    "Feigned, indeterminate",
+    "Pertinent, inane",
+    "Relevant, obscure",
+    "Affiliated, fatuous",
+    "Analogous, insignificant"
+   ],
+   "correct": 2,
+   "explanation": "'Relevant, obscure' fits both statements. Relevant means closely connected or appropriate to the matter at hand — the stem cells are relevant to chemoresistance, and it is the relevant branch of Homo heidelbergensis in question. Obscure means not discovered or known about, uncertain — apt both for the therapy targets and for how quickly that branch became Homo sapiens. The other pairs ('feigned', 'inane', 'fatuous', 'insignificant') fail at least one blank. Hence (c).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q087",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 3,
+   "question": "An inference is given in quotes (bold in the original), followed by three paragraphs. Find the paragraph(s) from which it can be inferred and choose the option with the best possible outcome.\n\nInference: \"The major concern is security.\"\n\n[Paragraphs condensed from the original]\n(I) Security professionals are torn over whether Brexit would leave the UK more or less safe in cybersecurity terms: one poll found most of them expecting no major implications, while another found most believing Brexit would weaken cybersecurity by adding bureaucratic hurdles to information-sharing with the EU.\n(II) Debate over Brexit has mostly centred on economics, trade and migration; when David Cameron called the EU referendum he cited a new factor — that membership made Britain safer — and later hinted that Brexit might raise security risks, adding that Britain had always come to regret turning its back on Europe.\n(III) Prime Minister Shinzo Abe hailed the implementation of the legislation as historic for making his country's peace and security still more secure, upgrading its deterrence and enabling the nation to contribute proactively as never before to the peace and stability of regional and international communities.",
+   "options": [
+    "Only (I)",
+    "Both (II) and (III)",
+    "Only (III)",
+    "Both (I) and (III)",
+    "All are correct"
+   ],
+   "correct": 3,
+   "explanation": "In paragraph (I) security is the professionals' central dilemma (cybersecurity is part of the security system), and in paragraph (III) the legislation is celebrated entirely in terms of peace, security and deterrence — both support the inference. Paragraph (II) does not: there the debate is explicitly dominated by economics, trade and migration, with security introduced only as a new factor, so it is not the major concern. Hence (d) Both (I) and (III).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q088",
+   "stage": "mains",
+   "section": "english",
+   "topic": "sentence-connectors",
+   "difficulty": 2,
+   "question": "Four statements are given below. Choose the option that connects them into a single sentence which is both grammatically correct and contextually meaningful, without altering their meaning. If none does, choose (e).\n\nThe major thrust of Marx's political philosophy was aimed at human liberation; it is important to consider the significant shift to comprehend it; the shift occurred in the late 17th century; in that period traditional analysis of the political order based on scarcity was replaced by a philosophy of abundance.",
+   "options": [
+    "Comprehending the major thrust of Marx's political philosophy that was aimed at human liberation, it is important to consider the significant shift of late 17th century when the scarcity based on traditional analysis was replaced by a philosophy of abundance.",
+    "Marx's major thrust was on political philosophy aiming human liberation while it is important to consider the significant shift that occurred in the late 17th century, it was then that traditional analysis of the political order based on scarcity was replaced by a philosophy of abundance.",
+    "It is important to consider the significant shift in the late 17th century when traditional analysis of the political order based on scarcity replaced philosophy of abundance to comprehend the major thrust of Marx's political philosophy of human liberation.",
+    "To comprehend the major thrust of Marx's political philosophy that aimed at human liberation, it is important to consider the significant shift that occurred in the late 17th century when traditional analysis of the political order based on scarcity was replaced by a philosophy of abundance.",
+    "None of the above is correct."
+   ],
+   "correct": 3,
+   "explanation": "Option (d) is the only version that is both grammatical and faithful: the infinitive of purpose 'To comprehend...' correctly frames why the shift matters, and the relative clause keeps the original direction of replacement (scarcity-based analysis replaced BY a philosophy of abundance). Option (a) garbles that relation ('the scarcity based on traditional analysis'), (b) distorts the subject ('Marx's major thrust was on political philosophy') and splices clauses, and (c) reverses what replaced what. Hence (d).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q089",
+   "stage": "mains",
+   "section": "english",
+   "topic": "error-spotting",
+   "difficulty": 2,
+   "question": "The sentence below is divided into three parts, one or more of which may contain a grammatical error. From the alternatives (I), (II), (III) given after it, find the correct replacement(s) for the erroneous part(s). If a part is erroneous but no alternative correctly replaces it, choose (d); if the sentence needs no correction, choose (e).\n\nItalian officials have been arguing that (I)/ volatility caused by Britain's vote to leave the European Union (II)/ means it could have given greater flexibility to prop up struggling banks. (III)\n\n(I) Italian officials had argued that\n(II) volatility that caused Britain's vote to leave the European Union\n(III) meant it should be given greater flexibility to prop up struggling banks",
+   "options": [
+    "Only (II)",
+    "Both (I) and (III)",
+    "All (I), (II) and (III)",
+    "None of the (I), (II) and (III)",
+    "No correction required"
+   ],
+   "correct": 1,
+   "explanation": "The sentence needs past-tense consistency: in part (I) 'have been arguing' should become 'had argued', and in part (III) 'means it could have given' should become 'meant it should be given greater flexibility'. Alternative (II) must be rejected because 'volatility that caused Britain's vote' reverses cause and effect — the vote caused the volatility, not the other way round. Hence (b) Both (I) and (III).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q090",
+   "stage": "mains",
+   "section": "english",
+   "topic": "phrase-replacement",
+   "difficulty": 2,
+   "question": "A part of the sentence below is given in quotes (bold in the original). Three statements follow that try to explain the meaning of that phrase. Choose the set of statements that explains it correctly without altering the meaning of the sentence.\n\nThere are girls in that school; droves and scads of them. Most of them beautiful, some of them not-so-good-looking (because 'ugly' is such an ugly word), but that is \"neither here nor there\".\n\n[Statements paraphrased from the original]\n(I) Most of the girls in the school are not-so-good-looking, but that does not make them different.\n(II) There are a large number of girls in that school, most of them beautiful and quite a few not-so-good-looking, but that fact is inconsequential.\n(III) While most of the girls in that school are beautiful and some are not-so-good-looking, that makes a big difference.",
+   "options": [
+    "Only (I) is correct",
+    "Only (II) is correct",
+    "Both (I) and (II) are correct",
+    "Both (II) and (III) are correct",
+    "All are correct"
+   ],
+   "correct": 1,
+   "explanation": "The idiom 'neither here nor there' means of no importance or relevance. Statement (II) keeps both the facts (many girls; most beautiful, some not) and the idiom's sense — the looks are 'inconsequential', i.e. not important. Statement (I) flips the quantifier (claiming most are not-so-good-looking) and muddles the conclusion, while (III) asserts the looks 'make a big difference', the exact opposite of the idiom. Hence (b) Only (II).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q091",
+   "stage": "mains",
+   "section": "english",
+   "topic": "vocabulary",
+   "difficulty": 2,
+   "question": "Each of the two statements below has two blanks. Choose the option providing the pair of words that fits both blanks in both statements, in the same order, making them meaningful and grammatically correct.\n\n(1) The molecular targeting of CSCs may improve the ________ of current chemotherapeutic ________ needed for the management of this disease.\n(2) ________ and safety of once-daily ________ in the treatment of HIV infection is currently under inspection.",
+   "options": [
+    "Germaneness, medication",
+    "Efficacy, regimens",
+    "Emasculation, nutriments",
+    "Potency, sustenance",
+    "Sufficiency, subsistence"
+   ],
+   "correct": 1,
+   "explanation": "'Efficacy, regimens' fits both statements. Efficacy means the ability to produce a desired or intended result — one improves the efficacy of chemotherapy and tests the efficacy and safety of an HIV treatment. Regimen means a prescribed course of medical treatment, diet or exercise — 'chemotherapeutic regimens' and 'once-daily regimens' are the natural collocations. Pairs like 'emasculation, nutriments' or 'sufficiency, subsistence' are meaningless in these medical contexts. Hence (b).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q092",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 3,
+   "question": "An inference is given in quotes (bold in the original), followed by three statements. Find the statement(s) from which it can be inferred and choose the option with the best possible outcome.\n\nInference: \"Country's economic standard can be best adjudged by per capita income.\"\n\n[Statements condensed from the original]\n(I) Exports and imports, a swelling favourable balance of trade, investments and bank balances are not an index of national prosperity: England exported noticeably more before the Second World War than it does today, yet enjoys greater national prosperity now because the income of average Englishmen — field and factory labourers, clerks, policemen, petty shopkeepers, domestic and other low-paid workers — has gone up.\n(II) Per capita real income can be rising even while per capita consumption of goods and services falls — as when the government itself uses up the increased income on a massive military build-up requiring heavy production of arms and ammunition.\n(III) National income may rise merely because of increased spending on items such as defence; in war or the threat of war, weapons spending pushes up GNP even though people may be acutely short of goods to buy.",
+   "options": [
+    "Both (II) and (III)",
+    "Both (I) and (II)",
+    "Only (I)",
+    "Only (II)",
+    "All are correct"
+   ],
+   "correct": 2,
+   "explanation": "Statement (I) supports the inference: it dismisses trade balances, investments and bank balances as measures of prosperity and credits England's greater prosperity to the risen income of the average person — i.e., per capita income is the true gauge. Statement (II) conflicts with the inference, showing per capita income rising while actual consumption falls, and statement (III) is about national income/GNP giving a distorted picture, not about per capita income being the best measure. Hence (c) Only (I).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q093",
+   "stage": "mains",
+   "section": "english",
+   "topic": "sentence-connectors",
+   "difficulty": 2,
+   "question": "Four statements are given below. Choose the option that connects them into a single sentence which is both grammatically correct and contextually meaningful, without altering their meaning. If none does, choose (e).\n\nThere is a giant footprint of the ransomware attack; it leveraged a leaked NSA-created Windows hacking technique; it infected more than 200,000 systems across 150 countries; malware analysts say poor choices on the part of WannaCry's creators have limited both its scope and profit.",
+   "options": [
+    "The giant footprint of the ransomware attack has leveraged a leaked NSA-created Windows hacking technique and infected more than 200,000 systems across 150 countries while malware analysts say poor choices on the part of WannaCry's creators had limited both its scope and profit.",
+    "Despite the giant footprint of the ransomware attack, which leveraged a leaked NSA-created Windows hacking technique to infect more than 200,000 systems across 150 countries, malware analysts say poor choices on the part of WannaCry's creators have limited both its scope and profit.",
+    "Malware analysts said that poor choices on the part of WannaCry's creators have limited both its scope and profit, whereas the giant footprint of the ransomware attack leveraged a leaked NSA-created Windows hacking technique infecting more than 200,000 systems across 150 countries.",
+    "The ransomware attack is a giant footprint as it has leveraged a leaked NSA-created Windows hacking technique and infected more than 200,000 systems across 150 countries which have limited both the scope and profit due to poor choices on the part of WannaCry's creators as malware analysts said.",
+    "None of the above is correct."
+   ],
+   "correct": 1,
+   "explanation": "Option (b) is the only grammatically sound and logically faithful combination: 'Despite the giant footprint... which leveraged... to infect...' correctly subordinates the attack's scale, against which the analysts' point about limited scope and profit stands in contrast. Option (a) makes the 'footprint' itself the agent that leveraged and infected, (c) sets up a false 'whereas' contrast and shifts tense, and (d) absurdly calls the attack 'a giant footprint' and tangles the final clauses. Hence (b).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q094",
+   "stage": "mains",
+   "section": "english",
+   "topic": "error-spotting",
+   "difficulty": 2,
+   "question": "The sentence below is divided into three parts, one or more of which may contain a grammatical error. From the alternatives (I), (II), (III) given after it, find the correct replacement(s) for the erroneous part(s). If a part is erroneous but no alternative correctly replaces it, choose (d); if the sentence needs no correction, choose (e).\n\nMany environmentalists think that too much interference with (I)/ nature for development projects is gradually destroying the balance and natural (II)/ calamities are happening to forewarn us about a possible doomsday in future. (III)\n\n(I) Many of the environmentalists believe that too much interference in\n(II) nature for developing new projects has destroyed the balance and natural\n(III) calamities which may happen to forewarn us about doomsday possibly in future",
+   "options": [
+    "Only (II)",
+    "Both (I) and (II)",
+    "Both (II) and (III)",
+    "None of the (I), (II) and (III)",
+    "No correction required"
+   ],
+   "correct": 4,
+   "explanation": "The sentence is grammatically correct as it stands: 'interference with nature' is the right collocation, the present continuous 'is gradually destroying' suits an ongoing process, and 'calamities are happening to forewarn us' is a valid coordinate clause. Each proposed alternative would actually damage the sentence — 'interference in', the perfect 'has destroyed' against 'gradually', and the fragment 'calamities which may happen...' that leaves the second clause without a main verb. Hence (e) No correction required.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q095",
+   "stage": "mains",
+   "section": "english",
+   "topic": "vocabulary",
+   "difficulty": 3,
+   "question": "Each of the two statements below has two blanks. Choose the option providing the pair of words that fits both blanks in both statements, in the same order, making them meaningful and grammatically correct.\n\n(1) The six-day war was the last unalloyed military victory for Israel, and the start of a ________ from existential wars against Arab states, which it always won, to ________ campaigns against non-state militias which it could never wipe out.\n(2) He sees these dualities as having been maintained through the ________ by a deliberate and ________ general amnesia.",
+   "options": [
+    "Transition, enervating",
+    "Progression, invigorating",
+    "Concatenation, exhilarating",
+    "Juncture, frivolous",
+    "Movement, enfeeble"
+   ],
+   "correct": 0,
+   "explanation": "'Transition, enervating' fits both statements. Transition means the process or period of changing from one state to another — a shift from existential wars to a different kind of campaign, and dualities maintained 'through the transition'. Enervating means draining of energy or vitality — apt for wearying campaigns against militias that could never be wiped out, and for a deliberate, sapping general amnesia. 'Invigorating' and 'exhilarating' convey the opposite sense, and 'enfeeble' is the wrong form (a verb where an adjective is needed). Hence (a).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q096",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 3,
+   "question": "A small paragraph is given, followed by three possible inferences which may or may not be correct. Choose the option which gives the best possible outcome.\n\n[Paragraph condensed from the original]\nTechniques that raise productivity in discrete tasks by requiring less human labour at each step of the production process are widely used. Productivity consultants point out, however, that although these techniques achieve their specific goal, they are not without drawbacks: they often breed enough resentment in the workforce eventually to cause a slowdown in the production process as a whole.\n\n(I) The fact that productivity enhancement techniques are so widely employed has led to a decline in the ability of American business to compete abroad.\n(II) Productivity enhancement techniques do not attain their intended purpose and should not be employed in the workplace.\n(III) Ironically, an increase in the productivity of discrete tasks may result in a decrease in the productivity of the whole production process.",
+   "options": [
+    "Only (I) is correct",
+    "Only (II) is correct",
+    "Only (III) is correct",
+    "Both (I) and (III) are correct",
+    "None of the given inferences is correct."
+   ],
+   "correct": 2,
+   "explanation": "Only inference (III) follows: the paragraph says the techniques boost productivity at individual steps yet the resentment they cause can eventually slow the production process as a whole — precisely the irony (III) states. (I) introduces foreign competitiveness of American business, which the paragraph never mentions, and (II) contradicts the paragraph, which concedes the techniques 'achieve their specific goal'. Hence (c) Only (III).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q097",
+   "stage": "mains",
+   "section": "english",
+   "topic": "vocabulary",
+   "difficulty": 2,
+   "question": "Each of the two statements below has two blanks. Choose the option providing the pair of words that fits both blanks in both statements, in the same order, making them meaningful and grammatically correct.\n\n(1) The obvious ________ between China's level of participation and other Asian states' requires some ________.\n(2) For years there has been talk Aldo's lazy performances had more to do with a brutal weight cut than any skill ________. That's always been a pretty probable ________, given the number of horrendous weight cuts MMA sees.",
+   "options": [
+    "Deviation, delineation",
+    "Discrepancy, explanation",
+    "Incongruity, cogitation",
+    "Contrast, contemplation",
+    "Contrariety, rumination"
+   ],
+   "correct": 1,
+   "explanation": "'Discrepancy, explanation' fits both statements. Discrepancy means an illogical or surprising lack of compatibility between facts — apt for the gap between China's participation and other Asian states', and for a skill discrepancy behind lazy performances. An obvious discrepancy 'requires some explanation', and a weight-cut theory being 'a pretty probable explanation' reads naturally, whereas 'delineation', 'cogitation', 'contemplation' and 'rumination' do not fit the second blank in either statement. Hence (b).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q098",
+   "stage": "mains",
+   "section": "english",
+   "topic": "sentence-connectors",
+   "difficulty": 2,
+   "question": "Four statements are given below. Choose the option that connects them into a single sentence which is both grammatically correct and contextually meaningful, without altering their meaning. If none does, choose (e).\n\nPro-Russian hackers bombarded the sites of opposition leaders; it included Garry Kasparov in the midst of his 2007 campaign for president; it started in the late 2000s; it kept Kasparov's site offline or sluggish at key moments during the campaign season.",
+   "options": [
+    "Bombarding the sites of opposition leaders including Garry Kasparov the midst of his 2007 campaign for president in the late 2000s, Kasparov's site was kept offline or sluggish at key moments during the campaigning season.",
+    "In the late 2000s, pro-Russian hackers started bombarding the sites of opposition leaders that included Garry Kasparov in the midst of his 2007 campaign for president and keeping Kasparov's site offline or sluggish at key moments during the campaign season.",
+    "Starting in the late 2000s, pro-Russian hackers bombarded the sites of opposition leaders like Garry Kasparov in the midst of his 2007 campaign for president, keeping Kasparov's site offline or sluggish at key moments during the campaign season.",
+    "The sites of opposition leaders like Garry Kasparov was kept offline or sluggish at key moments during the campaigning season by pro-Russian hackers who bombarded the sites in the midst of his 2007 campaign for President.",
+    "None of the above is correct."
+   ],
+   "correct": 2,
+   "explanation": "Option (c) is grammatically clean and preserves every fact: 'Starting in the late 2000s' fixes the time, the hackers are the clear subject of 'bombarded', and the participial 'keeping Kasparov's site offline or sluggish' correctly attaches the result. Option (a) is a dangling modifier (it makes Kasparov's site the bomber), (b) awkwardly coordinates 'started bombarding... and keeping', and (d) has faulty agreement ('The sites... was kept'). Hence (c).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q099",
+   "stage": "mains",
+   "section": "english",
+   "topic": "error-spotting",
+   "difficulty": 2,
+   "question": "The sentence below is divided into three parts, one or more of which may contain a grammatical error. From the alternatives (I), (II), (III) given after it, find the correct replacement(s) for the erroneous part(s). If a part is erroneous but no alternative correctly replaces it, choose (d); if the sentence needs no correction, choose (e).\n\nCareer diplomats in the State Department are wringing (I)/ the hands of diplomats in despair after seeing their president (II)/ uncorking US policies which had taken decades at maturing. (III)\n\n(I) Diplomacy in Career in the State Department has wringed\n(II) their hands in despair at seeing their president\n(III) uncorking US policies that have taken decades to mature",
+   "options": [
+    "Both (II) and (III)",
+    "Both (I) and (III)",
+    "All (I), (II) and (III)",
+    "None of the (I), (II) and (III)",
+    "No correction required"
+   ],
+   "correct": 0,
+   "explanation": "Part (II) should read 'their hands in despair at seeing their president' — the diplomats wring their own hands, and 'at seeing' is the correct phrase, not 'after seeing'. Part (III) should be 'that have taken decades to mature', keeping the present-tense frame and the correct infinitive instead of 'which had taken decades at maturing'. Part (I) is already correct, and its proposed alternative ('Diplomacy in Career... has wringed') is gibberish. Hence (a) Both (II) and (III).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q100",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 3,
+   "question": "An inference is given in quotes (bold in the original), followed by three statements. Find the statement(s) from which it can be inferred and choose the option with the best possible outcome.\n\nInference: \"GDP fluctuates because of the business cycle.\"\n\n[Statements condensed from the original]\n(I) The downturn of a business cycle is called a recession, defined as a period in which real GDP declines for at least two consecutive quarters; a recession begins at a peak and ends at a trough, after which conditions improve and the economy gradually enters the expansionary phase.\n(II) As interest rates rise, companies and consumers cut back spending and the economy slows; slowing demand leads companies to lay off employees, further denting consumer confidence and demand, until the central bank eases monetary policy to stimulate growth and employment and the economy booms once again — and the cycle repeats.\n(III) A high share of investment in GDP may be superb for creating extra productive capacity, but it comes at the expense of consumer goods and services for the current generation — an imbalance that is one reason GDP data may give a distorted picture of living standards in a country.",
+   "options": [
+    "Only (I)",
+    "Both (II) and (III)",
+    "Both (I) and (II)",
+    "Only (II)",
+    "All are correct"
+   ],
+   "correct": 3,
+   "explanation": "Per the book's key, only statement (II) yields the inference: it traces the self-repeating loop — rate rises, spending cuts, layoffs, then monetary easing and a fresh boom — that drives the economy, and hence GDP, up and down. Statement (I) merely defines and labels the phases of the cycle rather than showing GDP fluctuating because of it, and statement (III) concerns GDP as a distorted measure of living standards, not its fluctuation. Hence (d) Only (II).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q101",
+   "stage": "mains",
+   "section": "english",
+   "topic": "vocabulary",
+   "difficulty": 2,
+   "question": "Each of the two statements below has two blanks. Choose the option providing the pair of words that fits both blanks in both statements, in the same order, making them meaningful and grammatically correct.\n\n(1) Polish environment minister to ________ over COP24 conference, the choice was made ________ by the climate-change committee of the United Nations.\n(2) The Labour Party is led by two Marxists: Mr Corbyn and John McDonnell, his shadow chancellor, who believe in the materialist interpretation of history. Yet they now ________ over a coalition of voters defined ________ by their shared values.",
+   "options": [
+    "Debate, diligently",
+    "Concoct, congruently",
+    "Supervise, perspicaciously",
+    "Conduct, unanimously",
+    "Preside, overwhelmingly"
+   ],
+   "correct": 4,
+   "explanation": "'Preside, overwhelmingly' fits both statements. Preside means to be in the position of authority in a meeting or gathering — one presides over a conference, and party leaders preside over a coalition of voters. Overwhelmingly means to a very great degree or by a great majority — a choice made overwhelmingly by the UN committee, and voters defined overwhelmingly by shared values. 'Debate over', 'concoct over' and 'conduct over' fail the idiom, since 'preside' is the only verb that takes 'over' naturally in both contexts. Hence (e).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q102",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 3,
+   "question": "An inference is given in quotes (bold in the original), followed by three statements. Find the statement(s) from which it can be inferred and choose the option with the best possible outcome.\n\nInference: \"The calorie count of foods that are high in carbohydrates is significant.\"\n\n[Statements condensed from the original]\n(I) Moderate use of non-nutritive sweeteners like aspartame for a low calorie count could help weight control and so benefit insulin and blood sugar; still, many foods containing aspartame provide calories and carbohydrate from other ingredients even though they may be labelled 'sugar-free'.\n(II) Ironically, people who use aspartame as a sweetener to cut their calorie intake could wind up defeating their purpose, since studies show high levels of aspartame may trigger a craving for carbohydrates by depleting the brain of a chemical that registers carbohydrate satiety.\n(III) The Institute of Medicine recommends that 45 to 65 percent of total calories come from carbs; with regular carb consumption, glycogen stores stay full and become a normal part of total body weight, and aspartame's rise in popularity is due to its comparatively low calorie count.",
+   "options": [
+    "Only (I)",
+    "Only (II)",
+    "Both (I) and (II)",
+    "Both (II) and (III)",
+    "All are correct."
+   ],
+   "correct": 2,
+   "explanation": "Statements (I) and (II) both build on the premise that carbohydrate calories matter: (I) warns that 'sugar-free' aspartame products still deliver calories and carbohydrate from other ingredients, and (II) shows calorie-cutting via aspartame backfiring through carbohydrate cravings — each treating the calorie count of carbohydrate-rich food as significant. Statement (III) recommends a share of calories from carbs but never indicates that carbohydrate-rich foods are significantly caloric. Hence (c) Both (I) and (II).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q103",
+   "stage": "mains",
+   "section": "english",
+   "topic": "sentence-connectors",
+   "difficulty": 2,
+   "question": "Four statements are given below. Choose the option that connects them into a single sentence which is both grammatically correct and contextually meaningful, without altering their meaning. If none does, choose (e).\n\nHong Kong has prospered economically; it is visible from US $177 billion GDP in 1997 to $319 billion; it has risen by 80 per cent; it has been building on her strengths of superior infrastructure, free port and low-tax status, and her superior financial and logistic hubs.",
+   "options": [
+    "Economically, Hong Kong has prospered visibly, from US $177 billion GDP in 1997 to $319 billion, rising by 80 per cent, building on her strengths of superior infrastructure, free port and low-tax status, and her superior financial and logistic hubs.",
+    "Hong Kong has been prospering economically which is visible from US $177 billion GDP in 1997 to $319 billion that has risen by 80 per cent which has been building on her strengths of superior infrastructure, free port and low-tax status, and her superior financial and logistic hubs.",
+    "Building on her strengths of superior infrastructure, free port and low-tax status, and her superior financial and logistic hubs, Hong Kong has prospered economically visible from US $177 billion GDP in 1997 to $319 billion that has risen by 80 per cent.",
+    "Hong Kong has made visibly a prosperous economic condition rising by 80 per cent from US $177 billion GDP in 1997 to $319 billion which shows that it has been building on her strengths of superior infrastructure, free port and low-tax status, and her superior financial and logistic hubs.",
+    "None of the above is correct."
+   ],
+   "correct": 0,
+   "explanation": "Option (a) strings all four facts into one clean sentence: the prosperity is stated first, the GDP movement and the 80 per cent rise sit as neat appositive phrases, and the participial 'building on her strengths...' supplies the cause. Option (b) chains 'which... that... which' into an ungrammatical tangle, (c) misattaches 'visible' and 'that has risen', and (d) distorts the meaning ('has made visibly a prosperous economic condition') and reverses the logic with 'which shows that'. Hence (a).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q104",
+   "stage": "mains",
+   "section": "english",
+   "topic": "error-spotting",
+   "difficulty": 3,
+   "question": "The sentence below is divided into three parts, one or more of which may contain a grammatical error. From the alternatives (I), (II), (III) given after it, find the correct replacement(s) for the erroneous part(s). If a part is erroneous but no alternative correctly replaces it, choose (d); if the sentence needs no correction, choose (e).\n\nAround 1960s it was widely assumed about politics which had been (I)/ divided from religions and after societies started becoming more industrialized, religious (II)/ belief and practice were restricted to private thought and action. (III)\n\n(I) Politics was assumed widely till about 1960s that it is\n(II) divided out of religion and as societies were becoming more industrialized, religious\n(III) beliefs and practices should have restricted to private thoughts and actions.",
+   "options": [
+    "Only (I)",
+    "Both (II) and (III)",
+    "Both (I) and (II)",
+    "None of the (I), (II) and (III)",
+    "No correction required"
+   ],
+   "correct": 3,
+   "explanation": "All three parts of the sentence are faulty, but none of the offered alternatives repairs them: (I) 'Politics was assumed widely... that it is' is itself ungrammatical, (II) 'divided out of religion' is the wrong idiom, and (III) 'should have restricted' lacks the required passive. The book gives the corrected sentence as: 'Till about the 1960s it was widely assumed that politics was divided from religion and that as societies became more industrialized, religious belief and practice would be restricted to private thought and action.' Hence (d) None of the (I), (II) and (III).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q105",
+   "stage": "mains",
+   "section": "english",
+   "topic": "phrase-replacement",
+   "difficulty": 2,
+   "question": "A part of the sentence below is given in quotes (bold in the original). Three statements follow that try to explain the meaning of that phrase. Choose the set of statements that explains it correctly without altering the meaning of the sentence.\n\nHaving studied the laws of social development and of capitalism, Marx sought to prove that the destruction of capitalism was inevitable, for it had given rise to its \"own grave diggers\".\n\n[Statements paraphrased from the original]\n(I) After studying the laws of social development and of capitalism, Marx was assured that capitalism would be completely destroyed, as the ones who had constructed it would themselves be responsible for its downfall.\n(II) The laws of social development and of capitalism were so deplorable that Marx felt they would destroy capitalism, and that it would soon give rise to a new destructive method.\n(III) Marx's studies suggested that the laws of social development and capitalism were so woeful that the desolation of capitalism was certain, and nothing other than these laws themselves would be accountable for its destruction.",
+   "options": [
+    "Only (I) is correct",
+    "Only (II) is correct",
+    "Only (III) is correct",
+    "Both (I) and (II) are correct",
+    "All are correct"
+   ],
+   "correct": 2,
+   "explanation": "The phrase adapts the idiom 'digging one's own grave' — doing something unwise that brings about one's own downfall: capitalism itself produced the forces that would destroy it. Statement (III) captures this — the workings of capitalism's own laws, and nothing external, would be accountable for its destruction. Statement (I) wrongly pins the downfall on capitalism's constructors, and (II) invents a 'new destructive method'. Hence (c) Only (III). Note: the book misprints both options (b) and (c) as 'Only (III)'; per the answer key (c) and the solution, (b) has been restored here to the evidently intended 'Only (II) is correct'.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq",
+    "book-typo-suspect"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q106",
+   "stage": "mains",
+   "section": "english",
+   "topic": "para-jumbles",
+   "difficulty": 2,
+   "question": "If Sentence (C), \"Presidential contests in India are usually tame and predictable, and 2017 does not promise to be any different\" is the first sentence, what is the order of the other sentences after rearrangement?\n\n(A) Prime Minister Indira Gandhi called for a \"conscience vote\" just before the election, and a sizeable number of Congress parliamentarians and legislators voted against the \"official\" candidate, Reddy, in favour of Giri.\n(B) The Bharatiya Janata Party, with its regular allies and new-found friends, should be able to see any non-controversial candidate through.\n(C) Presidential contests in India are usually tame and predictable, and 2017 does not promise to be any different.\n(D) To date, the election of V.V. Giri over Neelam Sanjiva Reddy in 1969 remains the only notable exception to the long list of humdrum presidential elections.\n(E) Before and after that, however, the favourites have carried the day, with opposition-sponsored candidates putting up no more than a symbolic fight to prove no more than a political point.\n(F) At present, the numbers are stacked against the opposition for the July 17 election.",
+   "options": [
+    "AEFBD",
+    "FBADE",
+    "DAEFB",
+    "AFDBE",
+    "DBFEA"
+   ],
+   "correct": 2,
+   "explanation": "After C's claim that presidential contests are tame, D naturally follows by citing the only notable exception — Giri's win over Reddy in 1969; A then details that exception (Indira Gandhi's 'conscience vote' and the Congress cross-voting); E steps back to note that before and after that episode the favourites have always carried the day; F brings the discussion to the present, with numbers stacked against the opposition for the July 17 election; and B concludes that the BJP and its allies can see any non-controversial candidate through. The order is DAEFB, hence (c).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains17-q107",
+   "stage": "mains",
+   "section": "english",
+   "topic": "para-jumbles",
+   "difficulty": 2,
+   "question": "If sentence (C), \"The IS immediately claimed responsibility for the attack that killed 12 people\" is the last sentence of the paragraph, then which of the following sentences does not fit into the paragraph formed after rearranging the other sentences?\n\n(A) The terrorists clearly wanted to send a message to the Iranian state, and they retained the element of surprise.\n(B) The attack, the first major terror incident in Iran in many years, suggests that even the formidable security cover put in place by the elite Revolutionary Guards can be breached by terrorists.\n(C) The IS immediately claimed responsibility for the attack that killed 12 people.\n(D) But the attacks and the Iranian reaction must also be seen in the context of heightened Saudi Arabia-Iran rivalry.\n(E) Wednesday's attacks in Tehran targeted the two most significant symbols of the 1979 Revolution — the Parliament and the tomb of Ayatollah Khomeini, the founder of the Islamic Republic.\n(F) Though it is involved in the fight against the Islamic State in Iraq and Syria, Iran has so far largely remained insulated from the regional crises.",
+   "options": [
+    "A",
+    "E",
+    "F",
+    "D",
+    "C"
+   ],
+   "correct": 3,
+   "explanation": "With C fixed as the last sentence, the coherent paragraph is EAFBC: E introduces Wednesday's attacks on the two symbols of the 1979 Revolution; A explains the attackers' intent and element of surprise; F notes that Iran, despite fighting the IS in Iraq and Syria, had largely stayed insulated from regional crises; B observes that this first major terror incident in years shows even the Revolutionary Guards' security cover can be breached; and C closes with the IS claiming responsibility. Sentence (D), on the Saudi Arabia-Iran rivalry, is unrelated to this narrative and does not fit. Hence (d).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2017 (memory-based, 50+ Papers book)",
+    "year": 2017
+   },
+   "tags": [
+    "pyq"
+   ]
+  }
+ ],
+ "paper": {
+  "id": "sbi-po-mains-2017",
+  "name": "SBI PO Mains 2017 (partial)",
+  "exam": "sbi-po",
+  "stage": "mains",
+  "year": 2017,
+  "sections": [
+   {
+    "name": "Reasoning",
+    "pool": "reasoning",
+    "minutes": 51,
+    "marksPerQuestion": 1,
+    "questionIds": [
+     "pyq-sbipo-mains17-q001",
+     "pyq-sbipo-mains17-q002",
+     "pyq-sbipo-mains17-q003",
+     "pyq-sbipo-mains17-q004",
+     "pyq-sbipo-mains17-q005",
+     "pyq-sbipo-mains17-q006",
+     "pyq-sbipo-mains17-q007",
+     "pyq-sbipo-mains17-q008",
+     "pyq-sbipo-mains17-q009",
+     "pyq-sbipo-mains17-q010",
+     "pyq-sbipo-mains17-q011",
+     "pyq-sbipo-mains17-q012",
+     "pyq-sbipo-mains17-q013",
+     "pyq-sbipo-mains17-q014",
+     "pyq-sbipo-mains17-q015",
+     "pyq-sbipo-mains17-q016",
+     "pyq-sbipo-mains17-q017",
+     "pyq-sbipo-mains17-q018",
+     "pyq-sbipo-mains17-q019",
+     "pyq-sbipo-mains17-q020",
+     "pyq-sbipo-mains17-q021",
+     "pyq-sbipo-mains17-q022",
+     "pyq-sbipo-mains17-q023",
+     "pyq-sbipo-mains17-q024",
+     "pyq-sbipo-mains17-q025",
+     "pyq-sbipo-mains17-q026",
+     "pyq-sbipo-mains17-q027",
+     "pyq-sbipo-mains17-q028",
+     "pyq-sbipo-mains17-q029",
+     "pyq-sbipo-mains17-q030",
+     "pyq-sbipo-mains17-q031",
+     "pyq-sbipo-mains17-q032",
+     "pyq-sbipo-mains17-q033",
+     "pyq-sbipo-mains17-q034",
+     "pyq-sbipo-mains17-q035",
+     "pyq-sbipo-mains17-q036",
+     "pyq-sbipo-mains17-q037",
+     "pyq-sbipo-mains17-q038",
+     "pyq-sbipo-mains17-q039",
+     "pyq-sbipo-mains17-q040",
+     "pyq-sbipo-mains17-q041",
+     "pyq-sbipo-mains17-q042"
+    ]
+   },
+   {
+    "name": "Quant",
+    "pool": "quant",
+    "minutes": 36,
+    "marksPerQuestion": 1,
+    "questionIds": [
+     "pyq-sbipo-mains17-q043",
+     "pyq-sbipo-mains17-q044",
+     "pyq-sbipo-mains17-q045",
+     "pyq-sbipo-mains17-q046",
+     "pyq-sbipo-mains17-q047",
+     "pyq-sbipo-mains17-q048",
+     "pyq-sbipo-mains17-q049",
+     "pyq-sbipo-mains17-q050",
+     "pyq-sbipo-mains17-q051",
+     "pyq-sbipo-mains17-q052",
+     "pyq-sbipo-mains17-q053",
+     "pyq-sbipo-mains17-q054",
+     "pyq-sbipo-mains17-q055",
+     "pyq-sbipo-mains17-q056",
+     "pyq-sbipo-mains17-q057",
+     "pyq-sbipo-mains17-q058",
+     "pyq-sbipo-mains17-q059",
+     "pyq-sbipo-mains17-q060",
+     "pyq-sbipo-mains17-q061",
+     "pyq-sbipo-mains17-q062",
+     "pyq-sbipo-mains17-q063",
+     "pyq-sbipo-mains17-q064",
+     "pyq-sbipo-mains17-q065",
+     "pyq-sbipo-mains17-q066",
+     "pyq-sbipo-mains17-q067",
+     "pyq-sbipo-mains17-q068",
+     "pyq-sbipo-mains17-q069",
+     "pyq-sbipo-mains17-q070",
+     "pyq-sbipo-mains17-q071",
+     "pyq-sbipo-mains17-q072"
+    ]
+   },
+   {
+    "name": "English",
+    "pool": "english",
+    "minutes": 42,
+    "marksPerQuestion": 1,
+    "questionIds": [
+     "pyq-sbipo-mains17-q073",
+     "pyq-sbipo-mains17-q074",
+     "pyq-sbipo-mains17-q075",
+     "pyq-sbipo-mains17-q076",
+     "pyq-sbipo-mains17-q077",
+     "pyq-sbipo-mains17-q078",
+     "pyq-sbipo-mains17-q079",
+     "pyq-sbipo-mains17-q080",
+     "pyq-sbipo-mains17-q081",
+     "pyq-sbipo-mains17-q082",
+     "pyq-sbipo-mains17-q083",
+     "pyq-sbipo-mains17-q084",
+     "pyq-sbipo-mains17-q085",
+     "pyq-sbipo-mains17-q086",
+     "pyq-sbipo-mains17-q087",
+     "pyq-sbipo-mains17-q088",
+     "pyq-sbipo-mains17-q089",
+     "pyq-sbipo-mains17-q090",
+     "pyq-sbipo-mains17-q091",
+     "pyq-sbipo-mains17-q092",
+     "pyq-sbipo-mains17-q093",
+     "pyq-sbipo-mains17-q094",
+     "pyq-sbipo-mains17-q095",
+     "pyq-sbipo-mains17-q096",
+     "pyq-sbipo-mains17-q097",
+     "pyq-sbipo-mains17-q098",
+     "pyq-sbipo-mains17-q099",
+     "pyq-sbipo-mains17-q100",
+     "pyq-sbipo-mains17-q101",
+     "pyq-sbipo-mains17-q102",
+     "pyq-sbipo-mains17-q103",
+     "pyq-sbipo-mains17-q104",
+     "pyq-sbipo-mains17-q105",
+     "pyq-sbipo-mains17-q106",
+     "pyq-sbipo-mains17-q107"
+    ]
+   }
+  ]
+ }
+}
