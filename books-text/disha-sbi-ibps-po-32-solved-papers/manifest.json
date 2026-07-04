@@ -1,0 +1,554 @@
+{
+  "book": "disha-sbi-ibps-po-32-solved-papers",
+  "papers": [
+    {
+      "id": "sbi-po-single-2010-01",
+      "title": "SBI Rural Business PO Exam 2010",
+      "exam": "sbi-po",
+      "stage": "single",
+      "year": 2010,
+      "questionPages": [
+        6,
+        24
+      ],
+      "solutionPages": [
+        25,
+        31
+      ],
+      "sections": "Reasoning Ability; Data Analysis & Interpretation; English Language; General Awareness (implied, header not clearly OCR'd). 200 Qs total.",
+      "notes": "Title-page marks this 'Based on Memory' (publisher-reconstructed, not an official released paper -- true of most papers in this book, see observations). Distinct from the flagship 'SBI PO' exam -- this is the Rural Business Officer variant. Question/solution boundary verified by direct manual read of the source text."
+    },
+    {
+      "id": "sbi-po-single-2010-02",
+      "title": "SBI & its Associates Bank PO Exam 2010",
+      "exam": "sbi-po",
+      "stage": "single",
+      "year": 2010,
+      "questionPages": [
+        32,
+        49
+      ],
+      "solutionPages": [
+        50,
+        55
+      ],
+      "sections": "Reasoning Ability; (Quant implied); General Awareness/Marketing & Computer Knowledge; English Language.",
+      "notes": "Covers the pre-2017 SBI Associate Banks (State Bank of Indore/Mysore/etc.) PO recruitment, merged into SBI in 2017. Boundary between questions and solutions detected via numbering-reset heuristic (question numbering restarts at 1 with answer-letter immediately after the number); not directly verified by manual read."
+    },
+    {
+      "id": "sbi-po-single-2011-01",
+      "title": "SBI PO Exam 2011",
+      "exam": "sbi-po",
+      "stage": "single",
+      "year": 2011,
+      "questionPages": [
+        56,
+        71
+      ],
+      "solutionPages": [
+        72,
+        77
+      ],
+      "sections": "Reasoning (implied); Data Analysis & Interpretation; English Language; General Awareness.",
+      "notes": "Boundary between questions and solutions detected via numbering-reset heuristic (question numbering restarts at 1 with answer-letter immediately after the number); not directly verified by manual read."
+    },
+    {
+      "id": "sbi-po-single-2011-02",
+      "title": "SBI & its Associates PO Exam 2011",
+      "exam": "sbi-po",
+      "stage": "single",
+      "year": 2011,
+      "questionPages": [
+        78,
+        93
+      ],
+      "solutionPages": [
+        94,
+        99
+      ],
+      "sections": "Reasoning (implied); Quantitative Aptitude; General Awareness with special reference to Banking Industry; General English.",
+      "notes": "First question (odd-one-out format 'N. (a) word (b) word') looks like a solution line to naive number+letter matching -- verified manually, true solutions start well after, at print p.89/PDF 94. Question/solution boundary verified by direct manual read of the source text."
+    },
+    {
+      "id": "ibps-po-single-2011-01",
+      "title": "IBPS PO/MT Exam 2011",
+      "exam": "ibps-po",
+      "stage": "single",
+      "year": 2011,
+      "questionPages": [
+        100,
+        119
+      ],
+      "solutionPages": [
+        120,
+        129
+      ],
+      "sections": "Section headers not cleanly OCR'd for this paper (heavy puzzle-diagram noise); standard Reasoning/Quant/English/GA split inferred from question-number ranges.",
+      "notes": "First-ever IBPS common PO/MT written exam. Boundary between questions and solutions detected via numbering-reset heuristic (question numbering restarts at 1 with answer-letter immediately after the number); not directly verified by manual read."
+    },
+    {
+      "id": "ibps-po-single-2012-01",
+      "title": "IBPS PO/MT Exam 2012",
+      "exam": "ibps-po",
+      "stage": "single",
+      "year": 2012,
+      "questionPages": [
+        130,
+        147
+      ],
+      "solutionPages": [
+        148,
+        155
+      ],
+      "sections": "Reasoning Ability; Quantitative Aptitude; General Awareness; Computer Knowledge; English Language. 5 sections.",
+      "notes": "Boundary between questions and solutions detected via numbering-reset heuristic (question numbering restarts at 1 with answer-letter immediately after the number); not directly verified by manual read."
+    },
+    {
+      "id": "ibps-so-single-2012-01",
+      "title": "IBPS Specialist Officer Exam 2012",
+      "exam": "other",
+      "stage": "single",
+      "year": 2012,
+      "questionPages": [
+        156,
+        163
+      ],
+      "solutionPages": [
+        164,
+        167
+      ],
+      "sections": "Reasoning Ability; English Language; (Professional Knowledge section likely present, header not caught).",
+      "notes": "Short paper (only 12 print pages) -- fewer questions than the PO papers. Boundary between questions and solutions detected via numbering-reset heuristic (question numbering restarts at 1 with answer-letter immediately after the number); not directly verified by manual read."
+    },
+    {
+      "id": "iob-po-single-2013-01",
+      "title": "Indian Overseas Bank PO Online Exam 2013",
+      "exam": "other",
+      "stage": "single",
+      "year": 2013,
+      "questionPages": [
+        168,
+        180
+      ],
+      "solutionPages": [
+        181,
+        185
+      ],
+      "sections": "Reasoning Ability; English Language; Quantitative Aptitude; General Awareness; Computer Knowledge.",
+      "notes": "Not an SBI/IBPS paper -- included in this book as general PO-pattern practice material. Boundary between questions and solutions detected via numbering-reset heuristic (question numbering restarts at 1 with answer-letter immediately after the number); not directly verified by manual read."
+    },
+    {
+      "id": "ibps-rrb-os1-single-2013-01",
+      "title": "IBPS RRBs Officer Scale-I Exam 2013",
+      "exam": "other",
+      "stage": "single",
+      "year": 2013,
+      "questionPages": [
+        186,
+        198
+      ],
+      "solutionPages": [
+        199,
+        205
+      ],
+      "sections": "Reasoning Ability; Quantitative Aptitude; General Awareness; Computer Knowledge; English Language.",
+      "notes": "Boundary between questions and solutions detected via numbering-reset heuristic (question numbering restarts at 1 with answer-letter immediately after the number); not directly verified by manual read."
+    },
+    {
+      "id": "ibps-rrb-os23-single-2013-01",
+      "title": "IBPS RRBs Officer Scale-II & III CWE Exam 2013",
+      "exam": "other",
+      "stage": "single",
+      "year": 2013,
+      "questionPages": [
+        206,
+        219
+      ],
+      "solutionPages": [
+        220,
+        225
+      ],
+      "sections": "Reasoning Ability; Quantitative Aptitude & Data Interpretation; General Awareness; Computer Knowledge; English Language.",
+      "notes": "Single paper covers TWO officer scales (II and III) combined -- confirm with extractor whether questions differ by scale or are shared. Boundary between questions and solutions detected via numbering-reset heuristic (question numbering restarts at 1 with answer-letter immediately after the number); not directly verified by manual read."
+    },
+    {
+      "id": "sbi-po-single-2013-01",
+      "title": "SBI PO Exam 2013",
+      "exam": "sbi-po",
+      "stage": "single",
+      "year": 2013,
+      "questionPages": [
+        226,
+        241
+      ],
+      "solutionPages": [
+        242,
+        249
+      ],
+      "sections": "Reasoning (implied); Data Analysis & Interpretation; General Awareness/Marketing & Computers; General Awareness.",
+      "notes": "Boundary between questions and solutions detected via numbering-reset heuristic (question numbering restarts at 1 with answer-letter immediately after the number); not directly verified by manual read."
+    },
+    {
+      "id": "ibps-so-it-single-2013-01",
+      "title": "IBPS Specialist (I.T.) Officer Exam 2013",
+      "exam": "other",
+      "stage": "single",
+      "year": 2013,
+      "questionPages": [
+        250,
+        265
+      ],
+      "solutionPages": [
+        266,
+        271
+      ],
+      "sections": "Reasoning Ability; Quantitative Aptitude; English Language; Professional Knowledge (I.T.). 4 sections.",
+      "notes": "Boundary between questions and solutions detected via numbering-reset heuristic (question numbering restarts at 1 with answer-letter immediately after the number); not directly verified by manual read."
+    },
+    {
+      "id": "ibps-po-single-2013-02",
+      "title": "IBPS Bank PO/MT CWE Exam 2013",
+      "exam": "ibps-po",
+      "stage": "single",
+      "year": 2013,
+      "questionPages": [
+        272,
+        287
+      ],
+      "solutionPages": [
+        288,
+        295
+      ],
+      "sections": "Reasoning Ability; English Language; Quantitative Aptitude; General Awareness; Computer Knowledge.",
+      "notes": "Boundary between questions and solutions detected via numbering-reset heuristic (question numbering restarts at 1 with answer-letter immediately after the number); not directly verified by manual read."
+    },
+    {
+      "id": "ibps-po-single-2014-01",
+      "title": "IBPS Bank PO/MT CWE Exam 2014",
+      "exam": "ibps-po",
+      "stage": "single",
+      "year": 2014,
+      "questionPages": [
+        296,
+        310
+      ],
+      "solutionPages": [
+        311,
+        321
+      ],
+      "sections": "Reasoning Ability; Quantitative Aptitude; English Language; Computer Knowledge; General Awareness (with reference to Banking).",
+      "notes": "Boundary between questions and solutions detected via numbering-reset heuristic (question numbering restarts at 1 with answer-letter immediately after the number); not directly verified by manual read."
+    },
+    {
+      "id": "sbi-me-single-2014-01",
+      "title": "SBI Management Executive Exam 2014",
+      "exam": "other",
+      "stage": "single",
+      "year": 2014,
+      "questionPages": [
+        322,
+        334
+      ],
+      "solutionPages": [
+        335,
+        341
+      ],
+      "sections": "Reasoning Ability; Data Analysis & Interpretation; English Language; (GA section likely present, header not caught).",
+      "notes": "Not a PO exam -- Management Executive is a distinct SBI recruitment track. Boundary between questions and solutions detected via numbering-reset heuristic (question numbering restarts at 1 with answer-letter immediately after the number); not directly verified by manual read."
+    },
+    {
+      "id": "sbi-so-single-2014-01",
+      "title": "SBI Specialist Officer Online Exam 2014",
+      "exam": "other",
+      "stage": "single",
+      "year": 2014,
+      "questionPages": [
+        342,
+        349
+      ],
+      "solutionPages": [
+        350,
+        353
+      ],
+      "sections": "Reasoning Ability; English Language; (further sections likely present in this 12-page paper).",
+      "notes": "Boundary between questions and solutions detected via numbering-reset heuristic (question numbering restarts at 1 with answer-letter immediately after the number); not directly verified by manual read."
+    },
+    {
+      "id": "sbi-po-single-2014-01",
+      "title": "SBI PO Exam 2014",
+      "exam": "sbi-po",
+      "stage": "single",
+      "year": 2014,
+      "questionPages": [
+        354,
+        369
+      ],
+      "solutionPages": [
+        370,
+        381
+      ],
+      "sections": "Reasoning (High Level); Data Analysis & Interpretation; General Awareness/Marketing; English Language. 4 sections.",
+      "notes": "Boundary between questions and solutions detected via numbering-reset heuristic (question numbering restarts at 1 with answer-letter immediately after the number); not directly verified by manual read."
+    },
+    {
+      "id": "ibps-so-it-single-2014-01",
+      "title": "IBPS Specialist (I.T.) Officer Exam 2014",
+      "exam": "other",
+      "stage": "single",
+      "year": 2014,
+      "questionPages": [
+        382,
+        397
+      ],
+      "solutionPages": [
+        398,
+        405
+      ],
+      "sections": "Quantitative Aptitude; Reasoning Ability; English Language; Professional Knowledge (I.T.). Note: Quant precedes Reasoning in this paper's ordering.",
+      "notes": "Boundary between questions and solutions detected via numbering-reset heuristic (question numbering restarts at 1 with answer-letter immediately after the number); not directly verified by manual read."
+    },
+    {
+      "id": "corp-bank-so-single-2014-01",
+      "title": "Corporation Bank Specialist Officer Exam 2014",
+      "exam": "other",
+      "stage": "single",
+      "year": 2014,
+      "questionPages": [
+        406,
+        417
+      ],
+      "solutionPages": [
+        418,
+        423
+      ],
+      "sections": "Reasoning Ability; Quantitative Aptitude; English Language; (Professional Knowledge likely follows).",
+      "notes": "One-off inclusion of a non-SBI/IBPS public sector bank exam. Boundary between questions and solutions detected via numbering-reset heuristic (question numbering restarts at 1 with answer-letter immediately after the number); not directly verified by manual read."
+    },
+    {
+      "id": "ibps-rrb-os1-single-2014-01",
+      "title": "IBPS CWE RRB Officer Scale-I Exam 2014",
+      "exam": "other",
+      "stage": "single",
+      "year": 2014,
+      "questionPages": [
+        424,
+        435
+      ],
+      "solutionPages": [
+        436,
+        441
+      ],
+      "sections": "Reasoning Ability; English Language; Computer Knowledge; General Awareness. (Quant section implied.)",
+      "notes": "Boundary between questions and solutions detected via numbering-reset heuristic (question numbering restarts at 1 with answer-letter immediately after the number); not directly verified by manual read."
+    },
+    {
+      "id": "ibps-so-it-single-2015-01",
+      "title": "IBPS Specialist (I.T.) Officer Exam 2015",
+      "exam": "other",
+      "stage": "single",
+      "year": 2015,
+      "questionPages": [
+        442,
+        454
+      ],
+      "solutionPages": [
+        455,
+        461
+      ],
+      "sections": "Reasoning Ability; Quantitative Aptitude; English Language; Professional Knowledge.",
+      "notes": "Boundary between questions and solutions detected via numbering-reset heuristic (question numbering restarts at 1 with answer-letter immediately after the number); not directly verified by manual read."
+    },
+    {
+      "id": "ibps-rrb-os1-single-2015-01",
+      "title": "IBPS CWE-RRB Officer Scale-I Exam 2015",
+      "exam": "other",
+      "stage": "single",
+      "year": 2015,
+      "questionPages": [
+        462,
+        474
+      ],
+      "solutionPages": [
+        475,
+        479
+      ],
+      "sections": "Reasoning Ability; Quantitative Aptitude; English Language; Computer Aptitude; General Awareness. 5 sections.",
+      "notes": "Boundary between questions and solutions detected via numbering-reset heuristic (question numbering restarts at 1 with answer-letter immediately after the number); not directly verified by manual read."
+    },
+    {
+      "id": "ibps-po-pre-2015-01",
+      "title": "IBPS PO Prelim Exam 2015",
+      "exam": "ibps-po",
+      "stage": "prelims",
+      "year": 2015,
+      "questionPages": [
+        480,
+        486
+      ],
+      "solutionPages": [
+        487,
+        489
+      ],
+      "sections": "Reasoning Ability; Quantitative Aptitude; English Language (3 sections, standard Prelims format). ~100 Qs.",
+      "notes": "First IBPS PO paper in this book with the Prelims/Mains split (introduced 2015). Question/solution boundary verified by direct manual read of the source text."
+    },
+    {
+      "id": "ibps-po-main-2015-01",
+      "title": "IBPS PO Main Exam 2015",
+      "exam": "ibps-po",
+      "stage": "mains",
+      "year": 2015,
+      "questionPages": [
+        490,
+        505
+      ],
+      "solutionPages": [
+        506,
+        511
+      ],
+      "sections": "Reasoning Ability; Quantitative Aptitude; English Language; Computer Knowledge; General Awareness. 5 sections, 200 Qs.",
+      "notes": "Boundary between questions and solutions detected via numbering-reset heuristic (question numbering restarts at 1 with answer-letter immediately after the number); not directly verified by manual read."
+    },
+    {
+      "id": "sbi-po-pre-2015-01",
+      "title": "SBI Bank PO Prelim Exam 2015",
+      "exam": "sbi-po",
+      "stage": "prelims",
+      "year": 2015,
+      "questionPages": [
+        512,
+        517
+      ],
+      "solutionPages": [
+        518,
+        523
+      ],
+      "sections": "Reasoning Ability; Quantitative Aptitude; English Language. 3 sections, 100 Qs (verified: last question is Q100).",
+      "notes": "Boundary manually verified by direct read: questions end PDF p.517, solutions begin cleanly at PDF p.518 ('1. (b)...'). Question/solution boundary verified by direct manual read of the source text."
+    },
+    {
+      "id": "sbi-po-main-2015-01",
+      "title": "SBI Bank PO Main Exam 2015",
+      "exam": "sbi-po",
+      "stage": "mains",
+      "year": 2015,
+      "questionPages": [
+        524,
+        538
+      ],
+      "solutionPages": [
+        539,
+        545
+      ],
+      "sections": "Reasoning Ability; Data Analysis & Interpretation; English Language; General Awareness. 200 Qs (verified: last question is Q200).",
+      "notes": "Boundary manually verified: questions end PDF p.538 (Q200, GK), solutions begin PDF p.539. Question/solution boundary verified by direct manual read of the source text."
+    },
+    {
+      "id": "ibps-so-it-single-2016-01",
+      "title": "IBPS Specialist IT Officer Exam 2016",
+      "exam": "other",
+      "stage": "single",
+      "year": 2016,
+      "questionPages": [
+        546,
+        559
+      ],
+      "solutionPages": [
+        560,
+        569
+      ],
+      "sections": "Reasoning Ability; Quantitative Aptitude; English Language; Professional Knowledge (IT). 4 sections.",
+      "notes": "Boundary between questions and solutions detected via numbering-reset heuristic (question numbering restarts at 1 with answer-letter immediately after the number); not directly verified by manual read."
+    },
+    {
+      "id": "sbi-po-pre-2016-01",
+      "title": "SBI Bank PO Prelim Exam 2016",
+      "exam": "sbi-po",
+      "stage": "prelims",
+      "year": 2016,
+      "questionPages": [
+        570,
+        578
+      ],
+      "solutionPages": [
+        579,
+        581
+      ],
+      "sections": "Reasoning Ability; Quantitative Aptitude; English Language. 3 sections, 100 Qs (verified: last question is Q100).",
+      "notes": "Boundary manually verified: last 5 questions (96-100) are a bare 'N. (a) word (b) word' cloze format that false-triggers naive solution-line detection -- true solutions begin PDF p.579 ('Solution: 1-5:'), NOT p.578. Question/solution boundary verified by direct manual read of the source text."
+    },
+    {
+      "id": "sbi-po-main-2016-01",
+      "title": "SBI Bank PO Main Exam 2016",
+      "exam": "sbi-po",
+      "stage": "mains",
+      "year": 2016,
+      "questionPages": [
+        582,
+        595
+      ],
+      "solutionPages": [
+        596,
+        599
+      ],
+      "sections": "Reasoning & Computer Aptitude; Data Analysis & Interpretation; English Language; General/Economy/Banking Awareness. 155 Qs (verified: last question is Q155) -- shorter Mains format matching SBI's actual 2016 pattern change (reduced objective count + separate descriptive test not included in this book).",
+      "notes": "Boundary manually verified: questions end PDF p.595 (Q155, GK), solutions begin PDF p.596. Question/solution boundary verified by direct manual read of the source text."
+    },
+    {
+      "id": "ibps-po-pre-2016-01",
+      "title": "IBPS PO Prelim Exam 2016",
+      "exam": "ibps-po",
+      "stage": "prelims",
+      "year": 2016,
+      "questionPages": [
+        600,
+        607
+      ],
+      "solutionPages": [
+        608,
+        611
+      ],
+      "sections": "Quantitative Aptitude; Reasoning Ability; English Language. 3 sections -- note Quant precedes Reasoning in this paper's ordering.",
+      "notes": "Boundary manually verified: Q88-100 are multi-line 'error spotting' questions (options on separate lines, ending in 'No error') that false-trigger naive detection -- true solutions begin PDF p.608, not p.606/607. Question/solution boundary verified by direct manual read of the source text."
+    },
+    {
+      "id": "ibps-po-main-2016-01",
+      "title": "IBPS PO Main Exam 2016",
+      "exam": "ibps-po",
+      "stage": "mains",
+      "year": 2016,
+      "questionPages": [
+        612,
+        627
+      ],
+      "solutionPages": [
+        628,
+        633
+      ],
+      "sections": "Quantitative Aptitude; Reasoning Ability; English Language; Computer Knowledge; General Awareness (with reference to...). 5 sections -- Quant precedes Reasoning.",
+      "notes": "Boundary between questions and solutions detected via numbering-reset heuristic (question numbering restarts at 1 with answer-letter immediately after the number); not directly verified by manual read."
+    },
+    {
+      "id": "ibps-rrb-os1-single-2016-01",
+      "title": "IBPS RRB Officer Scale I Exam 2016",
+      "exam": "other",
+      "stage": "single",
+      "year": 2016,
+      "questionPages": [
+        634,
+        646
+      ],
+      "solutionPages": [
+        647,
+        649
+      ],
+      "sections": "Quantitative Aptitude; Reasoning Ability; English Language; Computer Knowledge.",
+      "notes": "Boundary between questions and solutions detected via numbering-reset heuristic (question numbering restarts at 1 with answer-letter immediately after the number); not directly verified by manual read."
+    }
+  ],
+  "frontMatterPages": [
+    1,
+    5
+  ],
+  "observations": "Source is a pirated/OCR scan (EasyEngineering.net watermark repeated at the bottom of every page as 3 lines: 'Downloaded From: www.EasyEngineering.net' x2 + 'www.EasyEngineering.net' -- strip these). All page numbers in this manifest (frontMatterPages, questionPages, solutionPages) are PDF/chunk-file page numbers matching the '=== PAGE N ===' markers in books-text, NOT the printed page numbers visible in the book's own running headers. PAGE OFFSET RULE: pdf_page = printed_page + 5, confirmed essentially perfectly across the entire 650-page book (verified via running-header page numbers at dozens of points from PDF p.7 to p.649 with zero drift). Front matter = PDF pages 1-5 (cover/disclaimer, title page, publisher info, 2-page table of contents). Paper 1 content starts PDF p.6 = printed p.1. PDF p.650 is a trailing duplicate disclaimer/watermark page, not book content -- book content ends at PDF p.649 (printed p.644), matching the TOC. The TOC's 32 printed-page ranges are perfectly contiguous (each paper's start = previous paper's end + 1), which cross-validates the OCR transcription. SOLUTIONS LOCATION: Disha does NOT use a 'Hints & Solutions' heading anywhere in this book. Each paper is one continuous run of pages: all questions across all sections first (numbered 1..N cumulatively across sections, N is usually 200 for full CWE-style papers, 100 for Prelims-only papers, and variable -- e.g. 155 -- for some Mains papers with a reduced objective count), then solutions restart at '1.' immediately with the answer letter attached, e.g. '1. (c) <explanation>' or compact answer-grid lines like '121. (e) 122. (c) 123. (b)'. Extractors should detect this transition by the numbering reset, NOT by searching for heading text. CAUTION: several question formats (odd-one-out 'N. (a) word (b) word'; cloze/fill-blank option lists; multi-line 'error spotting' questions ending in 'No error') can look identical to a solution line under a naive 'digit + (letter)' pattern match -- a correct detector must confirm the pattern is SUSTAINED (near-continuous) through to the very last page of the paper, not just a local match, since these false-positive formats only cluster briefly (a handful of questions) before textual questions resume. This tripped up 3 of the 32 papers during manifest construction (papers 4, 28, 30) until the detector was hardened; all 32 boundaries in this manifest use the hardened detector, and 8 papers (1, 4, 23, 25, 26, 28, 29, 30) spanning early/late and simple/tricky cases were additionally confirmed by direct manual reads, including all 4 priority SBI-PO-2015+ papers (25, 26, 28, 29). QUALITY: text extraction/OCR is generally clean prose, but math (fractions, roots, inequality symbols like >=, <=) and diagram-based reasoning questions (seating arrangements, family trees, coding-decoding letter/number grids) are frequently garbled into jumbled character sequences or single-letter noise lines -- these are unusable as-is and extractors should expect to reconstruct or flag such questions rather than trust the raw text. All papers are printed as pure objective MCQ (options a-e); no descriptive-answer-era papers were found despite the book spanning back to 2010 -- the pre-2015 'descriptive era' caution did not materialize in this particular book. Most paper title pages are marked 'Based on Memory' (a publisher disclaimer that the paper was reconstructed from candidates' recollections rather than reproduced from an official released paper) -- this is near-universal in this book (30 of 32 chunk-file ranges matched), not a per-paper quirk, so treat all papers as memory-reconstructions of unverified fidelity to the original exam. Two 2016-dated IBPS PO papers (30, 31) and the 2014 IT Specialist paper (18) order Quantitative Aptitude before Reasoning Ability, unlike the rest of the book."
+}
