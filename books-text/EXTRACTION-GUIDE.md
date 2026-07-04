@@ -38,10 +38,10 @@ You are extracting one previous-year paper into `/home/user/bank-prep/src/data/q
 
 ## Write protocol — MANDATORY (single big writes die at 64k output tokens)
 
-Write per-section part files, EACH IN ITS OWN response turn, each under ~700 lines:
-- `<paper-id>.part-reasoning.json`, `<paper-id>.part-quant.json`, `<paper-id>.part-english.json` (+ `.part-general.json` for mains with GA), each `{"sets":[...],"questions":[...]}`
+Write MANY SMALL part files, EACH IN ITS OWN response turn. Hard limits per single Write call: **max ~15-20 questions, max ~400 lines**. Multiple agents have died emitting more — one response turn must never carry a whole section.
+- Name parts freely: `<paper-id>.part-r1.json`, `.part-r2.json`, `.part-q1.json`, `.part-e1.json`, `.part-g1.json`, ... each `{"sets":[...],"questions":[...]}` (put a set in the same part as its first member question)
 - `<paper-id>.part-meta.json` -> `{"paper":{...}}`
-If any single section exceeds ~45 questions, split it into two part files (e.g. `.part-quant2.json`).
+- Never combine two part writes in one response, and never emit question JSON in your text output — only inside Write calls.
 
 Merge (adapt the part list):
 ```

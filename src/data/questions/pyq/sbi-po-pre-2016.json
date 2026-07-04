@@ -1,0 +1,2796 @@
+{
+ "sets": [
+  {
+   "id": "pyq-sbipo-pre16-set1",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "title": "Seven Boxes Stacked by Colour",
+   "context": "Seven boxes - J, K, L, M, N, O and G - of different colours (Brown, Orange, Silver, Pink, Yellow, White and Green) are kept one above another, not necessarily in this order.\nThe box which is Brown coloured is immediately above J.\nThere are only two boxes between M and the Brown coloured box, and box M is above the Brown coloured box.\nThe box which is Silver coloured is above M but not immediately above M.\nThere are only three boxes between L and the Silver coloured box.\nThe box which is Green coloured is immediately above L.\nThe box which is Pink coloured is immediately above box G.\nOnly one box is there between K and N. Box K is above N.\nNeither box K nor J is Yellow coloured. J is not Orange coloured."
+  },
+  {
+   "id": "pyq-sbipo-pre16-set2",
+   "section": "reasoning",
+   "topic": "blood-relations",
+   "title": "Family Tree - T, D and Their Relatives",
+   "context": "T is the sister of D. D is married to P. P is the son of M.\nT is the mother of J. Y is the father of U.\nY has only one son and only one daughter.\nU is the daughter of T. Q is the son of D."
+  },
+  {
+   "id": "pyq-sbipo-pre16-set3",
+   "section": "reasoning",
+   "topic": "direction-sense",
+   "title": "Six Points - Distance and Direction",
+   "context": "P is 9 m to the south of K.\nK is 5 m to the east of H.\nH is 4 m to the north of B.\nL is 3 m west of B.\nD is 7 m south of L.\nG is 8 m east of D."
+  },
+  {
+   "id": "pyq-sbipo-pre16-set4",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "title": "Eight People in a Row Facing North/South",
+   "context": "S, T, U, V, W, X, Y and Z are sitting in a straight line, equidistant from each other, but not necessarily in this order. Some of them face north and some face south.\nS faces north. Only two people sit to the right of S. T sits third to the left of S.\nOnly one person sits between T and X. X sits to the immediate right of W. Only one person sits between W and Z.\nBoth the immediate neighbours of T face the same direction. U sits third to the left of X.\nT faces the opposite direction to S. Y does not sit at either of the extreme ends of the line.\nV faces the same direction as W. Both Y and U face the direction opposite to Z."
+  },
+  {
+   "id": "pyq-sbipo-pre16-set5",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "title": "Seven People Across Three Departments with Favourite Colours",
+   "context": "W, X, Y, Z, M, N and O belong to three different departments - R&D, Marketing and HR - with at least two of them in any of these departments. Each of them has a favourite colour - Green, Blue, Red, Pink, Black, Violet and Purple - but not necessarily in the same order.\nX works in the Marketing department with M. M's favourite colour is Purple. Those who work in the R&D department do not like Green and Pink.\nThe one who likes Blue works only with O in the HR department. The one whose favourite colour is Black does not work in the same department as either M or O.\nW does not work in the Marketing department. W likes Violet. Z and N work in the same department. N does not like Red.\nThe one whose favourite colour is Pink does not work in the Marketing department."
+  },
+  {
+   "id": "pyq-sbipo-pre16-set6",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "title": "Seven People, Months and Favourite Fruits",
+   "context": "Seven persons - P, Q, R, S, T, U and V - are going to attend a marriage ceremony, not necessarily in this order, in seven different months of the same year - January, February, March, June, August, October and December - not necessarily in this order. Each of them also likes a different fruit - Banana, Grapes, Papaya, Orange, Mango, Litchi and Apple - not necessarily in this order.\nR is going to attend the marriage in a month which has less than 31 days. Only two persons attend the marriage ceremony between the months in which R and S attend.\nThe one who likes Banana attends the ceremony immediately before T. Only one person attends the ceremony before the one who likes Papaya.\nQ attends the ceremony immediately after the one who likes Papaya. Only three persons attend the ceremony between Q and the one who likes Mango.\nT likes neither Mango nor Papaya. P attends the ceremony immediately before T. V likes Apple.\nThe one who likes Grapes attends the ceremony in a month which has less than 31 days. The one who attends the ceremony in March does not like Orange."
+  },
+  {
+   "id": "pyq-sbipo-pre16-set7",
+   "section": "reasoning",
+   "topic": "order-ranking",
+   "title": "Six Books on Shelves of Different Sizes",
+   "context": "Six books - A, B, C, D, E and F - are kept in a library on shelves of different sizes.\nBook A is kept on the shelf which is only next in size below the shelf on which book D is kept.\nOnly three shelves are less in size than the shelf on which book C is kept.\nThe shelf on which F is kept is less in size than the shelf on which E is kept.\nBook F is not kept on the lowest (smallest) shelf."
+  },
+  {
+   "id": "pyq-sbipo-pre16-set8",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "title": "Bar Graph - Gymnasium A and B Enrolment (1990-1994)",
+   "context": "The bar graph shows the total number of members enrolled in two gymnasiums, A and B, from 1990 to 1994 (reconstructed from the solutions' arithmetic; the original bar-graph image could not be recovered, and two figures - Gymnasium B's 1990 and 1992 enrolments - are not determinable, though no question below needs them).\n\n| Year | Gymnasium A | Gymnasium B |\n|---|---|---|\n| 1990 | 170 | not recoverable |\n| 1991 | 60 | 210 |\n| 1992 | 140 | not recoverable |\n| 1993 | 200 | 240 |\n| 1994 | 70 | 150 |"
+  },
+  {
+   "id": "pyq-sbipo-pre16-set9",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "title": "Table - Employees of Five Companies by Department and Gender",
+   "context": "Five companies employ staff across HR and Marketing departments, with a table (reconstructed from the solutions' arithmetic; the original table image could not be recovered) also breaking down male/female employees in each department. Company T has 300 total employees, with 30% in HR (90 people) and 10% in Marketing (30 people, of which 21 are female). Company P has 400 total employees, with 26% in HR (104 people, of which 48 are male). Company Q's HR department has 65 female employees. Company R's HR department has 140 male employees, and its Marketing department has 20 male employees and 35 female employees. Company S's Marketing department has 22 female employees."
+  },
+  {
+   "id": "pyq-sbipo-pre16-set10",
+   "section": "english",
+   "topic": "para-jumbles",
+   "title": "Para Jumble - River Interlinking Scheme",
+   "context": "Rearrange the following six sentences (A, B, C, D, E and F) in the proper sequence to form a meaningful paragraph.\n\nA. The evidence on the benefits of the interlinking scheme is mixed. On the one hand the project is built on hopes that it will boost per capita water availability for 220mn water-hungry Indians.\nB. The initial plan to interlink India's rivers came in 1858 from a British irrigation engineer, Sir Arthur Thomas Cotton.\nC. The scheme also envisions an area more than twice the size of Andhra Pradesh receiving additional water for irrigation and to eventually even out the precarious swings between floods and droughts.\nD. And concerns surrounding escalating cost projections, which have reportedly jumped to something closer to Rs. 11 lakh crore.\nE. Yet even as the project moves forward it must consider the risks at hand, which include the possibility that it could displace nearly 1.5 million people due to the submergence of 27.66 lakh hectares of land.\nF. Since late last year, the scheme has been implemented by the Central government in several segments such as the Godavari-Krishna interlink in Andhra Pradesh, and the Ken-Betwa interlink in Madhya Pradesh."
+  },
+  {
+   "id": "pyq-sbipo-pre16-set11",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "title": "RC: The Rise of Emerging Markets and the BRICs",
+   "context": "Today emerging markets account for more than half of world GDP on the basis of purchasing power according to the International Monetary Fund (IMF). In the 1990s, it was about a third, and in the late 1990s 30% of countries in the developing world managed to increase their output per person faster than America did, thus achieving what is called 'catch-up growth'. That catching up was somewhat lackadaisical - it closed at just 1.5% a year.\n\nSome of this was due to slower growth in America, but most was not. The most impressive growth was in four of the biggest emerging economies - Brazil, Russia, India and China (BRICs). These economies have grown in different ways and for different reasons. The remarkable growth of emerging markets in general and the BRICs in particular transformed the global economy in many ways. Commodity prices soared and the cost of manufactures and labour sank.\n\nA growing and vastly more accessible pool of labour in emerging economies played a part in both wage stagnation and rising income inequality in each of these economies. Global poverty rates tumbled. Gaping economic imbalances fuelled an era of financial vulnerability and laid the groundwork for a global crisis. The shift towards the emerging economies will continue. But its most tumultuous phase seems to have more or less reached its end. Growth rates have dropped, the nature of their growth is in the process of changing too, and its new mode will have lesser direct effects on the rest of the world. The likelihood of growth in other emerging economies having an effect in the near future comparable to that of the BRICs in the recent past is low. The emerging giants will grow larger and their ranks will swell, but their tread will no longer shake the Earth as it once did.\n\nAfter the 1990s, there followed 'convergence with a vengeance'. China's pivot towards liberalization and global markets came at a propitious time in terms of politics, business and technology. Rich economies were feeling relatively relaxed about globalization and current account deficits. America's economy was booming and its confidence was little troubled by the growth of Chinese industry or by off-shoring jobs to India. And the technology necessary to assemble and maintain complex supply chains was coming into its own, allowing firms to spread their operations between countries and across oceans. The tumbling costs of shipping and communication sparked 'globalisation's second unbounding' (the first was the simple ability to provide consumers in one place with goods from another). As longer supply chains infiltrated and connected places with large and fast-growing working-age populations, enormous quantities of cheap new labour became accessible.\n\nIn 2007, China's economy expanded by an eye-popping 14.2%. India managed 10.1% growth, Russia 8.5% and Brazil 6.1%. The IMF now reckons there will be a slowdown in growth: China will grow by just 7.6% in 2013, India by 5.6%, and Russia and Brazil by 2.5%. Other countries have impressive growth potential - the 'Next 11' (N11), which includes Bangladesh, Indonesia, Mexico, Nigeria and Turkey. But there are various reasons to think that this N11 cannot have an impact on the same scale as that of the BRICs. The first is that these economies are smaller - the N11 has a population of just over 1.3 billion, less than half that of the BRICs. The second is that the N11 is richer now than the BRICs were back in the day.\n\nThe third reason that the performance of the BRICs cannot be repeated is the very success of that performance. The world economy is much larger than it used to be - twice as large in real terms as it was in 1992, according to IMF figures. But whether or not the world can build a remarkable era of growth will depend in large part on whether new giants tread a path towards greater global co-operation or stumble in times of tumult, and in the worst case, fight."
+  },
+  {
+   "id": "pyq-sbipo-pre16-set12",
+   "section": "english",
+   "topic": "cloze-test",
+   "title": "Cloze Test - Tiger Cub Rearing",
+   "context": "Adult tigers will meet socially only during courtship, when a male and female stay together for several days. After successful mating, the tigress will ___(96)___ away the male to ___(97)___ the cubs by herself. Cubs are born blind after a gestation period between 96 and 104 days. If their eyes open after two weeks, they do not begin to eat well until the second month. At this stage, they are most ___(98)___ to predators like jackals and hyenas as they are left alone for long periods when the tigress is away hunting. Infant mortality is therefore high; a tigress ___(99)___ raises more than one cub per litter successfully. She will keep her ___(100)___ with her for almost two years, teaching them everything necessary to perfect their survival skills. At the end of this time, she will gently push them away so that she is free to search out a new mate and begin the breeding cycle anew."
+  }
+ ],
+ "questions": [
+  {
+   "id": "pyq-sbipo-pre16-q001",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "inequality",
+   "difficulty": 2,
+   "question": "Statements: A > B ≤ C = D ≤ E, C ≥ F = G > H\nConclusions: I. G ≤ E II. A > H",
+   "options": [
+    "Only conclusion I follows",
+    "Only conclusion II follows",
+    "Either conclusion I or II follows",
+    "Neither conclusion I nor II follows",
+    "Both conclusions I and II follow"
+   ],
+   "correct": 0,
+   "explanation": "Combining C ≥ F = G with C = D ≤ E gives G ≤ C = D ≤ E, so G ≤ E is definitely true (I follows). But A > B ≤ C ≥ F = G > H breaks at 'B ≤ C ≥ F', so no fixed relation between A and H can be established (II does not follow).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q002",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "inequality",
+   "difficulty": 3,
+   "question": "Statements: H ≥ T > S ≤ Q, T ≥ U = V > B\nConclusions: I. V > S II. B ≤ H",
+   "options": [
+    "Only conclusion I follows",
+    "Only conclusion II follows",
+    "Either conclusion I or II follows",
+    "Neither conclusion I nor II follows",
+    "Both conclusions I and II follow"
+   ],
+   "correct": 3,
+   "explanation": "From V = U ≤ T > S, the chain peaks at T, so no fixed relation between V and S can be pinned down - conclusion I does not follow. Combining T ≥ U = V > B with H ≥ T gives B < V = U ≤ T ≤ H, i.e. B < H; the answer key nonetheless marks conclusion II as not following, treating neither conclusion as established.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq",
+    "book-typo-suspect"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q003",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "inequality",
+   "difficulty": 2,
+   "question": "Statements: F < K ≤ L, H ≥ R > K\nConclusions: I. H > L II. R > F",
+   "options": [
+    "Only conclusion I follows",
+    "Only conclusion II follows",
+    "Either conclusion I or II follows",
+    "Neither conclusion I nor II follows",
+    "Both conclusions I and II follow"
+   ],
+   "correct": 1,
+   "explanation": "H ≥ R > K ≤ L breaks at 'K ≤ L' relative to R, so H > L cannot be fixed (I does not follow). But R > K and F < K together directly give R > K > F, so R > F is definitely true (II follows).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q004",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "inequality",
+   "difficulty": 2,
+   "question": "Statements: N ≥ P > K = L, P ≤ Q < Z, T > K\nConclusions: I. N > Q II. Z < T",
+   "options": [
+    "Only conclusion I follows",
+    "Only conclusion II follows",
+    "Either conclusion I or II follows",
+    "Neither conclusion I nor II follows",
+    "Both conclusions I and II follow"
+   ],
+   "correct": 3,
+   "explanation": "N ≥ P and P ≤ Q combine to N ≥ P ≤ Q, which peaks at P, so no fixed relation between N and Q emerges (I does not follow). Z > Q ≥ P > K < T similarly breaks at 'K < T', so Z and T cannot be compared (II does not follow either).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q005",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "inequality",
+   "difficulty": 2,
+   "question": "Statements: P < H = O ≥ N, E ≥ H < S\nConclusions: I. N ≤ E II. S > P",
+   "options": [
+    "Only conclusion I follows",
+    "Only conclusion II follows",
+    "Either conclusion I or II follows",
+    "Neither conclusion I nor II follows",
+    "Both conclusions I and II follow"
+   ],
+   "correct": 4,
+   "explanation": "O ≥ N reversed gives N ≤ O = H, and with E ≥ H we get N ≤ O = H ≤ E, so N ≤ E is definitely true (I follows). H < S reversed gives S > H, and H > P (from P < H) gives S > H > P, so S > P is definitely true (II follows).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q006",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre16-set1",
+   "question": "How many boxes are there between M and G?",
+   "options": [
+    "One",
+    "Two",
+    "Three",
+    "Four",
+    "None"
+   ],
+   "correct": 1,
+   "explanation": "The final stack, bottom to top, is J(White), G(Brown), L(Pink), N(Green), M(Yellow), K(Orange), O(Silver). M is 5th and G is 2nd, so L and N - two boxes - lie between them.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q007",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre16-set1",
+   "question": "What is the colour of 'O'?",
+   "options": [
+    "Green",
+    "Brown",
+    "Silver",
+    "Pink",
+    "Can't be determined."
+   ],
+   "correct": 2,
+   "explanation": "O sits at the top of the stack, which holds the Silver coloured box.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q008",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre16-set1",
+   "question": "Find the pair of colour and boxes which is not correct?",
+   "options": [
+    "K-Pink",
+    "O-Silver",
+    "J-white",
+    "G-Brown",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "K actually holds the Orange box, not Pink, making 'K-Pink' the incorrect pairing; O-Silver, J-White and G-Brown are all correct.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q009",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre16-set1",
+   "question": "Which of the following condition is correct regarding yellow colour with respect to N?",
+   "options": [
+    "There is one box between N and the Yellow colour box",
+    "N is immediately above of yellow colour box",
+    "The Yellow colour box is related to the box which is immediately above N",
+    "All of the above is true",
+    "None of the above is true."
+   ],
+   "correct": 2,
+   "explanation": "N holds the Green box and sits immediately below M, which holds the Yellow box - so the Yellow box is the one immediately above N.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q010",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre16-set1",
+   "question": "Which of the following colour belongs to 'J'?",
+   "options": [
+    "Brown",
+    "Pink",
+    "Yellow",
+    "Orange",
+    "None of these."
+   ],
+   "correct": 4,
+   "explanation": "J holds the White box, which is not listed among options (a)-(d), so the answer is 'None of these'.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q011",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "blood-relations",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre16-set2",
+   "question": "How is P related to T?",
+   "options": [
+    "Brother",
+    "cannot be determined",
+    "Brother-in-law",
+    "Cousin brother",
+    "Uncle"
+   ],
+   "correct": 2,
+   "explanation": "P is married to D, and T is D's sister, so P is T's brother-in-law.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q012",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "blood-relations",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre16-set2",
+   "question": "How is J related to D?",
+   "options": [
+    "Son",
+    "Niece",
+    "Son-in-law",
+    "Nephew",
+    "Daughter"
+   ],
+   "correct": 3,
+   "explanation": "J is T's son, and T is D's sister, making J the son of D's sister - D's nephew.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q013",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "blood-relations",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre16-set2",
+   "question": "If M is wife of W then how is Q related to W?",
+   "options": [
+    "Son-in-law",
+    "Grandson",
+    "Nephew",
+    "Son",
+    "Cannot be determined"
+   ],
+   "correct": 1,
+   "explanation": "M is P's mother; if W is M's husband, W is P's father. Q is D and P's son, so Q is W's grandson.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q014",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "direction-sense",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre16-set3",
+   "question": "If Point Z is 5 m to the west of point P, then what is the distance between B and Z?",
+   "options": [
+    "8 m",
+    "9 m",
+    "5 m",
+    "2 m",
+    "6 m"
+   ],
+   "correct": 2,
+   "explanation": "Taking H as origin (0,0): K=(5,0), P=(5,-9), B=(0,-4). Z, 5 m west of P, is at (0,-9). B and Z share the same north-south line (x=0), so the distance between them is |-4-(-9)| = 5 m.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q015",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "direction-sense",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre16-set3",
+   "question": "How far and in which direction is point K from Point G?",
+   "options": [
+    "11 m to the south",
+    "7 m to the north",
+    "11 m to the north",
+    "7 m to the south",
+    "11 m to the west"
+   ],
+   "correct": 2,
+   "explanation": "With H at (0,0): K=(5,0); L=(-3,-4), D=(-3,-11), G=(5,-11). K and G share the same north-south line (x=5), and K lies 0-(-11)=11 m north of G.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q016",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-pre16-set4",
+   "question": "How many persons in the given arrangement are facing North?",
+   "options": [
+    "More than four",
+    "Four",
+    "One",
+    "Three",
+    "Two"
+   ],
+   "correct": 1,
+   "explanation": "The final arrangement, left to right with facing direction, is U(South)-Z(North)-T(South)-W(North)-X(South)-S(North)-Y(South)-V(North). Four people - Z, W, S and V - face North.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q017",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-pre16-set4",
+   "question": "Four of the following five are alike in a certain way, and so form a group. Which of the following does not belong to the group?",
+   "options": [
+    "W, X",
+    "Z, Y",
+    "T, S",
+    "T, Y",
+    "V, U"
+   ],
+   "correct": 3,
+   "explanation": "W-X, Z-Y, T-S and V-U are each pairs of people facing opposite directions; T and Y, however, both face South - making T,Y the pair that does not fit the 'opposite direction' pattern.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q018",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre16-set4",
+   "question": "What is the position of X with respect to Z?",
+   "options": [
+    "Second to the left",
+    "Third to the right",
+    "Third to the left",
+    "Fifth to the right",
+    "Second to the right"
+   ],
+   "correct": 1,
+   "explanation": "In the final order U-Z-T-W-X-S-Y-V, Z is 2nd from the left and X is 5th, so X sits third to the right of Z.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q019",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre16-set4",
+   "question": "Who amongst the following sits exactly between Z and W?",
+   "options": [
+    "T",
+    "Y",
+    "X",
+    "W",
+    "U"
+   ],
+   "correct": 0,
+   "explanation": "Z is 2nd and W is 4th in the row U-Z-T-W-X-S-Y-V, so T (3rd) sits exactly between them.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q020",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-pre16-set4",
+   "question": "Who is sitting 2nd to the right of T?",
+   "options": [
+    "Z",
+    "V",
+    "X",
+    "W",
+    "None of these."
+   ],
+   "correct": 1,
+   "explanation": "T sits 3rd from the left in U-Z-T-W-X-S-Y-V, so counting two places to the right lands on X (5th). The answer key marks V (8th) instead; kept here as the key's stated answer even though a direct count points to X.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq",
+    "book-typo-suspect"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q021",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre16-set5",
+   "question": "In which department W, Z and N work?",
+   "options": [
+    "Cannot be determined",
+    "R&D",
+    "Marketing",
+    "HR",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "W, Z and N all work in the R&D department, alongside no one else.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q022",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre16-set5",
+   "question": "Whose favourite Colour is Green?",
+   "options": [
+    "X",
+    "W",
+    "Y",
+    "Z",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "X's favourite colour is Green.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q023",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre16-set5",
+   "question": "Which of the following is M's favourite Colour?",
+   "options": [
+    "Violet",
+    "Pink",
+    "Purple",
+    "Black",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "M's favourite colour is Purple, as stated directly in the clues.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q024",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre16-set5",
+   "question": "Which of the following combination is right?",
+   "options": [
+    "W – HR : Blue",
+    "O – R&D : Black",
+    "N – HR : Pink",
+    "Z – R&D : Red",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "The final layout gives W-R&D:Violet, O-HR:Pink and N-R&D:Black, so those three combinations are wrong; Z-R&D:Red is the only correct pairing.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q025",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre16-set5",
+   "question": "Y works in which department?",
+   "options": [
+    "R&D",
+    "Marketing",
+    "HR",
+    "Cannot be determined",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "Y works in the HR department together with O.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q026",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre16-set5",
+   "question": "Whose favourite Colour is Pink?",
+   "options": [
+    "X",
+    "W",
+    "O",
+    "Z",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "O's favourite colour is Pink.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q027",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre16-set5",
+   "question": "In which department M works?",
+   "options": [
+    "Cannot be determined",
+    "R&D",
+    "Marketing",
+    "HR",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "M works in the Marketing department, together with X.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q028",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre16-set6",
+   "question": "Which of the following represents the month in which S attends marriage ceremony?",
+   "options": [
+    "January",
+    "Cannot be determined",
+    "October",
+    "December",
+    "June"
+   ],
+   "correct": 3,
+   "explanation": "S attends the ceremony in December.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q029",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre16-set6",
+   "question": "Which of the following represents the people who attend ceremony in January and June respectively?",
+   "options": [
+    "V, S",
+    "U, S",
+    "Q, T",
+    "U, R",
+    "V, R"
+   ],
+   "correct": 4,
+   "explanation": "V attends in January and R attends in June.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q030",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre16-set6",
+   "question": "How many persons attend ceremony between the months in which V and R attend ceremony?",
+   "options": [
+    "None",
+    "Three",
+    "Two",
+    "One",
+    "More than three"
+   ],
+   "correct": 2,
+   "explanation": "V attends in January and R in June; ordering the seven months chronologically (Jan, Feb, Mar, Jun, Aug, Oct, Dec), February and March fall between them - two persons, U and Q.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q031",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-pre16-set6",
+   "question": "As per the given arrangement, R is related to Banana and P is related to Orange following a certain pattern, which of the following is U related to following the same pattern?",
+   "options": [
+    "Mango",
+    "Litchi",
+    "Apple",
+    "Papaya",
+    "Grapes"
+   ],
+   "correct": 1,
+   "explanation": "R (June) attends immediately before the Banana-liker P (August), and P attends immediately before the Orange-liker T (October) - each person links to the fruit liked by whoever attends immediately after them. U attends in February, immediately before Q (March), who likes Litchi - so U relates to Litchi by the same pattern.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q032",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre16-set6",
+   "question": "Which of the following fruits, does U like?",
+   "options": [
+    "Papaya",
+    "Mango",
+    "Banana",
+    "Grapes",
+    "Orange"
+   ],
+   "correct": 0,
+   "explanation": "U likes Papaya.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q033",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "order-ranking",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre16-set7",
+   "question": "Who amongst the following book is kept at lowest shelf?",
+   "options": [
+    "B",
+    "A",
+    "E",
+    "C",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "The size order from largest to smallest is D > A > C > E > F > B, so B sits on the smallest (lowest) shelf.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q034",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "order-ranking",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre16-set7",
+   "question": "If size of shelf in which book E is kept is 16 cm2, then which of the following may be the size of shelf in which book B is kept?",
+   "options": [
+    "19 cm2",
+    "22 cm2",
+    "18 cm2",
+    "17 cm2",
+    "12 cm2"
+   ],
+   "correct": 4,
+   "explanation": "Since D > A > C > E > F > B, both F and B must be smaller than E's 16 cm2 shelf. Among the options, only 12 cm2 is less than 16, so it alone can fit B.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q035",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "order-ranking",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre16-set7",
+   "question": "How many shelf are less in size than shelf in which book E is kept?",
+   "options": [
+    "One",
+    "Two",
+    "Three",
+    "Four",
+    "More than four"
+   ],
+   "correct": 1,
+   "explanation": "With the order D > A > C > E > F > B, only F and B rank below E - two shelves.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q036",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre16-set8",
+   "question": "If in the year 1995 there is 30% increase in total number of members enrolled then in 1994 by both gymnasium, then find the total no. of members enrolled in 1995?",
+   "options": [
+    "282",
+    "296",
+    "292",
+    "286",
+    "none of these"
+   ],
+   "correct": 3,
+   "explanation": "Total enrolled in 1994 (both gymnasiums) = 70+150 = 220. A 30% increase gives 220 x 1.3 = 286.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q037",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre16-set8",
+   "question": "The ratio between total members of both gymnasium in 1991 to total members in 1994 of both gymnasium is-",
+   "options": [
+    "22:27",
+    "21:11",
+    "11:21",
+    "25:13",
+    "27:22"
+   ],
+   "correct": 4,
+   "explanation": "1991 total = 60+210 = 270; 1994 total = 70+150 = 220. Ratio = 270:220 = 27:22.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q038",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre16-set8",
+   "question": "The number of members of gymnasium A in 1991 is what % of the no. of members of gymnasium B in 1994.",
+   "options": [
+    "60%",
+    "55%",
+    "58%",
+    "62%",
+    "none of these"
+   ],
+   "correct": 4,
+   "explanation": "Gymnasium A in 1991 = 60; Gymnasium B in 1994 = 150. Required % = 60/150 x 100 = 40%, which matches none of the listed percentages, so the answer is 'none of these'.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q039",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre16-set8",
+   "question": "The total number of members enrolled in gymnasium A from 1991 to 1994 together is what percent more than the total number of members enrolled in gymnasium B in 1993 and 1994 together?(Rounded off to 2 decimal places)",
+   "options": [
+    "10.51%",
+    "20.51%",
+    "15.51%",
+    "17.51%",
+    "none of these"
+   ],
+   "correct": 1,
+   "explanation": "Gymnasium A (1991-1994) = 60+140+200+70 = 470. Gymnasium B (1993+1994) = 240+150 = 390. Required % = (470-390)/390 x 100 = 20.51%.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q040",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre16-set8",
+   "question": "Total member enrolled in gymnasium B in 1993 and 1994 together is what % more than members enrolled in gymnasium A in 1990 and 1994 together?",
+   "options": [
+    "60%",
+    "65%",
+    "62.5%",
+    "61.5%",
+    "none of these"
+   ],
+   "correct": 2,
+   "explanation": "Gymnasium B (1993+1994) = 390. Gymnasium A (1990+1994) = 170+70 = 240. Required % = (390-240)/240 x 100 = 62.5%.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q041",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "number-series",
+   "difficulty": 2,
+   "question": "What should come in place of question mark (?) in the following number series?\n4, 3, 4, 7, 15, ?",
+   "options": [
+    "38.5",
+    "40",
+    "45",
+    "37.5",
+    "none of these"
+   ],
+   "correct": 0,
+   "explanation": "The pattern is x0.5+1, x1+1, x1.5+1, x2+1, x2.5+1: 4x0.5+1=3, 3x1+1=4, 4x1.5+1=7, 7x2+1=15, 15x2.5+1=38.5.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q042",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "number-series",
+   "difficulty": 2,
+   "question": "What should come in place of question mark (?) in the following number series?\n7, 5, 7, 17, 63, ?",
+   "options": [
+    "321",
+    "309",
+    "305",
+    "301",
+    "none of these"
+   ],
+   "correct": 1,
+   "explanation": "The pattern is x1-2, x2-3, x3-4, x4-5, x5-6: 7x1-2=5, 5x2-3=7, 7x3-4=17, 17x4-5=63, 63x5-6=309.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q043",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "number-series",
+   "difficulty": 2,
+   "question": "What should come in place of question mark (?) in the following number series?\n11, 14, 19, 28, 43, ?",
+   "options": [
+    "60",
+    "63",
+    "66",
+    "70",
+    "none of these"
+   ],
+   "correct": 2,
+   "explanation": "The first differences are +3, +5, +9, +15, and their own differences increase by +2, +4, +6; the next difference is 15+8=23, giving 43+23=66.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q044",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "number-series",
+   "difficulty": 3,
+   "question": "What should come in place of question mark (?) in the following number series?\n2, 60, 10, 120, 30, ?",
+   "options": [
+    "222",
+    "216",
+    "208",
+    "230",
+    "None of these"
+   ],
+   "correct": 4,
+   "explanation": "The series alternates 1cubed+1, 4cubed-4, 2cubed+2, 5cubed-5, 3cubed+3, 6cubed-6, i.e. 2, 60, 10, 120, 30, 210 - so the next term is 6cubed-6=210, which matches none of the listed values.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q045",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "number-series",
+   "difficulty": 3,
+   "question": "What should come in place of question mark (?) in the following number series?\n23, 50, 108, 232, 492, ?",
+   "options": [
+    "1028",
+    "1024",
+    "1020",
+    "1032",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "Each term doubles the previous term and adds an increasing multiple of 4 (+4, +8, +16, +28, +44): 23x2+4=50, 50x2+8=108, 108x2+16=232, 232x2+28=492, 492x2+44=1028.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q046",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre16-set9",
+   "question": "If 60% of the employees of company T in HR department have MBA degree and 40% of the employees of the same company in the Marketing dept. have MBA degree, then how many employees have MBA degree in company T in both dept. together.",
+   "options": [
+    "98",
+    "108",
+    "106",
+    "92",
+    "66"
+   ],
+   "correct": 4,
+   "explanation": "Company T's HR dept has 90 employees (30% of 300); 60% of these have an MBA = 54. Its Marketing dept has 30 employees (10% of 300); 40% of these have an MBA = 12. Total = 54+12 = 66.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q047",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre16-set9",
+   "question": "Find the ratio of female employees of company Q in HR dept. to male employees of company R in Marketing dept. ?",
+   "options": [
+    "4:13",
+    "5:22",
+    "22:5",
+    "13:4",
+    "none of these"
+   ],
+   "correct": 3,
+   "explanation": "Company Q's HR department has 65 female employees; company R's Marketing department has 20 male employees. Ratio = 65:20 = 13:4.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q048",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre16-set9",
+   "question": "Total number of HR employees of company P is what % more than the total no. of marketing employee in company T?",
+   "options": [
+    "236.76%",
+    "226.67%",
+    "276.76%",
+    "246.67%",
+    "none of these"
+   ],
+   "correct": 3,
+   "explanation": "Company P's HR department has 104 employees (26% of 400). Company T's Marketing department has 30 employees. Required % = (104-30)/30 x 100 = 246.67%.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q049",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre16-set9",
+   "question": "The ratio of male employees in HR dept. of company P and R together to female employees of Marketing department in company S and T together?",
+   "options": [
+    "187:27",
+    "43:188",
+    "188:43",
+    "27:187",
+    "none of these"
+   ],
+   "correct": 2,
+   "explanation": "Male HR employees: P=48, R=140, together=188. Female Marketing employees: S=22, T=21, together=43. Ratio = 188:43.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q050",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre16-set9",
+   "question": "Difference between female employees of HR dept. in all companies together (excluding company S) and the female employees of Marketing dept. in all companies together (excluding company Q)?",
+   "options": [
+    "139",
+    "129",
+    "135",
+    "141",
+    "none of these"
+   ],
+   "correct": 0,
+   "explanation": "HR-department female employees, excluding company S, sum to 245 (56+65+70+54); Marketing-department female employees, excluding company Q, sum to 106 (28+35+22+21). Difference = 245-106 = 139.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q051",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "mixtures-alligations",
+   "difficulty": 3,
+   "question": "A mixture contains wine and water in the ratio 3 : 2 and another mixture contains them in the ratio 4 : 5. How many litres of the latter must be mixed with 3 litres of the former so that the resultant mixture may contain equal quantities of wine and water ?",
+   "options": [
+    "1 2/3 litre",
+    "5 2/5 litre",
+    "4 1/2 litre",
+    "3 3/4 litre",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "The wine fractions are 3/5 and 4/9; by alligation against the target 1/2, the two mixtures combine in the ratio 5:9. Since 3 litres of the first mixture represents the '5' part, the second mixture needed is 3 x 9/5 = 27/5 = 5 2/5 litres.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q052",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "profit-loss",
+   "difficulty": 2,
+   "question": "A trader sells two bullocks for Rs. 8,400 each, neither losing nor gaining in total. If he sold one of the bullocks at a gain of 20%, the other is sold at a loss of",
+   "options": [
+    "20%",
+    "18 2/9%",
+    "14 2/7%",
+    "21%",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "Total S.P. = 16,800. CP of the bullock sold at 20% gain = 8400 x 100/120 = 7000, so the other bullock's CP = 16800-7000 = 9800. Loss% on it = (9800-8400)/9800 x 100 = 14 2/7%.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q053",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "trains",
+   "difficulty": 2,
+   "question": "Two trains, A and B, start from stations X and Y towards each other, they take 4 hours 48 minutes and 3 hours 20 minutes to reach Y and X respectively after they meet. If train A is moving at 45 km/hr., then the speed of the train B is",
+   "options": [
+    "60 km/hr",
+    "64.8 km/hr",
+    "54 km/hr",
+    "37.5 km/hr",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "Using Speed(B)/Speed(A) = sqrt(Time(A after meeting)/Time(B after meeting)) = sqrt((24/5)/(10/3)) = sqrt(36/25) = 6/5, so Speed(B) = 45 x 6/5 = 54 km/hr.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q054",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "percentages",
+   "difficulty": 2,
+   "question": "Out of his total income, Mr. Kapoor spends 20% on house rent and 70% of the remaining on house hold expenses. If he saves Rs 1,800 what is his total income (in rupees)?",
+   "options": [
+    "Rs 7,800",
+    "Rs 7,000",
+    "Rs 8,000",
+    "Rs 7,500",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "After 20% on rent, 80% of income remains; 70% of that (=56% of income) goes to household expenses, so total spent = 20+56=76%, leaving 24% as savings. 24% = 1800, so total income = 1800/24 x 100 = Rs 7,500.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q055",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "time-work",
+   "difficulty": 2,
+   "question": "A can do a piece of work in 8 days which B can destroy in 3 days. A has worked for 6 days, during the last 2 days of which B has been destroying. How many days must A now work alone to complete the work?",
+   "options": [
+    "7 days",
+    "7 1/3 days",
+    "7 2/3 days",
+    "8 days",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "In 6 days A completes 6/8=3/4 of the work; during the last 2 of those days B destroys 2/3 of the work, leaving 3/4-2/3=1/12 done. Remaining work = 11/12, which takes A 11/12 x 8 = 7 1/3 more days.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q056",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "simplification-approximation",
+   "difficulty": 1,
+   "question": "What approximate value should come in place of the question mark (?) in the following question? (You are not expected to calculate the exact value.)\n57% of 394-2.5% of 996=?",
+   "options": [
+    "215",
+    "175",
+    "200",
+    "180",
+    "227"
+   ],
+   "correct": 2,
+   "explanation": "Approximating, 57% of 400 minus 2.5% of 1000 = 228-25 = 203, closest to 200.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q057",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "simplification-approximation",
+   "difficulty": 1,
+   "question": "What approximate value should come in place of the question mark (?) in the following question? (You are not expected to calculate the exact value.)\n96.996 x 9.869 + 0.96 =?",
+   "options": [
+    "860",
+    "870",
+    "1080",
+    "965",
+    "1100"
+   ],
+   "correct": 3,
+   "explanation": "Approximating, 97 x 10 + 1 = 971, closest among the options to 965.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q058",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "simplification-approximation",
+   "difficulty": 1,
+   "question": "What approximate value should come in place of the question mark (?) in the following question? (You are not expected to calculate the exact value.)\n3/5 x 1125/1228 x 7 =?",
+   "options": [
+    "7",
+    "12",
+    "9",
+    "4",
+    "15"
+   ],
+   "correct": 3,
+   "explanation": "Approximating the fractions, 3/5 x 1125/1228 x 7 is approximately 4.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q059",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "simplification-approximation",
+   "difficulty": 1,
+   "question": "What approximate value should come in place of the question mark (?) in the following question? (You are not expected to calculate the exact value.)\n(SQRT(329) x 25) / 30 =?",
+   "options": [
+    "12",
+    "15",
+    "24",
+    "21",
+    "9"
+   ],
+   "correct": 1,
+   "explanation": "SQRT(329) is approximately 18.1; 18.1 x 25 / 30 is approximately 15.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q060",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "simplification-approximation",
+   "difficulty": 1,
+   "question": "What approximate value should come in place of the question mark (?) in the following question? (You are not expected to calculate the exact value.)\n(638 + 9709 - 216) / 26 =?",
+   "options": [
+    "275",
+    "345",
+    "440",
+    "300",
+    "390"
+   ],
+   "correct": 4,
+   "explanation": "(638+9709-216)/26 = 10131/26, which is approximately 390.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q061",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "quadratic-equations",
+   "difficulty": 2,
+   "question": "In the following question, two equations I and II are given. Solve both equations and determine the relationship between x and y.\n\nI. 6x^2 + 31x + 35 = 0\nII. 2y^2 + 3y + 1 = 0",
+   "options": [
+    "x > y",
+    "x < y",
+    "x >= y",
+    "x <= y",
+    "x = y or no relation can be established"
+   ],
+   "correct": 1,
+   "explanation": "I: 6x^2+21x+10x+35=0 -> 3x(2x+7)+5(2x+7)=0 -> x=-5/3,-7/2. II: 2y^2+2y+y+1=0 -> 2y(y+1)+1(y+1)=0 -> y=-1/2,-1. Every value of x is less than every value of y, so x < y.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q062",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "quadratic-equations",
+   "difficulty": 3,
+   "question": "In the following question, two equations I and II are given. Solve both equations and determine the relationship between x and y.\n\nI. 2x^2 - (4+SQRT(41))x + 2*SQRT(41) = 0\nII. 10y^2 - (18+5*SQRT(41))y + 9*SQRT(41) = 0",
+   "options": [
+    "x > y",
+    "x < y",
+    "x >= y",
+    "x <= y",
+    "x = y or no relation can be established"
+   ],
+   "correct": 4,
+   "explanation": "I: 2x(x-2)-SQRT(41)(x-2)=0 -> x=2, SQRT(41)/2. II: 2y(5y-9)-SQRT(41)(5y-9)=0 -> y=9/5, SQRT(41)/2. Since both share the root SQRT(41)/2 while the other roots differ (2 vs 9/5), no fixed relation between x and y can be established.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q063",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "quadratic-equations",
+   "difficulty": 2,
+   "question": "In the following question, two equations I and II are given. Solve both equations and determine the relationship between x and y.\n\nI. 2x^2 + 9x + 10 = 0\nII. 4y^2 + 28y + 45 = 0",
+   "options": [
+    "x > y",
+    "x < y",
+    "x >= y",
+    "x <= y",
+    "x = y or no relation can be established"
+   ],
+   "correct": 2,
+   "explanation": "I: 2x(x+2)+5(x+2)=0 -> x=-2,-5/2. II: 4y^2+18y+10y+45=0 -> 2y(2y+9)+5(2y+9)=0 -> y=-5/2,-9/2. Every value of x is greater than or equal to every value of y (with equality at -5/2), so x >= y.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q064",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "quadratic-equations",
+   "difficulty": 3,
+   "question": "In the following question, two equations I and II are given. Solve both equations and determine the relationship between x and y.\n\nI. 15x^2 - 11x - 12 = 0\nII. 20y^2 - 49y + 30 = 0",
+   "options": [
+    "x > y",
+    "x < y",
+    "x >= y",
+    "x <= y",
+    "x = y or no relation can be established"
+   ],
+   "correct": 4,
+   "explanation": "I: 5x(3x-4)+3(3x-4)=0 -> x=-3/5, 4/3. II: 5y(4y-5)-6(4y-5)=0 -> y=6/5,5/4. Comparing the roots gives both x<y and x>y cases, so no relation can be established.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q065",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "quadratic-equations",
+   "difficulty": 3,
+   "question": "In the following question, two equations I and II are given. Solve both equations and determine the relationship between x and y.\n\nI. 2x^2 - 15 = 7x\nII. 17y = -7 - 6y^2",
+   "options": [
+    "x > y",
+    "x < y",
+    "x >= y",
+    "x <= y",
+    "x = y or no relation can be established"
+   ],
+   "correct": 4,
+   "explanation": "I: 2x^2-7x-15=0 -> (2x+3)(x-5)=0 -> x=-3/2, 5. II: 6y^2+17y+7=0 -> (2y+1)(3y+7)=0 -> y=-1/2,-7/3. Comparing roots gives both x<y (e.g. -1.5<-0.5) and x>y (e.g. 5>-0.5) cases, so no relation can be established.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q066",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "partnership",
+   "difficulty": 2,
+   "question": "A and B are partners in a business. They invest in the ratio 5 : 6, at the end of 8 months A withdraws. If they receive profits in the ratio of 5 : 9, find how long B's investment was used?",
+   "options": [
+    "12 months",
+    "10 months",
+    "15 months",
+    "14 months",
+    "18 months"
+   ],
+   "correct": 0,
+   "explanation": "With investments 5x and 6x, A's capital-months = 5x x 8 = 40x. If B's investment runs for y months, 40x : 6xy = 5 : 9 gives y = 12 months.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q067",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "probability",
+   "difficulty": 2,
+   "question": "There are 3 red balls, 4 blue balls and 5 white balls. 2 balls are chosen randomly. Find probability that 1 is red and the other is white.",
+   "options": [
+    "5/22",
+    "5/23",
+    "7/22",
+    "4/9",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "Required probability = (3C1 x 5C1)/12C2 = 15/66 = 5/22.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q068",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "simple-compound-interest",
+   "difficulty": 2,
+   "question": "According to a new plan rolled out by HISP Bank, the rate of simple interest on a sum of money is 8% p.a. for the first two years, 10% p.a. for the next three years and 6% p.a. for the period beyond the first five years. Simple interest accrued on a sum for a period of eight years is Rs. 12,800. Find the sum.",
+   "options": [
+    "Rs. 24,000",
+    "Rs. 16,000",
+    "Rs. 15,000",
+    "Rs. 13,500",
+    "None of these"
+   ],
+   "correct": 4,
+   "explanation": "Total interest = x*8*2/100 + x*10*3/100 + x*6*3/100 = 64x/100 = 12800, giving x = Rs 20,000, which matches none of the listed amounts.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q069",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "averages",
+   "difficulty": 3,
+   "question": "Three Science classes A, B and C take a Life Science test. The average score of students of class A is 83. The average score of students class B is 76. The average score of class C is 85. The average score of class A and B is 79 and average score of class B and C is 81. Then the average score, of classes A, B and C is",
+   "options": [
+    "80",
+    "80.5",
+    "81",
+    "81.5",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "If classes A, B, C have x, y, z students, then 83x+76y=79(x+y) gives x:y=3:4, and 76y+85z=81(y+z) gives y:z=4:5, so x:y:z=3:4:5. Combined average = (83x3+76x4+85x5)/12 = 978/12 = 81.5.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q070",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "mensuration",
+   "difficulty": 2,
+   "question": "A hemispherical bowl of internal diameter 54 cm contains a liquid. The liquid is to be filled in cylindrical bottles of radius 3 cm and height 9 cm. How many bottles are required to empty the bowl?",
+   "options": [
+    "221",
+    "343",
+    "81",
+    "243",
+    "162"
+   ],
+   "correct": 4,
+   "explanation": "Volume of hemisphere = (2/3) x pi x 27^3; volume of one bottle = pi x 3^2 x 9. Number of bottles = [(2/3) x pi x 27^3] / [pi x 3^2 x 9] = 2 x 3 x 27 = 162.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q071",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "para-jumbles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre16-set10",
+   "question": "Which of the following should be the FIRST sentence after rearrangement?",
+   "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "F"
+   ],
+   "correct": 1,
+   "explanation": "The correct sequence is B-F-A-C-E-D, opening with B, which introduces the scheme's 1858 origin.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q072",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "para-jumbles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre16-set10",
+   "question": "Which of the following should be the SECOND sentence after rearrangement?",
+   "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "F"
+   ],
+   "correct": 4,
+   "explanation": "Following B (the historical origin), F comes second, describing the scheme's recent implementation.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q073",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "para-jumbles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre16-set10",
+   "question": "Which of the following should be the THIRD sentence after rearrangement?",
+   "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "F"
+   ],
+   "correct": 0,
+   "explanation": "A comes third, introducing the mixed evidence on the scheme's benefits.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q074",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "para-jumbles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre16-set10",
+   "question": "Which of the following should be the FOURTH sentence after rearrangement?",
+   "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+   ],
+   "correct": 2,
+   "explanation": "C comes fourth, continuing the discussion of benefits (irrigation and flood/drought control) begun in A.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q075",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "para-jumbles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre16-set10",
+   "question": "Which of the following should be the SIXTH (last) sentence after rearrangement?",
+   "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+   ],
+   "correct": 3,
+   "explanation": "The sequence B-F-A-C-E-D ends with D, which continues E's point about risks by adding escalating cost concerns.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q076",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre16-set11",
+   "question": "According to the passage which of the following is a reason for the author's prediction regarding N11 countries?",
+   "options": [
+    "N11 countries are poorer, have less resources than BRICs countries and do not have much scope to grow",
+    "The size of these countries is too great to fuel a high rate of growth as expected by BRICs countries",
+    "The world economy is so large that the magnitude of growth from these countries will have to be huge to equal the growth of BRICs",
+    "These economies are agricultural and have not opened up their economies yet so their scope of growth of BRICs",
+    "Other than those given as options"
+   ],
+   "correct": 2,
+   "explanation": "The passage's third reason is that 'the world economy is much larger than it used to be', so any future growth would need to be proportionally huge to match the BRICs' earlier impact.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q077",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre16-set11",
+   "question": "What is the author's view of globalisation's second unbounding?",
+   "options": [
+    "It proved beneficial since it created a large number of jobs and tremendous growth in cross-border trade",
+    "It disturbed the fragile balance of power among BRICs nations and caused internal strife.",
+    "It caused untold damage to America's economy since it restricted the spread of American firms off-shore",
+    "It proved most beneficial for the agricultural sector creating huge employment opportunities",
+    "Citizens in advanced countries became much better off than those in emerging economies."
+   ],
+   "correct": 0,
+   "explanation": "The passage describes the tumbling cost of shipping and communication enabling longer supply chains that connected large working-age populations, giving firms access to enormous new pools of cheap labour - framed as a positive, trade-expanding development.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q078",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-pre16-set11",
+   "question": "What effect did rise in economies of BRICS have on the global economy?",
+   "options": [
+    "It helped stabilize the global economy and insulate it from the fall out of the global financial crisis",
+    "Labour became more highly skilled and wages rose alarmingly reducing the off-shoring of jobs to developing countries",
+    "Though worldwide poverty rates tumbled, the gap between the rich and the poor in rich economies increased",
+    "The cost of living and level of inflation in these countries were maintained at low levels.",
+    "All the given options are effects of the rise in BRICs economies."
+   ],
+   "correct": 0,
+   "explanation": "The answer key marks (a), though the passage's explicit statement - 'wage stagnation and rising income inequality' alongside tumbling poverty rates, and imbalances that 'laid the groundwork for a global crisis' - reads as a closer match to option (c) than to (a); kept as the key's stated answer.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq",
+    "book-typo-suspect"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q079",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre16-set11",
+   "question": "What does the phrase 'their ranks will swell but their tread will no longer shake the Earth as it once did' convey in the context of the passage?",
+   "options": [
+    "While many countries will try and achieve the same rate of growth as BRICS they will not succeed",
+    "The growth of BRICs countries had change the world's economy in ways that any further growth will not have such a disruptive effect on the world economy",
+    "Developing countries have strengthened their fiscal systems in such a way that they will not be shaken to such an extent again",
+    "Poverty may increase as the gap between the rich the poor increase but it will never reach the same levels as prior to the crisis.",
+    "Citizens in advanced countries become much better off than those in emerging economies"
+   ],
+   "correct": 1,
+   "explanation": "The phrase conveys that although more economies will join the ranks of emerging giants, the BRICs already reshaped the global economy so thoroughly that further growth elsewhere will not be as disruptive.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q080",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre16-set11",
+   "question": "Which of the following can be said about 'convergence with a vengeance'?\n\nA. After the 1990s advanced economies like America were open to the idea of free trade and globalization.\nB. There were huge technological advances which were conducive to allowing business to spread their area of operations.\nC. Rich economies felt threatened by the competition from china.",
+   "options": [
+    "Only A",
+    "Only B",
+    "Only C",
+    "A and B",
+    "B and C"
+   ],
+   "correct": 3,
+   "explanation": "The passage supports both A ('rich economies were feeling relatively relaxed about globalization') and B (new technology 'allowing firms to spread their operations between countries'); it never says rich economies felt threatened by China, so C is unsupported.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q081",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-pre16-set11",
+   "question": "What is the author's main objective in writing this passage?\n\nA. To urge emerging economies to deal with growth which can be disruptive maturely and without conflict.\nB. To point out that while the period of growth of BRICs was disruptive this disruption has almost come to a close.\nC. To criticise advanced economies for their handling of growth and promoting competition and conflict in certain regions.",
+   "options": [
+    "A and B",
+    "Only A",
+    "Only C",
+    "B and C",
+    "all of these"
+   ],
+   "correct": 0,
+   "explanation": "The passage is largely descriptive about BRICs growth settling down (supporting B) and closes on a cautionary note about the world needing cooperation rather than conflict going forward (supporting A); it does not criticise advanced economies, ruling out C.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q082",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre16-set11",
+   "question": "Which of the following is most nearly the SAME in meaning as the word 'Tumbling' as used in the passage?",
+   "options": [
+    "Jumbling",
+    "Confusing",
+    "Reducing",
+    "Dilapidated",
+    "Hurrying"
+   ],
+   "correct": 2,
+   "explanation": "'Tumbled' in 'global poverty rates tumbled' means fell/decreased, closest in meaning to 'Reducing'.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q083",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre16-set11",
+   "question": "Which of the following is most nearly the SAME in meaning as the word 'Propitious' as used in the passage?",
+   "options": [
+    "Forlorn",
+    "Felicitous",
+    "Baleful",
+    "Portent",
+    "Augury"
+   ],
+   "correct": 1,
+   "explanation": "'Propitious' means favourable or well-suited to circumstances, matching 'Felicitous'.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q084",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre16-set11",
+   "question": "Which of the following is most OPPOSITE in meaning to the word 'expanded' as used in the passage?",
+   "options": [
+    "Widened",
+    "Pressured",
+    "Delayed",
+    "Shrunk",
+    "Frightened"
+   ],
+   "correct": 3,
+   "explanation": "'Expanded' (grew) is most directly opposed by 'Shrunk'.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q085",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre16-set11",
+   "question": "Which of the following is most OPPOSITE in meaning to the word 'tumult' as used in the passage?",
+   "options": [
+    "Ferment",
+    "Tranquility",
+    "Upheaval",
+    "Mayhem",
+    "Turmoil"
+   ],
+   "correct": 1,
+   "explanation": "'Tumult' means chaotic disturbance; its opposite among the options is 'Tranquility'.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q086",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "error-spotting",
+   "difficulty": 2,
+   "question": "Read the sentence to find out whether there is any grammatical or idiomatic error in one part of it. If there is no error, the answer is 'No error'.\n\nThe protestors went on a rampaging (a) / and set ablaze three shops (b) / resulting in injuries to 30 people (c) / including women and children. (d)",
+   "options": [
+    "The protestors went on a rampaging",
+    "and set ablaze three shops",
+    "resulting in injuries to 30 people",
+    "including women and children.",
+    "No error"
+   ],
+   "correct": 0,
+   "explanation": "'Went on a rampaging' wrongly uses the article 'a' with the gerund; it should simply be 'went on rampaging' (or 'went on a rampage'), making this part the error.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q087",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "error-spotting",
+   "difficulty": 2,
+   "question": "Read the sentence to find out whether there is any grammatical or idiomatic error in one part of it. If there is no error, the answer is 'No error'.\n\nIt is evident that (a)/the banking sector has underwent (b)/tremendous change during (c)/the past two decades. (d)",
+   "options": [
+    "It is evident that",
+    "the banking sector has underwent",
+    "tremendous change during",
+    "the past two decades.",
+    "No error"
+   ],
+   "correct": 1,
+   "explanation": "'Has underwent' incorrectly uses the simple past form; the present perfect needs the past participle 'undergone', so this part is the error.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q088",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "error-spotting",
+   "difficulty": 1,
+   "question": "Read the sentence to find out whether there is any grammatical or idiomatic error in one part of it. If there is no error, the answer is 'No error'.\n\nThe reports prompted the chairman of (a)/the organizing committee to address a hurried press conference (b)/where he reprimanded the media (c)/for conducting a \"prejudiced campaign\". (d)",
+   "options": [
+    "The reports prompted the chairman of",
+    "the organizing committee to address a hurried press conference",
+    "where he reprimanded the media",
+    "for conducting a \"prejudiced campaign\".",
+    "No error"
+   ],
+   "correct": 4,
+   "explanation": "The sentence is grammatically correct throughout - no error.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q089",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "error-spotting",
+   "difficulty": 2,
+   "question": "Read the sentence to find out whether there is any grammatical or idiomatic error in one part of it. If there is no error, the answer is 'No error'.\n\nThe merchant counted (a)/the number of pearls (b)/to make sure that (c)/none of them were missing. (d)",
+   "options": [
+    "The merchant counted",
+    "the number of pearls",
+    "to make sure that",
+    "none of them were missing.",
+    "No error"
+   ],
+   "correct": 3,
+   "explanation": "'None' is treated as singular here, so 'were' should be 'was' - making this part the error.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q090",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "error-spotting",
+   "difficulty": 2,
+   "question": "Read the sentence to find out whether there is any grammatical or idiomatic error in one part of it. If there is no error, the answer is 'No error'.\n\nHow is it that (a) neither your friend Mahesh (b)/nor his brother Ramesh have protested (c)/against this injustice? (d)",
+   "options": [
+    "How is it that",
+    "neither your friend Mahesh",
+    "nor his brother Ramesh have protested",
+    "against this injustice?",
+    "No error"
+   ],
+   "correct": 2,
+   "explanation": "'Neither...nor' takes a verb agreeing with the nearer subject ('his brother Ramesh'), which is singular, so 'have protested' should be 'has protested' - making this part the error.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q091",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "fillers",
+   "difficulty": 2,
+   "question": "The following question has two blanks, each blank indicating that something has been omitted. Choose the set of words for each blank that best fits the meaning of the sentence as a whole.\n\nAs this country has become more ……… industrial and internationalised, it has, like all Western democracies, experienced a necessary increase in the ………. of the executive.",
+   "options": [
+    "urbanised; role",
+    "objective; wealth",
+    "synthesised; efficiency",
+    "civilised; convenience",
+    "concretised; vision"
+   ],
+   "correct": 0,
+   "explanation": "'Urbanised' fits the first blank (a country becoming more urbanised, industrial and internationalised), and 'role' fits the second (an increase in the executive's role).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q092",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "fillers",
+   "difficulty": 2,
+   "question": "The following question has two blanks, each blank indicating that something has been omitted. Choose the set of words for each blank that best fits the meaning of the sentence as a whole.\n\nWhen interpersonal problems …………… but are not dealt with, the organisation's productivity inevitably ……….",
+   "options": [
+    "surface; develops",
+    "focus; increases",
+    "establish; projects",
+    "develop; exhibits",
+    "exist; diminishes"
+   ],
+   "correct": 4,
+   "explanation": "'Exist' suits problems that are present but unresolved, and 'diminishes' fits the negative effect on productivity that follows.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q093",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "fillers",
+   "difficulty": 2,
+   "question": "The following question has two blanks, each blank indicating that something has been omitted. Choose the set of words for each blank that best fits the meaning of the sentence as a whole.\n\nParticipative management, in which everyone has ……….. into a decision that a leader then makes, is a mechanism for…………… employees.",
+   "options": [
+    "share; protecting",
+    "value; thwarting",
+    "motivation; involving",
+    "reward; stimulating",
+    "input; empowering"
+   ],
+   "correct": 2,
+   "explanation": "The key pairs 'motivation' with the first blank and 'involving' with the second, reflecting that participative management motivates staff by involving them in decisions.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q094",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "fillers",
+   "difficulty": 2,
+   "question": "The following question has two blanks, each blank indicating that something has been omitted. Choose the set of words for each blank that best fits the meaning of the sentence as a whole.\n\nLack of ………… is basic to good teamwork, but our ability to work with others depends on our ………",
+   "options": [
+    "rigidity; compatibility",
+    "dogmatism; motivation",
+    "professionalism; vulnerability",
+    "positivism; flexibility",
+    "consideration; acumen"
+   ],
+   "correct": 0,
+   "explanation": "A lack of 'rigidity' supports good teamwork, while 'compatibility' with others underpins the ability to work together.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q095",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "fillers",
+   "difficulty": 2,
+   "question": "The following question has two blanks, each blank indicating that something has been omitted. Choose the set of words for each blank that best fits the meaning of the sentence as a whole.\n\nComplete constant openness is a notion that can be ………….  to absurdity. Am I…………. to stop everyone on the street and tell them my reaction to their appearance?",
+   "options": [
+    "consigned; communicated",
+    "reduced; required",
+    "attributed; requested",
+    "projected; destined",
+    "subjected; confined"
+   ],
+   "correct": 1,
+   "explanation": "The idea of total openness can be 'reduced' to absurdity, and the question asks whether one is 'required' to stop everyone on the street.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q096",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "cloze-test",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre16-set12",
+   "question": "Select the most appropriate word to fill blank (96).",
+   "options": [
+    "Run",
+    "Give",
+    "Throw",
+    "Drive",
+    "Make"
+   ],
+   "correct": 3,
+   "explanation": "'Drive away' fits the sense of the tigress forcing the male to leave after mating.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q097",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "cloze-test",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre16-set12",
+   "question": "Select the most appropriate word to fill blank (97).",
+   "options": [
+    "Rear",
+    "Grow",
+    "Lift",
+    "Develop",
+    "Produce"
+   ],
+   "correct": 0,
+   "explanation": "'Rear' fits raising the cubs by herself.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q098",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "cloze-test",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre16-set12",
+   "question": "Select the most appropriate word to fill blank (98).",
+   "options": [
+    "Averse",
+    "Vulnerable",
+    "Subject",
+    "Inclined",
+    "Prone"
+   ],
+   "correct": 1,
+   "explanation": "'Vulnerable' fits being at risk from predators while the cubs are left alone.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q099",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "cloze-test",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre16-set12",
+   "question": "Select the most appropriate word to fill blank (99).",
+   "options": [
+    "Seldom",
+    "Usually",
+    "That",
+    "Only",
+    "Sometimes"
+   ],
+   "correct": 0,
+   "explanation": "'Seldom' fits the high infant mortality - rarely does more than one cub per litter survive.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre16-q100",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "cloze-test",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre16-set12",
+   "question": "Select the most appropriate word to fill blank (100).",
+   "options": [
+    "Newborn",
+    "Offspring",
+    "Descendent",
+    "Cub",
+    "Child"
+   ],
+   "correct": 1,
+   "explanation": "'Offspring' fits keeping her young with her for two years to teach survival skills.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2016 (memory-based, 50+ Papers book)",
+    "year": 2016
+   },
+   "tags": [
+    "pyq"
+   ]
+  }
+ ],
+ "paper": {
+  "id": "sbi-po-pre-2016",
+  "name": "SBI PO Prelims 2016",
+  "exam": "sbi-po",
+  "stage": "prelims",
+  "year": 2016,
+  "sections": [
+   {
+    "name": "Reasoning Ability",
+    "pool": "reasoning",
+    "minutes": 20,
+    "marksPerQuestion": 1,
+    "questionIds": [
+     "pyq-sbipo-pre16-q001",
+     "pyq-sbipo-pre16-q002",
+     "pyq-sbipo-pre16-q003",
+     "pyq-sbipo-pre16-q004",
+     "pyq-sbipo-pre16-q005",
+     "pyq-sbipo-pre16-q006",
+     "pyq-sbipo-pre16-q007",
+     "pyq-sbipo-pre16-q008",
+     "pyq-sbipo-pre16-q009",
+     "pyq-sbipo-pre16-q010",
+     "pyq-sbipo-pre16-q011",
+     "pyq-sbipo-pre16-q012",
+     "pyq-sbipo-pre16-q013",
+     "pyq-sbipo-pre16-q014",
+     "pyq-sbipo-pre16-q015",
+     "pyq-sbipo-pre16-q016",
+     "pyq-sbipo-pre16-q017",
+     "pyq-sbipo-pre16-q018",
+     "pyq-sbipo-pre16-q019",
+     "pyq-sbipo-pre16-q020",
+     "pyq-sbipo-pre16-q021",
+     "pyq-sbipo-pre16-q022",
+     "pyq-sbipo-pre16-q023",
+     "pyq-sbipo-pre16-q024",
+     "pyq-sbipo-pre16-q025",
+     "pyq-sbipo-pre16-q026",
+     "pyq-sbipo-pre16-q027",
+     "pyq-sbipo-pre16-q028",
+     "pyq-sbipo-pre16-q029",
+     "pyq-sbipo-pre16-q030",
+     "pyq-sbipo-pre16-q031",
+     "pyq-sbipo-pre16-q032",
+     "pyq-sbipo-pre16-q033",
+     "pyq-sbipo-pre16-q034",
+     "pyq-sbipo-pre16-q035"
+    ]
+   },
+   {
+    "name": "Quantitative Aptitude",
+    "pool": "quant",
+    "minutes": 20,
+    "marksPerQuestion": 1,
+    "questionIds": [
+     "pyq-sbipo-pre16-q036",
+     "pyq-sbipo-pre16-q037",
+     "pyq-sbipo-pre16-q038",
+     "pyq-sbipo-pre16-q039",
+     "pyq-sbipo-pre16-q040",
+     "pyq-sbipo-pre16-q041",
+     "pyq-sbipo-pre16-q042",
+     "pyq-sbipo-pre16-q043",
+     "pyq-sbipo-pre16-q044",
+     "pyq-sbipo-pre16-q045",
+     "pyq-sbipo-pre16-q046",
+     "pyq-sbipo-pre16-q047",
+     "pyq-sbipo-pre16-q048",
+     "pyq-sbipo-pre16-q049",
+     "pyq-sbipo-pre16-q050",
+     "pyq-sbipo-pre16-q051",
+     "pyq-sbipo-pre16-q052",
+     "pyq-sbipo-pre16-q053",
+     "pyq-sbipo-pre16-q054",
+     "pyq-sbipo-pre16-q055",
+     "pyq-sbipo-pre16-q056",
+     "pyq-sbipo-pre16-q057",
+     "pyq-sbipo-pre16-q058",
+     "pyq-sbipo-pre16-q059",
+     "pyq-sbipo-pre16-q060",
+     "pyq-sbipo-pre16-q061",
+     "pyq-sbipo-pre16-q062",
+     "pyq-sbipo-pre16-q063",
+     "pyq-sbipo-pre16-q064",
+     "pyq-sbipo-pre16-q065",
+     "pyq-sbipo-pre16-q066",
+     "pyq-sbipo-pre16-q067",
+     "pyq-sbipo-pre16-q068",
+     "pyq-sbipo-pre16-q069",
+     "pyq-sbipo-pre16-q070"
+    ]
+   },
+   {
+    "name": "English Language",
+    "pool": "english",
+    "minutes": 20,
+    "marksPerQuestion": 1,
+    "questionIds": [
+     "pyq-sbipo-pre16-q071",
+     "pyq-sbipo-pre16-q072",
+     "pyq-sbipo-pre16-q073",
+     "pyq-sbipo-pre16-q074",
+     "pyq-sbipo-pre16-q075",
+     "pyq-sbipo-pre16-q076",
+     "pyq-sbipo-pre16-q077",
+     "pyq-sbipo-pre16-q078",
+     "pyq-sbipo-pre16-q079",
+     "pyq-sbipo-pre16-q080",
+     "pyq-sbipo-pre16-q081",
+     "pyq-sbipo-pre16-q082",
+     "pyq-sbipo-pre16-q083",
+     "pyq-sbipo-pre16-q084",
+     "pyq-sbipo-pre16-q085",
+     "pyq-sbipo-pre16-q086",
+     "pyq-sbipo-pre16-q087",
+     "pyq-sbipo-pre16-q088",
+     "pyq-sbipo-pre16-q089",
+     "pyq-sbipo-pre16-q090",
+     "pyq-sbipo-pre16-q091",
+     "pyq-sbipo-pre16-q092",
+     "pyq-sbipo-pre16-q093",
+     "pyq-sbipo-pre16-q094",
+     "pyq-sbipo-pre16-q095",
+     "pyq-sbipo-pre16-q096",
+     "pyq-sbipo-pre16-q097",
+     "pyq-sbipo-pre16-q098",
+     "pyq-sbipo-pre16-q099",
+     "pyq-sbipo-pre16-q100"
+    ]
+   }
+  ]
+ }
+}
