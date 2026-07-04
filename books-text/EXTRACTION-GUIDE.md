@@ -28,6 +28,7 @@ You are extracting one previous-year paper into `/home/user/bank-prep/src/data/q
 
 1. Read ALL question pages AND solution pages before writing. Answers come from the book's key; cross-check every question number against the key.
 2. Group shared-context questions into sets (RC, cloze, each DI chart, each puzzle block). Rebuild DI tables as pipe-markdown. Puzzle clues: one per line with \n.
+   RC/cloze PASSAGES: do NOT reproduce them verbatim — verbatim passages have repeatedly tripped output content filters (and are the one part of these books with real authorship). Write a faithful condensed paraphrase in your own words, first line "[Passage paraphrased from the original]", preserving exactly the bolded words/phrases the questions interrogate and any sentence a question quotes directly. If a set still trips the filter, skip it and report the numbers.
 3. Puzzle solutions are often a bare answer letter — RE-SOLVE the puzzle from its clues yourself, verify your arrangement matches all the key's answers for that set, and state the final arrangement in explanations.
 4. Bar/line charts are images (no text). Reverse-engineer the data table from the solutions' arithmetic; cross-check across the set's questions. Tag such questions "reconstructed-data". If the data cannot be pinned down, SKIP the set.
 5. Book typos happen (inconsistent coding logic, mislabeled entities). If the key's answer can't be derived cleanly, keep the key's answer with a hedged explanation, tag "book-typo-suspect". Never force a false derivation.
