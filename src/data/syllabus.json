@@ -1,0 +1,181 @@
+{
+  "exam": "SBI PO",
+  "patternVersion": "2025-26 (revised)",
+  "notes": [
+    "No sectional cut-offs in Prelims or Mains; selection weight: Mains 75%, Psychometric/GD/Interview 25% (final merit from Mains + Phase III).",
+    "Negative marking: one-fourth of the marks assigned to the question, for every wrong answer in objective papers.",
+    "Prelims is qualifying with enforced 20-minute sectional timers; you cannot move between sections freely.",
+    "Mains English carries 40 questions for 20 marks (0.5 mark each); Data Analysis questions carry 2 marks each."
+  ],
+  "stages": [
+    {
+      "id": "prelims",
+      "name": "Prelims (Phase I)",
+      "pattern": {
+        "totalQuestions": 100,
+        "totalMarks": 100,
+        "totalMinutes": 60,
+        "sectionalTiming": true,
+        "sections": [
+          { "name": "English Language", "pool": "english", "questions": 40, "marks": 40, "minutes": 20 },
+          { "name": "Quantitative Aptitude", "pool": "quant", "questions": 30, "marks": 30, "minutes": 20 },
+          { "name": "Reasoning Ability", "pool": "reasoning", "questions": 30, "marks": 30, "minutes": 20 }
+        ]
+      },
+      "syllabus": [
+        {
+          "section": "english",
+          "name": "English Language",
+          "topics": [
+            { "slug": "reading-comprehension", "name": "Reading Comprehension", "priority": "high", "note": "8-10 Q. Economy, banking, social themes; includes vocab-in-context." },
+            { "slug": "cloze-test", "name": "Cloze Test", "priority": "high", "note": "5-6 Q passages with blanks." },
+            { "slug": "error-spotting", "name": "Error Spotting", "priority": "high", "note": "Grammar rules: subject-verb agreement, tenses, prepositions." },
+            { "slug": "para-jumbles", "name": "Para Jumbles", "priority": "high", "note": "5 Q rearrangement sets." },
+            { "slug": "fillers", "name": "Fillers (Single / Double)", "priority": "medium", "note": "Vocabulary + context fit." },
+            { "slug": "sentence-improvement", "name": "Sentence Improvement", "priority": "medium", "note": "Choose the grammatically superior rewrite." },
+            { "slug": "phrase-replacement", "name": "Phrase Replacement", "priority": "medium", "note": "Idioms and phrase-level grammar." },
+            { "slug": "match-the-columns", "name": "Match the Columns", "priority": "low", "note": "Connect sentence halves meaningfully." },
+            { "slug": "para-completion", "name": "Para Completion", "priority": "low", "note": "Pick the sentence completing the paragraph." },
+            { "slug": "word-usage", "name": "Word Usage / Word Swap", "priority": "medium", "note": "Correct usage of a word across sentences; swap misplaced words." },
+            { "slug": "vocabulary", "name": "Vocabulary (Synonym / Antonym)", "priority": "medium", "note": "Often embedded in RC." },
+            { "slug": "sentence-connectors", "name": "Sentence Connectors", "priority": "low", "note": "Join sentences without changing meaning." }
+          ]
+        },
+        {
+          "section": "quant",
+          "name": "Quantitative Aptitude",
+          "topics": [
+            { "slug": "data-interpretation", "name": "Data Interpretation", "priority": "high", "note": "10-15 Q: tables, bar, line, pie; the highest-weight block." },
+            { "slug": "simplification-approximation", "name": "Simplification / Approximation", "priority": "high", "note": "5-6 Q of speed math: BODMAS, surds, percentages of numbers." },
+            { "slug": "number-series", "name": "Number Series", "priority": "high", "note": "Missing / wrong term; difference, product, mixed patterns." },
+            { "slug": "quadratic-equations", "name": "Quadratic Equations", "priority": "high", "note": "Compare roots of two equations." },
+            { "slug": "quantity-comparison", "name": "Quantity Comparison (Q1 vs Q2)", "priority": "medium", "note": "Two computed quantities, pick the relation." },
+            { "slug": "data-sufficiency", "name": "Data Sufficiency", "priority": "medium", "note": "Statement sufficiency for arithmetic questions." },
+            { "slug": "percentages", "name": "Percentages", "priority": "medium", "note": "Foundation for DI speed." },
+            { "slug": "profit-loss", "name": "Profit, Loss & Discount", "priority": "medium", "note": "MP/CP/SP chains, successive discounts." },
+            { "slug": "simple-compound-interest", "name": "Simple & Compound Interest", "priority": "medium", "note": "Rate/time manipulation, CI-SI difference shortcuts." },
+            { "slug": "ratio-proportion", "name": "Ratio & Proportion", "priority": "medium", "note": "Partnership and mixture backbone." },
+            { "slug": "averages", "name": "Averages", "priority": "medium", "note": "Weighted average, replacement effects." },
+            { "slug": "ages", "name": "Problems on Ages", "priority": "medium", "note": "Ratio-based age equations." },
+            { "slug": "time-work", "name": "Time & Work", "priority": "medium", "note": "Efficiency method (LCM), wage sharing." },
+            { "slug": "pipes-cisterns", "name": "Pipes & Cisterns", "priority": "low", "note": "Inlet/outlet efficiency variants." },
+            { "slug": "speed-time-distance", "name": "Speed, Time & Distance", "priority": "medium", "note": "Relative speed, average speed traps." },
+            { "slug": "trains", "name": "Problems on Trains", "priority": "low", "note": "Crossing platforms/objects." },
+            { "slug": "boats-streams", "name": "Boats & Streams", "priority": "low", "note": "Upstream/downstream equations." },
+            { "slug": "mixtures-alligations", "name": "Mixtures & Alligations", "priority": "medium", "note": "Alligation cross method." },
+            { "slug": "partnership", "name": "Partnership", "priority": "low", "note": "Capital-time weighted shares." },
+            { "slug": "mensuration", "name": "Mensuration", "priority": "low", "note": "2D/3D areas and volumes." },
+            { "slug": "permutation-combination", "name": "Permutation & Combination", "priority": "low", "note": "Arrangement/selection basics." },
+            { "slug": "probability", "name": "Probability", "priority": "low", "note": "Cards, dice, balls; complement trick." },
+            { "slug": "caselet-di", "name": "Caselet DI", "priority": "medium", "note": "Paragraph-form data; convert to table first." }
+          ]
+        },
+        {
+          "section": "reasoning",
+          "name": "Reasoning Ability",
+          "topics": [
+            { "slug": "seating-arrangement", "name": "Seating Arrangement", "priority": "high", "note": "Linear / circular / uncertain count; with attributes." },
+            { "slug": "puzzles", "name": "Puzzles (Box / Floor / Month / Year)", "priority": "high", "note": "10-15 Q across 2-3 sets; the deciding block." },
+            { "slug": "syllogism", "name": "Syllogism", "priority": "high", "note": "Only-a-few, possibility cases; Venn method." },
+            { "slug": "inequality", "name": "Inequality", "priority": "high", "note": "Direct + coded inequalities." },
+            { "slug": "blood-relations", "name": "Blood Relations", "priority": "medium", "note": "Family-tree notation method." },
+            { "slug": "direction-sense", "name": "Direction Sense", "priority": "medium", "note": "Plot on grid; final displacement." },
+            { "slug": "order-ranking", "name": "Order & Ranking", "priority": "low", "note": "Position from ends, overlaps." },
+            { "slug": "coding-decoding", "name": "Coding-Decoding", "priority": "medium", "note": "Letter shifts, word-symbol mapping." },
+            { "slug": "alphanumeric-series", "name": "Alphanumeric / Symbol Series", "priority": "medium", "note": "Pattern extraction from mixed strings." },
+            { "slug": "data-sufficiency-reasoning", "name": "Data Sufficiency", "priority": "low", "note": "Two/three statement sufficiency." },
+            { "slug": "input-output", "name": "Input-Output (Machine)", "priority": "low", "note": "Step-wise rearrangement logic; mains staple." },
+            { "slug": "logical-verbal-reasoning", "name": "Logical / Verbal Reasoning", "priority": "medium", "note": "Statement-assumption, inference, course of action; mains heavy." },
+            { "slug": "computer-aptitude", "name": "Computer Aptitude", "priority": "medium", "note": "Flowcharts, binary conversion, basics; appears in Mains R&CA." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mains",
+      "name": "Mains (Phase II)",
+      "pattern": {
+        "totalQuestions": 170,
+        "totalMarks": 200,
+        "totalMinutes": 180,
+        "sectionalTiming": true,
+        "sections": [
+          { "name": "Reasoning & Computer Aptitude", "pool": "reasoning", "questions": 40, "marks": 60, "minutes": 50 },
+          { "name": "Data Analysis & Interpretation", "pool": "quant", "questions": 30, "marks": 60, "minutes": 45 },
+          { "name": "General / Economy / Banking Awareness", "pool": "general", "questions": 60, "marks": 60, "minutes": 45 },
+          { "name": "English Language", "pool": "english", "questions": 40, "marks": 20, "minutes": 40 }
+        ],
+        "descriptive": {
+          "name": "Descriptive Test — Communication Skills",
+          "marks": 30,
+          "minutes": 30,
+          "components": ["Email Writing", "Report Writing", "Situation Analysis", "Precis Writing"]
+        }
+      },
+      "syllabus": [
+        {
+          "section": "reasoning",
+          "name": "Reasoning & Computer Aptitude",
+          "topics": [
+            { "slug": "puzzles", "name": "High-level Puzzles", "priority": "high", "note": "Multi-variable box/floor-flat/year puzzles." },
+            { "slug": "seating-arrangement", "name": "Complex Seating", "priority": "high", "note": "Uncertain count, facing combinations, blood-relation blends." },
+            { "slug": "input-output", "name": "Input-Output", "priority": "high", "note": "Shifting/step machines, often number-word mixed." },
+            { "slug": "logical-verbal-reasoning", "name": "Verbal Reasoning", "priority": "high", "note": "Assumptions, inferences, strengthen/weaken." },
+            { "slug": "data-sufficiency-reasoning", "name": "Data Sufficiency (2-3 statements)", "priority": "medium", "note": "" },
+            { "slug": "coding-decoding", "name": "Advanced Coding", "priority": "medium", "note": "Conditional, step-based codes." },
+            { "slug": "computer-aptitude", "name": "Computer Aptitude", "priority": "high", "note": "Flowchart-based sets, binary/logic gates, memory/network basics." },
+            { "slug": "syllogism", "name": "Reverse / Only-a-few Syllogism", "priority": "medium", "note": "" },
+            { "slug": "direction-sense", "name": "Direction + Distance (coded)", "priority": "low", "note": "" },
+            { "slug": "blood-relations", "name": "Coded Blood Relations", "priority": "low", "note": "" }
+          ]
+        },
+        {
+          "section": "quant",
+          "name": "Data Analysis & Interpretation",
+          "topics": [
+            { "slug": "data-interpretation", "name": "Advanced DI (mixed charts)", "priority": "high", "note": "Missing-data tables, radar/scatter, double pie." },
+            { "slug": "caselet-di", "name": "Caselet DI", "priority": "high", "note": "Venn-based and arithmetic-blend caselets." },
+            { "slug": "data-sufficiency", "name": "Data Sufficiency", "priority": "medium", "note": "Two/three statements." },
+            { "slug": "quantity-comparison", "name": "Quantity Comparison", "priority": "medium", "note": "Q1/Q2/Q3 variants." },
+            { "slug": "number-series", "name": "Wrong Number Series", "priority": "medium", "note": "" },
+            { "slug": "probability", "name": "Probability & P&C", "priority": "medium", "note": "Inside caselets often." },
+            { "slug": "mixtures-alligations", "name": "Arithmetic word problems", "priority": "medium", "note": "Mixed arithmetic appears within DI sets." }
+          ]
+        },
+        {
+          "section": "general",
+          "name": "General / Economy / Banking Awareness",
+          "topics": [
+            { "slug": "banking-awareness", "name": "Banking Awareness", "priority": "high", "note": "RBI, monetary policy, account types, NPCI products, BASEL norms." },
+            { "slug": "financial-awareness", "name": "Financial Awareness", "priority": "high", "note": "Budget, financial institutions, markets, instruments." },
+            { "slug": "current-affairs", "name": "Current Affairs (last 6 months)", "priority": "high", "note": "Needs a live capsule — refresh before exam; not evergreen." },
+            { "slug": "economy", "name": "Economy / Static Economy", "priority": "medium", "note": "GDP, inflation, indices, committees." },
+            { "slug": "static-gk", "name": "Static GK", "priority": "medium", "note": "Capitals, currencies, HQs, days, dams, parks." }
+          ]
+        },
+        {
+          "section": "english",
+          "name": "English Language (Mains)",
+          "topics": [
+            { "slug": "reading-comprehension", "name": "RC (long, editorial-grade)", "priority": "high", "note": "Inference-heavy, tone, main idea." },
+            { "slug": "cloze-test", "name": "Cloze (new patterns)", "priority": "medium", "note": "" },
+            { "slug": "para-jumbles", "name": "Para Jumbles (6-7 sentences)", "priority": "high", "note": "" },
+            { "slug": "sentence-improvement", "name": "Sentence Improvement", "priority": "medium", "note": "" },
+            { "slug": "word-usage", "name": "Word Usage / Swap", "priority": "medium", "note": "" },
+            { "slug": "para-completion", "name": "Para Completion", "priority": "medium", "note": "" },
+            { "slug": "match-the-columns", "name": "Match the Columns", "priority": "low", "note": "" },
+            { "slug": "sentence-connectors", "name": "Connectors / Starters", "priority": "low", "note": "" }
+          ]
+        }
+      ],
+      "descriptiveSyllabus": [
+        { "slug": "email-writing", "name": "Email Writing", "note": "Formal + semi-formal; complaint, request, escalation formats." },
+        { "slug": "report-writing", "name": "Report Writing", "note": "Incident and analytical reports with headings." },
+        { "slug": "situation-analysis", "name": "Situation Analysis", "note": "Given a scenario, structure response and recommendation." },
+        { "slug": "precis-writing", "name": "Precis Writing", "note": "Compress to one-third; keep tone neutral." },
+        { "slug": "essay-writing", "name": "Essay Writing", "note": "Banking/economy/social topics, 150-200 words practice." },
+        { "slug": "letter-writing", "name": "Letter Writing", "note": "Classic format still useful for practice." }
+      ]
+    }
+  ]
+}

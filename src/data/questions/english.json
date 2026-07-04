@@ -1,0 +1,1026 @@
+{
+  "sets": [
+    {
+      "id": "eng-rc1",
+      "section": "english",
+      "topic": "reading-comprehension",
+      "title": "RC: Digital Lending and Financial Inclusion",
+      "context": "Over the past decade, digital lending has transformed the way small businesses and individual borrowers in India access credit. Traditional banks have historically been reluctant to lend to first-time borrowers who lack a formal credit history, collateral, or documented income. This reluctance created a vast underserved segment, particularly among micro-entrepreneurs in semi-urban and rural areas, who were often forced to depend on informal moneylenders charging exorbitant rates of interest. Digital lending platforms, many of them backed by non-banking financial companies, have sought to close this gap by using alternative data, such as utility bill payments, mobile phone usage patterns, and transaction histories from digital wallets, to build credit profiles for borrowers who would otherwise remain invisible to conventional underwriting models.\n\nThe appeal of this approach lies in its speed and reach. A loan application that once required weeks of paperwork and multiple branch visits can now be processed within minutes through a smartphone application, with disbursal following almost immediately upon approval. This has made small-ticket, short-tenure loans commercially viable for the first time, since the cost of originating and servicing each loan has fallen sharply.\n\nHowever, regulators have grown watchful of the risks accompanying this convenience. Aggressive recovery practices, opaque interest calculations, and the sale of borrower data without adequate consent have all drawn scrutiny. The Reserve Bank of India has consequently tightened disclosure norms, requiring lenders to furnish a standardised key facts statement before a loan is disbursed, and to route all payments through the regulated entity rather than allowing intermediary apps to handle borrower funds directly.\n\nThe larger lesson is that financial inclusion cannot be pursued as an end in itself; it must be balanced against consumer protection. Left unchecked, the same technology that extends credit to the excluded can just as easily entrench a new and more opaque form of indebtedness."
+    },
+    {
+      "id": "eng-rc2",
+      "section": "english",
+      "topic": "reading-comprehension",
+      "title": "RC: The Arithmetic of Climate Finance",
+      "context": "Climate finance has moved, within the space of a single decade, from a marginal concern raised mainly at diplomatic summits to a central preoccupation of finance ministries and central banks. The shift is not sentimental; it reflects a hard recalculation of risk. Insurers have begun repricing coastal property against more frequent flooding, and credit-rating agencies now routinely ask sovereigns and corporations alike to disclose their exposure to physical and transition risks, the former arising from climate impacts themselves, the latter from the policy and market upheaval that accompanies decarbonisation. What was once treated as an environmental externality, safely quarantined from balance sheets, has been reclassified as a financial variable in its own right.\n\nYet the language of climate finance often obscures more than it reveals. Pledges are announced in headline figures, hundreds of billions of dollars promised at successive conferences, without much clarity on whether the sums represent new commitments or merely relabelled development aid, grants or concessional loans that carry the risk of deepening the debt burdens of the very countries least equipped to bear them. A grant and a loan are not equivalent instruments, however similar their totals may appear in a press release, and treating them as fungible in the accounting of climate commitments is an act of quiet obfuscation.\n\nThe distinction matters most for the countries with the smallest role in causing the crisis and the least capacity to finance their own adaptation. For a small island state facing existential sea-level rise, adaptation financing structured as debt is a peculiar form of double jeopardy: the country must first absorb the physical costs of a crisis it did not create, and then service the interest on the loans taken to address it. Proposals for debt-for-climate swaps, and for multilateral development banks to expand concessional and grant-based windows, are attempts to correct this asymmetry, though they remain modest relative to the scale of financing required. Even the most optimistic estimates suggest that annual adaptation needs in developing economies run into several hundred billion dollars, dwarfing the concessional finance currently on offer.\n\nNone of this is an argument against private capital's role. Markets are, in fact, indispensable to financing the low-carbon transition at the pace required, and blended finance structures, in which public or philanthropic money absorbs early losses to make a project bankable for private investors, have shown real promise in sectors such as renewable energy. But blended finance works best where it de-risks genuinely investable projects; it cannot substitute for grant funding where the return is inherently non-commercial, as with much adaptation infrastructure. Conflating the two, in pursuit of an impressive headline number, risks solving the easier half of the problem while leaving the harder half exactly where it was."
+    },
+    {
+      "id": "eng-cloze1",
+      "section": "english",
+      "topic": "cloze-test",
+      "title": "Cloze Test: India's Shift to Digital Payments",
+      "context": "A decade ago, most transactions below a few hundred rupees in India were settled almost entirely in coins and currency notes. Since then, the country's payment landscape has (1) dramatically over the last few years. Once (2) almost entirely on cash, small merchants across the country now (3) QR codes to accept payments within seconds. This transition has been (4) by inexpensive smartphones, cheap mobile data, and a unified payments interface that lets banks and wallets talk to each other. Even so, the (5) has not been uniform: villages with patchy network coverage still (6) heavily on cash for everyday transactions. Bridging this gap will require investment not merely in technology, but in the electricity, telecom infrastructure and digital literacy on which that technology quietly depends."
+    },
+    {
+      "id": "eng-pj1",
+      "section": "english",
+      "topic": "para-jumbles",
+      "title": "Para Jumble: The Rise of UPI",
+      "context": "A. Small shopkeepers who had never owned a card machine could now display a printed QR code and receive payment within seconds, at negligible cost to themselves.\nB. When the National Payments Corporation of India launched UPI in 2016, few analysts predicted that it would come to handle more transactions each month than the country's credit and debit cards combined.\nC. Today, the interface processes billions of transactions every month, and its architecture is being studied by central banks abroad that hope to replicate its success.\nD. The interface succeeded chiefly because it solved a problem that earlier payment systems had never fully addressed: it allowed money to move instantly between any two bank accounts using nothing more than a mobile phone number or a virtual address.\nE. This low cost of acceptance, more than any marketing campaign, is what drove UPI's spread into small towns and villages where card infrastructure had never reached."
+    }
+  ],
+  "questions": [
+    {
+      "id": "eng-rc1-q1",
+      "stage": "prelims",
+      "section": "english",
+      "topic": "reading-comprehension",
+      "difficulty": 1,
+      "setId": "eng-rc1",
+      "question": "Which of the following best expresses the central idea of the passage?",
+      "options": [
+        "Digital lending has widened access to credit for underserved borrowers, but this progress now needs firmer consumer safeguards.",
+        "Non-banking financial companies are inherently safer lenders than traditional banks.",
+        "The Reserve Bank of India intends to prohibit all digital lending applications.",
+        "Informal moneylenders will disappear entirely because of digital lending platforms.",
+        "Alternative data such as utility bill payments is more reliable than income documents in every case."
+      ],
+      "correct": 0,
+      "explanation": "The passage traces how digital lending has extended credit to previously excluded borrowers, and then pivots to the regulatory response needed to prevent misuse of this convenience. Only option (a) captures both halves of this argument; the remaining options isolate a single detail or overstate a claim the passage does not make.",
+      "source": {
+        "kind": "generated"
+      },
+      "tags": [
+        "main-idea"
+      ]
+    },
+    {
+      "id": "eng-rc1-q2",
+      "stage": "prelims",
+      "section": "english",
+      "topic": "reading-comprehension",
+      "difficulty": 1,
+      "setId": "eng-rc1",
+      "question": "According to the passage, why had traditional banks historically been reluctant to lend to many first-time borrowers?",
+      "options": [
+        "These borrowers lived exclusively in metropolitan cities.",
+        "These borrowers lacked a formal credit history, collateral, or documented income.",
+        "These borrowers had already defaulted on digital loans.",
+        "Non-banking financial companies had signed these borrowers as exclusive clients.",
+        "These borrowers refused to share their mobile phone numbers."
+      ],
+      "correct": 1,
+      "explanation": "The passage states this directly: banks were 'reluctant to lend to first-time borrowers who lack a formal credit history, collateral, or documented income'. The other options introduce details that are not mentioned anywhere in the passage.",
+      "source": {
+        "kind": "generated"
+      },
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "eng-rc1-q3",
+      "stage": "prelims",
+      "section": "english",
+      "topic": "reading-comprehension",
+      "difficulty": 2,
+      "setId": "eng-rc1",
+      "question": "It can most reasonably be inferred that the Reserve Bank of India's tightened disclosure norms are primarily aimed at:",
+      "options": [
+        "discouraging non-banking financial companies from operating in the lending business",
+        "making small-ticket loans commercially unviable for lenders",
+        "protecting borrowers from opaque terms and unauthorised handling of loan funds by intermediary apps",
+        "replacing smartphone-based loan applications with branch-based processing",
+        "eliminating the use of alternative data in assessing creditworthiness"
+      ],
+      "correct": 2,
+      "explanation": "The passage links the new norms directly to the risks described just before them: aggressive recovery, opaque calculations, and unconsented data sales, and explains that lenders must now issue a key facts statement and route payments through the regulated entity. This points to borrower protection as the objective, not a rejection of digital lending itself.",
+      "source": {
+        "kind": "generated"
+      },
+      "tags": [
+        "inference"
+      ]
+    },
+    {
+      "id": "eng-rc1-q4",
+      "stage": "prelims",
+      "section": "english",
+      "topic": "reading-comprehension",
+      "difficulty": 2,
+      "setId": "eng-rc1",
+      "question": "Which of the following statements is TRUE according to the passage?",
+      "options": [
+        "All digital lending platforms are directly owned by the Reserve Bank of India.",
+        "The cost of originating and servicing small loans has fallen, making them commercially viable.",
+        "Traditional banks pioneered the use of mobile usage data for credit scoring.",
+        "Key facts statements are optional under the current regulatory framework.",
+        "Rural micro-entrepreneurs no longer require any form of credit."
+      ],
+      "correct": 1,
+      "explanation": "The passage explicitly states that small-ticket, short-tenure loans became commercially viable 'since the cost of originating and servicing each loan has fallen sharply'. The remaining statements either contradict the passage or introduce claims it never makes.",
+      "source": {
+        "kind": "generated"
+      },
+      "tags": [
+        "true-false"
+      ]
+    },
+    {
+      "id": "eng-rc1-q5",
+      "stage": "prelims",
+      "section": "english",
+      "topic": "vocabulary",
+      "difficulty": 1,
+      "setId": "eng-rc1",
+      "question": "As used in the passage, which is MOST SIMILAR in meaning to **exorbitant**?",
+      "options": [
+        "excessive",
+        "negligible",
+        "reasonable",
+        "refundable",
+        "standardised"
+      ],
+      "correct": 0,
+      "explanation": "In the passage, moneylenders are described as 'charging exorbitant rates of interest', meaning rates that are unreasonably high. 'Excessive' carries this same sense of being far more than what is fair or normal, while the other options mean the opposite of, or are unrelated to, this sense.",
+      "source": {
+        "kind": "generated"
+      },
+      "tags": [
+        "vocab-in-context",
+        "exorbitant"
+      ]
+    },
+    {
+      "id": "eng-rc1-q6",
+      "stage": "prelims",
+      "section": "english",
+      "topic": "vocabulary",
+      "difficulty": 1,
+      "setId": "eng-rc1",
+      "question": "As used in the passage, which is MOST OPPOSITE in meaning to **opaque**?",
+      "options": [
+        "transparent",
+        "murky",
+        "dense",
+        "hidden",
+        "ambiguous"
+      ],
+      "correct": 0,
+      "explanation": "The passage criticises 'opaque interest calculations', meaning calculations that borrowers cannot clearly see through or understand. 'Transparent' means clear and easy to understand, making it the direct opposite; the remaining options are close synonyms of 'opaque' rather than antonyms.",
+      "source": {
+        "kind": "generated"
+      },
+      "tags": [
+        "vocab-in-context",
+        "opaque"
+      ]
+    },
+    {
+      "id": "eng-rc2-q1",
+      "stage": "mains",
+      "section": "english",
+      "topic": "reading-comprehension",
+      "difficulty": 2,
+      "setId": "eng-rc2",
+      "question": "What is the primary purpose of the passage?",
+      "options": [
+        "To celebrate the success of global climate summits in mobilising private capital",
+        "To argue that climate finance pledges deserve closer scrutiny of their composition, not merely their headline size",
+        "To recommend that all climate finance be delivered exclusively as grants",
+        "To explain the technical methodology used by credit-rating agencies",
+        "To document the history of coastal flood insurance"
+      ],
+      "correct": 1,
+      "explanation": "The passage repeatedly questions how climate finance figures are constructed, distinguishing grants from loans and criticising the conflation of the two, rather than simply reporting or celebrating summit pledges. This purpose is broader than any single supporting detail, such as insurance or rating methodology, which appear only as illustrations.",
+      "source": {
+        "kind": "generated"
+      },
+      "tags": [
+        "purpose"
+      ]
+    },
+    {
+      "id": "eng-rc2-q2",
+      "stage": "mains",
+      "section": "english",
+      "topic": "reading-comprehension",
+      "difficulty": 2,
+      "setId": "eng-rc2",
+      "question": "The author's tone through the passage is best described as:",
+      "options": [
+        "uncritically celebratory of recent climate finance pledges",
+        "analytically sceptical, questioning the substance behind announced figures while acknowledging genuine progress",
+        "entirely indifferent to the subject",
+        "despairing and resigned to the failure of climate finance",
+        "satirical, mocking the very idea of financing climate action"
+      ],
+      "correct": 1,
+      "explanation": "The author raises pointed objections, on the conflation of grants and loans and on the double jeopardy faced by small island states, yet explicitly states that private capital's role is not being argued against and that blended finance 'has shown real promise'. This balance of criticism with qualified acknowledgement is best captured by 'analytically sceptical', not outright dismissal or despair.",
+      "source": {
+        "kind": "generated"
+      },
+      "tags": [
+        "tone"
+      ]
+    },
+    {
+      "id": "eng-rc2-q3",
+      "stage": "mains",
+      "section": "english",
+      "topic": "reading-comprehension",
+      "difficulty": 3,
+      "setId": "eng-rc2",
+      "question": "Which of the following can most reasonably be inferred about the author's view of blended finance?",
+      "options": [
+        "It is a flawed concept that should be discontinued immediately",
+        "It suits genuinely investable, commercially viable projects but cannot substitute for grant funding where returns are non-commercial",
+        "It has failed to attract any private investment so far",
+        "It should entirely replace multilateral development bank lending",
+        "It is, in every respect, identical to a straightforward grant"
+      ],
+      "correct": 1,
+      "explanation": "The passage praises blended finance's promise in sectors like renewable energy but immediately qualifies this: it 'works best where it de-risks genuinely investable projects' and 'cannot substitute for grant funding where the return is inherently non-commercial'. This conditional endorsement is precisely what option (b) states.",
+      "source": {
+        "kind": "generated"
+      },
+      "tags": [
+        "inference"
+      ]
+    },
+    {
+      "id": "eng-rc2-q4",
+      "stage": "mains",
+      "section": "english",
+      "topic": "reading-comprehension",
+      "difficulty": 3,
+      "setId": "eng-rc2",
+      "question": "According to the passage, why is debt-structured adaptation financing described as a form of 'double jeopardy' for small island states?",
+      "options": [
+        "Because such states must repay loans in a foreign currency",
+        "Because they must bear the physical costs of a crisis they did not cause, and then pay interest on loans taken to address it",
+        "Because insurers refuse to cover coastal property in these states",
+        "Because these states have no access to multilateral development banks",
+        "Because rating agencies decline to assess their sovereign risk"
+      ],
+      "correct": 1,
+      "explanation": "The passage defines the term explicitly: the country 'must first absorb the physical costs of a crisis it did not create, and then service the interest on the loans taken to address it'. This double burden, physical damage followed by debt servicing, is the double jeopardy referred to, not currency risk or insurance access, which the passage never connects to this term.",
+      "source": {
+        "kind": "generated"
+      },
+      "tags": [
+        "inference",
+        "detail"
+      ]
+    },
+    {
+      "id": "eng-rc2-q5",
+      "stage": "mains",
+      "section": "english",
+      "topic": "vocabulary",
+      "difficulty": 2,
+      "setId": "eng-rc2",
+      "question": "As used in the passage, which is MOST SIMILAR in meaning to **fungible**?",
+      "options": [
+        "interchangeable",
+        "scarce",
+        "taxable",
+        "perishable",
+        "concessional"
+      ],
+      "correct": 0,
+      "explanation": "The passage argues that treating a grant and a loan 'as fungible' is misleading, meaning treating two distinct instruments as if they were freely interchangeable with each other. 'Interchangeable' captures this sense exactly; the other options describe unrelated qualities.",
+      "source": {
+        "kind": "generated"
+      },
+      "tags": [
+        "vocab-in-context",
+        "fungible"
+      ]
+    },
+    {
+      "id": "eng-rc2-q6",
+      "stage": "mains",
+      "section": "english",
+      "topic": "vocabulary",
+      "difficulty": 3,
+      "setId": "eng-rc2",
+      "question": "As used in the passage, which is MOST SIMILAR in meaning to **obfuscation**?",
+      "options": [
+        "clarification",
+        "concealment",
+        "celebration",
+        "negotiation",
+        "computation"
+      ],
+      "correct": 1,
+      "explanation": "The passage calls the practice of blurring the line between grants and loans 'an act of quiet obfuscation', meaning a deliberate act of making something unclear or hard to see through. 'Concealment' is closest to this sense, whereas 'clarification' is its near-opposite and the remaining options are unrelated.",
+      "source": {
+        "kind": "generated"
+      },
+      "tags": [
+        "vocab-in-context",
+        "obfuscation"
+      ]
+    },
+    {
+      "id": "eng-cloze1-q1",
+      "stage": "prelims",
+      "section": "english",
+      "topic": "cloze-test",
+      "difficulty": 1,
+      "setId": "eng-cloze1",
+      "question": "Which word fits blank (1)?",
+      "options": [
+        "transformed",
+        "transforming",
+        "transform",
+        "transformation",
+        "transforms"
+      ],
+      "correct": 0,
+      "explanation": "The sentence uses the present perfect tense ('has ___'), which requires a past participle. 'Transformed' is the correct past participle of the verb 'transform', giving 'has transformed'. The other options are the wrong grammatical form for this construction.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "eng-cloze1-q2",
+      "stage": "prelims",
+      "section": "english",
+      "topic": "cloze-test",
+      "difficulty": 2,
+      "setId": "eng-cloze1",
+      "question": "Which word fits blank (2)?",
+      "options": [
+        "dependent",
+        "independent",
+        "dependence",
+        "depending",
+        "depended"
+      ],
+      "correct": 0,
+      "explanation": "The phrase 'Once ___ almost entirely on cash' describes a past state using an adjective followed by 'on', as in 'dependent on cash'. 'Dependent' is the correct adjective form; 'dependence' is a noun, and 'depending'/'depended' do not fit this construction grammatically.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "eng-cloze1-q3",
+      "stage": "prelims",
+      "section": "english",
+      "topic": "cloze-test",
+      "difficulty": 1,
+      "setId": "eng-cloze1",
+      "question": "Which word fits blank (3)?",
+      "options": [
+        "use",
+        "uses",
+        "used",
+        "using",
+        "to use"
+      ],
+      "correct": 0,
+      "explanation": "The subject 'small merchants' is plural and the verb is in the simple present tense (signalled by 'now'), so the base form 'use' is required, as in 'merchants ... now use QR codes'. 'Uses' would only suit a singular subject.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "eng-cloze1-q4",
+      "stage": "prelims",
+      "section": "english",
+      "topic": "cloze-test",
+      "difficulty": 2,
+      "setId": "eng-cloze1",
+      "question": "Which word fits blank (4)?",
+      "options": [
+        "driven",
+        "driving",
+        "drive",
+        "driver",
+        "drove"
+      ],
+      "correct": 0,
+      "explanation": "The construction 'has been ___ by' is passive voice, which requires a past participle after 'been'. 'Driven' is the past participle of 'drive' and correctly completes 'has been driven by'; the other options do not fit this passive structure.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "eng-cloze1-q5",
+      "stage": "prelims",
+      "section": "english",
+      "topic": "cloze-test",
+      "difficulty": 2,
+      "setId": "eng-cloze1",
+      "question": "Which word fits blank (5)?",
+      "options": [
+        "progress",
+        "progressive",
+        "progressing",
+        "progresses",
+        "progressed"
+      ],
+      "correct": 0,
+      "explanation": "The blank follows the definite article 'the' and needs a noun to serve as the subject of 'has not been uniform'. 'Progress' is the noun that fits this slot; the remaining options are adjective or verb forms that cannot follow 'the' in this way.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "eng-cloze1-q6",
+      "stage": "prelims",
+      "section": "english",
+      "topic": "cloze-test",
+      "difficulty": 1,
+      "setId": "eng-cloze1",
+      "question": "Which word fits blank (6)?",
+      "options": [
+        "rely",
+        "relies",
+        "relying",
+        "relied",
+        "reliance"
+      ],
+      "correct": 0,
+      "explanation": "The subject 'villages' is plural and the sentence is in the simple present tense ('still ___ heavily on cash'), so the base form 'rely' is required. 'Relies' would only be correct with a singular subject, and the other options do not fit grammatically after 'still'.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "eng-pj1-q1",
+      "stage": "prelims",
+      "section": "english",
+      "topic": "para-jumbles",
+      "difficulty": 1,
+      "setId": "eng-pj1",
+      "question": "Which sentence should come FIRST after the sentences are rearranged into a coherent paragraph?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "correct": 1,
+      "explanation": "Sentence B introduces the subject, the launch of UPI by the National Payments Corporation of India in 2016, and sets up the surprising scale it went on to achieve. Every other sentence refers back to 'the interface' or builds on an idea only B establishes, so B must open the paragraph.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "eng-pj1-q2",
+      "stage": "prelims",
+      "section": "english",
+      "topic": "para-jumbles",
+      "difficulty": 2,
+      "setId": "eng-pj1",
+      "question": "Which sentence should come SECOND after the sentences are rearranged into a coherent paragraph?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "correct": 3,
+      "explanation": "Sentence D explains the mechanism ('the interface succeeded because...') behind the achievement mentioned in B, using the phrase 'the interface' to refer directly back to UPI. It therefore logically follows B, before the paragraph moves on to specific effects.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "eng-pj1-q3",
+      "stage": "prelims",
+      "section": "english",
+      "topic": "para-jumbles",
+      "difficulty": 3,
+      "setId": "eng-pj1",
+      "question": "Which sentence should come THIRD after the sentences are rearranged into a coherent paragraph?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "correct": 0,
+      "explanation": "Sentence A gives a concrete illustration, shopkeepers using QR codes, of the mechanism just described in D (instant transfer using a phone number or virtual address). It must therefore come after D and before E, which comments on the cost implication of this very example.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "eng-pj1-q4",
+      "stage": "prelims",
+      "section": "english",
+      "topic": "para-jumbles",
+      "difficulty": 2,
+      "setId": "eng-pj1",
+      "question": "Which sentence should come FOURTH after the sentences are rearranged into a coherent paragraph?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "correct": 4,
+      "explanation": "Sentence E begins with 'This low cost of acceptance', a phrase that can only refer back to the negligible cost mentioned in A. It draws out the consequence of A's example before the paragraph closes with the present-day scale described in C.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "eng-pj1-q5",
+      "stage": "prelims",
+      "section": "english",
+      "topic": "para-jumbles",
+      "difficulty": 2,
+      "setId": "eng-pj1",
+      "question": "Which sentence should come FIFTH after the sentences are rearranged into a coherent paragraph?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "correct": 2,
+      "explanation": "Sentence C shifts to the present ('Today, the interface processes...') and serves as a concluding statement on UPI's current scale and global influence, making it the natural final sentence after the causal chain built up through B, D, A and E.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "eng-err-1",
+      "stage": "prelims",
+      "section": "english",
+      "topic": "error-spotting",
+      "difficulty": 2,
+      "question": "Read the sentence, part of which is divided into four segments labelled (A), (B), (C) and (D). Identify the segment that contains a grammatical error. If the sentence has no error, choose option (E).\n\n(A) The committee (B) have decided (C) to postpone the annual meeting (D) until further notice.",
+      "options": [
+        "(A) The committee",
+        "(B) have decided",
+        "(C) to postpone the annual meeting",
+        "(D) until further notice",
+        "No error"
+      ],
+      "correct": 1,
+      "explanation": "'Committee' is a collective noun and is treated as singular when it acts as one unit, so the verb must agree in the singular: 'has decided', not 'have decided'. The error therefore lies in segment (B); the remaining segments are grammatically sound.",
+      "source": {
+        "kind": "generated"
+      },
+      "tags": [
+        "subject-verb-agreement"
+      ]
+    },
+    {
+      "id": "eng-err-2",
+      "stage": "prelims",
+      "section": "english",
+      "topic": "error-spotting",
+      "difficulty": 2,
+      "question": "Read the sentence, part of which is divided into four segments labelled (A), (B), (C) and (D). Identify the segment that contains a grammatical error. If the sentence has no error, choose option (E).\n\n(A) She has completed (B) the report (C) before her manager returned (D) from his tour.",
+      "options": [
+        "(A) She has completed",
+        "(B) the report",
+        "(C) before her manager returned",
+        "(D) from his tour",
+        "No error"
+      ],
+      "correct": 0,
+      "explanation": "When one past action is completed before another past action, the earlier action takes the past perfect tense. Since 'returned' marks the later event in the simple past, the earlier event needs 'had completed', not 'has completed'. The error lies in segment (A).",
+      "source": {
+        "kind": "generated"
+      },
+      "tags": [
+        "tense"
+      ]
+    },
+    {
+      "id": "eng-err-3",
+      "stage": "prelims",
+      "section": "english",
+      "topic": "error-spotting",
+      "difficulty": 1,
+      "question": "Read the sentence, part of which is divided into four segments labelled (A), (B), (C) and (D). Identify the segment that contains a grammatical error. If the sentence has no error, choose option (E).\n\n(A) The bank has introduced a new scheme (B) that is different to (C) anything it has offered (D) in the past.",
+      "options": [
+        "(A) The bank has introduced a new scheme",
+        "(B) that is different to",
+        "(C) anything it has offered",
+        "(D) in the past",
+        "No error"
+      ],
+      "correct": 1,
+      "explanation": "'Different' is conventionally followed by the preposition 'from', not 'to'; the correct phrase is 'different from anything it has offered'. The error lies in segment (B).",
+      "source": {
+        "kind": "generated"
+      },
+      "tags": [
+        "preposition"
+      ]
+    },
+    {
+      "id": "eng-err-4",
+      "stage": "prelims",
+      "section": "english",
+      "topic": "error-spotting",
+      "difficulty": 1,
+      "question": "Read the sentence, part of which is divided into four segments labelled (A), (B), (C) and (D). Identify the segment that contains a grammatical error. If the sentence has no error, choose option (E).\n\n(A) Each of the employees (B) must submit their (C) identity proof to the branch manager (D) before Friday.",
+      "options": [
+        "(A) Each of the employees",
+        "(B) must submit their",
+        "(C) identity proof to the branch manager",
+        "(D) before Friday",
+        "No error"
+      ],
+      "correct": 1,
+      "explanation": "'Each' is a singular indefinite pronoun, so any pronoun referring back to it must also be singular: 'must submit his or her identity proof', not 'their'. The error lies in segment (B).",
+      "source": {
+        "kind": "generated"
+      },
+      "tags": [
+        "pronoun"
+      ]
+    },
+    {
+      "id": "eng-err-5",
+      "stage": "prelims",
+      "section": "english",
+      "topic": "error-spotting",
+      "difficulty": 3,
+      "question": "Read the sentence, part of which is divided into four segments labelled (A), (B), (C) and (D). Identify the segment that contains a grammatical error. If the sentence has no error, choose option (E).\n\n(A) Walking towards the branch, (B) the ATM machine (C) caught the customer's attention (D) with its new signage.",
+      "options": [
+        "(A) Walking towards the branch,",
+        "(B) the ATM machine",
+        "(C) caught the customer's attention",
+        "(D) with its new signage",
+        "No error"
+      ],
+      "correct": 1,
+      "explanation": "The opening participial phrase 'Walking towards the branch' must logically describe the person performing the action, the customer, not 'the ATM machine', which cannot walk. This is a dangling modifier; a correct version would read 'Walking towards the branch, the customer noticed the ATM machine's new signage.' The error lies in segment (B).",
+      "source": {
+        "kind": "generated"
+      },
+      "tags": [
+        "modifier"
+      ]
+    },
+    {
+      "id": "eng-err-6",
+      "stage": "prelims",
+      "section": "english",
+      "topic": "error-spotting",
+      "difficulty": 1,
+      "question": "Read the sentence, part of which is divided into four segments labelled (A), (B), (C) and (D). Identify the segment that contains a grammatical error. If the sentence has no error, choose option (E).\n\n(A) An European delegation (B) visited the regional office (C) to review the bank's (D) rural credit programme.",
+      "options": [
+        "(A) An European delegation",
+        "(B) visited the regional office",
+        "(C) to review the bank's",
+        "(D) rural credit programme",
+        "No error"
+      ],
+      "correct": 0,
+      "explanation": "The choice between 'a' and 'an' depends on the initial sound of the following word, not its initial letter. 'European' begins with a consonant sound (as in 'yoo-ropean'), so it takes 'a', not 'an'. The error lies in segment (A).",
+      "source": {
+        "kind": "generated"
+      },
+      "tags": [
+        "article"
+      ]
+    },
+    {
+      "id": "eng-fill-1",
+      "stage": "prelims",
+      "section": "english",
+      "topic": "fillers",
+      "difficulty": 1,
+      "question": "The bank's revised interest rate will come into effect ______ 1 April.",
+      "options": [
+        "from",
+        "since",
+        "at",
+        "for",
+        "by"
+      ],
+      "correct": 0,
+      "explanation": "'Come into effect from [a date]' is the standard collocation used for rules or rates that begin applying on a specific date. 'Since' would require a present perfect construction looking back from now, and 'at', 'for' and 'by' do not fit this idiom with a future date.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "eng-fill-2",
+      "stage": "prelims",
+      "section": "english",
+      "topic": "fillers",
+      "difficulty": 2,
+      "question": "Despite repeated warnings from the regulator, the company continued to ______ disclosure norms, inviting a hefty penalty.",
+      "options": [
+        "flout",
+        "flaunt",
+        "float",
+        "fluster",
+        "flaunts"
+      ],
+      "correct": 0,
+      "explanation": "'Flout' means to openly disregard a rule, which fits a company ignoring disclosure norms. It is frequently confused with 'flaunt', which means to show off and does not fit this context; 'float' and 'fluster' are unrelated in meaning, and 'flaunts' is also the wrong grammatical form.",
+      "source": {
+        "kind": "generated"
+      },
+      "tags": [
+        "confusable-words"
+      ]
+    },
+    {
+      "id": "eng-fill-3",
+      "stage": "prelims",
+      "section": "english",
+      "topic": "fillers",
+      "difficulty": 1,
+      "question": "The branch manager insisted ______ verifying every document before the loan was sanctioned.",
+      "options": [
+        "on",
+        "in",
+        "at",
+        "for",
+        "of"
+      ],
+      "correct": 0,
+      "explanation": "'Insist' is idiomatically followed by the preposition 'on' when introducing the action being insisted upon, as in 'insist on verifying'. None of the other prepositions form a standard collocation with 'insist' in this sense.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "eng-fill-4",
+      "stage": "prelims",
+      "section": "english",
+      "topic": "fillers",
+      "difficulty": 2,
+      "question": "The regulator's ______ guidelines have made it ______ for shell companies to open current accounts.",
+      "options": [
+        "lenient - difficult",
+        "stringent - difficult",
+        "vague - impossible",
+        "flexible - convenient",
+        "stringent - easy"
+      ],
+      "correct": 1,
+      "explanation": "'Stringent guidelines' (strict rules) logically make it 'difficult' for shell companies to open accounts, so the two blanks must work together in this direction. 'Lenient' or 'flexible' guidelines would make it easier, not harder, and 'stringent ... easy' contradicts itself, which is why only the second option is fully consistent.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "eng-fill-5",
+      "stage": "prelims",
+      "section": "english",
+      "topic": "fillers",
+      "difficulty": 2,
+      "question": "Analysts believe the merger will ______ operational costs in the short term, even though it is expected to ______ shareholder value over the next five years.",
+      "options": [
+        "reduce - enhance",
+        "increase - enhance",
+        "increase - erode",
+        "stabilise - diminish",
+        "eliminate - reverse"
+      ],
+      "correct": 1,
+      "explanation": "The connector 'even though' signals a contrast between an immediate drawback and a later benefit. This matches the typical merger narrative: costs rise in the short term owing to integration expenses, while shareholder value is enhanced over time as synergies materialise. Only 'increase - enhance' preserves both this real-world logic and the contrast implied by 'even though'.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "eng-si-1",
+      "stage": "both",
+      "section": "english",
+      "topic": "sentence-improvement",
+      "difficulty": 2,
+      "question": "Improve the bracketed part of the sentence, if required.\n\nThe board of directors **have unanimously agreed to the proposal** submitted by the audit committee.",
+      "options": [
+        "have unanimous agreed to the proposal",
+        "has unanimously agreed to the proposal",
+        "has unanimously agree to the proposal",
+        "had unanimously agreeing to the proposal",
+        "No improvement"
+      ],
+      "correct": 1,
+      "explanation": "'Board of directors' functions as a single decision-making body here and takes a singular verb, so the correct form is 'has unanimously agreed', not 'have unanimously agreed'. Option (b) corrects this agreement error without introducing any new one, while the other options contain further grammatical faults.",
+      "source": {
+        "kind": "generated"
+      },
+      "tags": [
+        "subject-verb-agreement"
+      ]
+    },
+    {
+      "id": "eng-si-2",
+      "stage": "both",
+      "section": "english",
+      "topic": "sentence-improvement",
+      "difficulty": 2,
+      "question": "Improve the bracketed part of the sentence, if required.\n\nHaving finished the reconciliation, **the report was submitted by the accountant** before the deadline.",
+      "options": [
+        "the report was submitted before the deadline by the accountant",
+        "the accountant submitted the report before the deadline",
+        "the report had been submitted by the accountant",
+        "submitting the report was done by the accountant",
+        "No improvement"
+      ],
+      "correct": 1,
+      "explanation": "The opening participial phrase 'Having finished the reconciliation' must logically refer to the person who performed the action, the accountant, not to 'the report'. Recasting the clause in the active voice, 'the accountant submitted the report before the deadline', removes this dangling modifier; the other options keep the same faulty structure.",
+      "source": {
+        "kind": "generated"
+      },
+      "tags": [
+        "modifier"
+      ]
+    },
+    {
+      "id": "eng-si-3",
+      "stage": "both",
+      "section": "english",
+      "topic": "sentence-improvement",
+      "difficulty": 3,
+      "question": "Improve the bracketed part of the sentence, if required.\n\nThe new manager is not only responsible for **increasing sales but also to improve customer retention**.",
+      "options": [
+        "increasing sales but also improving customer retention",
+        "increase sales but also to improve customer retention",
+        "to increase sales but also improving customer retention",
+        "increasing sales and also to improve customer retention",
+        "No improvement"
+      ],
+      "correct": 0,
+      "explanation": "Correlative structures such as 'not only ... but also' must join grammatically parallel elements. Since the first element is the gerund 'increasing', the second must also be a gerund, 'improving customer retention', rather than the infinitive 'to improve'. Option (a) alone restores this parallelism.",
+      "source": {
+        "kind": "generated"
+      },
+      "tags": [
+        "parallelism"
+      ]
+    },
+    {
+      "id": "eng-si-4",
+      "stage": "both",
+      "section": "english",
+      "topic": "sentence-improvement",
+      "difficulty": 2,
+      "question": "Improve the bracketed part of the sentence, if required.\n\nThe RBI has directed all scheduled commercial banks **to review their exposure to unsecured retail loans**.",
+      "options": [
+        "reviewing their exposure to unsecured retail loans",
+        "to review its exposure to unsecured retail loans",
+        "to review their exposure on unsecured retail loans",
+        "for reviewing their exposure to unsecured retail loans",
+        "No improvement"
+      ],
+      "correct": 4,
+      "explanation": "The original sentence is already correct: 'directed ... to review' is the standard infinitive construction that follows 'direct', 'their' correctly agrees with the plural 'banks', and 'exposure to' is the right preposition. None of the alternatives improves on this, so 'No improvement' is the answer.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "eng-pr-1",
+      "stage": "both",
+      "section": "english",
+      "topic": "phrase-replacement",
+      "difficulty": 2,
+      "question": "Which of the following phrases can best replace the bracketed part to convey the intended meaning?\n\nWhen news of the scam broke, the manager tried to **act as if he did not know anything about it**, but the auditors were not convinced.",
+      "options": [
+        "turn a blind eye",
+        "plead ignorance",
+        "beat around the bush",
+        "pass the buck",
+        "No improvement"
+      ],
+      "correct": 1,
+      "explanation": "'Plead ignorance' means to claim that one has no knowledge of something, which precisely matches the manager's action. 'Turn a blind eye' means to deliberately ignore wrongdoing one is already aware of, 'beat around the bush' means to avoid getting to the point, and 'pass the buck' means to shift blame onto someone else, none of which convey 'claiming not to know'.",
+      "source": {
+        "kind": "generated"
+      },
+      "tags": [
+        "idiom"
+      ]
+    },
+    {
+      "id": "eng-pr-2",
+      "stage": "both",
+      "section": "english",
+      "topic": "phrase-replacement",
+      "difficulty": 2,
+      "question": "Which of the following phrasal verbs can best replace the bracketed part to convey the intended meaning?\n\nThe RBI has asked NBFCs to **carefully examine** their loan books before the next audit cycle.",
+      "options": [
+        "go through",
+        "look after",
+        "look up",
+        "go off",
+        "No improvement"
+      ],
+      "correct": 0,
+      "explanation": "'Go through' means to examine something in detail, matching 'carefully examine'. 'Look after' means to take care of, 'look up' means to search for a piece of information, and 'go off' means to explode or stop functioning, none of which carry the sense of a careful review.",
+      "source": {
+        "kind": "generated"
+      },
+      "tags": [
+        "phrasal-verb"
+      ]
+    },
+    {
+      "id": "eng-pr-3",
+      "stage": "both",
+      "section": "english",
+      "topic": "phrase-replacement",
+      "difficulty": 3,
+      "question": "Which of the following phrases can best replace the bracketed part to convey the intended meaning?\n\nDespite having enough evidence, the investigating officer chose to **delay taking any action, hoping the matter would resolve on its own**.",
+      "options": [
+        "sit on the fence",
+        "kick the can down the road",
+        "let the cat out of the bag",
+        "burn the midnight oil",
+        "No improvement"
+      ],
+      "correct": 1,
+      "explanation": "'Kick the can down the road' means to postpone dealing with a problem in the hope that it resolves itself or becomes someone else's concern later, matching the officer's inaction despite having evidence. 'Sit on the fence' means to avoid taking sides, 'let the cat out of the bag' means to reveal a secret, and 'burn the midnight oil' means to work late into the night, none of which fit here.",
+      "source": {
+        "kind": "generated"
+      },
+      "tags": [
+        "idiom"
+      ]
+    },
+    {
+      "id": "eng-wu-1",
+      "stage": "mains",
+      "section": "english",
+      "topic": "word-usage",
+      "difficulty": 2,
+      "question": "The word **APPRECIATE** is used correctly in four of the five sentences below. In which sentence is it used INCORRECTLY?",
+      "options": [
+        "The rupee is expected to appreciate against the dollar if capital inflows continue.",
+        "We truly appreciate your patience during the system upgrade.",
+        "He could not appreciate the seriousness of the situation until the auditor explained it.",
+        "The committee appreciated the report to the finance ministry for review.",
+        "Property prices in the locality have appreciated by nearly twenty per cent in two years."
+      ],
+      "correct": 3,
+      "explanation": "'Appreciate' correctly means either to increase in value (as in sentences 1 and 5) or to value or fully understand something (as in sentences 2 and 3). Sentence 4 misuses the word where a verb such as 'forwarded' or 'submitted' is needed; 'appreciated the report to the finance ministry' is not a valid construction, since 'appreciate' does not take an indirect object introduced by 'to'.",
+      "source": {
+        "kind": "generated"
+      },
+      "tags": [
+        "appreciate"
+      ]
+    },
+    {
+      "id": "eng-wu-2",
+      "stage": "mains",
+      "section": "english",
+      "topic": "word-usage",
+      "difficulty": 3,
+      "question": "The word **DEFAULT** is used correctly in four of the five sentences below. In which sentence is it used INCORRECTLY?",
+      "options": [
+        "The borrower is likely to default on the loan if the moratorium is not extended.",
+        "In the absence of a specific instruction, the system applies the default settings.",
+        "The company was declared a defaulter after missing three consecutive instalments.",
+        "The judge will default the case tomorrow morning at ten o'clock.",
+        "By default, the interest rate resets every six months unless the customer opts for a fixed rate."
+      ],
+      "correct": 3,
+      "explanation": "'Default' correctly denotes either failing to meet a financial obligation (sentences 1 and 3, including its noun form 'defaulter') or a pre-set condition, as in the idiom 'by default' (sentences 2 and 5). Sentence 4 is nonsensical: there is no sense in which a judge can 'default' a case, since the word carries no meaning related to hearing, listing, or scheduling proceedings.",
+      "source": {
+        "kind": "generated"
+      },
+      "tags": [
+        "default"
+      ]
+    },
+    {
+      "id": "eng-wu-3",
+      "stage": "mains",
+      "section": "english",
+      "topic": "word-usage",
+      "difficulty": 3,
+      "question": "In the two sentences below, the words 'complement' and 'compliment' have each been used in the wrong place. Which option correctly assigns the two words?\n\nSentence 1: The customer service team received several complements for its quick response to the complaint.\nSentence 2: A strong compliance culture must compliment the bank's risk management framework.",
+      "options": [
+        "Sentence 1: complement; Sentence 2: compliment (unchanged)",
+        "Sentence 1: compliment; Sentence 2: complement",
+        "Sentence 1: complement; Sentence 2: complement",
+        "Sentence 1: compliment; Sentence 2: compliment",
+        "Both sentences are already correct as they stand"
+      ],
+      "correct": 1,
+      "explanation": "'Compliment' means an expression of praise, which fits Sentence 1 (praise received for quick service), while 'complement' means something that completes or works well with something else, which fits Sentence 2 (a compliance culture that works well alongside risk management). The words as originally printed are swapped, so only the second option assigns each word to its correct sentence.",
+      "source": {
+        "kind": "generated"
+      },
+      "tags": [
+        "complement-compliment"
+      ]
+    }
+  ]
+}

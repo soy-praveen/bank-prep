@@ -1,0 +1,69 @@
+{
+  "note": "Source books in the user's Google Drive 'Claude' folder. Download requires the folder to be link-shared (Anyone with the link - Viewer), then: bash scripts/fetch-books.sh",
+  "folderUrl": "https://drive.google.com/drive/folders/1u5LitB_f5fmg-YVVw57MvIAK9iSabf0c",
+  "books": [
+    {
+      "id": "1X2Pg_blphGeP3W5F4efhPTQFunY5Mrb-",
+      "file": "disha-target-sbi-po-20-sets-past-papers.pdf",
+      "title": "Target SBI Bank PO - 20 Practice Sets + Past Papers 2015-19 (Disha, 9th ed)",
+      "sizeMB": 17.7,
+      "kind": "practice-sets+pyq"
+    },
+    {
+      "id": "1xvju8o_R1ZVwl7ZZED346RASNe9Pl0tJ",
+      "file": "guidely-sbi-po-prelims-2021-course.pdf",
+      "title": "SBI PO Prelims 2021 PDF Course (Guidely)",
+      "sizeMB": 45.3,
+      "kind": "topic-practice"
+    },
+    {
+      "id": "1ihWg3fh7FQVymVgmsAqmeFFc_H_HsyKZ",
+      "file": "disha-sbi-ibps-po-32-solved-papers.pdf",
+      "title": "SBI & IBPS Bank PO Solved Papers - 32 papers (Disha, 2nd ed 2017)",
+      "sizeMB": 18.1,
+      "kind": "pyq-solved"
+    },
+    {
+      "id": "1fLO8AsYNMDzBdhyi5bznouo5unjPlRVw",
+      "file": "computer-knowledge-bank-exams.epub",
+      "title": "Computer Knowledge for SBI/IBPS Clerk/PO/SO/RRB/RBI (EPUB)",
+      "sizeMB": 8.1,
+      "kind": "computer-awareness"
+    },
+    {
+      "id": "1NqhBUnJIEcsAvpdFVkzdOoQoVFPKmX5J",
+      "file": "shikha-agarwal-computer-knowledge.pdf",
+      "title": "Computer Knowledge for Bank Exams (Shikha Agarwal)",
+      "sizeMB": 6.1,
+      "kind": "computer-awareness"
+    },
+    {
+      "id": "11_16k1LvINFBuccffcyj7MQDuk1pv-_X",
+      "file": "adda247-sbi-po-mains-2015-20.pdf",
+      "title": "Bank SBI PO Mains 2015-20 (Adda247)",
+      "sizeMB": 7.5,
+      "kind": "pyq-mains"
+    },
+    {
+      "id": "1N9voUQuTdrF0XNgyBj4oSPGLnGQlTWYD",
+      "file": "testbook-sbi-po-mains-2023.pdf",
+      "title": "SBI PO Mains 2023 Test Papers (Testbook)",
+      "sizeMB": 1.3,
+      "kind": "pyq-mains"
+    },
+    {
+      "id": "117bDO_gGIqnbVoeFltmk60SpXmovpLf3",
+      "file": "50plus-bank-po-clerk-2016-2021-memory-based.pdf",
+      "title": "50+ Bank PO and Clerk 2016-2021 Memory Based Papers (ed 3.0)",
+      "sizeMB": 35.6,
+      "kind": "pyq-memory-based"
+    },
+    {
+      "id": "1S0TsjvnozM9Vv5R1OYayWK0PfoBybuXi",
+      "file": "adda247-50plus-po-clerk-2016-2020-memory-based.pdf",
+      "title": "50+ Bank PO & Clerk 2016-2020 Memory Based (Adda247, v3)",
+      "sizeMB": 9.0,
+      "kind": "pyq-memory-based"
+    }
+  ]
+}

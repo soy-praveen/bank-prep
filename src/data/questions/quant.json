@@ -1,0 +1,1113 @@
+{
+  "sets": [
+    {
+      "id": "qnt-di1",
+      "section": "quant",
+      "topic": "data-interpretation",
+      "title": "Laptop Production by Five Companies (2021-2023)",
+      "context": "The table below shows the production of laptops (in thousand units) by five companies A, B, C, D and E during the years 2021, 2022 and 2023.\n\n| Company | 2021 | 2022 | 2023 |\n|---|---|---|---|\n| A | 400 | 460 | 500 |\n| B | 250 | 300 | 350 |\n| C | 300 | 330 | 360 |\n| D | 220 | 260 | 330 |\n| E | 350 | 400 | 455 |"
+    },
+    {
+      "id": "qnt-di2",
+      "section": "quant",
+      "topic": "data-interpretation",
+      "title": "Boys and Girls Enrolled in Five Schools",
+      "context": "The data represents a bar graph of the number of boys and girls enrolled in five schools P, Q, R, S and T.\n\n| School | Boys | Girls |\n|---|---|---|\n| P | 200 | 150 |\n| Q | 180 | 200 |\n| R | 220 | 180 |\n| S | 240 | 140 |\n| T | 160 | 230 |"
+    },
+    {
+      "id": "qnt-di3",
+      "section": "quant",
+      "topic": "data-interpretation",
+      "title": "Employee Distribution Across Five Departments",
+      "context": "A company has a total of 1200 employees spread across five departments — HR, IT, Sales, Finance and Operations. The table shows the total employees in four of the five departments and the percentage of male employees in each department. The number of employees in the IT department is not given directly but can be calculated from the overall total of 1200.\n\n| Department | Total Employees | % Male |\n|---|---|---|\n| HR | 200 | 40% |\n| IT | - | 60% |\n| Sales | 250 | 70% |\n| Finance | 150 | 50% |\n| Operations | 300 | 55% |"
+    },
+    {
+      "id": "qnt-cl1",
+      "section": "quant",
+      "topic": "caselet-di",
+      "title": "Customer Footfall in Three Mobile Phone Shops",
+      "context": "Three mobile phone shops — A, B and C — recorded their monthly customer footfall. Shop A had 800 customers, of which 45% were female and the remaining were male. Shop B had 750 customers, with male and female customers in the ratio 8:7. Shop C had 200 customers more than Shop B, and 40% of Shop C's customers were female. In Shop A, 25% of the male customers and 20% of the female customers purchased a phone during the month."
+    }
+  ],
+  "questions": [
+    {
+      "id": "qnt-di1-q1",
+      "stage": "prelims",
+      "section": "quant",
+      "topic": "data-interpretation",
+      "difficulty": 2,
+      "setId": "qnt-di1",
+      "question": "What is the ratio of the combined production of companies A and C in 2021 to the combined production of companies B and D in 2022?",
+      "options": [
+        "5:4",
+        "4:5",
+        "7:6",
+        "3:2",
+        "5:6"
+      ],
+      "correct": 0,
+      "explanation": "A's 2021 production = 400 thousand, C's 2021 production = 300 thousand; combined = 700 thousand.\nB's 2022 production = 300 thousand, D's 2022 production = 260 thousand; combined = 560 thousand.\nRequired ratio = 700:560. Dividing both terms by their HCF (140) gives **5:4**.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "qnt-di1-q2",
+      "stage": "prelims",
+      "section": "quant",
+      "topic": "data-interpretation",
+      "difficulty": 1,
+      "setId": "qnt-di1",
+      "question": "By what percentage did the production of company E increase from 2021 to 2023?",
+      "options": [
+        "20%",
+        "25%",
+        "30%",
+        "35%",
+        "40%"
+      ],
+      "correct": 2,
+      "explanation": "E's production in 2021 = 350 thousand; in 2023 = 455 thousand. Increase = 455 - 350 = 105 thousand.\nPercentage increase = (105/350) × 100 = **30%**.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "qnt-di1-q3",
+      "stage": "prelims",
+      "section": "quant",
+      "topic": "data-interpretation",
+      "difficulty": 1,
+      "setId": "qnt-di1",
+      "question": "What was the average production (in thousand units) of all five companies in 2022?",
+      "options": [
+        "330",
+        "340",
+        "350",
+        "360",
+        "370"
+      ],
+      "correct": 2,
+      "explanation": "Total production in 2022 = 460 + 300 + 330 + 260 + 400 = 1750 thousand units.\nAverage = 1750/5 = **350** thousand units.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "qnt-di1-q4",
+      "stage": "prelims",
+      "section": "quant",
+      "topic": "data-interpretation",
+      "difficulty": 1,
+      "setId": "qnt-di1",
+      "question": "What is the total production of company B over the three years 2021, 2022 and 2023 combined (in thousand units)?",
+      "options": [
+        "850",
+        "880",
+        "900",
+        "920",
+        "950"
+      ],
+      "correct": 2,
+      "explanation": "B's production: 2021 = 250, 2022 = 300, 2023 = 350.\nTotal = 250 + 300 + 350 = **900** thousand units.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "qnt-di1-q5",
+      "stage": "prelims",
+      "section": "quant",
+      "topic": "data-interpretation",
+      "difficulty": 2,
+      "setId": "qnt-di1",
+      "question": "Which company recorded the highest percentage increase in production from 2021 to 2023?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "correct": 3,
+      "explanation": "Percentage increase (2021 to 2023) for each company:\nA = (500-400)/400 × 100 = 25%\nB = (350-250)/250 × 100 = 40%\nC = (360-300)/300 × 100 = 20%\nD = (330-220)/220 × 100 = 50%\nE = (455-350)/350 × 100 = 30%\nThe highest is **D at 50%**.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "qnt-di2-q1",
+      "stage": "prelims",
+      "section": "quant",
+      "topic": "data-interpretation",
+      "difficulty": 2,
+      "setId": "qnt-di2",
+      "question": "What is the ratio of the number of boys in school R to the number of girls in school S?",
+      "options": [
+        "11:7",
+        "7:11",
+        "9:7",
+        "11:9",
+        "5:3"
+      ],
+      "correct": 0,
+      "explanation": "Boys in R = 220, girls in S = 140.\nRatio = 220:140. Dividing both terms by 20 gives **11:7**.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "qnt-di2-q2",
+      "stage": "prelims",
+      "section": "quant",
+      "topic": "data-interpretation",
+      "difficulty": 1,
+      "setId": "qnt-di2",
+      "question": "The number of girls in school P is what percentage of the number of boys in school P?",
+      "options": [
+        "60%",
+        "70%",
+        "75%",
+        "80%",
+        "90%"
+      ],
+      "correct": 2,
+      "explanation": "Girls in P = 150, boys in P = 200.\nRequired percentage = (150/200) × 100 = **75%**.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "qnt-di2-q3",
+      "stage": "prelims",
+      "section": "quant",
+      "topic": "data-interpretation",
+      "difficulty": 1,
+      "setId": "qnt-di2",
+      "question": "What is the average number of boys across all five schools?",
+      "options": [
+        "190",
+        "195",
+        "200",
+        "205",
+        "210"
+      ],
+      "correct": 2,
+      "explanation": "Total boys = 200 + 180 + 220 + 240 + 160 = 1000.\nAverage = 1000/5 = **200**.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "qnt-di2-q4",
+      "stage": "prelims",
+      "section": "quant",
+      "topic": "data-interpretation",
+      "difficulty": 1,
+      "setId": "qnt-di2",
+      "question": "What is the total number of students (boys and girls together) in school R?",
+      "options": [
+        "380",
+        "390",
+        "400",
+        "410",
+        "420"
+      ],
+      "correct": 2,
+      "explanation": "Boys in R = 220, girls in R = 180.\nTotal = 220 + 180 = **400**.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "qnt-di2-q5",
+      "stage": "prelims",
+      "section": "quant",
+      "topic": "data-interpretation",
+      "difficulty": 2,
+      "setId": "qnt-di2",
+      "question": "In which school is the difference between the number of boys and girls the highest?",
+      "options": [
+        "P",
+        "Q",
+        "R",
+        "S",
+        "T"
+      ],
+      "correct": 3,
+      "explanation": "Absolute difference (Boys - Girls) per school:\nP = |200-150| = 50\nQ = |180-200| = 20\nR = |220-180| = 40\nS = |240-140| = 100\nT = |160-230| = 70\nThe largest difference is **100, in school S**.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "qnt-di3-q1",
+      "stage": "mains",
+      "section": "quant",
+      "topic": "data-interpretation",
+      "difficulty": 2,
+      "setId": "qnt-di3",
+      "question": "What is the total number of employees in the IT department?",
+      "options": [
+        "280",
+        "290",
+        "300",
+        "310",
+        "320"
+      ],
+      "correct": 2,
+      "explanation": "Total employees in the company = 1200.\nSum of the given departments = 200 (HR) + 250 (Sales) + 150 (Finance) + 300 (Operations) = 900.\nIT's total = 1200 - 900 = **300**.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "qnt-di3-q2",
+      "stage": "mains",
+      "section": "quant",
+      "topic": "data-interpretation",
+      "difficulty": 2,
+      "setId": "qnt-di3",
+      "question": "What is the number of female employees in the Operations department?",
+      "options": [
+        "120",
+        "125",
+        "130",
+        "135",
+        "140"
+      ],
+      "correct": 3,
+      "explanation": "Operations has 300 employees, 55% of whom are male: 0.55 × 300 = 165 male employees.\nFemale employees = 300 - 165 = **135**.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "qnt-di3-q3",
+      "stage": "mains",
+      "section": "quant",
+      "topic": "data-interpretation",
+      "difficulty": 3,
+      "setId": "qnt-di3",
+      "question": "What is the ratio of male employees in the IT department to female employees in the Finance department?",
+      "options": [
+        "12:5",
+        "5:12",
+        "3:1",
+        "7:3",
+        "12:7"
+      ],
+      "correct": 0,
+      "explanation": "IT's total employees = 300 (from Q1); male = 60% of 300 = 180.\nFinance has 150 employees with 50% male, so female = 50% of 150 = 75.\nRequired ratio = 180:75, which simplifies (divide by 15) to **12:5**.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "qnt-di3-q4",
+      "stage": "mains",
+      "section": "quant",
+      "topic": "data-interpretation",
+      "difficulty": 2,
+      "setId": "qnt-di3",
+      "question": "What is the average number of female employees per department (across all five departments)?",
+      "options": [
+        "95",
+        "100",
+        "105",
+        "110",
+        "115"
+      ],
+      "correct": 2,
+      "explanation": "Female employees: HR = 60% of 200 = 120; IT = 40% of 300 = 120; Sales = 30% of 250 = 75; Finance = 50% of 150 = 75; Operations = 45% of 300 = 135.\nTotal = 120+120+75+75+135 = 525. Average = 525/5 = **105**.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "qnt-di3-q5",
+      "stage": "mains",
+      "section": "quant",
+      "topic": "data-interpretation",
+      "difficulty": 3,
+      "setId": "qnt-di3",
+      "question": "The total number of female employees in the Sales and Operations departments together is what percentage of the total number of employees in the company?",
+      "options": [
+        "15%",
+        "16.25%",
+        "17.5%",
+        "18.75%",
+        "20%"
+      ],
+      "correct": 2,
+      "explanation": "Female employees in Sales = 30% of 250 = 75. Female employees in Operations = 45% of 300 = 135.\nTogether = 75 + 135 = 210.\nAs a percentage of the company total (1200): (210/1200) × 100 = **17.5%**.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "qnt-cl1-q1",
+      "stage": "mains",
+      "section": "quant",
+      "topic": "caselet-di",
+      "difficulty": 2,
+      "setId": "qnt-cl1",
+      "question": "What is the number of male customers in Shop A?",
+      "options": [
+        "400",
+        "420",
+        "440",
+        "460",
+        "480"
+      ],
+      "correct": 2,
+      "explanation": "Shop A has 800 customers; 45% are female = 0.45 × 800 = 360.\nMale customers = 800 - 360 = **440**.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "qnt-cl1-q2",
+      "stage": "mains",
+      "section": "quant",
+      "topic": "caselet-di",
+      "difficulty": 2,
+      "setId": "qnt-cl1",
+      "question": "What is the number of female customers in Shop C?",
+      "options": [
+        "340",
+        "360",
+        "380",
+        "400",
+        "420"
+      ],
+      "correct": 2,
+      "explanation": "Shop C has 200 more customers than Shop B (750), i.e., 750 + 200 = 950 customers.\n40% of these are female = 0.40 × 950 = **380**.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "qnt-cl1-q3",
+      "stage": "mains",
+      "section": "quant",
+      "topic": "caselet-di",
+      "difficulty": 3,
+      "setId": "qnt-cl1",
+      "question": "What is the ratio of male customers in Shop B to female customers in Shop A?",
+      "options": [
+        "10:9",
+        "9:10",
+        "8:7",
+        "4:3",
+        "5:4"
+      ],
+      "correct": 0,
+      "explanation": "Shop B has 750 customers in male:female ratio 8:7, i.e., 15 parts of 50 each. Male in B = 8 × 50 = 400.\nFemale in Shop A = 360 (0.45 × 800).\nRequired ratio = 400:360 = **10:9**.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "qnt-cl1-q4",
+      "stage": "mains",
+      "section": "quant",
+      "topic": "caselet-di",
+      "difficulty": 3,
+      "setId": "qnt-cl1",
+      "question": "How many customers in total purchased a phone from Shop A during the month?",
+      "options": [
+        "172",
+        "178",
+        "182",
+        "188",
+        "192"
+      ],
+      "correct": 2,
+      "explanation": "Male customers in Shop A = 440; 25% purchased = 0.25 × 440 = 110.\nFemale customers in Shop A = 360; 20% purchased = 0.20 × 360 = 72.\nTotal purchasers = 110 + 72 = **182**.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "qnt-ser-1",
+      "stage": "prelims",
+      "section": "quant",
+      "topic": "number-series",
+      "difficulty": 2,
+      "question": "Find the missing number in the series: 3, 6, 11, 18, 27, ?",
+      "options": [
+        "34",
+        "36",
+        "38",
+        "40",
+        "42"
+      ],
+      "correct": 2,
+      "explanation": "The differences between consecutive terms are 3, 5, 7, 9 — consecutive odd numbers, each 2 more than the previous.\nThe next difference is 11, so the missing term = 27 + 11 = **38**.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "qnt-ser-2",
+      "stage": "prelims",
+      "section": "quant",
+      "topic": "number-series",
+      "difficulty": 3,
+      "question": "Find the missing number in the series: 5, 11, 24, 51, 106, ?",
+      "options": [
+        "210",
+        "212",
+        "215",
+        "217",
+        "220"
+      ],
+      "correct": 3,
+      "explanation": "Each term is obtained by multiplying the previous term by 2 and adding an increasing number (1, 2, 3, 4, 5):\n5×2+1=11; 11×2+2=24; 24×2+3=51; 51×2+4=106; 106×2+5=**217**.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "qnt-ser-3",
+      "stage": "prelims",
+      "section": "quant",
+      "topic": "number-series",
+      "difficulty": 1,
+      "question": "Find the missing number in the series: 5, 10, 17, 26, 37, ?",
+      "options": [
+        "46",
+        "48",
+        "49",
+        "50",
+        "52"
+      ],
+      "correct": 3,
+      "explanation": "Each term is one more than a perfect square: 2²+1=5, 3²+1=10, 4²+1=17, 5²+1=26, 6²+1=37.\nShortcut: spot the \"n²+1\" rule from the first couple of terms. The next term is 7²+1 = **50**.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "qnt-ser-4",
+      "stage": "prelims",
+      "section": "quant",
+      "topic": "number-series",
+      "difficulty": 2,
+      "question": "Find the missing number in the series: 4, 6, 9, 14, 21, ?",
+      "options": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "correct": 2,
+      "explanation": "The differences between consecutive terms are 2, 3, 5, 7 — consecutive prime numbers.\nThe next prime is 11, so the missing term = 21 + 11 = **32**.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "qnt-ser-5",
+      "stage": "prelims",
+      "section": "quant",
+      "topic": "number-series",
+      "difficulty": 2,
+      "question": "Find the wrong term in the series: 1, 8, 28, 64, 125, 216",
+      "options": [
+        "8",
+        "28",
+        "64",
+        "125",
+        "216"
+      ],
+      "correct": 1,
+      "explanation": "The series should be consecutive cubes: 1³=1, 2³=8, 3³=27, 4³=64, 5³=125, 6³=216.\nThe term **28** does not fit — it should be 27.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "qnt-ser-6",
+      "stage": "prelims",
+      "section": "quant",
+      "topic": "number-series",
+      "difficulty": 3,
+      "question": "Find the wrong term in the series: 2, 4, 7, 12, 20, 30",
+      "options": [
+        "4",
+        "7",
+        "12",
+        "20",
+        "30"
+      ],
+      "correct": 3,
+      "explanation": "The differences between consecutive terms should be consecutive prime numbers: +2, +3, +5, +7, +11, giving 2, 4, 7, 12, 19, 30.\nThe term **20** does not fit the pattern — it should be 19 (12+7).",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "qnt-quad-1",
+      "stage": "prelims",
+      "section": "quant",
+      "topic": "quadratic-equations",
+      "difficulty": 1,
+      "question": "In the following question, two equations I and II are given. Solve both the equations and determine the relationship between x and y.\n\nI. x² - 5x + 6 = 0\nII. y² - 7y + 12 = 0",
+      "options": [
+        "x > y",
+        "x < y",
+        "x ≥ y",
+        "x ≤ y",
+        "x = y or relationship cannot be established"
+      ],
+      "correct": 3,
+      "explanation": "I: x² - 5x + 6 = 0 → (x-2)(x-3) = 0 → x = 2, 3.\nII: y² - 7y + 12 = 0 → (y-3)(y-4) = 0 → y = 3, 4.\nComparing every pair: (2,3)→x<y; (2,4)→x<y; (3,3)→x=y; (3,4)→x<y.\nIn every case x is either less than or equal to y, so **x ≤ y**.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "qnt-quad-2",
+      "stage": "prelims",
+      "section": "quant",
+      "topic": "quadratic-equations",
+      "difficulty": 2,
+      "question": "In the following question, two equations I and II are given. Solve both the equations and determine the relationship between x and y.\n\nI. x² - 9 = 0\nII. y² - 16 = 0",
+      "options": [
+        "x > y",
+        "x < y",
+        "x ≥ y",
+        "x ≤ y",
+        "x = y or relationship cannot be established"
+      ],
+      "correct": 4,
+      "explanation": "I: x² = 9 → x = +3 or -3.\nII: y² = 16 → y = +4 or -4.\nComparing pairs: (3,4)→x<y; (3,-4)→x>y; (-3,4)→x<y; (-3,-4)→x>y.\nSince the relation flips between pairs, **no definite relationship can be established**.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "qnt-quad-3",
+      "stage": "prelims",
+      "section": "quant",
+      "topic": "quadratic-equations",
+      "difficulty": 2,
+      "question": "In the following question, two equations I and II are given. Solve both the equations and determine the relationship between x and y.\n\nI. x² - 7x + 10 = 0\nII. y² - 3y + 2 = 0",
+      "options": [
+        "x > y",
+        "x < y",
+        "x ≥ y",
+        "x ≤ y",
+        "x = y or relationship cannot be established"
+      ],
+      "correct": 2,
+      "explanation": "I: x² - 7x + 10 = 0 → (x-2)(x-5) = 0 → x = 2, 5.\nII: y² - 3y + 2 = 0 → (y-1)(y-2) = 0 → y = 1, 2.\nComparing pairs: (2,1)→x>y; (2,2)→x=y; (5,1)→x>y; (5,2)→x>y.\nIn every case x is either greater than or equal to y, so **x ≥ y**.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "qnt-quad-4",
+      "stage": "prelims",
+      "section": "quant",
+      "topic": "quadratic-equations",
+      "difficulty": 2,
+      "question": "In the following question, two equations I and II are given. Solve both the equations and determine the relationship between x and y.\n\nI. x² - 6x + 8 = 0\nII. y² - 13y + 42 = 0",
+      "options": [
+        "x > y",
+        "x < y",
+        "x ≥ y",
+        "x ≤ y",
+        "x = y or relationship cannot be established"
+      ],
+      "correct": 1,
+      "explanation": "I: x² - 6x + 8 = 0 → (x-2)(x-4) = 0 → x = 2, 4.\nII: y² - 13y + 42 = 0 → (y-6)(y-7) = 0 → y = 6, 7.\nShortcut: the largest value of x (4) is smaller than the smallest value of y (6), so in every combination **x < y**.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "qnt-quad-5",
+      "stage": "prelims",
+      "section": "quant",
+      "topic": "quadratic-equations",
+      "difficulty": 3,
+      "question": "In the following question, two equations I and II are given. Solve both the equations and determine the relationship between x and y.\n\nI. x² - 17x + 72 = 0\nII. y² - 9y + 20 = 0",
+      "options": [
+        "x > y",
+        "x < y",
+        "x ≥ y",
+        "x ≤ y",
+        "x = y or relationship cannot be established"
+      ],
+      "correct": 0,
+      "explanation": "I: x² - 17x + 72 = 0 → (x-8)(x-9) = 0 → x = 8, 9.\nII: y² - 9y + 20 = 0 → (y-4)(y-5) = 0 → y = 4, 5.\nShortcut: the smallest value of x (8) is larger than the largest value of y (5), so in every combination **x > y**.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "qnt-simp-1",
+      "stage": "prelims",
+      "section": "quant",
+      "topic": "simplification-approximation",
+      "difficulty": 1,
+      "question": "Simplify: 45% of 360 ÷ 6 + 15 = ?",
+      "options": [
+        "36",
+        "39",
+        "42",
+        "45",
+        "48"
+      ],
+      "correct": 2,
+      "explanation": "45% of 360 = 162. 162 ÷ 6 = 27. 27 + 15 = **42**.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "qnt-simp-2",
+      "stage": "prelims",
+      "section": "quant",
+      "topic": "simplification-approximation",
+      "difficulty": 1,
+      "question": "Simplify: √729 + √256 - √121 = ?",
+      "options": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "correct": 2,
+      "explanation": "√729 = 27, √256 = 16, √121 = 11.\n27 + 16 - 11 = **32**.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "qnt-simp-3",
+      "stage": "prelims",
+      "section": "quant",
+      "topic": "simplification-approximation",
+      "difficulty": 2,
+      "question": "Simplify: (8)² ÷ 4 + (5)³ ÷ 25 = ?",
+      "options": [
+        "18",
+        "19",
+        "20",
+        "21",
+        "22"
+      ],
+      "correct": 3,
+      "explanation": "8² = 64, so 64 ÷ 4 = 16.\n5³ = 125, so 125 ÷ 25 = 5.\n16 + 5 = **21**.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "qnt-simp-4",
+      "stage": "prelims",
+      "section": "quant",
+      "topic": "simplification-approximation",
+      "difficulty": 2,
+      "question": "Simplify: 2/3 of 450 - 3/5 of 200 + 30 = ?",
+      "options": [
+        "190",
+        "200",
+        "210",
+        "220",
+        "230"
+      ],
+      "correct": 2,
+      "explanation": "2/3 of 450 = 300. 3/5 of 200 = 120.\n300 - 120 + 30 = **210**.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "qnt-simp-5",
+      "stage": "prelims",
+      "section": "quant",
+      "topic": "simplification-approximation",
+      "difficulty": 2,
+      "question": "√1023 × 4.98 + 11.02² ≈ ?",
+      "options": [
+        "261",
+        "271",
+        "281",
+        "291",
+        "301"
+      ],
+      "correct": 2,
+      "explanation": "Approximate each ugly value to the nearest clean number: √1023 ≈ 32, 4.98 ≈ 5, 11.02 ≈ 11.\n32 × 5 + 11² = 160 + 121 = **281**.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "qnt-simp-6",
+      "stage": "prelims",
+      "section": "quant",
+      "topic": "simplification-approximation",
+      "difficulty": 3,
+      "question": "(17.98)² ÷ 6.02 × 2.01 ≈ ?",
+      "options": [
+        "98",
+        "103",
+        "108",
+        "113",
+        "118"
+      ],
+      "correct": 2,
+      "explanation": "Approximate: 17.98 ≈ 18, 6.02 ≈ 6, 2.01 ≈ 2.\n18² ÷ 6 × 2 = 324 ÷ 6 × 2 = 54 × 2 = **108**.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "qnt-ari-1",
+      "stage": "prelims",
+      "section": "quant",
+      "topic": "percentages",
+      "difficulty": 1,
+      "question": "In an exam, a student secured 486 marks out of 600. What percentage of marks did the student secure?",
+      "options": [
+        "78%",
+        "79%",
+        "80%",
+        "81%",
+        "82%"
+      ],
+      "correct": 3,
+      "explanation": "Required percentage = (486/600) × 100 = **81%**.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "qnt-ari-2",
+      "stage": "prelims",
+      "section": "quant",
+      "topic": "profit-loss",
+      "difficulty": 1,
+      "question": "A shopkeeper bought an article for Rs 800 and sold it at a profit of 15%. What is the selling price?",
+      "options": [
+        "860",
+        "880",
+        "900",
+        "920",
+        "940"
+      ],
+      "correct": 3,
+      "explanation": "Selling price = Cost price × (1 + profit%/100) = 800 × 1.15 = **920**.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "qnt-ari-3",
+      "stage": "both",
+      "section": "quant",
+      "topic": "simple-compound-interest",
+      "difficulty": 2,
+      "question": "Find the compound interest on Rs 10,000 for 2 years at 10% per annum, compounded annually.",
+      "options": [
+        "2000",
+        "2050",
+        "2100",
+        "2150",
+        "2200"
+      ],
+      "correct": 2,
+      "explanation": "Amount = 10000 × (1 + 10/100)² = 10000 × 1.21 = 12,100. CI = 12,100 - 10,000 = **2100**.\nShortcut: for 2 years, CI = P × (2R + R²/100)/100 = 10000 × (20+1)/100 = **2100**.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "qnt-ari-4",
+      "stage": "prelims",
+      "section": "quant",
+      "topic": "ratio-proportion",
+      "difficulty": 2,
+      "question": "Two numbers are in the ratio 3:5. If the sum of the numbers is 96, find the larger number.",
+      "options": [
+        "48",
+        "54",
+        "60",
+        "66",
+        "72"
+      ],
+      "correct": 2,
+      "explanation": "Sum of ratio parts = 3+5 = 8. Each part = 96/8 = 12.\nLarger number = 5 × 12 = **60**.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "qnt-ari-5",
+      "stage": "prelims",
+      "section": "quant",
+      "topic": "averages",
+      "difficulty": 1,
+      "question": "The average of 5 consecutive even numbers is 34. What is the largest of these numbers?",
+      "options": [
+        "36",
+        "38",
+        "40",
+        "42",
+        "44"
+      ],
+      "correct": 1,
+      "explanation": "Shortcut: for consecutive (evenly spaced) numbers, the average equals the middle term, so the middle (3rd) number is 34.\nThe numbers are 30, 32, 34, 36, 38. The largest is **38**.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "qnt-ari-6",
+      "stage": "both",
+      "section": "quant",
+      "topic": "ages",
+      "difficulty": 2,
+      "question": "The present age of a father is 3 times the age of his son. After 10 years, the father's age will be twice the son's age. Find the son's present age.",
+      "options": [
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "correct": 2,
+      "explanation": "Let son's present age = x, father's = 3x.\nAfter 10 years: 3x+10 = 2(x+10) → 3x+10 = 2x+20 → x = **10** years.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "qnt-ari-7",
+      "stage": "prelims",
+      "section": "quant",
+      "topic": "time-work",
+      "difficulty": 1,
+      "question": "A can complete a work in 12 days and B can complete the same work in 24 days. In how many days will they complete the work together?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "correct": 2,
+      "explanation": "Shortcut: take total work = LCM(12,24) = 24 units. A's rate = 24/12 = 2 units/day, B's rate = 24/24 = 1 unit/day.\nCombined rate = 3 units/day. Time together = 24/3 = **8 days**.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "qnt-ari-8",
+      "stage": "both",
+      "section": "quant",
+      "topic": "pipes-cisterns",
+      "difficulty": 2,
+      "question": "Pipe A can fill a tank in 20 hours and pipe B can fill it in 30 hours. If both pipes are opened together, how long will it take to fill the tank?",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "correct": 2,
+      "explanation": "Shortcut: take the tank's capacity = LCM(20,30) = 60 units. A's rate = 60/20 = 3 units/hr, B's rate = 60/30 = 2 units/hr.\nCombined rate = 5 units/hr. Time = 60/5 = **12 hours**.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "qnt-ari-9",
+      "stage": "prelims",
+      "section": "quant",
+      "topic": "speed-time-distance",
+      "difficulty": 2,
+      "question": "A car travels at a speed of 72 km/hr. How much time will it take to cover 360 km?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": 2,
+      "explanation": "Time = Distance / Speed = 360/72 = **5 hours**.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "qnt-ari-10",
+      "stage": "prelims",
+      "section": "quant",
+      "topic": "boats-streams",
+      "difficulty": 1,
+      "question": "A boat can travel at 15 km/hr in still water. If the speed of the stream is 5 km/hr, find the time taken by the boat to travel 80 km downstream.",
+      "options": [
+        "3",
+        "3.5",
+        "4",
+        "4.5",
+        "5"
+      ],
+      "correct": 2,
+      "explanation": "Downstream speed = boat speed + stream speed = 15+5 = 20 km/hr.\nTime = Distance/Speed = 80/20 = **4 hours**.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "qnt-ari-11",
+      "stage": "both",
+      "section": "quant",
+      "topic": "mixtures-alligations",
+      "difficulty": 2,
+      "question": "In what ratio must a shopkeeper mix tea worth Rs 60 per kg with tea worth Rs 90 per kg so that the mixture is worth Rs 70 per kg?",
+      "options": [
+        "1:2",
+        "2:1",
+        "3:1",
+        "1:3",
+        "3:2"
+      ],
+      "correct": 1,
+      "explanation": "By the alligation cross method: (Cost of dearer - Mean price) : (Mean price - Cost of cheaper) = (90-70):(70-60) = 20:10 = **2:1**.\nSo cheaper tea : dearer tea = 2:1.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "qnt-ari-12",
+      "stage": "prelims",
+      "section": "quant",
+      "topic": "probability",
+      "difficulty": 1,
+      "question": "A bag contains 5 red balls and 7 blue balls. If one ball is drawn at random, what is the probability that it is red?",
+      "options": [
+        "5/12",
+        "7/12",
+        "5/7",
+        "1/2",
+        "7/5"
+      ],
+      "correct": 0,
+      "explanation": "Total balls = 5+7 = 12. P(red) = 5/12.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "qnt-qc-1",
+      "stage": "mains",
+      "section": "quant",
+      "topic": "quantity-comparison",
+      "difficulty": 2,
+      "question": "**Quantity I:** The simple interest on Rs 8000 at 10% per annum for 3 years.\n**Quantity II:** The compound interest on Rs 8000 at 10% per annum for 2 years, compounded annually.\n\nCompare Quantity I and Quantity II.",
+      "options": [
+        "Quantity I > Quantity II",
+        "Quantity I < Quantity II",
+        "Quantity I ≥ Quantity II",
+        "Quantity I ≤ Quantity II",
+        "Quantity I = Quantity II or no relation"
+      ],
+      "correct": 0,
+      "explanation": "Quantity I: SI = (P×R×T)/100 = (8000×10×3)/100 = **2400**.\nQuantity II: Amount = 8000×(1.1)² = 8000×1.21 = 9680, so CI = 9680-8000 = **1680**.\nSince 2400 > 1680, **Quantity I > Quantity II**.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "qnt-qc-2",
+      "stage": "mains",
+      "section": "quant",
+      "topic": "quantity-comparison",
+      "difficulty": 3,
+      "question": "**Quantity I:** The number of days A and B will take to complete a work together, if A alone takes 20 days and B alone takes 30 days.\n**Quantity II:** 12\n\nCompare Quantity I and Quantity II.",
+      "options": [
+        "Quantity I > Quantity II",
+        "Quantity I < Quantity II",
+        "Quantity I ≥ Quantity II",
+        "Quantity I ≤ Quantity II",
+        "Quantity I = Quantity II or no relation"
+      ],
+      "correct": 4,
+      "explanation": "Quantity I: combined rate of A and B = 1/20 + 1/30 = 3/60 + 2/60 = 5/60 = 1/12, so together they take **12 days**.\nQuantity II = 12.\nSince both equal 12, **Quantity I = Quantity II**.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "qnt-qc-3",
+      "stage": "mains",
+      "section": "quant",
+      "topic": "quantity-comparison",
+      "difficulty": 2,
+      "question": "**Quantity I:** The average of the first 20 natural numbers.\n**Quantity II:** 11\n\nCompare Quantity I and Quantity II.",
+      "options": [
+        "Quantity I > Quantity II",
+        "Quantity I < Quantity II",
+        "Quantity I ≥ Quantity II",
+        "Quantity I ≤ Quantity II",
+        "Quantity I = Quantity II or no relation"
+      ],
+      "correct": 1,
+      "explanation": "Quantity I: average of first n natural numbers = (n+1)/2 = (20+1)/2 = **10.5**.\nQuantity II = 11.\nSince 10.5 < 11, **Quantity I < Quantity II**.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "qnt-ds-1",
+      "stage": "mains",
+      "section": "quant",
+      "topic": "data-sufficiency",
+      "difficulty": 3,
+      "question": "**Question:** What is the present age of Ravi?\n\n**Statement I:** Five years ago, Ravi's age was three times his son's age at that time.\n**Statement II:** Ten years from now, Ravi's age will be twice his son's age at that time.\n\nRead both statements and decide whether the data given is sufficient to answer the question.",
+      "options": [
+        "Statement I alone is sufficient to answer the question, but statement II alone is not sufficient",
+        "Statement II alone is sufficient to answer the question, but statement I alone is not sufficient",
+        "Either statement I alone or statement II alone is sufficient to answer the question",
+        "Neither statement I nor statement II together is sufficient to answer the question",
+        "Both statements I and II together are necessary to answer the question"
+      ],
+      "correct": 4,
+      "explanation": "Let Ravi's present age = R and son's present age = S.\nStatement I: R-5 = 3(S-5) → R = 3S-10 — one equation in two unknowns, not sufficient alone.\nStatement II: R+10 = 2(S+10) → R = 2S+10 — again one equation in two unknowns, not sufficient alone.\nCombining both: 3S-10 = 2S+10 → S = 20, so R = 50.\n**Both statements together are necessary** to find a unique answer.",
+      "source": {
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "qnt-ds-2",
+      "stage": "mains",
+      "section": "quant",
+      "topic": "data-sufficiency",
+      "difficulty": 2,
+      "question": "**Question:** What is the length of the train?\n\n**Statement I:** The train crosses a 300-metre-long platform in 20 seconds.\n**Statement II:** The train crosses a signal pole in 8 seconds while running at a speed of 54 km/hr.\n\nRead both statements and decide whether the data given is sufficient to answer the question.",
+      "options": [
+        "Statement I alone is sufficient to answer the question, but statement II alone is not sufficient",
+        "Statement II alone is sufficient to answer the question, but statement I alone is not sufficient",
+        "Either statement I alone or statement II alone is sufficient to answer the question",
+        "Neither statement I nor statement II together is sufficient to answer the question",
+        "Both statements I and II together are necessary to answer the question"
+      ],
+      "correct": 1,
+      "explanation": "Statement I: (Length + 300)/20 = speed — one equation with two unknowns (length and speed), not sufficient alone.\nStatement II: speed = 54 km/hr = 15 m/s; crossing a pole means covering a distance equal to its own length in 8 seconds, so length = 15×8 = **120 m** — this alone is sufficient.\n**Statement II alone is sufficient, while statement I alone is not.**",
+      "source": {
+        "kind": "generated"
+      }
+    }
+  ]
+}

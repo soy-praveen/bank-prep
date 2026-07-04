@@ -1,0 +1,575 @@
+{
+  "sets": [],
+  "questions": [
+    {
+      "id": "gen-1",
+      "stage": "mains",
+      "section": "general",
+      "topic": "banking-awareness",
+      "difficulty": 1,
+      "question": "The Cash Reserve Ratio (CRR) requires scheduled commercial banks in India to maintain a certain percentage of their Net Demand and Time Liabilities (NDTL) as:",
+      "options": [
+        "Gold reserves with the government",
+        "Investment in corporate bonds",
+        "Loans to priority sectors",
+        "Cash balance with the Reserve Bank of India",
+        "Foreign currency reserves"
+      ],
+      "correct": 3,
+      "explanation": "CRR is the portion of a bank's NDTL that must be kept as cash with the RBI and earns no interest, directly reducing the funds available for lending. It differs from SLR, which allows liquid assets like cash, gold, or approved government securities to be held by the bank itself, not deposited with RBI.",
+      "source": { "kind": "generated" },
+      "tags": ["RBI", "monetary-policy", "CRR"]
+    },
+    {
+      "id": "gen-2",
+      "stage": "mains",
+      "section": "general",
+      "topic": "banking-awareness",
+      "difficulty": 1,
+      "question": "Which type of bank account is primarily designed for businesses and professionals who need frequent transactions, typically offers no interest, and often comes with an overdraft facility?",
+      "options": [
+        "Savings Account",
+        "Recurring Deposit Account",
+        "Current Account",
+        "Fixed Deposit Account",
+        "Pension Account"
+      ],
+      "correct": 2,
+      "explanation": "Current accounts are built for high transaction volumes and do not pay interest, unlike savings accounts which limit withdrawals but reward the depositor with interest. Overdraft facilities on current accounts let account holders withdraw more than their balance up to a sanctioned limit, which supports the working-capital needs of businesses.",
+      "source": { "kind": "generated" },
+      "tags": ["accounts", "current-account"]
+    },
+    {
+      "id": "gen-3",
+      "stage": "mains",
+      "section": "general",
+      "topic": "banking-awareness",
+      "difficulty": 1,
+      "question": "Which NPCI-developed platform allows a user to transfer funds instantly between bank accounts through a single mobile application using a Virtual Payment Address, without entering the account number or IFSC code every time?",
+      "options": [
+        "IMPS",
+        "NEFT",
+        "RTGS",
+        "UPI",
+        "RuPay"
+      ],
+      "correct": 3,
+      "explanation": "The Unified Payments Interface (UPI), built by the National Payments Corporation of India, links multiple bank accounts to one app and identifies users through a Virtual Payment Address such as name@bank. It runs on the underlying rails of IMPS but simplifies the user experience by removing the need for account and IFSC details on every transaction.",
+      "source": { "kind": "generated" },
+      "tags": ["NPCI", "UPI", "digital-payments"]
+    },
+    {
+      "id": "gen-4",
+      "stage": "mains",
+      "section": "general",
+      "topic": "banking-awareness",
+      "difficulty": 2,
+      "question": "The Basel Norms, framed by the Basel Committee on Banking Supervision, primarily set international standards for which aspect of banking?",
+      "options": [
+        "Minimum capital adequacy and risk management standards for banks",
+        "Minimum educational qualification for bank employees",
+        "Working hours of bank branches",
+        "Advertising and marketing guidelines for banks",
+        "Number of branches a bank must open annually"
+      ],
+      "correct": 0,
+      "explanation": "Basel norms require banks to hold a minimum level of capital relative to their risk-weighted assets, so they can absorb losses without collapsing during financial stress. The framework has evolved through Basel I, II, and III, with Basel III adding stronger capital, leverage, and liquidity requirements after the 2008 global financial crisis.",
+      "source": { "kind": "generated" },
+      "tags": ["BASEL", "capital-adequacy", "BIS"]
+    },
+    {
+      "id": "gen-5",
+      "stage": "mains",
+      "section": "general",
+      "topic": "banking-awareness",
+      "difficulty": 2,
+      "question": "Priority Sector Lending (PSL) guidelines issued by the RBI require banks to direct a specified share of their credit towards sectors such as:",
+      "options": [
+        "Only large corporate infrastructure projects",
+        "Only foreign direct investment projects",
+        "Only the stock market and mutual funds",
+        "Only government departments",
+        "Agriculture, micro and small enterprises, export credit, education, housing, and weaker sections"
+      ],
+      "correct": 4,
+      "explanation": "Priority sector lending ensures that credit reaches economically significant but often underserved segments like small farmers, micro and small enterprises, and weaker sections of society, which might otherwise struggle to access formal credit. Both public and private sector banks, as well as foreign banks operating in India, must meet PSL targets set by the RBI.",
+      "source": { "kind": "generated" },
+      "tags": ["PSL", "financial-inclusion"]
+    },
+    {
+      "id": "gen-6",
+      "stage": "mains",
+      "section": "general",
+      "topic": "banking-awareness",
+      "difficulty": 2,
+      "question": "Which of the following is a key regulatory difference between a Non-Banking Financial Company (NBFC) and a bank in India?",
+      "options": [
+        "NBFCs cannot accept demand deposits such as savings or current account deposits, while banks can",
+        "NBFCs cannot lend money to individuals or businesses",
+        "Banks cannot issue loans against gold",
+        "NBFCs are always fully owned by the RBI",
+        "Banks cannot accept fixed deposits"
+      ],
+      "correct": 0,
+      "explanation": "Only banks are permitted to accept demand deposits (withdrawable on demand, like savings and current accounts) and are part of the payment and settlement system, allowing them to issue cheques drawn on themselves. NBFCs can lend and accept certain term deposits but cannot offer these demand-deposit and cheque-issuing facilities.",
+      "source": { "kind": "generated" },
+      "tags": ["NBFC", "banking-regulation"]
+    },
+    {
+      "id": "gen-7",
+      "stage": "mains",
+      "section": "general",
+      "topic": "banking-awareness",
+      "difficulty": 1,
+      "question": "A cheque bearing two parallel transverse lines across its face, which cannot be encashed directly over the bank counter and must be deposited into a bank account, is called a:",
+      "options": [
+        "Bearer cheque",
+        "Order cheque",
+        "Stale cheque",
+        "Crossed cheque",
+        "Post-dated cheque"
+      ],
+      "correct": 3,
+      "explanation": "Crossing a cheque with two parallel lines restricts its payment to being credited to a bank account, adding a layer of safety against fraudulent encashment. This is different from a bearer cheque, which can be paid to whoever presents it at the counter, or an order cheque, which is payable to a specified person or their order.",
+      "source": { "kind": "generated" },
+      "tags": ["cheque", "negotiable-instruments"]
+    },
+    {
+      "id": "gen-8",
+      "stage": "mains",
+      "section": "general",
+      "topic": "banking-awareness",
+      "difficulty": 2,
+      "question": "Under the Deposit Insurance and Credit Guarantee Corporation (DICGC) scheme, deposits of each depositor in a bank are insured up to a maximum of:",
+      "options": [
+        "Rs 1 lakh",
+        "Rs 2 lakh",
+        "Rs 5 lakh",
+        "Rs 10 lakh",
+        "There is no upper limit"
+      ],
+      "correct": 2,
+      "explanation": "DICGC, a wholly owned subsidiary of the RBI, insures both principal and interest of a depositor's total deposits in a bank up to Rs 5 lakh, in case the bank fails or is unable to pay. This cover applies per depositor per bank, so holding accounts in different banks gives separate coverage in each.",
+      "source": { "kind": "generated" },
+      "tags": ["DICGC", "deposit-insurance"]
+    },
+    {
+      "id": "gen-9",
+      "stage": "mains",
+      "section": "general",
+      "topic": "banking-awareness",
+      "difficulty": 2,
+      "question": "The Banking Ombudsman mechanism, set up by the Reserve Bank of India, primarily offers bank customers:",
+      "options": [
+        "A subsidised home loan scheme",
+        "A guaranteed minimum return on mutual fund investments",
+        "Free life insurance cover for all depositors",
+        "A credit rating for individuals",
+        "A cost-free forum to redress complaints regarding deficiency in banking services"
+      ],
+      "correct": 4,
+      "explanation": "The Banking Ombudsman is an independent, expeditious, and cost-free grievance redressal authority for complaints against banks relating to deficiency in services, such as delays or unfair charges. If a bank's own internal grievance process fails to resolve a complaint satisfactorily, the customer can escalate it to the Banking Ombudsman under the RBI's ombudsman framework.",
+      "source": { "kind": "generated" },
+      "tags": ["banking-ombudsman", "grievance-redressal"]
+    },
+    {
+      "id": "gen-10",
+      "stage": "mains",
+      "section": "general",
+      "topic": "banking-awareness",
+      "difficulty": 3,
+      "question": "Treasury Bills (T-Bills) issued by the Government of India are best described as:",
+      "options": [
+        "Long-term bonds that pay a fixed annual coupon for 10 years or more",
+        "Equity instruments that carry voting rights",
+        "Instruments issued exclusively by private corporations",
+        "Short-term instruments (up to 364 days) issued at a discount to face value with no coupon payment",
+        "Deposits that guarantee a fixed dividend every quarter"
+      ],
+      "correct": 3,
+      "explanation": "T-Bills are money market instruments issued by the RBI on behalf of the Government of India for tenures of 91, 182, or 364 days, sold at a discount and redeemed at face value, with the difference being the investor's return. They are distinct from Commercial Paper, issued by corporates, and Certificates of Deposit, issued by banks and financial institutions, both of which are also short-term, unsecured money market instruments.",
+      "source": { "kind": "generated" },
+      "tags": ["money-market", "T-Bills"]
+    },
+    {
+      "id": "gen-11",
+      "stage": "mains",
+      "section": "general",
+      "topic": "banking-awareness",
+      "difficulty": 2,
+      "question": "The SARFAESI Act, 2002 primarily empowers banks and financial institutions to:",
+      "options": [
+        "Set the repo rate for the economy",
+        "Issue new currency notes",
+        "Provide deposit insurance to account holders",
+        "Regulate the stock exchanges",
+        "Recover non-performing assets by taking possession of and selling secured collateral without court intervention"
+      ],
+      "correct": 4,
+      "explanation": "SARFAESI stands for Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, and it lets banks enforce their security interest over collateral pledged against a loan directly, without going through lengthy court proceedings, once a borrower defaults. Certain categories, such as agricultural land, are excluded from action under this Act.",
+      "source": { "kind": "generated" },
+      "tags": ["SARFAESI", "NPA-recovery"]
+    },
+    {
+      "id": "gen-12",
+      "stage": "mains",
+      "section": "general",
+      "topic": "banking-awareness",
+      "difficulty": 3,
+      "question": "A 'White Label ATM' in India is one that is:",
+      "options": [
+        "Owned and operated directly by the Reserve Bank of India",
+        "Installed only inside bank branches",
+        "Used exclusively for corporate salary accounts",
+        "Owned jointly by all public sector banks",
+        "Owned and operated by a non-bank entity authorised under the Payment and Settlement Systems Act"
+      ],
+      "correct": 4,
+      "explanation": "White Label ATMs are set up and run by non-bank entities that are authorised by the RBI, aiming to expand ATM access especially in underserved areas, and they display the operating company's brand rather than any single bank's. This differs from Brown Label ATMs, where the hardware and maintenance are outsourced but a sponsor bank still handles the transaction switching and cash management under its own brand.",
+      "source": { "kind": "generated" },
+      "tags": ["ATM", "white-label"]
+    },
+    {
+      "id": "gen-13",
+      "stage": "mains",
+      "section": "general",
+      "topic": "banking-awareness",
+      "difficulty": 1,
+      "question": "The 'CASA ratio' of a bank refers to the proportion of its total deposits held in:",
+      "options": [
+        "Fixed and recurring deposits only",
+        "Current and Savings Accounts",
+        "Government bonds",
+        "Foreign currency deposits only",
+        "Loans and advances given by the bank"
+      ],
+      "correct": 1,
+      "explanation": "CASA stands for Current Account and Savings Account, and a higher CASA ratio means the bank has more low-cost funds, since current accounts pay no interest and savings accounts pay relatively low interest compared to term deposits. Banks with a high CASA ratio generally enjoy a lower cost of funds and healthier profit margins.",
+      "source": { "kind": "generated" },
+      "tags": ["CASA", "deposits"]
+    },
+    {
+      "id": "gen-14",
+      "stage": "mains",
+      "section": "general",
+      "topic": "banking-awareness",
+      "difficulty": 2,
+      "question": "Which of the following correctly distinguishes RTGS from NEFT?",
+      "options": [
+        "NEFT is used only for government-to-government transfers",
+        "RTGS has a fixed maximum transfer limit of Rs 100",
+        "NEFT can only be used on weekdays, while RTGS cannot be used at all on holidays",
+        "RTGS settles each transaction individually and immediately with a minimum amount of Rs 2 lakh, while NEFT settles transactions in batches with no minimum amount",
+        "RTGS is meant only for transactions between two branches of the same bank"
+      ],
+      "correct": 3,
+      "explanation": "RTGS (Real Time Gross Settlement) is meant for high-value transactions, processes each transaction one at a time on a real-time basis, and requires a minimum of Rs 2 lakh. NEFT (National Electronic Funds Transfer) has no minimum or maximum limit and settles payments in batches; both systems are operated by the RBI and are now available round the clock.",
+      "source": { "kind": "generated" },
+      "tags": ["NEFT", "RTGS", "fund-transfer"]
+    },
+    {
+      "id": "gen-15",
+      "stage": "mains",
+      "section": "general",
+      "topic": "financial-awareness",
+      "difficulty": 1,
+      "question": "The Securities and Exchange Board of India (SEBI) is the statutory body primarily responsible for:",
+      "options": [
+        "Regulating the insurance industry",
+        "Setting the repo rate",
+        "Issuing currency notes",
+        "Regulating cooperative banks only",
+        "Regulating the securities market and protecting the interests of investors"
+      ],
+      "correct": 4,
+      "explanation": "SEBI regulates stock exchanges, registers and supervises market intermediaries such as brokers and mutual funds, and works to protect investors while promoting the development of India's securities market. It was established in 1988 and given statutory powers under the SEBI Act, 1992.",
+      "source": { "kind": "generated" },
+      "tags": ["SEBI", "securities-market"]
+    },
+    {
+      "id": "gen-16",
+      "stage": "mains",
+      "section": "general",
+      "topic": "financial-awareness",
+      "difficulty": 2,
+      "question": "Which of the following best distinguishes the capital market from the money market?",
+      "options": [
+        "The capital market deals in long-term instruments like shares and bonds, while the money market deals in short-term instruments (up to one year) like T-Bills and Certificates of Deposit",
+        "The money market deals only in gold and bullion",
+        "The capital market has no regulatory authority",
+        "Money market instruments always have maturities exceeding 10 years",
+        "There is no meaningful difference between the two"
+      ],
+      "correct": 0,
+      "explanation": "The capital market channels long-term funds through instruments such as equity shares, debentures, and bonds, mainly for investment purposes, while the money market handles short-term borrowing and lending, typically for managing working capital and liquidity. SEBI primarily regulates the capital market, while the RBI oversees most of the money market.",
+      "source": { "kind": "generated" },
+      "tags": ["capital-market", "money-market"]
+    },
+    {
+      "id": "gen-17",
+      "stage": "mains",
+      "section": "general",
+      "topic": "financial-awareness",
+      "difficulty": 1,
+      "question": "The Net Asset Value (NAV) of a mutual fund scheme represents:",
+      "options": [
+        "The total number of investors in the scheme",
+        "The per-unit market value of the scheme's holdings",
+        "The annual management fee charged by the fund house",
+        "The face value printed on the unit certificate",
+        "The bank interest rate applicable to the scheme"
+      ],
+      "correct": 1,
+      "explanation": "NAV is calculated as the total assets of the scheme minus total liabilities, divided by the number of outstanding units, giving the value of one unit of the mutual fund on a given day. Mutual funds typically declare their NAV at the end of each business day based on the closing market value of their holdings.",
+      "source": { "kind": "generated" },
+      "tags": ["mutual-fund", "NAV"]
+    },
+    {
+      "id": "gen-18",
+      "stage": "mains",
+      "section": "general",
+      "topic": "financial-awareness",
+      "difficulty": 1,
+      "question": "Insurance companies operating in India are regulated by which authority?",
+      "options": [
+        "Reserve Bank of India (RBI)",
+        "Securities and Exchange Board of India (SEBI)",
+        "National Bank for Agriculture and Rural Development (NABARD)",
+        "Insurance Regulatory and Development Authority of India (IRDAI)",
+        "Pension Fund Regulatory and Development Authority (PFRDA)"
+      ],
+      "correct": 3,
+      "explanation": "IRDAI is the statutory body that regulates and promotes the insurance and re-insurance industry in India, licensing insurers, protecting policyholders' interests, and setting solvency and conduct standards. It was constituted under the IRDA Act, 1999, and is headquartered in Hyderabad.",
+      "source": { "kind": "generated" },
+      "tags": ["IRDAI", "insurance"]
+    },
+    {
+      "id": "gen-19",
+      "stage": "mains",
+      "section": "general",
+      "topic": "financial-awareness",
+      "difficulty": 2,
+      "question": "A Government Security (G-Sec) is best described as:",
+      "options": [
+        "A tradable debt instrument issued by the government to borrow money, carrying a fixed or floating interest rate",
+        "A share issued by a government-owned company that carries voting rights",
+        "A form of foreign currency held by the government",
+        "A tax-free cash gift given by the government to citizens",
+        "A private company's unsecured loan certificate"
+      ],
+      "correct": 0,
+      "explanation": "G-Secs are debt instruments issued by the Central or State Government to raise funds, and since they carry a sovereign guarantee, they are considered virtually free of default risk. They include short-term Treasury Bills and longer-term dated securities that pay periodic interest, known as coupons, until maturity.",
+      "source": { "kind": "generated" },
+      "tags": ["G-Sec", "bonds"]
+    },
+    {
+      "id": "gen-20",
+      "stage": "mains",
+      "section": "general",
+      "topic": "financial-awareness",
+      "difficulty": 1,
+      "question": "The Pradhan Mantri Jan Dhan Yojana (PMJDY) is a scheme primarily aimed at:",
+      "options": [
+        "Promoting financial inclusion by ensuring universal access to basic bank accounts and other financial services",
+        "Regulating stock market trading",
+        "Providing crop insurance to farmers",
+        "Managing the country's foreign exchange reserves",
+        "Setting interest rates for home loans"
+      ],
+      "correct": 0,
+      "explanation": "PMJDY is India's national mission for financial inclusion, designed to give every household access to a basic banking account along with related services such as remittance, credit, insurance, and pension in an affordable manner. Financial inclusion, more broadly, refers to ensuring that formal financial services reach all sections of society, including those traditionally underserved by banks.",
+      "source": { "kind": "generated" },
+      "tags": ["PMJDY", "financial-inclusion"]
+    },
+    {
+      "id": "gen-21",
+      "stage": "mains",
+      "section": "general",
+      "topic": "economy",
+      "difficulty": 2,
+      "question": "Gross Domestic Product (GDP) is defined as:",
+      "options": [
+        "The total market value of all final goods and services produced within a country's domestic territory during a given period",
+        "The total tax revenue collected by the government in a year",
+        "The total value of a country's exports alone",
+        "The total money supply circulating in the economy",
+        "The total value of only agricultural output"
+      ],
+      "correct": 0,
+      "explanation": "GDP measures the value of final goods and services produced within a country's borders in a specific period, regardless of whether the producers are domestic or foreign-owned. Gross National Product (GNP), by contrast, adjusts GDP by adding net income earned by residents from abroad and excluding income earned by non-residents within the country.",
+      "source": { "kind": "generated" },
+      "tags": ["GDP", "GNP", "national-income"]
+    },
+    {
+      "id": "gen-22",
+      "stage": "mains",
+      "section": "general",
+      "topic": "economy",
+      "difficulty": 2,
+      "question": "In India, which price index is used by the RBI as the primary measure for tracking retail (consumer-level) inflation?",
+      "options": [
+        "Wholesale Price Index (WPI)",
+        "Index of Industrial Production (IIP)",
+        "Human Development Index (HDI)",
+        "Purchasing Managers' Index (PMI)",
+        "Consumer Price Index (CPI)"
+      ],
+      "correct": 4,
+      "explanation": "CPI measures the change in prices paid by end consumers for a fixed basket of goods and services, making it the closest reflection of the cost of living, and is therefore RBI's chosen target for inflation. WPI, in contrast, tracks prices at the wholesale/producer level and excludes services altogether, making it a different measure used mainly to track input-price trends.",
+      "source": { "kind": "generated" },
+      "tags": ["CPI", "WPI", "inflation"]
+    },
+    {
+      "id": "gen-23",
+      "stage": "mains",
+      "section": "general",
+      "topic": "economy",
+      "difficulty": 2,
+      "question": "Which of the following is an example of fiscal policy rather than monetary policy?",
+      "options": [
+        "The Reserve Bank of India changing the repo rate",
+        "The Reserve Bank of India conducting open market operations",
+        "The government adjusting tax rates and public expenditure levels",
+        "The Reserve Bank of India changing the Cash Reserve Ratio",
+        "The Reserve Bank of India changing the Statutory Liquidity Ratio"
+      ],
+      "correct": 2,
+      "explanation": "Fiscal policy is the government's use of taxation and public spending to influence the economy and is administered by the Ministry of Finance, whereas monetary policy involves tools like the repo rate, CRR, SLR, and open market operations, all controlled by the central bank. Both policies aim to manage growth and inflation, but they operate through different institutions and instruments.",
+      "source": { "kind": "generated" },
+      "tags": ["fiscal-policy", "monetary-policy"]
+    },
+    {
+      "id": "gen-24",
+      "stage": "mains",
+      "section": "general",
+      "topic": "economy",
+      "difficulty": 3,
+      "question": "'Monetary policy transmission' refers to the process by which:",
+      "options": [
+        "Currency notes are physically transported between RBI regional offices",
+        "A change in the policy repo rate gradually influences the lending and deposit rates offered by banks and, in turn, the broader economy",
+        "Funds are transferred between bank accounts using NEFT",
+        "Ownership of the Reserve Bank of India changes over time",
+        "Foreign exchange rates are fixed by international agreement"
+      ],
+      "correct": 1,
+      "explanation": "When the RBI changes the repo rate, banks are expected to adjust their own lending and deposit rates accordingly, which then affects borrowing costs, consumption, and investment across the economy; the speed and completeness of this pass-through is called transmission. Transmission is often incomplete or delayed, since a bank's cost of funds also depends on factors beyond just the repo rate, such as existing deposit rates and competitive pressure.",
+      "source": { "kind": "generated" },
+      "tags": ["monetary-transmission", "repo-rate"]
+    },
+    {
+      "id": "gen-25",
+      "stage": "mains",
+      "section": "general",
+      "topic": "economy",
+      "difficulty": 1,
+      "question": "In economic and financial indices such as CPI or the Index of Industrial Production (IIP), the 'base year' serves as:",
+      "options": [
+        "The year with the highest recorded inflation",
+        "A reference period assigned an index value of 100, against which other periods are compared",
+        "The final year up to which the index can be calculated",
+        "The year in which the index was legally banned",
+        "The year with the lowest GDP growth"
+      ],
+      "correct": 1,
+      "explanation": "A base year is fixed as the benchmark period with an index value of 100, and the index for any other period is calculated relative to this benchmark, making it easy to read off percentage changes over time. Base years are periodically revised across various indices to keep them representative of current consumption or production patterns.",
+      "source": { "kind": "generated" },
+      "tags": ["index-numbers", "base-year"]
+    },
+    {
+      "id": "gen-26",
+      "stage": "mains",
+      "section": "general",
+      "topic": "static-gk",
+      "difficulty": 1,
+      "question": "The official currency of Japan is the:",
+      "options": [
+        "Won",
+        "Yuan",
+        "Yen",
+        "Ringgit",
+        "Baht"
+      ],
+      "correct": 2,
+      "explanation": "The Japanese Yen is the official currency of Japan and is among the most widely traded currencies in the world. In contrast, the Won is the currency of South Korea, the Yuan (Renminbi) of China, the Ringgit of Malaysia, and the Baht of Thailand.",
+      "source": { "kind": "generated" },
+      "tags": ["currency", "Japan"]
+    },
+    {
+      "id": "gen-27",
+      "stage": "mains",
+      "section": "general",
+      "topic": "static-gk",
+      "difficulty": 2,
+      "question": "What is the capital city of Australia?",
+      "options": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Perth",
+        "Brisbane"
+      ],
+      "correct": 2,
+      "explanation": "Although Sydney is Australia's largest and most well-known city, Canberra was purpose-built and designated as the national capital as a compromise between Sydney and Melbourne, the two largest rival cities. Canberra houses the Parliament of Australia and other key national institutions.",
+      "source": { "kind": "generated" },
+      "tags": ["capital", "Australia"]
+    },
+    {
+      "id": "gen-28",
+      "stage": "mains",
+      "section": "general",
+      "topic": "static-gk",
+      "difficulty": 1,
+      "question": "Which Indian city is widely regarded as the country's financial capital, hosting the BSE, the NSE, and the head offices of the RBI and SEBI?",
+      "options": [
+        "New Delhi",
+        "Mumbai",
+        "Bengaluru",
+        "Chennai",
+        "Kolkata"
+      ],
+      "correct": 1,
+      "explanation": "Mumbai hosts the Bombay Stock Exchange and the National Stock Exchange, along with the head offices of the Reserve Bank of India and the Securities and Exchange Board of India, making it the hub of India's banking and financial activity. New Delhi, by contrast, is the political capital and seat of the Union Government.",
+      "source": { "kind": "generated" },
+      "tags": ["Mumbai", "financial-capital"]
+    },
+    {
+      "id": "gen-29",
+      "stage": "mains",
+      "section": "general",
+      "topic": "static-gk",
+      "difficulty": 2,
+      "question": "The International Monetary Fund (IMF) is headquartered in which city?",
+      "options": [
+        "New York",
+        "Geneva",
+        "Washington D.C.",
+        "London",
+        "Paris"
+      ],
+      "correct": 2,
+      "explanation": "The IMF, established in 1944 at the Bretton Woods conference, is headquartered in Washington D.C. and works to promote international monetary cooperation and exchange rate stability, and to provide financial assistance to member countries facing balance of payments difficulties. The World Bank, which focuses on long-term development financing rather than monetary stability, is also headquartered in Washington D.C.",
+      "source": { "kind": "generated" },
+      "tags": ["IMF", "international-institutions"]
+    },
+    {
+      "id": "gen-30",
+      "stage": "mains",
+      "section": "general",
+      "topic": "static-gk",
+      "difficulty": 3,
+      "question": "The Bank for International Settlements (BIS), often referred to as the 'bank for central banks,' is headquartered in:",
+      "options": [
+        "Geneva, Switzerland",
+        "Basel, Switzerland",
+        "Manila, Philippines",
+        "Washington D.C., United States",
+        "Frankfurt, Germany"
+      ],
+      "correct": 1,
+      "explanation": "The BIS, established in 1930, is the world's oldest international financial institution and fosters cooperation among central banks; it is headquartered in Basel, Switzerland, and also hosts the Basel Committee on Banking Supervision, which issues the Basel norms. This is distinct from the Asian Development Bank (ADB), a regional development lender headquartered in Manila.",
+      "source": { "kind": "generated" },
+      "tags": ["BIS", "Basel", "international-institutions"]
+    }
+  ]
+}
