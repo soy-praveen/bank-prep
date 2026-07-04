@@ -1,0 +1,5523 @@
+{
+ "sets": [
+  {
+   "id": "pyq-sbipo-mains15-set1",
+   "section": "reasoning",
+   "topic": "coding-decoding",
+   "title": "Code for Colours, Sky, Rocket",
+   "context": "In a certain code:\n'colours of the sky' is written as 'ki la fa so'\n'rainbow colours' is written as 'ro ki'\n'sky high rocket' is written as 'la pe jo'\n'the rocket world' is written as 'pe so ne'"
+  },
+  {
+   "id": "pyq-sbipo-mains15-set2",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "title": "Eight-Person Circular Seating with Family Ties",
+   "context": "A, B, C, D, E, F, G and H are sitting around a circle facing the centre, but not necessarily in the same order.\nB sits second to left of H's husband. No female is an immediate neighbour of B.\nD's daughter sits second to right of F. F is the sister of G. F is not an immediate neighbour of H's husband.\nOnly one person sits between A and F. A is the father of G. H's brother D sits to the immediate left of H's mother. Only one person sits between H's mother and E.\nOnly one person sits between H and G. G is the mother of C. G is not an immediate neighbour of E."
+  },
+  {
+   "id": "pyq-sbipo-mains15-set3",
+   "section": "reasoning",
+   "topic": "syllogism",
+   "title": "Syllogism: Footballers, Dancers, Cricketers, Players",
+   "context": "All footballers are music lovers.\nAll footballers are dancers.\nNo dancer is a cricketer.\nNo cricketer is a player.\n(Take the statements as true even if they seem to vary from commonly known facts.)"
+  },
+  {
+   "id": "pyq-sbipo-mains15-set4",
+   "section": "reasoning",
+   "topic": "syllogism",
+   "title": "Syllogism: Boys, Girls, Leaders, Professors",
+   "context": "All boys are intelligent.\nVery few girls are intelligent.\nNo girl is a leader.\nSome professors are leaders as well as boys.\n(Take the statements as true even if they seem to vary from commonly known facts.)"
+  },
+  {
+   "id": "pyq-sbipo-mains15-set5",
+   "section": "reasoning",
+   "topic": "input-output",
+   "title": "Word-Number Rearrangement Machine",
+   "context": "A word and number arrangement machine, given an input line of words and numbers, rearranges them following a particular rule in each step (all numbers are two-digit).\nInput: gate 20 86 just not 71 for 67 38 bake sun 55\nStep I: bake gate 20 just not 71 for 67 38 sun 55 86\nStep II: for bake gate 20 just not 67 38 sun 55 86 71\nStep III: gate for bake 20 just not 38 sun 55 86 71 67\nStep IV: just gate for bake 20 not 38 sun 55 86 71 67\nStep V: not just gate for bake 20 sun 86 71 67 55 38\nStep VI: sun not just gate for bake 86 71 67 55 38 20\nStep VI is the last step: in each step the alphabetically-next word moves to the front (left end) and the next-largest number moves to the right end.\n\nNow apply the same rule to:\nInput: 31 rise gem 15 92 47 aim big 25 does 56 not 85 63 with moon"
+  },
+  {
+   "id": "pyq-sbipo-mains15-set6",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "title": "Five Executives - Flats, Games, Professions, Age",
+   "context": "In a Public Sector Undertaking Township, there are five executives - Ambrish, Amit, Rohit, Manu and Tarun.\nTwo of them play Cricket while the other three play different games viz. Football, Tennis and Chess.\nOne Cricket player and a Chess player stay in the third flat, whereas the other three stay in different flats, i.e. 2nd, 4th and 5th.\nTwo of these five players are mechanical engineers while the other three are quality inspector, design engineer and power engineer respectively.\nThe chess player is the oldest in age while one of the cricket players, who plays at the national level, is the youngest in age.\nThe age of the other cricket player, who plays at the regional level, lies between the football player and the chess player.\nManu is a regional level player and stays in the 3rd flat while Tarun is a quality inspector and stays in the 5th flat.\nThe football player is a design engineer and stays in the 2nd flat.\nAmit is a power engineer and plays Chess while Ambrish is the mechanical engineer and plays Cricket at the national level."
+  },
+  {
+   "id": "pyq-sbipo-mains15-set7",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "title": "Eight Friends Around a Circular Table - Courses",
+   "context": "Eight childhood friends A, B, C, D, E, F, G and H sit around a circular table facing the centre, but not necessarily in this order. Each has completed a different course: MBA, MCA, B.Tech, CA, CS, B.Com, Finance and M.Tech.\nThere are two persons between those who study MCA and MBA, and neither of them sits opposite A.\nC and G are immediate neighbours and neither of them studies M.Tech or MBA.\nA, who studies Finance, sits second to the right of the one who studies M.Tech.\nB and E neither study M.Tech nor sit adjacent to A.\nE studies MBA and sits second to the left of G, who studies CA.\nC does not study MCA.\nThe immediate neighbour of E faces (sits opposite) C, who sits third to the left of the one who studies Finance.\nF does not study M.Tech.\nBoth D and H do not study MCA and B.Tech.\nB studies B.Com while D studies CS.\nB is not an immediate neighbour of A."
+  },
+  {
+   "id": "pyq-sbipo-mains15-set8",
+   "section": "reasoning",
+   "topic": "blood-relations",
+   "title": "Coded Family Relations",
+   "context": "P X Q means 'P is the sister of Q'\nP ÷ Q means 'P is the mother of Q'\nP + Q means 'P is the brother of Q'\nP – Q means 'P is the father of Q'"
+  },
+  {
+   "id": "pyq-sbipo-mains15-set9",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "title": "Table - People Liking IPL Teams (Men/Women/Children %)",
+   "context": "Number of people liking eight different teams in IPL-5, and the percentage of men, women and children liking each team.\n\n| Team | Total people | % Men | % Women | % Children |\n|---|---|---|---|---|\n| CSK | 45525 | 20 | 44 | 36 |\n| DD | 36800 | 39 | 33 | 28 |\n| DC | 56340 | 45 | 30 | 25 |\n| MI | 62350 | 38 | 28 | 34 |\n| RR | 48300 | 21 | 44 | 35 |\n| RCB | 35580 | 15 | 35 | 50 |\n| KXI | 56250 | 24 | 36 | 40 |\n| KKR | 64000 | 16 | 54 | 30 |"
+  },
+  {
+   "id": "pyq-sbipo-mains15-set10",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "title": "Table - Production and Sales, Aishwarya Co. Ltd",
+   "context": "Quantity produced and quantity sold by Aishwarya Co. Ltd over five months. Stock at the beginning of June is 75 units.\n\n| Month | Quantity produced | Quantity sold |\n|---|---|---|\n| June | 300 | 350 |\n| July | 250 | 275 |\n| August | 200 | 175 |\n| September | 200 | 200 |\n| October | 325 | 300 |"
+  },
+  {
+   "id": "pyq-sbipo-mains15-set11",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "title": "Pie Chart - Spending on Sports (Degrees)",
+   "context": "A circle graph shows a country's spending on various sports during a year, given in degrees of the circle (360 degrees total).\n\n| Sport | Degrees |\n|---|---|\n| Cricket | 81 |\n| Hockey | 63 |\n| Football | 54 |\n| Basketball | 50 |\n| Tennis | 45 |\n| Golf | 36 |\n| Others | 31 |"
+  },
+  {
+   "id": "pyq-sbipo-mains15-set12",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "title": "Line Graphs - Unit Price, Revenue and Profit (2004-2014)",
+   "context": "Two line graphs show, for a company from 2004 to 2014: (1) unit price/unit cost, and (2) revenue and profit, assuming no fixed cost and all units produced are sold in the same year. The bars/lines are images; the table below is reconstructed from the arithmetic shown in the solutions (cross-checked across all five questions in this set).\n\n| Year | Unit Price | Revenue | Profit | Cost | Units Sold (Revenue/Price) |\n|---|---|---|---|---|---|\n| 2004 | 10 | 700 | 0 | 700 | 70 |\n| 2005 | 14 | 1400 | 100 | 1300 | 100 |\n| 2006 | 12 | 1200 | 300 | 900 | 100 |\n| 2007 | 12 | 900 | 150 | 750 | 75 |\n| 2008 | 11 | 1100 | 0 | 1100 | 100 |\n| 2009 | 8 | 400 | 150 | 250 | 50 |\n| 2010 | 10 | 200 | 100 | 100 | 20 |\n| 2011 | 14 | 700 | 200 | 500 | 50 |\n| 2012 | 10 | 600 | 0 | 600 | 60 |\n| 2013 | 10 | 800 | 400 | 400 | 80 |\n| 2014 | 15 | 900 | 300 | 600 | 60 |"
+  },
+  {
+   "id": "pyq-sbipo-mains15-set13",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "title": "Bar Graph - Foreign Tourists at Three Places (Mon-Fri)",
+   "context": "A bar graph shows the number of foreign tourists who visited three places (Golden Temple, Wagha Border, Taj Mahal) on five days. The chart is an image; the table below is reconstructed from the arithmetic shown in the solutions (cross-checked across all five questions in this set).\n\n| Day | Golden Temple | Wagha Border | Taj Mahal |\n|---|---|---|---|\n| Monday | 90 | 130 | 200 |\n| Tuesday | 70 | 190 | 270 |\n| Wednesday | 150 | 120 | 180 |\n| Thursday | 230 | 200 | 260 |\n| Friday | 140 | 220 | 190 |"
+  },
+  {
+   "id": "pyq-sbipo-mains15-set14",
+   "section": "quant",
+   "topic": "caselet-di",
+   "title": "Caselet - Boys and Girls Across B.Tech Specializations",
+   "context": "There are 7200 students in an engineering college. The ratio of boys to girls is 7:5 respectively. All students are enrolled in six specializations: B.Tech (Electronics), B.Tech (Computer Science), B.Tech (Mechanical), B.Tech (Aerospace), B.Tech (Nano Technology), B.Tech (Civil).\n22% of the total students are in B.Tech (Nano Technology). 16% of the girls are in B.Tech (Computer Science). 18% of boys are in B.Tech (Mechanical). Girls in B.Tech (Civil) are 30% of the girls in B.Tech (Computer Science). 15% of boys are in B.Tech (Electronics). Boys in B.Tech (Computer Science) are 50% of the girls in the same course. 15% of girls are in B.Tech (Aerospace). The ratio of boys to girls in B.Tech (Civil) is 3:1. 24% of the total number of students are in B.Tech (Electronics). The ratio of boys to girls in B.Tech (Aerospace) is 12:5.\n\nWorked table:\n| Subject | Boys | Girls |\n|---|---|---|\n| Computer Science | 240 | 480 |\n| Mechanical | 756 | 306 |\n| Civil | 432 | 144 |\n| Electronics | 630 | 1098 |\n| Aerospace | 1080 | 450 |\n| Nano Technology | 1062 | 522 |\n| Total | 4200 | 3000 |"
+  },
+  {
+   "id": "pyq-sbipo-mains15-set15",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "title": "Line Charts - Commodity Prices, Feb-Jul 1999",
+   "context": "Line charts show weekly price fluctuations (Friday quotations, Rs. per quintal) of four commodities - arhar, pepper, sugar and gold - from February to July 1999. The charts are images; the table below is reconstructed from the arithmetic shown in the solutions (cross-checked across all three questions in this set).\n\n| Commodity | Beginning price | Ending price | Highest price | Lowest price |\n|---|---|---|---|---|\n| Arhar | 1700 | 2150 | 2300 | 1500 |\n| Pepper | 18500 | 19250 | 19500 | 17400 |\n| Sugar | 1440 | 1435 | 1500 | 1410 |\n| Gold | 4240 | 3840 | 4300 | 3800 |"
+  },
+  {
+   "id": "pyq-sbipo-mains15-set16",
+   "section": "english",
+   "topic": "cloze-test",
+   "title": "Cloze: Delinking of Jobs and Degrees",
+   "context": "Delinking of jobs ___(116)___ degrees is one of the salient ___(117)___ of our education ___(118)___. There has been a steep ___(119)___ in ___(120)___ in the academic field in recent years. There is a ___(121)___ of degree holders in the country. As a result, university degrees have lost their value and charm while the number of students in colleges and universities of the country has been steadily ___(122)___. Consequently, thousands of graduates and postgraduates come out of these institutions and stand in ___(123)___ waiting to get some ___(124)___ jobs ___(125)___ in the country."
+  },
+  {
+   "id": "pyq-sbipo-mains15-set17",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "title": "RC: The Police, the Law and the Citizen",
+   "context": "[Passage paraphrased from the original]\nMaintaining order in abnormal times is the army's role, but in normal times another force - the police - makes citizens obey the law and act with due regard to the rights of others, and it protects the lives and property of law-abiding people. Laws exist to keep citizens personally safe, to prevent murder and violent crime, to secure citizens' property against theft and damage, and to protect the right of communities and castes to carry out their 'customs and ceremonies' - but only so long as these do not conflict with the rights of others. The good citizen obeys such laws of his own free will, taking care that what he does respects the rights and well-being of others; the bad citizen is 'restrained' from breaking them only by fear of the consequences of his actions, and it is this force that takes the necessary steps to compel him to behave like a good citizen. The supreme control of law and order in a state rests with a Minister who is responsible to the State Assembly and acts through the Inspector-General of Police."
+  },
+  {
+   "id": "pyq-sbipo-mains15-set18",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "title": "RC: Brain Drain or Brain Bank?",
+   "context": "[Passage paraphrased from the original]\nA News Week report notes that in American colleges, students of Asian origin - many of them Indian - outperform not just other minority groups but the white majority too, an achievement worth being proud of. Since these talented students are unlikely to return to India, commentators once called this the 'brain drain' problem. Recently, however, policymakers have begun preferring the term 'brain bank' instead of 'brain drain', arguing that the expertise of Indians abroad is merely deposited elsewhere, not lost forever.\nThat may be true, but a brain bank, like any other bank, mainly serves customers in its own neighbourhood - so the skills of these excelling Asian students will chiefly benefit the USA. Whatever non-resident Indians do for India (or their counterparts do for other Asian countries) is only a side effect, however significant.\nIt is worth asking why Indians perform so much better abroad. The very same students News Week praises would likely have had very different outcomes had they studied in India. In America they found elbow room, books, and facilities unavailable and unlikely to become available at home. Having to prove themselves in a new country, and facing competition of an international standard, must have shaken off mental and physical laziness. But these other advantages of America could be recreated here too, if our social attitudes - especially toward youth - were to change.\nWe need to value individuals and their unique qualities over mere conformity and respectability. We need to learn the language of encouragement, not just polish our skill in flattery."
+  }
+ ],
+ "questions": [
+  {
+   "id": "pyq-sbipo-mains15-q001",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "coding-decoding",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set1",
+   "question": "Which of the following is the code for 'colours sky high'?",
+   "options": [
+    "ro jo la",
+    "fa la jo",
+    "la ki jo",
+    "ki jo la",
+    "fa ki jo"
+   ],
+   "correct": 4,
+   "explanation": "Cross-matching the four coded sentences: colours = ki, of = fa, the = so, sky = la, rainbow = ro, rocket = pe, high = jo, world = ne. So 'colours sky high' should code to the set {ki, la, jo} - which is exactly the set of codes in options (c) and (d), just in different order, not option (e). This looks like a book/OCR error in the options (two options accidentally show the same three codes while the marked answer does not match the derivation). Keeping the answer key's marked option (e) as given.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq",
+    "book-typo-suspect"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q002",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "coding-decoding",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-mains15-set1",
+   "question": "Which of the following will/may represent 'the'?",
+   "options": [
+    "Only fa",
+    "Only la",
+    "Only so",
+    "Either (a) or (b)",
+    "Either (a) or (c)"
+   ],
+   "correct": 2,
+   "explanation": "'the' is common to 'colours of the sky' (ki la fa so) and 'the rocket world' (pe so ne); the only code common to both is 'so'. So 'the' = so, uniquely.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q003",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "coding-decoding",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-mains15-set1",
+   "question": "What does 'pe' represent in the code?",
+   "options": [
+    "colours",
+    "sky",
+    "high",
+    "rainbow",
+    "rocket"
+   ],
+   "correct": 4,
+   "explanation": "'rocket' is common to 'sky high rocket' (la pe jo) and 'the rocket world' (pe so ne); the only code common to both is 'pe'. So 'pe' = rocket.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q004",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "inequality",
+   "difficulty": 2,
+   "question": "Statements: W ≥ D < M < P < A = F\nConclusions:\nI. F > D\nII. P < W",
+   "options": [
+    "Only conclusion I follows",
+    "Only conclusion II follows",
+    "Either conclusion I or II follows",
+    "Neither conclusion I nor II follows",
+    "Both conclusions I and II follow"
+   ],
+   "correct": 0,
+   "explanation": "From D < M < P < A = F, we get F > D directly, so I follows. There is no direct chain linking P and W (W ≥ D is a separate branch from D < M < P), so II does not follow. Only conclusion I follows.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q005",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "inequality",
+   "difficulty": 2,
+   "question": "Statements: H ≥ M > F < A = B > S\nConclusions:\nI. H > B\nII. F < S",
+   "options": [
+    "Only conclusion I follows",
+    "Only conclusion II follows",
+    "Either conclusion I or II follows",
+    "Neither conclusion I nor II follows",
+    "Both conclusions I and II follow"
+   ],
+   "correct": 3,
+   "explanation": "The chain has a 'valley' at F (M > F < A), which breaks the link between the H/M side and the A/B/S side, so H vs B cannot be compared - I does not follow. Similarly F and S sit on opposite sides of the valley with no direct link, so II does not follow. Neither conclusion follows.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q006",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "inequality",
+   "difficulty": 2,
+   "question": "Statements: B > T > Q > R = F\nConclusions:\nI. Q ≥ F\nII. T > F",
+   "options": [
+    "Only conclusion I follows",
+    "Only conclusion II follows",
+    "Either conclusion I or II follows",
+    "Neither conclusion I nor II follows",
+    "Both conclusions I and II follow"
+   ],
+   "correct": 1,
+   "explanation": "Q > R = F gives Q > F strictly, so the weaker conclusion 'Q ≥ F' is treated as not following (only the exact relation Q > F holds). T > Q > R = F gives T > F directly, so II follows. Only conclusion II follows.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q007",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "inequality",
+   "difficulty": 2,
+   "question": "Statements: S = R ≥ Q, P < Q\nConclusions:\nI. S ≥ P\nII. R > P",
+   "options": [
+    "Only conclusion I follows",
+    "Only conclusion II follows",
+    "Either conclusion I or II follows",
+    "Neither conclusion I nor II follows",
+    "Both conclusions I and II follow"
+   ],
+   "correct": 1,
+   "explanation": "Combining, S = R ≥ Q > P. This gives R > P directly, so II follows. S ≥ P is treated as not following because the derived relation between S and P is the strict form (S > P via R), not a genuine ≥ ambiguity. Only conclusion II follows.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q008",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "inequality",
+   "difficulty": 2,
+   "question": "Statements: S ≥ M < Y = Z > F > T\nConclusions:\nI. S > F\nII. Y > T",
+   "options": [
+    "Only conclusion I follows",
+    "Only conclusion II follows",
+    "Either conclusion I or II follows",
+    "Neither conclusion I nor II follows",
+    "Both conclusions I and II follow"
+   ],
+   "correct": 1,
+   "explanation": "The chain has a valley at M (S ≥ M < Y), so S cannot be compared with Y, Z, F or T - I does not follow. Y = Z > F > T gives Y > T directly, so II follows. Only conclusion II follows.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q009",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains15-set2",
+   "question": "What is the position of A with respect to his mother-in-law?",
+   "options": [
+    "Immediate left",
+    "Third to the right",
+    "Third to the left",
+    "Second to the right",
+    "Fourth to the left"
+   ],
+   "correct": 3,
+   "explanation": "Resolving the clues gives the arrangement (each person immediate left of the previous, going around): E, H, F, G, A, C, B, D (and back to E). A is H's husband; F and G are children of A and H; B is H's (and D's) mother, making B A's mother-in-law; D is H's brother (G's maternal uncle); G is mother of C; E is D's daughter. A sits second to the right of B (his mother-in-law).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q010",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains15-set2",
+   "question": "What is the position of A with respect to his grandchild?",
+   "options": [
+    "Immediate Right",
+    "Third to the right",
+    "Third to the left",
+    "Second to the right",
+    "Fourth to the left"
+   ],
+   "correct": 0,
+   "explanation": "A's grandchild is C (G is A's daughter and C is G's child). In the arrangement E-H-F-G-A-C-B-D, A sits immediately to the right of C.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q011",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains15-set2",
+   "question": "Four of the following five are alike in a certain way based on the given information and so form a group. Which is the one that does not belong to that group?",
+   "options": [
+    "F",
+    "C",
+    "E",
+    "H",
+    "G"
+   ],
+   "correct": 1,
+   "explanation": "In the resolved arrangement, F, E, H and G are all female while C (G's son) is male, so C does not belong to the group. The book's own solution states 'Except C all others are women' even though its printed answer letter points to E - the letter appears to be a misprint, so the derivable answer C is kept.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq",
+    "book-typo-suspect"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q012",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set2",
+   "question": "Which of the following is true with respect to the given seating arrangement?",
+   "options": [
+    "C is the cousin of E",
+    "H and H's husband are immediate neighbours of each other",
+    "No female is an immediate neighbour of C",
+    "H sits third to left of her daughter",
+    "B is the mother of H"
+   ],
+   "correct": 4,
+   "explanation": "B is H's (and D's) mother, which is directly established by the clues and matches the final arrangement. The other statements all fail: H and A (her husband) are three seats apart; B (female) is an immediate neighbour of C; and H is not third to the left of either daughter (F or G).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q013",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set2",
+   "question": "Who sits to the immediate left of C?",
+   "options": [
+    "F's grandmother",
+    "G's son",
+    "D's mother-in-law",
+    "A",
+    "G"
+   ],
+   "correct": 0,
+   "explanation": "In the arrangement E-H-F-G-A-C-B-D, B sits immediately to the left of C. B is H's mother, making her F's (maternal) grandmother too.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q014",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "syllogism",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set3",
+   "question": "Conclusions:\nI. Dancer can be player being a possibility.\nII. All those dancers who are footballers are also music lovers.\nIII. Any cricketer can never be player.",
+   "options": [
+    "None follow",
+    "All follow",
+    "Only I follows",
+    "Both II and III follow",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "Dancers exclude cricketers and cricketers exclude players, but dancers and players are not directly linked, so a dancer being a player remains a valid possibility (I follows). Every footballer is both a dancer and a music lover, so any dancer who is a footballer is automatically a music lover (II follows). 'No cricketer is player' is a direct premise, so III follows. All three follow.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q015",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "syllogism",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set3",
+   "question": "Conclusions:\nI. All cricketers can be music lovers.\nII. Some players are footballers.\nIII. At least some footballers are cricketers.",
+   "options": [
+    "Only I follows",
+    "I and III follow",
+    "II and III follow",
+    "None follows",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "Since footballers are entirely contained in dancers, and no dancer is a cricketer, footballers and cricketers are completely disjoint - so III (some footballers are cricketers) does not follow. Nothing links players and footballers directly, so II does not follow for certain. Music lover is only tied to footballers, not excluded for cricketers, so it remains a possibility that all cricketers are music lovers - I follows as a possibility. Only I follows.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q016",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "syllogism",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set4",
+   "question": "Conclusions:\nI. 36% of girls are intelligent.\nII. 2% of girls are intelligent.\nIII. Some boys can never be a girl.",
+   "options": [
+    "Only II follows",
+    "Only III follows",
+    "Both I and II follow",
+    "None follows",
+    "All follow"
+   ],
+   "correct": 2,
+   "explanation": "'Very few girls are intelligent' is a vague quantifier compatible with a range of small percentages, so both 36% and 2% remain valid possibilities - I and II follow. Boys and girls are not stated to be mutually exclusive categories anywhere in the four given statements, so III cannot be concluded from them alone. Both I and II follow.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q017",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "syllogism",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set4",
+   "question": "Conclusions:\nI. All leaders are professors.\nII. There is a possibility that every girl can be a professor.\nIII. All professors can be leaders.",
+   "options": [
+    "None follows",
+    "Only II follows",
+    "Both II and III follow",
+    "Only III follows",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "Since no girl is a leader but girls could still overlap with professors (nothing excludes it), it remains possible every girl is a professor - II follows as a possibility. Some professors are already stated to be leaders, so it remains possible (though not certain) that all professors are leaders - III follows as a possibility. 'All leaders are professors' is too strong a certainty to draw, so I does not follow. Both II and III follow.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q018",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "syllogism",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set4",
+   "question": "Conclusions:\nI. At least some professors are girls.\nII. No professor is intelligent.\nIII. 5% of professors are leaders.",
+   "options": [
+    "Only I follows",
+    "Only II follows",
+    "Only III follows",
+    "Both II and III follow",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "Some professors are stated to be leaders and boys; nothing forces professors to include girls, so I does not follow for certain. Professors overlapping with boys (who are all intelligent) means 'no professor is intelligent' cannot be concluded, so II does not follow. Since some professors are leaders, a small percentage such as 5% remains a valid possibility, so III follows. Only III follows.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q019",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "input-output",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set5",
+   "question": "How many steps will be required to complete the rearrangement of: 31 rise gem 15 92 47 aim big 25 does 56 not 85 63 with moon?",
+   "options": [
+    "Eight",
+    "Six",
+    "Seven",
+    "Five",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "There are 8 words and 8 numbers (16 elements); each step moves one word (alphabetically) to the left end and one number (in descending order) to the right end, so 8 steps are needed. Final Step VIII: with rise not moon gem does big aim 92 85 63 56 47 31 25 15.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q020",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "input-output",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set5",
+   "question": "Which word/number would be at the 7th position from the left in Step IV?",
+   "options": [
+    "rise",
+    "aim",
+    "big",
+    "15",
+    "47"
+   ],
+   "correct": 3,
+   "explanation": "Step IV: gem does big aim 31 rise 15 47 25 not with moon 92 85 63 56. Counting from the left, the 7th position is '15'.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q021",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "input-output",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set5",
+   "question": "Which step number is the following output?\nrise not moon gem does big aim 15 with 92 85 63 56 47 31 25",
+   "options": [
+    "Step V",
+    "Step VII",
+    "Step IV",
+    "Step VIII",
+    "There is no such step"
+   ],
+   "correct": 1,
+   "explanation": "This exact sequence is Step VII: rise not moon gem does big aim 15 with 92 85 63 56 47 31 25.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q022",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "input-output",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set5",
+   "question": "Which of the following represents the position of '92' in Step VI?",
+   "options": [
+    "Ninth from the left",
+    "Fifth from the right",
+    "Sixth from the right",
+    "Ninth from the right",
+    "Seventh from the left"
+   ],
+   "correct": 2,
+   "explanation": "Step VI: not moon gem does big aim rise 15 25 with 92 85 63 56 47 31 (16 elements). '92' is 11th from the left, which is 6th from the right.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q023",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "input-output",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set5",
+   "question": "Which word/number would be at the 5th position from the right in the last step?",
+   "options": [
+    "gem",
+    "63",
+    "56",
+    "85",
+    "does"
+   ],
+   "correct": 2,
+   "explanation": "Last step (Step VIII): with rise not moon gem does big aim 92 85 63 56 47 31 25 15 (16 elements). 5th from the right is '56'.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q024",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "data-sufficiency-reasoning",
+   "difficulty": 2,
+   "question": "How is J related to K?\nI. J's father P is the brother of N. N is K's wife.\nII. J is the son of P. P is the brother of N. N is K's wife.",
+   "options": [
+    "Statement I alone is sufficient, but statement II alone is not sufficient",
+    "Statement II alone is sufficient, but statement I alone is not sufficient",
+    "Either statement I alone or statement II alone is sufficient",
+    "Both statements I and II together are not sufficient",
+    "Both statements I and II together are necessary"
+   ],
+   "correct": 1,
+   "explanation": "Statement I only tells us J is P's child (gender unknown), so J could be N's/K's nephew or niece - not sufficient alone. Statement II additionally specifies J is P's son, fixing J's gender, so J is definitely K's nephew (N being K's wife, P being N's brother). Statement II alone is sufficient.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q025",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "data-sufficiency-reasoning",
+   "difficulty": 2,
+   "question": "On which floor of the building does G stay? (The building has five floors: 1, 2, 3, 4, 5.)\nI. Only the even-numbered floors are occupied and G does not stay on the second floor.\nII. G does not stay on an odd-numbered floor.",
+   "options": [
+    "Statement I alone is sufficient, but statement II alone is not sufficient",
+    "Statement II alone is sufficient, but statement I alone is not sufficient",
+    "Either statement I alone or statement II alone is sufficient",
+    "Both statements I and II together are not sufficient",
+    "Both statements I and II together are necessary"
+   ],
+   "correct": 0,
+   "explanation": "Statement I: only floors 2 and 4 are occupied, and G is not on floor 2, so G must be on floor 4 - sufficient alone. Statement II only says G is on an even floor (2 or 4), which does not pin down a single floor - not sufficient alone.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q026",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "data-sufficiency-reasoning",
+   "difficulty": 2,
+   "question": "How many days did Raju take to complete his assignment?\nI. Mohit correctly remembers that Raju took more than 3 days but less than 9 days to complete his assignment.\nII. Mina correctly remembers that Raju took more than 7 days but less than 11 days to complete his assignment.",
+   "options": [
+    "Statement I alone is sufficient, but statement II alone is not sufficient",
+    "Statement II alone is sufficient, but statement I alone is not sufficient",
+    "Either statement I alone or statement II alone is sufficient",
+    "Both statements I and II together are not sufficient",
+    "Both statements I and II together are necessary"
+   ],
+   "correct": 4,
+   "explanation": "Statement I gives a range of 4-8 days; statement II gives a range of 8-10 days. Neither range alone pins down a single value, but the only day common to both ranges is 8, so both statements together are necessary and sufficient.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q027",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "data-sufficiency-reasoning",
+   "difficulty": 3,
+   "question": "How is the word 'GATES' coded in the code language?\nI. 'BRICK' is coded as 'LDJSC' and 'PIN' is coded as 'OJQ'\nII. 'WATER' is coded as 'SFUBX' and 'DISH' is coded as 'ITJE'",
+   "options": [
+    "Statement I alone is sufficient, but statement II alone is not sufficient",
+    "Statement II alone is sufficient, but statement I alone is not sufficient",
+    "Either statement I alone or statement II alone is sufficient",
+    "Both statements I and II together are not sufficient",
+    "Both statements I and II together are necessary"
+   ],
+   "correct": 2,
+   "explanation": "The rule (verified independently from each statement) is: reverse the letters of the word, then shift each letter one place forward in the alphabet. From statement I: BRICK reversed is KCIRB, shifted +1 gives LDJSC (matches); PIN reversed is NIP, shifted +1 gives OJQ (matches). From statement II: WATER reversed is RETAW, shifted +1 gives SFUBX (matches); DISH reversed is HSID, shifted +1 gives ITJE (matches). Either statement alone reveals the same rule, so GATES can be coded from either one (reversed SETAG, shifted +1 = TFUBH). Either statement alone is sufficient.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q028",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "data-sufficiency-reasoning",
+   "difficulty": 2,
+   "question": "Among schools A, B, C and D, which school has the highest number of students?\nI. School A has fewer students than school D.\nII. School C has fewer students than school D.",
+   "options": [
+    "Statement I alone is sufficient, but statement II alone is not sufficient",
+    "Statement II alone is sufficient, but statement I alone is not sufficient",
+    "Either statement I alone or statement II alone is sufficient",
+    "Both statements I and II together are not sufficient",
+    "Both statements I and II together are necessary"
+   ],
+   "correct": 3,
+   "explanation": "Both statements together only tell us A < D and C < D; school B's count relative to D is never given, so we cannot determine whether D or B has the highest number of students. Not sufficient even together.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q029",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 2,
+   "question": "In Swartkans territory, archaeologists discovered charred bone fragments dating back one million years. Analysis of the fragments, which came from a variety of animals, showed that they had been heated to temperatures no higher than those produced in experimental campfires made from branches of white stinkwood, the most common tree around Swartkans. Which of the following, if true, would, together with the information above, provide the best basis for the claim that the charred bone fragments are evidence of the use of fire by early hominids?",
+   "options": [
+    "The white stinkwood tree is used for building material by the present day inhabitants of Swartkans",
+    "Forest fires can heat wood to a range of temperatures that occur in campfires",
+    "The bone fragments were fitted together by the archaeologists to form the complete skeletons of several animals",
+    "The bone fragments were found in several distinct layers of limestone that contained primitive cutting tools known to have been used by early hominids",
+    "None of the above"
+   ],
+   "correct": 3,
+   "explanation": "The argument needs independent evidence directly linking early hominids to the bone fragments. Finding the fragments alongside primitive cutting tools known to be used by early hominids provides exactly that link, strengthening the claim that the charring was due to hominid use of fire.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q030",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 2,
+   "question": "Statement: It has been reported in a recent research report that taller people are found to be happier than those who are relatively shorter. Which of the following contradicts the above finding?",
+   "options": [
+    "People are generally truthful when they respond to the questions of such research studies",
+    "Those people who have a comfortable lifestyle are found to be happier than those who lead a strenuous lifestyle irrespective of their height",
+    "Shorter people suffer from inferiority complex throughout their life",
+    "Taller people are found to be more positive in approach to daily chores of life",
+    "None of the above"
+   ],
+   "correct": 1,
+   "explanation": "If happiness actually tracks lifestyle comfort regardless of height, then height itself is not the real driver of happiness, which contradicts the finding that taller people are happier because they are taller.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q031",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 2,
+   "question": "Statement: Many patients suffering from malaria were administered anti-malarial drug for a week. Some of them did not respond to the traditional drug and their condition deteriorated after four days. Which of the following would weaken the findings mentioned in the above statement?",
+   "options": [
+    "Those patients who responded to the traditional drugs and recovered were needed to be given additional doses as they reported relapse of symptoms",
+    "The mosquitoes carrying malaria are found to be resistant to traditional malarial drugs",
+    "Majority of the patients suffering from malaria responded well to the traditional malarial drugs and recovered from the illness",
+    "Many drug companies have stopped manufacturing traditional malarial drugs",
+    "None of the above"
+   ],
+   "correct": 2,
+   "explanation": "If most patients actually responded well and recovered using the traditional drug, this weakens the implied suggestion that the traditional drug is generally ineffective against malaria.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q032",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 2,
+   "question": "Statement: The cost of manufacturing cars in state A is 30% less than the cost of manufacturing cars in state B. Even after transportation fee for the differential distances of states A and B and the interstate taxes, it is cheaper to manufacture cars in state B than state A for selling these cars in state C. Which of the following supports the conclusion drawn in the above statement?",
+   "options": [
+    "The cost of transportation from state A to state C is more than 30% of the production cost",
+    "The production costs of cars in state B are lower in comparison to state A",
+    "Only Entry Tax at state C is more for the products originated in state A",
+    "Entry Tax at state C is more for the products originated in state B",
+    "The total of transportation cost of cars from state B to state C and Entry Tax of cars at state C is less than 30% of the production cost of cars in state B"
+   ],
+   "correct": 0,
+   "explanation": "If transporting from A to C costs more than the entire 30% saving A has over B, that overhead wipes out A's cost advantage, directly supporting the claim that manufacturing in B works out cheaper for selling in C.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q033",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 2,
+   "question": "Statement: There was a slow decline in the number of patients with flu-like symptoms visiting various health facilities in the city during the last fortnight. Which of the following substantiates the facts mentioned in the above statement?",
+   "options": [
+    "Majority of the people suffering from flu visit the health facilities in the city",
+    "There has been a continuous increase in the sale of medicines for curing flu in the city limits",
+    "People have started visiting crowded places like malls and cinema halls during the last fortnight after a cautioned gap of one month",
+    "There is a sudden increase in the number of deaths caused by flu-like symptoms followed by respiratory complications",
+    "None of the above"
+   ],
+   "correct": 2,
+   "explanation": "People returning to crowded places after a cautioned gap suggests the flu outbreak has actually been subsiding, which is consistent with (substantiates) the reported decline in flu-symptom visits.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q034",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 2,
+   "question": "Statement: It is reported that during the last fortnight there were three near-miss incidents involving two aircraft over the busy city airport. In all these cases both aircraft came perilously close to each other and collision was avoided only because the pilots acted just in time.\nCourses of action:\nI. The pilots of all six aircraft involved in these incidents should immediately be derostered.\nII. Some flights should be diverted to other airports for the next few months to decongest the sky over the city airport.\nIII. Air traffic controllers of the city airport should be sent for refresher courses in batches to prepare themselves to handle such pressure situations.",
+   "options": [
+    "Only I follows",
+    "Only II follows",
+    "Only III follows",
+    "II and III follow",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "Derostering all six pilots (I) is an excessive, unproven reaction, and diverting flights for months (II) is a drastic step not clearly justified by three incidents. Retraining air traffic controllers to better handle high-pressure situations (III) is the most proportionate and directly relevant course of action. Only III follows.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q035",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains15-set6",
+   "question": "Who stays in the 4th flat?",
+   "options": [
+    "Ambrish",
+    "Amit",
+    "Rohit",
+    "Manu",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "Working from the clues: Amit (chess, power engineer) and Manu (cricket-regional, mechanical engineer) share the 3rd flat; Rohit (football, design engineer) is in the 2nd flat; Tarun (tennis, quality inspector) is in the 5th flat; that leaves Ambrish (cricket-national, mechanical engineer, youngest) alone in the 4th flat.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q036",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set6",
+   "question": "What does Tarun play?",
+   "options": [
+    "Chess",
+    "Football",
+    "Cricket",
+    "Tennis",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "Tarun is the quality inspector, so he is not the football player (who is the design engineer, Rohit); with cricket (Ambrish/Manu) and chess (Amit) also taken, Tarun must play Tennis.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q037",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set6",
+   "question": "Who plays football?",
+   "options": [
+    "Ambrish",
+    "Amit",
+    "Rohit",
+    "Manu",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "The football player is the design engineer in the 2nd flat, which is Rohit (the only one of the five not otherwise assigned a game or the 3rd/4th/5th flat).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q038",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains15-set6",
+   "question": "Age-wise, who among the following lies between Manu and Tarun?",
+   "options": [
+    "Quality inspector",
+    "Mechanical engineer",
+    "Power engineer",
+    "Design engineer",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "Age order (oldest to youngest): Amit (chess, oldest) > Manu (regional cricket) > Rohit (football, design engineer) > Tarun > Ambrish (national cricket, youngest). Rohit, the Design Engineer, lies between Manu and Tarun.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q039",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set6",
+   "question": "Who stay in the same flat?",
+   "options": [
+    "Ambrish and Amit",
+    "Manu and Tarun",
+    "Amit and Manu",
+    "Rohit and Tarun",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "The 3rd flat houses one cricket player and the chess player: Manu (cricket-regional) and Amit (chess) share the 3rd flat.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q040",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set6",
+   "question": "The chess player is a:",
+   "options": [
+    "Power engineer",
+    "Mechanical engineer",
+    "Design engineer",
+    "Quality inspector",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "Amit plays chess and is directly stated to be the power engineer.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q041",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains15-set7",
+   "question": "MCA is related to B.Com in a certain way and MBA is related to M.Tech in the same way. Which of the following is related to B.Tech following the same pattern?",
+   "options": [
+    "CA",
+    "Finance",
+    "CS",
+    "Can't be determined",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "Solving the arrangement (seating, left-to-right): A(Finance), F(MCA), H(M.Tech), C(B.Tech), G(CA), B(B.Com), E(MBA), D(CS), back to A. MCA(F) and B.Com(B) sit directly opposite each other, and so do MBA(E) and M.Tech(H) - the pattern is 'opposite pairs'. B.Tech (C) sits opposite D, who studies CS. So CS follows the same pattern.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q042",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set7",
+   "question": "Who among the following studies MCA?",
+   "options": [
+    "F",
+    "H",
+    "E",
+    "Can't be determined",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "From the resolved arrangement, F studies MCA.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q043",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set7",
+   "question": "Who among the following sits third to the right of F?",
+   "options": [
+    "E",
+    "G",
+    "C",
+    "B",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "In the arrangement A-F-H-C-G-B-E-D (each sitting to the immediate left of the previous), three places to the right of F lands on E.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q044",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set7",
+   "question": "Which of the following statements is/are true about E?",
+   "options": [
+    "E is sitting opposite H",
+    "E studies M.Tech",
+    "E is not an immediate neighbour of B",
+    "All are true",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "E sits directly opposite H in the resolved arrangement. E studies MBA (not M.Tech), and B is in fact an immediate neighbour of E, so only the first statement is true.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q045",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set7",
+   "question": "Which of the following courses is studied by C?",
+   "options": [
+    "CA",
+    "B.Tech",
+    "CS",
+    "MBA",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "From the resolved arrangement, C studies B.Tech.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q046",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "blood-relations",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set8",
+   "question": "Which of the following represents 'W is grandfather of H'?",
+   "options": [
+    "W + T - H",
+    "W ÷ T – H",
+    "W × T + H",
+    "W ÷ T + H",
+    "None of these"
+   ],
+   "correct": 4,
+   "explanation": "Checking each: (a) W+T-H makes W the brother of T, T the father of H, so W is H's uncle, not grandfather. (b) W÷T-H makes W the mother of T and T the father of H, so W is H's grandmother. (d) W÷T+H makes W the mother of T, with T the brother of H, so W is H's mother. None of the given codes produce 'grandfather' (a father-of-father chain using '-' twice), so the answer is None of these.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q047",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "blood-relations",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains15-set8",
+   "question": "Which of the following represents 'M is nephew of R'?",
+   "options": [
+    "M ÷ T – R",
+    "R ÷ T – M",
+    "R × T ÷ M × J",
+    "R ÷ T – M + J",
+    "None of these"
+   ],
+   "correct": 4,
+   "explanation": "Checking each: (b) R÷T-M makes R the mother of T and T the father of M, so R is M's grandmother, not aunt. (c) R×T÷M×J makes R the sister of T, T the mother of M, and M the sister of J - this makes R the (maternal) aunt of M, but the last clause fixes M as female (sister of J), making M a niece, not a nephew. (d) R÷T-M+J makes R the grandmother of M and J. None of the codes give a male M as the nephew of R, so the answer is None of these.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q048",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "blood-relations",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set8",
+   "question": "How is T related to S in 'W ÷ T – H + V – S'?",
+   "options": [
+    "Sister",
+    "Mother",
+    "Aunt",
+    "Uncle",
+    "None of these"
+   ],
+   "correct": 4,
+   "explanation": "W÷T means W is mother of T; T–H means T is father of H; H+V means H is brother of V; V–S means V is father of S. So T is H's and V's father, making T the (paternal) grandfather of S. 'Grandfather' is not among the listed options (sister/mother/aunt/uncle), so the answer is None of these.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q049",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "blood-relations",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set8",
+   "question": "What does the expression 'S ÷ T – H × V – N' mean?",
+   "options": [
+    "S is grandmother of N",
+    "S is great grandmother of N",
+    "S is mother of V",
+    "N is grandson of S",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "S÷T: S is mother of T. T–H: T is father of H. H×V: H is sister of V. V–N: V is father of N. So T is father of siblings H and V, and S (T's mother) is grandmother of H and V; since V is N's father, S is N's great-grandmother.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q050",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 2,
+   "question": "Statement: Exporters in the capital are alleging that commercial banks are violating a Reserve Bank of India directive to operate a post-shipment export credit denominated in foreign currency at international rates from January this year.\nCourses of Action:\nI. The officers concerned in the commercial banks are to be suspended.\nII. The RBI should be asked to stop giving such directives to commercial banks.",
+   "options": [
+    "Only I follows",
+    "Only II follows",
+    "Either I or II follows",
+    "Neither I nor II follows",
+    "Both I and II follow"
+   ],
+   "correct": 3,
+   "explanation": "Suspending officers is disproportionate without an inquiry, and asking RBI to stop issuing such directives does not address banks violating a valid directive. The reasonable remedy would be to enforce compliance with the existing directive, which is not among the listed actions. Neither course of action follows.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q180",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "computer-aptitude",
+   "difficulty": 1,
+   "question": "A person who uses his/her expertise to gain access to other people's computers to get information illegally or do damage is called a:",
+   "options": [
+    "Hacker",
+    "Analyst",
+    "Instant messenger",
+    "Programmer",
+    "Spammer"
+   ],
+   "correct": 0,
+   "explanation": "Someone who gains unauthorized access to computer systems to steal information or cause damage is called a Hacker.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q181",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "computer-aptitude",
+   "difficulty": 1,
+   "question": "To access the properties of an object, the mouse technique to use is ___________.",
+   "options": [
+    "dragging",
+    "dropping",
+    "right-clicking",
+    "shift-clicking",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "Right-clicking an object typically brings up a context menu, including a 'Properties' option, in most graphical operating systems.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q182",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "computer-aptitude",
+   "difficulty": 1,
+   "question": "Computers use the ___________ number system to store data and perform calculations.",
+   "options": [
+    "binary",
+    "octal",
+    "decimal",
+    "hexadecimal",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "Computers internally store data and perform calculations using the binary (base-2) number system, representing information as 0s and 1s.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q183",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "computer-aptitude",
+   "difficulty": 1,
+   "question": "The default view in Excel is ___________ View.",
+   "options": [
+    "Work",
+    "Auto",
+    "Normal",
+    "Roman",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "Microsoft Excel opens worksheets in 'Normal' view by default, as opposed to Page Layout or Page Break Preview views.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q184",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "computer-aptitude",
+   "difficulty": 2,
+   "question": "In Word, you can force a page break ___________.",
+   "options": [
+    "by positioning your cursor at the appropriate place and pressing the F1 key",
+    "by positioning your cursor at the appropriate place and pressing Ctrl + Enter",
+    "by using the Insert/section break",
+    "by changing the font size of your document",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "Pressing Ctrl + Enter at the cursor's position in Microsoft Word forces a manual page break.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q185",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "computer-aptitude",
+   "difficulty": 1,
+   "question": "Specialized programs that assist users in locating information on the Web are called:",
+   "options": [
+    "Information engines",
+    "locator engines",
+    "web browsers",
+    "resource locators",
+    "search engines"
+   ],
+   "correct": 4,
+   "explanation": "Programs designed to help users find information on the web (like Google or Bing) are called search engines.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q186",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "computer-aptitude",
+   "difficulty": 2,
+   "question": "Compiling source code creates a(n):",
+   "options": [
+    "error-free program",
+    "program specification",
+    "subroutine",
+    "algorithm",
+    "executable program"
+   ],
+   "correct": 4,
+   "explanation": "A compiler translates source code into machine code, producing an executable program (it does not guarantee the program is error-free).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q187",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "computer-aptitude",
+   "difficulty": 1,
+   "question": "What is the name given to applications that combine text, sound, graphics, motion video, and/or animation?",
+   "options": [
+    "motionware",
+    "anigraphics",
+    "videoscapes",
+    "multimedia",
+    "maxomedia"
+   ],
+   "correct": 3,
+   "explanation": "Applications combining text, audio, graphics, video and animation are described as multimedia applications.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q188",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "computer-aptitude",
+   "difficulty": 2,
+   "question": "How are the World Wide Web (WWW) and the internet different, as commonly described in introductory computing material?",
+   "options": [
+    "They aren't different; they are two different names for the same thing",
+    "The internet is text only, the WWW incorporates multimedia",
+    "The internet is primarily used by businesses; the WWW can be used by home users",
+    "The WWW is faster than the more archaic internet",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "The standard (simplified) textbook distinction used in this answer key is that the internet is described as a text-based network while the WWW is the multimedia-rich, hyperlinked layer built on top of it - though in modern technical usage both are more nuanced than this.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q189",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "computer-aptitude",
+   "difficulty": 2,
+   "question": "Which port connects special types of music instruments to sound cards?",
+   "options": [
+    "BUS",
+    "CPU",
+    "USB",
+    "MIDI",
+    "MINI"
+   ],
+   "correct": 3,
+   "explanation": "MIDI (Musical Instrument Digital Interface) ports/connections are used to link electronic musical instruments to a computer's sound card.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q051",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set9",
+   "question": "What is the approximate average number of women liking all the teams?",
+   "options": [
+    "16707",
+    "16686",
+    "16531",
+    "16668",
+    "None of these"
+   ],
+   "correct": 4,
+   "explanation": "Women liking each team: CSK 44% of 45525=20031, DD 33% of 36800=12144, DC 30% of 56340=16902, MI 28% of 62350=17458, RR 44% of 48300=21252, RCB 35% of 35580=12453, KXI 36% of 56250=20250, KKR 54% of 64000=34560. Total=155050. Average=155050/8=19381.25, which doesn't match any of (a)-(d), so the answer is None of these.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q052",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set9",
+   "question": "The total number of women liking RR forms approximately what per cent of the total number of women liking all the teams?",
+   "options": [
+    "11",
+    "15",
+    "20",
+    "20",
+    "None of these"
+   ],
+   "correct": 4,
+   "explanation": "Women liking RR = 44% of 48300 = 21252. Total women liking all teams = 155050. Required % = 21252/155050 × 100 = 13.7%, which does not match any listed percentage, so the answer is None of these.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q053",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-mains15-set9",
+   "question": "What is the total number of children liking CSK?",
+   "options": [
+    "14085",
+    "16389",
+    "20031",
+    "14850",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "Children liking CSK = 36% of 45525 = 16389.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q054",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set9",
+   "question": "What is the ratio of the total number of men liking DD to those liking RR?",
+   "options": [
+    "69 : 49",
+    "7 : 5",
+    "208 : 147",
+    "70 : 52",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "Men liking DD = 39% of 36800 = 14352. Men liking RR = 21% of 48300 = 10143. Ratio = 14352 : 10143 = 208 : 147 (dividing both by 69).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q055",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set9",
+   "question": "The number of men liking DC forms what per cent of those liking RCB? (rounded off to two digits after decimal)",
+   "options": [
+    "21.05%",
+    "475.04%",
+    "25.56%",
+    "25%",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "Men liking DC = 45% of 56340 = 25353. Men liking RCB = 15% of 35580 = 5337. Required percentage = 25353/5337 × 100 = 475.04%. The book's own worked solution computes exactly 475.04% even though its printed answer letter points elsewhere - the letter appears to be a misprint, so the derivable answer 475.04% is kept.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq",
+    "book-typo-suspect"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q056",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set10",
+   "question": "During which month did the company have the least stock to begin with?",
+   "options": [
+    "June",
+    "July",
+    "August",
+    "October",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "Stock at the beginning of each month (beginning stock + produced - sold = next month's beginning stock): June=75, July=75+300-350=25, August=25+250-275=0, September=0+200-175=25, October=25+200-200=25. August has the least stock (0 units) to begin with.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q057",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set10",
+   "question": "What was the stock at the beginning of September?",
+   "options": [
+    "35",
+    "15",
+    "25",
+    "20",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "Beginning of September = beginning of August (0) + produced in August (200) - sold in August (175) = 25 units.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q058",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set10",
+   "question": "What should be the minimum stock at the beginning of June, if the company has to supply smoothly for all five months?",
+   "options": [
+    "45 units",
+    "35 units",
+    "25 units",
+    "30 units",
+    "None of these"
+   ],
+   "correct": 4,
+   "explanation": "With a starting stock of 75 units, the running stock dips to exactly 0 in August but never goes negative. Any lower starting stock would make August's stock negative, so the minimum required is 75 units, which is not among options (a)-(d) - the answer is None of these.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q059",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-mains15-set10",
+   "question": "During which month did the company have the highest sales?",
+   "options": [
+    "June",
+    "July",
+    "August",
+    "October",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "Sales by month: June 350, July 275, August 175, September 200, October 300. June has the highest sales at 350 units.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q060",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-mains15-set10",
+   "question": "What is the stock at the beginning of July?",
+   "options": [
+    "50",
+    "25",
+    "100",
+    "75",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "Beginning of July = beginning of June (75) + produced in June (300) - sold in June (350) = 25 units.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q061",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-mains15-set11",
+   "question": "What per cent of total expenditure is spent on tennis?",
+   "options": [
+    "12.5%",
+    "11.5%",
+    "25%",
+    "45%",
+    "40%"
+   ],
+   "correct": 0,
+   "explanation": "Tennis = 45 degrees out of 360. Percentage = 45/360 × 100 = 12.5%.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q062",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set11",
+   "question": "How much per cent more is spent on hockey than on golf?",
+   "options": [
+    "27%",
+    "35%",
+    "37.5%",
+    "75%",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "Hockey = 63 degrees, Golf = 36 degrees. Required percentage = (63-36)/36 × 100 = 27/36 × 100 = 75%.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q063",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set11",
+   "question": "If the total amount spent on sports during the year was Rs. 18000000, the amount spent on basketball exceeds that on tennis by:",
+   "options": [
+    "Rs. 250000",
+    "Rs. 360000",
+    "Rs. 375000",
+    "Rs. 410000",
+    "Rs. 30000"
+   ],
+   "correct": 0,
+   "explanation": "Basketball (50 degrees) exceeds tennis (45 degrees) by 5 degrees. Amount = 5/360 × 18000000 = Rs. 250000.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q064",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set11",
+   "question": "How many per cent less is spent on football than on cricket?",
+   "options": [
+    "22 2/9%",
+    "27%",
+    "33 1/3%",
+    "13 1/7%",
+    "29%"
+   ],
+   "correct": 2,
+   "explanation": "Football = 54 degrees, Cricket = 81 degrees. Required percentage = (81-54)/81 × 100 = 27/81 × 100 = 33 1/3%.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q065",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set11",
+   "question": "If the total amount spent on sports during the year was Rs. 2 crore, the amount spent on cricket and hockey together was:",
+   "options": [
+    "Rs. 800000",
+    "Rs. 8000000",
+    "Rs. 12000000",
+    "Rs. 16000000",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "Cricket + Hockey = 81 + 63 = 144 degrees. Amount = 144/360 × 2,00,00,000 = Rs. 80,00,000 (0.8 crore).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q066",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains15-set12",
+   "question": "In which year was the per-unit cost highest?",
+   "options": [
+    "2006",
+    "2005",
+    "2009",
+    "2011",
+    "2012"
+   ],
+   "correct": 1,
+   "explanation": "Per-unit cost (cost/units sold) by year: 2004=10, 2005=13, 2006=9, 2007=10, 2008=11, 2009=5, 2010=5, 2011=10, 2012=10, 2013=5, 2014=10. The highest is 2005, at 13 per unit.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q067",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set12",
+   "question": "What is the approximate average quantity sold during the period 2004-2014?",
+   "options": [
+    "64 units",
+    "70 units",
+    "77 units",
+    "81 units",
+    "87 units"
+   ],
+   "correct": 1,
+   "explanation": "Units sold each year: 70,100,100,75,100,50,20,50,60,80,60. Total = 765. Average = 765/11 = 69.5, approximately 70 units.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q068",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains15-set12",
+   "question": "If volatility of a variable during the period is defined as (Maximum value - Minimum value)/Average value, then which of the following is true?",
+   "options": [
+    "Price per unit has highest volatility",
+    "Cost per unit has highest volatility",
+    "Total profit has highest volatility",
+    "Revenue has highest volatility",
+    "None of the above"
+   ],
+   "correct": 2,
+   "explanation": "Price per unit: (15-8)/(126/11) = 7/11.45 = 0.61. Cost per unit: (13-5)/(98/11) = 8/8.91 = 0.90. Profit: (400-0)/(1700/11) = 400/154.5 = 2.59. Revenue: (1400-200)/(8900/11) = 1200/809 = 1.48. Total profit has by far the highest volatility.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q069",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains15-set12",
+   "question": "If the price per unit decreases by 20% during 2004-2008 and cost per unit increases by 20% during 2009-2014, then in how many years is there a loss?",
+   "options": [
+    "3 yr",
+    "4 yr",
+    "5 yr",
+    "7 yr",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "New revenue (2004-2008, 80% of old) vs unchanged cost: 2004: 560 vs 700 (loss); 2005: 1120 vs 1300 (loss); 2006: 960 vs 900 (profit); 2007: 720 vs 750 (loss); 2008: 880 vs 1100 (loss). Unchanged revenue (2009-2014) vs new cost (120% of old): 2009: 400 vs 300 (profit); 2010: 200 vs 120 (profit); 2011: 700 vs 600 (profit); 2012: 600 vs 720 (loss); 2013: 800 vs 480 (profit); 2014: 900 vs 720 (profit). Loss occurs in 2004, 2005, 2007, 2008 and 2012 - 5 years in total.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q070",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains15-set12",
+   "question": "If the price per unit decreases by 20% during 2004-2008 and cost per unit increases by 20% during 2009-2014, then the cumulative profit for the entire period 2004-2014 decreases by:",
+   "options": [
+    "Rs. 1650",
+    "Rs. 1550",
+    "Rs. 1300",
+    "Rs. 1250",
+    "Data inadequate"
+   ],
+   "correct": 1,
+   "explanation": "Total decrease in revenue (2004-2008) = 20% of (700+1400+1200+900+1100) = 20% of 5300 = 1060. Total increase in cost (2009-2014) = 20% of (250+100+500+600+400+600) = 20% of 2450 = 490. Decrease in cumulative profit = 1060 + 490 = Rs. 1550.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q071",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-mains15-set13",
+   "question": "What is the average number of foreign tourists who visited Wagha Border on all the days together?",
+   "options": [
+    "184",
+    "172",
+    "186",
+    "174",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "Wagha Border: 130+190+120+200+220 = 860. Average = 860/5 = 172.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q072",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set13",
+   "question": "The total number of foreign tourists who visited all three places on Tuesday together is what per cent of the total number of foreign tourists who visited Wagha Border on Monday and Wednesday together?",
+   "options": [
+    "168%",
+    "124%",
+    "112%",
+    "224%",
+    "212%"
+   ],
+   "correct": 4,
+   "explanation": "Tuesday, all three places: 70+190+270 = 530. Wagha Border, Monday+Wednesday: 130+120 = 250. Required % = 530/250 × 100 = 212%.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q073",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set13",
+   "question": "On which day was the total number of foreign tourists who visited all three places together second lowest?",
+   "options": [
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday"
+   ],
+   "correct": 2,
+   "explanation": "Daily totals (all three places): Monday=420, Tuesday=530, Wednesday=450, Thursday=690, Friday=550. Lowest is Monday (420); second lowest is Wednesday (450).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q074",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-mains15-set13",
+   "question": "What is the respective ratio between the number of foreign tourists who visited Taj Mahal on Thursday and the number who visited Golden Temple on Friday?",
+   "options": [
+    "14:9",
+    "8:13",
+    "13:8",
+    "13:7",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "Taj Mahal on Thursday = 260. Golden Temple on Friday = 140. Ratio = 260:140 = 13:7.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q075",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set13",
+   "question": "On which day was the difference between the number of foreign tourists who visited Taj Mahal and Golden Temple second highest?",
+   "options": [
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday"
+   ],
+   "correct": 0,
+   "explanation": "Difference (Taj Mahal - Golden Temple) by day: Monday=200-90=110, Tuesday=270-70=200, Wednesday=180-150=30, Thursday=260-230=30, Friday=190-140=50. Highest is Tuesday (200); second highest is Monday (110).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q076",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "caselet-di",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set14",
+   "question": "What is the total number of students enrolled in B.Tech (Mechanical)?",
+   "options": [
+    "1062",
+    "1530",
+    "1584",
+    "1728",
+    "1800"
+   ],
+   "correct": 0,
+   "explanation": "Boys in Mechanical = 756, Girls in Mechanical = 306 (found as the remainder after allocating all other subjects). Total = 756+306 = 1062.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q077",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "caselet-di",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set14",
+   "question": "The number of girls enrolled in B.Tech (Electronics) forms approximately what per cent of the total number of students in the college?",
+   "options": [
+    "7%",
+    "13%",
+    "15%",
+    "22%",
+    "24%"
+   ],
+   "correct": 2,
+   "explanation": "Total students in Electronics = 24% of 7200 = 1728. Boys in Electronics = 15% of 4200 = 630, so Girls in Electronics = 1728-630 = 1098. Required % = 1098/7200 × 100 = 15.25%, approximately 15%.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q078",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "caselet-di",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set14",
+   "question": "What is the total number of girls enrolled in B.Tech (Nano Technology)?",
+   "options": [
+    "144",
+    "306",
+    "365",
+    "480",
+    "522"
+   ],
+   "correct": 4,
+   "explanation": "Total students in Nano Technology = 22% of 7200 = 1584. Boys in Nano Technology (found as the remainder of boys after all other subjects) = 4200-(756+630+240+432+1080) = 1062. So girls = 1584-1062 = 522.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q079",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "caselet-di",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set14",
+   "question": "The number of boys enrolled in B.Tech (Aerospace) forms what per cent of the total number of girls enrolled in B.Tech (Computer Science)?",
+   "options": [
+    "187.5%",
+    "200%",
+    "212.5%",
+    "225%",
+    "232.5%"
+   ],
+   "correct": 3,
+   "explanation": "Girls in Aerospace = 15% of 3000 = 450; with boys:girls = 12:5 in Aerospace, boys = 450 × 12/5 = 1080. Girls in Computer Science = 16% of 3000 = 480. Required % = 1080/480 × 100 = 225%.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q080",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "caselet-di",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set14",
+   "question": "What is the total number of boys enrolled in B.Tech (Civil)?",
+   "options": [
+    "240",
+    "432",
+    "630",
+    "756",
+    "810"
+   ],
+   "correct": 1,
+   "explanation": "Girls in Civil = 30% of girls in Computer Science (480) = 144. With boys:girls = 3:1 in Civil, boys = 144 × 3 = 432.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q081",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "quadratic-equations",
+   "difficulty": 2,
+   "question": "I. 7x + 6y + 4z = 122\nII. 4x + 5y + 3z = 88\nIII. 9x + 2y + z = 78\nSolve for x, y and z and find the relationship.",
+   "options": [
+    "x < y = z",
+    "x < y < z",
+    "x < y > z",
+    "x = y > z",
+    "x = y = z, or none of the above relationship is established"
+   ],
+   "correct": 0,
+   "explanation": "Eliminating z between the equations gives x=6, y=8, z=8 (verify: 7(6)+6(8)+4(8)=42+48+32=122; 4(6)+5(8)+3(8)=24+40+24=88; 9(6)+2(8)+8=54+16+8=78). So x < y = z.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q082",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "quadratic-equations",
+   "difficulty": 2,
+   "question": "I. 7x + 6y = 110\nII. 4x + 3y = 59\nIII. x + z = 15\nSolve for x, y and z and find the relationship.",
+   "options": [
+    "x < y = z",
+    "x < y < z",
+    "x < y > z",
+    "x = y > z",
+    "x = y = z, or none of the above relationship is established"
+   ],
+   "correct": 2,
+   "explanation": "From 2×(II) - (I): 8x+6y-7x-6y = 118-110, so x=8. Substituting in II: 32+3y=59, y=9. From III: z=15-8=7. So x=8, y=9, z=7, giving x < y > z.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q083",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "quadratic-equations",
+   "difficulty": 3,
+   "question": "I. x = [(36)^(1/2) × (1296)^(1/4)]^(1/2)\nII. 2y + 3z = 33\nIII. 6y + 5z = 71\nSolve for x, y and z and find the relationship.",
+   "options": [
+    "x < y = z",
+    "x < y < z",
+    "x < y > z",
+    "x = y > z",
+    "x = y = z, or none of the above relationship is established"
+   ],
+   "correct": 1,
+   "explanation": "From 3×(II) - (III): 6y+9z-6y-5z = 99-71, so 4z=28, z=7. Substituting in II: 2y+21=33, y=6. Statement I: (36)^(1/2)=6 and (1296)^(1/4)=6, so x = (6×6)^(1/2) = ±6 (the book's solution takes x = ±6, concluding x is at most y). With x below (or equal to) y=6 and z=7, the key marks x < y < z; note the +6 branch would give x = y, so the key's strict '<' is slightly loose - the radical stem is partly garbled in the source scan.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq",
+    "book-typo-suspect"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q084",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "quadratic-equations",
+   "difficulty": 2,
+   "question": "I. 8x + 7y = 135\nII. 5x + 6y = 99\nIII. 9y + 8z = 121\nSolve for x, y and z and find the relationship.",
+   "options": [
+    "x < y = z",
+    "x < y < z",
+    "x < y > z",
+    "x = y > z",
+    "x = y = z, or none of the above relationship is established"
+   ],
+   "correct": 3,
+   "explanation": "From 5×(I) - 8×(II): 40x+35y-40x-48y = 675-792, so -13y=-117, y=9. Substituting in I: 8x+63=135, x=9. From III: 81+8z=121, z=5. So x=9, y=9, z=5, giving x = y > z.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q085",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "quadratic-equations",
+   "difficulty": 3,
+   "question": "I. (x + y)^3 = 1331\nII. x - y + z = 0\nIII. xy = 28\nSolve for x, y and z and find the relationship.",
+   "options": [
+    "x < y = z",
+    "x < y < z",
+    "x < y > z",
+    "x = y > z",
+    "x = y = z, or none of the above relationship is established"
+   ],
+   "correct": 4,
+   "explanation": "From I: x+y=11. With xy=28, x and y are roots of t^2-11t+28=0, giving t=7 or 4, so {x,y}={7,4} in either order. If x=7,y=4: z=y-x=-3. If x=4,y=7: z=3. Since the relationship between x, y and z is not uniquely fixed (it depends on which value is x and which is y), none of the fixed relationships (a)-(d) can be established.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q086",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-sufficiency",
+   "difficulty": 2,
+   "question": "Train A running at a certain speed crosses another train B running at a certain speed in the opposite direction in 12 seconds. What is the length of train B?\nI. The length of both the trains together is 450 metres.\nII. Train A is slower than train B.",
+   "options": [
+    "Statement I alone is sufficient, but statement II alone is not sufficient",
+    "Statement II alone is sufficient, but statement I alone is not sufficient",
+    "Either statement I alone or statement II alone is sufficient",
+    "Both statements I and II together are not sufficient",
+    "Both statements I and II together are necessary"
+   ],
+   "correct": 3,
+   "explanation": "From I, (Speed of A + Speed of B) = 450/12 = 37.5 m/s. Statement II only tells us which train is slower, without giving actual speeds or individual lengths. Even together, we cannot find train B's individual length.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q087",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-sufficiency",
+   "difficulty": 2,
+   "question": "Area of a rectangle is equal to the area of a right-angled triangle. What is the length of the rectangle?\nI. The base of the triangle is 40 cm.\nII. The height of the triangle is 50 cm.",
+   "options": [
+    "Statement I alone is sufficient, but statement II alone is not sufficient",
+    "Statement II alone is sufficient, but statement I alone is not sufficient",
+    "Either statement I alone or statement II alone is sufficient",
+    "Both statements I and II together are not sufficient",
+    "Both statements I and II together are necessary"
+   ],
+   "correct": 3,
+   "explanation": "Together, the statements give the triangle's (and hence rectangle's) area as 1000 sq cm, but without knowing the rectangle's breadth, its length cannot be found.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q088",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-sufficiency",
+   "difficulty": 2,
+   "question": "What was the total compound interest on a sum after three years?\nI. The interest after one year was Rs. 100 and the sum was Rs. 1000.\nII. The difference between simple and compound interest on a sum of Rs. 1000 at the end of two years was Rs. 10.",
+   "options": [
+    "Statement I alone is sufficient, but statement II alone is not sufficient",
+    "Statement II alone is sufficient, but statement I alone is not sufficient",
+    "Either statement I alone or statement II alone is sufficient",
+    "Both statements I and II together are not sufficient",
+    "Both statements I and II together are necessary"
+   ],
+   "correct": 2,
+   "explanation": "Statement I directly gives principal Rs.1000 and rate 10%, from which 3-year CI can be found. Statement II: with sum=1000, CI-SI = P(r/100)^2 = 10, giving (r/100)^2=0.01, so r=10%; this also gives principal and rate, so 3-year CI can be found. Either statement alone is sufficient.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q089",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-sufficiency",
+   "difficulty": 2,
+   "question": "What is the two-digit number where the digit at the unit's place is smaller (than the tens digit)?\nI. The difference between the two digits is 5.\nII. The sum of the two digits is 7.",
+   "options": [
+    "Statement I alone is sufficient, but statement II alone is not sufficient",
+    "Statement II alone is sufficient, but statement I alone is not sufficient",
+    "Either statement I alone or statement II alone is sufficient",
+    "Both statements I and II together are not sufficient",
+    "Both statements I and II together are necessary"
+   ],
+   "correct": 4,
+   "explanation": "Let tens digit = y, units digit = x, with y > x. From I: y - x = 5. From II: y + x = 7. Solving together: y=6, x=1, giving the number 61. Neither statement alone fixes a unique number; both together are necessary.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q090",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-sufficiency",
+   "difficulty": 2,
+   "question": "What is the speed of the boat in still water?\nI. It takes 2 hours to cover the distance between A and B downstream.\nII. It takes 4 hours to cover the distance between A and B upstream.",
+   "options": [
+    "Statement I alone is sufficient, but statement II alone is not sufficient",
+    "Statement II alone is sufficient, but statement I alone is not sufficient",
+    "Either statement I alone or statement II alone is sufficient",
+    "Both statements I and II together are not sufficient",
+    "Both statements I and II together are necessary"
+   ],
+   "correct": 3,
+   "explanation": "Let distance = z, boat speed = x, stream speed = y. From I: z/(x+y)=2. From II: z/(x-y)=4. This gives 2 equations but 3 unknowns (x, y, z) - the distance is never known, so even together the statements are not sufficient to find x.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q091",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "number-series",
+   "difficulty": 2,
+   "question": "What should come in place of the question mark?\n13, 14, 30, 93, 376, 1885, ?",
+   "options": [
+    "10818",
+    "10316",
+    "11316",
+    "11318",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "Pattern: ×1+1, ×2+2, ×3+3, ×4+4, ×5+5, ×6+6: 13×1+1=14; 14×2+2=30; 30×3+3=93; 93×4+4=376; 376×5+5=1885; 1885×6+6=11316.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q092",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "number-series",
+   "difficulty": 1,
+   "question": "What should come in place of the question mark?\n4, 6, 9, 13.5, 20.25, 30.375, ?",
+   "options": [
+    "40.25",
+    "45.5625",
+    "42.7525",
+    "48.5625",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "Each term is the previous term × 1.5: 30.375 × 1.5 = 45.5625.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q093",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "number-series",
+   "difficulty": 1,
+   "question": "What should come in place of the question mark?\n400, 240, 144, 86.4, 51.84, 31.104, ?",
+   "options": [
+    "19.2466",
+    "17.2244",
+    "16.8824",
+    "18.6624",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "Each term is the previous term × 0.6: 31.104 × 0.6 = 18.6624.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q094",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "number-series",
+   "difficulty": 2,
+   "question": "What should come in place of the question mark?\n9, 4.5, 4.5, 6.75, 13.5, 33.75, ?",
+   "options": [
+    "101.25",
+    "103.75",
+    "99.75",
+    "105.50",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "Each term is the previous term multiplied by 0.5, 1, 1.5, 2, 2.5, 3 respectively: 33.75 × 3 = 101.25.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q095",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "number-series",
+   "difficulty": 2,
+   "question": "What should come in place of the question mark?\n705, 728, 774, 843, 935, 1050, ?",
+   "options": [
+    "1190",
+    "1180",
+    "1185",
+    "1187",
+    "None of these"
+   ],
+   "correct": 4,
+   "explanation": "Each term adds a multiple of 23: +1×23, +2×23, +3×23, +4×23, +5×23, +6×23: 1050 + 6×23 = 1050+138 = 1188, which is not among the listed options, so the answer is None of these.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q096",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "time-work",
+   "difficulty": 2,
+   "question": "A red light flashes 3 times per minute and a green light flashes 5 times in two minutes, both at regular intervals. If both lights start flashing at the same time, how many times do they flash together in each hour?",
+   "options": [
+    "30",
+    "24",
+    "20",
+    "60",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "Red light flashes every 60/3 = 20 seconds. Green light flashes every 120/5 = 24 seconds. They flash together every LCM(20,24) = 120 seconds = 2 minutes. In 1 hour (60 minutes), they flash together 60/2 = 30 times.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q097",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "permutation-combination",
+   "difficulty": 3,
+   "question": "Ashish is given Rs. 158 in one-rupee coins. He is asked to allocate them into a number of bags such that any amount required between Re. 1 and Rs. 158 can be given by handing out a certain number of bags without opening them. What is the minimum number of bags required?",
+   "options": [
+    "11",
+    "12",
+    "13",
+    "15",
+    "None of these"
+   ],
+   "correct": 4,
+   "explanation": "Using the standard doubling scheme, bags of 1, 2, 4, 8, 16, 32, 64 rupees (7 bags, covering any amount from 1 to 127) plus one more bag of 158-127=31 rupees (covering the rest up to 158) gives full coverage with 8 bags total. Since 7 bags alone can cover at most 2^7-1=127 (less than 158), at least 8 bags are needed - so 8 is the minimum, which is not among options (a)-(d), making the answer None of these.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q098",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set15",
+   "question": "Price change of a commodity is defined as the absolute difference between the ending and beginning prices, expressed as a percentage of the beginning price. Which commodity has the highest price change?",
+   "options": [
+    "Arhar",
+    "Pepper",
+    "Sugar",
+    "Gold",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "Price change: Arhar = (2150-1700)/1700 = 26.5%; Pepper = (19250-18500)/18500 = 4%; Sugar = |1435-1440|/1440 = 0.3%; Gold = |3840-4240|/4240 = 9.4%. Arhar has the highest price change.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q099",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set15",
+   "question": "Price Volatility (PV) of a commodity is defined as (highest price - lowest price)/average price, where average price = (highest + lowest + ending + beginning price)/4. Which commodity has the lowest price volatility?",
+   "options": [
+    "Arhar",
+    "Pepper",
+    "Sugar",
+    "Gold",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "Average prices: Arhar=(2300+1500+2150+1700)/4=1912.5, PV=800/1912.5=0.42. Pepper: average=18662.5, PV=2100/18662.5=0.11. Sugar: average=(1500+1410+1435+1440)/4=1446.25, PV=90/1446.25=0.06. Gold: average=4045, PV=500/4045=0.12. Sugar has the lowest volatility.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q100",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains15-set15",
+   "question": "Mr. X, a fund manager, invested 25% of his funds in each of the four commodities at the beginning of the period and sold all of them at the end of the period. His investments resulted in:",
+   "options": [
+    "17% profit",
+    "5.5% loss",
+    "no profit, no loss",
+    "5.4% profit",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "Since each commodity gets an equal 25% share, the overall result is the simple average of the four individual percentage changes: Arhar +26.5%, Pepper +4%, Sugar -0.3%, Gold -9.4%. Net = 26.5+4-0.3-9.4 = 20.8; average = 20.8/4 = 5.2%, closest to the 5.4% profit option.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q101",
+   "stage": "mains",
+   "section": "english",
+   "topic": "error-spotting",
+   "difficulty": 2,
+   "question": "Read the sentence to find out whether there is any error in it. The error, if any, will be in one part of the sentence; the letter of that part is the answer. If there is no error, the answer is (e).\nShe asked me (a)/ Where I was going to (b)/ and what I had done (c)/ the previous day. (d)/ No error (e)",
+   "options": [
+    "(a)",
+    "(b)",
+    "(c)",
+    "(d)",
+    "No error"
+   ],
+   "correct": 1,
+   "explanation": "'to' is superfluous after 'Where I was going' - it should simply be 'Where I was going'. The error is in part (b).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q102",
+   "stage": "mains",
+   "section": "english",
+   "topic": "error-spotting",
+   "difficulty": 2,
+   "question": "Read the sentence to find out whether there is any error in it. The error, if any, will be in one part of the sentence; the letter of that part is the answer. If there is no error, the answer is (e).\nYesterday in the night (a)/ he came (b)/ by bus (c)/ and was disturbed. (d)/ No error (e)",
+   "options": [
+    "(a)",
+    "(b)",
+    "(c)",
+    "(d)",
+    "No error"
+   ],
+   "correct": 0,
+   "explanation": "'Yesterday in the night' is an awkward, non-idiomatic construction; it should be replaced by 'Last night'. The error is in part (a).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q103",
+   "stage": "mains",
+   "section": "english",
+   "topic": "error-spotting",
+   "difficulty": 2,
+   "question": "Read the sentence to find out whether there is any error in it. The error, if any, will be in one part of the sentence; the letter of that part is the answer. If there is no error, the answer is (e).\nWithin two hours (a)/ we will approach (b)/ near Agra (c)/ by car. (d)/ No error (e)",
+   "options": [
+    "(a)",
+    "(b)",
+    "(c)",
+    "(d)",
+    "No error"
+   ],
+   "correct": 2,
+   "explanation": "'approach near' is redundant/incorrect usage - 'approach' should not be followed by 'near'; it should read 'we will be approaching Agra'. The error is in part (c).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q104",
+   "stage": "mains",
+   "section": "english",
+   "topic": "error-spotting",
+   "difficulty": 2,
+   "question": "Read the sentence to find out whether there is any error in it. The error, if any, will be in one part of the sentence; the letter of that part is the answer. If there is no error, the answer is (e).\nThroughout the whole year (a)/ there was (b)/ not a single day (c)/ without any incidence of violence. (d)/ No error (e)",
+   "options": [
+    "(a)",
+    "(b)",
+    "(c)",
+    "(d)",
+    "No error"
+   ],
+   "correct": 0,
+   "explanation": "'Throughout the whole year' is redundant - 'throughout the year' already conveys the entirety, so 'whole' is superfluous. The error is in part (a).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q105",
+   "stage": "mains",
+   "section": "english",
+   "topic": "error-spotting",
+   "difficulty": 2,
+   "question": "Read the sentence to find out whether there is any error in it. The error, if any, will be in one part of the sentence; the letter of that part is the answer. If there is no error, the answer is (e).\nThe P.M. said (a)/ that it was his decision (b)/ and that nobody (c)/ could get it changed. (d)/ No error (e)",
+   "options": [
+    "(a)",
+    "(b)",
+    "(c)",
+    "(d)",
+    "No error"
+   ],
+   "correct": 2,
+   "explanation": "The second 'that' (before 'nobody') is superfluous when the clauses are joined by 'and' - it should read 'and nobody could get it changed'. The error is in part (c).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q106",
+   "stage": "mains",
+   "section": "english",
+   "topic": "fillers",
+   "difficulty": 2,
+   "question": "Each sentence below has two blank spaces. Choose the pair of words that fits both blanks, in sequence, to make the sentence grammatically correct.\nThe ___________ you work, the ___________ for your prosperity.",
+   "options": [
+    "more, best",
+    "least, best",
+    "harder, better",
+    "decent, brightest",
+    "better, brighter"
+   ],
+   "correct": 2,
+   "explanation": "This is a comparative construction ('The harder..., the better...'), matching the standard 'the more X, the more Y' pattern.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q107",
+   "stage": "mains",
+   "section": "english",
+   "topic": "fillers",
+   "difficulty": 2,
+   "question": "Each sentence below has two blank spaces. Choose the pair of words that fits both blanks, in sequence, to make the sentence grammatically correct.\n___________ you need a duplicate ration card, you must submit the ___________ of your residence.",
+   "options": [
+    "Should, proof",
+    "If, numbers",
+    "Had, guarantee",
+    "Do, number",
+    "Would, document"
+   ],
+   "correct": 0,
+   "explanation": "'Should you need...' is a conditional inversion equivalent to 'If you need...', and 'proof of residence' is the correct standard phrase.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q108",
+   "stage": "mains",
+   "section": "english",
+   "topic": "fillers",
+   "difficulty": 2,
+   "question": "Each sentence below has two blank spaces. Choose the pair of words that fits both blanks, in sequence, to make the sentence grammatically correct.\nIt was my ___________ that ___________ to the serious problem.",
+   "options": [
+    "desire, brought",
+    "negligence, led",
+    "fault, lauded",
+    "mistake, subjected",
+    "decision, put"
+   ],
+   "correct": 1,
+   "explanation": "'negligence' logically 'led to' a serious problem - this pairing fits both the meaning and the idiom ('led to a problem').",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q109",
+   "stage": "mains",
+   "section": "english",
+   "topic": "fillers",
+   "difficulty": 2,
+   "question": "Each sentence below has two blank spaces. Choose the pair of words that fits both blanks, in sequence, to make the sentence grammatically correct.\nBecause he was ___________ he left the party earlier and ___________ home.",
+   "options": [
+    "tired, brought",
+    "precarious, approached",
+    "preoccupied, sent",
+    "ill, contacted",
+    "unwell, returned"
+   ],
+   "correct": 4,
+   "explanation": "'unwell' explains leaving early, and 'returned home' is the natural, idiomatic completion.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q110",
+   "stage": "mains",
+   "section": "english",
+   "topic": "fillers",
+   "difficulty": 2,
+   "question": "Each sentence below has two blank spaces. Choose the pair of words that fits both blanks, in sequence, to make the sentence grammatically correct.\nAn impartial person ___________ others without any ___________ .",
+   "options": [
+    "likes, reservation",
+    "judges, bias",
+    "blames, prudence",
+    "praises, point",
+    "wishes, malice"
+   ],
+   "correct": 1,
+   "explanation": "An impartial person 'judges others without any bias' - this pairing directly reflects the meaning of 'impartial'.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q111",
+   "stage": "mains",
+   "section": "english",
+   "topic": "phrase-replacement",
+   "difficulty": 2,
+   "question": "Choose the phrase that should replace the bold/underlined phrase to make the sentence grammatically correct. If the sentence is already correct, choose 'No correction required'.\nThe Governor has a good collection of paintings adoring the walls of the Raj Bhavan.",
+   "options": [
+    "painting adoring the wall",
+    "painting adoring the walls",
+    "painting sticking the walls",
+    "painting adorning the walls",
+    "No correction required"
+   ],
+   "correct": 3,
+   "explanation": "'Adoring' (loving) is the wrong word here - the intended word is 'adorning' (decorating). 'Paintings adorning the walls' is correct.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q112",
+   "stage": "mains",
+   "section": "english",
+   "topic": "phrase-replacement",
+   "difficulty": 2,
+   "question": "Choose the phrase that should replace the bold/underlined phrase to make the sentence grammatically correct. If the sentence is already correct, choose 'No correction required'.\nThe principals and teachers at the selected English Medium School were contacted.",
+   "options": [
+    "of the selected English Medium",
+    "at the select English Medium",
+    "upon the selected English Medium",
+    "of the section English Medium",
+    "No correction required"
+   ],
+   "correct": 1,
+   "explanation": "'select' (meaning choice/elite) is the intended word rather than 'selected', and 'at' is the correct preposition here, giving 'at the select English Medium School'.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q113",
+   "stage": "mains",
+   "section": "english",
+   "topic": "phrase-replacement",
+   "difficulty": 2,
+   "question": "Choose the phrase that should replace the bold/underlined phrase to make the sentence grammatically correct. If the sentence is already correct, choose 'No correction required'.\nBesides these norms, the data was also analyzed to form the sub groups.",
+   "options": [
+    "the data had analyzed also",
+    "the data were also concluded",
+    "the data were also analyzed",
+    "an data were analyzed also",
+    "No correction required"
+   ],
+   "correct": 2,
+   "explanation": "'Data' is treated as plural in formal usage, so it should take 'were', not 'was' - giving 'the data were also analyzed'.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q114",
+   "stage": "mains",
+   "section": "english",
+   "topic": "phrase-replacement",
+   "difficulty": 1,
+   "question": "Choose the phrase that should replace the bold/underlined phrase to make the sentence grammatically correct. If the sentence is already correct, choose 'No correction required'.\nHe does not know the Mount Everest is the Most highest mountain peak.",
+   "options": [
+    "is a more highest mountain",
+    "is the most high mountain",
+    "is the higher mountain",
+    "is the highest mountain",
+    "No correction required"
+   ],
+   "correct": 3,
+   "explanation": "'Most highest' is a double superlative error; the correct superlative form is simply 'the highest mountain'.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q115",
+   "stage": "mains",
+   "section": "english",
+   "topic": "phrase-replacement",
+   "difficulty": 2,
+   "question": "Choose the phrase that should replace the bold/underlined phrase to make the sentence grammatically correct. If the sentence is already correct, choose 'No correction required'.\nWalking in the morning in open air is being observed to be better for the health of the people who live in congestion.",
+   "options": [
+    "was observer the best",
+    "had been proved far better",
+    "has been observed good",
+    "was proved far better",
+    "No correction required"
+   ],
+   "correct": 4,
+   "explanation": "The original sentence is already grammatically correct as it stands - no correction is required.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q116",
+   "stage": "mains",
+   "section": "english",
+   "topic": "cloze-test",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set16",
+   "question": "Fill blank 116.",
+   "options": [
+    "to",
+    "with",
+    "from",
+    "by",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "'Delinking of jobs from degrees' is the correct idiomatic phrase (delink X from Y).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q117",
+   "stage": "mains",
+   "section": "english",
+   "topic": "cloze-test",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set16",
+   "question": "Fill blank 117.",
+   "options": [
+    "factors",
+    "features",
+    "reasons",
+    "methods",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "'One of the salient features' is the standard collocation with 'salient'.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q118",
+   "stage": "mains",
+   "section": "english",
+   "topic": "cloze-test",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set16",
+   "question": "Fill blank 118.",
+   "options": [
+    "process",
+    "system",
+    "procedures",
+    "policy",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "'Our education system' is the natural phrase for describing the structure of education in a country.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q119",
+   "stage": "mains",
+   "section": "english",
+   "topic": "cloze-test",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set16",
+   "question": "Fill blank 119.",
+   "options": [
+    "fall",
+    "rise",
+    "down",
+    "decrease",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "'A steep fall' pairs correctly with the adjective 'steep' and fits the context of declining standards.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q120",
+   "stage": "mains",
+   "section": "english",
+   "topic": "cloze-test",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set16",
+   "question": "Fill blank 120.",
+   "options": [
+    "evaluation",
+    "assessment",
+    "result",
+    "competence",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "A fall in 'competence' in the academic field fits the context of declining educational standards.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q121",
+   "stage": "mains",
+   "section": "english",
+   "topic": "cloze-test",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set16",
+   "question": "Fill blank 121.",
+   "options": [
+    "flood",
+    "growth",
+    "increase",
+    "slope",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "'A flood of degree holders' conveys an overwhelming excess, matching the passage's point about devalued degrees.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q122",
+   "stage": "mains",
+   "section": "english",
+   "topic": "cloze-test",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set16",
+   "question": "Fill blank 122.",
+   "options": [
+    "falling",
+    "diminishing",
+    "rising",
+    "growing",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "The number of students has been 'steadily rising', consistent with the earlier statement about a flood of degree holders.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q123",
+   "stage": "mains",
+   "section": "english",
+   "topic": "cloze-test",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set16",
+   "question": "Fill blank 123.",
+   "options": [
+    "lines",
+    "long",
+    "rows",
+    "queues",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "Graduates 'standing in queues' waiting for jobs is the idiomatic phrase for waiting in line for opportunities.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q124",
+   "stage": "mains",
+   "section": "english",
+   "topic": "cloze-test",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set16",
+   "question": "Fill blank 124.",
+   "options": [
+    "managerial",
+    "nice",
+    "prestigious",
+    "available",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "Graduates waiting to get 'prestigious jobs' fits the context of degree-holders seeking desirable employment.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q125",
+   "stage": "mains",
+   "section": "english",
+   "topic": "cloze-test",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set16",
+   "question": "Fill blank 125.",
+   "options": [
+    "vacate",
+    "posted",
+    "created",
+    "available",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "Waiting to get jobs 'available in the country' completes the sentence naturally.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q126",
+   "stage": "mains",
+   "section": "english",
+   "topic": "para-jumbles",
+   "difficulty": 2,
+   "question": "Rearrange P, Q, R, S between the fixed first and last sentences to form the most logical paragraph.\nS1: There are numerous kinds of superstitions in different parts of the country.\nP: But people go on respecting it through force of blind custom.\nQ: Most of them have a bearing on 'luck' - good or bad.\nR: Superstitions usually have their origin in fear and ignorance.\nS: Nobody remembers now how a superstition first started in remote ages.\nS6: A dog's howling predicts death - this is a typical superstition.",
+   "options": [
+    "QPRS",
+    "RSPQ",
+    "RSQP",
+    "QSPR",
+    "PRSQ"
+   ],
+   "correct": 3,
+   "explanation": "Logical flow: Q follows S1 ('Most of them' refers back to the numerous superstitions - most concern luck) -> S (nobody now remembers how a superstition first started) -> P (yet people go on respecting it through blind custom) -> R (superstitions have their origin in fear and ignorance) -> S6 (typical example: a dog's howling predicts death). Sequence: QSPR.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q127",
+   "stage": "mains",
+   "section": "english",
+   "topic": "para-jumbles",
+   "difficulty": 2,
+   "question": "Rearrange P, Q, R, S between the fixed first and last sentences to form the most logical paragraph.\nS1: A spider's web, after a shower of rain, is a very beautiful thing.\nP: This partly explains why spiders are thoroughly disliked.\nQ: But no poet has ever sung of the beauty of the spiders, for most spiders are not beautiful.\nR: On the contrary, most of them are rather unattractive, if not ugly!\nS: Poets have sung about the beauty of the spider's webs, comparing the water drops on them to ropes of pearls.\nS6: They are also feared because their bites may have unpleasant effects like a rash on the skin.",
+   "options": [
+    "SPQR",
+    "QSRP",
+    "QRSP",
+    "SQRP",
+    "PQRS"
+   ],
+   "correct": 3,
+   "explanation": "Logical flow: S (poets praised the web's beauty) -> Q (but not the spiders themselves, which are not beautiful) -> R (in fact most are unattractive/ugly) -> P (this explains why spiders are disliked) -> S6 (also feared for their bites). Sequence: SQRP.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q128",
+   "stage": "mains",
+   "section": "english",
+   "topic": "para-jumbles",
+   "difficulty": 2,
+   "question": "Rearrange P, Q, R, S between the fixed first and last sentences to form the most logical paragraph.\nS1: Unhappiness and discontent spring not only from poverty.\nP: Man is a strange creature fundamentally different from other animals.\nQ: If they are undeveloped and unsatisfied, he may have all the comforts of wealth, but will still feel that life is not worthwhile.\nR: He has far horizons, invariable hopes, spiritual powers.\nS: What is missing in our age is the soul; there is nothing wrong with the body.\nS6: We suffer from sickness of spirit and hence we should discover our roots in the internal.",
+   "options": [
+    "PRQS",
+    "SPRQ",
+    "SPQR",
+    "PRSQ",
+    "QSRP"
+   ],
+   "correct": 0,
+   "explanation": "Logical flow: P (man is fundamentally different from animals) -> R (he has far horizons, hopes, spiritual powers) -> Q (if these remain undeveloped, wealth alone doesn't satisfy) -> S (what's missing is the soul, not the body) -> S6 (we suffer sickness of spirit, must look within). Sequence: PRQS.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q129",
+   "stage": "mains",
+   "section": "english",
+   "topic": "para-jumbles",
+   "difficulty": 2,
+   "question": "Rearrange P, Q, R, S between the fixed first and last sentences to form the most logical paragraph.\nS1: On vacation in Tangier, Morocco, my friend and I sat down at a street cafe.\nP: At one point, he bent over with a big smile, showing me a single gold tooth and dingy fez.\nQ: Soon I felt the presence of someone standing alongside me.\nR: But this one wouldn't budge.\nS: We had been cautioned about beggars and were told to ignore them.\nS6: Finally a man walked over to me and whispered, 'Hey buddy... This guy is your waiter and he wants your order.'",
+   "options": [
+    "SQRP",
+    "SQPR",
+    "QSRP",
+    "QSPR",
+    "PRQS"
+   ],
+   "correct": 2,
+   "explanation": "Logical flow: Q follows S1 (soon I felt someone standing alongside me) -> S (we had been cautioned about beggars and told to ignore them) -> R (but this one wouldn't budge) -> P (at one point he bent over with a big smile, showing a gold tooth) -> S6 (finally a man clarified he was the waiter). Sequence: QSRP.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q130",
+   "stage": "mains",
+   "section": "english",
+   "topic": "para-jumbles",
+   "difficulty": 2,
+   "question": "Rearrange P, Q, R, S between the fixed first and last sentences to form the most logical paragraph.\nS1: In 1934, William Golding published a small volume of poems.\nP: During World War II (1939-45) he joined the Royal Navy and was present at the sinking of the Bismarck.\nQ: He returned to teaching in 1945 and gave it up in 1962, and is now a full-time writer.\nR: In 1939, he married and started teaching at Bishop Wordsworth's School in Salisbury.\nS: At first his novels were not accepted.\nS6: But 'Lord of the Flies', which came out in 1954, was welcomed as 'a most absorbing and instructive tale'.",
+   "options": [
+    "RPQS",
+    "RPSQ",
+    "SRPQ",
+    "SQPR",
+    "RQPS"
+   ],
+   "correct": 0,
+   "explanation": "Logical flow (chronological): R (1939: married, started teaching) -> P (WWII service, 1939-45) -> Q (returned to teaching 1945, gave it up 1962, became a writer) -> S (at first his novels were rejected) -> S6 (but Lord of the Flies, 1954, was well received). Sequence: RPQS.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q131",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set17",
+   "question": "The expression 'customs and ceremonies' means:",
+   "options": [
+    "fairs and festivals",
+    "habits and traditions",
+    "usual practices and religious rites",
+    "superstitions and formalities",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "In the context of communities and castes carrying out their 'customs and ceremonies', the phrase refers to their usual practices and religious rites.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q132",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set17",
+   "question": "A suitable title for the passage would be:",
+   "options": [
+    "the function of the army",
+    "laws and the people's rights",
+    "the fear of the law and citizen's security",
+    "the functions of the police",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "The passage is centrally about the force (the police) that enforces laws in normal times, protects citizens and compels bad citizens to obey - so 'the functions of the police' is the apt title.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q133",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set17",
+   "question": "Which of the following is not implied in the passage?",
+   "options": [
+    "Law protects those who respect it",
+    "Law ensures people's religious and social rights absolutely and unconditionally",
+    "A criminal is deterred from committing crimes only for fear of the law",
+    "The forces of law help to transform irresponsible citizens into responsible ones",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "The passage protects communal customs only 'so long as they do not conflict with the rights of others' - i.e., conditionally. So the claim that rights are ensured absolutely and unconditionally is NOT implied; the other statements are.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q134",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains15-set17",
+   "question": "According to the writer, which one of the following is not the responsibility of the police?",
+   "options": [
+    "To protect the privileges of all citizens",
+    "To check violent activities of citizens",
+    "To ensure peace among citizens by safeguarding individual rights",
+    "To maintain peace during extraordinary circumstances",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "The book's key marks (c). Note, however, that per the passage maintaining order in abnormal/extraordinary times is described as the army's role, so option (d) is also strongly arguable; the key's choice presumably reads 'safeguarding individual rights' as the job of the laws themselves rather than the police. Keeping the book's answer.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq",
+    "book-typo-suspect"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q135",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set17",
+   "question": "Which of the following reflects the main thrust of the passage?",
+   "options": [
+    "It deals with the importance of the army in maintaining law and order",
+    "It highlights the role of the police as superior to that of the army",
+    "It discusses the roles of the army and the police in different circumstances",
+    "It points to the responsibility of the Minister and the Inspector General of Police",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "The passage contrasts the army's role in abnormal times with the police's role in normal times - it discusses the roles of both in different circumstances.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q136",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set17",
+   "question": "'They are made to secure the property of citizens against theft and damage' means that the law:",
+   "options": [
+    "helps in recovering the stolen property of the citizens",
+    "assists the citizens whose property has been stolen or destroyed",
+    "initiates process against offenders of law",
+    "safeguards people's possessions against being stolen or lost",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "'Secure property against theft and damage' means the law safeguards people's possessions from being stolen or lost - a protective (preventive) function, not recovery after the fact.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q137",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set17",
+   "question": "Out of the following, which one has the opposite meaning to the word 'restrained' as used in the passage?",
+   "options": [
+    "Promoted",
+    "Accelerated",
+    "Intruded",
+    "Inhibited",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "'Restrained' here means held back or checked; its opposite in this context is 'accelerated' (urged forward/speeded up), per the book's key. 'Inhibited' is a synonym, not an antonym.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q138",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains15-set17",
+   "question": "Which one of the following statements is implied in the passage?",
+   "options": [
+    "Peaceful citizens seldom violate the law, but bad citizens have to be restrained by the police",
+    "Criminals, who flout the law, are seldom brought to book",
+    "The police hardly succeed in converting bad citizens into good citizens",
+    "The police check the citizens, whether they are good or bad, and stop them from violating the law",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "The book's key marks (d) - the force watches over all citizens and stops violations of the law. Note that option (a) also tracks the passage closely (good citizens obey freely, bad ones are restrained by fear); the key nonetheless prefers (d). Keeping the book's answer.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq",
+    "book-typo-suspect"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q139",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set17",
+   "question": "Which of the following statements expresses most accurately the idea contained in the first sentence?",
+   "options": [
+    "It is the job of the army to ensure internal peace at all times",
+    "It is the police that should always enforce law and order in the country",
+    "Army and the police ensure people's security through combined operations",
+    "It is in exceptional circumstances that the army has to ensure peace in the country",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "The first sentence says the army maintains law and order in abnormal times - i.e., the army steps in only in exceptional circumstances.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q140",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set17",
+   "question": "The last sentence of the passage implies that:",
+   "options": [
+    "The Inspector General of Police is the sole authority in matters of law and order",
+    "In every State maintenance of public peace is under the overall control of the responsible Minister",
+    "A Minister and a responsible State Assembly exercise direct authority in matters pertaining to law and order",
+    "The Inspector General of Police is responsible to the State Assembly for maintaining law and order",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "The last sentence places supreme control of law and order with a Minister (answerable to the State Assembly) who acts through the Inspector-General of Police - i.e., overall control rests with the responsible Minister.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q141",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set18",
+   "question": "Among the many groups of students in American colleges, Asian students:",
+   "options": [
+    "are often written about in magazines like News Week",
+    "are most successful academically",
+    "have proved that they are as good as the whites",
+    "have only a minority status like the blacks",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "The passage states Asian students outperform both other minority groups and the white majority, i.e. they have proved they are as good as (in fact better than) the whites.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q142",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set18",
+   "question": "The students of Asian origin in America include:",
+   "options": [
+    "a fair number from India",
+    "a small group from India",
+    "persons from India who are very proud",
+    "Indians who are the most hard working of all",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "The passage says 'many of these students must be of Indian origin', implying a fair/substantial number are Indian.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q143",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set18",
+   "question": "In general, the talented young Indians studying in America:",
+   "options": [
+    "have a reputation for being hard working",
+    "have the opportunity to contribute to India's development",
+    "can solve the brain drain problem because of recent changes in policy",
+    "will not return to pursue their careers in India",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "The passage explicitly says it is unlikely that these talented youngsters will come back to India - the familiar brain drain problem.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q144",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set18",
+   "question": "There is talk now of the 'brain bank'. This idea:",
+   "options": [
+    "is a solution to the brain drain problem",
+    "is a new problem caused partly by the brain drain",
+    "is a new way of looking at the role of qualified Indians living abroad",
+    "is based on a plan to utilize foreign exchange remittances to stimulate research and development",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "'Brain bank' is presented as a reframing - a new perspective on how to view the expertise of Indians settled abroad (deposited elsewhere, not lost), rather than a concrete solution or policy plan.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q145",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set18",
+   "question": "The brain bank has limitations like all banks in the sense that:",
+   "options": [
+    "a bank's services go mainly to those near it",
+    "small neighbourhood banks are not visible in this age of multinationals",
+    "only what is deposited can be withdrawn and utilized",
+    "no one can be forced to put his assets in a bank",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "The passage compares the brain bank to an ordinary bank that 'primarily serves customers in its neighbourhood' - i.e. a bank's services mainly benefit those close to it (here, the USA rather than India).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q146",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set18",
+   "question": "The author feels that what non-resident Indians do for India:",
+   "options": [
+    "will have many useful side effects",
+    "will not be their main interest and concern",
+    "can benefit other Asian countries as a by-product",
+    "can American colleges be of service to the world community",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "The passage says what NRIs do for India is 'only a by-product' - their main interest/concern lies with the country that benefits most from their skills (the USA), not India.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q147",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set18",
+   "question": "The performance of Indians when they go to study in the West:",
+   "options": [
+    "shows the fruits of hard work done by school teachers in India",
+    "should remind us that knowledge and wisdom are not limited by the boundaries of race and nation",
+    "is better than people in the West expect of non-whites",
+    "is better than what it would have been if they had studied in India",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "The passage says these students 'would have probably had a very different tale' had they studied in India, given the better facilities, elbow room, and competition they found abroad - implying their performance is better than it would have been in India.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q148",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set18",
+   "question": "The high level of competition faced by Asian students in America:",
+   "options": [
+    "helps them overcome their lazy habits",
+    "makes them lazy since the facilities there are good",
+    "makes them worried about failing",
+    "helps them prove that they are as good as whites",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "The book's key marks (d). The passage's own wording ('competition ... must have cured mental and physical laziness') more directly supports option (a); the key nonetheless prefers (d), likely reading the competition as the mechanism by which they end up matching/outperforming white students. Keeping the book's answer.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq",
+    "book-typo-suspect"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q149",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set18",
+   "question": "The author feels that some of the conditions other than the level of facilities that make the West attractive:",
+   "options": [
+    "are available in India but young people do not appreciate them",
+    "can never be found here because we believe in conformity",
+    "can be created if our attitudes and values change",
+    "can also give respectability to our traditions and customs",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "The passage says the other advantages found in America 'can be obtained here if we achieve a change in social attitudes' - i.e. they can be created if our attitudes and values change.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q150",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains15-set18",
+   "question": "One of the ways of making the situation in India better would be:",
+   "options": [
+    "to eliminate flattery from public life",
+    "to distinguish between conformity and respectability",
+    "to give appreciation and not be tightfisted",
+    "to encourage people and not merely flatter them",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "The book's key marks (c). This tracks the passage's closing call to 'value individuals ... more than conformity and respectability' and to 'learn the language of encouragement' rather than mere flattery - i.e. to be generous with genuine appreciation. Option (d) restates the same idea almost as closely; the key prefers (c). Keeping the book's answer.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq",
+    "book-typo-suspect"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q151",
+   "stage": "mains",
+   "section": "general",
+   "topic": "current-affairs",
+   "difficulty": 2,
+   "question": "PM Narendra Modi launched which bank-linked digital initiative in India?",
+   "options": [
+    "HDFC",
+    "ICICI",
+    "SBI",
+    "PNB",
+    "Indian"
+   ],
+   "correct": 1,
+   "explanation": "In April 2015, PM Modi inaugurated ICICI Bank's 'Digital Village' initiative at Akodara in Gujarat, promoted as India's first fully digital village.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq",
+    "dated-ca"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q152",
+   "stage": "mains",
+   "section": "general",
+   "topic": "static-gk",
+   "difficulty": 2,
+   "question": "LIC (Life Insurance Corporation of India) started its overseas business in which country?",
+   "options": [
+    "Nepal",
+    "Myanmar",
+    "Bangladesh",
+    "Bhutan",
+    "Sri Lanka"
+   ],
+   "correct": 2,
+   "explanation": "As per the answer key, LIC's overseas operations are recorded as having started in Bangladesh, one of the earliest countries where it opened business.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq",
+    "static-gk"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q153",
+   "stage": "mains",
+   "section": "general",
+   "topic": "current-affairs",
+   "difficulty": 2,
+   "question": "Who was named the CEAT International Cricketer of the Year for 2015?",
+   "options": [
+    "M S Dhoni",
+    "Rahul Dravid",
+    "Virat Kohli",
+    "Kumar Sangakkara",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "Kumar Sangakkara, who had a standout 2015 World Cup with four consecutive centuries, was named CEAT International Cricketer of the Year in 2015.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq",
+    "dated-ca"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q154",
+   "stage": "mains",
+   "section": "general",
+   "topic": "static-gk",
+   "difficulty": 1,
+   "question": "Where is Jim Corbett National Park located?",
+   "options": [
+    "Uttar Pradesh",
+    "Odisha",
+    "Bihar",
+    "Madhya Pradesh",
+    "Uttarakhand"
+   ],
+   "correct": 4,
+   "explanation": "Jim Corbett National Park, India's oldest national park, is located in Uttarakhand (Nainital district).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq",
+    "static-gk"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q155",
+   "stage": "mains",
+   "section": "general",
+   "topic": "static-gk",
+   "difficulty": 1,
+   "question": "The Omkareshwar Dam is located on which river?",
+   "options": [
+    "Tapti",
+    "Ravi",
+    "Ganga",
+    "Narmada",
+    "Satluj"
+   ],
+   "correct": 3,
+   "explanation": "The Omkareshwar Dam is built across the Narmada river in Madhya Pradesh.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq",
+    "static-gk"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q156",
+   "stage": "mains",
+   "section": "general",
+   "topic": "current-affairs",
+   "difficulty": 2,
+   "question": "Which country recently launched the first ATM with face recognition technology?",
+   "options": [
+    "China",
+    "Nepal",
+    "India",
+    "Sri Lanka",
+    "Bangladesh"
+   ],
+   "correct": 0,
+   "explanation": "Around 2015, Chinese banks piloted facial-recognition ATMs (using technology from firms such as Face++), making China the reported first mover on this front.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq",
+    "dated-ca"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q157",
+   "stage": "mains",
+   "section": "general",
+   "topic": "static-gk",
+   "difficulty": 1,
+   "question": "What is the full form of BIOS?",
+   "options": [
+    "Basic Investment/Output System",
+    "Basic In/out System",
+    "Basic Input/Output System",
+    "Basic Input/Output Service",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "BIOS stands for Basic Input/Output System, the firmware used to perform hardware initialization during a computer's boot process.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq",
+    "static-gk"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q158",
+   "stage": "mains",
+   "section": "general",
+   "topic": "static-gk",
+   "difficulty": 1,
+   "question": "Agartala is the capital of which state?",
+   "options": [
+    "Tripura",
+    "Assam",
+    "Mizoram",
+    "Odisha",
+    "Nagaland"
+   ],
+   "correct": 0,
+   "explanation": "Agartala is the capital city of Tripura.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq",
+    "static-gk"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q159",
+   "stage": "mains",
+   "section": "general",
+   "topic": "static-gk",
+   "difficulty": 1,
+   "question": "Volkswagen Group and its subsidiaries form a ___________ multinational automotive manufacturing company.",
+   "options": [
+    "British",
+    "American",
+    "Chinese",
+    "German",
+    "Japanese"
+   ],
+   "correct": 3,
+   "explanation": "Volkswagen Group is a German multinational automotive manufacturer headquartered in Wolfsburg, Germany.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq",
+    "static-gk"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q160",
+   "stage": "mains",
+   "section": "general",
+   "topic": "banking-awareness",
+   "difficulty": 2,
+   "question": "In the Balance of Payments (BOP), unilateral transfer payments are included in which of the following?",
+   "options": [
+    "Current Account",
+    "Capital Account",
+    "Savings Accounts under Govt. Schemes",
+    "Official Reserve Accounts",
+    "All of them"
+   ],
+   "correct": 0,
+   "explanation": "Unilateral transfers (gifts, remittances, donations) are recorded under the Current Account of the Balance of Payments, along with trade in goods and services and income flows.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq",
+    "banking-awareness"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q161",
+   "stage": "mains",
+   "section": "general",
+   "topic": "current-affairs",
+   "difficulty": 2,
+   "question": "Who was selected as head coach of the India U-19 cricket team (around 2015)?",
+   "options": [
+    "Rahul Dravid",
+    "Sachin Tendulkar",
+    "Saurav Ganguly",
+    "Virender Sehwag",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "Rahul Dravid was appointed head coach/mentor of the India Under-19 (and India A) cricket teams around this period.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq",
+    "dated-ca"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q162",
+   "stage": "mains",
+   "section": "general",
+   "topic": "static-gk",
+   "difficulty": 2,
+   "question": "Where is the Katasraj temple located?",
+   "options": [
+    "India",
+    "Pakistan",
+    "Afghanistan",
+    "Nepal",
+    "Bangladesh"
+   ],
+   "correct": 1,
+   "explanation": "The Katasraj (Katas Raj) temple complex is located in the Chakwal district of Punjab province, Pakistan.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq",
+    "static-gk"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q163",
+   "stage": "mains",
+   "section": "general",
+   "topic": "financial-awareness",
+   "difficulty": 2,
+   "question": "Which of the following is not a part of the Money Market?",
+   "options": [
+    "Treasury Bill",
+    "Commercial Papers",
+    "Mutual Funds",
+    "Certificate of Deposits",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "Treasury bills, commercial papers and certificates of deposit are classic short-term money market instruments; mutual funds are pooled investment vehicles that may invest across markets and are not themselves a money market instrument.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq",
+    "financial-awareness"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q164",
+   "stage": "mains",
+   "section": "general",
+   "topic": "current-affairs",
+   "difficulty": 2,
+   "question": "The Nobel Prize in Chemistry 2014 was awarded to:",
+   "options": [
+    "Eric Betzig",
+    "Stefan W. Hell",
+    "William E. Moerner",
+    "All of the above",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "The 2014 Nobel Prize in Chemistry was jointly awarded to Eric Betzig, Stefan W. Hell and William E. Moerner for the development of super-resolved fluorescence microscopy.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq",
+    "dated-ca"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q165",
+   "stage": "mains",
+   "section": "general",
+   "topic": "current-affairs",
+   "difficulty": 2,
+   "question": "The Land Boundary Agreement between India and Bangladesh was ratified through the:",
+   "options": [
+    "120th amendment",
+    "100th amendment",
+    "117th amendment",
+    "112th amendment",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "The India-Bangladesh Land Boundary Agreement was implemented via the Constitution (100th Amendment) Act, 2015, enabling exchange of enclaves between the two countries.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq",
+    "dated-ca"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q166",
+   "stage": "mains",
+   "section": "general",
+   "topic": "current-affairs",
+   "difficulty": 2,
+   "question": "The sixty-eighth session of the World Health Assembly (WHA) took place in ___________, 18-26 May 2015.",
+   "options": [
+    "Geneva",
+    "Rome",
+    "Paris",
+    "Washington DC",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "The World Health Assembly, the decision-making body of the WHO, is held annually in Geneva, Switzerland - including its 68th session in May 2015.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq",
+    "dated-ca"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q167",
+   "stage": "mains",
+   "section": "general",
+   "topic": "financial-awareness",
+   "difficulty": 2,
+   "question": "What term is used for the maximum capital which a company can raise in its lifetime (as per its incorporation documents)?",
+   "options": [
+    "Authorized Capital",
+    "Registered Capital",
+    "Nominal Capital",
+    "All of them",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "The maximum capital a company can raise is known variously as Authorized Capital, Registered Capital or Nominal Capital - these are different names for the same concept as stated in the company's Memorandum of Association.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq",
+    "financial-awareness"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q168",
+   "stage": "mains",
+   "section": "general",
+   "topic": "current-affairs",
+   "difficulty": 2,
+   "question": "Which state government approved mandatory Global Positioning System (GPS) devices in all public transport vehicles from June 2015?",
+   "options": [
+    "Delhi",
+    "Madhya Pradesh",
+    "Odisha",
+    "Maharashtra",
+    "Punjab"
+   ],
+   "correct": 0,
+   "explanation": "The Delhi government mandated GPS devices (along with panic buttons) in all public transport vehicles from June 2015, as a passenger-safety measure.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq",
+    "dated-ca"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q169",
+   "stage": "mains",
+   "section": "general",
+   "topic": "current-affairs",
+   "difficulty": 2,
+   "question": "China signed a currency swap deal with which country (around 2015)?",
+   "options": [
+    "Sri Lanka",
+    "Russia",
+    "India",
+    "Chile",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "China signed a yuan-peso currency swap agreement with Chile in 2015, part of a broader push to internationalize the renminbi.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq",
+    "dated-ca"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q170",
+   "stage": "mains",
+   "section": "general",
+   "topic": "banking-awareness",
+   "difficulty": 2,
+   "question": "The concept of 'Universal Banking' was implemented in India on the recommendations of:",
+   "options": [
+    "Abid Hussain Committee",
+    "R H Khan Committee",
+    "S Padmanabhan Committee",
+    "Y H Malegam Committee",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "The R H Khan Committee (1997-98) recommended a move towards Universal Banking, where banks offer a full range of financial services including those traditionally done by development finance institutions.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq",
+    "banking-awareness"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q171",
+   "stage": "mains",
+   "section": "general",
+   "topic": "current-affairs",
+   "difficulty": 2,
+   "question": "Who headed the committee formed by SEBI to frame a single set of guidelines for all types of foreign investors?",
+   "options": [
+    "Prabhat Kumar",
+    "T.R. Prasad",
+    "K.M. Chandrashekhar",
+    "Kamal Pande",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "The K M Chandrashekhar Committee was set up to recommend rationalising and harmonising the various categories of foreign portfolio/institutional investors under a single framework.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq",
+    "dated-ca"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q172",
+   "stage": "mains",
+   "section": "general",
+   "topic": "banking-awareness",
+   "difficulty": 1,
+   "question": "The largest shareholder (by percentage shareholding) of a nationalized bank is:",
+   "options": [
+    "RBI",
+    "NABARD",
+    "LICI",
+    "Govt. of India",
+    "IBA"
+   ],
+   "correct": 3,
+   "explanation": "Nationalized (public sector) banks are majority-owned by the Government of India, which holds the largest shareholding stake in them.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq",
+    "banking-awareness"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q173",
+   "stage": "mains",
+   "section": "general",
+   "topic": "banking-awareness",
+   "difficulty": 2,
+   "question": "Which of the following organizations finances the Rural Infrastructure Development Fund (RIDF)?",
+   "options": [
+    "NABARD",
+    "SEBI",
+    "SIDBI",
+    "RBI",
+    "Govt. of India"
+   ],
+   "correct": 0,
+   "explanation": "The Rural Infrastructure Development Fund is administered and financed by NABARD (National Bank for Agriculture and Rural Development), funded via contributions from banks that fall short of their priority-sector lending targets.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq",
+    "banking-awareness"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q174",
+   "stage": "mains",
+   "section": "general",
+   "topic": "current-affairs",
+   "difficulty": 3,
+   "question": "Who is the author of the book 'Odyssey of My Life'?",
+   "options": [
+    "Karan Singh",
+    "Kwasi Kwarteng",
+    "James Astill",
+    "Shivraj V Patil",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "Per the answer key, 'Odyssey of My Life' is credited to Shivraj V Patil, the former Union Home Minister.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq",
+    "dated-ca"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q175",
+   "stage": "mains",
+   "section": "general",
+   "topic": "static-gk",
+   "difficulty": 1,
+   "question": "World Photography Day is observed on:",
+   "options": [
+    "19th August",
+    "22nd August",
+    "20th August",
+    "17th August",
+    "16th August"
+   ],
+   "correct": 0,
+   "explanation": "World Photography Day is observed every year on 19th August, commemorating the invention of the daguerreotype photographic process.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq",
+    "static-gk"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q176",
+   "stage": "mains",
+   "section": "general",
+   "topic": "banking-awareness",
+   "difficulty": 2,
+   "question": "Which of the following statements on Islamic banking is incorrect?\n(A) Islamic banking is only for Muslims\n(B) Islamic banking activity does not allow paying and receiving of interest\n(C) Islamic banking promotes the principle of profit sharing between the banking institution and the depositor",
+   "options": [
+    "Only A",
+    "Only B",
+    "Only C",
+    "Both B and C",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "Statement A is incorrect - Islamic banking follows Shariah-compliant principles but its products can be, and are, used by customers of any faith, not exclusively Muslims. Statements B (no interest) and C (profit-sharing) are correct descriptions of Islamic banking.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq",
+    "banking-awareness"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q177",
+   "stage": "mains",
+   "section": "general",
+   "topic": "financial-awareness",
+   "difficulty": 2,
+   "question": "The difference between the outflow and inflow of foreign currency (on account of current transactions) is known as:\n(A) Foreign Exchange Reserves\n(B) Current Account Deficit\n(C) Fiscal Deficit\n(D) Balance of Payments",
+   "options": [
+    "Only A",
+    "Only B",
+    "Only C",
+    "Only D",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "The gap between a country's outflow and inflow of foreign currency from current (trade, services, transfer) transactions is termed the Current Account Deficit.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq",
+    "financial-awareness"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q178",
+   "stage": "mains",
+   "section": "general",
+   "topic": "banking-awareness",
+   "difficulty": 2,
+   "question": "NABARD (National Bank for Agriculture and Rural Development) established JLGs to extract productive capability from the rural population. JLG stands for:",
+   "options": [
+    "Junior Link Group",
+    "Join Life Group",
+    "Joint Line Group",
+    "Joint Liability Group",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "JLG stands for Joint Liability Group, an informal group of individuals who come together to avail bank credit through mutual guarantee, as promoted by NABARD.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq",
+    "banking-awareness"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q179",
+   "stage": "mains",
+   "section": "general",
+   "topic": "financial-awareness",
+   "difficulty": 3,
+   "question": "What is MZM in the money market?",
+   "options": [
+    "Money with highest return",
+    "Money with zero maturity",
+    "Money with sovereign guarantee",
+    "Monetary base or total currency",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "MZM (Money of Zero Maturity) is a monetary aggregate that measures the supply of financial assets redeemable at par on demand, without a maturity period.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq",
+    "financial-awareness"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q190",
+   "stage": "mains",
+   "section": "general",
+   "topic": "banking-awareness",
+   "difficulty": 2,
+   "question": "The long term objective of marketing is:",
+   "options": [
+    "Customer satisfaction",
+    "Profit maximization",
+    "Cost cutting",
+    "Profit maximization with customer satisfaction",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "Sustainable marketing aims for profit maximization achieved through customer satisfaction, not profit alone or satisfaction alone.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q191",
+   "stage": "mains",
+   "section": "general",
+   "topic": "banking-awareness",
+   "difficulty": 2,
+   "question": "Zero-based budgeting (ZBB) means:",
+   "options": [
+    "A tool of marketing cost",
+    "a tool for financial analysis",
+    "each year, budgeting starts from a scratch",
+    "a certain percentage of sales",
+    "Both 1 & 2"
+   ],
+   "correct": 2,
+   "explanation": "In zero-based budgeting, every budgeting cycle starts from a 'zero base' - every expense must be justified afresh each year rather than simply carried forward from the previous year's budget.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q192",
+   "stage": "mains",
+   "section": "general",
+   "topic": "banking-awareness",
+   "difficulty": 2,
+   "question": "A marketing technique where the marketer plays a specific role in a particular segment is called:",
+   "options": [
+    "Mass Marketing",
+    "Niche marketing",
+    "Strategic Marketing",
+    "Communication Marketing",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "Focusing on a specific, well-defined segment of the market is known as niche marketing.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q193",
+   "stage": "mains",
+   "section": "general",
+   "topic": "banking-awareness",
+   "difficulty": 1,
+   "question": "In the Marketing Mix, the 4 P's imply:",
+   "options": [
+    "Product, Price, Place, Promotion",
+    "Product, Price, Policy, Place",
+    "Place, People, Product, Promotion",
+    "All of the above",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "The classic Marketing Mix 4 P's are Product, Price, Place and Promotion.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q194",
+   "stage": "mains",
+   "section": "general",
+   "topic": "banking-awareness",
+   "difficulty": 2,
+   "question": "Good marketing strategy envisages good and proper ___________.",
+   "options": [
+    "Product distribution",
+    "Networking of branches",
+    "High Pricing",
+    "Placement of counter staff",
+    "Relationship management"
+   ],
+   "correct": 4,
+   "explanation": "Good marketing strategy, especially in services like banking, centres on effective relationship management with customers.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q195",
+   "stage": "mains",
+   "section": "general",
+   "topic": "banking-awareness",
+   "difficulty": 2,
+   "question": "Marketing in banks has been necessitated due to:",
+   "options": [
+    "globalisation",
+    "excess staff",
+    "nationalisation of bank",
+    "complacency among the staff",
+    "poor customer service"
+   ],
+   "correct": 0,
+   "explanation": "Globalisation opened Indian banking to competition from foreign and private players, making active marketing necessary for banks to retain and grow their customer base.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q196",
+   "stage": "mains",
+   "section": "general",
+   "topic": "banking-awareness",
+   "difficulty": 1,
+   "question": "Innovation in marketing is the same as:",
+   "options": [
+    "Abbreviation",
+    "Communication",
+    "Creativity",
+    "Aspiration",
+    "Research work"
+   ],
+   "correct": 2,
+   "explanation": "Marketing innovation is fundamentally driven by creativity - devising new ideas, products or approaches.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q197",
+   "stage": "mains",
+   "section": "general",
+   "topic": "banking-awareness",
+   "difficulty": 2,
+   "question": "Effective Selling Skills depend on:",
+   "options": [
+    "Number of languages known to the DSA",
+    "Data on marketing staff",
+    "Information regarding IT market",
+    "Knowledge of related market",
+    "Ability to talk fast"
+   ],
+   "correct": 3,
+   "explanation": "Effective selling depends primarily on a salesperson's knowledge of the related market - understanding customer needs, competing products and market conditions.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q198",
+   "stage": "mains",
+   "section": "general",
+   "topic": "current-affairs",
+   "difficulty": 2,
+   "question": "The first CNG train was launched on which section?",
+   "options": [
+    "Delhi-Agra Section",
+    "Rohtak-Chandigarh Section",
+    "Delhi-Chandigarh Section",
+    "Rewari-Rohtak Section",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "India's first CNG-fitted train was launched on the Rewari-Rohtak section in Haryana, run by Northern Railway.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq",
+    "dated-ca"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q199",
+   "stage": "mains",
+   "section": "general",
+   "topic": "current-affairs",
+   "difficulty": 3,
+   "question": "As reported around 2015, name the Malaysian woman claimed to be among the world's oldest living persons.",
+   "options": [
+    "Nurul Yeoh",
+    "Yati Musdi",
+    "Michele Chia",
+    "Celine Choo",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "Per the answer key, this refers to a Malaysian woman, Yati Musdi, reported in the press around this time as a claimant to extreme old age; such regional longevity claims are often not independently verified by bodies like Guinness World Records.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq",
+    "dated-ca",
+    "book-typo-suspect"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains15-q200",
+   "stage": "mains",
+   "section": "general",
+   "topic": "current-affairs",
+   "difficulty": 2,
+   "question": "Which of the following was the theme of World Health Day 2015?",
+   "options": [
+    "Food Safety",
+    "Aging and Health",
+    "Water Safety",
+    "Small Bite, Big Threat",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "The World Health Organization's theme for World Health Day 2015 (7 April) was 'Food Safety'.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2015 (memory-based, Disha 32 book)",
+    "year": 2015
+   },
+   "tags": [
+    "pyq",
+    "dated-ca"
+   ]
+  }
+ ],
+ "paper": {
+  "id": "sbi-po-mains-2015",
+  "name": "SBI PO Mains 2015",
+  "exam": "sbi-po",
+  "stage": "mains",
+  "year": 2015,
+  "sections": [
+   {
+    "name": "Reasoning Ability",
+    "pool": "reasoning",
+    "minutes": 60,
+    "marksPerQuestion": 1,
+    "questionIds": [
+     "pyq-sbipo-mains15-q001",
+     "pyq-sbipo-mains15-q002",
+     "pyq-sbipo-mains15-q003",
+     "pyq-sbipo-mains15-q004",
+     "pyq-sbipo-mains15-q005",
+     "pyq-sbipo-mains15-q006",
+     "pyq-sbipo-mains15-q007",
+     "pyq-sbipo-mains15-q008",
+     "pyq-sbipo-mains15-q009",
+     "pyq-sbipo-mains15-q010",
+     "pyq-sbipo-mains15-q011",
+     "pyq-sbipo-mains15-q012",
+     "pyq-sbipo-mains15-q013",
+     "pyq-sbipo-mains15-q014",
+     "pyq-sbipo-mains15-q015",
+     "pyq-sbipo-mains15-q016",
+     "pyq-sbipo-mains15-q017",
+     "pyq-sbipo-mains15-q018",
+     "pyq-sbipo-mains15-q019",
+     "pyq-sbipo-mains15-q020",
+     "pyq-sbipo-mains15-q021",
+     "pyq-sbipo-mains15-q022",
+     "pyq-sbipo-mains15-q023",
+     "pyq-sbipo-mains15-q024",
+     "pyq-sbipo-mains15-q025",
+     "pyq-sbipo-mains15-q026",
+     "pyq-sbipo-mains15-q027",
+     "pyq-sbipo-mains15-q028",
+     "pyq-sbipo-mains15-q029",
+     "pyq-sbipo-mains15-q030",
+     "pyq-sbipo-mains15-q031",
+     "pyq-sbipo-mains15-q032",
+     "pyq-sbipo-mains15-q033",
+     "pyq-sbipo-mains15-q034",
+     "pyq-sbipo-mains15-q035",
+     "pyq-sbipo-mains15-q036",
+     "pyq-sbipo-mains15-q037",
+     "pyq-sbipo-mains15-q038",
+     "pyq-sbipo-mains15-q039",
+     "pyq-sbipo-mains15-q040",
+     "pyq-sbipo-mains15-q041",
+     "pyq-sbipo-mains15-q042",
+     "pyq-sbipo-mains15-q043",
+     "pyq-sbipo-mains15-q044",
+     "pyq-sbipo-mains15-q045",
+     "pyq-sbipo-mains15-q046",
+     "pyq-sbipo-mains15-q047",
+     "pyq-sbipo-mains15-q048",
+     "pyq-sbipo-mains15-q049",
+     "pyq-sbipo-mains15-q050"
+    ]
+   },
+   {
+    "name": "Data Analysis & Interpretation",
+    "pool": "quant",
+    "minutes": 60,
+    "marksPerQuestion": 1,
+    "questionIds": [
+     "pyq-sbipo-mains15-q051",
+     "pyq-sbipo-mains15-q052",
+     "pyq-sbipo-mains15-q053",
+     "pyq-sbipo-mains15-q054",
+     "pyq-sbipo-mains15-q055",
+     "pyq-sbipo-mains15-q056",
+     "pyq-sbipo-mains15-q057",
+     "pyq-sbipo-mains15-q058",
+     "pyq-sbipo-mains15-q059",
+     "pyq-sbipo-mains15-q060",
+     "pyq-sbipo-mains15-q061",
+     "pyq-sbipo-mains15-q062",
+     "pyq-sbipo-mains15-q063",
+     "pyq-sbipo-mains15-q064",
+     "pyq-sbipo-mains15-q065",
+     "pyq-sbipo-mains15-q066",
+     "pyq-sbipo-mains15-q067",
+     "pyq-sbipo-mains15-q068",
+     "pyq-sbipo-mains15-q069",
+     "pyq-sbipo-mains15-q070",
+     "pyq-sbipo-mains15-q071",
+     "pyq-sbipo-mains15-q072",
+     "pyq-sbipo-mains15-q073",
+     "pyq-sbipo-mains15-q074",
+     "pyq-sbipo-mains15-q075",
+     "pyq-sbipo-mains15-q076",
+     "pyq-sbipo-mains15-q077",
+     "pyq-sbipo-mains15-q078",
+     "pyq-sbipo-mains15-q079",
+     "pyq-sbipo-mains15-q080",
+     "pyq-sbipo-mains15-q081",
+     "pyq-sbipo-mains15-q082",
+     "pyq-sbipo-mains15-q083",
+     "pyq-sbipo-mains15-q084",
+     "pyq-sbipo-mains15-q085",
+     "pyq-sbipo-mains15-q086",
+     "pyq-sbipo-mains15-q087",
+     "pyq-sbipo-mains15-q088",
+     "pyq-sbipo-mains15-q089",
+     "pyq-sbipo-mains15-q090",
+     "pyq-sbipo-mains15-q091",
+     "pyq-sbipo-mains15-q092",
+     "pyq-sbipo-mains15-q093",
+     "pyq-sbipo-mains15-q094",
+     "pyq-sbipo-mains15-q095",
+     "pyq-sbipo-mains15-q096",
+     "pyq-sbipo-mains15-q097",
+     "pyq-sbipo-mains15-q098",
+     "pyq-sbipo-mains15-q099",
+     "pyq-sbipo-mains15-q100"
+    ]
+   },
+   {
+    "name": "English Language",
+    "pool": "english",
+    "minutes": 60,
+    "marksPerQuestion": 1,
+    "questionIds": [
+     "pyq-sbipo-mains15-q101",
+     "pyq-sbipo-mains15-q102",
+     "pyq-sbipo-mains15-q103",
+     "pyq-sbipo-mains15-q104",
+     "pyq-sbipo-mains15-q105",
+     "pyq-sbipo-mains15-q106",
+     "pyq-sbipo-mains15-q107",
+     "pyq-sbipo-mains15-q108",
+     "pyq-sbipo-mains15-q109",
+     "pyq-sbipo-mains15-q110",
+     "pyq-sbipo-mains15-q111",
+     "pyq-sbipo-mains15-q112",
+     "pyq-sbipo-mains15-q113",
+     "pyq-sbipo-mains15-q114",
+     "pyq-sbipo-mains15-q115",
+     "pyq-sbipo-mains15-q116",
+     "pyq-sbipo-mains15-q117",
+     "pyq-sbipo-mains15-q118",
+     "pyq-sbipo-mains15-q119",
+     "pyq-sbipo-mains15-q120",
+     "pyq-sbipo-mains15-q121",
+     "pyq-sbipo-mains15-q122",
+     "pyq-sbipo-mains15-q123",
+     "pyq-sbipo-mains15-q124",
+     "pyq-sbipo-mains15-q125",
+     "pyq-sbipo-mains15-q126",
+     "pyq-sbipo-mains15-q127",
+     "pyq-sbipo-mains15-q128",
+     "pyq-sbipo-mains15-q129",
+     "pyq-sbipo-mains15-q130",
+     "pyq-sbipo-mains15-q131",
+     "pyq-sbipo-mains15-q132",
+     "pyq-sbipo-mains15-q133",
+     "pyq-sbipo-mains15-q134",
+     "pyq-sbipo-mains15-q135",
+     "pyq-sbipo-mains15-q136",
+     "pyq-sbipo-mains15-q137",
+     "pyq-sbipo-mains15-q138",
+     "pyq-sbipo-mains15-q139",
+     "pyq-sbipo-mains15-q140",
+     "pyq-sbipo-mains15-q141",
+     "pyq-sbipo-mains15-q142",
+     "pyq-sbipo-mains15-q143",
+     "pyq-sbipo-mains15-q144",
+     "pyq-sbipo-mains15-q145",
+     "pyq-sbipo-mains15-q146",
+     "pyq-sbipo-mains15-q147",
+     "pyq-sbipo-mains15-q148",
+     "pyq-sbipo-mains15-q149",
+     "pyq-sbipo-mains15-q150"
+    ]
+   },
+   {
+    "name": "General Awareness",
+    "pool": "general",
+    "minutes": 60,
+    "marksPerQuestion": 1,
+    "questionIds": [
+     "pyq-sbipo-mains15-q151",
+     "pyq-sbipo-mains15-q152",
+     "pyq-sbipo-mains15-q153",
+     "pyq-sbipo-mains15-q154",
+     "pyq-sbipo-mains15-q155",
+     "pyq-sbipo-mains15-q156",
+     "pyq-sbipo-mains15-q157",
+     "pyq-sbipo-mains15-q158",
+     "pyq-sbipo-mains15-q159",
+     "pyq-sbipo-mains15-q160",
+     "pyq-sbipo-mains15-q161",
+     "pyq-sbipo-mains15-q162",
+     "pyq-sbipo-mains15-q163",
+     "pyq-sbipo-mains15-q164",
+     "pyq-sbipo-mains15-q165",
+     "pyq-sbipo-mains15-q166",
+     "pyq-sbipo-mains15-q167",
+     "pyq-sbipo-mains15-q168",
+     "pyq-sbipo-mains15-q169",
+     "pyq-sbipo-mains15-q170",
+     "pyq-sbipo-mains15-q171",
+     "pyq-sbipo-mains15-q172",
+     "pyq-sbipo-mains15-q173",
+     "pyq-sbipo-mains15-q174",
+     "pyq-sbipo-mains15-q175",
+     "pyq-sbipo-mains15-q176",
+     "pyq-sbipo-mains15-q177",
+     "pyq-sbipo-mains15-q178",
+     "pyq-sbipo-mains15-q179",
+     "pyq-sbipo-mains15-q180",
+     "pyq-sbipo-mains15-q181",
+     "pyq-sbipo-mains15-q182",
+     "pyq-sbipo-mains15-q183",
+     "pyq-sbipo-mains15-q184",
+     "pyq-sbipo-mains15-q185",
+     "pyq-sbipo-mains15-q186",
+     "pyq-sbipo-mains15-q187",
+     "pyq-sbipo-mains15-q188",
+     "pyq-sbipo-mains15-q189",
+     "pyq-sbipo-mains15-q190",
+     "pyq-sbipo-mains15-q191",
+     "pyq-sbipo-mains15-q192",
+     "pyq-sbipo-mains15-q193",
+     "pyq-sbipo-mains15-q194",
+     "pyq-sbipo-mains15-q195",
+     "pyq-sbipo-mains15-q196",
+     "pyq-sbipo-mains15-q197",
+     "pyq-sbipo-mains15-q198",
+     "pyq-sbipo-mains15-q199",
+     "pyq-sbipo-mains15-q200"
+    ]
+   }
+  ]
+ }
+}
