@@ -9,8 +9,6 @@ import mocksJson from '../data/mocks.json';
 
 export const syllabus = syllabusJson;
 export const tricks = tricksJson as Trick[];
-/** Curated fixed-paper mocks (reconstructed PYQ papers etc.) */
-export const curatedMocks = mocksJson as MockDef[];
 
 // Extracted previous-year banks: every JSON dropped into questions/pyq/ is merged automatically.
 const pyqModules = import.meta.glob('../data/questions/pyq/*.json', { eager: true }) as Record<
@@ -28,6 +26,21 @@ const allBanks: SectionBank[] = [
   general as SectionBank,
   ...pyqBanks,
 ];
+
+// Every extracted bank that carries paper metadata becomes an attemptable real paper.
+const paperMocks: MockDef[] = pyqBanks
+  .filter((b): b is SectionBank & { paper: NonNullable<SectionBank['paper']> } => !!b.paper)
+  .map((b) => ({
+    id: `paper-${b.paper.id}`,
+    name: b.paper.name,
+    stage: b.paper.stage,
+    description: `Memory-based real paper · ${b.paper.year}`,
+    sections: b.paper.sections.map((s) => ({ ...s, negativeFraction: 0.25 })),
+  }))
+  .sort((a, b) => b.name.localeCompare(a.name));
+
+/** Curated fixed-paper mocks: hand-curated (mocks.json) + auto-derived real papers */
+export const curatedMocks: MockDef[] = [...(mocksJson as MockDef[]), ...paperMocks];
 
 export const SECTION_META: Record<SectionId, { name: string; short: string }> = {
   english: { name: 'English Language', short: 'English' },

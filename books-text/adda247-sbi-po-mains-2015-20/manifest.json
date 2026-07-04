@@ -1,0 +1,41 @@
+{
+  "book": "adda247-sbi-po-mains-2015-20",
+  "papers": [
+    {
+      "id": "sbi-po-mains-2020-01",
+      "title": "SBI PO Mains 2020 (Memory Based)",
+      "exam": "sbi-po",
+      "stage": "mains",
+      "year": 2020,
+      "questionPages": [1, 16],
+      "solutionPages": [16, 29],
+      "sections": "Reasoning Ability (p1-5, Q1-45) -> Quantitative Aptitude (p6-10, Q46-80) -> English Language (p10-16, Q81-115). No General/Economy/Banking Awareness section and no Descriptive Test -- this paper is truncated/incomplete at 115 questions versus the ~155 expected for a full Mains paper.",
+      "notes": "No 'Held On' exam date is given, just the bare title 'SBI PO Mains 2020' on p.1 (which is simultaneously the front-matter page and Q1's page). Solutions begin mid-page-16, right after Q111-115 finish at the top of the page, under a bare 'Solutions' heading, and re-use the section-name banners (REASONING ABILITY / QUANTITATIVE APTITUDE / ENGLISH LANGUAGE) a second time to mark the matching solution sub-sections in the same order as the questions. Solution lines are compact and often bundle several question numbers per line, e.g. '1. (d):  2. (c): 3. (a):' then '4. (a):' on its own line -- parse per-question, don't assume one answer per line. Because GA and the Descriptive section are absent, do not treat this as a complete Mains paper when scoring coverage."
+    },
+    {
+      "id": "sbi-po-mains-2016-01",
+      "title": "SBI Bank PO Main Exam 2016 (Held On 31-07-2016, Memory Based)",
+      "exam": "sbi-po",
+      "stage": "mains",
+      "year": 2016,
+      "questionPages": [110, 124],
+      "solutionPages": [125, 128],
+      "sections": "Reasoning & Computer Aptitude (p110-113, Q1-45) -> Data Analysis & Interpretation (p114-115, Q46-80) -> English Language (p116-121, Q81-115) -> General/Economy/Banking Awareness (p121-124, Q116-155). 155 questions total, stated as 200 marks / 3 hrs in the paper's own footer.",
+      "notes": "The exam title/date/marks footer ('SBI Bank PO Main Exam 2016  Held On : 31-07-2016', 'Max. Marks : 200 (Based on Memory) Time : 3 hrs.') sits at the BOTTOM of the paper's first page (p.110), not the top -- easy to miss when skimming for a header. Every page of this paper repeats a Telegram-promo footer ('Join Telegram :- https://t.me/bank4success For GA/CA Join :- https://t.me/currentadda') -- pure noise, strip it. CAUTION: both English RC passages are flagged INLINE as reconstructed substitutes rather than the verbatim exam text -- the p.116 passage (Britain/empire) ends with the parenthetical '(The topic of the Passage asked in the exam was based on African banks)' and the p.117 passage (BRICS economies) ends '(...based on Brain drain in China)'; the passage shown is only a topic-matched stand-in, not what test-takers actually read. The p.117 passage (Q83) also leaks the stray text 'The Princeton Review CAT sample paper 12/13' mid-sentence, confirming it was lifted from an unrelated test-prep book. Solutions are consolidated under a single 'Answers & Explanations' heading (p125-128) covering all four sections together (no per-section split like the 2020 paper); explanations are detailed with worked steps for Reasoning/DI (p125-127) but drop to bare answer-key lists with no explanation text for English/GA, e.g. '106. (c) 107. (a) 108. (b) ...' (p128)."
+    },
+    {
+      "id": "sbi-po-mains-2015-01",
+      "title": "SBI Bank PO Main Exam 2015 (Held On 26-07-2015, Memory Based)",
+      "exam": "sbi-po",
+      "stage": "mains",
+      "year": 2015,
+      "questionPages": [129, 144],
+      "solutionPages": [145, 152],
+      "sections": "Reasoning Ability (p129-133, Q1-50) -> Data Analysis and Interpretation (p133-137, Q51-100) -> English Language (p137-141, Q101-150) -> General Awareness (p141-144, Q151-200). 200 questions total, stated as 200 marks / 2 hrs in the paper's own footer -- an older/longer pattern than the 2016 and 2020 papers in this book.",
+      "notes": "The exam title/date/marks footer ('SBI Bank PO Main Exam 2015  Held On : 26-07-2015', 'Max. Marks : 200 (Based on Memory) Time : 2 hrs.') sits at the bottom of p.129 (this paper's first page), same placement quirk as the 2016 paper. Same Telegram-promo footer noise on every page as the 2016 paper. Solutions run p145-152 under 'Answers & Explanations': Q1-~100 (Reasoning + DI) get full step-by-step explanations, including described diagrams/tables reconstructed as text; Q101-200 (English + GA) get answer-letter-only lists with virtually no explanation text, e.g. '106. (c) 107. (a) 108. (b) 109. (e) 110. (b)'. This is the final paper in the book -- page 152 is the book's last page (checked directly, nothing follows)."
+    }
+  ],
+  "frontMatterPages": null,
+  "unusablePages": [[30, 109]],
+  "observations": "Three distinct memory-based SBI PO Mains papers are present (2020, 2016, 2015), each apparently from a different source PDF/template -- the page-footer style changes abruptly at every paper boundary, and the two older papers carry their own exam-date/marks/time footer plus a Telegram-promo footer that the 2020 paper lacks entirely. CRITICAL GAP: pages 30-109 (80 of 152 pages, over half the book) contain NO extractable text at all -- every one of those pages consists of nothing but a single repeated watermark line, 'https://t.me/yoursmahboob', with no question or answer content whatsoever (directly confirmed by reading p0031-0040.txt, p0041-0050.txt, and spot-checking through p0091-0100.txt and p0101-0110.txt, where real content only resumes on the very last line of the last page). This is almost certainly image/screenshot content whose OCR text layer never made it into this extraction. The gap falls exactly where papers for 2017, 2018 and 2019 would need to sit to justify the book's title ('Bank SBI PO Mains (2015-20)'); those three years are effectively absent from usable text despite the title's promise of 2015-2020 coverage. Do not dispatch extraction agents to pages 30-109 -- there is nothing recoverable there via text. Usable content is only pages 1-29 (2020 paper) and 110-152 (2016 and 2015 papers), i.e. 72 of 152 pages, well under half the book. On the usable pages, OCR/text quality is otherwise decent (clean prose, intact question/option structure) but inline math notation is frequently mangled by PDF-to-text conversion -- fractions, exponents and square roots collapse into run-on tokens such as 'p42900 p 4 100´= +´' or '15AB´+´=1'; the surrounding worked steps and the answer options usually let you reverse-engineer the intended value, but extractors should not trust the garbled formula text literally. No book-level front matter, cover, or table of contents exists -- the text opens directly on Paper 1 Q1, page 1, with each paper instead carrying its own inline title/footer."
+}

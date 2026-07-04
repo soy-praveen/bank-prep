@@ -1,0 +1,1047 @@
+{
+  "book": "50plus-bank-po-clerk-2016-2021-memory-based",
+  "papers": [
+    {
+      "id": "sbi-po-pre-2019-01",
+      "title": "SBI PO Prelims 2019",
+      "exam": "sbi-po",
+      "stage": "prelims",
+      "year": 2019,
+      "questionPages": [
+        4,
+        11
+      ],
+      "solutionPages": [
+        12,
+        17
+      ],
+      "sections": "Reasoning Ability -> Quantitative Aptitude -> English Language (100 questions total)",
+      "notes": ""
+    },
+    {
+      "id": "sbi-po-pre-2018-01",
+      "title": "SBI PO Prelims 2018",
+      "exam": "sbi-po",
+      "stage": "prelims",
+      "year": 2018,
+      "questionPages": [
+        18,
+        25
+      ],
+      "solutionPages": [
+        26,
+        31
+      ],
+      "sections": "Reasoning Ability -> Quantitative Aptitude -> English Language (52 questions total)",
+      "notes": ""
+    },
+    {
+      "id": "sbi-po-pre-2017-01",
+      "title": "SBI PO Prelims 2017",
+      "exam": "sbi-po",
+      "stage": "prelims",
+      "year": 2017,
+      "questionPages": [
+        32,
+        39
+      ],
+      "solutionPages": [
+        40,
+        44
+      ],
+      "sections": "Reasoning Ability -> Quantitative Aptitude -> English Language (93 questions total)",
+      "notes": ""
+    },
+    {
+      "id": "sbi-po-pre-2016-01",
+      "title": "SBI PO Prelims 2016",
+      "exam": "sbi-po",
+      "stage": "prelims",
+      "year": 2016,
+      "questionPages": [
+        45,
+        52
+      ],
+      "solutionPages": [
+        53,
+        56
+      ],
+      "sections": "Reasoning Ability -> Quantitative Aptitude -> English Language (94 questions total)",
+      "notes": ""
+    },
+    {
+      "id": "sbi-po-mains-2019-01",
+      "title": "SBI PO Mains 2019",
+      "exam": "sbi-po",
+      "stage": "mains",
+      "year": 2019,
+      "questionPages": [
+        57,
+        71
+      ],
+      "solutionPages": [
+        72,
+        81
+      ],
+      "sections": "Reasoning Ability -> Quantitative Aptitude -> English Language (question count not reliably parsed)",
+      "notes": ""
+    },
+    {
+      "id": "sbi-po-mains-2018-01",
+      "title": "SBI PO Mains 2018",
+      "exam": "sbi-po",
+      "stage": "mains",
+      "year": 2018,
+      "questionPages": [
+        85,
+        99
+      ],
+      "solutionPages": [
+        100,
+        110
+      ],
+      "sections": "Reasoning Ability -> Quantitative Aptitude -> English Language (115 questions total)",
+      "notes": ""
+    },
+    {
+      "id": "sbi-po-mains-2017-01",
+      "title": "SBI PO Mains 2017",
+      "exam": "sbi-po",
+      "stage": "mains",
+      "year": 2017,
+      "questionPages": [
+        111,
+        131
+      ],
+      "solutionPages": [
+        132,
+        139
+      ],
+      "sections": "Reasoning Ability -> Quantitative Aptitude -> English Language (54 questions total)",
+      "notes": ""
+    },
+    {
+      "id": "sbi-po-mains-2016-01",
+      "title": "SBI PO Mains 2016",
+      "exam": "sbi-po",
+      "stage": "mains",
+      "year": 2016,
+      "questionPages": [
+        140,
+        157
+      ],
+      "solutionPages": [
+        158,
+        164
+      ],
+      "sections": "Reasoning Ability -> Quantitative Aptitude -> English Language (115 questions total)",
+      "notes": ""
+    },
+    {
+      "id": "sbi-clerk-pre-2019-01",
+      "title": "SBI Clerk Prelims 2019",
+      "exam": "sbi-clerk",
+      "stage": "prelims",
+      "year": 2019,
+      "questionPages": [
+        165,
+        171
+      ],
+      "solutionPages": [
+        172,
+        176
+      ],
+      "sections": "Reasoning Ability (99 questions total)",
+      "notes": ""
+    },
+    {
+      "id": "sbi-clerk-pre-2018-01",
+      "title": "SBI Clerk Prelims 2018",
+      "exam": "sbi-clerk",
+      "stage": "prelims",
+      "year": 2018,
+      "questionPages": [
+        177,
+        183
+      ],
+      "solutionPages": [
+        184,
+        188
+      ],
+      "sections": "Reasoning Ability -> Quantitative Aptitude -> English Language (90 questions total)",
+      "notes": ""
+    },
+    {
+      "id": "sbi-clerk-pre-2016-01",
+      "title": "SBI Clerk Prelims 2016",
+      "exam": "sbi-clerk",
+      "stage": "prelims",
+      "year": 2016,
+      "questionPages": [
+        192,
+        197
+      ],
+      "solutionPages": [
+        198,
+        201
+      ],
+      "sections": "Reasoning Ability -> Quantitative Aptitude -> English Language (95 questions total)",
+      "notes": ""
+    },
+    {
+      "id": "sbi-clerk-mains-2019-01",
+      "title": "SBI Clerk Mains 2019",
+      "exam": "sbi-clerk",
+      "stage": "mains",
+      "year": 2019,
+      "questionPages": [
+        202,
+        217
+      ],
+      "solutionPages": [
+        218,
+        230
+      ],
+      "sections": "Reasoning Ability -> Quantitative Aptitude -> English Language (50 questions total)",
+      "notes": ""
+    },
+    {
+      "id": "sbi-clerk-mains-2018-01",
+      "title": "SBI Clerk Mains 2018",
+      "exam": "sbi-clerk",
+      "stage": "mains",
+      "year": 2018,
+      "questionPages": [
+        231,
+        246
+      ],
+      "solutionPages": [
+        247,
+        257
+      ],
+      "sections": "Reasoning Ability -> Quantitative Aptitude -> English Language (140 questions total)",
+      "notes": ""
+    },
+    {
+      "id": "sbi-clerk-mains-2016-01",
+      "title": "SBI Clerk Mains 2016",
+      "exam": "sbi-clerk",
+      "stage": "mains",
+      "year": 2016,
+      "questionPages": [
+        258,
+        268
+      ],
+      "solutionPages": [
+        269,
+        273
+      ],
+      "sections": "Reasoning Ability -> Quantitative Aptitude -> English Language (136 questions total)",
+      "notes": ""
+    },
+    {
+      "id": "ibps-po-pre-2019-01",
+      "title": "IBPS PO Prelims 2019",
+      "exam": "ibps-po",
+      "stage": "prelims",
+      "year": 2019,
+      "questionPages": [
+        274,
+        280
+      ],
+      "solutionPages": [
+        281,
+        286
+      ],
+      "sections": "Reasoning Ability -> Quantitative Aptitude -> English Language (94 questions total)",
+      "notes": ""
+    },
+    {
+      "id": "ibps-po-pre-2018-01",
+      "title": "IBPS PO Prelims 2018",
+      "exam": "ibps-po",
+      "stage": "prelims",
+      "year": 2018,
+      "questionPages": [
+        290,
+        298
+      ],
+      "solutionPages": [
+        299,
+        304
+      ],
+      "sections": "Reasoning Ability -> Quantitative Aptitude -> English Language (100 questions total)",
+      "notes": ""
+    },
+    {
+      "id": "ibps-po-pre-2017-01",
+      "title": "IBPS PO Prelims 2017",
+      "exam": "ibps-po",
+      "stage": "prelims",
+      "year": 2017,
+      "questionPages": [
+        305,
+        313
+      ],
+      "solutionPages": [
+        314,
+        319
+      ],
+      "sections": "Reasoning Ability -> Quantitative Aptitude -> English Language (100 questions total)",
+      "notes": ""
+    },
+    {
+      "id": "ibps-po-pre-2016-01",
+      "title": "IBPS PO Prelims 2016",
+      "exam": "ibps-po",
+      "stage": "prelims",
+      "year": 2016,
+      "questionPages": [
+        320,
+        326
+      ],
+      "solutionPages": [
+        327,
+        331
+      ],
+      "sections": "Reasoning Ability -> Quantitative Aptitude -> English Language (85 questions total)",
+      "notes": ""
+    },
+    {
+      "id": "ibps-po-mains-2019-01",
+      "title": "IBPS PO Mains 2019",
+      "exam": "ibps-po",
+      "stage": "mains",
+      "year": 2019,
+      "questionPages": [
+        332,
+        346
+      ],
+      "solutionPages": [
+        347,
+        357
+      ],
+      "sections": "Reasoning Ability -> Quantitative Aptitude -> English Language (112 questions total)",
+      "notes": ""
+    },
+    {
+      "id": "ibps-po-mains-2018-01",
+      "title": "IBPS PO Mains 2018",
+      "exam": "ibps-po",
+      "stage": "mains",
+      "year": 2018,
+      "questionPages": [
+        358,
+        375
+      ],
+      "solutionPages": [
+        376,
+        384
+      ],
+      "sections": "Reasoning Ability -> Quantitative Aptitude -> English Language (115 questions total)",
+      "notes": ""
+    },
+    {
+      "id": "ibps-po-mains-2017-01",
+      "title": "IBPS PO Mains 2017",
+      "exam": "ibps-po",
+      "stage": "mains",
+      "year": 2017,
+      "questionPages": [
+        388,
+        402
+      ],
+      "solutionPages": [
+        403,
+        412
+      ],
+      "sections": "Reasoning Ability -> Quantitative Aptitude -> English Language (60 questions total)",
+      "notes": ""
+    },
+    {
+      "id": "ibps-po-mains-2016-01",
+      "title": "IBPS PO Mains 2016",
+      "exam": "ibps-po",
+      "stage": "mains",
+      "year": 2016,
+      "questionPages": [
+        413,
+        429
+      ],
+      "solutionPages": [
+        430,
+        436
+      ],
+      "sections": "Reasoning Ability -> Quantitative Aptitude -> English Language (75 questions total)",
+      "notes": ""
+    },
+    {
+      "id": "ibps-clerk-pre-2019-01",
+      "title": "IBPS Clerk Prelims 2019",
+      "exam": "ibps-clerk",
+      "stage": "prelims",
+      "year": 2019,
+      "questionPages": [
+        437,
+        444
+      ],
+      "solutionPages": [
+        445,
+        449
+      ],
+      "sections": "Reasoning Ability -> Quantitative Aptitude -> English Language (100 questions total)",
+      "notes": ""
+    },
+    {
+      "id": "ibps-clerk-pre-2018-01",
+      "title": "IBPS Clerk Prelims 2018",
+      "exam": "ibps-clerk",
+      "stage": "prelims",
+      "year": 2018,
+      "questionPages": [
+        450,
+        456
+      ],
+      "solutionPages": [
+        457,
+        462
+      ],
+      "sections": "Reasoning Ability -> Quantitative Aptitude -> English Language (97 questions total)",
+      "notes": ""
+    },
+    {
+      "id": "ibps-clerk-pre-2017-01",
+      "title": "IBPS Clerk Prelims 2017",
+      "exam": "ibps-clerk",
+      "stage": "prelims",
+      "year": 2017,
+      "questionPages": [
+        463,
+        468
+      ],
+      "solutionPages": [
+        469,
+        473
+      ],
+      "sections": "Reasoning Ability -> Quantitative Aptitude -> English Language (92 questions total)",
+      "notes": ""
+    },
+    {
+      "id": "ibps-clerk-pre-2016-01",
+      "title": "IBPS Clerk Prelims 2016",
+      "exam": "ibps-clerk",
+      "stage": "prelims",
+      "year": 2016,
+      "questionPages": [
+        477,
+        482
+      ],
+      "solutionPages": [
+        483,
+        485
+      ],
+      "sections": "Reasoning Ability -> Quantitative Aptitude -> English Language (90 questions total)",
+      "notes": ""
+    },
+    {
+      "id": "ibps-clerk-mains-2019-01",
+      "title": "IBPS Clerk Mains 2019",
+      "exam": "ibps-clerk",
+      "stage": "mains",
+      "year": 2019,
+      "questionPages": [
+        486,
+        499
+      ],
+      "solutionPages": [
+        500,
+        510
+      ],
+      "sections": "Reasoning Ability -> Quantitative Aptitude -> English Language (137 questions total)",
+      "notes": ""
+    },
+    {
+      "id": "ibps-clerk-mains-2018-01",
+      "title": "IBPS Clerk Mains 2018",
+      "exam": "ibps-clerk",
+      "stage": "mains",
+      "year": 2018,
+      "questionPages": [
+        511,
+        525
+      ],
+      "solutionPages": [
+        526,
+        536
+      ],
+      "sections": "Reasoning Ability -> Quantitative Aptitude -> English Language (140 questions total)",
+      "notes": ""
+    },
+    {
+      "id": "ibps-clerk-mains-2017-01",
+      "title": "IBPS Clerk Mains 2017",
+      "exam": "ibps-clerk",
+      "stage": "mains",
+      "year": 2017,
+      "questionPages": [
+        537,
+        552
+      ],
+      "solutionPages": [
+        553,
+        563
+      ],
+      "sections": "Reasoning Ability -> Quantitative Aptitude -> English Language (140 questions total)",
+      "notes": ""
+    },
+    {
+      "id": "ibps-clerk-mains-2016-01",
+      "title": "IBPS Clerk Mains 2016",
+      "exam": "ibps-clerk",
+      "stage": "mains",
+      "year": 2016,
+      "questionPages": [
+        564,
+        577
+      ],
+      "solutionPages": [
+        578,
+        582
+      ],
+      "sections": "Reasoning Ability -> Quantitative Aptitude -> English Language (74 questions total)",
+      "notes": ""
+    },
+    {
+      "id": "ibps-rrb-po-pre-2019-01",
+      "title": "IBPS RRB PO Prelims 2019",
+      "exam": "ibps-rrb-po",
+      "stage": "prelims",
+      "year": 2019,
+      "questionPages": [
+        586,
+        590
+      ],
+      "solutionPages": [
+        591,
+        594
+      ],
+      "sections": "Reasoning Ability (78 questions total)",
+      "notes": "Schema 'exam' field extended beyond the given enum to distinguish IBPS RRB from mainline IBPS PO/Clerk."
+    },
+    {
+      "id": "ibps-rrb-po-pre-2018-01",
+      "title": "IBPS RRB PO Prelims 2018",
+      "exam": "ibps-rrb-po",
+      "stage": "prelims",
+      "year": 2018,
+      "questionPages": [
+        595,
+        600
+      ],
+      "solutionPages": [
+        601,
+        605
+      ],
+      "sections": "Reasoning Ability -> Quantitative Aptitude (80 questions total)",
+      "notes": "Schema 'exam' field extended beyond the given enum to distinguish IBPS RRB from mainline IBPS PO/Clerk."
+    },
+    {
+      "id": "ibps-rrb-po-pre-2017-01",
+      "title": "IBPS RRB PO Prelims 2017",
+      "exam": "ibps-rrb-po",
+      "stage": "prelims",
+      "year": 2017,
+      "questionPages": [
+        606,
+        610
+      ],
+      "solutionPages": [
+        611,
+        614
+      ],
+      "sections": "Reasoning Ability -> Quantitative Aptitude (75 questions total)",
+      "notes": "Schema 'exam' field extended beyond the given enum to distinguish IBPS RRB from mainline IBPS PO/Clerk."
+    },
+    {
+      "id": "ibps-rrb-po-pre-2016-01",
+      "title": "IBPS RRB PO Prelims 2016",
+      "exam": "ibps-rrb-po",
+      "stage": "prelims",
+      "year": 2016,
+      "questionPages": [
+        615,
+        619
+      ],
+      "solutionPages": [
+        620,
+        623
+      ],
+      "sections": "Reasoning Ability -> Quantitative Aptitude (70 questions total)",
+      "notes": "Schema 'exam' field extended beyond the given enum to distinguish IBPS RRB from mainline IBPS PO/Clerk."
+    },
+    {
+      "id": "ibps-rrb-po-mains-2019-01",
+      "title": "IBPS RRB PO Mains 2019",
+      "exam": "ibps-rrb-po",
+      "stage": "mains",
+      "year": 2019,
+      "questionPages": [
+        624,
+        634
+      ],
+      "solutionPages": [
+        635,
+        644
+      ],
+      "sections": "Reasoning Ability -> Quantitative Aptitude -> English Language (51 questions total)",
+      "notes": "Schema 'exam' field extended beyond the given enum to distinguish IBPS RRB from mainline IBPS PO/Clerk."
+    },
+    {
+      "id": "ibps-rrb-po-mains-2018-01",
+      "title": "IBPS RRB PO Mains 2018",
+      "exam": "ibps-rrb-po",
+      "stage": "mains",
+      "year": 2018,
+      "questionPages": [
+        648,
+        659
+      ],
+      "solutionPages": [
+        660,
+        669
+      ],
+      "sections": "Reasoning Ability -> Quantitative Aptitude -> English Language (117 questions total)",
+      "notes": "Schema 'exam' field extended beyond the given enum to distinguish IBPS RRB from mainline IBPS PO/Clerk."
+    },
+    {
+      "id": "ibps-rrb-po-mains-2017-01",
+      "title": "IBPS RRB PO Mains 2017",
+      "exam": "ibps-rrb-po",
+      "stage": "mains",
+      "year": 2017,
+      "questionPages": [
+        670,
+        682
+      ],
+      "solutionPages": [
+        683,
+        690
+      ],
+      "sections": "Reasoning Ability -> Quantitative Aptitude -> English Language (40 questions total)",
+      "notes": "Schema 'exam' field extended beyond the given enum to distinguish IBPS RRB from mainline IBPS PO/Clerk."
+    },
+    {
+      "id": "ibps-rrb-po-mains-2016-01",
+      "title": "IBPS RRB PO Mains 2016",
+      "exam": "ibps-rrb-po",
+      "stage": "mains",
+      "year": 2016,
+      "questionPages": [
+        691,
+        701
+      ],
+      "solutionPages": [
+        702,
+        707
+      ],
+      "sections": "Reasoning Ability -> Quantitative Aptitude -> English Language (70 questions total)",
+      "notes": "Schema 'exam' field extended beyond the given enum to distinguish IBPS RRB from mainline IBPS PO/Clerk."
+    },
+    {
+      "id": "ibps-rrb-clerk-pre-2019-01",
+      "title": "IBPS RRB Clerk Prelims 2019",
+      "exam": "ibps-rrb-clerk",
+      "stage": "prelims",
+      "year": 2019,
+      "questionPages": [
+        708,
+        712
+      ],
+      "solutionPages": [
+        713,
+        715
+      ],
+      "sections": "Reasoning Ability (80 questions total)",
+      "notes": "Schema 'exam' field extended beyond the given enum to distinguish IBPS RRB from mainline IBPS PO/Clerk."
+    },
+    {
+      "id": "ibps-rrb-clerk-pre-2018-01",
+      "title": "IBPS RRB Clerk Prelims 2018",
+      "exam": "ibps-rrb-clerk",
+      "stage": "prelims",
+      "year": 2018,
+      "questionPages": [
+        716,
+        719
+      ],
+      "solutionPages": [
+        720,
+        723
+      ],
+      "sections": "Reasoning Ability -> Quantitative Aptitude (70 questions total)",
+      "notes": "Schema 'exam' field extended beyond the given enum to distinguish IBPS RRB from mainline IBPS PO/Clerk."
+    },
+    {
+      "id": "ibps-rrb-clerk-pre-2017-01",
+      "title": "IBPS RRB Clerk Prelims 2017",
+      "exam": "ibps-rrb-clerk",
+      "stage": "prelims",
+      "year": 2017,
+      "questionPages": [
+        727,
+        730
+      ],
+      "solutionPages": [
+        731,
+        734
+      ],
+      "sections": "Reasoning Ability -> Quantitative Aptitude (62 questions total)",
+      "notes": "Schema 'exam' field extended beyond the given enum to distinguish IBPS RRB from mainline IBPS PO/Clerk."
+    },
+    {
+      "id": "ibps-rrb-clerk-pre-2016-01",
+      "title": "IBPS RRB Clerk Prelims 2016",
+      "exam": "ibps-rrb-clerk",
+      "stage": "prelims",
+      "year": 2016,
+      "questionPages": [
+        735,
+        738
+      ],
+      "solutionPages": [
+        739,
+        742
+      ],
+      "sections": "Reasoning Ability -> Quantitative Aptitude (71 questions total)",
+      "notes": "Schema 'exam' field extended beyond the given enum to distinguish IBPS RRB from mainline IBPS PO/Clerk."
+    },
+    {
+      "id": "ibps-rrb-clerk-mains-2019-01",
+      "title": "IBPS RRB Clerk Mains 2019",
+      "exam": "ibps-rrb-clerk",
+      "stage": "mains",
+      "year": 2019,
+      "questionPages": [
+        743,
+        753
+      ],
+      "solutionPages": [
+        754,
+        761
+      ],
+      "sections": "Reasoning Ability -> Quantitative Aptitude -> English Language (120 questions total)",
+      "notes": "Schema 'exam' field extended beyond the given enum to distinguish IBPS RRB from mainline IBPS PO/Clerk."
+    },
+    {
+      "id": "ibps-rrb-clerk-mains-2018-01",
+      "title": "IBPS RRB Clerk Mains 2018",
+      "exam": "ibps-rrb-clerk",
+      "stage": "mains",
+      "year": 2018,
+      "questionPages": [
+        762,
+        772
+      ],
+      "solutionPages": [
+        773,
+        780
+      ],
+      "sections": "Reasoning Ability -> Quantitative Aptitude -> English Language (40 questions total)",
+      "notes": "Schema 'exam' field extended beyond the given enum to distinguish IBPS RRB from mainline IBPS PO/Clerk."
+    },
+    {
+      "id": "ibps-rrb-clerk-mains-2017-01",
+      "title": "IBPS RRB Clerk Mains 2017",
+      "exam": "ibps-rrb-clerk",
+      "stage": "mains",
+      "year": 2017,
+      "questionPages": [
+        781,
+        791
+      ],
+      "solutionPages": [
+        792,
+        798
+      ],
+      "sections": "Reasoning Ability -> Quantitative Aptitude -> English Language (120 questions total)",
+      "notes": "Schema 'exam' field extended beyond the given enum to distinguish IBPS RRB from mainline IBPS PO/Clerk."
+    },
+    {
+      "id": "ibps-rrb-clerk-mains-2016-01",
+      "title": "IBPS RRB Clerk Mains 2016",
+      "exam": "ibps-rrb-clerk",
+      "stage": "mains",
+      "year": 2016,
+      "questionPages": [
+        802,
+        810
+      ],
+      "solutionPages": [
+        811,
+        815
+      ],
+      "sections": "Reasoning Ability -> Quantitative Aptitude -> English Language (55 questions total)",
+      "notes": "Schema 'exam' field extended beyond the given enum to distinguish IBPS RRB from mainline IBPS PO/Clerk."
+    },
+    {
+      "id": "rbi-assistant-pre-2017-01",
+      "title": "RBI Assistant Prelims 2017",
+      "exam": "rbi-assistant",
+      "stage": "prelims",
+      "year": 2017,
+      "questionPages": [
+        816,
+        822
+      ],
+      "solutionPages": [
+        823,
+        827
+      ],
+      "sections": "Reasoning Ability -> Quantitative Aptitude -> English Language (85 questions total)",
+      "notes": "Schema 'exam' field extended beyond the given enum ('rbi' split into rbi-assistant/rbi-grade-b) to keep these distinct RBI exams unambiguous."
+    },
+    {
+      "id": "rbi-assistant-pre-2016-01",
+      "title": "RBI Assistant Prelims 2016",
+      "exam": "rbi-assistant",
+      "stage": "prelims",
+      "year": 2016,
+      "questionPages": [
+        828,
+        833
+      ],
+      "solutionPages": [
+        834,
+        838
+      ],
+      "sections": "Reasoning Ability -> Quantitative Aptitude -> English Language (68 questions total)",
+      "notes": "Schema 'exam' field extended beyond the given enum ('rbi' split into rbi-assistant/rbi-grade-b) to keep these distinct RBI exams unambiguous."
+    },
+    {
+      "id": "rbi-assistant-mains-2017-01",
+      "title": "RBI Assistant Mains 2017",
+      "exam": "rbi-assistant",
+      "stage": "mains",
+      "year": 2017,
+      "questionPages": [
+        839,
+        849
+      ],
+      "solutionPages": [
+        850,
+        855
+      ],
+      "sections": "Reasoning Ability -> Quantitative Aptitude -> English Language (120 questions total)",
+      "notes": "Schema 'exam' field extended beyond the given enum ('rbi' split into rbi-assistant/rbi-grade-b) to keep these distinct RBI exams unambiguous."
+    },
+    {
+      "id": "rbi-assistant-mains-2016-01",
+      "title": "RBI Assistant Mains 2016",
+      "exam": "rbi-assistant",
+      "stage": "mains",
+      "year": 2016,
+      "questionPages": [
+        856,
+        868
+      ],
+      "solutionPages": [
+        869,
+        876
+      ],
+      "sections": "Reasoning Ability -> Quantitative Aptitude -> English Language (120 questions total)",
+      "notes": "Schema 'exam' field extended beyond the given enum ('rbi' split into rbi-assistant/rbi-grade-b) to keep these distinct RBI exams unambiguous."
+    },
+    {
+      "id": "rbi-grade-b-pre-2019-01",
+      "title": "RBI Grade B Phase I 2019",
+      "exam": "rbi-grade-b",
+      "stage": "prelims",
+      "year": 2019,
+      "questionPages": [
+        880,
+        889
+      ],
+      "solutionPages": [
+        890,
+        896
+      ],
+      "sections": "Reasoning Ability -> Quantitative Aptitude -> English Language (115 questions total)",
+      "notes": "Schema 'exam' field extended beyond the given enum ('rbi' split into rbi-assistant/rbi-grade-b) to keep these distinct RBI exams unambiguous. Source calls this stage 'Phase I'; mapped to stage=prelims."
+    },
+    {
+      "id": "rbi-grade-b-pre-2018-01",
+      "title": "RBI Grade B Phase I 2018",
+      "exam": "rbi-grade-b",
+      "stage": "prelims",
+      "year": 2018,
+      "questionPages": [
+        897,
+        910
+      ],
+      "solutionPages": [
+        911,
+        920
+      ],
+      "sections": "Reasoning Ability -> Quantitative Aptitude -> English Language (89 questions total)",
+      "notes": "Schema 'exam' field extended beyond the given enum ('rbi' split into rbi-assistant/rbi-grade-b) to keep these distinct RBI exams unambiguous. Source calls this stage 'Phase I'; mapped to stage=prelims."
+    },
+    {
+      "id": "rbi-grade-b-pre-2017-01",
+      "title": "RBI Grade B Phase I 2017",
+      "exam": "rbi-grade-b",
+      "stage": "prelims",
+      "year": 2017,
+      "questionPages": [
+        921,
+        935
+      ],
+      "solutionPages": [
+        936,
+        944
+      ],
+      "sections": "Reasoning Ability -> Quantitative Aptitude -> English Language (120 questions total)",
+      "notes": "Schema 'exam' field extended beyond the given enum ('rbi' split into rbi-assistant/rbi-grade-b) to keep these distinct RBI exams unambiguous. Source calls this stage 'Phase I'; mapped to stage=prelims."
+    },
+    {
+      "id": "rbi-grade-b-pre-2016-01",
+      "title": "RBI Grade B Phase I 2016",
+      "exam": "rbi-grade-b",
+      "stage": "prelims",
+      "year": 2016,
+      "questionPages": [
+        945,
+        957
+      ],
+      "solutionPages": [
+        958,
+        964
+      ],
+      "sections": "Reasoning Ability -> Quantitative Aptitude -> English Language (80 questions total)",
+      "notes": "Schema 'exam' field extended beyond the given enum ('rbi' split into rbi-assistant/rbi-grade-b) to keep these distinct RBI exams unambiguous. Source calls this stage 'Phase I'; mapped to stage=prelims."
+    },
+    {
+      "id": "sbi-po-pre-2020-01",
+      "title": "SBI PO Prelims 2020",
+      "exam": "sbi-po",
+      "stage": "prelims",
+      "year": 2020,
+      "questionPages": [
+        965,
+        972
+      ],
+      "solutionPages": [
+        973,
+        979
+      ],
+      "sections": "English Language -> Quantitative Aptitude -> Reasoning Ability (66 questions total)",
+      "notes": "Section order in this paper is English -> Quant -> Reasoning (reversed vs older papers)."
+    },
+    {
+      "id": "sbi-clerk-pre-2020-01",
+      "title": "SBI Clerk Prelims 2020",
+      "exam": "sbi-clerk",
+      "stage": "prelims",
+      "year": 2020,
+      "questionPages": [
+        983,
+        989
+      ],
+      "solutionPages": [
+        990,
+        995
+      ],
+      "sections": "Reasoning Ability (95 questions total)",
+      "notes": ""
+    },
+    {
+      "id": "ibps-po-pre-2020-01",
+      "title": "IBPS PO Prelims 2020",
+      "exam": "ibps-po",
+      "stage": "prelims",
+      "year": 2020,
+      "questionPages": [
+        996,
+        1003
+      ],
+      "solutionPages": [
+        1004,
+        1010
+      ],
+      "sections": "English Language -> Quantitative Aptitude -> Reasoning Ability (94 questions total)",
+      "notes": "Section order in this paper is English -> Quant -> Reasoning (reversed vs older papers)."
+    },
+    {
+      "id": "ibps-clerk-pre-2020-01",
+      "title": "IBPS Clerk Prelims 2020",
+      "exam": "ibps-clerk",
+      "stage": "prelims",
+      "year": 2020,
+      "questionPages": [
+        1011,
+        1017
+      ],
+      "solutionPages": [
+        1018,
+        1023
+      ],
+      "sections": "English Language -> Quantitative Aptitude -> Reasoning Ability (90 questions total)",
+      "notes": "Section order in this paper is English -> Quant -> Reasoning (reversed vs older papers)."
+    },
+    {
+      "id": "ibps-rrb-po-pre-2020-01",
+      "title": "IBPS RRB PO Prelims 2020",
+      "exam": "ibps-rrb-po",
+      "stage": "prelims",
+      "year": 2020,
+      "questionPages": [
+        1024,
+        1028
+      ],
+      "solutionPages": [
+        1029,
+        1033
+      ],
+      "sections": "Reasoning Ability (74 questions total)",
+      "notes": "Schema 'exam' field extended beyond the given enum to distinguish IBPS RRB from mainline IBPS PO/Clerk."
+    },
+    {
+      "id": "ibps-rrb-clerk-pre-2020-01",
+      "title": "IBPS RRB Clerk Prelims 2020",
+      "exam": "ibps-rrb-clerk",
+      "stage": "prelims",
+      "year": 2020,
+      "questionPages": [
+        1034,
+        1038
+      ],
+      "solutionPages": [
+        1039,
+        1041
+      ],
+      "sections": "Reasoning Ability (72 questions total)",
+      "notes": "Schema 'exam' field extended beyond the given enum to distinguish IBPS RRB from mainline IBPS PO/Clerk."
+    },
+    {
+      "id": "rbi-assistant-pre-2020-01",
+      "title": "RBI Assistant Prelims 2020",
+      "exam": "rbi-assistant",
+      "stage": "prelims",
+      "year": 2020,
+      "questionPages": [
+        1042,
+        1048
+      ],
+      "solutionPages": [
+        1049,
+        1053
+      ],
+      "sections": "Reasoning Ability (95 questions total)",
+      "notes": "Schema 'exam' field extended beyond the given enum ('rbi' split into rbi-assistant/rbi-grade-b) to keep these distinct RBI exams unambiguous."
+    }
+  ],
+  "frontMatterPages": [
+    1,
+    3
+  ],
+  "observations": "The book is organised into 13 Parts (I-XIII), each opening with its own unnumbered blank+CONTENTS+Part-divider trio (3 pages) followed by 3-6 'Mock' papers; printed page numbers restart near '4' at the first content page of every Part, so the PDF-to-printed offset is constant within a Part but jumps at each Part boundary (e.g. Part I offset=0, Part II offset=81, Part XII offset=979) rather than being a single global offset. Every paper places its answer key/explanations ('Solutions') immediately after its own questions, in the same section order (Reasoning, Quant, English for 2016-2019 papers; reversed to English, Quant, Reasoning for the 2020 papers in Parts XI-XII), never in a consolidated end-of-book block. Part XIII (pages 1057-1106) is not an exam paper but a bonus Banking Awareness / Static Awareness MCQ appendix with its own answer keys. OCR text quality is generally good and page markers are reliable, but occasional stray line breaks/spacing (e.g. '201 9' for 2019, 'Grade-B' vs 'Grade B') and a repeated watermark '@LokiTheGod@Crossword2022' appear throughout; a handful of pages lack the page-footer used for printed-page detection."
+}

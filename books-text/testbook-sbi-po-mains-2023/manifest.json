@@ -1,0 +1,40 @@
+{
+  "book": "testbook-sbi-po-mains-2023",
+  "papers": [
+    {
+      "id": "sbi-po-mains-2023-01",
+      "title": "SBI PO Mains Memory Based Paper - 30 Jan 2023",
+      "exam": "sbi-po",
+      "stage": "mains",
+      "year": 2023,
+      "questionPages": [2, 50],
+      "solutionPages": null,
+      "sections": "No section headers anywhere in the source -- 155 questions numbered continuously (Que. 1 - Que. 155) with no labelled section breaks. Rough topic clustering from sampling only, NOT a verified boundary: reasoning/puzzle-type questions dominate roughly Q1-57, quantitative/DI and equation-type questions roughly Q58-91, general/current awareness roughly Q92-105, English (vocabulary/cloze/RC, including a ChatGPT/AI passage around Q127-129) roughly Q106-140, remainder mixed.",
+      "notes": "Page 1 is a title/link cover only (SBI PO / Mains / Memory Based Paper / 30 Jan, 2023 + a repeated testbook.com link) with no questions; actual content runs pages 2-50, self-numbered internally as 'Page- 1' through 'Page- 49' in the footer. The answer is INLINE and appears BEFORE the option list: each question stem is immediately followed by a line 'Correct Option - N', and only then do the five options follow -- do not mistake this line for part of the question stem, and do not expect it after the options. Option lines have the option's index digit glued directly onto the option text with no separating space or punctuation, e.g. '171.' = option text '17' + option-marker '1.', '182.' = '18' + '2.' -- extractors must split the trailing single digit + '.' as the option number, not treat it as part of the numeric value. No separate solutions/explanations exist anywhere for this paper; the inline 'Correct Option' marker is the only answer key."
+    },
+    {
+      "id": "sbi-po-mains-2022-01",
+      "title": "SBI PO Mains Memory Based Paper - 2 Jan 2022",
+      "exam": "sbi-po",
+      "stage": "mains",
+      "year": 2022,
+      "questionPages": [53, 93],
+      "solutionPages": null,
+      "sections": "No section headers in the source, same continuous Que. 1 - Que. 155 numbering as the other two papers in this book; section boundaries not verified for this paper.",
+      "notes": "Pages 51-52 are ad/title cover pages (app-download promo on p.51, then 'SBI PO / Mains / Previous Year Paper / Memory Based Paper / 2 Jan 2022' on p.52) with no questions; actual content runs pages 53-93, self-numbered internally as 'Page - 1' through 'Page - 41' in the footer. Same inline 'Correct Option - N' (appearing BEFORE the option list) and glued option-index quirk as the 2023 paper -- see that paper's notes for the exact pattern. No separate solutions/explanations exist for this paper either."
+    },
+    {
+      "id": "sbi-po-mains-2021-01",
+      "title": "SBI PO Mains Memory Based Paper - 29 Jan 2021",
+      "exam": "sbi-po",
+      "stage": "mains",
+      "year": 2021,
+      "questionPages": [96, 133],
+      "solutionPages": [134, 139],
+      "sections": "No section headers in the source, same continuous Que. 1 - Que. 155 numbering as the other two papers; section boundaries not verified for this paper.",
+      "notes": "Pages 94-95 are ad/title cover pages (app-download promo on p.94, then 'SBI PO / Previous Year Paper / Mains Memory Based / Paper 29 Jan 2021' on p.95) with no questions; actual content runs pages 96-133, self-numbered internally as 'Page - 1' through 'Page - 39' in the footer, using the same inline 'Correct Option - N' + glued-option-index format as the other two papers. UNIQUE TO THIS PAPER: pages 134-139 hold a trailing, fully redundant answer-key appendix (internally numbered 'Page - 40' through 'Page - 45'), formatted as a bare list 'Que. 1 Correct Option - 4' through 'Que. 155 Correct Option - 3' with zero explanation text -- it duplicates the inline answers already present in the question pages and is useful only as a cross-check, not a source of new information. This is the last paper in the book; page 139 is the book's final page (checked directly, nothing follows)."
+    }
+  ],
+  "frontMatterPages": null,
+  "observations": "Three memory-based SBI PO Mains papers are concatenated end to end, each its own source export -- confirmed via independent internal page-footer numbering that resets to 'Page- 1' / 'Page - 1' at the start of each paper's content (1..49 for the 2023 paper, 1..41 for 2022, and 1..39 for 2021's questions, continuing uninterrupted as 40..45 for 2021's trailing answer-key appendix rather than resetting again). Despite the book's title ('SBI PO Mains 2023 Test Papers'), only one of the three included papers is actually dated 2023; the other two are dated 2 Jan 2022 and 29 Jan 2021 -- treat the title's year coverage as approximate/misleading, and use the per-paper 'year' field instead. Text quality is uniformly good and complete across all 139 pages -- no blank or unusable stretches like the Adda247 companion book (adda247-sbi-po-mains-2015-20) has. However, every question's answer is embedded INLINE immediately after the stem via a 'Correct Option - N' line that appears BEFORE the option list (not after, and not as a separate key), and every option list has the option's index digit glued onto the end of the option text with no separator -- both quirks are consistent across all 3 papers and must be parsed programmatically (e.g. strip the trailing '<digit>.' from each option line) rather than read as prose. No section headers exist anywhere in the book (unlike the Adda247 companion book, which labels Reasoning/Quant/English/GA explicitly), so section identity can only be inferred from question content, not from headers. Only the 2021 paper has an end-of-paper answer-key appendix (pages 134-139), and even that is redundant with the inline answers; the 2022 and 2023 papers have no separate solutions section of any kind -- the inline 'Correct Option' markers are the only source of correctness for all three papers. Diagram-dependent questions (seating-arrangement layouts, pie/bar charts) lose their visual entirely in text form; only surrounding numbers/labels survive, so some questions may be under-specified from text alone."
+}

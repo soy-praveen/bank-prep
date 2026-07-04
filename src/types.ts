@@ -39,9 +39,20 @@ export interface QuestionSet {
   context: string;
 }
 
+/** Reconstructed real-paper metadata carried by extracted PYQ banks */
+export interface PaperMeta {
+  id: string;
+  name: string;
+  exam: string;
+  stage: 'prelims' | 'mains';
+  year: number;
+  sections: { name: string; pool: SectionId; minutes: number; marksPerQuestion: number; questionIds: string[] }[];
+}
+
 export interface SectionBank {
   sets: QuestionSet[];
   questions: Question[];
+  paper?: PaperMeta;
 }
 
 /** One timed section inside a mock definition */
