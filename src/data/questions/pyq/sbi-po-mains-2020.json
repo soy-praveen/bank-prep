@@ -1,0 +1,2995 @@
+{
+ "sets": [
+  {
+   "id": "pyq-sbipo-mains20-set1",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "title": "Eight-Member Family Around a Circular Table",
+   "context": "There are eight members - M, N, Q, A, R, O, B and P - in a family having three generations, and all are related to Q in a certain way; there are only two married couples in the family. They all sit around a circular table such that all face towards the centre.\nQ sits third to the left of his mother-in-law, who sits second to the left of the sister of R.\nN is unmarried.\nO has only one son.\nB is the grandson of A, who sits third to the right of N, who is the aunt of B.\nO is the mother of R.\nM is the mother-in-law of P and sits on the immediate left of the brother-in-law of Q.\nN is the only daughter of M.\nA and O are not the married couple.\nThe son of Q sits third to the right of Q's brother-in-law.\nR is not married.\nN is not the immediate neighbour of P.\nP is married to Q."
+  },
+  {
+   "id": "pyq-sbipo-mains20-set2",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "title": "Nine-Member Family on a Straight Bench",
+   "context": "There is a family of nine members - A, D, G, J, K, L, M, P and R - sitting on a straight bench in the garden with an equal distance between them, but not necessarily in this order. Some of them face north and the rest face south. There are three generations in the family.\nD, who is L's mother, sits fourth to the left of P.\nThe ones who sit at the extreme ends face the south direction.\nP is the only son of R, and both face opposite directions.\nD sits immediate to M.\nA is not married and faces the same direction as K.\nR, who is the sister of A, sits at one of the extreme ends (the other extreme end has a male member).\nD's neighbours are both male and face the direction opposite to D.\nG's soul mate D faces the south direction.\nM, who is the husband of K, sits exactly in the middle of the bench and faces the north direction.\nL, who is a male, is the only sibling of K.\nK sits exactly between A and P's sister, who is a female.\nL faces the same direction as G.\nA sits third to the left of G, who is P's grandfather and who sits immediate to M."
+  },
+  {
+   "id": "pyq-sbipo-mains20-set3",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "title": "Seven Boxes Stacked by Colour and Weight",
+   "context": "Seven boxes - A, B, C, D, E, F and G - of different colours are kept one above another. The boxes are also of different weights.\nOnly two boxes are kept between box A and box C.\nThe yellow box is kept immediately below C.\nBox A is blue.\nThere is only one box kept between the yellow box and the black box.\nThe blue box is kept above the black box.\nOnly two boxes are lighter than the blue box.\nOnly three boxes are kept between the red box and the black box.\nThe white box is heavier than the red box but just lighter than the black box.\nThe yellow box is just lighter than the red box.\nThe black box is not the heaviest.\nOnly two boxes are kept between box B and the red box.\nBox B is heavier than box E, which is kept immediately below box B.\nThe black box is just lighter than box D.\nOnly one box is kept between box E and box F.\nBox G is kept immediately below the green box.\nOne of the boxes is pink."
+  },
+  {
+   "id": "pyq-sbipo-mains20-set4",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "title": "Six Employees - Designation, Salary and Experience",
+   "context": "Six employees - P, Q, R, S, T and U - work in a company at different designations: Chief Legal Officer (CLO), Chief Marketing Officer (CMO), Chief Technology Officer (CTO), Chief Financial Officer (CFO), Chief Operating Officer (COO) and Chief Executive Officer (CEO), in that seniority order (CLO junior-most, CEO topmost). They have different years of experience and different salaries; the more senior the designation, the higher both the salary and the years of experience.\nThe salary of P is a multiple of 11.\nThe one who has 10 years of experience earns 10K less than U, who is not the CFO.\nAt most one person is senior to S.\nOnly two employees are junior to the one who has 8 years of experience.\nThe COO has 3 years more experience than the one who is getting 60K.\nThe sum of the salaries of the CLO and the CMO equals the salary of the one who has the maximum work experience.\n15 years is the maximum experience among them.\nOnly two designations lie between the designations of S and P.\nThe experience of the CMO and the CTO are consecutive years.\nThe CMO is getting 50K.\nR is junior to P.\nThe CEO's salary is 5K less than the square of the smallest two-digit number.\nQ is junior to R and has experience equal to the sum of the digits of R's salary.\nThe salary of the CTO is less than 57K."
+  },
+  {
+   "id": "pyq-sbipo-mains20-set5",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "title": "Six People - Birth Year, Age and Colour",
+   "context": "Six people - Varun, Charu, Trisha, Mohit, Anko and Virat - are born in different years, with the current base year taken as 2018. None of them is older than 90 years. They like different colours - Red, Blue, White, Pink, Yellow and Black.\nNote: The last two digits, or the reverse of the last two digits, of the year in which a person is born can be the age of some other person.\nVirat is just older than the one who likes Black colour.\nAnko was born in the year 1979.\nThe difference in age between Anko and Varun is 24 years.\nTrisha's age is the sum of the digits of the year in which Varun was born.\nThe one who likes Blue colour is just younger than Mohit.\nMohit's age is either the last two digits, or the reverse of the last two digits, of the year in which Trisha was born.\nOnly one person is older than Mohit.\nThe one who likes Red colour is 3 years elder to Trisha.\nThe one who likes White colour is 1 year younger than the one who likes Pink colour.\nCharu is born before Anko."
+  },
+  {
+   "id": "pyq-sbipo-mains20-set6",
+   "section": "reasoning",
+   "topic": "direction-sense",
+   "title": "Card Symbols as Directions - Three Bus Routes",
+   "context": "Clubs (unicode club suit), diamonds (unicode diamond suit), hearts (unicode heart suit) and spades (unicode spade suit) stand for directions:\nA Heart B means A is to the North of B.\nA Club B means A is to the South of B.\nA Spade B means A is to the East of B.\nA Diamond B means A is to the West of B.\nThere are 3 buses travelling from P to Q, each listed as a chain of \"point / distance / symbol / point\" steps:\nBus 1: A is 14 East of P; B is 6 North of A; C is 10 West of B; D is 6 North of C; Q is 4 West of D.\nBus 2: M is 10 South of P; N is 10 West of M; O is 6 North of N; R is 5 East of O; S is 10 North of R; T is 5 East of S; Q is 6 North of T.\nBus 3: J is 12 West of P; K is 10 North of J; L is 2 East of K; U is 5 North of L; V is 10 East of U; Q is 3 South of V."
+  },
+  {
+   "id": "pyq-sbipo-mains20-set7",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "title": "Line Graph - Orders Delivered and Returned Through the Week",
+   "context": "A line graph shows the percentage distribution of orders delivered in Week II and the percentage of orders returned on the following days.\nTotal orders received on Sunday of Week II = 100%, delivered across the next six days (Monday to Saturday) in the proportion 16%, 12%, 24%, 20%, 8%, 15% respectively; the remaining 25 orders (5%) were not delivered in these six days, which fixes the Sunday total at 500 orders.\nOrders that are not returned on the same day are returned the next day of delivery, at a fixed percentage of that previous day's deliveries (no orders are returned on the Sunday of Week III, and Monday has no returns since there is no prior day's delivery in this window to return).\nWorking out the actual figures:\n\n| Day | Orders Delivered | Orders Returned |\n|---|---|---|\n| Monday | 80 | 0 (no return) |\n| Tuesday | 60 | 24 |\n| Wednesday | 120 | 6 |\n| Thursday | 100 | 18 |\n| Friday | 40 | 5 |\n| Saturday | 75 | 4 |\n\n(Each day's return count equals a fixed share of the previous day's deliveries: Tuesday 30% of Monday's 80, Wednesday 10% of Tuesday's 60, Thursday 15% of Wednesday's 120, Friday 5% of Thursday's 100, Saturday 10% of Friday's 40 - this reconstructed return-rate pattern is confirmed by question 49 below.)"
+  },
+  {
+   "id": "pyq-sbipo-mains20-set8",
+   "section": "quant",
+   "topic": "number-series",
+   "title": "Series Built From HCF and Quadratic Roots",
+   "context": "Consider the series 20, a, b, c, d, 65 where:\na - 20 = X^2 + Y\nb - a = (X + 1)^2 + Y, with b > a\nc - b = (X + 2)^2 + Y, with c > b\nd - c = (X + 3)^2 + Y, with d > c\nGiven X = HCF of M and N, which are (distinct) prime numbers, and Y = the smaller root of z^2 - z - 6 = 0."
+  },
+  {
+   "id": "pyq-sbipo-mains20-set9",
+   "section": "quant",
+   "topic": "caselet-di",
+   "title": "Weighted Exam Score - Written and Practical Papers",
+   "context": "A school conducts an exam with two papers: written (maximum 80 marks) and practical (maximum 60 marks).\nTotal maximum weighted score = 60% of the maximum written marks + 40% of the maximum practical marks.\nTotal obtained weighted score = 60% of the obtained written marks + 40% of the obtained practical marks.\nA obtained a 52 weighted score in the exam.\nB obtained a 52 weighted score in the exam and got 55 marks in the practical paper.\nC obtained 50 marks in the practical paper.\nD obtained 70 marks in the written paper and got 75% in the practical paper."
+  },
+  {
+   "id": "pyq-sbipo-mains20-set10",
+   "section": "quant",
+   "topic": "caselet-di",
+   "title": "Football Tournament - Points and Goals",
+   "context": "A football tournament was played between three teams, A, B and C, with each pair playing one match. Scoring rules: (i) a team gets 2 points for every goal it scores against the opponent; (ii) a team gets 1 extra point for every one of those goals scored from outside the 'D' area; (iii) a team loses 1 point for every goal it concedes. Only three players from each team scored goals across the tournament.\nMatch A vs B: B won this match and got 4 points from it. Team A scored two goals in this match. No player scored a goal from outside the D area in this match.\nMatch A vs C: C got zero points from this match. Only one player from team A scored a goal from outside the D area in this match. A secured four points from this match.\nMatch B vs C: B got six points from this match, and team C scored one goal more than B did in it. Only one player from team B scored a goal from outside the D area in this match.\n\nWorking the scoring rules through each match gives: A scored 2 goals and conceded 3 in the A-B match (net 4 - 3 = 1 point), then scored 2 and conceded 1 (with a bonus) in the A-C match (4 points) - so A totals 4 goals and 5 points. B scored 3 goals (2x2+... with the concession penalty) for 4 points in the A-B match, then scored 6 goals for 6 points in the B-C match - so B totals 9 goals and 10 points. C scored 1 goal (0 points, after conceding) in the A-C match, then scored 7 goals for 8 points in the B-C match - so C totals 8 goals and 8 points."
+  },
+  {
+   "id": "pyq-sbipo-mains20-set11",
+   "section": "quant",
+   "topic": "mixtures-alligations",
+   "title": "Dishonest Milkman - Milk-Water Mixture",
+   "context": "A dishonest milkman keeps a stock of milk mixed with water (initially in the ratio 5:1) and sells it to three customers, P, Q and R, in that order, topping up his stock with milk and/or water after each sale.\nHe sold 120 litres to P, then added 80 litres of milk and 0 litres of water, leaving 560 litres in stock.\nHe then sold Y litres to Q, then added 80 litres of milk and 10 litres of water.\nHe then sold 87 litres to R, then added 3r litres of milk and r litres of water."
+  },
+  {
+   "id": "pyq-sbipo-mains20-set12",
+   "section": "quant",
+   "topic": "caselet-di",
+   "title": "Pie Chart - Yoga Trainers' Class Hours",
+   "context": "Four yoga trainers - A, B, C and D - take classes in a month. A pie chart shows the distribution of the total hours taken by the four trainers: A 20%, B 25%, C 50%, D 5%, of a total of 60 hours (so A = 12 hrs, B = 15 hrs, C = 30 hrs, D = 3 hrs).\nEach class is Basic (1 hour), Regular (2 hours) or Advance (3 hours). No trainer can leave a class early or extend it.\nD does not take any Regular classes - only Basic or Advance."
+  },
+  {
+   "id": "pyq-sbipo-mains20-set13",
+   "section": "quant",
+   "topic": "probability",
+   "title": "Laptop Company - Brand Ambassador Expected Profit",
+   "context": "Annual sales of a laptop company depend on the state of the market and on whether a brand ambassador is used to advertise the product. The market can be in State I, State II or State III, with probabilities 0.4, 0.4 and 0.3 respectively. The per-unit selling price is Rs. 40,000 and the cost price is Rs. 38,500 (assume no change in cost/selling price due to advertising alone). Annual targeted sales (units):\n\n| | State I | State II | State III |\n|---|---|---|---|\n| With brand ambassador | 10000 | 8000 | 5000 |\n| Without brand ambassador | 8000 | 5000 | 3000 |\n\nExpected profit of the company = sum over states of (profit in that state x probability of that state)."
+  },
+  {
+   "id": "pyq-sbipo-mains20-set14",
+   "section": "quant",
+   "topic": "quantity-comparison",
+   "title": "Students Playing Badminton and Tennis",
+   "context": "There are 200 students in a class, each playing badminton, tennis, or both.\nBoys playing only tennis = 1/3 of the total number of girls playing only one game.\nGirls playing badminton = the total number of boys in the class.\nThe number of girls playing both games, and the number of girls playing only tennis, are respectively 40% more than, and twice, the number of boys playing only badminton.\nThe number of boys playing both games is half the number of girls playing only badminton.\n\nSolving: total boys = 75, total girls = 125; boys - only badminton = 25, only tennis = 30, both = 20; girls - only badminton = 40, only tennis = 50, both = 35."
+  },
+  {
+   "id": "pyq-sbipo-mains20-set15",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "title": "RC: Deforestation and Global Warming",
+   "context": "Global warming, largely caused by industrial development and consumer demands, has been causing havoc across the world. Temperatures are shooting up, floods have been ravaging South China and Northeast India, and unseasonal rains and, ironically, delayed and poor monsoon rains are experienced. A major solution to **mitigate** such climate changes is to reduce the levels of greenhouse gases, particularly carbon dioxide, which causes this warming. In an effort to limit this warming, many countries across the world are gathering together and agreeing to make efforts to limit the rise in temperature to no higher than 1.5 degrees by the year 2050. The major way to do so is to increase the number of plants, trees and forests across the world. They all absorb carbon dioxide from the air, and with the help of sunlight and water, produce food (staple for us) and oxygen (which we breathe). And the wood and timber they offer are used by us in buildings and furniture. They are, thus, justly named in Sanskrit as Kalpataru - the wish-giving tree.\n\nYet, we kill them: deforestation has been going on decade after decade across the world, affecting the weather as well as the lives of plants, animals, microbes and the livelihood of human tribes that live in forests. The total surface area of our Earth is 52 billion hectares, and 31% of this has been forest cover. But the huge Amazon forests of South America are being chopped down for commercial reasons. Peru and Bolivia in the western Amazon region are the worst affected by such deforestation; so are Mexico and its neighbours in Mesoamerica. Russia, with forests occupying 45% of its land area, is also chopping down trees. Large-scale deforestation of this kind has contributed to global warming over the years.\n\nThe Food and Agriculture Organization (FAO) defines a 'forest' as a land area of at least 0.5 hectares, covered by at least 10% tree cover, ______________________________. Using this definition, a group of Swiss and French ecologists have analysed the 4.4 billion hectares of tree canopy that can exist under the current climate. Excluding existing trees and agricultural and urban areas, there is room for an extra 0.9 billion hectares. Their analysis, using the latest ecological methods, was published two weeks ago - showing the potential for climate change mitigation through global tree restoration. They point out that more than 50% of this restoration potential can be found in just six countries (Russia, USA, Canada, Australia, Brazil and China). While it is not clear how much of this land is public or private, they confirm that a total of 1 billion hectares (with over 10% tree cover) is achievable.\n\nHappily enough, several groups (and governments) in countries, notably the Philippines and State governments in India, have moved towards more tree plantations. In India, with its 7,08,273 sq km land area, 21.54% has tree cover, and between 2015 and 2018 India added 6,778 sq km of tree cover. Madhya Pradesh has the largest forest cover, followed by Chhattisgarh, Odisha and Arunachal Pradesh, while Punjab, Haryana, UP and Rajasthan have the least."
+  },
+  {
+   "id": "pyq-sbipo-mains20-set16",
+   "section": "english",
+   "topic": "cloze-test",
+   "title": "Cloze: Reviving the Iran Nuclear Deal (JCPOA)",
+   "context": "U.S. President Joe Biden's attempts to revive the Joint Comprehensive Plan of Action (JCPOA), better known as the Iran nuclear deal, have not seen any ___(87)___, with both sides waiting for the other to blink. The Biden administration says it would return to the deal if Iran starts complying with its terms. Tehran, on the other side, asks the U.S., which unilaterally ___(88)___ the deal under the Donald Trump administration in May 2018, to return to the agreement first and lift sanctions on Iran. The EU's efforts to organise direct U.S.-Iran talks were also unsuccessful, as Tehran reportedly ___(89)___ the offer. Iran has also accelerated its nuclear programme. This game of chicken continues as the clock is ticking. Iran will elect a new President in June. Hassan Rouhani, who bet his presidency on the deal - only to be repudiated by Mr. Trump - cannot stand in a third consecutive election. There is no guarantee that a moderate like Mr. Rouhani would be elected this time, and it is not a secret that there is considerable opposition among the hardliners, a powerful constituency, towards any kind of ___(90)___ with the U.S. Mr. Biden's best bet is to get the nuclear agreement back on track before Mr. Rouhani leaves office.\n\nTo be sure, Mr. Biden has moved with a sense of urgency after ___(91)___ power. He appointed a special envoy for Iran, showed signs of rebalancing ties with Saudi Arabia, and sent clear signals to Tehran about America's desire to get back to the deal. But these actions do not seem to be enough to ___(92)___ the trust after the acrimonious Trump years. Some of Iran's concerns are genuine. After the September 11, 2001 terrorist attack, Iran had cooperated with the U.S. in the war against the Taliban. But once the Taliban were ___(93)___ out of power, the Bush administration branded Iran as part of an 'Axis of Evil' along with Iraq and North Korea. As President Barack Obama offered diplomacy, the Iranians grabbed the opportunity, leading to the signing of the JCPOA in 2015."
+  },
+  {
+   "id": "pyq-sbipo-mains20-set17",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "title": "RC: UAE Tourism, MICE Industry and COVID-19",
+   "context": "The development of the MICE industry (meetings, incentives, conferences and events) contributes to economic diversification, stimulates the rational use of cultural and natural-recreational resources, and enables a balanced growth of the whole tourism sector. For the United Arab Emirates (UAE), the tourism sector is especially important as a driver of national gross domestic product (GDP). As stated by the Dubai Annual Visitor Report 2019, at the end of 2019, tourism was **responsible** for contributing an impressive 11.5 per cent of GDP value. Furthermore, according to the World Travel and Tourism Council's Cities Report, Dubai's tourism sector was ranked one of the 'Top 10' strongest economic-share generators.\n\nMore than 2.3 million visitors cited business as their main purpose of travel to Dubai in 2019, marking a two per cent increase compared to 2018. In 2019, Dubai World Trade Centre (DWTC) welcomed a record 3.57 million delegates, which **declared** the visitation growth of up to four per cent from the previous year. Such an increase was driven by 349 MICE and business events, 97 of which were large-scale with over 2,000 attendees. Since 2019, international participation in DWTC events grew by 15 per cent (equivalent to 1.2 million visitors), underlining the strong benefits world businesses see in coming to Dubai to share knowledge, network and accelerate their development. Last year, business tourism events accounted for 3.3% of GDP, amounting to USD 3.57 billion. Business tourism was a key element in **stimulating** national economic growth, and in the near future was supposed to reach intense development, making the UAE among the central players in the global MICE industry. However, the introduced quarantine ruined these plans.\n\nThe COVID-19 pandemic has led to more than 4.3 million confirmed cases and more than 290,000 deaths worldwide. It raised fears of an impending economic crisis and recession. Social distancing, self-isolation, and travel restrictions have **reduced** the workforce in all sectors of the economy and have led to the loss of many jobs. Due to the lack of a vaccine and very limited treatment options, non-pharmaceutical interventions occurred to be the primary strategy to contain the pandemic. Unprecedented global travel restrictions and appeals to stay at home have caused the most critical disruptions of the global economy since World War II. Given the international travel bans that effect more than 90% of the global population and widespread restrictions on public gatherings and community mobility, tourism largely ceased in March 2020. Since the quarantine's introduction, millions of jobs in the global tourism sector were lost due to flight, event and hotel cancellations.\n\nGiven that international arrivals exceeded 1.5 billion for the first time only in 2019, the long-term evolution of tourism is proved to be **great** dependent on a decade of growth since the global financial crisis. Though, this last period of unhindered business tourism development has suddenly come to an end with COVID-19.\n\nAccompanied by quarantine in most countries and closed borders worldwide, the COVID-19 pandemic heavily hit the MICE industry. The majority of domestic and international airlines were forced to cancel their flights due ________________________, as people were frightened. The MICE industry was undermined by government efforts to contain and combat the pandemic. Borders were closed, trips banned, social and business events cancelled, and people were ordered to stay in their homes. By taking these actions, governments around the world sought to strike a balance between maintaining their economies and preventing dangerous levels of unemployment and deprivation."
+  }
+ ],
+ "questions": [
+  {
+   "id": "pyq-sbipo-mains20-q001",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-mains20-set1",
+   "question": "How is O related to Q?",
+   "options": [
+    "Mother",
+    "Father",
+    "Grandmother",
+    "Mother-in-law",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "Since P is married to Q, M being 'the mother-in-law of P' makes M the mother of Q; N (M's only daughter) is Q's sister, and A (M's husband) is Q's father. Q's own mother-in-law must then be the mother of Q's spouse P. The solution clarifies that 'the sister of R' is P herself, and O is 'the mother of R' - so O is also P's mother, making O the mother-in-law of Q.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q002",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains20-set1",
+   "question": "Who among the following sits second to the right of the son of Q?",
+   "options": [
+    "Mother of Q",
+    "Father of B",
+    "Father of N",
+    "Brother of N",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "Working through the seating clues (Q third to the left of his mother-in-law O; O second to the left of P; M immediately left of R; B - Q's son - third to the right of R; A third to the right of N) gives one consistent clockwise order: R - M - P - A - O - B - N - Q - (back to R). B is Q's son (P and Q's child). Two seats to the right of B lands on A, who is N's father (A is Q and N's father, since N is 'the only daughter of M' and A is M's husband). So the answer is 'Father of N'.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q003",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains20-set1",
+   "question": "How many persons sit between P and the sister of Q?",
+   "options": [
+    "Three",
+    "Two",
+    "One",
+    "Four",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "Using the derived order R - M - P - A - O - B - N - Q (circular, 8 seats), the sister of Q is N. Between P and N (going either way round the table) sit exactly three people (A, O, B on one side; Q, R, M on the other) - the arrangement is symmetric, so both arcs have 3.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q004",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-mains20-set1",
+   "question": "Who among the following is the mother of B?",
+   "options": [
+    "P",
+    "M",
+    "O",
+    "R",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "B is 'the grandson of A' and A's children are Q and N; since N is unmarried and is described as B's aunt, B must be Q's son. Q is married to P, so P is B's mother.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q005",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains20-set2",
+   "question": "How many female members are there in the family?",
+   "options": [
+    "Two",
+    "Five",
+    "Four",
+    "Six",
+    "Three"
+   ],
+   "correct": 2,
+   "explanation": "Solving the bench puzzle: seating order (one end to the other) is R, J, L, D, M, G, K, P, A, where D is L's mother, G is D's husband and P's grandfather, L married R (P and J's parents), M is K's husband, and A is R's brother. D, R, J and K are female (four members); A, L, M, G and P are male.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q006",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains20-set2",
+   "question": "How many members face the north direction?",
+   "options": [
+    "Two",
+    "Four",
+    "Three",
+    "Five",
+    "More than five"
+   ],
+   "correct": 1,
+   "explanation": "The extreme ends (R and A) face south, and P faces opposite to R, i.e. north. D faces south (given), and D's two neighbours (L and M) both face the direction opposite to D, i.e. north; M is confirmed to face north directly. L faces the same direction as G, so G also faces north. That makes four north-facers: L, M, G and P. The rest (R, D, K, J, A) face south.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q007",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains20-set2",
+   "question": "How is J related to L?",
+   "options": [
+    "Son",
+    "Brother",
+    "Sister",
+    "Nephew",
+    "Daughter"
+   ],
+   "correct": 4,
+   "explanation": "J is P's sister, and P and J are the children of L and R (L is P's grandfather G's son, married to R). So J is L's daughter.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q008",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains20-set2",
+   "question": "Which of the following pair sits at the extreme ends of the bench?",
+   "options": [
+    "R, A",
+    "P, R",
+    "R, J",
+    "K, R",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "With M fixed at the middle (position 5 of 9) facing north, and both D and G required to sit immediately next to M (so at positions 4 and 6), the constraint 'D sits fourth to the left of P' only fits if D is at position 4 and P at position 8. That forces G to position 6, and placing R at one extreme end (with the other extreme end male, per the clue) and testing 'K sits exactly between A and P's sister (J)' pins the unique order R-J-L-D-M-G-K-P-A. The two extreme seats (1 and 9) are then R and A. (The book's own key prints option (c) 'R, J' here, but J sits second from the R end, not at the far end, and J is stated to be female while the clue requires the far end to be male - this looks like a key/option misprint; R and A are the pair that actually occupies both ends.)",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq",
+    "book-typo-suspect"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q009",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 2,
+   "question": "Statement: As an emerging economic superpower, it is quite tragic that more than one in three children in India are stunted. Stunting is associated with an underdeveloped brain, with long-lasting harmful consequences, and increased risks of nutrition-related chronic diseases, such as diabetes, hypertension, and obesity in future. Thus, stunting can be classified by itself as an illness as it leads to negatively affecting the present and future of the child.\n(I) Higher economic growth and increased spending on nutrition access programmes have not resulted in a proportionate decrease in child malnutrition or stunting.\n(II) Multiple researchers have proven the link between illness and malnutrition/stunting in children.\nWhich of the two statements strengthens or weakens the given statement?",
+   "options": [
+    "Both I and II strengthen",
+    "I strengthens while II weakens",
+    "II strengthens while I weakens",
+    "Statement I strengthens while Statement II is neutral",
+    "Both I and II weaken"
+   ],
+   "correct": 3,
+   "explanation": "Statement I strengthens the given statement, since it shows stunting keeps rising even as economic growth and nutrition spending increase, reinforcing that stunting is a serious, persistent problem. Statement II merely restates an already-assumed link between illness and malnutrition without adding new support or contradiction, so it is neutral with respect to the argument.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q010",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 2,
+   "question": "Statement: Rooftop solar power growth has demonstrated an overall positive trend, but this will need to be scaled up massively to achieve the national target.\nAssumptions:\n(I) With ongoing improvements to solar cell efficiency and battery technology, rooftops will only get more attractive in the future.\n(II) Major solar projects that connect to the grid often face the challenge of land acquisition and transmission connectivity.\n(III) A survey helps determine usable rooftops, separating them from green spaces, and analyses the quality of the solar resource.\nWhich of the assumptions follow from the statement?",
+   "options": [
+    "Only II follows",
+    "Both II and III follow",
+    "Both I and III follow",
+    "Only I follows",
+    "Both I and II follow"
+   ],
+   "correct": 3,
+   "explanation": "Only assumption (I) can be taken as implicit in the statement - the claim that rooftop solar shows a positive trend that needs scaling up presumes rooftops will keep becoming more viable (technology improving). Assumptions (II) and (III) introduce facts about grid-connected projects and survey methodology that are not implied by the statement itself.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q011",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains20-set3",
+   "question": "Which of the following boxes is green in colour?",
+   "options": [
+    "Box D",
+    "Box B",
+    "Box E",
+    "Box C",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "Solving the stack: from top to bottom the boxes sit A(blue), D(green), G(red), C(white), F(yellow), B(pink), E(black) - this satisfies every position clue (two boxes between A and C; yellow immediately below C; one box between yellow and black; two boxes between B and red; E immediately below B; one box between E and F; G immediately below the green box) and every weight clue (heaviest to lightest: B, D, E, C, A, G, F - only two boxes, G and F, are lighter than A; White(C) is just lighter than Black(E); Yellow(F) is just lighter than Red(G); D is just heavier than Black(E)). So D is green.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q012",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-mains20-set3",
+   "question": "Which of the following boxes is the lightest?",
+   "options": [
+    "Box E",
+    "Box D",
+    "Box F",
+    "Box B",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "From the weight order heaviest to lightest - B, D, E, C, A, G, F - box F (yellow) is the lightest.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q013",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains20-set3",
+   "question": "How many boxes are lighter than the box which is kept immediately below A?",
+   "options": [
+    "One",
+    "Four",
+    "Three",
+    "Two",
+    "None of these"
+   ],
+   "correct": 4,
+   "explanation": "The box immediately below A (top of the stack) is D. In the weight order (heaviest to lightest: B, D, E, C, A, G, F), five boxes - E, C, A, G, F - are lighter than D. Since 'five' is not among options (a)-(d), the answer is (e) None of these.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q014",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-mains20-set3",
+   "question": "Box C is of which colour?",
+   "options": [
+    "Green",
+    "Red",
+    "White",
+    "Black",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "From the solved stack (A-blue, D-green, G-red, C-white, F-yellow, B-pink, E-black), box C is white.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q015",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains20-set3",
+   "question": "How many boxes are kept below the box which is just lighter than box D?",
+   "options": [
+    "None",
+    "One",
+    "Two",
+    "Three",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "The box just lighter than D in the weight order is E (black). In the physical stack, E is at the very bottom (7th of 7 boxes), so no box is kept below it - the answer is 'None'.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q016",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "syllogism",
+   "difficulty": 3,
+   "question": "In the question below are given two conclusions followed by some sets of statements. Choose the set of statements that logically satisfies both conclusions given, even if the statements seem to be at variance with commonly known facts.\nConclusions: I. All Home can be Office. II. Some Party is not Building.",
+   "options": [
+    "No Office is Home. No Office is Building. All Office is Party.",
+    "No Home is Building. All Office is Home. All Party is Building.",
+    "All Home is Party. All Office is Party. No Office is Building.",
+    "All Building is Home. Some Home is Office. Some Office is Party.",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "With 'All Home is Party' and 'All Office is Party', Home and Office are both subsets of Party, so it is possible for all of Home to coincide with (or fall inside) Office - this validates conclusion I as a possibility ('All Home can be Office'). Since 'All Office is Party' and 'No Office is Building', the (non-empty) Office group is Party but not Building, which guarantees conclusion II, 'Some Party is not Building', is definitely true. Option (a) directly contradicts conclusion I (No Office is Home rules out all Home being Office), so only option (c) works.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q017",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "syllogism",
+   "difficulty": 3,
+   "question": "In the question below are given two conclusions followed by some sets of statements. Choose the set of statements that logically satisfies both conclusions given, even if the statements seem to be at variance with commonly known facts.\nConclusions: I. Some Dog is not Horse. II. Some Cat can be Horse.",
+   "options": [
+    "Some Horse is Dog. No Elephant is Horse. Some Cat is Dog.",
+    "All Elephant is Cat. All Dog is Horse. Some Elephant is Dog.",
+    "All Elephant is Dog. All Dog is Cat. No Cat is Horse.",
+    "No Elephant is Horse. Some Dog is Elephant. No Dog is Cat.",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "From 'No Elephant is Horse' and 'Some Dog is Elephant', the Dog-Elephant overlap cannot be Horse, so 'Some Dog is not Horse' is definitely true (conclusion I). Since these statements say nothing at all relating Cat to Horse, nothing rules out an overlap between them, so 'Some Cat can be Horse' remains a valid possibility (conclusion II). Hence option (d).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q018",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "syllogism",
+   "difficulty": 3,
+   "question": "In the question below are given two conclusions followed by some sets of statements. Choose the set of statements that logically satisfies both conclusions given, even if the statements seem to be at variance with commonly known facts.\nConclusions: I. Some Suzuki is Maruti. II. Some Tata are not Honda.",
+   "options": [
+    "Some Suzuki is Honda. No Honda is Maruti. Some Tata is Maruti.",
+    "All Tata is Suzuki. All Maruti is Tata. No Maruti is Honda.",
+    "All Maruti is Tata. All Suzuki is Tata. No Tata is Honda.",
+    "No Maruti is Suzuki. Some Suzuki is Tata. No Tata is Honda.",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "Chaining 'All Maruti is Tata' with 'All Tata is Suzuki' gives 'All Maruti is Suzuki'; since Maruti is non-empty, this guarantees 'Some Suzuki is Maruti' (conclusion I). Because Maruti is a subset of Tata and 'No Maruti is Honda', that same non-empty Maruti-Tata overlap is not Honda, guaranteeing 'Some Tata are not Honda' (conclusion II). Hence option (b).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q019",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains20-set4",
+   "question": "Who among the following has 10 years of working experience?",
+   "options": [
+    "The one who gets 55K",
+    "The one who is just junior than U",
+    "T",
+    "Both (b) and (c)",
+    "Both (a) and (c)"
+   ],
+   "correct": 3,
+   "explanation": "Working the full chain of clues: CEO salary = 100-5 = 95K (15 yrs exp). CMO = 50K, so CLO = 95-50 = 45K. The one with 8 yrs experience has exactly two juniors, so that person is the CTO (rank 3, with CLO and CMO junior to it); since CMO/CTO experience is consecutive, CMO = 7 yrs, CTO = 8 yrs. P's salary, a multiple of 11 between CMO's 50K and CFO's 60K, is 55K, so P = CTO (8 yrs). Testing CFO = 60K and COO = CFO's experience + 3 forces CFO = 10 yrs and COO = 13 yrs; the 10-years person (CFO) earning 10K less than U (who isn't CFO) makes U = COO on 70K. R junior to P and Q junior to R forces Q = CLO (45K, and since R = CMO = 50K, digit-sum 5+0 = 5 = Q's experience) and R = CMO. The remaining two, S and T, take CEO and CFO; 'only two designations between S and P(CTO)' forces S = CEO. So T = CFO = 10 years experience, and T is also 'just junior to U' (COO). Both (b) and (c) point to T.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q020",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains20-set4",
+   "question": "Who among the following is the Chief Executive Officer (CEO)?",
+   "options": [
+    "S",
+    "T",
+    "The one who is getting 70K",
+    "Q",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "As derived above, the final mapping is Q=CLO(45K,5yrs), R=CMO(50K,7yrs), P=CTO(55K,8yrs), T=CFO(60K,10yrs), U=COO(70K,13yrs), S=CEO(95K,15yrs). So S is the CEO.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q021",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains20-set4",
+   "question": "What is the difference between the working experience (in years) of the Chief Operating Officer (COO) and the one who gets a 55K salary?",
+   "options": [
+    "3",
+    "4",
+    "5",
+    "2",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "COO is U with 13 years of experience; the 55K salary belongs to P (CTO) with 8 years. Difference = 13 - 8 = 5.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q022",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains20-set4",
+   "question": "Which of the following statements is true?",
+   "options": [
+    "T is senior to U",
+    "S is getting 95K salary",
+    "More than two employees are junior to P",
+    "P's salary is more than T's salary",
+    "T is the junior-most among all"
+   ],
+   "correct": 1,
+   "explanation": "From the final mapping, S = CEO = 95K, so 'S is getting 95K salary' is true. T (CFO) is junior to U (COO), so (a) is false. Only Q and R are junior to P (CTO), so (c) is false. P (55K) earns less than T (60K), so (d) is false. Q (CLO) is the junior-most, not T, so (e) is false.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q023",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains20-set4",
+   "question": "Who among the following employees is just senior to the one who has 13 years of working experience?",
+   "options": [
+    "S",
+    "T",
+    "P",
+    "R",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "The one with 13 years of experience is U (COO, rank 5). The person just senior (rank 6, CEO) is S.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q024",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 2,
+   "question": "Statement: The Indian Meteorological Department's forecast of above-normal maximum and minimum temperatures across the country during the pre-monsoon March-May period is a timely alert for State authorities to review their preparedness.\n(I) Even a marginal rise above normal will lead to enormous heat stress for millions of Indians.\n(II) A spike in summer temperatures in India is not new, as in recent decades it has resulted in a higher probability of extreme heat waves and caused a lot of deaths.\nWhich of the statements follows as an inference from the given statement?",
+   "options": [
+    "Only II follows",
+    "Only I follows",
+    "Either I or II follows",
+    "Neither I nor II follows",
+    "Both I and II follow"
+   ],
+   "correct": 1,
+   "explanation": "Only statement (I) can be inferred - the forecast of above-normal temperature being called a 'timely alert' implies that even a small rise in temperature causes serious heat stress. Statement (II), about historical trends and deaths, is background information not directly inferable from the given statement about this forecast.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q025",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains20-set5",
+   "question": "Who among the following likes Yellow colour?",
+   "options": [
+    "Anko",
+    "Trisha",
+    "Charu",
+    "Varun",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "Working through the age clues gives: Charu (1928, age 90, Pink), Mohit (1929, age 89, White), Varun (1955, age 63, Blue), Anko (1979, age 39, Yellow), Virat (1995, age 23, Red), Trisha (1998, age 20, Black). So Anko likes Yellow.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q026",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-mains20-set5",
+   "question": "Who among the following is the eldest?",
+   "options": [
+    "Anko",
+    "Mohit",
+    "Charu",
+    "Virat",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "From the solved table, Charu (born 1928, age 90) is the eldest of the six.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q027",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains20-set5",
+   "question": "Which of the following combinations is true?",
+   "options": [
+    "Anko - 1979 - Red",
+    "Varun - 1955 - Yellow",
+    "Charu - 1928 - Pink",
+    "Trisha - 1998 - Blue",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "From the solved table, Charu was born in 1928 and likes Pink, matching option (c) exactly. Anko is Yellow (not Red), Varun is Blue (not Yellow), and Trisha is Black (not Blue).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q028",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-mains20-set5",
+   "question": "Which of the following statements is correct?",
+   "options": [
+    "Anko is younger than Virat",
+    "Virat is the youngest",
+    "Trisha was born in 1998",
+    "Varun is the eldest",
+    "All are correct"
+   ],
+   "correct": 2,
+   "explanation": "From the solved table, Trisha was indeed born in 1998. Anko (39) is older, not younger, than Virat (23); Trisha (20) is the youngest, not Virat; and Charu, not Varun, is the eldest.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q029",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "data-sufficiency-reasoning",
+   "difficulty": 2,
+   "question": "On which day of the week (Monday to Sunday) does Riya leave for Puducherry?\nI. Riya's sister correctly remembers that Riya left for Puducherry one of the days after Wednesday.\nII. Riya's mother correctly remembers that Riya left for Puducherry after Tuesday but before Saturday.",
+   "options": [
+    "If the data in statement I alone are sufficient to answer the question, while the data in statement II alone are not sufficient",
+    "If the data in statement II alone are sufficient to answer the question, while the data in statement I alone are not sufficient",
+    "If the data either in statement I alone or in statement II alone are sufficient",
+    "If the data even in both statements I and II together are not sufficient",
+    "If the data in both statements I and II together are necessary to answer the question"
+   ],
+   "correct": 3,
+   "explanation": "From statement I alone, Riya could have left on Thursday, Friday, Saturday or Sunday. From statement II alone, she could have left on Wednesday, Thursday or Friday. Combining both narrows it to Thursday or Friday, but that is still not a unique day, so even both statements together are insufficient.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q030",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "data-sufficiency-reasoning",
+   "difficulty": 2,
+   "question": "How is N related to M?\nI. M is the father of J. R is the son of K. R is the son-in-law of N. J is the sister of R. O is the only daughter of N.\nII. R is the son of N and is the father-in-law of M. O is the brother of M. K is married to M. K is the only son of R.",
+   "options": [
+    "If the data in statement I alone are sufficient to answer the question, while the data in statement II alone are not sufficient",
+    "If the data in statement II alone are sufficient to answer the question, while the data in statement I alone are not sufficient",
+    "If the data either in statement I alone or in statement II alone are sufficient",
+    "If the data even in both statements I and II together are not sufficient",
+    "If the data in both statements I and II together are necessary to answer the question"
+   ],
+   "correct": 3,
+   "explanation": "Statement I alone only tells us N is the parent of R's wife, without pinning a direct, nameable relation to M. Statement II alone describes a different (and, taken with statement I, mutually inconsistent - R is called N's son-in-law in I but N's son in II) family layout that also does not fix a clean relation to M. Neither statement, alone or combined, yields a definite, describable relation between N and M, matching the key's 'not sufficient' answer; the underlying family diagram for this item was lost in the source (image-only), so this is flagged as a likely book inconsistency rather than a fully clean derivation.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq",
+    "book-typo-suspect"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q031",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "data-sufficiency-reasoning",
+   "difficulty": 2,
+   "question": "Who among Ashu, Ravi, Neha, Nitin and Riya got the highest marks in the examination (out of 100)?\nI. The one who got 75 marks is the person who got the second-highest marks in the examination. Ashu scored more marks than Neha and Riya. Ashu did not get the highest marks.\nII. Riya got more marks than only one person. Neha got more marks than Riya but not the second-highest marks.",
+   "options": [
+    "If the data in statement I alone are sufficient to answer the question, while the data in statement II alone are not sufficient",
+    "If the data in statement II alone are sufficient to answer the question, while the data in statement I alone are not sufficient",
+    "If the data either in statement I alone or in statement II alone are sufficient",
+    "If the data even in both statements I and II together are not sufficient",
+    "If the data in both statements I and II together are necessary to answer the question"
+   ],
+   "correct": 3,
+   "explanation": "From statement I alone, Ashu outscores Neha and Riya but doesn't have the highest marks, and someone else with 75 marks is second-highest - this doesn't by itself name the topper among Ravi and Nitin. From statement II alone, Riya outranks only one person and Neha (who beats Riya) isn't second either - again this doesn't name the topper. Even combined, the two statements place Ashu second (with 75 marks) but leave Ravi and Nitin's order for the top rank undetermined, so together they are still not sufficient.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q032",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "data-sufficiency-reasoning",
+   "difficulty": 2,
+   "question": "Some persons are sitting in a row facing the same direction. How many persons are sitting in the row?\nI. A sits third to the left of G, and second to the right of M. Both M and G do not sit at the end of the row. B sits at the end of the row.\nII. L sits fourth to the left of E and sits at the end of the row. B sits fourth to the right of K, who sits second to the right of A. E sits between M and A.",
+   "options": [
+    "If the data in statement I alone are sufficient to answer the question, while the data in statement II alone are not sufficient",
+    "If the data in statement II alone are sufficient to answer the question, while the data in statement I alone are not sufficient",
+    "If the data either in statement I alone or in statement II alone are sufficient",
+    "If the data even in both statements I and II together are not sufficient",
+    "If the data in both statements I and II together are necessary to answer the question"
+   ],
+   "correct": 4,
+   "explanation": "Neither statement alone fixes the row length. Combining both: A is third to the left of G and second to the right of M, so the order from M is M, _, A, _, _, G (M and G not at the ends). E sits between M and A, and L sits fourth to the left of E at the end of the row, extending the row to the left of M. On the right, K sits second to the right of A (i.e. at G's position or beyond) and B sits fourth to the right of K, at the end of the row. Piecing the full chain together (L at one end, then M, E, A, K/G, and B four places further, at the other end) gives a row of 12 people - only solvable using both statements together.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q033",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "direction-sense",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains20-set6",
+   "question": "What is the distance between U and N?",
+   "options": [
+    "20",
+    "15",
+    "14",
+    "25",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "Placing P at the origin (0,0) and tracing each bus's steps gives (all three buses consistently reach Q at (0,12), confirming the layout): U = (-10, 15) and N = (-10, -10). Both share the same east-west coordinate, so the distance between them is simply |15 - (-10)| = 25.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q034",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "direction-sense",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains20-set6",
+   "question": "S is in which direction and at what distance from B?",
+   "options": [
+    "19, East",
+    "19, West",
+    "20, East",
+    "20, West",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "From the coordinates, S = (-5, 6) and B = (14, 6) - same north-south level, 19 units apart. Since S's east-west coordinate (-5) is less than B's (14), S lies to the West of B, at a distance of 19.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q035",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "direction-sense",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains20-set6",
+   "question": "Which of the following sets of points lie in a straight line?",
+   "options": [
+    "S, R, U",
+    "V, Q, T",
+    "O, N, J",
+    "L, Q, D",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "Computing coordinates for all points (P at the origin): V=(0,15), Q=(0,12), T=(0,6) all share the same east-west coordinate (0), so V, Q and T lie on a single straight (north-south) line. None of the other listed triples share a common line.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q036",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 2,
+   "question": "To provide proper education, we need to improve our education system. To improve the education system, we need good teachers. To provide good teachers, we again need good education. In India there are some good institutes too, but most students opt for a job rather than trying a career in teaching, which requires post-graduation as the minimum eligibility criterion, because they do not get a good salary there.\nCourses of action:\n(I) The salary of teachers should be hiked to encourage them to opt for teaching.\n(II) The minimum eligibility criterion to be a teacher should be graduate rather than post-graduate/PhD, as students can get a job even after graduation.\nWhich course(s) of action follow?",
+   "options": [
+    "Only II follows",
+    "Only I follows",
+    "Either I or II follows",
+    "Neither I nor II follows",
+    "Both I and II follow"
+   ],
+   "correct": 4,
+   "explanation": "Both courses of action follow: hiking teachers' salaries directly addresses the stated reason people avoid teaching (poor pay), and lowering the eligibility bar to graduate level addresses the fact that students commit to other jobs right after graduation, before completing a post-graduate degree.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q037",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 2,
+   "question": "The cost of treatment and proper health care is unaffordable for the already needy masses.\nCourses of action:\n(I) Treatment for every disease should be made free of cost for all.\n(II) The government should establish itself in the manufacturing and distribution of medical equipment.\nWhich course(s) of action follow?",
+   "options": [
+    "Only II follows",
+    "Only I follows",
+    "Either I or II follows",
+    "Neither I nor II follows",
+    "Both I and II follow"
+   ],
+   "correct": 0,
+   "explanation": "Only course of action (II) follows: the government entering manufacturing and distribution of medical equipment can practically bring down treatment costs. Course (I), making all treatment entirely free for everyone, is not a practical or realistic solution and does not follow.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q038",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains20-set7",
+   "question": "Find the sum of the total number of orders delivered on Tuesday and the total orders returned on Wednesday.",
+   "options": [
+    "66",
+    "56",
+    "64",
+    "68",
+    "76"
+   ],
+   "correct": 0,
+   "explanation": "Orders delivered on Tuesday = 60. Orders returned on Wednesday = 6. Sum = 60 + 6 = 66.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q039",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains20-set7",
+   "question": "Total returned orders on Saturday are what percent more or less than that on Wednesday?",
+   "options": [
+    "20%",
+    "66 2/3%",
+    "36 1/3%",
+    "33 1/3%",
+    "30 1/3%"
+   ],
+   "correct": 3,
+   "explanation": "Returns: Wednesday = 6, Saturday = 4. Required percentage = (6 - 4)/6 x 100 = 33 1/3%, i.e. Saturday's returns are 33 1/3% less than Wednesday's.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q040",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains20-set7",
+   "question": "If we arrange the returned orders in increasing order, find the average of the returned orders from Wednesday to Friday (in this sorted order).",
+   "options": [
+    "31/3",
+    "32/3",
+    "29/3",
+    "35/3",
+    "26/3"
+   ],
+   "correct": 2,
+   "explanation": "Sorting all the return values in increasing order gives 4, 5, 6, 18, 24. Taking the middle three of this sorted sequence (5, 6, 18), the required average = (5 + 6 + 18)/3 = 29/3.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q041",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains20-set7",
+   "question": "If we interchange the delivered orders on Friday and Thursday, then find the difference between the orders returned on Friday and Saturday now.",
+   "options": [
+    "8",
+    "16",
+    "24",
+    "4",
+    "6"
+   ],
+   "correct": 0,
+   "explanation": "After interchanging, Thursday's delivered count becomes 40 and Friday's becomes 100. Each day's return is a fixed percentage of the previous day's delivered count: Friday's rate is 5% (originally 5 out of 100) and Saturday's rate is 10% (originally 4 out of 40). New Friday return = 5% of 40 = 2. New Saturday return = 10% of 100 = 10. Required difference = 10 - 2 = 8.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q042",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains20-set7",
+   "question": "Find the ratio of the total orders returned on Tuesday and Thursday together to the total orders received (delivered) on Saturday.",
+   "options": [
+    "7 : 25",
+    "7 : 15",
+    "16 : 25",
+    "12 : 25",
+    "14 : 25"
+   ],
+   "correct": 4,
+   "explanation": "Tuesday's returns (24) + Thursday's returns (18) = 42. Saturday's delivered orders = 75. Ratio = 42 : 75 = 14 : 25.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q043",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-mains20-set7",
+   "question": "Find the total number of returned orders from Tuesday to Saturday.",
+   "options": [
+    "61",
+    "57",
+    "55",
+    "59",
+    "63"
+   ],
+   "correct": 1,
+   "explanation": "Sum of returns Tuesday through Saturday = 24 + 6 + 18 + 5 + 4 = 57.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q044",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "number-series",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains20-set8",
+   "question": "How many of the numbers a, b, c and d are divisible by 3?",
+   "options": [
+    "a & c only",
+    "a, b & d only",
+    "b & d only",
+    "c & d only",
+    "a & d only"
+   ],
+   "correct": 2,
+   "explanation": "The HCF of any two distinct primes is 1, so X = 1. Solving z^2 - z - 6 = 0 gives z = 3 or z = -2, so the smaller root Y = -2. Then a = 20 + 1 - 2 = 19, b = 19 + 4 - 2 = 21, c = 21 + 9 - 2 = 28, d = 28 + 16 - 2 = 42 (and d + 25 - 2 = 65 checks out against the given last term). Of 19, 21, 28, 42 - only 21 (b) and 42 (d) are divisible by 3.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q045",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "number-series",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-mains20-set8",
+   "question": "Find the value of 'd'.",
+   "options": [
+    "19",
+    "21",
+    "28",
+    "42",
+    "48"
+   ],
+   "correct": 3,
+   "explanation": "As derived, the completed series is 20, 19, 21, 28, 42, 65 - so d = 42.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q046",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "caselet-di",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains20-set9",
+   "question": "If C obtained a 65 weightage score in the exam, then find the ratio of the marks obtained by C in the written paper to that of B.",
+   "options": [
+    "2 : 3",
+    "3 : 2",
+    "2 : 1",
+    "3 : 1",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "For B: 52 = 60% of x + 40% of 55, so 0.6x = 52 - 22 = 30, x = 50 (B's written marks). For C (practical = 50, weighted score = 65): 65 = 60% of x + 40% of 50 = 0.6x + 20, so 0.6x = 45, x = 75 (C's written marks). Required ratio = 75 : 50 = 3 : 2.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q047",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "caselet-di",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains20-set9",
+   "question": "If D scored 7 1/7% more marks in the written paper (than the given 70), and C scored 60 marks in the written paper, then find the difference between the obtained weighted scores of C and D as approximately what percent of the maximum weighted score?",
+   "options": [
+    "12%",
+    "8%",
+    "10%",
+    "15%",
+    "5%"
+   ],
+   "correct": 2,
+   "explanation": "Maximum weighted score = 60% of 80 + 40% of 60 = 48 + 24 = 72. D's new written score = 70 x 15/14 = 75. D's weighted score = 60% of 75 + 40% of 45 (75% of 60) = 45 + 18 = 63. C's weighted score (written 60, practical 50) = 60% of 60 + 40% of 50 = 36 + 20 = 56. Difference = 63 - 56 = 7. As a percentage of 72: 7/72 x 100 = 9.72%, approximately 10%.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q048",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "caselet-di",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains20-set9",
+   "question": "If A scored 12% more in the written paper than B, then find the marks obtained by A in the practical paper.",
+   "options": [
+    "46",
+    "48",
+    "42",
+    "36",
+    "40"
+   ],
+   "correct": 0,
+   "explanation": "B's written marks = 50 (from the earlier working), so A's written marks = 50 x 1.12 = 56. A's weighted score is 52, so 52 = 60% of 56 + 40% of n = 33.6 + 0.4n, giving 0.4n = 18.4, so n = 46.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q049",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-sufficiency",
+   "difficulty": 3,
+   "question": "What is the probability of choosing two fresh eggs simultaneously from Tray A, given that there are only two trays, Tray A and Tray B?\nStatement I: Tray B contains 30 eggs, in which fresh and rotten eggs are in the ratio 7:3. The ratio of fresh eggs in Tray A to Tray B is 2:3.\nStatement II: Tray A contains 20 eggs in total, of which 14 are fresh and the rest are rotten.\nStatement III: Tray B contains 30 eggs and Tray A contains 20 eggs. The ratio of rotten to fresh eggs in Tray A is 3:7.",
+   "options": [
+    "Either I or II",
+    "Either II or III",
+    "Any one of them",
+    "I alone",
+    "All statements are required"
+   ],
+   "correct": 1,
+   "explanation": "Statement I gives Tray B's fresh eggs (21 out of 30) and the fresh-egg ratio between A and B, yielding A's fresh count (14) - but it never gives Tray A's total egg count, so the probability (which needs total eggs in A) can't be pinned down from Statement I alone. Statement II directly gives Tray A's total (20) and fresh count (14), so it alone is sufficient. Statement III also directly gives Tray A's total (20) and its fresh:rotten ratio (7:3, i.e. 14 fresh), so it alone is sufficient too - the same numbers as Statement II. Hence either II or III alone suffices, but I alone does not.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q050",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "simplification-approximation",
+   "difficulty": 3,
+   "question": "Read the given statements and determine which are correct.\nStatement I: the eighth root of 8-factorial is greater than the ninth root of 9-factorial.\nStatement II: 2, 19 and 7 are the only prime factors of 408842.\nStatement III: Ram could not have had an average speed of 2a km/hr for the whole journey if he travelled 50% of that distance at an average speed of a km/hr.",
+   "options": [
+    "Both statements I and II are correct",
+    "Both statements II and III are correct",
+    "All statements are correct",
+    "Both statements III and I are correct",
+    "None of the above"
+   ],
+   "correct": 4,
+   "explanation": "Statement I: raising both sides to the LCM power (72) and simplifying reduces the comparison to 8! versus 9^8; since 9^8 is far larger than 8!, the original inequality is false. Statement II: dividing 408842 by 2, 19 and 7 leaves 1537, which factors further as 29 x 53 (both prime) - so 408842 actually has five prime factors, not just three, making the statement false. Statement III: if total distance is 2x with x already covered at speed a, requiring an overall average of 2a leads to x/y = 0 for the remaining leg's speed y, which is impossible - so Ram genuinely could not average 2a, making this statement true. Since only Statement III is true, none of the paired options (which each need two statements simultaneously correct) hold - the answer is 'None of the above'.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q051",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-sufficiency",
+   "difficulty": 3,
+   "question": "P, Q and R entered into a partnership by investing certain amounts for 12 months, T months and (12 - T) months respectively. Find the value of T.\nStatement I: Q invested 50% more than P, and R invested twice what Q invested.\nStatement II: At the end of the partnership, the total profit was Rs. 700, and Q's profit share was Rs. 100.\nStatement III: The ratio of profit share of P to R is 1:2.",
+   "options": [
+    "Only I and II together",
+    "Either I and II, or I and III",
+    "All three statements together are sufficient",
+    "Only II and III together",
+    "Only I and III together"
+   ],
+   "correct": 1,
+   "explanation": "Statement I gives the investment ratio P:Q:R = 2:3:6, but alone doesn't fix T. Statement II gives (P+R):Q profit ratio = 6:1, but alone doesn't split P and R's shares. Statement III gives P:R profit ratio = 1:2, but alone gives no investment amounts. Combining I and II: profit ratio is 24 : 3T : 6(12-T) (investment x time), and setting Q's share 3T out of the total to be 100/700 of the total profit gives 3T/(96-3T) = 100/600, which solves to T = 4. Combining I and III instead: P:R = 24 : 6(12-T) = 1:2 also solves to T = 4. But II and III together (without I) only fix the profit ratios, not the investment ratio, so T cannot be pinned down. Hence T = 4 is obtainable from 'I and II' or from 'I and III', but not from any single statement or from II and III alone.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q052",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-sufficiency",
+   "difficulty": 3,
+   "question": "Find the cost price of an article.\nStatement I: An article is marked up by T% above its cost price and sold at a discount of 20%, and the shopkeeper earns a profit of 44%.\nStatement II: If the shopkeeper offers a discount of 40% on the marked price instead, he still earns a profit of Rs. 16.\nStatement III: If the shopkeeper allows no discount at all on the marked price, the selling price will be Rs. 160 more than the cost price.",
+   "options": [
+    "Only I and II together",
+    "Only I and II, or III together",
+    "All three statements together are sufficient",
+    "Only II and III together",
+    "I and II, or II and III, or I and III"
+   ],
+   "correct": 4,
+   "explanation": "From Statement I: with cost price 100x, selling price = 144x (44% profit) and marked price = 144x / 0.8 = 180x (so T = 80%). This alone has an unknown, x. Combining I and II: selling price at 40% discount = 180x x 0.6 = 108x, and this equals cost price + 16, i.e. 108x - 16 = 100x, giving x = 2, so cost price = Rs. 200. Combining I and III: 180x - 160 = 100x also gives x = 2, cost price Rs. 200. Combining II and III (without I, using the marked-price relation from III directly): 180x - 160 = 108x - 16 again gives x = 2, cost price Rs. 200. So any two of the three statements together pin down the cost price as Rs. 200.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q053",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "quantity-comparison",
+   "difficulty": 2,
+   "question": "If a, b, c and d are positive integers, with (i) c = a(a - 2b) and (ii) d^3 = a^2/b, compare:\nQuantity I: the value of c.\nQuantity II: the value of d.",
+   "options": [
+    "Quantity I > Quantity II",
+    "Quantity I < Quantity II",
+    "Quantity I >= Quantity II",
+    "Quantity I <= Quantity II",
+    "Quantity I = Quantity II, or no relation can be established"
+   ],
+   "correct": 4,
+   "explanation": "There are four unknowns (a, b, c, d) but only two equations connecting them, so neither c nor d can be pinned to a specific numeric value - no definite relationship between Quantity I and Quantity II can be established. (The original printed equations were garbled in the source; this reflects the book's own simplified working, which reaches the same 'cannot be determined' conclusion.)",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq",
+    "book-typo-suspect"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q054",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "caselet-di",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains20-set10",
+   "question": "If the third-ranked team received Rs. 60,000 as prize money, and the ratio of prize money for rank one, rank two and rank three is 8:5:3, which of the following is correct?\n(a) Prize money received by team B is more than Rs. 150,000\n(b) The difference between the prize money received by teams A and B equals the prize money received by team C",
+   "options": [
+    "Prize money of team B is more than Rs. 150,000 (a) only",
+    "Difference between A and B's prize money equals C's prize money (b) only",
+    "Neither (a) nor (b)",
+    "Both (a) and (b)",
+    "Cannot be determined"
+   ],
+   "correct": 3,
+   "explanation": "Ranking by tournament points: B (10 points) is rank 1, C (8 points) is rank 2, A (5 points) is rank 3. A (rank 3) gets Rs. 60,000, so one 'ratio unit' = 20,000. B (rank 1, 8 units) gets 8 x 20,000 = Rs. 160,000, and C (rank 2, 5 units) gets Rs. 100,000. Check (a): 160,000 > 150,000 - true. Check (b): |160,000 - 60,000| = 100,000, which equals C's prize money - true. Both statements hold.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q055",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "caselet-di",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains20-set10",
+   "question": "What is the sum, across the three teams, of the maximum number of goals that could have been scored by a single player on that team over the tournament?",
+   "options": [
+    "11",
+    "12",
+    "13",
+    "15",
+    "16"
+   ],
+   "correct": 3,
+   "explanation": "Each team's 3 scoring players must each score at least 1 goal, so to maximise one player's tally, the other two score exactly 1 each. Team totals across the tournament: A = 4 goals, B = 9 goals, C = 8 goals. Maximum single-player goals: A: 4 - 2 = 2; B: 9 - 2 = 7; C: 8 - 2 = 6. Sum = 2 + 7 + 6 = 15.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q056",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "caselet-di",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains20-set10",
+   "question": "The total points obtained by team A are what percent less than the total points obtained by team B?",
+   "options": [
+    "25%",
+    "50%",
+    "40%",
+    "75%",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "Team A's total points = 5, Team B's total points = 10. Required percentage = (10 - 5)/10 x 100 = 50%.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q057",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "caselet-di",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains20-set10",
+   "question": "By how many points did team B win the tournament, as compared to team C?",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "correct": 1,
+   "explanation": "Team B's total points = 10, Team C's total points = 8. Difference = 2 points.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q058",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "mixtures-alligations",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains20-set11",
+   "question": "If the quantity of mixture the milkman had right before selling to P was 'X' litres, find the value of X.",
+   "options": [
+    "720",
+    "540",
+    "600",
+    "660",
+    "480"
+   ],
+   "correct": 2,
+   "explanation": "Let the stock before selling to P be x litres. After selling 120 litres and adding 80 litres of milk (0 water): x - 120 + 80 = 560, so x = 600.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q059",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "mixtures-alligations",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains20-set11",
+   "question": "If the ratio of milk to water the milkman has just before selling to R is 25:4, find the quantity of mixture he has just before selling to R.",
+   "options": [
+    "580 litres",
+    "660 litres",
+    "425 litres",
+    "520 litres",
+    "740 litres"
+   ],
+   "correct": 0,
+   "explanation": "Before selling to P: milk = 600 x 5/6 = 500, water = 100. After selling to P and topping up: milk = 500 - 100 + 80 = 480, water = 100 - 20 + 0 = 80. Let Y = 7n litres be sold to Q; removing in the 480:80 = 6:1 ratio and then adding 80 milk + 10 water gives milk = 480 - 6n + 80 = 560 - 6n and water = 80 - n + 10 = 90 - n. Setting (560-6n)/(90-n) = 25/4 gives n = 10, so milk = 500, water = 80 just before selling to R - total = 580 litres.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q060",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "mixtures-alligations",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains20-set11",
+   "question": "If the difference between milk and water in the final mixture (after selling to R and topping up again) is 427 litres, find the value of 'r' (use the data from the previous questions).",
+   "options": [
+    "28",
+    "27",
+    "25",
+    "35",
+    "21"
+   ],
+   "correct": 3,
+   "explanation": "Just before selling to R: milk = 500, water = 80 (ratio 25:4). Selling 87 litres removes 87 x 25/29 = 75 milk and 87 x 4/29 = 12 water. After adding 3r milk and r water: final milk = 500 - 75 + 3r = 425 + 3r, final water = 80 - 12 + r = 68 + r. Their difference: (425 + 3r) - (68 + r) = 357 + 2r = 427, so r = 35.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q061",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "caselet-di",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains20-set12",
+   "question": "If A takes twice as many basic classes as advance classes, find the total number of classes taken by A.",
+   "options": [
+    "5",
+    "7",
+    "8",
+    "9",
+    "10"
+   ],
+   "correct": 1,
+   "explanation": "Let A's advance classes = x, basic = 2x, regular = y. In hours: 2x(1hr each) + 2y(2hr each... i.e. 2y hours) + 3x = 12, i.e. 5x + 2y = 12. Testing integers, x = 2, y = 1 works (10 + 2 = 12). So A takes 2 advance + 4 basic + 1 regular = 7 classes in total.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q062",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "caselet-di",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains20-set12",
+   "question": "Next month D takes 10 hours of classes, using the same class pattern as the previous month for three of those hours. If the number of basic classes taken by D next month is twice the number of advance classes, find the difference between the basic and advance classes taken by him next month.",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "correct": 1,
+   "explanation": "D's previous month total was 3 hours (5% of 60), achieved as 3 basic classes (since D never takes Regular classes, and 1 advance class alone would only be 3 hours too - testing the first option through the rest of the constraints). Keeping that pattern (3 basic classes) and adding classes for the remaining 7 of the 10 hours: with p additional advance and q additional basic classes, q + 3p = 7, and total basic (3+q) = 2 x total advance (p) gives 10 - 3p = 2p, so p = 2, q = 1. Total basic = 3 + 1 = 4, total advance = 2. Difference = 4 - 2 = 2.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q063",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "caselet-di",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains20-set12",
+   "question": "B and C take all three types of classes. The basic classes taken by B equal the regular classes taken by him, and C takes four regular classes in the month. If the number of advance classes taken by B and C are the same, find the minimum and maximum number of basic classes taken by C.",
+   "options": [
+    "7, 19",
+    "11, 19",
+    "10, 19",
+    "10, 17",
+    "7, 17"
+   ],
+   "correct": 2,
+   "explanation": "Let B's basic = regular = x, and let the shared advance-class count (same for B and C) be y. For B (15 hours): x + 2x + 3y = 15, so x + y = 5. For C (30 hours, 4 regular classes = 8 hours, basic count n): n + 8 + 3y = 30, so n + 3y = 22. Since B and C must each take at least one class of every type, x >= 1 and y >= 1, so y ranges from 1 to 4 (as x = 5 - y >= 1). n = 22 - 3y: at y=1, n=19 (maximum); at y=4, n=10 (minimum). So basic classes taken by C range from a minimum of 10 to a maximum of 19.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q064",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "time-work",
+   "difficulty": 3,
+   "question": "A can complete a piece of work in 'a' days by working 'm' hours per day, and B can complete the same work in 'b' days by working 'n' hours per day. If each of them reduces their working hours per day by 4 hours, each of them would take 5 days more to finish the work (m, n < 16, and m, n, a, b are all integers). Which of the following is/are possible values for the time taken if A and B work together, with A working 'm' hours per day and B working 'n' hours per day?\nI. 5 days\nII. 4 days\nIII. 10/3 days\nIV. 2.5 days\nV. 3 1/2 days",
+   "options": [
+    "Both I and V",
+    "I, III and IV",
+    "Both I and III",
+    "Both III and IV",
+    "II, IV and V"
+   ],
+   "correct": 1,
+   "explanation": "From a x m = (a+5)(m-4), we get 5m - 4a = 20, whose integer solutions with m < 16 are (m,a) = (8,5) or (12,10); the same equation and constraint give (n,b) = (8,5) or (12,10) for B. Combined work rate (in days) = ab/(a+b): for a=5,b=5 -> 2.5 days; for a=5,b=10 (or a=10,b=5) -> 50/15 = 10/3 days; for a=10,b=10 -> 5 days. So the achievable times are 2.5, 10/3 and 5 days - matching I, III and IV.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q065",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "simple-compound-interest",
+   "difficulty": 2,
+   "question": "A sum of Rs. X is invested in scheme A at 16% p.a. simple interest for five years. 75% of the amount accumulated in scheme A (principal plus interest) is then invested in scheme B, which offers compound interest at 20% p.a. for two years, and the total interest earned from scheme B is Rs. Y. Which of the following (X, Y) pairs is/are consistent with this?\n(A) 8500 & 5049\n(B) 13000 & 7722\n(C) 16000 & 6336\n(D) 7500 & 5940",
+   "options": [
+    "Only C & D",
+    "Only A & B",
+    "Only A, C & D",
+    "Only A & D",
+    "All of A, B, C & D"
+   ],
+   "correct": 1,
+   "explanation": "SI over 5 years at 16% gives an accumulated amount of X + 0.8X = 1.8X in scheme A; 75% of that, 1.35X, goes into scheme B. Two-year CI at 20% has an effective rate of 20+20+(20x20/100) = 44%, so Y = 1.35X x 0.44 = 0.594X = 297X/500. Checking each pair: (A) 8500 x 297/500 = 5049 - matches exactly. (B) 13000 x 297/500 = 7722 - matches exactly. (C) 16000 x 297/500 = 9504, not 6336 - fails. (D) 7500 x 297/500 = 4455, not 5940 - fails. So only A and B are consistent.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq",
+    "book-typo-suspect"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q066",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "probability",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains20-set13",
+   "question": "What is the maximum amount the company can afford to pay its brand ambassador?",
+   "options": [
+    "Rs. 45 lakhs",
+    "Rs. 39 lakhs",
+    "Rs. 36 lakhs",
+    "Rs. 40 lakhs",
+    "Rs. 42 lakhs"
+   ],
+   "correct": 1,
+   "explanation": "The maximum affordable ambassador fee equals the increase in expected profit from using a brand ambassador. Required sum = (40000-38500) x [(10000-8000)x0.4 + (8000-5000)x0.4 + (5000-3000)x0.3] = 1500 x [800+1200+600] = 1500 x 2600 = Rs. 39,00,000 = 39 lakhs.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q067",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "probability",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains20-set13",
+   "question": "If the company signs a contract with Mr. X to be brand ambassador for Rs. 24.5 lakh, find the increment in the company's profit on selling one unit of laptop in the market.",
+   "options": [
+    "Rs. 150",
+    "Rs. 175",
+    "Rs. 183.34",
+    "Rs. 160",
+    "Rs. 166.67"
+   ],
+   "correct": 4,
+   "explanation": "Expected profit with ambassador = 1500 x [10000x0.4 + 8000x0.4 + 5000x0.3] = 1500 x 8700 = Rs. 130.5 lakhs. Expected profit without ambassador = 1500 x [8000x0.4 + 5000x0.4 + 3000x0.3] = 1500 x 6100 = Rs. 91.5 lakhs. Net gain after the Rs. 24.5 lakh fee = 130.5 - 91.5 - 24.5 = Rs. 14.5 lakhs, which is realised as an increment 'x' per unit across the 8700 weighted units: x x 8700 = 14,50,000, so x = Rs. 166.67.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q068",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "probability",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains20-set13",
+   "question": "If, after signing the contract for Rs. 24.5 lakh, the cost price of a laptop also goes up by Rs. 100 in each market state, find the total profit earned by the company.",
+   "options": [
+    "Rs. 5.8 lakhs",
+    "Rs. 6.2 lakhs",
+    "Rs. 4.5 lakhs",
+    "Rs. 5 lakhs",
+    "Rs. 6.4 lakhs"
+   ],
+   "correct": 0,
+   "explanation": "Profit with ambassador at the higher cost price = (40000-38500-100) x 8700 = 1400 x 8700 = Rs. 121.8 lakhs. Profit without ambassador (unaffected, original cost) = Rs. 91.5 lakhs (as before). Net profit after paying the Rs. 24.5 lakh fee = 121.8 - 91.5 - 24.5 = Rs. 5.8 lakhs.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q069",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "quantity-comparison",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains20-set14",
+   "question": "Quantity I: Number of boys playing tennis.\nQuantity II: Number of girls playing only tennis.\nQuantity III: Difference between the number of boys playing only badminton and the number of students playing both games together.",
+   "options": [
+    "Quantity II > Quantity III > Quantity I",
+    "Quantity I = Quantity II = Quantity III",
+    "Quantity I = Quantity II > Quantity III",
+    "Quantity II < Quantity I > Quantity III",
+    "Quantity III = Quantity I > Quantity II"
+   ],
+   "correct": 2,
+   "explanation": "Quantity I: boys playing tennis (only + both) = 30 + 20 = 50. Quantity II: girls playing only tennis = 50. Quantity III: students playing both games = boys-both (20) + girls-both (35) = 55; difference from boys-only-badminton (25) = |25-55| = 30. So Quantity I = Quantity II (50) > Quantity III (30).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q070",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "quantity-comparison",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains20-set14",
+   "question": "Quantity I: Difference between the number of girls playing only badminton and the number of girls playing only tennis.\nQuantity II: 60% of the number of boys playing both games.\nQuantity III: 40% of the difference between the number of boys playing only badminton and the number of girls playing only tennis.",
+   "options": [
+    "Quantity II = Quantity I > Quantity III",
+    "Quantity I = Quantity II = Quantity III",
+    "Quantity III = Quantity II > Quantity III",
+    "Quantity II > Quantity III = Quantity I",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "Quantity I: |50 - 40| = 10 (girls only-tennis vs only-badminton). Quantity II: 60% of 20 (boys-both) = 12. Quantity III: 40% of |25 - 50| (boys-only-badminton vs girls-only-tennis) = 40% of 25 = 10. So Quantity II (12) > Quantity III (10) = Quantity I (10).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q071",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "quantity-comparison",
+   "difficulty": 3,
+   "question": "Compare the following three quantities.\nQuantity I: 'b' - A first vessel contains 40 litres of mixture (milk:water = 2:1). A second vessel contains only 'a' litres of water. When 'b' litres of mixture is taken out from the first vessel and poured into the second, the ratio of milk to water in the second vessel becomes 2:3. If instead 33 litres of mixture is taken from the first vessel and added to the second, the quantity of milk and water become equal in the second vessel. Find 'b'.\nQuantity II: 'c' - 20 litres of a 15%-acid solution is mixed with 'c' litres of a 30%-acid solution so that the acid content of the resulting mixture is between 22.5% and 25% (inclusive). Find the range of 'c'.\nQuantity III: Vessels A and B contain mixtures of three cold drinks (Sprite, Fanta, Coke) in the ratio 5:3:8 and 3:2:2 respectively. If both vessels are mixed in the ratio 8:7 into vessel C, and the difference between the quantities of Sprite (contributed by A and by B) in C is four litres, find the difference between the quantities of Fanta and Coke in vessel C.",
+   "options": [
+    "Quantity II < Quantity I <= Quantity III",
+    "Quantity I < Quantity III <= Quantity II",
+    "Quantity III = Quantity II > Quantity III",
+    "Quantity II >= Quantity III = Quantity I",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "Quantity I: with a = 11 litres (from the 33-litre condition: 33 x 2/3 = 22 milk equals 11 + a of water, giving a = 11), and 2b = 3a from the first condition, b = 16.5. Quantity II: the acid-content boundaries give c = 20 litres (at exactly 22.5%) and c = 40 litres (at exactly 25%), so 20 <= c <= 40. Quantity III: scaling factor works out to x = 8, giving a required difference of 20 litres. Comparing: Quantity I (16.5) is less than Quantity III (20), and Quantity III (20) is less than or equal to Quantity II's range (20 to 40) - so Quantity I < Quantity III <= Quantity II.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q072",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "quantity-comparison",
+   "difficulty": 3,
+   "question": "Compare the following three quantities.\nQuantity I: India's chances of winning a match against England are 1/5. What is the minimum number of matches India should play against England so that there is a fair (at least 50%) chance of winning at least one match?\nQuantity II: How many five-digit numbers are possible where the unit digit is prime, and the product of all the digits of that number is also prime?\nQuantity III: A and B start walking towards each other at 6 AM at respective speeds of 5 km/h and 8 km/h. They meet at a point, stop for coffee, and at 12:04 PM resume walking towards their original destinations. Find the time spent on coffee (in minutes), if A reaches his destination at 9:40 PM.",
+   "options": [
+    "Quantity II < Quantity I <= Quantity III",
+    "Quantity I < Quantity III <= Quantity II",
+    "Quantity III = Quantity II > Quantity III",
+    "Quantity II >= Quantity III = Quantity I",
+    "None of these"
+   ],
+   "correct": 4,
+   "explanation": "Quantity I: need 1-(4/5)^x >= 1/2, i.e. (4/5)^x <= 1/2; testing x=4 gives 256/625 < 1/2 (the first x that works), so minimum matches = 4. Quantity II: for the digit product to be prime, four of the five digits must be 1 and the fifth (the prime unit digit) supplies the only prime factor, giving numbers 11112, 11113, 11115, 11117 - so 4 such numbers. Quantity III: if they meet t hours after 6 AM, B has then covered 8t km, which A must cover afterward at 5 km/h to reach the original meeting-adjacent destination by 9:40 PM; solving the timeline gives t = 6 hours (meeting at noon), and the coffee break lasts from 12:00 PM to 12:04 PM, i.e. 4 minutes. All three quantities equal 4, but since none of the listed strict-inequality patterns captures 'all three equal', the answer is 'None of these'.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q073",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains20-set15",
+   "question": "As per the given information, infer the impact of increasing demand (on nature).",
+   "options": [
+    "Agriculture will become an attractive source of income for more people.",
+    "Earth's climate will face catastrophic changes.",
+    "Plantation will happen for more production of goods having great demand.",
+    "There will be fewer natural calamities with the use of advanced technologies.",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "The opening line states global warming, driven by industrial development and consumer demand, 'has been causing havoc across the world' - i.e. the earth's climate will face catastrophic changes.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q074",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains20-set15",
+   "question": "Which of the following statements is false as per the information given in the passage?",
+   "options": [
+    "Cutting down trees is the reason for the decrease in greenhouse gases.",
+    "Approximately one-third of the total surface area is covered by forest.",
+    "Countries need to come forward to manage increasing temperatures.",
+    "Many major countries are facing deforestation for commercial purposes.",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "The passage says the opposite - reducing greenhouse gases (via more trees, not cutting them down) is the solution; cutting down trees actually contributes to more, not less, greenhouse gas. The other statements are supported directly by the passage (31% forest cover roughly a third of the surface; countries gathering to limit temperature rise; the Amazon, Mexico, Russia facing commercial deforestation).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q075",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains20-set15",
+   "question": "Which of the following statements supports a 'partial recovery' by some nations?",
+   "options": [
+    "Only six countries are responsible for full restoration while all countries are responsible for deforestation.",
+    "The effect is more from the cutting down of the largest forest in the world.",
+    "Only six countries, among the many, are able to restore more than half of the forest (restoration potential).",
+    "Deforestation is mainly due to two countries, South America and Russia.",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "The passage states more than 50% of the restoration potential can be found in just six countries (Russia, USA, Canada, Australia, Brazil and China) - a partial, concentrated recovery effort among many nations, matching option (c).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q076",
+   "stage": "mains",
+   "section": "english",
+   "topic": "vocabulary",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-mains20-set15",
+   "question": "Select the word which is a synonym of the word 'mitigate' (shown in bold in the passage).",
+   "options": [
+    "Lessen",
+    "Emphasize",
+    "Exaggerate",
+    "Promote",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "'Mitigate' means to make something less severe or harsh - closest in meaning to 'lessen'. 'Emphasize' means to give special importance to; 'exaggerate' means to overstate; 'promote' means to support or encourage - none of these match.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q077",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains20-set15",
+   "question": "Which of the following step(s) is/are taken by different countries/governments, as per the passage?\n(i) Governments are planning to form an international organisation to make rules more stringent.\n(ii) Overseas governments are coming forward to promote plantation.\n(iii) Huge plantation has been initiated by State governments in many states.",
+   "options": [
+    "Only (i)",
+    "Only (ii)",
+    "Only (iii) and (i)",
+    "Only (iii) and (ii)",
+    "All (i), (ii) and (iii)"
+   ],
+   "correct": 3,
+   "explanation": "The passage supports (ii) - countries gathering to agree on limiting temperature rise via more plantation - and (iii) - the Philippines and Indian State governments moving towards more tree plantation. Statement (i), about forming a new international organisation with stricter rules, is not mentioned anywhere in the passage.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q078",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains20-set15",
+   "question": "Which of the following phrases best fills the blank given in the passage (in the paragraph defining 'forest')?",
+   "options": [
+    "Comply with the consumer demands for zero-deforestation products.",
+    "Poor implementation of the existing ones cited as the main cause.",
+    "Deforestation due to commodity-driven plantations.",
+    "Without any agricultural activity or human settlement.",
+    "The amount of forest land taken over by industrially valuable crops."
+   ],
+   "correct": 3,
+   "explanation": "The FAO's definition of 'forest' as land with tree cover is logically completed by excluding land used for farming or settlements - 'without any agricultural activity or human settlement' - which also fits with the next sentence excluding 'agricultural and urban areas' from the tree-canopy calculation.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q079",
+   "stage": "mains",
+   "section": "english",
+   "topic": "cloze-test",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains20-set16",
+   "question": "Fill in blank (87) with the most appropriate pair of words.",
+   "options": [
+    "anatomy, speculate",
+    "significance, implication",
+    "breakthrough, success",
+    "surprise, factor",
+    "rival, enemy"
+   ],
+   "correct": 2,
+   "explanation": "The paragraph describes a stand-off between the U.S. and Iran with 'both sides waiting for the other to blink' - i.e. no 'breakthrough, success' has been achieved yet. 'Anatomy' means a body; 'implication' means an unstated conclusion; 'rival' means an equal competitor - none fit the context of a stalled negotiation.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q080",
+   "stage": "mains",
+   "section": "english",
+   "topic": "cloze-test",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains20-set16",
+   "question": "Fill in blank (88) with the most appropriate pair of words.",
+   "options": [
+    "relate, oppose",
+    "thaw, announce",
+    "resolve, tangle",
+    "prevail, provoke",
+    "quit, leave"
+   ],
+   "correct": 4,
+   "explanation": "The U.S. 'unilaterally quit/left' the JCPOA under the Trump administration in 2018 - this is a well-known historical fact and fits the sentence structure ('which unilaterally ___ the deal'). 'Thaw' means to become less hostile; 'resolve' means to settle; 'prevail' means to win out - none match 'quit the deal'.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q081",
+   "stage": "mains",
+   "section": "english",
+   "topic": "cloze-test",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains20-set16",
+   "question": "Fill in blank (89) with the most appropriate pair of words.",
+   "options": [
+    "rejected, refused",
+    "routed, directed",
+    "extend, enhance",
+    "include, involve",
+    "describe, recall"
+   ],
+   "correct": 0,
+   "explanation": "The EU's effort to organise direct U.S.-Iran talks was 'unsuccessful' because Tehran reportedly 'rejected, refused' the offer. 'Routed' means defeated and forced to retreat; 'extend/enhance' mean to increase; 'recall' means to remember - none fit turning down an offer.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q082",
+   "stage": "mains",
+   "section": "english",
+   "topic": "cloze-test",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains20-set16",
+   "question": "Fill in blank (90) with the most appropriate pair of words.",
+   "options": [
+    "agreement, consent",
+    "conflict, infringement",
+    "reallocate, defuse",
+    "engagement, involvement",
+    "growing, becoming"
+   ],
+   "correct": 3,
+   "explanation": "Iranian hardliners oppose any kind of 'engagement, involvement' with the U.S. - this fits the context of resistance to renewed diplomatic ties. 'Consent' means permission; 'infringement' means violating a law/rule; 'defuse' means to make a situation less tense - none fit as well as 'engagement, involvement'.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q083",
+   "stage": "mains",
+   "section": "english",
+   "topic": "cloze-test",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains20-set16",
+   "question": "Fill in blank (91) with the most appropriate pair of words.",
+   "options": [
+    "violate, break",
+    "deploy, secure",
+    "assuming, undertaking",
+    "granting, allowing",
+    "giving, renounce"
+   ],
+   "correct": 2,
+   "explanation": "Biden moved urgently after 'assuming, undertaking' [i.e. taking on] power/office. 'Deploy' means to move troops into position; 'granting' means agreeing to give something requested; 'renounce' means to formally give up - none fit 'after taking office' as well as 'assuming'.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q084",
+   "stage": "mains",
+   "section": "english",
+   "topic": "cloze-test",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains20-set16",
+   "question": "Fill in blank (92) with the most appropriate pair of words.",
+   "options": [
+    "indicate, reason",
+    "deluge, dilute",
+    "forming, planning",
+    "rebuild, restore",
+    "enshrine, implicate"
+   ],
+   "correct": 3,
+   "explanation": "Biden's actions 'do not seem to be enough to rebuild, restore the trust' after the acrimonious Trump years - 'rebuild/restore trust' is the natural collocation. 'Deluge' means a flood; 'enshrine' means to preserve reverently; 'implicate' means to show involvement in wrongdoing - none fit.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q085",
+   "stage": "mains",
+   "section": "english",
+   "topic": "cloze-test",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains20-set16",
+   "question": "Fill in blank (93) with the most appropriate pair of words.",
+   "options": [
+    "delineated, dividing",
+    "appoint, posted",
+    "driven, push",
+    "aligned, commute",
+    "remove, vanish"
+   ],
+   "correct": 2,
+   "explanation": "Once the Taliban were 'driven, push[ed]' out of power (after the U.S.-led war), the Bush administration branded Iran as part of an 'Axis of Evil'. 'Delineated' means described in detail; 'aligned' means arranged in a line; 'commute' means to travel to work - none fit 'forced out of power' as well as 'driven'.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q086",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains20-set17",
+   "question": "From which of the following statements can the impact of COVID-19 on the UAE be inferred?",
+   "options": [
+    "Local tourist numbers stayed the same because COVID-19 had less impact.",
+    "Tourism is the only sector in the UAE that was affected by the pandemic.",
+    "UAE's economic rank improved because other countries fared worse in the pandemic.",
+    "The country's GDP growth from tourism took a hit due to lower demand in the tourism sector.",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "Since tourism contributed 11.5% of UAE's GDP in 2019, and the passage describes tourism 'largely ceasing' in March 2020 due to the pandemic, it can be inferred that the country's GDP was negatively affected by the collapse in tourism demand.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q087",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains20-set17",
+   "question": "What is the reason for other countries' attraction to the UAE for business and trade purposes?",
+   "options": [
+    "Easy trade policies and government support for trade increase tourism for business.",
+    "The country provides vast opportunities for the flourishing of new ideas and relations.",
+    "UAE has huge natural resources which lure other countries for investment.",
+    "UAE is a developing country with more opportunities for investment and ideas.",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "The passage states that international businesses see 'strong benefits...in coming to Dubai with the aim of sharing knowledge, networking and accelerating their development' - i.e. the country offers rich opportunities for new ideas and relationships to flourish, matching option (b).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q088",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains20-set17",
+   "question": "What is the reason for greater unemployment in the tourism industry compared to other sectors?\n(a) People were facing financial crises due to job losses in other sectors too.\n(b) Shutdown of many tourism businesses, as this is a highly mobility-dependent, high-risk sector.\n(c) A downturn in tourism as people avoided travelling, unwilling to face quarantine.",
+   "options": [
+    "Only (a)",
+    "Only (b)",
+    "Only (c)",
+    "Only (a) and (c)",
+    "Only (b) and (c)"
+   ],
+   "correct": 4,
+   "explanation": "The passage attributes the tourism sector's job losses to travel restrictions/bans and people avoiding travel due to the pandemic and quarantine requirements, which directly support reasons (b) and (c); reason (a) reverses the causality (blaming other sectors) and isn't what the passage describes.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q089",
+   "stage": "mains",
+   "section": "english",
+   "topic": "word-usage",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains20-set17",
+   "question": "In the passage, a few words are highlighted (in bold) which may or may not be contextually and grammatically correct. Find the incorrect word.",
+   "options": [
+    "responsible",
+    "declared",
+    "stimulating",
+    "reduced",
+    "great"
+   ],
+   "correct": 4,
+   "explanation": "'Great' is used to modify the adjective 'dependent' ('proved to be great dependent on...'), but an adverb is needed there, not an adjective - it should be 'greatly dependent'. The other bolded words (responsible, declared, stimulating, reduced) are all used correctly in their sentences.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q090",
+   "stage": "mains",
+   "section": "english",
+   "topic": "fillers",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains20-set17",
+   "question": "Which of the following phrases best fills the blank given in the passage (about airlines cancelling flights)?",
+   "options": [
+    "To enforce severe quarantine measures and a lack of passengers.",
+    "Ensuring tourism's restart and recovery puts people first.",
+    "Most reliant on tourism for jobs and economic growth.",
+    "With immense socio-economic consequences for communities reliant on tourism.",
+    "Particularly for workers temporarily without jobs and for job seekers."
+   ],
+   "correct": 0,
+   "explanation": "The sentence needs a reason for airlines cancelling flights, tied to 'as people were frightened' - 'to enforce severe quarantine measures and a lack of passengers' directly supplies that cause-and-effect link. The other options discuss unrelated downstream consequences rather than the reason for flight cancellations.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q091",
+   "stage": "mains",
+   "section": "english",
+   "topic": "error-spotting",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains20-set17",
+   "question": "There is a highlighted sentence in the passage which may or may not contain a grammatical error: 'Given the international travel bans that effect more than 90% of the global population and widespread restrictions on public gatherings and community mobility, tourism largely ceased in March 2020.' If there is an error, find which part contains it.",
+   "options": [
+    "Given the international travel bans",
+    "that effect more than 90% of",
+    "the global population and widespread,",
+    "restrictions on public gatherings and community mobility",
+    "tourism largely ceased in March 2020."
+   ],
+   "correct": 1,
+   "explanation": "The error is in 'that effect more than 90%' - 'effect' is a noun, but a verb is needed here; it should be 'affect' (to have an impact on).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q092",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains20-set17",
+   "question": "Which of the following statements is/are true as per the information given in the passage?\n(A) Total lockdown on the tourism sector was challenging for the government, as there was a high risk of impoverishment.\n(B) MICE and DWTC play an important role in the increase in international participation.\n(C) The year before the COVID-19 outbreak was excellent for tourism.",
+   "options": [
+    "Only (A) and (B)",
+    "Only (C)",
+    "Only (A)",
+    "Both (B) and (C)",
+    "All (A), (B) and (C)"
+   ],
+   "correct": 4,
+   "explanation": "All three statements are supported: (A) by the passage's mention of governments balancing economies against 'dangerous levels of unemployment and deprivation'; (B) by DWTC's record delegate numbers and international participation growth; (C) by 2019 seeing record international arrivals (1.5 billion) and a decade of tourism growth, i.e. 2019 was an excellent year for tourism just before COVID-19 hit.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q093",
+   "stage": "mains",
+   "section": "english",
+   "topic": "error-spotting",
+   "difficulty": 2,
+   "question": "Each sentence below has two highlighted words which may or may not be contextually/grammatically incorrect. Find the correct combination(s) of words that must be swapped with each other to make both sentences correct.\n(I) A smooth and inequality (A) roll-out of the vaccine, with the private sector drafted in to achieve scale, is an imperative to help India navigate the bumps ahead more deftly (B).\n(II) Democracy demands informed debate, especially when it comes to economic expeditious (C), which has been admittedly growing exponentially (D) in India.",
+   "options": [
+    "Both (A)-(D) and (B)-(C)",
+    "Only (A)-(C)",
+    "Only (A)-(D)",
+    "Only (B)-(D)",
+    "No correction required"
+   ],
+   "correct": 1,
+   "explanation": "Swapping (A) 'inequality' with (C) 'expeditious' fixes both sentences: 'A smooth and expeditious roll-out of the vaccine...' and 'economic inequality, which has been admittedly growing exponentially in India' - both now read correctly. (B) 'deftly' and (D) 'exponentially' are already correct where they are.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q094",
+   "stage": "mains",
+   "section": "english",
+   "topic": "error-spotting",
+   "difficulty": 2,
+   "question": "Each sentence below has two highlighted words which may or may not be contextually/grammatically incorrect. Find the correct combination(s) of words that must be swapped with each other to make both sentences correct.\n(I) Public possession (A) of COVID-appropriate behaviour cannot be valuables (B).\n(II) Those who have information about storage, compliance (C) or movement of a large amount of cash or jewellery or other diluted (D) can pass it on to the control room.",
+   "options": [
+    "Both (A)-(C) and (B)-(D)",
+    "Only (A)-(C)",
+    "Only (A)-(D)",
+    "Only (B)-(D)",
+    "No correction required"
+   ],
+   "correct": 0,
+   "explanation": "Swapping (A) 'possession' with (C) 'compliance', and (B) 'valuables' with (D) 'diluted', fixes both sentences: 'Public compliance of COVID-appropriate behaviour cannot be diluted' and '...information about storage, possession or movement of...cash or jewellery or other valuables...'.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q095",
+   "stage": "mains",
+   "section": "english",
+   "topic": "error-spotting",
+   "difficulty": 2,
+   "question": "Each sentence below has two highlighted words which may or may not be contextually/grammatically incorrect. Find the correct combination(s) of words that must be swapped, or determine no correction is required.\n(I) COVID-19 patients have to get a certificate (A) from sanitation officers to cast a postal ballot before submitting (B) it to the returning officers.\n(II) The filled-in applications for postal ballot will be received (C) from the voters by a mobile team after the list of candidates is finalized (D) in each of the 16 Assembly constituencies in the district.",
+   "options": [
+    "Both (A)-(D)",
+    "Only (A)-(C)",
+    "Only (A)-(D)",
+    "Only (B)-(D) and (B)-(C)",
+    "No correction required"
+   ],
+   "correct": 4,
+   "explanation": "Both statements are already contextually and grammatically correct as given - 'certificate', 'submitting', 'received' and 'finalized' are all used appropriately, so no correction is required.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q096",
+   "stage": "mains",
+   "section": "english",
+   "topic": "error-spotting",
+   "difficulty": 2,
+   "question": "Each sentence below has two highlighted words which may or may not be contextually/grammatically incorrect. Find the correct combination(s) of words that must be swapped with each other to make both sentences correct.\n(I) The city police, with the help of traders, removed focus (A) from mandating (B).\n(II) Several colleges and universities in India have rules pavements (C) that campuses be apolitical spaces where students should encroachments (D) on studies.",
+   "options": [
+    "Only (B)-(D)",
+    "Only (A)-(D) and (B)-(C)",
+    "Only (A)-(D)",
+    "Both (A)-(C) and (B)-(D)",
+    "No correction required"
+   ],
+   "correct": 1,
+   "explanation": "Swapping (A) 'focus' with (D) 'encroachments', and (B) 'mandating' with (C) 'pavements', fixes both sentences: 'The city police...removed encroachments from pavements' and 'Several colleges and universities...have rules mandating that campuses be apolitical spaces where students should focus on studies.'",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q097",
+   "stage": "mains",
+   "section": "english",
+   "topic": "sentence-connectors",
+   "difficulty": 2,
+   "question": "Connect the most suitable pair of phrases from Column I and Column II using one of the given connector words, to form a correct, coherent sentence.\nColumn I: (A) Bulls seem to be returning (B) Throwback pic of Jeff Bezos (C) The number of COVID-19 cases\nColumn II: (D) Elon Musk's meeting goes viral (E) NIFTY are showing all bearish signals (F) the second day in a row\nConnectors: (i) and (ii) but (iii) Otherwise",
+   "options": [
+    "(A)-(ii)-(E)",
+    "(B)-(iii)-(F) and (A)-(ii)-(D)",
+    "(A)-(ii)-(E) and (B)-(i)-(D)",
+    "(C)-(i)-(D) and (B)-(ii)-(F)",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "'Bulls seem to be returning BUT NIFTY are showing all bearish signals' (A-ii-E) and 'Throwback pic of Jeff Bezos AND Elon Musk's meeting goes viral' (B-i-D) are both coherent, contrasting/additive combinations. The other pairings don't form sensible sentences with the given connectors.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q098",
+   "stage": "mains",
+   "section": "english",
+   "topic": "sentence-connectors",
+   "difficulty": 2,
+   "question": "Connect the most suitable pair(s) of phrases from Column I and Column II using one of the given connector words, to form correct, coherent sentence(s).\nColumn I: (A) A peek into the world of solitary bees who (B) The number of COVID-19 cases continued (C) More funds should be allocated for free vaccination\nColumn II: (D) live in hives nor make honey (E) upward trend in the Capital (F) most people can't afford vaccination\nConnectors: (i) neither (ii) but (iii) as",
+   "options": [
+    "(A)-(iii)-(E)",
+    "(A)-(i)-(D) and (C)-(iii)-(F)",
+    "(C)-(i)-(D) and (B)-(ii)-(F)",
+    "(B)-(iii)-(F) and (A)-(ii)-(D)",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "'A peek into the world of solitary bees who NEITHER live in hives NOR make honey' (A-i-D, using the neither...nor pattern) and 'More funds should be allocated for free vaccination AS most people can't afford vaccination' (C-iii-F) are both coherent.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q099",
+   "stage": "mains",
+   "section": "english",
+   "topic": "sentence-connectors",
+   "difficulty": 2,
+   "question": "Connect the most suitable pair of phrases from Column I and Column II using one of the given connector words, to form a correct, coherent sentence.\nColumn I: (A) 50 trees hacked illegally in twin town (B) Cloudy weather and light rain (C) A large number of protesters from Western Uttar Pradesh\nColumn II: (D) order was to trim (E) started gathering at the Ghazipur border (F) likely to bring the mercury down\nConnectors: (i) although (ii) even (iii) in spite",
+   "options": [
+    "(B)-(ii)-(F) and (C)-(iii)-(E)",
+    "(C)-(iii)-(F) and (A)-(ii)-(E)",
+    "(B)-(iii)-(D) and (C)-(ii)-(F)",
+    "(A)-(i)-(D)",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "'50 trees hacked illegally in twin town ALTHOUGH the order was to trim' (A-i-D) is the only pairing that forms a coherent sentence with the given connectors.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q100",
+   "stage": "mains",
+   "section": "english",
+   "topic": "sentence-connectors",
+   "difficulty": 2,
+   "question": "Connect the most suitable pair(s) of phrases from Column I and Column II using one of the given connector words, to form correct, coherent sentence(s).\nColumn I: (A) We continue to believe in the growth of the company (B) The petition stated that in case of emergencies, (C) They sell makeup products and fashion accessories\nColumn II: (D) products for men and women on website (E) few have retained our stakes for fund (F) eradicated reserved lane for unrestricted use of emergency services\nConnectors: (i) as (ii) as well as (iii) therefore",
+   "options": [
+    "(A)-(iii)-(E) and (C)-(ii)-(D)",
+    "(A)-(iii)-(F) and (B)-(i)-(E)",
+    "(C)-(iii)-(F) and (B)-(ii)-(D)",
+    "(A)-(i)-(E)",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "'We continue to believe in the growth of the company THEREFORE few have retained our stakes for fund' (A-iii-E) and 'They sell makeup products and fashion accessories AS WELL AS products for men and women on website' (C-ii-D) are both coherent.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q101",
+   "stage": "mains",
+   "section": "english",
+   "topic": "sentence-connectors",
+   "difficulty": 2,
+   "question": "Connect the most suitable pair of phrases from Column I and Column II using one of the given connector words, to form a correct, coherent sentence.\nColumn I: (A) When you look at the number of voters (B) In view of the ongoing farmers' agitation (C) Only 5% Gujarat land is acquired\nColumn II: (D) a beneficiary namghar, the move could be a mathematical masterstroke (E) to be acquired for Mumbai-Ahmedabad corridor (F) had appointed six duty magistrates to maintain law\nConnectors: (i) nor (ii) yet (iii) so",
+   "options": [
+    "(A)-(i)-(F) and (E)-(ii)-(F)",
+    "(C)-(ii)-(E)",
+    "(C)-(iii)-(F) and (B)-(ii)-(D)",
+    "(A)-(ii)-(D)",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "'Only 5% Gujarat land is acquired YET to be acquired for Mumbai-Ahmedabad corridor' (C-ii-E) is the only pairing that forms a coherent sentence with the given connectors.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q102",
+   "stage": "mains",
+   "section": "english",
+   "topic": "error-spotting",
+   "difficulty": 2,
+   "question": "Each statement below has some highlighted phrases which may contain a grammatical error. Find which highlighted phrase(s), across both statements, have errors (choose 'No error' if none do).\n(A) This campaign was a failure as the Houthis (i) entrenched themselves in the north-west despite of the military and economic challenges (ii).\n(B) The Anti-Bank Fraud Wing of the Central Crime Branch (CCB) have arrested two persons (iii) for taking loans from a private bank by (iv) producing fabricated documents.",
+   "options": [
+    "(i) and (iii)",
+    "(iii) and (iv)",
+    "(ii) and (iii)",
+    "(i) and (iv)",
+    "No error"
+   ],
+   "correct": 2,
+   "explanation": "(ii) is wrong: 'despite' should never be followed by 'of' - it should simply be 'despite the military and economic challenges'. (iii) is wrong: the subject 'Wing' is singular, so it should be 'has arrested', not 'have arrested'.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q103",
+   "stage": "mains",
+   "section": "english",
+   "topic": "error-spotting",
+   "difficulty": 2,
+   "question": "Each statement below has some highlighted phrases which may contain a grammatical error. Find which highlighted phrase(s), across both statements, have errors (choose 'No error' if none do).\n(A) At least 20 people, including any security personnel (i), have crossed into Mizoram from military coup-hit Myanmar and have sought refuge in India (ii).\n(B) Every death is regrettable but we also have to ask (iii) ourselves why is there a problem, and the problem is because off crime (iv).",
+   "options": [
+    "Only (i)",
+    "(ii) and (iii)",
+    "Only (iv)",
+    "(i) and (iv)",
+    "No error"
+   ],
+   "correct": 3,
+   "explanation": "(i) is wrong: 'any' should be replaced with 'some' ('including some security personnel'). (iv) is wrong: 'off' should be 'of' ('because of crime').",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q104",
+   "stage": "mains",
+   "section": "english",
+   "topic": "error-spotting",
+   "difficulty": 2,
+   "question": "Each statement below has some highlighted phrases which may contain a grammatical error. Find which highlighted phrase(s), across both statements, have errors (choose 'No error' if none do).\n(A) Election time usual presents a challenge (i) to leaders in choosing the right candidates from among thousands of aspirants (ii).\n(B) They complain that surveillance teams seize even raw materials (iii), suspecting that it are been used to make (iv) ornaments to be distributed among voters.",
+   "options": [
+    "Only (i) and (iv)",
+    "(ii) and (iv)",
+    "Only (iii)",
+    "(iii) and (iv)",
+    "No error"
+   ],
+   "correct": 0,
+   "explanation": "(i) is wrong: 'usual' should be 'usually' - an adverb is needed to modify 'presents'. (iv) is wrong: 'it are been used' should be 'they are being used', to agree with the plural subject (the seized materials/'surveillance teams').",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q105",
+   "stage": "mains",
+   "section": "english",
+   "topic": "fillers",
+   "difficulty": 2,
+   "question": "Choose the option that best fills all three blanks: Our courts must ensure that they __________ to ___________ the first line of defence against the ___________ of the liberty of citizens.",
+   "options": [
+    "diverge, influence, preference",
+    "continue, remain, deprivation",
+    "pursuing, support, amid",
+    "presence, progressive, cancelling",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "'Continue, remain, deprivation' fits both the grammar and meaning: 'courts must ensure that they continue to remain the first line of defence against the deprivation of the liberty of citizens' reads coherently; none of the other word sets fit grammatically or contextually.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains20-q106",
+   "stage": "mains",
+   "section": "english",
+   "topic": "fillers",
+   "difficulty": 2,
+   "question": "Choose the option that best fills all three blanks: While ___________ between government officials is a regular exercise, there is another ____________ dimension to the growth of bilateral ____________.",
+   "options": [
+    "temper, appear, approach",
+    "require, qualify, provide",
+    "assessment, remains, outreach",
+    "interaction, significant, relations",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "'Interaction, significant, relations' fits both the grammar and meaning: 'While interaction between government officials is a regular exercise, there is another significant dimension to the growth of bilateral relations' reads coherently; none of the other word sets fit grammatically or contextually.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2020 (memory-based, Adda247 Mains book)",
+    "year": 2020
+   },
+   "tags": [
+    "pyq"
+   ]
+  }
+ ],
+ "paper": {
+  "id": "sbi-po-mains-2020",
+  "name": "SBI PO Mains 2020 (partial)",
+  "exam": "sbi-po",
+  "stage": "mains",
+  "year": 2020,
+  "sections": [
+   {
+    "name": "Reasoning Ability",
+    "pool": "reasoning",
+    "minutes": 45,
+    "marksPerQuestion": 1,
+    "questionIds": [
+     "pyq-sbipo-mains20-q001",
+     "pyq-sbipo-mains20-q002",
+     "pyq-sbipo-mains20-q003",
+     "pyq-sbipo-mains20-q004",
+     "pyq-sbipo-mains20-q005",
+     "pyq-sbipo-mains20-q006",
+     "pyq-sbipo-mains20-q007",
+     "pyq-sbipo-mains20-q008",
+     "pyq-sbipo-mains20-q009",
+     "pyq-sbipo-mains20-q010",
+     "pyq-sbipo-mains20-q011",
+     "pyq-sbipo-mains20-q012",
+     "pyq-sbipo-mains20-q013",
+     "pyq-sbipo-mains20-q014",
+     "pyq-sbipo-mains20-q015",
+     "pyq-sbipo-mains20-q016",
+     "pyq-sbipo-mains20-q017",
+     "pyq-sbipo-mains20-q018",
+     "pyq-sbipo-mains20-q019",
+     "pyq-sbipo-mains20-q020",
+     "pyq-sbipo-mains20-q021",
+     "pyq-sbipo-mains20-q022",
+     "pyq-sbipo-mains20-q023",
+     "pyq-sbipo-mains20-q024",
+     "pyq-sbipo-mains20-q025",
+     "pyq-sbipo-mains20-q026",
+     "pyq-sbipo-mains20-q027",
+     "pyq-sbipo-mains20-q028",
+     "pyq-sbipo-mains20-q029",
+     "pyq-sbipo-mains20-q030",
+     "pyq-sbipo-mains20-q031",
+     "pyq-sbipo-mains20-q032",
+     "pyq-sbipo-mains20-q033",
+     "pyq-sbipo-mains20-q034",
+     "pyq-sbipo-mains20-q035",
+     "pyq-sbipo-mains20-q036",
+     "pyq-sbipo-mains20-q037"
+    ]
+   },
+   {
+    "name": "Quantitative Aptitude",
+    "pool": "quant",
+    "minutes": 42,
+    "marksPerQuestion": 1,
+    "questionIds": [
+     "pyq-sbipo-mains20-q038",
+     "pyq-sbipo-mains20-q039",
+     "pyq-sbipo-mains20-q040",
+     "pyq-sbipo-mains20-q041",
+     "pyq-sbipo-mains20-q042",
+     "pyq-sbipo-mains20-q043",
+     "pyq-sbipo-mains20-q044",
+     "pyq-sbipo-mains20-q045",
+     "pyq-sbipo-mains20-q046",
+     "pyq-sbipo-mains20-q047",
+     "pyq-sbipo-mains20-q048",
+     "pyq-sbipo-mains20-q049",
+     "pyq-sbipo-mains20-q050",
+     "pyq-sbipo-mains20-q051",
+     "pyq-sbipo-mains20-q052",
+     "pyq-sbipo-mains20-q053",
+     "pyq-sbipo-mains20-q054",
+     "pyq-sbipo-mains20-q055",
+     "pyq-sbipo-mains20-q056",
+     "pyq-sbipo-mains20-q057",
+     "pyq-sbipo-mains20-q058",
+     "pyq-sbipo-mains20-q059",
+     "pyq-sbipo-mains20-q060",
+     "pyq-sbipo-mains20-q061",
+     "pyq-sbipo-mains20-q062",
+     "pyq-sbipo-mains20-q063",
+     "pyq-sbipo-mains20-q064",
+     "pyq-sbipo-mains20-q065",
+     "pyq-sbipo-mains20-q066",
+     "pyq-sbipo-mains20-q067",
+     "pyq-sbipo-mains20-q068",
+     "pyq-sbipo-mains20-q069",
+     "pyq-sbipo-mains20-q070",
+     "pyq-sbipo-mains20-q071",
+     "pyq-sbipo-mains20-q072"
+    ]
+   },
+   {
+    "name": "English Language",
+    "pool": "english",
+    "minutes": 41,
+    "marksPerQuestion": 1,
+    "questionIds": [
+     "pyq-sbipo-mains20-q073",
+     "pyq-sbipo-mains20-q074",
+     "pyq-sbipo-mains20-q075",
+     "pyq-sbipo-mains20-q076",
+     "pyq-sbipo-mains20-q077",
+     "pyq-sbipo-mains20-q078",
+     "pyq-sbipo-mains20-q079",
+     "pyq-sbipo-mains20-q080",
+     "pyq-sbipo-mains20-q081",
+     "pyq-sbipo-mains20-q082",
+     "pyq-sbipo-mains20-q083",
+     "pyq-sbipo-mains20-q084",
+     "pyq-sbipo-mains20-q085",
+     "pyq-sbipo-mains20-q086",
+     "pyq-sbipo-mains20-q087",
+     "pyq-sbipo-mains20-q088",
+     "pyq-sbipo-mains20-q089",
+     "pyq-sbipo-mains20-q090",
+     "pyq-sbipo-mains20-q091",
+     "pyq-sbipo-mains20-q092",
+     "pyq-sbipo-mains20-q093",
+     "pyq-sbipo-mains20-q094",
+     "pyq-sbipo-mains20-q095",
+     "pyq-sbipo-mains20-q096",
+     "pyq-sbipo-mains20-q097",
+     "pyq-sbipo-mains20-q098",
+     "pyq-sbipo-mains20-q099",
+     "pyq-sbipo-mains20-q100",
+     "pyq-sbipo-mains20-q101",
+     "pyq-sbipo-mains20-q102",
+     "pyq-sbipo-mains20-q103",
+     "pyq-sbipo-mains20-q104",
+     "pyq-sbipo-mains20-q105",
+     "pyq-sbipo-mains20-q106"
+    ]
+   }
+  ]
+ }
+}
