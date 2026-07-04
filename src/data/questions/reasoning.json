@@ -1,0 +1,1178 @@
+{
+ "sets": [
+  {
+   "id": "rsn-seat1",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "title": "Circular Table - Eight Friends and Colours",
+   "context": "Eight people - A, B, C, D, E, F, G and H - are seated around a circular table, all facing the centre. Each of them likes a different colour: Red, Blue, Green, Yellow, Pink, White, Black and Orange.\nA sits second to the left of E.\nH sits directly opposite A.\nD, who likes White, is an immediate neighbour of A.\nG, who likes Orange, sits on the immediate right of A.\nB sits second to the left of D.\nC is an immediate neighbour of H.\nF, who likes Blue, sits exactly between D and B.\nB likes Green.\nThe one who likes Yellow sits second to the left of the one who likes Blue.\nE likes Pink and A likes Red."
+  },
+  {
+   "id": "rsn-seat2",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "title": "Straight Row - Mixed Facing Directions",
+   "context": "Eight people - P, Q, R, S, T, U, V and W - sit in a straight row. Some of them face north while the others face south.\nP sits at one of the extreme ends of the row and faces north.\nOnly three people sit between P and R.\nT is an immediate neighbour of P and faces south.\nT sits third to the left of R.\nR faces north.\nW sits second to the left of T.\nQ sits exactly between T and W and faces north.\nW faces south.\nOnly one person sits between R and S.\nU is an immediate neighbour of both R and S, and U faces north.\nS faces south.\nV faces the same direction as P."
+  },
+  {
+   "id": "rsn-box1",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "title": "Seven Stacked Boxes",
+   "context": "Seven boxes - A, B, C, D, E, F and G - are stacked one above the other. Each box contains a different item: Books, Toys, Watches, Pens, Chocolates, Clips and Bangles.\nOnly two boxes are kept above box G.\nBox A is kept immediately below box G.\nOnly one box is kept between box A and box C.\nBox C, which contains Books, is kept below box A.\nBox E is kept immediately below box C.\nBox F is kept immediately above box C.\nBox D is kept above box B.\nThe box containing Watches is kept immediately above box G.\nThe topmost box contains Toys.\nThe box containing Pens is kept immediately below the box containing Watches.\nBox A contains Chocolates.\nBox E contains Clips."
+  },
+  {
+   "id": "rsn-floor1",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "title": "Four-Floor Building with Two Flats per Floor",
+   "context": "Eight people - J, K, L, M, N, O, P and Q - live in a four-floor building. Each floor has two flats: Flat-1 and Flat-2. Flat-1 is to the west of Flat-2, and the flats of each floor are built directly above the flats of the floor below. The lowermost floor is numbered 1 and the topmost floor is numbered 4. Each person owns a different car: Audi, BMW, Honda, Jeep, Kia, Skoda, Tata and Volvo.\nK lives in Flat-2 of the topmost floor and owns the BMW.\nL lives in the same numbered flat as K, with exactly one floor between their floors.\nO lives immediately below L in the same numbered flat.\nP lives in Flat-2.\nJ lives immediately above Q in the same numbered flat, and J lives on an odd-numbered floor.\nN lives on an even-numbered floor.\nJ owns the Audi.\nThe Volvo owner lives immediately above the Audi owner in the same numbered flat.\nThe Honda owner lives on the same floor as Q but not in the same numbered flat as Q.\nQ owns the Tata and M owns the Kia.\nP does not own the Jeep."
+  }
+ ],
+ "questions": [
+  {
+   "id": "rsn-seat1-q1",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 1,
+   "setId": "rsn-seat1",
+   "question": "Who sits second to the right of the one who likes Green?",
+   "options": [
+    "F",
+    "D",
+    "A",
+    "H",
+    "E"
+   ],
+   "correct": 1,
+   "explanation": "Final order (clockwise): A(Red), D(White), F(Blue), B(Green), H(Yellow), C(Black), E(Pink), G(Orange).\nB likes Green; moving two places to B's right (anti-clockwise) gives F, then D. Hence D.",
+   "source": {
+    "kind": "generated"
+   },
+   "tags": [
+    "circular",
+    "facing-centre"
+   ]
+  },
+  {
+   "id": "rsn-seat1-q2",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 1,
+   "setId": "rsn-seat1",
+   "question": "Who are the immediate neighbours of E?",
+   "options": [
+    "C and G",
+    "G and A",
+    "C and B",
+    "H and G",
+    "C and F"
+   ],
+   "correct": 0,
+   "explanation": "Final order (clockwise): A, D, F, B, H, C, E, G.\nE sits between C (on E's right) and G (on E's left), so C and G are the neighbours.",
+   "source": {
+    "kind": "generated"
+   },
+   "tags": [
+    "circular"
+   ]
+  },
+  {
+   "id": "rsn-seat1-q3",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 2,
+   "setId": "rsn-seat1",
+   "question": "How many people sit between B and G when counted from the left of B?",
+   "options": [
+    "One",
+    "Two",
+    "Three",
+    "Four",
+    "More than four"
+   ],
+   "correct": 2,
+   "explanation": "Final order (clockwise): A, D, F, B, H, C, E, G.\nFrom B's left (clockwise): H, C, E and then G - so exactly three people sit between B and G.",
+   "source": {
+    "kind": "generated"
+   },
+   "tags": [
+    "circular",
+    "counting"
+   ]
+  },
+  {
+   "id": "rsn-seat1-q4",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 2,
+   "setId": "rsn-seat1",
+   "question": "Four of the following five pairs are alike in a certain way based on the seating arrangement and hence form a group. Which pair does NOT belong to the group?",
+   "options": [
+    "A, D",
+    "F, B",
+    "H, C",
+    "D, B",
+    "E, G"
+   ],
+   "correct": 3,
+   "explanation": "Final order (clockwise): A, D, F, B, H, C, E, G.\nIn every other pair the two people are immediate neighbours; D and B have F sitting between them.",
+   "source": {
+    "kind": "generated"
+   },
+   "tags": [
+    "circular",
+    "odd-one-out"
+   ]
+  },
+  {
+   "id": "rsn-seat1-q5",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 2,
+   "setId": "rsn-seat1",
+   "question": "Which colour does the person sitting directly opposite the one who likes White like?",
+   "options": [
+    "Pink",
+    "Yellow",
+    "Black",
+    "Orange",
+    "Green"
+   ],
+   "correct": 2,
+   "explanation": "Final order (clockwise): A(Red), D(White), F(Blue), B(Green), H(Yellow), C(Black), E(Pink), G(Orange).\nD likes White and C sits directly opposite D; C likes Black.",
+   "source": {
+    "kind": "generated"
+   },
+   "tags": [
+    "circular",
+    "attribute"
+   ]
+  },
+  {
+   "id": "rsn-seat2-q1",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 2,
+   "setId": "rsn-seat2",
+   "question": "Who sits third to the right of W?",
+   "options": [
+    "R",
+    "Q",
+    "P",
+    "V",
+    "U"
+   ],
+   "correct": 2,
+   "explanation": "Final row (left to right): P(N), T(S), Q(N), W(S), R(N), U(N), S(S), V(N).\nW faces south, so W's right runs towards the left end: Q, T, then P. Hence P.",
+   "source": {
+    "kind": "generated"
+   },
+   "tags": [
+    "linear",
+    "mixed-facing"
+   ]
+  },
+  {
+   "id": "rsn-seat2-q2",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 1,
+   "setId": "rsn-seat2",
+   "question": "How many people in the row face south?",
+   "options": [
+    "Two",
+    "Three",
+    "Four",
+    "Five",
+    "One"
+   ],
+   "correct": 1,
+   "explanation": "Final row (left to right): P(N), T(S), Q(N), W(S), R(N), U(N), S(S), V(N).\nT, W and S face south - three people.",
+   "source": {
+    "kind": "generated"
+   },
+   "tags": [
+    "linear",
+    "mixed-facing"
+   ]
+  },
+  {
+   "id": "rsn-seat2-q3",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 2,
+   "setId": "rsn-seat2",
+   "question": "How many people sit between Q and S?",
+   "options": [
+    "Four",
+    "Two",
+    "One",
+    "Three",
+    "Five"
+   ],
+   "correct": 3,
+   "explanation": "Final row (left to right): P, T, Q, W, R, U, S, V.\nBetween Q (3rd position) and S (7th position) sit W, R and U - three people.",
+   "source": {
+    "kind": "generated"
+   },
+   "tags": [
+    "linear",
+    "counting"
+   ]
+  },
+  {
+   "id": "rsn-seat2-q4",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 2,
+   "setId": "rsn-seat2",
+   "question": "Four of the following five are alike in a certain way and hence form a group. Who does NOT belong to the group?",
+   "options": [
+    "P",
+    "Q",
+    "U",
+    "V",
+    "W"
+   ],
+   "correct": 4,
+   "explanation": "Final row facings: P(N), T(S), Q(N), W(S), R(N), U(N), S(S), V(N).\nP, Q, U and V all face north; W faces south, so W is the odd one out.",
+   "source": {
+    "kind": "generated"
+   },
+   "tags": [
+    "linear",
+    "odd-one-out"
+   ]
+  },
+  {
+   "id": "rsn-seat2-q5",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 1,
+   "setId": "rsn-seat2",
+   "question": "Who sits on the immediate left of U?",
+   "options": [
+    "T",
+    "W",
+    "R",
+    "S",
+    "Q"
+   ],
+   "correct": 2,
+   "explanation": "Final row (left to right): P, T, Q, W, R, U, S, V.\nU faces north, so U's immediate left is the 5th position, which is R.",
+   "source": {
+    "kind": "generated"
+   },
+   "tags": [
+    "linear",
+    "mixed-facing"
+   ]
+  },
+  {
+   "id": "rsn-box1-q1",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 1,
+   "setId": "rsn-box1",
+   "question": "Which box is kept at the top of the stack?",
+   "options": [
+    "G",
+    "B",
+    "D",
+    "A",
+    "F"
+   ],
+   "correct": 2,
+   "explanation": "Final stack (top to bottom): D(Toys), B(Watches), G(Pens), A(Chocolates), F(Bangles), C(Books), E(Clips).\nG takes the 5th position from the bottom, fixing A, C, E, F below it; D above B forces D to the top.",
+   "source": {
+    "kind": "generated"
+   },
+   "tags": [
+    "box-puzzle"
+   ]
+  },
+  {
+   "id": "rsn-box1-q2",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "rsn-box1",
+   "question": "How many boxes are kept between box B and box E?",
+   "options": [
+    "Two",
+    "Three",
+    "Four",
+    "Five",
+    "One"
+   ],
+   "correct": 2,
+   "explanation": "Final stack (top to bottom): D, B, G, A, F, C, E.\nB is 6th and E is 1st from the bottom; G, A, F and C lie between them - four boxes.",
+   "source": {
+    "kind": "generated"
+   },
+   "tags": [
+    "box-puzzle",
+    "counting"
+   ]
+  },
+  {
+   "id": "rsn-box1-q3",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 1,
+   "setId": "rsn-box1",
+   "question": "Which box contains Bangles?",
+   "options": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "F"
+   ],
+   "correct": 4,
+   "explanation": "Final stack (top to bottom): D(Toys), B(Watches), G(Pens), A(Chocolates), F(Bangles), C(Books), E(Clips).\nAfter placing Toys, Watches, Pens, Chocolates, Books and Clips, Bangles remains for box F by elimination.",
+   "source": {
+    "kind": "generated"
+   },
+   "tags": [
+    "box-puzzle",
+    "attribute"
+   ]
+  },
+  {
+   "id": "rsn-box1-q4",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "rsn-box1",
+   "question": "Which item is kept in the box immediately above box A?",
+   "options": [
+    "Pens",
+    "Watches",
+    "Toys",
+    "Bangles",
+    "Chocolates"
+   ],
+   "correct": 0,
+   "explanation": "Final stack (top to bottom): D(Toys), B(Watches), G(Pens), A(Chocolates), F(Bangles), C(Books), E(Clips).\nBox G sits immediately above box A, and G contains Pens (immediately below the Watches box B).",
+   "source": {
+    "kind": "generated"
+   },
+   "tags": [
+    "box-puzzle",
+    "attribute"
+   ]
+  },
+  {
+   "id": "rsn-box1-q5",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "rsn-box1",
+   "question": "Four of the following five pairs are alike in a certain way based on the stacking and hence form a group. Which pair does NOT belong to the group?",
+   "options": [
+    "D, B",
+    "G, A",
+    "F, C",
+    "C, E",
+    "G, F"
+   ],
+   "correct": 4,
+   "explanation": "Final stack (top to bottom): D, B, G, A, F, C, E.\nIn each other pair the first box is kept immediately above the second; G and F have box A between them.",
+   "source": {
+    "kind": "generated"
+   },
+   "tags": [
+    "box-puzzle",
+    "odd-one-out"
+   ]
+  },
+  {
+   "id": "rsn-floor1-q1",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "rsn-floor1",
+   "question": "Who lives in Flat-1 of floor 2?",
+   "options": [
+    "M",
+    "Q",
+    "L",
+    "P",
+    "N"
+   ],
+   "correct": 1,
+   "explanation": "Final: Floor 4 - N(Volvo)/K(BMW); Floor 3 - J(Audi)/P(Skoda); Floor 2 - Q(Tata)/L(Honda); Floor 1 - M(Kia)/O(Jeep), written as Flat-1/Flat-2.\nK, L, O and P fill the entire Flat-2 column, so J above Q on an odd floor forces J to Flat-1 floor 3 and Q to Flat-1 floor 2.",
+   "source": {
+    "kind": "generated"
+   },
+   "tags": [
+    "floor-flat"
+   ]
+  },
+  {
+   "id": "rsn-floor1-q2",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "rsn-floor1",
+   "question": "Who owns the Skoda?",
+   "options": [
+    "O",
+    "M",
+    "N",
+    "P",
+    "L"
+   ],
+   "correct": 3,
+   "explanation": "Final: Floor 4 - N(Volvo)/K(BMW); Floor 3 - J(Audi)/P(Skoda); Floor 2 - Q(Tata)/L(Honda); Floor 1 - M(Kia)/O(Jeep).\nWith six cars fixed, only Jeep and Skoda remain for O and P; P does not own the Jeep, so P owns the Skoda.",
+   "source": {
+    "kind": "generated"
+   },
+   "tags": [
+    "floor-flat",
+    "attribute"
+   ]
+  },
+  {
+   "id": "rsn-floor1-q3",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 3,
+   "setId": "rsn-floor1",
+   "question": "How many people live between M and N in the same numbered flat?",
+   "options": [
+    "None",
+    "One",
+    "Two",
+    "Three",
+    "Four"
+   ],
+   "correct": 2,
+   "explanation": "Final Flat-1 column (floor 1 to 4): M, Q, J, N.\nM lives on floor 1 and N on floor 4 of the Flat-1 column, with Q and J between them - two people.",
+   "source": {
+    "kind": "generated"
+   },
+   "tags": [
+    "floor-flat",
+    "counting"
+   ]
+  },
+  {
+   "id": "rsn-floor1-q4",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 3,
+   "setId": "rsn-floor1",
+   "question": "Which of the following combinations of person - floor - flat - car is CORRECT?",
+   "options": [
+    "N - Floor 4 - Flat-2 - Volvo",
+    "O - Floor 1 - Flat-2 - Jeep",
+    "P - Floor 3 - Flat-1 - Skoda",
+    "M - Floor 1 - Flat-2 - Kia",
+    "L - Floor 2 - Flat-2 - Tata"
+   ],
+   "correct": 1,
+   "explanation": "Final: Floor 4 - N(Volvo)/K(BMW); Floor 3 - J(Audi)/P(Skoda); Floor 2 - Q(Tata)/L(Honda); Floor 1 - M(Kia)/O(Jeep).\nO lives in Flat-2 of floor 1 and owns the Jeep; every other option gets the flat or the car wrong.",
+   "source": {
+    "kind": "generated"
+   },
+   "tags": [
+    "floor-flat",
+    "combination"
+   ]
+  },
+  {
+   "id": "rsn-floor1-q5",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "rsn-floor1",
+   "question": "Who lives on the same floor as the owner of the Audi?",
+   "options": [
+    "K",
+    "L",
+    "N",
+    "P",
+    "Q"
+   ],
+   "correct": 3,
+   "explanation": "Final: Floor 3 has J(Audi) in Flat-1 and P(Skoda) in Flat-2.\nJ owns the Audi, and P is the only other resident of floor 3.",
+   "source": {
+    "kind": "generated"
+   },
+   "tags": [
+    "floor-flat"
+   ]
+  },
+  {
+   "id": "rsn-syl-1",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "syllogism",
+   "difficulty": 1,
+   "question": "**Statements:**\nAll pens are books.\nSome books are copies.\n**Conclusions:**\nI. Some copies are pens.\nII. Some books are pens.",
+   "options": [
+    "Only conclusion I follows",
+    "Only conclusion II follows",
+    "Either I or II follows",
+    "Neither I nor II follows",
+    "Both I and II follow"
+   ],
+   "correct": 1,
+   "explanation": "\"All pens are books\" converts to \"Some books are pens\", so II follows. Copies connect only to books, not necessarily to pens, so I does not follow.",
+   "source": {
+    "kind": "generated"
+   },
+   "tags": [
+    "two-statement"
+   ]
+  },
+  {
+   "id": "rsn-syl-2",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "syllogism",
+   "difficulty": 2,
+   "question": "**Statements:**\nOnly a few cups are plates.\nAll plates are bowls.\n**Conclusions:**\nI. Some cups are not plates.\nII. Some bowls are cups.",
+   "options": [
+    "Only conclusion I follows",
+    "Only conclusion II follows",
+    "Either I or II follows",
+    "Neither I nor II follows",
+    "Both I and II follow"
+   ],
+   "correct": 4,
+   "explanation": "\"Only a few cups are plates\" means some cups are plates AND some cups are not plates, so I follows. The cups that are plates are also bowls, so some bowls are cups - II follows too.",
+   "source": {
+    "kind": "generated"
+   },
+   "tags": [
+    "only-a-few"
+   ]
+  },
+  {
+   "id": "rsn-syl-3",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "syllogism",
+   "difficulty": 2,
+   "question": "**Statements:**\nAll roses are flowers.\nNo flower is a thorn.\n**Conclusions:**\nI. No rose is a thorn.\nII. Some thorns being roses is a possibility.",
+   "options": [
+    "Only conclusion I follows",
+    "Only conclusion II follows",
+    "Either I or II follows",
+    "Neither I nor II follows",
+    "Both I and II follow"
+   ],
+   "correct": 0,
+   "explanation": "Every rose is a flower and no flower is a thorn, so no rose can be a thorn - I definitely follows. Since \"no rose is a thorn\" is certain, thorns being roses is impossible, so the possibility in II is ruled out.",
+   "source": {
+    "kind": "generated"
+   },
+   "tags": [
+    "possibility"
+   ]
+  },
+  {
+   "id": "rsn-syl-4",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "syllogism",
+   "difficulty": 2,
+   "question": "**Statements:**\nSome cars are bikes.\nAll bikes are trucks.\n**Conclusions:**\nI. All cars are trucks.\nII. Some cars are not trucks.",
+   "options": [
+    "Only conclusion I follows",
+    "Only conclusion II follows",
+    "Either I or II follows",
+    "Neither I nor II follows",
+    "Both I and II follow"
+   ],
+   "correct": 2,
+   "explanation": "We can only be sure that SOME cars are trucks (via bikes); neither \"all cars are trucks\" nor \"some cars are not trucks\" is certain individually. The two conclusions form a complementary pair (All / Some-not) on the same terms, so either I or II must hold.",
+   "source": {
+    "kind": "generated"
+   },
+   "tags": [
+    "either-or"
+   ]
+  },
+  {
+   "id": "rsn-syl-5",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "syllogism",
+   "difficulty": 3,
+   "question": "**Statements:**\nAll keys are locks.\nAll locks are doors.\nNo door is a window.\n**Conclusions:**\nI. Some windows are keys.\nII. All doors are locks.",
+   "options": [
+    "Only conclusion I follows",
+    "Only conclusion II follows",
+    "Either I or II follows",
+    "Neither I nor II follows",
+    "Both I and II follow"
+   ],
+   "correct": 3,
+   "explanation": "Keys sit inside locks, which sit inside doors, and doors are disjoint from windows - so \"some windows are keys\" is definitely false. II reverses \"all locks are doors\" invalidly. Neither follows.",
+   "source": {
+    "kind": "generated"
+   },
+   "tags": [
+    "three-statement"
+   ]
+  },
+  {
+   "id": "rsn-ineq-1",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "inequality",
+   "difficulty": 1,
+   "question": "**Statements:** P > Q ≥ R = S\n**Conclusions:**\nI. P > S\nII. Q ≥ S",
+   "options": [
+    "Only conclusion I follows",
+    "Only conclusion II follows",
+    "Either I or II follows",
+    "Neither I nor II follows",
+    "Both I and II follow"
+   ],
+   "correct": 4,
+   "explanation": "P > Q ≥ R = S gives P > S along the whole chain, and Q ≥ R = S gives Q ≥ S. Both conclusions follow.",
+   "source": {
+    "kind": "generated"
+   },
+   "tags": [
+    "direct"
+   ]
+  },
+  {
+   "id": "rsn-ineq-2",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "inequality",
+   "difficulty": 2,
+   "question": "**Statements:** G ≥ H = I; J > I\n**Conclusions:**\nI. G ≥ I\nII. J > G",
+   "options": [
+    "Only conclusion I follows",
+    "Only conclusion II follows",
+    "Either I or II follows",
+    "Neither I nor II follows",
+    "Both I and II follow"
+   ],
+   "correct": 0,
+   "explanation": "G ≥ H = I gives G ≥ I, so I follows. J and G are both above I but cannot be compared with each other, so II does not follow.",
+   "source": {
+    "kind": "generated"
+   },
+   "tags": [
+    "direct"
+   ]
+  },
+  {
+   "id": "rsn-ineq-3",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "inequality",
+   "difficulty": 3,
+   "question": "**Statements:** X ≥ Y; Z ≥ Y\n**Conclusions:**\nI. X > Z\nII. Z ≥ X",
+   "options": [
+    "Only conclusion I follows",
+    "Only conclusion II follows",
+    "Either I or II follows",
+    "Neither I nor II follows",
+    "Both I and II follow"
+   ],
+   "correct": 2,
+   "explanation": "X and Z are only linked through Y, so no definite relation exists between them. But I (X > Z) and II (Z ≥ X) together cover every possible case between X and Z, so either I or II follows.",
+   "source": {
+    "kind": "generated"
+   },
+   "tags": [
+    "either-or"
+   ]
+  },
+  {
+   "id": "rsn-ineq-4",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "inequality",
+   "difficulty": 2,
+   "question": "In a certain code, 'A @ B' means A > B, 'A # B' means A < B, 'A $ B' means A ≥ B, 'A % B' means A ≤ B and 'A & B' means A = B.\n**Statements:** M $ N, N # O, O & P\n**Conclusions:**\nI. M @ P\nII. P @ N",
+   "options": [
+    "Only conclusion I follows",
+    "Only conclusion II follows",
+    "Either I or II follows",
+    "Neither I nor II follows",
+    "Both I and II follow"
+   ],
+   "correct": 1,
+   "explanation": "Decoded: M ≥ N, N < O, O = P. From N < O = P we get P > N, so II (P @ N) follows; M and P cannot be compared because the chain reverses at N, so I fails.",
+   "source": {
+    "kind": "generated"
+   },
+   "tags": [
+    "coded"
+   ]
+  },
+  {
+   "id": "rsn-ineq-5",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "inequality",
+   "difficulty": 2,
+   "question": "In a certain code, 'A @ B' means A > B, 'A # B' means A < B, 'A $ B' means A ≥ B, 'A % B' means A ≤ B and 'A & B' means A = B.\n**Statements:** D % E, E @ F, F $ G\n**Conclusions:**\nI. D @ G\nII. E & G",
+   "options": [
+    "Only conclusion I follows",
+    "Only conclusion II follows",
+    "Either I or II follows",
+    "Neither I nor II follows",
+    "Both I and II follow"
+   ],
+   "correct": 3,
+   "explanation": "Decoded: D ≤ E, E > F, F ≥ G. D and G cannot be compared (the chain changes direction at E), so I fails; E > F ≥ G makes E > G definite, so E = G is impossible and II also fails. Neither follows.",
+   "source": {
+    "kind": "generated"
+   },
+   "tags": [
+    "coded"
+   ]
+  },
+  {
+   "id": "rsn-blood-1",
+   "stage": "both",
+   "section": "reasoning",
+   "topic": "blood-relations",
+   "difficulty": 1,
+   "question": "Pointing to a photograph, Ravi said, \"She is the daughter of the only son of my grandfather.\" How is the woman in the photograph related to Ravi?",
+   "options": [
+    "Cousin",
+    "Sister",
+    "Niece",
+    "Aunt",
+    "Mother"
+   ],
+   "correct": 1,
+   "explanation": "The only son of Ravi's grandfather must be Ravi's father. The daughter of Ravi's father is Ravi's sister.",
+   "source": {
+    "kind": "generated"
+   },
+   "tags": [
+    "photograph"
+   ]
+  },
+  {
+   "id": "rsn-blood-2",
+   "stage": "both",
+   "section": "reasoning",
+   "topic": "blood-relations",
+   "difficulty": 2,
+   "question": "'A + B' means A is the father of B, 'A - B' means A is the mother of B, 'A × B' means A is the brother of B and 'A ÷ B' means A is the sister of B.\nIf **P + Q × R - S**, how is P related to S?",
+   "options": [
+    "Paternal grandfather",
+    "Maternal uncle",
+    "Maternal grandfather",
+    "Father",
+    "Brother"
+   ],
+   "correct": 2,
+   "explanation": "P is the father of Q; Q is the brother of R, so R is also P's child; R is the mother of S. Hence P is the father of S's mother - the maternal grandfather of S.",
+   "source": {
+    "kind": "generated"
+   },
+   "tags": [
+    "coded"
+   ]
+  },
+  {
+   "id": "rsn-blood-3",
+   "stage": "both",
+   "section": "reasoning",
+   "topic": "blood-relations",
+   "difficulty": 2,
+   "question": "A is the sister of B. B is married to C. C is the father of D. How is A related to D?",
+   "options": [
+    "Mother",
+    "Sister",
+    "Paternal aunt",
+    "Grandmother",
+    "Maternal aunt"
+   ],
+   "correct": 4,
+   "explanation": "C is D's father, so C's spouse B is D's mother. A, being the sister of D's mother, is D's maternal aunt.",
+   "source": {
+    "kind": "generated"
+   },
+   "tags": [
+    "family-tree"
+   ]
+  },
+  {
+   "id": "rsn-dir-1",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "direction-sense",
+   "difficulty": 1,
+   "question": "Riya walks 5 km towards the North, turns right and walks 3 km, then turns right again and walks 5 km. How far and in which direction is she from her starting point?",
+   "options": [
+    "3 km West",
+    "5 km East",
+    "3 km East",
+    "8 km East",
+    "5 km North"
+   ],
+   "correct": 2,
+   "explanation": "North 5 km, then right (East) 3 km, then right (South) 5 km. The north and south legs cancel, leaving her 3 km East of the start.",
+   "source": {
+    "kind": "generated"
+   },
+   "tags": [
+    "displacement"
+   ]
+  },
+  {
+   "id": "rsn-dir-2",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "direction-sense",
+   "difficulty": 2,
+   "question": "Aman walks 4 km towards the East, then turns left and walks 3 km. What is the shortest distance between his current position and his starting point, and in which direction is he from the start?",
+   "options": [
+    "5 km North-East",
+    "7 km North-East",
+    "5 km South-East",
+    "1 km North-East",
+    "5 km North-West"
+   ],
+   "correct": 0,
+   "explanation": "East 4 km, then left of East is North, so 3 km North. Shortest distance = sqrt(4^2 + 3^2) = 5 km, towards the North-East of the start.",
+   "source": {
+    "kind": "generated"
+   },
+   "tags": [
+    "shortest-distance",
+    "pythagoras"
+   ]
+  },
+  {
+   "id": "rsn-dir-3",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "direction-sense",
+   "difficulty": 2,
+   "question": "Point B is 6 m to the north of point A. Point C is 8 m to the east of point B. Point D is 6 m to the south of point C. At what distance and in which direction is point D with respect to point A?",
+   "options": [
+    "6 m East",
+    "8 m West",
+    "10 m North-East",
+    "8 m East",
+    "14 m East"
+   ],
+   "correct": 3,
+   "explanation": "Taking A as origin: B(0, 6), C(8, 6), D(8, 0). D lies on the same east-west line as A, exactly 8 m to the East.",
+   "source": {
+    "kind": "generated"
+   },
+   "tags": [
+    "points",
+    "grid"
+   ]
+  },
+  {
+   "id": "rsn-rank-1",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "order-ranking",
+   "difficulty": 1,
+   "question": "In a row of students, Arjun is 14th from the left end and 23rd from the right end. How many students are there in the row?",
+   "options": [
+    "34",
+    "36",
+    "37",
+    "38",
+    "35"
+   ],
+   "correct": 1,
+   "explanation": "Total = position from left + position from right - 1 = 14 + 23 - 1 = 36.",
+   "source": {
+    "kind": "generated"
+   },
+   "tags": [
+    "total-count"
+   ]
+  },
+  {
+   "id": "rsn-rank-2",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "order-ranking",
+   "difficulty": 1,
+   "question": "In a class of 40 students, Meena ranks 17th from the top. What is her rank from the bottom?",
+   "options": [
+    "23rd",
+    "22nd",
+    "25th",
+    "21st",
+    "24th"
+   ],
+   "correct": 4,
+   "explanation": "Rank from bottom = total - rank from top + 1 = 40 - 17 + 1 = 24th.",
+   "source": {
+    "kind": "generated"
+   },
+   "tags": [
+    "rank-conversion"
+   ]
+  },
+  {
+   "id": "rsn-code-1",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "coding-decoding",
+   "difficulty": 1,
+   "question": "In a certain code language, 'TIGER' is written as 'UJHFS'. How is 'LION' written in that code?",
+   "options": [
+    "MJOP",
+    "KHNM",
+    "MJPO",
+    "NKQP",
+    "MKPO"
+   ],
+   "correct": 2,
+   "explanation": "Each letter moves one step forward: T+1=U, I+1=J and so on. Applying +1 to LION: L=M, I=J, O=P, N=O, giving MJPO.",
+   "source": {
+    "kind": "generated"
+   },
+   "tags": [
+    "letter-shift"
+   ]
+  },
+  {
+   "id": "rsn-code-2",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "coding-decoding",
+   "difficulty": 1,
+   "question": "In a certain code language, 'sky is blue' is written as 'pa ta na', 'blue means calm' is written as 'ta ra sa' and 'calm sky helps' is written as 'ra pa la'. What is the code for 'sky'?",
+   "options": [
+    "ta",
+    "pa",
+    "ra",
+    "na",
+    "la"
+   ],
+   "correct": 1,
+   "explanation": "'sky' appears in the first and third sentences, whose codes share only 'pa'. Cross-check: 'blue' = 'ta' (common to sentences 1 and 2) and 'calm' = 'ra' (common to 2 and 3), so 'sky' = 'pa'.",
+   "source": {
+    "kind": "generated"
+   },
+   "tags": [
+    "word-code"
+   ]
+  },
+  {
+   "id": "rsn-code-3",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "coding-decoding",
+   "difficulty": 3,
+   "question": "In a certain code language, 'CODE' is written as 'ENFD' and 'PAINT' is written as 'RZHPV'. How is 'MINT' written in that code?",
+   "options": [
+    "OHPU",
+    "NHPV",
+    "OGPV",
+    "OHPV",
+    "OJPV"
+   ],
+   "correct": 3,
+   "explanation": "Rule: each consonant moves two steps forward and each vowel moves one step backward (A wraps to Z), e.g. C=E, O=N, D=F, E=D. MINT: M=O, I=H, N=P, T=V, giving OHPV.",
+   "source": {
+    "kind": "generated"
+   },
+   "tags": [
+    "step-based",
+    "vowel-consonant"
+   ]
+  },
+  {
+   "id": "rsn-code-4",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "coding-decoding",
+   "difficulty": 3,
+   "question": "Digits are coded as follows: 1 = P, 2 = Q, 3 = R, 4 = S, 5 = T, 6 = U, 7 = V, 8 = W, 9 = X, 0 = M.\n**Conditions:**\n(i) If the first digit is odd and the last digit is even, both the first and the last digits are to be coded as Y.\n(ii) If the first digit is even and the last digit is odd, the codes for the first and the last digits are to be interchanged.\nWhat is the code for **537186**?",
+   "options": [
+    "YRVPWY",
+    "TRVPWU",
+    "YRVPWU",
+    "TRVPWY",
+    "URVPWT"
+   ],
+   "correct": 0,
+   "explanation": "The first digit 5 is odd and the last digit 6 is even, so condition (i) applies: both ends become Y. The middle digits 3, 7, 1, 8 code as R, V, P, W, giving YRVPWY.",
+   "source": {
+    "kind": "generated"
+   },
+   "tags": [
+    "conditional"
+   ]
+  },
+  {
+   "id": "rsn-alpha-1",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "alphanumeric-series",
+   "difficulty": 1,
+   "question": "Study the following arrangement:\n**B 7 % K 2 M # 9 R T @ 1 E 4 * W & 6 H 3**\nWhich element is eighth from the right end of the arrangement?",
+   "options": [
+    "E",
+    "4",
+    "1",
+    "W",
+    "9"
+   ],
+   "correct": 0,
+   "explanation": "The arrangement has 20 elements, so the 8th from the right is the 13th from the left. Counting: B(1)...@(11), 1(12), E(13) - the answer is E.",
+   "source": {
+    "kind": "generated"
+   },
+   "tags": [
+    "position"
+   ]
+  },
+  {
+   "id": "rsn-alpha-2",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "alphanumeric-series",
+   "difficulty": 2,
+   "question": "Study the following arrangement:\n**B 7 % K 2 M # 9 R T @ 1 E 4 * W & 6 H 3**\nHow many symbols in the arrangement are immediately preceded by a number?",
+   "options": [
+    "None",
+    "One",
+    "Two",
+    "Three",
+    "Four"
+   ],
+   "correct": 2,
+   "explanation": "Check each symbol's left neighbour: % follows 7 (yes), # follows M (no), @ follows T (no), * follows 4 (yes), & follows W (no). Two symbols qualify.",
+   "source": {
+    "kind": "generated"
+   },
+   "tags": [
+    "pattern-count"
+   ]
+  },
+  {
+   "id": "rsn-alpha-3",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "alphanumeric-series",
+   "difficulty": 2,
+   "question": "What should come in place of the question mark (?) in the following series?\n**AZ, BY, CX, ?, EV**",
+   "options": [
+    "DV",
+    "CW",
+    "DU",
+    "EW",
+    "DW"
+   ],
+   "correct": 4,
+   "explanation": "The first letters move forward (A, B, C, D, E) while the second letters move backward (Z, Y, X, W, V). The missing pair is DW.",
+   "source": {
+    "kind": "generated"
+   },
+   "tags": [
+    "series-completion"
+   ]
+  },
+  {
+   "id": "rsn-comp-1",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "computer-aptitude",
+   "difficulty": 2,
+   "question": "What is the decimal equivalent of the binary number **101101**?",
+   "options": [
+    "43",
+    "44",
+    "45",
+    "46",
+    "47"
+   ],
+   "correct": 2,
+   "explanation": "101101 = 1(32) + 0(16) + 1(8) + 1(4) + 0(2) + 1(1) = 32 + 8 + 4 + 1 = 45.",
+   "source": {
+    "kind": "generated"
+   },
+   "tags": [
+    "binary"
+   ]
+  },
+  {
+   "id": "rsn-comp-2",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "computer-aptitude",
+   "difficulty": 2,
+   "question": "Inputs A = 1 and B = 0 are fed to an AND gate. The output of the AND gate and an input C = 1 are fed to an OR gate. What is the final output of the OR gate?",
+   "options": [
+    "0",
+    "1",
+    "2",
+    "Cannot be determined",
+    "Same as B"
+   ],
+   "correct": 1,
+   "explanation": "AND(1, 0) = 0 because AND outputs 1 only when both inputs are 1. OR(0, 1) = 1 because OR outputs 1 when at least one input is 1.",
+   "source": {
+    "kind": "generated"
+   },
+   "tags": [
+    "logic-gates"
+   ]
+  },
+  {
+   "id": "rsn-comp-3",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "computer-aptitude",
+   "difficulty": 3,
+   "question": "A flowchart executes the following steps:\nStep 1: Set N = 5 and S = 0.\nStep 2: S = S + N.\nStep 3: N = N - 1.\nStep 4: If N > 2, go to Step 2; otherwise print S and stop.\nWhat value of S is printed?",
+   "options": [
+    "9",
+    "12",
+    "14",
+    "15",
+    "10"
+   ],
+   "correct": 1,
+   "explanation": "Pass 1: S = 5, N = 4 (4 > 2, repeat). Pass 2: S = 9, N = 3 (3 > 2, repeat). Pass 3: S = 12, N = 2 (2 > 2 is false), so 12 is printed.",
+   "source": {
+    "kind": "generated"
+   },
+   "tags": [
+    "flowchart",
+    "trace"
+   ]
+  }
+ ]
+}
