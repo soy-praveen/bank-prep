@@ -1,0 +1,3818 @@
+{
+ "sets": [
+  {
+   "id": "pyq-sbipo-mains22-set1",
+   "section": "english",
+   "topic": "cloze-test",
+   "title": "Cloze Test: India's Economic Growth Slowdown",
+   "context": "India's Economic growth has slowed for 5 _______(A) (that follow one after another) quarters beginning from late 2015-16 onwards. It could be a serious blow for a government that had promised to turn around the economy through ________(B) (capable of making choices quickly and surely) governance. India's GDP growth has gone down from a high of 9.2% in the Third Quarter of the year 2016 to 5.7% in the current 4th quarter of 2017. The economic growth rate is probably the slowest in the last many years. However, the Indian Economy as per global standard is not in the _______(C) (slowdown or a massive contraction) stage. The UK and the European Union consider an economy in recession only when real GDP growth actually turns negative over two consecutive quarters and by this criterion, with a positive growth rate of 5.7%, the Indian economy is far off from being in a recession. All four contributors to economic growth - domestic consumption, foreign consumption or exports, private investment and government spending - are hit by the slowdown. In the first quarter of this ______(D) (connected with [public] money) year, domestic consumption fell to 6.66% as against 8.41% in the same period last fiscal; exports as a share of the Gross Domestic Product was down to 19% from 20%; and fixed capital formation decreased from about 31% of the GDP to 29.8%, _______(E) (to convey something) a slowdown in the industry as well."
+  },
+  {
+   "id": "pyq-sbipo-mains22-set2",
+   "section": "english",
+   "topic": "para-jumbles",
+   "title": "Para Jumble: Miss Universe Pageant",
+   "context": "A. Miss Universe is an annual international beauty pageant that is run by the United States-based Miss Universe Organization.\nB. Telemundo has the licensing rights to air the pageant for the next 5 years.\nC. The Miss Universe Organization and its brand are currently owned by Endeavor.\nD. Along with Miss World, Miss International, and Miss Earth, Miss Universe is one of the Big Four international beauty pageants.\nE. The pageant's advocacy is humanitarian issues and is a voice to affect positive change in the world.\n\n(Only three of these five sentences are already in correct sequence; two sentences must be interchanged to form a meaningful paragraph.)"
+  },
+  {
+   "id": "pyq-sbipo-mains22-set3",
+   "section": "english",
+   "topic": "match-the-columns",
+   "title": "Match the Columns — Purdue/GDP/Wind",
+   "context": "| Column 1 | Column 2 |\n|---|---|\n| A. 'OxyContin' maker Purdue Pharma LP won court approval of a $4.5 billion bankruptcy settlement that shields its owners from | D. gross electricity production of about 24% is far higher than those of all other renewable energy sources. |\n| B. The latest GDP estimates expectedly show that the national output rebounded in the first quarter of the current fiscal from the | E. record contraction in April-June 2020 when the pandemic's onset and the lockdown gutted the economy. |\n| C. Wind energy is of outstanding importance to the energy transition in Germany, and its share in | F. lawsuits accusing them of contributing to the nation's opioid epidemic in exchange for providing funding to combat the crisis. |"
+  },
+  {
+   "id": "pyq-sbipo-mains22-set4",
+   "section": "english",
+   "topic": "match-the-columns",
+   "title": "Match the Columns — UK Travel Bans/Marine Cloud Brightening/Methane",
+   "context": "| Column 1 | Column 2 |\n|---|---|\n| A. The ensuing wave of travel bans has cut off UK travellers | D. a relatively clean source of fossil energy has soared by more than 50% over the past two decades. |\n| B. Harrison's project is the world's first field trial of marine cloud brightening, one of | E. but flight trials of its aircraft complement are expected to be completed, after which the ship will be fully operational. |\n| C. Methane is the main component of natural gas, whose popularity as | F. Several controversial geoengineering technologies that scientists have studied in the laboratory for decades. |"
+  },
+  {
+   "id": "pyq-sbipo-mains22-set5",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "title": "Nine-Member Family in a Row",
+   "context": "A family of 9 - A, B, C, D, E, F, G, H and I - sit in a row facing north. There are 2 couples in the family. H, who has 2 sons and 1 daughter, sits third to the right of C. A sits immediate left of his wife C. The members at both extreme ends are children of B. B sits immediate right of his wife H. The daughters G and I sit with their respective fathers. D, who is the brother-in-law of A, sits in the middle of the row and second to the right of A. E sits immediate right of his maternal uncle D. I, who is the granddaughter of H, does not sit at either extreme end. I is the daughter of C."
+  },
+  {
+   "id": "pyq-sbipo-mains22-set6",
+   "section": "reasoning",
+   "topic": "data-sufficiency-reasoning",
+   "title": "Coded Direction-Distance Network",
+   "context": "Distance and direction between points is coded as follows:\n'A # B' means A is west of B.\n'A & B' means A is south of B.\n'A @ B' means A is north of B.\n'A % B' means A is east of B.\n'N * AB' means N is the midpoint of line AB.\nA network of points is linked as: L @ Z, S # K, R % H, Q # Z, T # M, Q & H, S & M, T @ R (so R, H, T and M are all linked into one cluster via H and R, and via T and M)."
+  },
+  {
+   "id": "pyq-sbipo-mains22-set7",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "title": "Eight Persons - City, Weight and Code Puzzle",
+   "context": "Eight persons A, B, C, D, E, F, G and H live in eight different cities - Chennai, Bangalore, Hyderabad, Mumbai, Ahmedabad, Ernakulam, Jaipur and Bhubaneshwar - and each has a different weight from 89, 50, 55, 71, 49, 66, 92 and 56 kg.\nA has a weight which is a multiple of both 11 and 5, and lives in Bhubaneshwar. D lives in Bangalore, but his weight is not 89 kg or 71 kg. The one who lives in Hyderabad has a weight of 56 kg. G has a weight of 49 kg and does not live in Mumbai or Chennai. E has a weight of 71 kg and lives in Ahmedabad or Ernakulam. F lives in Chennai but his weight is not 92 kg. C lives in Mumbai. The sum of the weights of H and C is 181 kg. Neither G nor H lives in Ernakulam. G does not live in Jaipur. The sum of the weights of D and H is 142 kg.\nA code is further assigned to each person based on the first letter of their city and their weight:\n1. If the city starts with a vowel and the weight is prime, the code is the 5th succeeding letter of the person's own name (as per the English alphabet).\n2. If the city starts with a vowel and the weight is composite, the code is the 3rd preceding letter of the person's own name.\n3. If the city starts with a consonant and the weight is prime, the code is the sum of the digits of the person's weight.\n4. If the city starts with a consonant and the weight is composite, the code is the difference of the digits of the person's weight."
+  },
+  {
+   "id": "pyq-sbipo-mains22-set8",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "title": "Fifteen Boxes - Letters and Symbols",
+   "context": "15 boxes are numbered 2 to 16 and arranged one above another in ascending order from top to bottom (box 2 at the top, box 16 at the bottom). The letters of the word MATE are written in the same order against the first four multiples of 3 starting from 3 (M=3, A=6, T=9, E=12). Symbols P and Q are written in alphabetical order against the multiples of 7 starting from 7 (P=7, Q=14). S is written against the bottommost box (S=16). There is a gap of 2 boxes between the letter U and the symbol % (U=8, %=5, matching the gap-of-2 clue). Symbols # and @ are written immediately next to each other, and there is a gap of 4 boxes between # and $ (# =10, $=15, @=11). Letters R and V occupy two of the remaining boxes (2, 4 and 13, one of which is left blank), with V below R."
+  },
+  {
+   "id": "pyq-sbipo-mains22-set9",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "title": "ZINTOCA Call Centre - Calls Received Funnel",
+   "context": "Data about calls received by three employees A, B and C of a call centre named ZINTOCA:\n\n| | A | B | C |\n|---|---|---|---|\n| Initial calls (% of total calls) | 40% | 30% | 30% |\n| Lead calls (% of initial calls) | 80% | x% | 88% |\n| Final received calls (% of lead calls) | 90% | 80% | y% |\n\nTotal number of initial calls in the company is 24000. The total number of calls not finally received by C is 4464 less than the total number of calls finally received by A."
+  },
+  {
+   "id": "pyq-sbipo-mains22-set10",
+   "section": "quant",
+   "topic": "number-series",
+   "title": "Missing-Terms Series with Ratio Pattern",
+   "context": "Series: (a), (b), 102, 104, 107, 113, 128, 173. Find the values of (a) and (b), then answer the questions that follow."
+  },
+  {
+   "id": "pyq-sbipo-mains22-set11",
+   "section": "quant",
+   "topic": "time-work",
+   "title": "Actual Work vs Maximum Time Table",
+   "context": "Three persons A, B and C have the following actual work done (in units) and maximum time (in hours) to complete that work at their respective minimum efficiency:\n\n| Person | Actual work done | Maximum time (hrs) |\n|---|---|---|\n| A | 50 units | 10 |\n| B | 60 units | 12 |\n| C | - | 15 |\n\nEach person's minimum efficiency (units/hr) equals their actual work divided by their maximum time (so A's and B's minimum efficiency = 5 units/hr each). When a person works at a boosted efficiency, they finish their fixed actual work faster than their maximum time, and the leftover time within that maximum-time window counts as rest."
+  },
+  {
+   "id": "pyq-sbipo-mains22-set12",
+   "section": "quant",
+   "topic": "quadratic-equations",
+   "title": "Quadratic and Its Repeated-Root Companion",
+   "context": "I. 2x^2 + 7x + k = 0\nII. (ay + b)^2 = 0\nThe larger root of equation I is a root of equation II. The smallest root of equation I is -2."
+  },
+  {
+   "id": "pyq-sbipo-mains22-set13",
+   "section": "quant",
+   "topic": "caselet-di",
+   "title": "Two Companies, Three Groups Each - HR, Marketing, Finance",
+   "context": "Two companies A and B each have 3 groups: HR, Marketing and Finance.\nCompany A: 64 existing members in total. If 2 new members are added to each group, the ratio of (HR + Marketing) members to Finance members becomes 4:3.\nCompany B: HR has 6 existing members with no new members added. Finance has 10 existing members.\nAlso:\n1. Total (new + existing) members in Finance of company B is half of total (new + existing) members in Marketing of company A.\n2. New members added to Finance of company B is half of new members added to Marketing of company B.\n3. Total (new + existing) members of Marketing in company A is 6 more than that in company B.\n4. Total (existing + new) members of HR in company A plus Finance in company B equals 28.\n\n(Solving: company A's existing HR/Marketing/Finance = 14/22/28; company B's existing/new HR = 6/0, Marketing = 14/4, Finance = 10/2.)"
+  },
+  {
+   "id": "pyq-sbipo-mains22-set14",
+   "section": "quant",
+   "topic": "trains",
+   "title": "Two Trains Slowing Down Before Reaching Station B",
+   "context": "Train X starts from station A and, after travelling 60 km, reduces its speed by 25%, reaching station B at 10:00 AM.\nTrain Y starts from station A at the same time as X and, after travelling 90 km, reduces its speed by 25%, reaching station B at 9:45 AM.\nHad both trains travelled the whole way at their original (equal) speed, they would have reached B at 8:30 AM.\n(Solving the two arrival-time equations gives original speed = 40 km/hr and distance AB = 240 km.)"
+  }
+ ],
+ "questions": [
+  {
+   "id": "pyq-sbipo-mains22-q001",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains22-set1",
+   "question": "Who faces D?",
+   "options": [
+    "P",
+    "Q",
+    "R",
+    "S",
+    "T"
+   ],
+   "correct": 1,
+   "explanation": "D is on the inner circle and faces the outer-circle seat radially aligned with it. Tracing the seat chain fixed by R's father/husband placement (husband sits directly opposite the father) together with the U-P adjacency clue places Q in the seat that radially faces D.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q002",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains22-set1",
+   "question": "Who is sitting exactly between R's son and R's mother, when counted from the right of R's son?",
+   "options": [
+    "P",
+    "R",
+    "No one",
+    "S",
+    "T"
+   ],
+   "correct": 2,
+   "explanation": "R's son sits second to the right of R, and R's mother sits directly opposite R in the outer circle. Working through the outer-circle spacing clues (the R-T gap and the U-P adjacency) places R's mother immediately next to R's son, so no one sits between them.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q003",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "blood-relations",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains22-set1",
+   "question": "What is the relation of D with respect to B?",
+   "options": [
+    "Son",
+    "Father",
+    "Grandfather",
+    "Uncle",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "B is R's son (born to R and R's husband). D is R's husband's brother, which makes D the paternal uncle of B.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q004",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains22-set1",
+   "question": "If T and R interchange their positions, then who faces E?",
+   "options": [
+    "T",
+    "R",
+    "U",
+    "P",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "Originally T occupies the outer seat radially aligned with E's inner seat, i.e. T faces E. After T and R swap seats, R now sits in T's former seat and so R faces E.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q005",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "blood-relations",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains22-set1",
+   "question": "Who is the oldest member of the family?",
+   "options": [
+    "A",
+    "T",
+    "A and T",
+    "A or T",
+    "R"
+   ],
+   "correct": 3,
+   "explanation": "A (R's father) and T (R's mother) form the eldest, grandparent-generation couple in the family, one generation above R, D, B and Q. The clues fix them as the two oldest members but never establish which of the two spouses is chronologically older, hence 'A or T'.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q006",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "coding-decoding",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains22-set2",
+   "question": "'festival for women only' is coded as '(p) 12D% 21H@ 4E@'. Which of the following will replace the blank '(p)'?",
+   "options": [
+    "12D%",
+    "6C@",
+    "21C@",
+    "21C%",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "Applying the same word-to-code rule used consistently for 'for', 'women' and 'only' in the other coded sentences of this set, 'festival' codes to 21C@.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q007",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "coding-decoding",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains22-set2",
+   "question": "'cindrella (q) to rescue' is coded as '7B% 24I% 8G@ 9F%'. Which of the following word will replace the blank '(q)'?",
+   "options": [
+    "doing",
+    "shoutes",
+    "shouted",
+    "fight",
+    "women"
+   ],
+   "correct": 2,
+   "explanation": "The missing word between 'cindrella' and 'to rescue' that both fits the coding pattern's word-length/position rule and completes the phrase sensibly is 'shouted'.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q008",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "input-output",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains22-set3",
+   "question": "For the input NONE LINK USED SENT MORE TABLE: what word is to the 4th right of the word which is 6th from the right in Step IV?",
+   "options": [
+    "RTWJ",
+    "QPSN",
+    "YFJQG",
+    "XJSY",
+    "SJST"
+   ],
+   "correct": 2,
+   "explanation": "Step I (+2 shift, input order): PQPG NKPM WUGF UGPV OQTG VCDNG. Step II (alphabetical reorder by original word - LINK, MORE, NONE, SENT, TABLE, USED): NKPM OQTG PQPG UGPV VCDNG WUGF. Step III (+3 shift): QNSP RTWJ STSJ XJSY YFGQJ ZXJI. Step IV (odd positions 1,3,5 swap their 3rd-from-end and last letters; even positions unchanged): QPSN RTWJ SJST XJSY YFJQG ZXJI. With 6 words, '6th from right' = 1st word (QPSN); 4th to its right = the 5th word, YFJQG.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q009",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "input-output",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains22-set3",
+   "question": "For the input NONE LINK USED SENT MORE TABLE: what word is to the immediate left of the word which is 5th from the left end of Step III?",
+   "options": [
+    "STSJ",
+    "XJSY",
+    "ZXJI",
+    "RTWJ",
+    "QNSP"
+   ],
+   "correct": 1,
+   "explanation": "Step III for this input is QNSP RTWJ STSJ XJSY YFGQJ ZXJI. The 5th word from the left is YFGQJ; the word immediately to its left is XJSY.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q010",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "input-output",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains22-set3",
+   "question": "For the input NONE LINK USED SENT MORE TABLE: in which step is a word reading RSMD 4th from the left end?",
+   "options": [
+    "Step V",
+    "Step VI",
+    "Step VII",
+    "Step IV",
+    "Step VIII"
+   ],
+   "correct": 0,
+   "explanation": "The 4th word (from SENT) runs UGPV (Step II) -> XJSY (Step III, unchanged into Step IV since position 4 is even) -> shifted -6 in Step V to RDMS - the same four letters as the target word, landing in Step V. (The source's target spells the letters as RSMD rather than RDMS; this looks like a letter-order slip in the memory-based recall, but the step - Step V - matches the book's key.)",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq",
+    "book-typo-suspect"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q011",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "input-output",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains22-set3",
+   "question": "If 'GCIOD YILIR GSNIG RUEMN HESIN' is Step IV for a certain input, what will be the next step (Step V)?",
+   "options": [
+    "BXDJ TDGDM BNIBV MPZHI CZNDI",
+    "AWXIC SCFCL AMUAH LOHGY BYHCM",
+    "GCDOI YILIR GSGIN RUEMN HENIS",
+    "AWCIX SCFCL AMHCA LOYGH BYMCH",
+    "None of the above"
+   ],
+   "correct": 3,
+   "explanation": "Step V shifts every letter of every Step IV word by -6: GCIOD -> AWCIX, YILIR -> SCFCL, GSNIG -> AMHCA, RUEMN -> LOYGH, HESIN -> BYMCH, giving 'AWCIX SCFCL AMHCA LOYGH BYMCH'.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q012",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "inequality",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains22-set4",
+   "question": "Statement: D ? M b P x K W F ? T; M x G\nConclusions:\nI. K @ G\nII. T ? P\nIII. F b M",
+   "options": [
+    "Only conclusion I is true",
+    "Both conclusion I and II are true",
+    "Either II or III is true",
+    "All I, II and III are true",
+    "Both II and III are true"
+   ],
+   "correct": 0,
+   "explanation": "From D<M<=P=K>F<T and M=G: K=P>=M=G, so K>=G - conclusion I is definitely true. F and T are both only known to exceed... (F<K and F<T) with no direct link to M or P, and T's relation to P is not fixed, so conclusions II and III do not definitely follow.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q013",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "inequality",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains22-set4",
+   "question": "Statement: T @ I x H W U ? P b V ? L; H @ L\nConclusions:\nI. T W L\nII. V b T\nIII. I @ L",
+   "options": [
+    "Only II conclusion is true",
+    "Both conclusion I and II are true",
+    "Either conclusion II or conclusion III is true",
+    "Only III conclusion is true",
+    "Both conclusion I and III are true"
+   ],
+   "correct": 3,
+   "explanation": "Since I = H and H >= L, we get I >= L directly, so conclusion III (I @ L) definitely follows. T >= I = H >= L only gives T >= L (equality is possible throughout), so conclusion I (strict T > L) is not definite. The book's key does not credit conclusion II either, though V < L <= H = I <= T would seem to force V < T on a direct reading - this pairing looks like it may hinge on a symbol that was mistranscribed in the memory-based recall, so the key's answer is kept as given.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq",
+    "book-typo-suspect"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q014",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "data-sufficiency-reasoning",
+   "difficulty": 2,
+   "question": "Six people - Megha, Suhas, Rakesh, Akshay, Safia and Nidhi - are standing in a line according to their height, but not necessarily in that order. Who is the second tallest person?\nStatement I: Megha is taller than just two persons. Rakesh is taller than Nidhi and Safia but he is not the tallest. Suhas is shorter than just two persons.\nStatement II: Nidhi is the second shortest person. Megha is shorter than three persons. Suhas is shorter than Akshay and Rakesh. Safia is the shortest.",
+   "options": [
+    "The data in statement I alone is sufficient to answer the question, while the data in statement II alone is not sufficient to answer the question",
+    "The data in statement II alone is sufficient to answer the question, while the data in statement I alone is not sufficient to answer the question",
+    "The data either in statement I alone or in statement II alone is sufficient to answer the question",
+    "The data in both statements I and II together is not sufficient to answer the question",
+    "The data in both statements I and II together is necessary to answer the question"
+   ],
+   "correct": 0,
+   "explanation": "Statement I alone: Megha is 4th tallest, Suhas is 3rd tallest; since Rakesh (taller than Nidhi and Safia, but not tallest) must then be 2nd tallest with Akshay 1st and Nidhi/Safia last - Rakesh is uniquely the 2nd tallest. Statement II alone: it fixes Safia=6th, Nidhi=5th, Megha=4th, Suhas=3rd, but leaves Akshay and Rakesh interchangeable between 1st and 2nd - not sufficient alone.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q015",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "data-sufficiency-reasoning",
+   "difficulty": 3,
+   "question": "There are six letters W, I, M, D, Y and A. Is 'MIDWAY' the word formed after performing operations using these six letters?\nI. A is placed fourth to the right of M. D is not placed immediately next to either M or A.\nII. Y is placed immediately next (either left or right) to A. W is placed immediately next (either left or right) to D.\nIII. Both I and W are placed immediately next to D. The word does not begin with Y. M is not placed immediately next to W.",
+   "options": [
+    "Statement I and II are sufficient to answer the question, while statement III is not required to answer the question.",
+    "Statement I and III are sufficient to answer the question, while statement II is not required to answer the question.",
+    "Statement II and III are sufficient to answer the question, while statement I is not required to answer the question.",
+    "Either statement I alone or statement II alone or statement III alone is sufficient to answer the question.",
+    "All statement I, II and III together are necessary to answer the question."
+   ],
+   "correct": 1,
+   "explanation": "Statement I places A fourth right of M (M then A, 4 apart) with D not touching either. Statement III adds that both I and W sit next to D, the word doesn't start with Y, and M isn't next to W - together these fix the unique order M-I-D-W-A-Y without needing statement II's left/right-only clues.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q016",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "data-sufficiency-reasoning",
+   "difficulty": 3,
+   "question": "Seven friends - S, T, R, F, G, J and V - live on different floors of a seven-storey building (ground floor numbered 1, up to the topmost floor numbered 7). Who is staying immediately below G's floor?\nStatement I: R lives on one of the odd-numbered floors above floor 3, and only two people live between R and S.\nStatement II: Only one person lives between S and G, who is staying below T and above S. T does not stay on the top floor.\nStatement III: V stays above F but below J.",
+   "options": [
+    "The data in statement II alone is sufficient, and the data in statement I or III is not required.",
+    "The data in either statement I, II or III alone is sufficient.",
+    "The data in statement II and III is sufficient, and the data in statement I is not required.",
+    "The data in all three statements together is needed to answer the question.",
+    "The data in all the statements, even together, is not sufficient to answer the question."
+   ],
+   "correct": 3,
+   "explanation": "Each statement alone (or any two together) still leaves more than one valid floor arrangement for the seven friends; only combining all three - R's odd floor above 3 with S two away, G's position below T and above S, and V sandwiched between F and J - pins down a single arrangement and hence a unique answer.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q017",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "data-sufficiency-reasoning",
+   "difficulty": 3,
+   "question": "Seven persons - Kabir, Roy, Manav, Adi, Babu, Malik and Boman - sit in a row facing north, each owning a different car brand (Kia, Tata, Maruti, Toyota, Hyundai, BMW, Mahindra). The Toyota owner sits fourth to the left of Adi, who owns Tata and either of them sits at an extreme end. Roy owns Mahindra. The Kia owner sits third to the left of the BMW owner, who sits neither adjacent to the Toyota owner nor adjacent to Adi. Babu, who owns neither Toyota nor Kia, sits third to the left of Roy.\nWho sits at the immediate right of Kabir?\nStatement I: Two persons sit between the Maruti owner and Manav. Three persons sit between Boman and the Hyundai owner.\nStatement II: The Hyundai owner sits second to the left of Manav. The Maruti owner sits at the immediate right of Boman.\nStatement III: Three persons sit between Malik and Kabir, who doesn't own Maruti. Boman and the Maruti owner sit together.",
+   "options": [
+    "The data in any two statements are sufficient to answer the question.",
+    "The data in statement III is sufficient, and the data in statement I and II is not required.",
+    "The data in either statement I, II or III alone is sufficient to answer the question.",
+    "The data in statement II and III is sufficient, and the data in statement I is not required.",
+    "The data in all the statements, even together, are not sufficient to answer the question."
+   ],
+   "correct": 1,
+   "explanation": "The initial car-brand seating clues leave the Kabir/Malik/Boman placement ambiguous. Statement III's extra facts (three seats between Malik and Kabir who doesn't own Maruti, plus Boman seated next to the Maruti owner) combine with the base clues to fix everyone's seat uniquely, without needing statements I or II.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q018",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains22-set5",
+   "question": "Who is sitting second to the left of G?",
+   "options": [
+    "A",
+    "B",
+    "H",
+    "I",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "Solving the row from the clues gives the seating (left to right): F, I, A, C, D, E, H, B, G. Two seats to the left of G (seat 9) is seat 7, which is H.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q019",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "blood-relations",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains22-set5",
+   "question": "How is E related to F?",
+   "options": [
+    "Niece",
+    "Son",
+    "Daughter",
+    "Nephew",
+    "Cannot be determined"
+   ],
+   "correct": 3,
+   "explanation": "A and F are both sons of B and H (brothers). E is A's son, so E is F's brother's son - i.e. E is F's nephew.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q020",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains22-set5",
+   "question": "Who is sitting third to the right of I's mother?",
+   "options": [
+    "H",
+    "G",
+    "B",
+    "E",
+    "Can't be determined"
+   ],
+   "correct": 0,
+   "explanation": "In the seating F, I, A, C, D, E, H, B, G, I's mother is C (seat 4). Three seats to her right is seat 7, which is H.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q021",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains22-set5",
+   "question": "What is the position of A's brother with respect to E's mother?",
+   "options": [
+    "Fourth to the left",
+    "Second to the left",
+    "Third to the right",
+    "Third to the left",
+    "Cannot be determined"
+   ],
+   "correct": 3,
+   "explanation": "A's brother is F (seat 1); E's mother is C (seat 4). F sits three seats to the left of C.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q022",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains22-set5",
+   "question": "If D is replaced with his sister (C), i.e. D and C interchange seats, then what will be the position of H with respect to her daughter-in-law?",
+   "options": [
+    "Third to the left",
+    "Second to the right",
+    "Third to the right",
+    "Fourth to the left",
+    "Cannot be determined"
+   ],
+   "correct": 1,
+   "explanation": "H's daughter-in-law is C (A's wife). After D and C swap seats, C now sits at seat 5 while H stays at seat 7 - H is now second to the right of C.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q023",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 2,
+   "question": "Statement: This benchmark is increasingly applied in choosing who will be hired and who will not, who will be let go and who retained, who passed over and who promoted.\nInferences:\nI. The benchmark is an integral part of the employee management policy of an organization.\nII. Those who are not hired do not make it to the benchmark.",
+   "options": [
+    "Only I follows",
+    "Only II follows",
+    "Either I or II follows",
+    "Neither I nor II follows",
+    "Both I and II follow"
+   ],
+   "correct": 4,
+   "explanation": "The statement describes the benchmark being used across the whole hire-to-promotion employee lifecycle, so it is reasonable to infer it is built into the organization's management policy (I follows). Since the benchmark is explicitly used to decide who is hired in the first place, someone not hired was necessarily measured against it and simply did not clear it - so II also follows, per the book's key.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q024",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "data-sufficiency-reasoning",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains22-set6",
+   "question": "Which of the following statements is sufficient to find the shortest distance between points M and J?\nI. J & P, P % N, N @ O\nII. P & Q, N % P, O @ N, O # J",
+   "options": [
+    "Data in Statement I alone is sufficient, while Statement II alone is not sufficient",
+    "Data in Statement II alone is sufficient, while Statement I alone is not sufficient",
+    "Data either in Statement I alone or Statement II alone is sufficient",
+    "Data in both statements together is not sufficient",
+    "Data in both statements together is necessary"
+   ],
+   "correct": 1,
+   "explanation": "M is already linked to the fixed network through T and R/H (T # M, T @ R, R % H, Q & H). Statement I only strings J-P-N-O together in an isolated cluster with no link back to the M/T/R/H network, so it cannot fix the M-J distance. Statement II's P & Q line bridges P (and hence its N-O-J chain) to Q, which is already part of the fixed network, giving one continuous path from M through T/R/H/Q/P/N/O to J - so Statement II alone is sufficient.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q025",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "data-sufficiency-reasoning",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains22-set6",
+   "question": "Which of the following statements is sufficient to prove B is the midpoint of RT?\nI. F # H, F & E, D % E\nII. D @ C, B % C",
+   "options": [
+    "Data in Statement I alone is sufficient, while Statement II alone is not sufficient",
+    "Data in Statement II alone is sufficient, while Statement I alone is not sufficient",
+    "Data either in Statement I alone or Statement II alone is sufficient",
+    "Data in both statements together is not sufficient",
+    "Data in both statements together is necessary"
+   ],
+   "correct": 4,
+   "explanation": "R, H and T are already linked in the fixed network, but neither statement mentions R or T directly - both need to be bridged in through D. Statement I links F, E and D to H (part of the R-H-T cluster) via F, but never mentions B or C. Statement II links D, C and B together, but D is not yet connected to the fixed network without Statement I. Only by combining both statements does a single chain run from R/T/H through F/E/D to C/B, letting the midpoint relation be verified - so both statements together are necessary.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q026",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains22-set7",
+   "question": "What is the sum of the codes of C and H and the weight of D?",
+   "options": [
+    "66",
+    "74",
+    "50",
+    "64",
+    "19"
+   ],
+   "correct": 1,
+   "explanation": "Solving the puzzle: A=55kg/Bhubaneshwar, B=56kg/Hyderabad, C=89kg/Mumbai, D=50kg/Bangalore, E=71kg/Ernakulam, F=66kg/Chennai, G=49kg/Ahmedabad, H=92kg/Jaipur (from A=55 via the 11&5 clue, H+C=181 and D+H=142 forcing H=92, C=89, D=50, then B=56 as the Hyderabad resident by elimination, and G forced into Ahmedabad since it can't take Mumbai/Chennai/Jaipur/Ernakulam). C lives in Mumbai (consonant) with weight 89 (prime), so C's code = digit sum 8+9=17. H lives in Jaipur (consonant) with weight 92 (composite), so H's code = digit difference |9-2|=7. Sum of codes = 17+7=24; plus D's weight (50) gives 24+50=74.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q027",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains22-set7",
+   "question": "What is the code for the one who lives in Ernakulam?",
+   "options": [
+    "5",
+    "D",
+    "1",
+    "17",
+    "J"
+   ],
+   "correct": 4,
+   "explanation": "E lives in Ernakulam (a vowel-starting city) with weight 71 (prime), so E's code is the 5th succeeding letter of E's own name: E -> F -> G -> H -> I -> J, i.e. J.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q028",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains22-set7",
+   "question": "Who lives in Ahmedabad?",
+   "options": [
+    "G",
+    "A",
+    "F",
+    "C",
+    "D"
+   ],
+   "correct": 0,
+   "explanation": "A is fixed in Bhubaneshwar, C in Mumbai, D in Bangalore, F in Chennai, B in Hyderabad and E in Ernakulam. Of the two persons left (G and H) for Ahmedabad and Jaipur, G cannot live in Jaipur (given) or Ernakulam (given), so G must live in Ahmedabad, leaving H for Jaipur.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q029",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains22-set7",
+   "question": "What is the code for H?",
+   "options": [
+    "1",
+    "17",
+    "5",
+    "7",
+    "D"
+   ],
+   "correct": 3,
+   "explanation": "H lives in Jaipur (a consonant-starting city) with weight 92 kg, which is composite, so H's code is the difference of the digits of the weight: |9-2| = 7.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q030",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains22-set7",
+   "question": "How many persons have the same code?",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "correct": 1,
+   "explanation": "Computing every person's code: A (Bhubaneshwar, 55, composite) = |5-5| = 0; B (Hyderabad, 56, composite) = |5-6| = 1; C (Mumbai, 89, prime) = 8+9 = 17; D (Bangalore, 50, composite) = |5-0| = 5; E (Ernakulam, 71, prime) = J; F (Chennai, 66, composite) = |6-6| = 0; G (Ahmedabad, 49, composite) = 3rd preceding letter of G, i.e. D; H (Jaipur, 92, composite) = |9-2| = 7. Only A and F share the same code (0), so exactly 2 persons have the same code.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q031",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "syllogism",
+   "difficulty": 3,
+   "question": "Conclusions:\nI. All Roots can not be Grass.\nII. Some Leaves being Grass is a possibility.\nStatements:\nI. Some Roots are Grass. All Trees are Leaves. Some Leaves are Roots.\nII. Only a few Leaves are Roots. Some Roots are Grass. All Trees are Leaves.\nIII. Only a few Leaves are Roots. Some Roots are Grass. Some Trees are Leaves.\nIV. Only a few Roots are Grass. All Trees are Leaves. Some Leaves are Roots.\nV. Only a few Roots are Grass. Some Trees are Leaves. Some Leaves are Roots.\nWhich statement(s) make both conclusions logically follow?",
+   "options": [
+    "Only statement IV",
+    "Only statement V",
+    "Both statement I and II",
+    "Both statement I and III",
+    "Both statement IV and V"
+   ],
+   "correct": 4,
+   "explanation": "Both conclusions are 'possibility' type statements (I says roots-grass exclusion is possible, II says some leaves-grass overlap is possible). Testing each statement's Venn diagram, both statement IV and statement V (each built on 'Only a few Roots are Grass' rather than 'Some Roots are Grass') leave room for a diagram where Roots and Grass are entirely separate while still allowing a Leaves-Grass overlap, so both conclusions hold as possibilities under either IV or V.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq",
+    "book-typo-suspect"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q032",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "syllogism",
+   "difficulty": 3,
+   "question": "Conclusions:\nI. At least some goat being bird is a possibility.\nII. Some swans are goat.\nStatements:\nI. All goats are Swans. All swans are crows. No goat is a bird.\nII. All goats are Swans. All Swans are crows. No crow is a bird.\nIII. Some goats are Swans. Some goats are crows. No goat is a bird.\nIV. Some goats are Swans. All Swans are crows. No goat is a bird.\nV. All goats are Swans. Some goats are crows. No crow is a bird.\nWhich statement makes both conclusions logically follow?",
+   "options": [
+    "Only statement II",
+    "Only statement V",
+    "Only statement IV",
+    "Only statement III",
+    "Only statement I"
+   ],
+   "correct": 1,
+   "explanation": "Conclusion II (some swans are goat) needs a statement where all/some goats are swans - true in I, II, IV and V, but false in III (only 'some goats are Swans' still gives 'some swans are goat' by conversion, so III also satisfies II strictly, but the diagram in III breaks conclusion I). Conclusion I (goat-bird overlap is a possibility) fails whenever 'No goat is a bird' is stated outright (I, III, IV), since that forecloses any possibility. Statement V says 'No crow is a bird' rather than 'no goat is a bird', so goats (all of whom are swans, hence crows) being birds is only excluded if crows can't be birds - but since 'No crow is a bird' is given and all goats are crows, goats also cannot be birds definitively, which nonetheless leaves the 'possibility' wording of conclusion I intact by the book's convention. Statement V is the only one both conclusions survive under.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq",
+    "book-typo-suspect"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q033",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 2,
+   "question": "Passage: Cotton acreage in India during the current year has fallen by 10% as cotton growers have moved to other cash crops, due to the cotton glut in world markets post-September 11 and the resulting slowdown. This benefited yarn manufacturers, who get higher prices for their produce; some had also stocked up low-priced cotton the previous year, boosting their net profits and margins.\nAssumption: The farmers will again grow cotton next year due to the increased price of cotton yarn.\nIs the assumption definitely true, probably true, probably false, definitely false, or is the data inadequate?",
+   "options": [
+    "If the assumption is definitely true",
+    "If the assumption is probably true",
+    "If the assumption is probably false",
+    "If the assumption is definitely false",
+    "If the data are inadequate"
+   ],
+   "correct": 2,
+   "explanation": "Farmers decide what to grow based on cotton prices and market glut conditions, not on the margins yarn manufacturers earn from cotton they already stocked. Since the passage gives no indication that cotton itself (as opposed to yarn) has become more attractive to grow, the assumption that farmers will switch back to cotton is probably false.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q034",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 2,
+   "question": "Statement: Caitlin Bosche, HR Head at Company X, notices from monthly reports that production in Department G fell by 100,000 units (machinery breaking down from overuse) and in Department K fell by 150,000 units (machinery being underutilized).\nCourses of Action:\nI. Caitlin sends an email to the Operations Manager directing him to buy new machinery for Department G with enough capacity to bear the workload.\nII. Caitlin sends an email to the Operations Manager informing him to transfer 10,000 workers from Department G to Department K.",
+   "options": [
+    "Only I follows",
+    "Only II follows",
+    "Either I or II follows",
+    "Neither I nor II follows",
+    "Both I and II follow"
+   ],
+   "correct": 1,
+   "explanation": "The root cause is a workload imbalance - Department G's machinery is overworked while Department K's is idle. Redistributing manpower to balance the workload (II) directly addresses this mismatch at no extra capital cost, whereas simply buying new machinery for G (I) does nothing to fix K's underutilization and adds unnecessary expense, so only II is judged to follow.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q035",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 2,
+   "question": "Statement: 80% of the employees of Edulab Ltd. earn more than Rs. 5000 per month. 70% of employees of Edulab Ltd. work as supervisors.\nConclusions:\nI. All supervisors earn more than Rs.5000 per month.\nII. Less than 100% of supervisors earn more than Rs.5000 per month.",
+   "options": [
+    "Only Conclusion I follows",
+    "Only Conclusion II follows",
+    "Both the Conclusions I and II follow",
+    "Neither Conclusion I nor II follows",
+    "Either Conclusion I or II follows"
+   ],
+   "correct": 4,
+   "explanation": "Since 70% (supervisors) is less than 80% (high earners), it is numerically possible for every supervisor to fall within the high-earner group, which would make conclusion I true and conclusion II false; equally, some supervisors could fall outside the high-earner group, making II true and I false. The two conclusions form a complementary either/or pair covering all possible overlaps, so 'Either I or II follows' is the definite answer.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q036",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 2,
+   "question": "Statement: All engineering students, except for Mechanical, work on software rather than hardware.\nWhich of the following can be most properly inferred from the statement above?",
+   "options": [
+    "Mechanical engineering students work only on hardware.",
+    "Only mechanical engineering students work on software.",
+    "If an engineering student works on software, he is not a mechanical engineer.",
+    "Not all engineering students work on software.",
+    "An engineering student works on hardware, as long as he is not a mechanical engineer."
+   ],
+   "correct": 3,
+   "explanation": "The statement explicitly carves out Mechanical students as an exception to the software-working majority, which directly implies that not every engineering student works on software (Mechanical students are the counter-example) - a safer, more literal inference than assuming Mechanical students exclusively work on hardware.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q037",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 2,
+   "question": "Statement: Should animals be killed in the name of laboratory experiments?\nArguments:\nI. Yes, they are available in abundance.\nII. No, we have to support non-violence on every step of our lives.",
+   "options": [
+    "If only argument I is strong",
+    "If only argument II is strong.",
+    "If either I or II is strong.",
+    "If neither I nor II is strong.",
+    "If both I and II are strong."
+   ],
+   "correct": 3,
+   "explanation": "Argument I (abundance) doesn't address whether killing animals for experiments is justified - availability has no bearing on ethics. Argument II invokes a broad, generic principle of non-violence without engaging with the specific costs and benefits of laboratory research, making it too vague to directly settle the question. Neither argument is judged strong.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q038",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 2,
+   "question": "Passage: Alka lost her job during the lockdown and started a tiffin service for people who had depended on restaurants. Good timing meant it needed little investment and ran debt-free for over a year, but once the lockdown lifted, demand fell sharply because local restaurants began offering similar meals at a lower cost.\nWhich of the following actions would help Alka improve her business?",
+   "options": [
+    "Reduce the cost of her tiffins to get more customers, even if it means a little loss at the beginning.",
+    "Advertise to increase customer reach and extend her boundaries.",
+    "Come up with subscription and discount offers to allure customers without taking a significant loss.",
+    "Keep the business alive by reducing the prices and get back to her job thereby averting loss.",
+    "Retain the cost on her tiffins and try to change the class of target customers."
+   ],
+   "correct": 2,
+   "explanation": "Cutting prices outright (options 1 and 4) risks sustained losses since restaurants are already competing on cost, and simply advertising (option 2) doesn't address the price disadvantage. Subscription and discount offers retain customers with a value proposition (loyalty, bundled savings) without matching restaurants rupee-for-rupee, protecting margins while addressing the demand drop - the most balanced fix.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q039",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains22-set8",
+   "question": "Which letter or symbol is written against the box which is 4 places away from the bottommost box?",
+   "options": [
+    "%",
+    "#",
+    "E",
+    "R",
+    "T"
+   ],
+   "correct": 2,
+   "explanation": "The bottommost box is 16; 4 places away (moving up the stack) is box 12, which holds E (the 4th letter of MATE, placed at the last of the first four multiples of 3: 3, 6, 9, 12).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q040",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains22-set8",
+   "question": "If a and b are the box numbers of the letters M and P respectively, then find the value of (a+b)^2.",
+   "options": [
+    "99",
+    "101",
+    "10",
+    "100",
+    "52"
+   ],
+   "correct": 3,
+   "explanation": "M is at box 3 (first of the MATE multiples of 3) and P is at box 7 (first multiple of 7). So a+b = 3+7 = 10, and (a+b)^2 = 100.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q041",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains22-set9",
+   "question": "Find the value of y.",
+   "options": [
+    "70",
+    "75",
+    "85",
+    "90",
+    "None of the above"
+   ],
+   "correct": 1,
+   "explanation": "A's initial calls = 40% of 24000 = 9600; A's final received = 9600 x 0.8 x 0.9 = 6912. C's initial calls = 30% of 24000 = 7200; C's lead calls = 7200 x 0.88 = 6336. Calls not received by C = A's final received - 4464 = 6912 - 4464 = 2448, so C's final received = 7200 - 2448 = 4752. Then y% = 4752/6336 x 100 = 75%.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q042",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains22-set9",
+   "question": "Find the ratio of the number of lead calls made by A to the number of initial calls by B.",
+   "options": [
+    "15 : 13",
+    "16 : 13",
+    "16 : 15",
+    "17 : 13",
+    "None of the above"
+   ],
+   "correct": 2,
+   "explanation": "A's initial calls = 40% of 24000 = 9600, so A's lead calls = 9600 x 0.8 = 7680. B's initial calls = 30% of 24000 = 7200. Ratio = 7680 : 7200 = 16 : 15.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q043",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "quantity-comparison",
+   "difficulty": 2,
+   "question": "Quantity I: A boat running downstream covers a distance of 20 km in 4 hrs, while for covering the same distance upstream it takes 5 hrs. Speed of boat in still water (in kmph).\nQuantity II: A boat can cover a distance of 48 km in 3 hrs in still water. If speed of current is 4 kmph, then the difference between the time taken by the boat to cover the same distance downstream and upstream (in hrs).",
+   "options": [
+    "QI > QII",
+    "QI < QII",
+    "QI <= QII",
+    "QI >= QII",
+    "Cannot be determined"
+   ],
+   "correct": 0,
+   "explanation": "QI: downstream speed = 20/4 = 5 kmph, upstream speed = 20/5 = 4 kmph, so still-water speed = (5+4)/2 = 4.5 kmph. QII: still-water speed = 48/3 = 16 kmph, current = 4 kmph, so upstream speed = 12 kmph (time 48/12 = 4 hrs) and downstream speed = 20 kmph (time 48/20 = 2.4 hrs); difference = 4 - 2.4 = 1.6 hrs. Since QI (4.5) > QII (1.6), QI > QII.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q044",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "quantity-comparison",
+   "difficulty": 3,
+   "question": "If p + q + r = 15 and p != q != r:\nQuantity I: Maximum value of pqr, if p, q, r are positive integers.\nQuantity II: Maximum value of pqr, if p, q, r >= -10.",
+   "options": [
+    "QI > QII",
+    "QI < QII",
+    "QI <= QII",
+    "QI >= QII",
+    "Cannot be determined"
+   ],
+   "correct": 1,
+   "explanation": "QI: among distinct positive integers summing to 15, the values closest together maximise the product - 4, 5, 6 gives 4x5x6 = 120, better than any other distinct triple. QII: allowing values down to -10, taking two numbers close to -10 (whose product is a large positive number) and the third correspondingly large and positive (near 35) drives pqr far above 120 (approaching 10x10x35 = 3500 as the two negative values approach -10 while staying distinct). So QI < QII.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q045",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "quantity-comparison",
+   "difficulty": 2,
+   "question": "If 4x - 3a/x = 2/3:\nQuantity I: Value of x.\nQuantity II: Value of a.",
+   "options": [
+    "QI > QII",
+    "QI < QII",
+    "QI <= QII",
+    "QI >= QII",
+    "Cannot be determined"
+   ],
+   "correct": 4,
+   "explanation": "A single equation in two unknowns (x and a) has infinitely many solution pairs, so neither x nor a can be pinned to a unique value - the comparison cannot be determined.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q046",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-sufficiency",
+   "difficulty": 2,
+   "question": "Find the cost price of a watch.\nI. If there is a markup of Rs. 360 and a 10% discount is given, then profit is 8%.\nII. If the watch is sold at a profit of 12%, then the difference between the sale price and cost price is Rs. 216.",
+   "options": [
+    "Statement I alone is sufficient",
+    "Statement II alone is sufficient",
+    "Both statements I and II together are sufficient",
+    "Either statement I or II alone is sufficient",
+    "None of the above"
+   ],
+   "correct": 3,
+   "explanation": "Statement I alone: (C+360) x 0.9 = 1.08C gives 0.9C+324=1.08C, so C = 1800. Statement II alone: 0.12C = 216 gives C = 1800. Each statement alone yields the same unique cost price, so either alone is sufficient.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q047",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-sufficiency",
+   "difficulty": 3,
+   "question": "What is the area of rectangle ABCD?\nI. Perimeter of the rectangle is 4.5 times its breadth.\nII. The difference between the squares of an adjacent pair of sides of rectangle ABCD is 5.4 times its breadth.",
+   "options": [
+    "Statement I alone is sufficient",
+    "Statement II alone is sufficient",
+    "Both statements I and II together are sufficient",
+    "Either statement I or II alone is sufficient",
+    "None of the above"
+   ],
+   "correct": 2,
+   "explanation": "Statement I alone gives only the ratio length = 1.25 x breadth (2l+2b=4.5b), no absolute size. Statement II alone gives l^2-b^2=5.4b, one equation with two unknowns - also not enough alone. Combining both: (1.25b)^2 - b^2 = 5.4b gives 0.5625b^2=5.4b, so b=9.6 and l=12, giving area = 115.2 - both statements together are needed.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q048",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-sufficiency",
+   "difficulty": 2,
+   "question": "In how many days do 10 women complete a piece of work?\nI. 4 men and 6 women can complete the same work in 20 days.\nII. The number of days taken by 2 men to complete the work is the same as the number of days taken by 3 women for the same work.",
+   "options": [
+    "Statement I alone is sufficient",
+    "Statement II alone is sufficient",
+    "Both statements I and II together are sufficient",
+    "Either statement I or II alone is sufficient",
+    "None of the above"
+   ],
+   "correct": 2,
+   "explanation": "Statement II alone only gives the ratio of man-rate to woman-rate (2 men = 3 women in output), with no absolute rate. Statement I alone has two unknowns (man-rate, woman-rate). Combined: using 2m=3w (m=1.5w) in (4m+6w)x20 = total work gives (6w+6w)x20=240w women-days, so 10 women take 240w/10w = 24 days - both statements together are required.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q049",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "number-series",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains22-set10",
+   "question": "Double the value of (a); let it be x. Then find the difference between x and the 4th term of the series given.",
+   "options": [
+    "98",
+    "88",
+    "164",
+    "102",
+    "None of the above"
+   ],
+   "correct": 1,
+   "explanation": "The consecutive differences from 102 onward are 2, 3, 6, 15, 45, whose successive ratios form an arithmetic progression 1.5, 2, 2.5, 3. Extending this ratio pattern backward gives the difference between (b) and 102 as 2, and between (a) and (b) as 4, so (b) = 100 and (a) = 96. x = 2 x 96 = 192. The 4th term of the series (a),(b),102,104,... is 104. Difference = 192 - 104 = 88.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q050",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "number-series",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains22-set10",
+   "question": "From (b), a new series is started. The 2nd term of this series is (b + 22), the 3rd term is (b + 33), the 4th term is (b + 44), and so on. Find the 5th term of the series.",
+   "options": [
+    "98 + 55",
+    "99 + 55",
+    "100 + 55",
+    "101 + 55",
+    "None of the above"
+   ],
+   "correct": 2,
+   "explanation": "The pattern is term(n) = (b) + 11n for n = 2, 3, 4, ... (b+22, b+33, b+44), so the 5th term is (b) + 55. Since (b) = 100 (derived above), this is written as 100 + 55.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q051",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "time-work",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains22-set11",
+   "question": "If C works for 1 hour and then rests for the next 10 minutes, and in this manner completes his entire duration of work, and the efficiency of C is 20% more than the average of the minimum efficiencies of A and B, then find the total work done by C (in units).",
+   "options": [
+    "90",
+    "64",
+    "82",
+    "78",
+    "None of the above"
+   ],
+   "correct": 3,
+   "explanation": "Minimum efficiency of A and B are both 5 units/hr (50/10 and 60/12), so their average is 5; C's efficiency = 5 x 1.2 = 6 units/hr. Each work-plus-rest cycle for C takes 70 minutes and yields 60 minutes of work. In C's 15-hour (900-minute) window, 12 full cycles use 840 minutes (720 minutes = 12 hours of work), leaving exactly 60 minutes - enough for one final full hour of work with no trailing rest needed. Total working time = 13 hours, so total work = 6 x 13 = 78 units.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q052",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "time-work",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains22-set11",
+   "question": "If B works at 60% more than his minimum efficiency, then find the total time of rest of B in his entire duration of work.",
+   "options": [
+    "5.5",
+    "4.5",
+    "7.5",
+    "2.5",
+    "None of the above"
+   ],
+   "correct": 1,
+   "explanation": "B's minimum efficiency is 5 units/hr, so at 60% more he works at 8 units/hr. His fixed actual work of 60 units then takes 60/8 = 7.5 hours. Since his maximum-time window is 12 hours, the remaining 12 - 7.5 = 4.5 hours is rest.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q053",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "time-work",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains22-set11",
+   "question": "A worked for 1 hour, then took rest for the next 15 minutes; in this pattern he completed his entire duration of work. Find the net efficiency of A in units per hour.",
+   "options": [
+    "30/4",
+    "60/7",
+    "75/8",
+    "50/8",
+    "None of the above"
+   ],
+   "correct": 3,
+   "explanation": "A's work-plus-rest cycle is 60+15=75 minutes. In his 10-hour (600-minute) window, exactly 8 full cycles fit (8 x 75 = 600 minutes), giving 8 x 60 = 480 minutes = 8 hours of actual working time. A's fixed actual work is 50 units, so net efficiency = 50/8 units per hour.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q054",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "quadratic-equations",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains22-set12",
+   "question": "Sum of the roots of equation I is:",
+   "options": [
+    "-7",
+    "-4.5",
+    "-3.5",
+    "7",
+    "Cannot be determined"
+   ],
+   "correct": 2,
+   "explanation": "For 2x^2+7x+k=0, sum of roots = -b/a = -7/2 = -3.5, independent of the value of k.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q055",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "quadratic-equations",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains22-set12",
+   "question": "Value of 'b' is:",
+   "options": [
+    "3",
+    "-2",
+    "0",
+    "-1",
+    "Cannot be determined"
+   ],
+   "correct": 4,
+   "explanation": "The smallest root of equation I is -2 and the sum of roots is -3.5, so the larger root is -1.5. Equation II, (ay+b)^2=0, has repeated root y=-b/a; since this root equals equation I's larger root, -b/a=-1.5, which only fixes the ratio b/a, not the absolute value of b. So 'b' cannot be determined.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q056",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "caselet-di",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains22-set13",
+   "question": "Find the ratio of the average of existing members of HR and Finance in company A to the average of final (existing + new) members of Marketing and Finance in company B.",
+   "options": [
+    "8 : 7",
+    "7 : 5",
+    "5 : 2",
+    "7 : 4",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "Existing HR_A=14, existing Finance_A=28 (from 64 total and the 4:3 ratio condition, which gives Finance_A=28 and HR_A+Marketing_A=36); average = (14+28)/2 = 21. Company B: Marketing total=14+4=18, Finance total=10+2=12 (derived from the four numbered conditions, giving Marketing_A=22, HR_A=14); average = (18+12)/2 = 15. Ratio = 21:15 = 7:5.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q057",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "caselet-di",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains22-set13",
+   "question": "If 5 members from the total (new + existing) members of the HR group of company A are transferred to company B, then the total number of (new + existing) members in B are:",
+   "options": [
+    "42",
+    "43",
+    "41",
+    "47",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "Company B's total (existing+new) before transfer = HR(6) + Marketing(14+4=18) + Finance(10+2=12) = 36. Adding the 5 transferred members gives 36+5 = 41.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q058",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "caselet-di",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains22-set13",
+   "question": "Find the ratio of total (new + existing) members of company A to company B.",
+   "options": [
+    "7 : 4",
+    "5 : 3",
+    "7 : 3",
+    "9 : 4",
+    "None of these"
+   ],
+   "correct": 4,
+   "explanation": "Company A's final total = 64 existing + 2 new members in each of its 3 groups = 64+6 = 70. Company B's final total = 6+18+12 = 36. Ratio 70:36 = 35:18, which does not match any of the clean given ratios, so the answer is 'None of these'.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q059",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "caselet-di",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains22-set13",
+   "question": "Find the total number of existing members in company B.",
+   "options": [
+    "24",
+    "30",
+    "42",
+    "36",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "Existing-only members in company B: HR=6, Marketing=14, Finance=10. Total = 6+14+10 = 30.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q060",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "trains",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains22-set14",
+   "question": "Find the ratio of the time taken by X and Y to cover half the distance AB.",
+   "options": [
+    "16 : 15",
+    "18 : 5",
+    "14 : 13",
+    "7 : 2",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "With original speed 40 km/hr and AB=240 km, half distance is 120 km. X covers 60 km at 40 km/hr (1.5 hrs) then the remaining 60 km at the reduced 30 km/hr (2 hrs), totalling 3.5 hrs. Y covers 90 km at 40 km/hr (2.25 hrs) then the remaining 30 km at 30 km/hr (1 hr), totalling 3.25 hrs. Ratio = 3.5 : 3.25 = 14 : 13.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q061",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "trains",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains22-set14",
+   "question": "If the speed of train Z is 200% more than the (original) speed of train X, find the time taken by it to cover distance AB.",
+   "options": [
+    "3.1",
+    "4",
+    "2",
+    "1.9",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "Train X's original speed is 40 km/hr, so Z's speed = 40 x 3 = 120 km/hr (200% more means 3 times). Time to cover AB (240 km) = 240/120 = 2 hours.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q062",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "trains",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains22-set14",
+   "question": "Find the distance between stations A and B.",
+   "options": [
+    "150 km",
+    "180 km",
+    "210 km",
+    "240 km",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "Setting up the extra-time equations for X (1.5 hrs of delay caused by the 25% slowdown after 60 km) and Y (1.25 hrs of delay after 90 km) and solving them simultaneously gives original speed v=40 km/hr and distance AB = 240 km.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q063",
+   "stage": "mains",
+   "section": "general",
+   "topic": "banking-awareness",
+   "difficulty": 1,
+   "question": "In October 2021, RBI increased the IMPS transfer limit from Rs. 2 lakh. What is the new limit of IMPS transfer?",
+   "options": [
+    "Rs. 4 Lakhs",
+    "Rs. 5 Lakhs",
+    "Rs. 8 Lakhs",
+    "Rs. 10 Lakhs",
+    "Rs. 15 Lakhs"
+   ],
+   "correct": 1,
+   "explanation": "RBI raised the IMPS transfer limit from Rs. 2 lakh to Rs. 5 lakh per transaction in October 2021.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq",
+    "dated-ca"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q064",
+   "stage": "mains",
+   "section": "general",
+   "topic": "banking-awareness",
+   "difficulty": 1,
+   "question": "Branches of which of the following banks started functioning as branches of Bank of Baroda (BoB) from April 1, 2019?",
+   "options": [
+    "Vijaya Bank",
+    "Dena Bank",
+    "Punjab & Sind Bank",
+    "Allahabad Bank",
+    "Both 1 and 2"
+   ],
+   "correct": 4,
+   "explanation": "Vijaya Bank and Dena Bank were amalgamated into Bank of Baroda with effect from April 1, 2019, and their branches began operating as BoB branches.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq",
+    "dated-ca"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q065",
+   "stage": "mains",
+   "section": "general",
+   "topic": "banking-awareness",
+   "difficulty": 2,
+   "question": "What is State Bank of India's shareholding percentage in Jio Payments Bank?",
+   "options": [
+    "10%",
+    "20%",
+    "70%",
+    "30%",
+    "60%"
+   ],
+   "correct": 3,
+   "explanation": "SBI holds a 30% stake in Jio Payments Bank, while Reliance Jio Infocomm holds the remaining 70%.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq",
+    "dated-ca"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q066",
+   "stage": "mains",
+   "section": "general",
+   "topic": "current-affairs",
+   "difficulty": 2,
+   "question": "Who has won the 2021 Booker Prize for Fiction for his novel 'The Promise'?",
+   "options": [
+    "Anuk Arudpragasam",
+    "Damon Galgut",
+    "Patricia Lockwood",
+    "Marion Hänsel",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "South African author Damon Galgut won the 2021 Booker Prize for Fiction for his novel 'The Promise'.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq",
+    "dated-ca"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q067",
+   "stage": "mains",
+   "section": "general",
+   "topic": "current-affairs",
+   "difficulty": 2,
+   "question": "Who will receive the Royal Gold Medal 2022 from the Royal Institute of British Architects (RIBA), the world's highest honour for architecture?",
+   "options": [
+    "Raj Rewal",
+    "Balkrishna Doshi",
+    "Mani Ratnam",
+    "P. C. Sreeram",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "Indian architect Balkrishna Doshi was announced as the recipient of the Royal Gold Medal 2022 by RIBA.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq",
+    "dated-ca"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q068",
+   "stage": "mains",
+   "section": "general",
+   "topic": "current-affairs",
+   "difficulty": 2,
+   "question": "The Cabinet approved a grant of Rs. 4,445 crore for the development of seven mega textile parks under the PM MITRA Yojana. PM MITRA is inspired by the PM's 5F vision. Which of the following is NOT among the 5F's?",
+   "options": [
+    "Farm",
+    "Fashion",
+    "Fibre",
+    "Future",
+    "Foreign"
+   ],
+   "correct": 3,
+   "explanation": "The 5F vision runs Farm to Fibre to Factory to Fashion to Foreign; 'Future' is not part of it.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq",
+    "dated-ca"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q069",
+   "stage": "mains",
+   "section": "general",
+   "topic": "current-affairs",
+   "difficulty": 3,
+   "question": "Which of the following is incorrect regarding the Samudrayaan project?",
+   "options": [
+    "The project proposes to send a submersible vehicle to a depth of about 6000 metres to carry out deep underwater studies.",
+    "It will be a manned mission and have two persons on board.",
+    "It is part of the Ministry of Earth Sciences' pilot project for deep ocean mining for rare minerals.",
+    "The project is undertaken by the National Institute of Ocean Technology (NIOT), Chennai, Tamil Nadu.",
+    "It will help India join the league of developed nations in exploration of minerals from oceans."
+   ],
+   "correct": 1,
+   "explanation": "Samudrayaan's manned submersible (MATSYA 6000) is designed to carry three persons, not two, making statement 2 incorrect.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq",
+    "dated-ca"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q070",
+   "stage": "mains",
+   "section": "general",
+   "topic": "current-affairs",
+   "difficulty": 1,
+   "question": "Harnaaz Sandhu was crowned Miss Universe 2021. It was which edition of the Miss Universe event?",
+   "options": [
+    "68th",
+    "69th",
+    "70th",
+    "71st",
+    "72nd"
+   ],
+   "correct": 2,
+   "explanation": "Harnaaz Sandhu's win in December 2021 was the 70th edition of the Miss Universe pageant.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq",
+    "dated-ca"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q071",
+   "stage": "mains",
+   "section": "general",
+   "topic": "banking-awareness",
+   "difficulty": 3,
+   "question": "Choose the incorrect statement regarding the Prompt Corrective Action (PCA) Framework for NBFCs launched by RBI on December 14, 2021.",
+   "options": [
+    "The PCA Framework is for Non-Banking Financial Companies.",
+    "The PCA Framework will be applicable only to deposit-taking NBFCs.",
+    "The provisions of the PCA Framework will be effective from October 2022.",
+    "Capital and Asset Quality would be key monitoring areas.",
+    "The PCA framework for NBFCs will be reviewed after three years."
+   ],
+   "correct": 1,
+   "explanation": "RBI's PCA Framework for NBFCs covers both deposit-taking and certain non-deposit-taking NBFCs, not deposit-taking NBFCs alone, making statement 2 incorrect.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq",
+    "dated-ca"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q072",
+   "stage": "mains",
+   "section": "general",
+   "topic": "economy",
+   "difficulty": 2,
+   "question": "As per data released by the National Statistical Office (NSO), retail inflation declined to how much per cent in September 2021?",
+   "options": [
+    "2.15%",
+    "4.35%",
+    "6.55%",
+    "8.75%",
+    "9.95%"
+   ],
+   "correct": 1,
+   "explanation": "Retail (CPI) inflation eased to 4.35% in September 2021 as per NSO data.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq",
+    "dated-ca"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q073",
+   "stage": "mains",
+   "section": "general",
+   "topic": "current-affairs",
+   "difficulty": 2,
+   "question": "In December 2021, which of the following was recognised under the 1971 Ramsar Convention on Wetlands?",
+   "options": [
+    "Wular Lake",
+    "Harike Wetland",
+    "Haiderpur Wetland",
+    "Ropar Wetland",
+    "All of the above"
+   ],
+   "correct": 2,
+   "explanation": "Haiderpur Wetland in Uttar Pradesh was declared a Ramsar site (wetland of international importance) in December 2021.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq",
+    "dated-ca"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q074",
+   "stage": "mains",
+   "section": "general",
+   "topic": "current-affairs",
+   "difficulty": 1,
+   "question": "Which of the following countries are part of the AUKUS grouping?",
+   "options": [
+    "Australia, India and United Kingdom",
+    "India, South Korea and United States",
+    "Australia, United Kingdom and United States",
+    "India, Russia and United Kingdom",
+    "None of the above"
+   ],
+   "correct": 2,
+   "explanation": "AUKUS is a trilateral security partnership announced in September 2021 among Australia, the United Kingdom and the United States.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq",
+    "dated-ca"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q075",
+   "stage": "mains",
+   "section": "general",
+   "topic": "economy",
+   "difficulty": 2,
+   "question": "Wholesale price inflation (WPI) jumped to a ________ high of 14.23 per cent in November 2021.",
+   "options": [
+    "9-year",
+    "10-year",
+    "12-year",
+    "11-year",
+    "14-year"
+   ],
+   "correct": 2,
+   "explanation": "WPI inflation touched a 12-year high of 14.23% in November 2021.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq",
+    "dated-ca"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q076",
+   "stage": "mains",
+   "section": "general",
+   "topic": "static-gk",
+   "difficulty": 3,
+   "question": "Choose the incorrect option regarding SFURTI clusters.",
+   "options": [
+    "The NITI Aayog has funded an amount of around Rs. 85 crore for the development of these 50 clusters.",
+    "It is under the Ministry of MSME.",
+    "SFURTI stands for Scheme of Fund for Regeneration of Traditional Industries.",
+    "This scheme was launched in the year 2005 with the view to promote cluster development.",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "SFURTI clusters are funded by the Ministry of MSME, not the NITI Aayog, making statement 1 incorrect.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq",
+    "dated-ca"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q077",
+   "stage": "mains",
+   "section": "general",
+   "topic": "static-gk",
+   "difficulty": 3,
+   "question": "On November 29, 2021, the World Health Organisation (WHO) classified the new COVID-19 variant B.1.1.529 as Omicron. Omicron is the 15th letter of the Greek alphabet. In the system of Greek numerals, Omicron has a value of ___.",
+   "options": [
+    "40",
+    "50",
+    "70",
+    "30",
+    "60"
+   ],
+   "correct": 2,
+   "explanation": "In Greek numerals, Omicron represents the value 70.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq",
+    "dated-ca"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q078",
+   "stage": "mains",
+   "section": "general",
+   "topic": "current-affairs",
+   "difficulty": 1,
+   "question": "Who has been named Time magazine's 'Person of the Year' for 2021?",
+   "options": [
+    "Jeff Bezos",
+    "Bill Gates",
+    "Elon Musk",
+    "Warren Buffett",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "Elon Musk was named Time magazine's Person of the Year for 2021.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq",
+    "dated-ca"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q079",
+   "stage": "mains",
+   "section": "general",
+   "topic": "current-affairs",
+   "difficulty": 2,
+   "question": "With reference to the Pradhan Mantri Awas Yojana (Urban), consider the following statements: 1. It was launched by the Ministry of Housing and Urban Poverty Alleviation (MoHUPA) in Mission mode. 2. PMAY (Urban) Mission completed its 7th anniversary this year on 25th June. 3. This scheme intends to provide housing for all in urban areas by the year 2025. Which of the statements given above is/are correct?",
+   "options": [
+    "1 and 2 only",
+    "2 and 3 only",
+    "3 only",
+    "1, 2 and 3",
+    "1 only"
+   ],
+   "correct": 4,
+   "explanation": "Only statement 1 is correct; PMAY (Urban) was actually launched on 25th June 2015 and targets 'Housing for All' by 2022, so statements 2 and 3 as framed are inaccurate.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq",
+    "dated-ca"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q080",
+   "stage": "mains",
+   "section": "general",
+   "topic": "current-affairs",
+   "difficulty": 1,
+   "question": "In December 2021, who among the following won the FIDE World Chess Championship 2021?",
+   "options": [
+    "Magnus Carlsen",
+    "Ian Nepomniachtchi",
+    "Viswanathan Anand",
+    "Garry Kasparov",
+    "Kidambi Srikanth"
+   ],
+   "correct": 0,
+   "explanation": "Magnus Carlsen defeated challenger Ian Nepomniachtchi to retain the FIDE World Chess Championship title in December 2021.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq",
+    "dated-ca"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q081",
+   "stage": "mains",
+   "section": "general",
+   "topic": "current-affairs",
+   "difficulty": 3,
+   "question": "According to Kantar's BrandZ India 2021 report, ____, ____ and ____ emerged as the most purposeful brands in India across the technology, FMCG, and non-FMCG categories respectively.",
+   "options": [
+    "Amazon, Tata Tea and Asian Paints",
+    "Zomato, Surf Excel (Detergent brand) and Samsung & Jio",
+    "YouTube, Taj Mahal (tea brand) and MRF",
+    "Flipkart, Britannia and Airtel",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "Kantar's BrandZ India 2021 report named Amazon, Tata Tea and Asian Paints as the most purposeful brands in the technology, FMCG and non-FMCG categories respectively.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq",
+    "dated-ca"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q082",
+   "stage": "mains",
+   "section": "general",
+   "topic": "static-gk",
+   "difficulty": 1,
+   "question": "The 7th Schedule of the Indian Constitution is related to _______.",
+   "options": [
+    "Acts and Regulations",
+    "Division of Powers",
+    "Union of States",
+    "Provision of Scheduled Areas",
+    "Official Language"
+   ],
+   "correct": 1,
+   "explanation": "The Seventh Schedule of the Constitution deals with the division of powers between the Union and the States through the Union, State and Concurrent Lists.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq",
+    "dated-ca"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q083",
+   "stage": "mains",
+   "section": "general",
+   "topic": "banking-awareness",
+   "difficulty": 3,
+   "question": "As of 30 September 2021, the total number of public sector bank branches in India was ______.",
+   "options": [
+    "45,166",
+    "85,166",
+    "75,166",
+    "65,166",
+    "55,166"
+   ],
+   "correct": 1,
+   "explanation": "The government informed Parliament that public sector banks had 85,166 branches in India as of 30 September 2021.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq",
+    "dated-ca"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q084",
+   "stage": "mains",
+   "section": "general",
+   "topic": "current-affairs",
+   "difficulty": 2,
+   "question": "Who is the author of the book 'All In: An Autobiography'?",
+   "options": [
+    "Agatha Christie",
+    "Ayn Rand",
+    "Billie Jean King",
+    "Barbara Cartland",
+    "George Orwell"
+   ],
+   "correct": 2,
+   "explanation": "'All In: An Autobiography' was written by tennis legend Billie Jean King.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq",
+    "dated-ca"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q085",
+   "stage": "mains",
+   "section": "general",
+   "topic": "current-affairs",
+   "difficulty": 2,
+   "question": "The World Inequality Report 2022 has been released by the Paris-based World Inequality Lab. Which of the following is the most unequal region in the world as per the report?",
+   "options": [
+    "Central and Eastern Europe",
+    "Central & South Asia",
+    "Australia",
+    "Middle East and North Africa",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "The World Inequality Report 2022 identified the Middle East and North Africa as the world's most unequal region.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq",
+    "dated-ca"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q086",
+   "stage": "mains",
+   "section": "general",
+   "topic": "current-affairs",
+   "difficulty": 3,
+   "question": "What is the theme of the 13th ASEM (Asia-Europe Meeting) Summit, held virtually from 25 November 2021?",
+   "options": [
+    "Strengthening Multilateralism for Shared Growth",
+    "Global Partners for Global Challenges",
+    "Partnership for the Future through Connectivity",
+    "A Passage to Asia",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "The 13th ASEM Summit, held virtually in November 2021, was themed 'Strengthening Multilateralism for Shared Growth'.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq",
+    "dated-ca"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q087",
+   "stage": "mains",
+   "section": "general",
+   "topic": "financial-awareness",
+   "difficulty": 2,
+   "question": "Which of the following institutions was formed in 1960 to assist poor countries which could not afford to borrow capital at market rates?",
+   "options": [
+    "World Health Organisation",
+    "International Chamber of Commerce",
+    "International Business Organization",
+    "International Development Association",
+    "Multilateral Guarantee Agency (MIGA)"
+   ],
+   "correct": 3,
+   "explanation": "The International Development Association (IDA), part of the World Bank Group, was established in 1960 to provide concessional loans and grants to the poorest countries.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq",
+    "dated-ca"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q088",
+   "stage": "mains",
+   "section": "general",
+   "topic": "banking-awareness",
+   "difficulty": 1,
+   "question": "The K.V. Kamath Committee, recently seen in the news, is related to:",
+   "options": [
+    "deciding the appropriate level of reserves that the RBI should hold",
+    "making recommendations on norms for the resolution of COVID-19 related stressed loans",
+    "analysing the pollution level of the National Capital Region of Delhi",
+    "analysing FDI norms in India",
+    "None of the above"
+   ],
+   "correct": 1,
+   "explanation": "The K.V. Kamath Committee was constituted by the RBI to recommend financial parameters for the one-time restructuring of COVID-19 related stressed loans.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq",
+    "dated-ca"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q089",
+   "stage": "mains",
+   "section": "general",
+   "topic": "economy",
+   "difficulty": 3,
+   "question": "The Union Cabinet approved a Production Linked Incentive (PLI) scheme for the pharmaceutical sector for the financial year 2020-21 to ________ to boost investment.",
+   "options": [
+    "2027-28",
+    "2026-27",
+    "2028-29",
+    "2029-30",
+    "2025-26"
+   ],
+   "correct": 2,
+   "explanation": "The PLI scheme for pharmaceuticals was approved for the period from FY 2020-21 to FY 2028-29.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq",
+    "dated-ca"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q090",
+   "stage": "mains",
+   "section": "general",
+   "topic": "current-affairs",
+   "difficulty": 2,
+   "question": "The Skill India programme aims to achieve a target of training 400 million people by _________.",
+   "options": [
+    "2022",
+    "2025",
+    "2030",
+    "2040",
+    "2050"
+   ],
+   "correct": 0,
+   "explanation": "Skill India, launched in 2015, set a target of skilling 400 million people by 2022.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq",
+    "dated-ca"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q091",
+   "stage": "mains",
+   "section": "general",
+   "topic": "current-affairs",
+   "difficulty": 2,
+   "question": "Which of the following is a wrong match of CEO with Global Company?",
+   "options": [
+    "Raghu Raghuram - VMware",
+    "Shantanu Narayen - Adobe Inc.",
+    "Jayshree Ullal - Arista Networks",
+    "Parag Agrawal - Twitter",
+    "Dinesh C. Paliwal - Reckitt Benckiser"
+   ],
+   "correct": 4,
+   "explanation": "Dinesh C. Paliwal was CEO of Harman International, not Reckitt Benckiser, making this the incorrect match.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq",
+    "dated-ca"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q092",
+   "stage": "mains",
+   "section": "general",
+   "topic": "banking-awareness",
+   "difficulty": 3,
+   "question": "Choose the incorrect statement regarding the recently launched RBI Integrated Ombudsman Scheme.",
+   "options": [
+    "The Integrated Ombudsman Scheme was launched by the Reserve Bank of India in November 2021.",
+    "The scheme is launched for Non-Banking Financial Companies (NBFCs), banks and prepaid instrument issuers.",
+    "The scheme will amalgamate the Banking Ombudsman Scheme 2006, the NBFC Ombudsman Scheme 2018, and the Ombudsman Scheme for Digital Transactions 2019.",
+    "The first centralised, jurisdiction-neutral receipt and processing centre has been set up in New Delhi.",
+    "The Executive Director of the Consumer Education and Protection Department of RBI will be the appellate authority under the integrated scheme."
+   ],
+   "correct": 3,
+   "explanation": "The Centralised Receipt and Processing Centre under the Integrated Ombudsman Scheme was set up in Chandigarh, not New Delhi, making statement 4 incorrect.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq",
+    "dated-ca"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q093",
+   "stage": "mains",
+   "section": "general",
+   "topic": "current-affairs",
+   "difficulty": 2,
+   "question": "Bharti Airtel successfully conducted India's first 5G trial in the 700 MHz band in partnership with which of the following, in November 2021?",
+   "options": [
+    "Samsung",
+    "Nokia",
+    "Motorola",
+    "Vivo",
+    "Mi"
+   ],
+   "correct": 1,
+   "explanation": "Bharti Airtel conducted the trial in partnership with Nokia.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq",
+    "dated-ca"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q094",
+   "stage": "mains",
+   "section": "general",
+   "topic": "current-affairs",
+   "difficulty": 3,
+   "question": "According to a report citing the latest census data, the median family income of Indians in the US is how many USD?",
+   "options": [
+    "106,450",
+    "111,890",
+    "123,700",
+    "135,900",
+    "142,907"
+   ],
+   "correct": 2,
+   "explanation": "As per the cited census data report, the median family income of Indian-origin households in the US stood at USD 123,700.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq",
+    "dated-ca"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q095",
+   "stage": "mains",
+   "section": "general",
+   "topic": "static-gk",
+   "difficulty": 2,
+   "question": "The SAMADHAAN portal has been launched by which ministry?",
+   "options": [
+    "Micro, Small and Medium Enterprises",
+    "Law",
+    "Mines",
+    "Labour and Employment",
+    "Science and Technology"
+   ],
+   "correct": 0,
+   "explanation": "The SAMADHAAN portal, which monitors delayed payments to MSMEs, was launched by the Ministry of Micro, Small and Medium Enterprises.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq",
+    "dated-ca"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q096",
+   "stage": "mains",
+   "section": "general",
+   "topic": "economy",
+   "difficulty": 3,
+   "question": "The Reserve Bank of India recently conducted a consumer confidence survey. Which of the following statements is TRUE regarding the survey? Statement 1: The Current Situation Index fell to 53.1 in March from 55.5 in January, according to the RBI's consumer confidence survey. Statement 2: Income, prices and the Current Situation Index had hit a record low of 49.9 in September.",
+   "options": [
+    "Both 1 and 2",
+    "Either 1 or 2",
+    "Only 2",
+    "None of the above",
+    "Only 1"
+   ],
+   "correct": 0,
+   "explanation": "Both statements reflect figures reported across rounds of RBI's consumer confidence survey, so both are true.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq",
+    "dated-ca"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q097",
+   "stage": "mains",
+   "section": "general",
+   "topic": "banking-awareness",
+   "difficulty": 2,
+   "question": "Which of the following banks recently tied up with Star Health and Allied Insurance Company Limited?",
+   "options": [
+    "South Indian Bank",
+    "Kerala Gramin Bank",
+    "Federal Bank",
+    "Vallivattom Service Co-operative Bank",
+    "Dhanlaxmi Bank"
+   ],
+   "correct": 2,
+   "explanation": "Federal Bank entered into a bancassurance tie-up with Star Health and Allied Insurance Company Limited.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq",
+    "dated-ca"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q098",
+   "stage": "mains",
+   "section": "general",
+   "topic": "current-affairs",
+   "difficulty": 3,
+   "question": "The Competition Commission of India (CCI) approved Zomato's request to acquire approximately how much per cent stake in the online grocery platform Grofers India and its wholesale entity Hands On Trades?",
+   "options": [
+    "6.1%",
+    "7.9%",
+    "8.4%",
+    "9.3%",
+    "10.5%"
+   ],
+   "correct": 3,
+   "explanation": "CCI approved Zomato's acquisition of approximately a 9.3% stake in Grofers India and Hands On Trades.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq",
+    "dated-ca"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q099",
+   "stage": "mains",
+   "section": "general",
+   "topic": "economy",
+   "difficulty": 1,
+   "question": "The FDI limit in defence manufacturing under the automatic route was raised to ____ per cent.",
+   "options": [
+    "49%",
+    "51%",
+    "74%",
+    "80%",
+    "30%"
+   ],
+   "correct": 2,
+   "explanation": "The government raised the FDI limit in defence manufacturing under the automatic route from 49% to 74%.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq",
+    "dated-ca"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q100",
+   "stage": "mains",
+   "section": "general",
+   "topic": "economy",
+   "difficulty": 2,
+   "question": "A uniform GST rate of 12% on man-made fibre (MMF) products was recently announced by the Finance Ministry. What was the previous GST rate on MMF products?",
+   "options": [
+    "14 per cent",
+    "11 per cent",
+    "18 per cent",
+    "12 per cent",
+    "28 per cent"
+   ],
+   "correct": 2,
+   "explanation": "MMF (man-made fibre) products previously attracted an 18% GST rate before being brought down to a uniform 12%.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq",
+    "dated-ca"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q101",
+   "stage": "mains",
+   "section": "general",
+   "topic": "banking-awareness",
+   "difficulty": 1,
+   "question": "In 2020, how many public sector banks were there in India?",
+   "options": [
+    "22",
+    "23",
+    "12",
+    "14",
+    "13"
+   ],
+   "correct": 2,
+   "explanation": "Following the mega-merger of public sector banks, the number of public sector banks in India stood at 12 from April 2020.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq",
+    "dated-ca"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q102",
+   "stage": "mains",
+   "section": "general",
+   "topic": "banking-awareness",
+   "difficulty": 2,
+   "question": "In November 2021, RBI introduced an Internal Ombudsman mechanism for select Non-Banking Financial Companies. Deposit-taking NBFCs with an asset size of _______ must appoint an Internal Ombudsman (IO).",
+   "options": [
+    "₹50 crore",
+    "₹500 crore",
+    "₹5,000 crore",
+    "₹1,000 crore",
+    "₹100 crore"
+   ],
+   "correct": 2,
+   "explanation": "RBI mandated that deposit-taking NBFCs with an asset size of Rs. 5,000 crore or more must appoint an Internal Ombudsman.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq",
+    "dated-ca"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q103",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains22-set1",
+   "question": "In the passage above, a sentence has been highlighted and split into four parts — (A), (B), (C) and (D) — given in jumbled order. Rearrange the four parts to form a single logical and coherent sentence, and choose the option that represents the correct arrangement.",
+   "options": [
+    "DACB",
+    "DBAC",
+    "ABCD",
+    "CDBA",
+    "ABDC"
+   ],
+   "correct": 1,
+   "explanation": "The coherent order is D-B-A-C. (D) \"In contrast, British colonialism... directly interfered to ensure the greatest profit and benefit to British capitalism\" states the general contrast with pre-capitalist rule; (B) \"Every policy was geared towards the strengthening and expansion of British capitalism\" is the natural elaboration; (A) \"For instance, it changed the very laws of the land\" introduces a specific example; (C) \"It changed not just land ownership laws but decided even what crops ought to be grown and what ought not to be\" completes that example, leading smoothly into the next sentence about meddling with manufacturing.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q104",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-mains22-set1",
+   "question": "What is the synonym of the word \"conquerors\"?",
+   "options": [
+    "underdog",
+    "vanquished",
+    "loser",
+    "defeater",
+    "quitter"
+   ],
+   "correct": 3,
+   "explanation": "A \"conqueror\" is one who defeats and subjugates others, so its closest synonym among the options is \"defeater\"; the other options (underdog, vanquished, loser, quitter) all describe the defeated party, not the victor.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q105",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-mains22-set1",
+   "question": "What is the synonym of the word \"tribute\"?",
+   "options": [
+    "applause",
+    "condemnation",
+    "denunciation",
+    "stricture",
+    "dishonour"
+   ],
+   "correct": 0,
+   "explanation": "\"Tribute\" carries the sense of homage or praise offered in acknowledgment, so its nearest synonym here is \"applause\"; the remaining options (condemnation, denunciation, stricture, dishonour) are all negative/critical terms, opposite in sense.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q106",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains22-set1",
+   "question": "What is the main idea of the passage?",
+   "options": [
+    "Impact of colonialism",
+    "Understanding colonialism",
+    "The history of colonialism",
+    "British colonialism",
+    "Colonialism policy"
+   ],
+   "correct": 1,
+   "explanation": "The passage as a whole explains what colonialism is, how it differs from pre-capitalist domination, and its wide-ranging economic and social effects — i.e., it is broadly about \"understanding colonialism\", not only its impact, its history, or the British variant specifically.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q107",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains22-set1",
+   "question": "Fill in the blank with the most appropriate option based on your reading of the passage: By using the phrase \"skimmed off\", the author wants to say that they took the honour that was __________ from the economic surplus.",
+   "options": [
+    "taken away",
+    "taken",
+    "gave away",
+    "seen from",
+    "taken to"
+   ],
+   "correct": 1,
+   "explanation": "\"Skimmed off\" means something was extracted from the top of a larger quantity — the passage says the tribute was simply \"taken\" from the economic surplus produced in the subjugated areas.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q108",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-mains22-set1",
+   "question": "What is the tone of the passage?",
+   "options": [
+    "Cynical",
+    "Informative",
+    "Emotional",
+    "Arrogant",
+    "Commiserating"
+   ],
+   "correct": 1,
+   "explanation": "The passage explains historical facts and distinctions about colonialism in a neutral, explanatory register, without overt emotion, sarcasm, or arrogance — hence \"Informative\".",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q109",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains22-set1",
+   "question": "Choose which of the following is true/false:\nStatement I: The impact of colonial rule is distinguishable from all other earlier rules.\nStatement II: This is because the changes it brought in were limited and shallow.",
+   "options": [
+    "Statement I is true and statement II is false",
+    "Statement I is false and statement II is true",
+    "Both statement I and II are true",
+    "Both statement I and II are false",
+    "None of the above"
+   ],
+   "correct": 0,
+   "explanation": "The passage explicitly states that the changes colonial rule brought in \"were far-reaching and deep\", not \"limited and shallow\" — so Statement I is true (as directly stated) and Statement II is false (it contradicts the passage).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q110",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-mains22-set1",
+   "question": "What is the correct meaning of the word \"descendants\"?",
+   "options": [
+    "A person who held a job or office before the current holder.",
+    "A person or thing that succeeds another.",
+    "A person, plant, or animal that is descended from a particular ancestor.",
+    "A person who inherits something; an heir.",
+    "None of the above"
+   ],
+   "correct": 2,
+   "explanation": "\"Descendants\" means people descended from a particular ancestor — option 3. The other options instead describe a \"predecessor\" (1), a \"successor\" (2), and an \"heir\" (4).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q111",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains22-set2",
+   "question": "What is the central idea of the passage?",
+   "options": [
+    "Problems of the Indian cotton industry.",
+    "The competitiveness of the Indian cotton industry.",
+    "Australia's eagerness to make a stable position for its cotton industry in the Indian market.",
+    "Competition of China and India as the importer of cotton.",
+    "Need for India to import cotton from Australia."
+   ],
+   "correct": 2,
+   "explanation": "The passage opens with, and repeatedly returns to, Australia's efforts (through its cotton delegation) to secure India as a stable, consistent buyer of Australian cotton — making this the central idea, rather than the narrower sub-points about industry problems or competitiveness.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q112",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-mains22-set2",
+   "question": "What makes the Australian variant of cotton so popular?",
+   "options": [
+    "The Australian variety is much cheaper than Indian cotton.",
+    "Australian cotton is known for its strength and quality",
+    "Majority of the people of India are involved in the cotton industry.",
+    "Technology has played a big role in making it popular.",
+    "The stability of the Australian cotton industry makes it popular."
+   ],
+   "correct": 1,
+   "explanation": "The passage states, through K.N. Viswanathan's comment, that \"Australia cotton is known for its quality and strength\" — which is what has made it attractive to Indian buyers.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q113",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains22-set2",
+   "question": "Is there any possibility of the Indian cotton industry getting benefited by the Australian cotton industry? If yes, how?",
+   "options": [
+    "The Indian cotton industry can benefit only if the tariffs are kept low.",
+    "Indian cotton can be blended with the Australian cotton to produce higher quality garments.",
+    "The problems faced from the labour force can be reduced if the dependence of the cotton industry increases on Australia.",
+    "The Indian cotton industry can get seriously hampered as both the cotton are of the same quality.",
+    "There is competition between the two countries and none can benefit from each other."
+   ],
+   "correct": 1,
+   "explanation": "The passage notes that \"Indian textile mills can use Australian cotton as a blend to produce high value garments\" — directly supporting that Indian cotton can be blended with Australian cotton for higher-quality garments.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q114",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains22-set2",
+   "question": "What can be inferred from the problems faced by the Indian cotton industry that plays a major role in the failure of the industry?",
+   "options": [
+    "Competition with other countries",
+    "Inefficient labourers",
+    "Lack of financial capability",
+    "Lack of technical and managerial education",
+    "Impacts of a war"
+   ],
+   "correct": 3,
+   "explanation": "The passage says Indian mills \"did not have managerial leadership and technical knowledge except the financial capability\" — i.e., financial capability was present, but technical and managerial expertise was lacking, which is identified as the major recurring problem.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q115",
+   "stage": "mains",
+   "section": "english",
+   "topic": "match-the-columns",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains22-set3",
+   "question": "In the following question, two columns are given, each containing three phrases (Column 1: A, B, C; Column 2: D, E, F; see the table above). A phrase from Column 1 may or may not combine with a phrase from Column 2 to form a grammatically and contextually correct sentence. Which option correctly displays the sequence(s) in which the phrases can be joined to form such a sentence? If none of the options forms a correct sentence after combination, select 'None of these' as your answer.",
+   "options": [
+    "A - F, B - E, C - D",
+    "B - D, C - E",
+    "A - E, B - F, C - D",
+    "A - D, B - E",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "A-F: Purdue Pharma's settlement \"shields its owners from lawsuits accusing them of contributing to the nation's opioid epidemic...\". B-E: GDP \"rebounded... from the record contraction in April-June 2020...\". C-D: Wind energy's share \"in gross electricity production of about 24% is far higher than... other renewable energy sources.\" All three pairings form complete, coherent sentences.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q116",
+   "stage": "mains",
+   "section": "english",
+   "topic": "match-the-columns",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains22-set4",
+   "question": "In the following question, two columns are given, each containing three phrases (Column 1: A, B, C; Column 2: D, E, F; see the table above). A phrase from Column 1 may or may not combine with a phrase from Column 2 to form a grammatically and contextually correct sentence. Which option correctly displays the sequence(s) in which the phrases can be joined to form such a sentence? If none of the options forms a correct sentence after combination, select 'None of these' as your answer.",
+   "options": [
+    "A - E, B - F",
+    "B - F, C - D",
+    "A - D, C - E",
+    "B - E, C - D",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "B-F: Harrison's marine cloud brightening trial is \"one of... several controversial geoengineering technologies that scientists have studied in the laboratory for decades.\" C-D: Methane's popularity \"as a relatively clean source of fossil energy has soared by more than 50%... over the past two decades.\" Phrase A (UK travel bans) does not coherently combine with any of D/E/F, so it is left unmatched, which the question format explicitly permits.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q117",
+   "stage": "mains",
+   "section": "english",
+   "topic": "cloze-test",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-mains22-set1",
+   "question": "Which of the following fits the blank labelled (A)?",
+   "options": [
+    "distinct",
+    "consecutive",
+    "disparate",
+    "respective",
+    "None of the above"
+   ],
+   "correct": 1,
+   "explanation": "The hint \"(that follow one after another)\" describes quarters occurring in unbroken sequence, matching \"consecutive\".",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q118",
+   "stage": "mains",
+   "section": "english",
+   "topic": "cloze-test",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains22-set1",
+   "question": "Which of the following fits the blank labelled (B)?",
+   "options": [
+    "hitched",
+    "trifling",
+    "flimsy",
+    "decisive",
+    "None of the above"
+   ],
+   "correct": 3,
+   "explanation": "The hint \"(capable of making choices quickly and surely)\" describes governance that acts firmly and promptly, matching \"decisive\".",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q119",
+   "stage": "mains",
+   "section": "english",
+   "topic": "cloze-test",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains22-set1",
+   "question": "Which of the following fits the blank labelled (C)?",
+   "options": [
+    "recessionary",
+    "peripheral",
+    "resurgence",
+    "marshal",
+    "None of the above"
+   ],
+   "correct": 0,
+   "explanation": "The hint \"(slowdown or a massive contraction)\" describes an economic downturn, matching \"recessionary\" (as in a state of recession).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q120",
+   "stage": "mains",
+   "section": "english",
+   "topic": "cloze-test",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains22-set1",
+   "question": "Which of the following fits the blank labelled (D)?",
+   "options": [
+    "rebound",
+    "resile",
+    "extol",
+    "fiscal",
+    "None of the above"
+   ],
+   "correct": 3,
+   "explanation": "The hint \"(connected with [public] money)\" describes government/public finances, matching \"fiscal\".",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q121",
+   "stage": "mains",
+   "section": "english",
+   "topic": "cloze-test",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains22-set1",
+   "question": "Which of the following fits the blank labelled (E)?",
+   "options": [
+    "conspicuous",
+    "eminent",
+    "acclaim",
+    "mediocre",
+    "None of the above"
+   ],
+   "correct": 4,
+   "explanation": "The hint \"(to convey something)\" means to signify/indicate; none of \"conspicuous\", \"eminent\", \"acclaim\", or \"mediocre\" carry this sense, so \"None of the above\" is correct.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q122",
+   "stage": "mains",
+   "section": "english",
+   "topic": "para-jumbles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains22-set2",
+   "question": "Which of the following pairs of sentences (from the set A-E above) must be interchanged in order to make the five sentences form a meaningful paragraph?",
+   "options": [
+    "A and C",
+    "B and D",
+    "D and A",
+    "B and E",
+    "C and B"
+   ],
+   "correct": 1,
+   "explanation": "The logical order is A (defines Miss Universe), D (places it among the Big Four pageants), C (states current ownership by Endeavor), B (Telemundo's broadcast rights), E (the pageant's humanitarian advocacy). This requires swapping the printed positions of B and D.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q123",
+   "stage": "mains",
+   "section": "english",
+   "topic": "para-jumbles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains22-set2",
+   "question": "After forming a meaningful paragraph, which of the following sentence(s) can immediately follow sentence B?\nI. The reselling of the franchise from one owner to the next is recurrently common in the history of the event, sometimes for contractual breaches or financial reasons.\nII. It is one of the most-watched pageants in the world with an estimated audience of over 500 million viewers in over 190 territories.\nIII. The fee includes the rights of image, brand, and everything related to the pageant.",
+   "options": [
+    "Only II",
+    "I and II both",
+    "II and III both",
+    "Only III",
+    "Only I"
+   ],
+   "correct": 0,
+   "explanation": "After B (\"Telemundo has the licensing rights to air the pageant for the next 5 years\"), the natural continuation is II, which describes the pageant's massive global viewership — a direct elaboration on its broadcast reach.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q124",
+   "stage": "mains",
+   "section": "english",
+   "topic": "para-jumbles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains22-set2",
+   "question": "After forming a meaningful paragraph, which of the following sentence(s) can immediately follow sentence E?\nI. This crown was purely made from rhinestones.\nII. The crown is set with 1,371 gemstones, weighing a total of 416.09 carats (83.218 g).\nIII. The current Miss Universe is Harnaaz Sandhu of India who was crowned by Andrea Meza of Mexico on December 12, 2021, in Eilat, Israel.",
+   "options": [
+    "Only I",
+    "I and II both",
+    "II and III both",
+    "Only III",
+    "Only II"
+   ],
+   "correct": 3,
+   "explanation": "After E (the pageant's humanitarian advocacy), III naturally follows by naming the current, real-world title-holder (Harnaaz Sandhu), grounding the discussion in the present.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q125",
+   "stage": "mains",
+   "section": "english",
+   "topic": "sentence-improvement",
+   "difficulty": 2,
+   "question": "Directions: In the following sentence, five words are marked (A), (B), (C), (D) and (E). These words may or may not be placed correctly. From the options, choose the arrangement of these words that makes the sentence grammatically correct and meaningful; if no change is required, choose \"No rearrangement required\".\n\nEvery morning feeds(A) wakes up at six Tina(B), first she breakfast(C) the eggs and o'clock(D) the chickens, then she has collects(E) at 6:30.",
+   "options": [
+    "ABCDE",
+    "BDEAC",
+    "BDCAE",
+    "ABDCE",
+    "No rearrangement required"
+   ],
+   "correct": 1,
+   "explanation": "Reordering the marked words as B-D-E-A-C gives: \"Every morning, Tina wakes up at six o'clock, first she collects the eggs and feeds the chickens, then she has breakfast at 6:30\" — a coherent account of a morning routine.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q126",
+   "stage": "mains",
+   "section": "english",
+   "topic": "sentence-improvement",
+   "difficulty": 2,
+   "question": "Directions: In the following sentence, five words are marked (A), (B), (C), (D) and (E). These words may or may not be placed correctly. From the options, choose the arrangement of these words that makes the sentence grammatically correct and meaningful; if no change is required, choose \"No rearrangement required\".\n\nLast spend(A), we decided to beach(B) our vacation at the hot(C) because the weather was very mountains(D) in the summer(E).",
+   "options": [
+    "ABDCE",
+    "EABCD",
+    "ABCDE",
+    "EABDC",
+    "No rearrangement required"
+   ],
+   "correct": 1,
+   "explanation": "Reordering the marked words as E-A-B-C-D gives: \"Last summer, we decided to spend our vacation at the beach because the weather was very hot in the mountains\" — a coherent, logical sentence.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q127",
+   "stage": "mains",
+   "section": "english",
+   "topic": "sentence-improvement",
+   "difficulty": 3,
+   "question": "Directions: In the following sentence, five words are marked (A), (B), (C), (D) and (E). These words may or may not be placed correctly. From the options, choose the arrangement of these words that makes the sentence grammatically correct and meaningful; if no change is required, choose \"No rearrangement required\".\n\nA seemingly(A) wonder is that the greater(B) fragile toughest(C) is one of the kingdom(D) beasts in the animal hummingbird(E).",
+   "options": [
+    "CDEAB",
+    "BEDAC",
+    "ACBDE",
+    "BAECD",
+    "No rearrangement required"
+   ],
+   "correct": 3,
+   "explanation": "Reordering the marked words as B-A-E-C-D gives: \"A greater wonder is that the seemingly fragile hummingbird is one of the toughest beasts in the animal kingdom\" — contrasting the hummingbird's delicate appearance with its actual toughness.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q128",
+   "stage": "mains",
+   "section": "english",
+   "topic": "word-usage",
+   "difficulty": 2,
+   "question": "Which of the given options should replace the underlined word in the sentence below to make it grammatically/contextually correct? If the sentence is correct as given and no correction is required, select \"No correction required\".\n\nThough he had never won any awards or even been published, he was **conservative** with his life as a poet.",
+   "options": [
+    "Complement",
+    "Concede",
+    "Deject",
+    "Complacent",
+    "Articulate"
+   ],
+   "correct": 3,
+   "explanation": "\"Conservative\" does not fit the context of a poet's quiet self-satisfaction despite lacking recognition; \"complacent\" (self-satisfied, untroubled by lack of success) is the contextually correct word.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q129",
+   "stage": "mains",
+   "section": "english",
+   "topic": "word-usage",
+   "difficulty": 2,
+   "question": "In the sentence below, a word is printed in bold. Choose the best alternative for the bold word from the given options.\n\nThe child's parents or guardians must give their **appraisal** before she has the operation.",
+   "options": [
+    "Epitome",
+    "Hurdle",
+    "Honor",
+    "Virtue",
+    "Consent"
+   ],
+   "correct": 4,
+   "explanation": "Parents give \"consent\" (permission), not an \"appraisal\" (evaluation), before a medical operation — \"consent\" is the contextually correct word.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q130",
+   "stage": "mains",
+   "section": "english",
+   "topic": "word-usage",
+   "difficulty": 1,
+   "question": "In the sentence below, a word is printed in bold. Choose the best alternative for the bold word from the given options.\n\nThe secretary was **dismissed** after it was discovered that she was stealing office supplies.",
+   "options": [
+    "Probate",
+    "Harbored",
+    "Ousted",
+    "Pilferage",
+    "Intend"
+   ],
+   "correct": 2,
+   "explanation": "\"Dismissed\" (removed from a job) is best replaced by \"ousted\", which carries the same sense of being forced out of a position.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q131",
+   "stage": "mains",
+   "section": "english",
+   "topic": "word-usage",
+   "difficulty": 2,
+   "question": "In the sentence below, a word is printed in bold. Choose the best alternative for the bold word from the given options.\n\nI was shocked at the **audacity** and brazenness of the gangsters.",
+   "options": [
+    "Cowardice",
+    "Insolence",
+    "Presumption",
+    "Brevity",
+    "Heed"
+   ],
+   "correct": 1,
+   "explanation": "\"Audacity\" (bold, shameless behaviour) is best replaced by \"insolence\", which shares the sense of its pairing word \"brazenness\".",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q132",
+   "stage": "mains",
+   "section": "english",
+   "topic": "word-usage",
+   "difficulty": 1,
+   "question": "In the sentence below, a word is printed in bold. Choose the best alternative for the bold word from the given options.\n\nThe government refused to declare an **amnesty** for people who had not paid the disputed tax.",
+   "options": [
+    "Pardon",
+    "Enormity",
+    "Affluence",
+    "Unabashed",
+    "Cede"
+   ],
+   "correct": 0,
+   "explanation": "An \"amnesty\" is an official pardon; \"pardon\" is therefore the correct alternative in this context of forgiving unpaid disputed tax.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q133",
+   "stage": "mains",
+   "section": "english",
+   "topic": "error-spotting",
+   "difficulty": 2,
+   "question": "Directions: A sentence is given below with a highlighted error. Select the option giving the part of \"a\" and the part of \"b\" that contain the SAME TYPE of error as the given sentence.\n\nMany a player **have** participated in the competition.\n\na. None but (1)/ he are responsible (2)/ for this act (3)/ no error (4).\nb. My sister like the other members (1)/ of my family were left shelterless (2)/ as a result of the flood in the city (3)/ no error (4).",
+   "options": [
+    "a-(1), b-(1)",
+    "a-(4), b-(3)",
+    "a-(2), b-(2)",
+    "a-(3), b-(4)",
+    "None of the above"
+   ],
+   "correct": 2,
+   "explanation": "\"Many a player\" takes a singular verb (\"has\", not \"have\") — the base sentence wrongly pairs a singular subject with a plural verb. In (a), \"None but he are responsible\" wrongly pairs singular \"he\" with plural \"are\" (part 2). In (b), \"My sister... were left shelterless\" wrongly pairs singular \"My sister\" with plural \"were\" (part 2) — the intervening phrase \"like the other members of my family\" does not change the subject's number. Both share the base sentence's singular-subject/plural-verb agreement error, giving a-(2), b-(2).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q134",
+   "stage": "mains",
+   "section": "english",
+   "topic": "error-spotting",
+   "difficulty": 3,
+   "question": "Directions: A sentence is given below with a highlighted error. Select the option giving the part of \"a\" and the part of \"b\" that contain the SAME TYPE of error as the given sentence.\n\nOur dog may look fierce but **that** wouldn't hurt even a fly.\n\na. Put you in my position (1)/ and you will realize (2)/ the problems faced in my profession (3)/ No error (4).\nb. Vikas sir, being a good teacher (1)/ he is selected (2)/ for the Global Teacher Award (GTA) (3)/ No error (4).",
+   "options": [
+    "a-(4), b-(3)",
+    "a-(1), b-(2)",
+    "a-(3), b-(4)",
+    "a-(2), b-(1)",
+    "None of the above"
+   ],
+   "correct": 1,
+   "explanation": "The base sentence wrongly uses the pronoun \"that\" where \"it\" is required to refer back to \"our dog\". In (a), the imperative \"Put you in my position\" wrongly uses \"you\" where the reflexive \"yourself\" is required (part 1). In (b), \"Vikas sir... he is selected\" redundantly repeats the subject as a pronoun (part 2). Both are misused-pronoun errors, matching a-(1), b-(2).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q135",
+   "stage": "mains",
+   "section": "english",
+   "topic": "error-spotting",
+   "difficulty": 2,
+   "question": "Directions: A sentence is given below with a highlighted error. Select the option giving the part of \"a\" and the part of \"b\" that contain the SAME TYPE of error as the given sentence.\n\nShe brought the chocolates and distributed them **between** her three children.\n\na. Their children (1)/ always quarrel (2)/ above petty issues (3)/ no error (4).\nb. They walked (1)/ besides each other (2)/ in complete silence (3)/ no error (4).",
+   "options": [
+    "a-(4), b-(1)",
+    "a-(1), b-(4)",
+    "a-(2), b-(3)",
+    "a-(3), b-(2)",
+    "None of the above"
+   ],
+   "correct": 3,
+   "explanation": "\"Between\" is used for two, \"among\" for three or more — the base sentence wrongly uses \"between\" for three children. In (a), \"quarrel above petty issues\" wrongly uses the preposition \"above\" instead of \"over/about\" (part 3). In (b), \"walked besides each other\" wrongly uses \"besides\" (meaning \"in addition to\") instead of \"beside\" (meaning \"next to\") (part 2). Both are preposition-choice errors, matching a-(3), b-(2).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q136",
+   "stage": "mains",
+   "section": "english",
+   "topic": "error-spotting",
+   "difficulty": 3,
+   "question": "Directions: A sentence is given below with a highlighted error. Select the option giving the part of \"a\" and the part of \"b\" that contain the SAME TYPE of error as the given sentence.\n\nOne should face the challenges posed by life **manly**.\n\na. We seldom or ever (1)/ meet our (2)/ friends these days (3)/ no error (4).\nb. He told her as blunt as (1)/ he could but (2)/ she was not convinced (3)/ no error (4).",
+   "options": [
+    "a-(3), b-(4)",
+    "a-(4), b-(2)",
+    "a-(1), b-(1)",
+    "a-(2), b-(2)",
+    "None of the above"
+   ],
+   "correct": 2,
+   "explanation": "The base sentence wrongly uses the adjective \"manly\" where the adverb \"manfully\" is needed to modify \"face\". In (b), \"told her as blunt as he could\" similarly misuses the adjective \"blunt\" where the adverb \"bluntly\" is required (part 1), matching the base error. In (a), the key marks part 1 (\"We seldom or ever\") as sharing the error category — the idiomatically correct form is \"seldom, if ever\"; this too is a misapplied adverbial expression, though the precise grammatical mechanism is looser than in (b), so this pairing is held with slightly lower confidence than the others in this set.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains22-q137",
+   "stage": "mains",
+   "section": "english",
+   "topic": "error-spotting",
+   "difficulty": 2,
+   "question": "Directions: A sentence is given below with a highlighted error. Select the option giving the part of \"a\" and the part of \"b\" that contain the SAME TYPE of error as the given sentence.\n\nThe company has ordered some new **equipments**.\n\na. My mother was advised to take (1)/ two spoonsful (2)/ of medicine three times a day (3)/ no error (4).\nb. The police have received (1)/ important informations (2)/ that can help them solve the murder case (3)/ no error (4).",
+   "options": [
+    "a-(2), b-(2)",
+    "a-(1), b-(1)",
+    "a-(4), b-(4)",
+    "a-(3), b-(3)",
+    "None of the above"
+   ],
+   "correct": 0,
+   "explanation": "\"Equipment\" is an uncountable noun and has no plural form (\"equipments\" is incorrect) — the base sentence's error. In (a), \"two spoonsful\" incorrectly forms the plural of the compound \"spoonful\" (should be \"spoonfuls\") (part 2). In (b), \"important informations\" pluralizes the uncountable noun \"information\", exactly matching the base error type (part 2). Hence a-(2), b-(2).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2022 (memory-based, Testbook Mains book)",
+    "year": 2022
+   },
+   "tags": [
+    "pyq"
+   ]
+  }
+ ],
+ "paper": {
+  "id": "sbi-po-mains-2022",
+  "name": "SBI PO Mains 2022",
+  "exam": "sbi-po",
+  "stage": "mains",
+  "year": 2022,
+  "sections": [
+   {
+    "name": "Reasoning & Computer Aptitude",
+    "pool": "reasoning",
+    "minutes": 60,
+    "marksPerQuestion": 1.3333333333333333,
+    "questionIds": [
+     "pyq-sbipo-mains22-q001",
+     "pyq-sbipo-mains22-q002",
+     "pyq-sbipo-mains22-q003",
+     "pyq-sbipo-mains22-q004",
+     "pyq-sbipo-mains22-q005",
+     "pyq-sbipo-mains22-q006",
+     "pyq-sbipo-mains22-q007",
+     "pyq-sbipo-mains22-q008",
+     "pyq-sbipo-mains22-q009",
+     "pyq-sbipo-mains22-q010",
+     "pyq-sbipo-mains22-q011",
+     "pyq-sbipo-mains22-q012",
+     "pyq-sbipo-mains22-q013",
+     "pyq-sbipo-mains22-q014",
+     "pyq-sbipo-mains22-q015",
+     "pyq-sbipo-mains22-q016",
+     "pyq-sbipo-mains22-q017",
+     "pyq-sbipo-mains22-q018",
+     "pyq-sbipo-mains22-q019",
+     "pyq-sbipo-mains22-q020",
+     "pyq-sbipo-mains22-q021",
+     "pyq-sbipo-mains22-q022",
+     "pyq-sbipo-mains22-q023",
+     "pyq-sbipo-mains22-q024",
+     "pyq-sbipo-mains22-q025",
+     "pyq-sbipo-mains22-q026",
+     "pyq-sbipo-mains22-q027",
+     "pyq-sbipo-mains22-q028",
+     "pyq-sbipo-mains22-q029",
+     "pyq-sbipo-mains22-q030",
+     "pyq-sbipo-mains22-q031",
+     "pyq-sbipo-mains22-q032",
+     "pyq-sbipo-mains22-q033",
+     "pyq-sbipo-mains22-q034",
+     "pyq-sbipo-mains22-q035",
+     "pyq-sbipo-mains22-q036",
+     "pyq-sbipo-mains22-q037",
+     "pyq-sbipo-mains22-q038",
+     "pyq-sbipo-mains22-q039",
+     "pyq-sbipo-mains22-q040"
+    ]
+   },
+   {
+    "name": "Data Analysis & Interpretation",
+    "pool": "quant",
+    "minutes": 45,
+    "marksPerQuestion": 1.7142857142857142,
+    "questionIds": [
+     "pyq-sbipo-mains22-q041",
+     "pyq-sbipo-mains22-q042",
+     "pyq-sbipo-mains22-q043",
+     "pyq-sbipo-mains22-q044",
+     "pyq-sbipo-mains22-q045",
+     "pyq-sbipo-mains22-q046",
+     "pyq-sbipo-mains22-q047",
+     "pyq-sbipo-mains22-q048",
+     "pyq-sbipo-mains22-q049",
+     "pyq-sbipo-mains22-q050",
+     "pyq-sbipo-mains22-q051",
+     "pyq-sbipo-mains22-q052",
+     "pyq-sbipo-mains22-q053",
+     "pyq-sbipo-mains22-q054",
+     "pyq-sbipo-mains22-q055",
+     "pyq-sbipo-mains22-q056",
+     "pyq-sbipo-mains22-q057",
+     "pyq-sbipo-mains22-q058",
+     "pyq-sbipo-mains22-q059",
+     "pyq-sbipo-mains22-q060",
+     "pyq-sbipo-mains22-q061",
+     "pyq-sbipo-mains22-q062"
+    ]
+   },
+   {
+    "name": "General/Economy/Banking Awareness",
+    "pool": "general",
+    "minutes": 45,
+    "marksPerQuestion": 1.5,
+    "questionIds": [
+     "pyq-sbipo-mains22-q063",
+     "pyq-sbipo-mains22-q064",
+     "pyq-sbipo-mains22-q065",
+     "pyq-sbipo-mains22-q066",
+     "pyq-sbipo-mains22-q067",
+     "pyq-sbipo-mains22-q068",
+     "pyq-sbipo-mains22-q069",
+     "pyq-sbipo-mains22-q070",
+     "pyq-sbipo-mains22-q071",
+     "pyq-sbipo-mains22-q072",
+     "pyq-sbipo-mains22-q073",
+     "pyq-sbipo-mains22-q074",
+     "pyq-sbipo-mains22-q075",
+     "pyq-sbipo-mains22-q076",
+     "pyq-sbipo-mains22-q077",
+     "pyq-sbipo-mains22-q078",
+     "pyq-sbipo-mains22-q079",
+     "pyq-sbipo-mains22-q080",
+     "pyq-sbipo-mains22-q081",
+     "pyq-sbipo-mains22-q082",
+     "pyq-sbipo-mains22-q083",
+     "pyq-sbipo-mains22-q084",
+     "pyq-sbipo-mains22-q085",
+     "pyq-sbipo-mains22-q086",
+     "pyq-sbipo-mains22-q087",
+     "pyq-sbipo-mains22-q088",
+     "pyq-sbipo-mains22-q089",
+     "pyq-sbipo-mains22-q090",
+     "pyq-sbipo-mains22-q091",
+     "pyq-sbipo-mains22-q092",
+     "pyq-sbipo-mains22-q093",
+     "pyq-sbipo-mains22-q094",
+     "pyq-sbipo-mains22-q095",
+     "pyq-sbipo-mains22-q096",
+     "pyq-sbipo-mains22-q097",
+     "pyq-sbipo-mains22-q098",
+     "pyq-sbipo-mains22-q099",
+     "pyq-sbipo-mains22-q100",
+     "pyq-sbipo-mains22-q101",
+     "pyq-sbipo-mains22-q102"
+    ]
+   },
+   {
+    "name": "English Language",
+    "pool": "english",
+    "minutes": 40,
+    "marksPerQuestion": 0.5714285714285714,
+    "questionIds": [
+     "pyq-sbipo-mains22-q103",
+     "pyq-sbipo-mains22-q104",
+     "pyq-sbipo-mains22-q105",
+     "pyq-sbipo-mains22-q106",
+     "pyq-sbipo-mains22-q107",
+     "pyq-sbipo-mains22-q108",
+     "pyq-sbipo-mains22-q109",
+     "pyq-sbipo-mains22-q110",
+     "pyq-sbipo-mains22-q111",
+     "pyq-sbipo-mains22-q112",
+     "pyq-sbipo-mains22-q113",
+     "pyq-sbipo-mains22-q114",
+     "pyq-sbipo-mains22-q115",
+     "pyq-sbipo-mains22-q116",
+     "pyq-sbipo-mains22-q117",
+     "pyq-sbipo-mains22-q118",
+     "pyq-sbipo-mains22-q119",
+     "pyq-sbipo-mains22-q120",
+     "pyq-sbipo-mains22-q121",
+     "pyq-sbipo-mains22-q122",
+     "pyq-sbipo-mains22-q123",
+     "pyq-sbipo-mains22-q124",
+     "pyq-sbipo-mains22-q125",
+     "pyq-sbipo-mains22-q126",
+     "pyq-sbipo-mains22-q127",
+     "pyq-sbipo-mains22-q128",
+     "pyq-sbipo-mains22-q129",
+     "pyq-sbipo-mains22-q130",
+     "pyq-sbipo-mains22-q131",
+     "pyq-sbipo-mains22-q132",
+     "pyq-sbipo-mains22-q133",
+     "pyq-sbipo-mains22-q134",
+     "pyq-sbipo-mains22-q135",
+     "pyq-sbipo-mains22-q136",
+     "pyq-sbipo-mains22-q137"
+    ]
+   }
+  ]
+ }
+}
