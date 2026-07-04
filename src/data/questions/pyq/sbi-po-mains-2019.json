@@ -1,0 +1,3313 @@
+{
+ "sets": [
+  {
+   "id": "pyq-sbipo-mains19-set1",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "title": "Two Parallel Rows - Ten Persons",
+   "context": "Ten persons are sitting in two rows. In row 1, A, B, C, D and E are sitting and all are facing South. In row 2, P, Q, R, S and T are sitting and all are facing North. Each person sitting in row 1 faces another person of row 2.\nThree persons sit between Q and T.\nA faces the person who sits 3rd to the left of T.\nTwo persons sit between A and B.\nP sits 2nd to the right of S.\nTwo persons sit between E and D, who does not face P."
+  },
+  {
+   "id": "pyq-sbipo-mains19-set2",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "title": "Seven Family Members in a Row",
+   "context": "Seven family members of three generations are sitting in a row and all are facing North.\nThree persons sit between V's father and V's sister, who sits at an extreme end.\nS is the grandson of P, who is the mother-in-law of U.\nT is the husband of R and sits at an extreme end.\nV is the son of Q, who sits 2nd to the left of T.\nThree persons sit between Q and R.\nP sits 2nd to the left of S, who does not sit next to T.\nOne person sits between V and R's son."
+  },
+  {
+   "id": "pyq-sbipo-mains19-set3",
+   "section": "reasoning",
+   "topic": "input-output",
+   "title": "Number Arrangement Machine",
+   "context": "A number arrangement machine, when given an input line of numbers, rearranges them following a particular rule in each step. The following is an illustration of input and rearrangement.\nInput: 734269 825497 647538 219354 961357 321658\nStep I: 962437 794528 835746 453912 753169 856123\nStep II: 453912 753169 794528 835746 856123 962437\nStep III: 135924 135796 579248 357468 135268 379246\nStep IV: 3458 33554 351832 152848 31048 211824\nStep V: 20 20 22 28 16 18\nStep V is the last step of the above arrangement as the intended arrangement is obtained.\nAs per the rules followed in the given steps, find out the appropriate steps for the given input:\nInput: 856347 745982 329584 512379 954267 463512"
+  },
+  {
+   "id": "pyq-sbipo-mains19-set4",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "title": "Square Inscribed in Square - Four Couples",
+   "context": "A square table is inscribed in another square table. Eight family members P, Q, R, S, T, U, V and W are sitting at the middle of the sides of the squares (four on the inner square facing outside, four on the outer square facing inside). Each person sitting at one square is facing their spouse on the other square.\nV faces Q.\nOnly one person sits between V and the husband of R.\nW faces the one who is an immediate neighbour of R.\nP is an immediate neighbour neither of R nor of W.\nW does not face T.\nP sits immediate left of S, who faces inside."
+  },
+  {
+   "id": "pyq-sbipo-mains19-set5",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "title": "Coded Circular Seating - Eight Persons",
+   "context": "Eight persons A, B, C, D, E, F, G, H are sitting around a circular table and all are facing towards the centre.\n1. P @ Q means P sits 2nd to the left of Q\n2. P # Q means P sits opposite to Q\n3. P $ Q means P is an immediate neighbour of Q\n4. P % Q means P sits 3rd to the left of Q\n5. P & Q means P sits 3rd to the right of Q\n6. P ^ Q means P is not an immediate neighbour of Q\nGiven statements: H&E$G, B#E, C@G, D#F, E^C^F"
+  },
+  {
+   "id": "pyq-sbipo-mains19-set6",
+   "section": "reasoning",
+   "topic": "direction-sense",
+   "title": "Coded Directions - Symbols and Distances",
+   "context": "A & B means A is 15 m to the north of B\nA @ B means A is 23 m to the east of B\nA # B means A is 20 m to the south of B\nA % B means A is 12 m to the west of B\nThe following relation holds: P % Q # R & S @ T # U"
+  },
+  {
+   "id": "pyq-sbipo-mains19-set7",
+   "section": "reasoning",
+   "topic": "direction-sense",
+   "title": "Card-Suit Coded Directions - Three Buses",
+   "context": "Clubs, diamonds, hearts and spades denote directions:\nA (spade) B means A is to the East of B\nA (diamond) B means A is to the West of B\nA (heart) B means A is to the North of B\nA (club) B means A is to the South of B\nThe number written between two points is the distance in metres. There are 3 buses travelling from Z to Y.\nBus 1: K 15 west-of Z, J 10 south-of K, M 10 west-of J, D 18 north-of M, C 29 east-of D, P 9 north-of C, Y 4 west-of P\nBus 2: E 36 south-of Z, F 6 west-of E, G 14 north-of F, H 19 west-of G, L 39 north-of H, Y 25 east-of L\nBus 3: N 33 east-of Z, Q 4 north-of N, S 9 west-of Q, T 4 north-of S, C 20 west-of T, U 4 west-of C, U 4 south-of V, Y 5 north-of V"
+  },
+  {
+   "id": "pyq-sbipo-mains19-set8",
+   "section": "reasoning",
+   "topic": "coding-decoding",
+   "title": "Word Coding - Symbol, Number, Letter",
+   "context": "The following words are coded in this manner:\n'World make sense meaningful' is coded as '8$A, 2!R, 2#N, 14$F'\n'Rain starts every week' is coded as '8^A, 10#R, 2+E, 8!E'\n'Easily mind (a)' is coded as '12%R, 8$I, 10+I'\n'Reputation prestige turns food' is coded as '12%I, 2~R, (b), 8@O'"
+  },
+  {
+   "id": "pyq-sbipo-mains19-set9",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "title": "Two Concentric Circles with Card Draws",
+   "context": "Twelve persons are sitting around two circular tables, one inside the other. Those sitting in the outer circle face towards the centre while those sitting in the inner circle face outside (away from the centre).\nA, B, C, D, E, F - six persons - sit around the inner circular table. P, Q, R, S, T, U - six persons - sit around the outer circular table.\nNote: The persons of the outer circular table sit exactly behind the persons sitting around the inner circular table (aligned positions face each other).\nB is sitting second to the right of E. R is an immediate neighbour of the one who faces B. Only one person sits between C and F (either from the left or from the right). C is not an immediate neighbour of E. Q is sitting behind A. Q sits second to the right of R. Only two persons sit between R and T (either from the left or from the right). U is an immediate neighbour of P. T is not sitting behind E. U does not sit opposite to the immediate neighbours of the one who faces R.\nNow they start playing a card game. In serial order, each listed person draws a card and changes place according to these conditions (only positions change; the facing direction of each seat stays as originally defined for each circle):\n1. Spade: the person exchanges position with the person facing him (exactly behind or ahead) in the other circle.\n2. Heart: the person exchanges position with the person sitting second to the left of him within his circle.\n3. Diamond: the person exchanges position with the person sitting exactly opposite to him within that circle.\n4. Club: the person exchanges position with the person sitting immediate right of him within his circle.\nDraws (in this order): 1. E draws queen of Club; 2. S draws Jack of Club; 3. P draws 3 of Spade; 4. A draws King of Diamond; 5. D draws Ace of Heart; 6. U draws 9 of Heart; 7. C draws 7 of Diamond; 8. F draws 4 of Spade."
+  },
+  {
+   "id": "pyq-sbipo-mains19-set10",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "title": "Three Floors, Three Flats - Rooms and Areas",
+   "context": "There are three floors in a building such that floor 2 is above floor 1 and floor 3 is above floor 2. On each floor there are three flats: Flat A is to the west of Flat B, which is to the west of Flat C. Each flat on each floor has an area of 2520 sq ft, each flat has a certain number of rooms (equal-sized within a flat) and no two flats have the same number of rooms.\nThe area of each room of one of the flats on an odd-numbered floor is 280 sq ft.\nThe floor having the flat with 9 rooms is one of the floors below the floor where that flat has each room of area 360 sq ft (both in the same flat).\nThe area of each room on floor 3 of Flat A is 350 sq ft more than the room area of the flat having 9 rooms.\nThe total number of rooms in all the flats of floor 2 is 15.\nThe number of rooms in Flat C of the 2nd floor is more than the rooms in Flat A of the 2nd floor but less than the rooms in Flat B of the 2nd floor.\nThe flat having each room of area 420 sq ft is to the west of the flat having each room of area 252 sq ft.\nThere is only one floor between the floor having the 2-room flat and the floor where the same flat has each room of area 630 sq ft.\nThe flat having each room of area 504 sq ft is on an even-numbered floor.\nThe floor where a flat has each room of area 315 sq ft is immediately below the floor where that flat has 5 rooms."
+  },
+  {
+   "id": "pyq-sbipo-mains19-set11",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "title": "Queue with Coded Earnings",
+   "context": "A certain number of persons are standing in a row facing north (a queue). All of them earn different amounts. Three persons are standing between L and F. O is standing immediately ahead of L. P is standing adjacent to F. Only two persons are standing between P and Z, who is standing behind F. Only one person stands between Z and G. H is standing exactly behind G. Q is standing at one of the extreme ends. Four persons are standing between Q and K. K is standing immediately behind L. Not more than 14 persons are standing in the row. C is standing immediately behind T. X is standing behind V but ahead of M. M is not standing behind G.\nFor the amounts earned:\nS@P means S earns 500 more than P.\nS#P means S earns 1000 less than P.\nS$P means S earns equal to P.\nThe amounts earned are given by: V@Z$H@X$Q$G, M$F#G, V#L#T, T$C#O, F@K@P"
+  },
+  {
+   "id": "pyq-sbipo-mains19-set12",
+   "section": "quant",
+   "topic": "caselet-di",
+   "title": "Apple Pie Caselet",
+   "context": "An apple pie of radius R cm has to be cut into X identical pieces, the area of each piece being 0.77 sq cm. But later on, it was found that 50% of the pie was rotten, so the remaining 50% was cut into (X - 3) pieces with an area of 0.616 sq cm each."
+  },
+  {
+   "id": "pyq-sbipo-mains19-set13",
+   "section": "quant",
+   "topic": "time-work",
+   "title": "Workers and Days - Three Projects",
+   "context": "The table gives the number of people required for three different projects to be completed in various days.\n\n| Project | Case 1: Workers | Case 1: Days | Case 2: Workers | Case 2: Days |\n|---|---|---|---|---|\n| A | X | 88 | X + 8 | 66 |\n| B | Y | Y - 1 | Y + 6 | Y - 6 |\n| C | Z^2 | 75 | M^2 | 108 |"
+  },
+  {
+   "id": "pyq-sbipo-mains19-set14",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "title": "Villages - Population Density and Land Area",
+   "context": "A graph gives the population density (per sq km) and land area (in sq km) of four villages A, B, C and D in the year 2001. Values reconstructed from the solutions (village D's figures are not required for these questions):\n\n| Village | Land area (sq km) | Population density (per sq km) | Population |\n|---|---|---|---|\n| A | 300 | 20 | 6000 |\n| B | 400 | 6 | 2400 |\n| C | 400 | 10 | 4000 |\n\nDefinitions: (1) Population density = Total population of the village / land area. (2) Gender Ratio = (Total number of males in a village / Total number of females in a village) x 100."
+  },
+  {
+   "id": "pyq-sbipo-mains19-set15",
+   "section": "quant",
+   "topic": "probability",
+   "title": "Two Bags of Balls - Sequential Information",
+   "context": "The given pieces of information are related and in sequence:\nI. Bag X: There are a total of 30 red and green balls. The probability of choosing a red and a green ball out of the total is 40/87. The number of red balls in the bag is (A).\nII. (B) number of green balls are taken and, after painting them red, placed back into bag X.\nIII. The probability of choosing two green balls from bag X (after step II) is 7/29.\nIV. Bag Y: All balls from bag X are taken and placed into bag Y. If (C) number of green balls are withdrawn from the bag and (C - 5) number of red balls are added to the bag, then the probability of choosing two red balls from the bag is 2/5."
+  },
+  {
+   "id": "pyq-sbipo-mains19-set16",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "title": "Loan Disbursement Flow Chart",
+   "context": "A flow chart shows the stages of loan disbursement, from the total population of a city down to the number of people to whom loans are disbursed. Structure reconstructed from the solutions:\nTotal population of the city = Y\n-> People approached for loan = X\n-> People who came for loan = 9600\n-> People eligible for loan = 30%\n-> People who applied for loan = 20%\n-> People to whom loan is disbursed = Z\nNote: All percentage values are given out of the total people who are approached for loan."
+  },
+  {
+   "id": "pyq-sbipo-mains19-set17",
+   "section": "quant",
+   "topic": "caselet-di",
+   "title": "English Exam - Short and Long Questions",
+   "context": "Four students (A, B, C and D) attempted an English exam with two types of questions.\nShort questions section: each question carries 5 marks; candidates must attempt at least 6 out of every 7 questions.\nLong questions section: each question carries 10 marks; candidates must attempt at least 7 out of every 9 questions.\nNote: 0.5 mark is deducted for each spelling error and 0.75 mark is deducted for each whole word a candidate forgot to write.\nThe exam has 42 short and 18 long questions in total. B corrects 14 long questions and obtained 131 marks in that section, and 175 marks in the short section. A obtained 160 marks in short questions by attempting 38 questions. C attempted all the short questions, corrects twice as many short questions as the number of questions correct in the long section, and got 150.5 marks in the long questions. D answered 15 long questions correctly and the ratio of D's spelling errors in the long to the short section is 3 : 4."
+  },
+  {
+   "id": "pyq-sbipo-mains19-set18",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "title": "OHLC Stock Chart - Company X",
+   "context": "An OHLC (Open-High-Low-Close) chart shows data regarding trading in the stock of company X on 5 different days. Values (in Rs. per unit) reconstructed from the solutions; the closing values marked '-' are not required for these questions.\n\n| Day | Open | High | Low | Close |\n|---|---|---|---|---|\n| Monday | 750 | 900 | 600 | - |\n| Tuesday | 800 | 1000 | 600 | 700 |\n| Wednesday | 700 | 1000 | 650 | - |\n| Thursday | 950 | 950 | 800 | - |\n| Friday | 800 | 1200 | 650 | 1100 |"
+  },
+  {
+   "id": "pyq-sbipo-mains19-set19",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "title": "Fan Production and Testing Options",
+   "context": "A bar graph shows the number of fans produced by a manufacturer from January to April. Values reconstructed from the solutions: February = 1600 units, March = 2400 units (January and April totals are not required for these questions).\nThe shopkeeper has to decide whether or not to test all the fan units before sending them to the customer. If he decides to test, he has two options.\nOption I: costs Rs 2.50 per unit as testing cost, but this method allows 30% of the defective fans to pass on to the customer.\nOption II: costs Rs 4 per unit as testing cost and it finds 90% of the defective units.\nAll defective units identified at the customer end cause a penalty of Rs 60 per unit, paid by the shopkeeper. Defective units found during testing are repaired at Rs 20 per unit."
+  },
+  {
+   "id": "pyq-sbipo-mains19-set20",
+   "section": "english",
+   "topic": "para-jumbles",
+   "title": "Sentence Part Rearrangement - Power Transmission",
+   "context": "Given below are four sentences, each divided into four parts. Answer the questions based on these statements.\n(A) for power evacuation, the White Paper added (1) / build compared to three to four years for (2) / construction of transmission lines required (3) / Traditional coal-fired power plants took 5-6 years to (4)\n(B) process and forest clearance procedures (1) / will need to be adopted while (2) / preserving the integrity of the original process to develop the transport system (3) / more efficient modalities of the bidding (4)\n(C) Points that the government must work on to enhance the (1) / transmission sector in line with the (2) / the White Paper goes on to enumerate several action (3) / growth of the economy that is envisaged (4)\n(D) Investment of about Rs 5 lakh crore in the power transmission sector over (1) / one of the key requirements for a $5-trillion economy is an (2) / by the Confederation of Indian Industry (CII) (3) / the next few years, according to a White Paper released (4)"
+  },
+  {
+   "id": "pyq-sbipo-mains19-set21",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "title": "RC: Iran and the 2015 Nuclear Deal",
+   "context": "Passage (condensed paraphrase of the original editorial-style passage):\nIran's decision to scale back its commitments under the 2015 Joint Comprehensive Plan of Action - the agreement meant to limit its nuclear programme - reads more as a warning than as a move to abandon the deal. Ever since the U.S. President pulled his country out of the agreement a year earlier, Iran has faced renewed sanctions and mounting economic and political pressure. President Hassan Rouhani had concluded the deal in 2015 despite opposition from hardliners at home, promising that it would get sanctions lifted and bring relief to Iran's economy. Those economic gains, however, did not last even three years, weakening Mr. Rouhani's standing in Iran's complex power structure. Once Washington ended the sanctions waiver that had allowed certain countries, including India, to buy Iranian oil, the pressure on Iran's economy intensified, and it was against this backdrop that Mr. Rouhani suspended some of the deal's restrictions.\nIran said it would immediately stop shipping out its excess enriched uranium and heavy water, and gave the other signatories 60 days to find ways of shielding its banking and oil sectors from U.S. sanctions. In principle, retaining such material lets Iran expand its nuclear programme, though no such plan has been announced; the larger threat is a return to higher levels of enrichment if Iran's grievances are not addressed within the deadline. Iran's response appears calibrated - it has not quit the deal as the U.S. did, and its complaint is genuine since it is being punished despite complying with the agreement - but putting the remaining signatories on notice could begin the deal's formal unravelling. European countries have been developing a mechanism, still in its early stages, that would let Europe trade with Iran through a barter system, avoiding the dollar and circumventing sanctions; crucially, it does not yet cover oil, the mainstay of Iran's economy. If Europe does not do enough within 60 days and Iran carries out its threat, the deal will collapse, giving the U.S. further reason to escalate hostilities - it has already sent an aircraft carrier and a bomber squadron to the Gulf. A practical alternative would be for Iran to end this brinkmanship and ______(A)______. Europe, for its part, should stand up to unilateral threats and find ways to help Iran, for a collapse of the deal would worsen the nuclear crisis and set a bad precedent in international diplomacy."
+  },
+  {
+   "id": "pyq-sbipo-mains19-set22",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "title": "RC: India as a Space Power",
+   "context": "Passage (condensed paraphrase of the original opinion piece):\nThe author argues that for India to become a genuine space power it must expand both its ability to use space and its ability to deny adversaries the reliable use of space. Other spacefaring nations are investing heavily on both fronts, with most money going into the capacity to use space - and, strikingly, they involve the private sector in the commercial use of space far more than India does.\nIt is ironic, the author notes, that India - whose space programme has always served human development - lags in harnessing private innovation in the space domain. This not only limits the economic exploitation of space but also has serious national security implications. The most basic way to secure space capabilities is to distribute them across many different satellites and spacecraft, so that business continuity is unaffected even if an adversary disables one or more satellites; the more critical the function, the more diversity is required. The US, dependent on thousands of satellites, is highly vulnerable in space, yet it is also best placed to withstand an attack because it can switch to alternatives - and with private American firms set to launch thousands more satellites in the coming years, its security in space will only improve. China too is rapidly enlarging its active space assets through massive public investment while opening its skies to private entrepreneurs.\nIn this new space economy, the author says, India is 'playing with one hand tied firmly behind its back': the Indian Space Research Organisation (ISRO) continues on a successful path, but there is no one at the private-sector end of the business. India must therefore deregulate the space sector and create an environment in which private industry can serve the country's commercial and strategic needs, and perhaps turn India into a global space technology hub."
+  },
+  {
+   "id": "pyq-sbipo-mains19-set23",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "title": "RC: Amending the Insolvency Law",
+   "context": "Passage (condensed paraphrase of the original column):\nThe government announced that it would amend the 2016 insolvency law, a signature reform of the Prime Minister's first term - news that investors welcomed. The legislation was 'getting mired in' frustrating legal delays and bizarre judgments, threatening to scare global investors away from a bad-debt cleanup worth over $200 billion. The last straw was an order by insolvency tribunal judges in the roughly $6 billion sale of Essar Steel India to ArcelorMittal, ruling that secured creditors would enjoy no seniority over unsecured creditors and suppliers.\nThe author notes that this order would have cut an assured 92% recovery rate for financial lenders to just 61%. Although State Bank of India and other lenders appealed it in the Supreme Court, it was helpful that the government stepped in before the scheduled court hearing: had the top court upheld the tribunal's view - on the ground that the law was unclear about dividing sale proceeds - banks would have had to give up substantial recoveries, raise bad-loan provisions and push more salvageable debtors into liquidation, causing needless job losses.\nThe proposed tweak, meant to fill critical gaps in the corporate insolvency resolution process, would explicitly hand power over the distribution of proceeds to the creditors' committees. That should restore common sense to a process that would otherwise have forced financial creditors to share the money from any new buyer of a bankrupt business equally with miscellaneous suppliers and other unsecured lenders. On urgency: delay tactics by large business families reluctant to lose prized assets had stretched resolutions such as Essar beyond 600 days against an intended 270; the government now wants the clock to keep ticking even during appeals, with cases admitted speedily and concluded in 330 days flat."
+  },
+  {
+   "id": "pyq-sbipo-mains19-set24",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "title": "RC: India-Russia Trade and Banking",
+   "context": "Passage (condensed paraphrase of the original article):\nAs India works towards becoming a 3-trillion-dollar economy in the current year and a 5-trillion one by 2024, major world powers are competing to declare closer relations with India a priority. Meanwhile the long-standing partners Russia and India are making a fresh effort to raise their economic cooperation to the level of their political partnership, with the removal of bottlenecks to bilateral trade and investment as the current priority. One of the main constraints in trade between the two countries is the lack of a smooth, independent banking infrastructure connecting them. Bilateral trade turnover stands at roughly 10 billion US dollars, and both governments are confident it can triple to 30 billion by 2025, with mutual investments potentially reaching 15 billion - provided the financial systems of both countries are ready for the challenge.\nRussia is India's leading defence supplier, accounting for over 60% of India's purchases, a share likely to grow with large recent deals such as the S-400 missile defence systems (estimated at over 6 billion dollars). Although India aims to diversify its defence supplies and localise production, Indian officials have consistently reiterated that defence relations with Russia will remain a priority despite unprecedented pressure from the West - pressure that Russia regards as unfair competition designed to push it out of international markets. Defence deals have exposed how vulnerable the two countries' existing banking mechanisms are to third-party actions: when US dollar payments were put on hold in 2018, India and Russia had to look urgently for alternatives, including trading in rupees and roubles, euros or Singapore dollars. Importantly, this situation drew the attention of bankers and decision-makers on both sides to the issue of payments. Memories of lucrative India-Soviet trade in national currencies run deep, so that mechanism cannot be ruled out entirely, but the world is now far more interdependent, and such trading arrangements would constrain globalised businesses on both sides."
+  },
+  {
+   "id": "pyq-sbipo-mains19-set25",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "title": "RC: Plastic Waste and Producer Responsibility",
+   "context": "Passage (condensed paraphrase of the original editorial):\nThe Central Pollution Control Board (CPCB) has put 52 producers, brand owners and importers - including big online retailers such as Amazon and Flipkart and companies such as Patanjali Ayurved and Britannia - on notice for failing to take responsibility for their plastic waste, and such entities with a large plastic footprint need to respond quickly. Eight years after the concept of Extended Producer Responsibility (EPR) was incorporated into the Plastic Waste Management Rules, municipal and pollution control authorities have failed to persuade commercial giants to put in place a system to collect and process the waste. Tighter rules in 2016 and later amendments placed the onus on producers and brand owners to draw up action plans for retrieving waste within six months to a year, but that too never took off, and mountains of garbage with a heavy plastic load keep growing in suburban landfills, out of sight of city dwellers.\nWithout determined steps the crisis will worsen: the retail sector expects e-commerce to grow from about $38.5 billion in 2017 to $200 billion by 2026, and given packaging's role, the waste problem could become alarming. Yet there is also a big opportunity that trade, municipal governments and pollution control authorities should recognise. The two prongs of the solution are packaging innovation that reduces plastic use through alternatives, and scaling up the separation, collection and dissemination of waste. Recovering materials from garbage deserves high priority: India is the third-largest consumer of materials after China and the US, and the Economic Survey 2019 estimates the country's total material demand will double by 2030 at current growth rates. Plastics may be cheaper than other manufacturing inputs, but recycling them into new products extends their life and provides a substitute for virgin material, while keeping them out of the environment cuts clean-up and pollution costs. Unfortunately, despite legal requirements, municipal and pollution control authorities fail to see this and mostly pursue business-as-usual waste management methods."
+  },
+  {
+   "id": "pyq-sbipo-mains19-set26",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "title": "RC: Oil Prices and the Indian Economy",
+   "context": "Passage (condensed paraphrase of the original editorial):\nIndia's economic fortunes remain tied to the sharply fluctuating price of oil. At a gathering of prominent oil ministers in New Delhi, the Prime Minister urged oil-producing countries to reduce the cost of energy so as to aid the global economy on its path to recovery, and also called for a review of payment terms, seeking the partial use of the rupee instead of the US dollar for oil payments to ease the burden on oil-importing countries in the wake of a strengthening dollar. With well over 80% of its oil demand met through imports, India has much at stake: oil prices had risen by as much as 70% in rupee terms over the previous year. Notably, speaking at the same event, the Saudi Arabian Energy Minister refused to openly commit to lower oil prices, saying instead that prices could have been much higher but for his country's efforts to boost supply - unsurprising, given the absence of significant rival suppliers willing to help India.\nIndia's policymakers thus face the difficult task of steering the economy through multiple external headwinds. The current account deficit widened to 2.4% of GDP in the first quarter of 2018-19 and was expected to reach 3% for the full year; the rupee, down about 16% since the beginning of the year, showed no signs of recovery; and growth in petrol and diesel sales had already been hit as their prices shot through the roof. All of this was likely to weigh on the prospects of the world's fastest-growing economy in the coming quarters. In this scenario, the decision to marginally cut taxes on domestic fuels was unlikely to help consumers significantly; what was needed was a steep cut in Central and State taxes - which, given the government's fiscal needs, was unlikely."
+  }
+ ],
+ "questions": [
+  {
+   "id": "pyq-sbipo-mains19-q001",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains19-set1",
+   "question": "Who among the following faces the person who sits immediate right of R?",
+   "options": [
+    "B",
+    "C",
+    "A",
+    "D",
+    "None of these"
+   ],
+   "correct": 4,
+   "explanation": "Final arrangement (aligned pairs, row 2 facing North vs row 1 facing South): Q-D, S-A, R-C, P-E, T-B, with row 2 running Q, S, R, P, T. Immediate right of R (facing North) is P, and P is faced by E, who is not among the given options.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q002",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains19-set1",
+   "question": "Four of the following five are alike in a certain way and form a group; find the one which does not belong to that group.",
+   "options": [
+    "B",
+    "C",
+    "D",
+    "T",
+    "Q"
+   ],
+   "correct": 1,
+   "explanation": "B, D, T and Q all sit at the extreme ends of their rows (row 1: D and B; row 2: Q and T), while C sits at the middle of row 1. Hence C is the odd one out.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q003",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains19-set2",
+   "question": "Who among the following sits 2nd to the left of V's wife?",
+   "options": [
+    "P",
+    "Q",
+    "R",
+    "S",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "Family: Q is married to P; their children are V (son, married to U) and R (daughter, married to T); S is the son of R and T. Row (left to right): R, P, U, S, Q, V, T. V's wife is U; 2nd to the left of U is R.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q004",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains19-set2",
+   "question": "How is Q related to T?",
+   "options": [
+    "Father",
+    "Mother",
+    "Father in law",
+    "Mother in law",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "T is the husband of R, and R is the daughter of Q. Hence Q is T's father-in-law.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q005",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains19-set2",
+   "question": "How many persons are sitting between the son of T and the father-in-law of U?",
+   "options": [
+    "None",
+    "One",
+    "Two",
+    "Three",
+    "More than three"
+   ],
+   "correct": 0,
+   "explanation": "In the row R, P, U, S, Q, V, T: the son of T is S (4th position) and the father-in-law of U is Q (5th position). They sit next to each other, so no one sits between them.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q006",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "input-output",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains19-set3",
+   "question": "What is the difference between the 3rd number from the left in Step II and the 2nd number from the right in Step IV?",
+   "options": [
+    "391834",
+    "391826",
+    "134099",
+    "134091",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "Logic - Step I: the digits of each number are reversed. Step II: numbers arranged in ascending order. Step III: within each number, odd digits first then even digits, each in ascending order. Step IV: products of digit pairs (1st x 2nd)(3rd x 4th)(5th x 6th). Step V: sum of digits of each Step IV number. For the given input, Step II: 215364 289547 485923 743658 762459 973215 and Step IV: 31024 351832 151832 152848 351824 33518. Required difference = 485923 - 351824 = 134099.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q007",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "input-output",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains19-set3",
+   "question": "Which of the following numbers is 3rd from the right in Step V?",
+   "options": [
+    "10",
+    "20",
+    "22",
+    "23",
+    "None of these"
+   ],
+   "correct": 4,
+   "explanation": "Step V for the given input is: 10 22 20 28 23 20. The 3rd number from the right is 28, which is not among the options.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q008",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "input-output",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains19-set3",
+   "question": "What will come when the number which is 2nd from the right in Step IV is divided by the number which is 2nd from the left in the final step?",
+   "options": [
+    "14912",
+    "15992",
+    "13592",
+    "12952",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "2nd from the right in Step IV = 351824; 2nd from the left in Step V = 22. 351824 / 22 = 15992.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q009",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "input-output",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains19-set3",
+   "question": "What is the sum of the 2nd number from the left in Step II and the 4th number from the right in Step III?",
+   "options": [
+    "1119927",
+    "1121707",
+    "647015",
+    "648795",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "Step II: 215364 289547 485923 743658 762459 973215 (2nd from left = 289547). Step III: 135246 579248 359248 357468 579246 135792 (4th from right = 359248). Sum = 289547 + 359248 = 648795.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q010",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains19-set4",
+   "question": "Who among the following sits immediate right of the wife of S?",
+   "options": [
+    "Q",
+    "R",
+    "T",
+    "U",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "Outer square (facing inside): S-North, P-East, V-South, W-West. Inner square (facing outside): R-north, T-east, Q-south, U-west. Facing (spouse) pairs: S-R, P-T, V-Q, W-U. The wife of S is R (inner, facing outward/north); her immediate right on the inner square is T.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q011",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains19-set4",
+   "question": "Who among the following is the spouse of U?",
+   "options": [
+    "P",
+    "S",
+    "V",
+    "W",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "U (inner, west) faces W (outer, West); since each person faces their spouse, W is U's spouse.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q012",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains19-set4",
+   "question": "Who among the following faces T?",
+   "options": [
+    "P",
+    "Q",
+    "R",
+    "S",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "T sits on the inner square (east side) and faces P on the outer square (East side); P and T are spouses.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q013",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains19-set5",
+   "question": "Which of the following is true?",
+   "options": [
+    "H%D",
+    "A$D",
+    "D#B",
+    "G$F",
+    "Both (a) and (d)"
+   ],
+   "correct": 0,
+   "explanation": "Decoding the statements gives the clockwise arrangement: E, G, D, C, B, H, F, A. Checking options: H sits 3rd to the left of D (D->C->B->H going clockwise), so H%D is true; A$D and G$F are false (not neighbours), and D is not opposite B. Since (d) is false, only (a) holds.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q014",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains19-set5",
+   "question": "Who among the following sits 3rd to the left of B?",
+   "options": [
+    "C",
+    "D",
+    "A",
+    "E",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "In the clockwise arrangement E, G, D, C, B, H, F, A (all facing centre, left = clockwise), 3rd to the left of B is A (B->H->F->A).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q015",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "direction-sense",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains19-set6",
+   "question": "If Point X is 5 m to the south of T, then what is the shortest distance between point X and point P?",
+   "options": [
+    "6m",
+    "8m",
+    "10m",
+    "11m",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "Taking T as origin (0,0): S = (23,0), R = (23,15), Q = (23,-5), P = (11,-5), and X = (0,-5). X and P lie on the same horizontal line, so XP = 11 m.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q016",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "direction-sense",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains19-set6",
+   "question": "What is the shortest distance between Point P and Point S?",
+   "options": [
+    "11m",
+    "12m",
+    "13m",
+    "14m",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "P = (11,-5) and S = (23,0), so PS = sqrt(12^2 + 5^2) = sqrt(169) = 13 m.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q017",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "direction-sense",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains19-set7",
+   "question": "What is the distance between L and P?",
+   "options": [
+    "29m",
+    "39m",
+    "30m",
+    "40m",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "Taking Z = (0,0). Bus 1 gives: K(-15,0), J(-15,-10), M(-25,-10), D(-25,8), C(4,8), P(4,17), Y(0,17). Bus 2 gives: E(0,-36), F(-6,-36), G(-6,-22), H(-25,-22), L(-25,17), and Y(0,17) consistent. L(-25,17) and P(4,17) are on the same horizontal line: LP = 29 m.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q018",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "direction-sense",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains19-set7",
+   "question": "What is the shortest distance and direction of Y with respect to E?",
+   "options": [
+    "49m, South",
+    "55m, West",
+    "53m, North",
+    "45m, East",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "E = (0,-36) and Y = (0,17) lie on the same vertical line; Y is 36 + 17 = 53 m to the North of E.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q019",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "coding-decoding",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains19-set8",
+   "question": "What will come in the blank '(a)'?",
+   "options": [
+    "Prepares",
+    "Ready",
+    "Turn",
+    "Funny",
+    "Early"
+   ],
+   "correct": 0,
+   "explanation": "Logic - letter: 3rd letter from the right end of the word; number: (letters - 3) if the word length is odd, (letters + 4) if even; symbol: fixed per starting letter (W->!, M->$, S->#, R->^, E->+, P->%, T->~, F->@). The code 12%R needs a P-word of 8 letters whose 3rd letter from the right is R: 'Prepares' (8+4=12, %, r-e-s from the right gives R).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q020",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "coding-decoding",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains19-set8",
+   "question": "What will come in the blank '(b)'?",
+   "options": [
+    "3$F",
+    "8*D",
+    "10+E",
+    "10#D",
+    "14^I"
+   ],
+   "correct": 4,
+   "explanation": "In the fourth sentence, prestige = 12%I, turns = 2~R and food = 8@O, so (b) is the code of 'Reputation': 10 letters (even) -> 10+4 = 14; starts with R -> ^; 3rd letter from the right is i -> I. Code: 14^I.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q021",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "coding-decoding",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains19-set8",
+   "question": "What is the code of 'every person'?",
+   "options": [
+    "2%E 10+S",
+    "9+E 2%S",
+    "2+E 10%S",
+    "9%E 2+S",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "every: 5 letters (odd) -> 5-3 = 2; starts with E -> +; 3rd from right = e -> E, giving 2+E. person: 6 letters (even) -> 6+4 = 10; starts with P -> %; 3rd from right = s -> S, giving 10%S.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q022",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 2,
+   "question": "A statement is given followed by three statements numbered I, II and III. Read all three statements and decide which of them strengthens or weakens the given statement.\nStatement: Among the governments, there is a strong policy emphasis on improving living conditions in urban areas as more and more people are looking to migrate to semi-urban or rural areas. People are willing to compromise on their standard of living in order to live in a healthier/pollution free environment.\n(I) Cities are economically vibrant spaces around the world and drawing a large number of rural migrants looking for better prospects. This is a sustained trend, particularly in developing countries nowadays.\n(II) A fresh look at urban governance is necessary as migration from rural areas picks up pace.\n(III) The rate of migration has shown a consecutive decline in the last three Censuses. It was possible that this slow-down signalled the worsening conditions in urban slums, where most of the rural immigrants were concentrated.",
+   "options": [
+    "Only statement (I) strengthens but statements (II) and (III) are neutral statements.",
+    "Both statement (I) and statement (III) strengthen the given statement but statement (II) is a neutral statement.",
+    "Both statement (I) and statement (II) are neutral statements and statement (III) strengthens the statement.",
+    "Both statements (I) and (II) weaken but statement (III) strengthens the given statement.",
+    "All statements (I), (II) and (III) weaken the given statement."
+   ],
+   "correct": 3,
+   "explanation": "Statements I and II describe people migrating TOWARDS urban areas (for better prospects, and rural-to-urban migration picking up pace), which contradicts the claim that people are moving to semi-urban/rural areas - so both weaken it. Statement III notes a decline in migration to cities because of worsening urban slum conditions, supporting the idea that people prefer to move away from cities - it strengthens the statement.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q023",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 2,
+   "question": "The revenue of Company A has been decreasing from the past one year while the prices of the products offered by the company have also decreased from the past six months.\nWhich of the following cannot be the reason for the downfall of the revenue of Company A?",
+   "options": [
+    "Company B is offering the same product at much lower prices than Company A.",
+    "The quality of the products of Company A is not up to a desirable level.",
+    "The demand for the product offered by Company A has been decreasing due to the usage of an old technology in it.",
+    "There is an abrupt rise in the availability of the product offered by Company A but the demand has not changed accordingly.",
+    "Chinese companies offered better and cheap products than Indian Companies."
+   ],
+   "correct": 4,
+   "explanation": "Options (a)-(d) all directly explain falling revenue for Company A. Option (e) talks generally about Chinese versus Indian companies, which has no stated link to Company A, so it cannot be the reason.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q024",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 2,
+   "question": "Today's children are different from the children of previous generations. They are more interested in playing video games or sitting hours on the play stations than in playing outdoor games. They are more technology oriented. These things are depriving the child from developing their personality. They lack the stamina and strength of the previous generations.\nWhich of the following statements weakens the given statement?\n(I) The children of today are mentally active as this has made children much more organized and mature than in previous times.\n(II) These gadgets are addicting. They have made the children so much addicted to PC and PS that they do not enjoy the outdoor games anymore.\n(III) The children of present time are not physically active. These children are not being a team player anymore, they grow up to become shy and introvert instead of being bold and extrovert.",
+   "options": [
+    "Only I",
+    "Both III and I",
+    "Only II",
+    "Both II and III",
+    "All I, II and III"
+   ],
+   "correct": 0,
+   "explanation": "The statement claims technology harms children's development. Statement I counters this by saying today's children are mentally more active, organized and mature - it weakens the claim. Statements II and III support (strengthen) the negative view of gadgets.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q025",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 2,
+   "question": "A survey conducted recently shows that religious people are more financially successful than atheists. This proves that following religious practices or having religious beliefs is not only important for your spiritual health but also beneficial in maintaining a healthy bank account.\nWhich of the following, if true, would most seriously weaken the above conclusion?",
+   "options": [
+    "The survey does not tell us if those people became financially successful after they started practicing religion or they started practicing religion after they became successful.",
+    "Some people embrace religion and spirituality mainly because they believe that somehow being religious or spiritual can help them achieve financial success.",
+    "Most of the poor people are too busy thinking about earning their daily livelihood.",
+    "Percentage of atheists among the total population is highest in most of the developed countries.",
+    "Spiritual and religious people lead a more disciplined life."
+   ],
+   "correct": 0,
+   "explanation": "Option (a) points out a cause-and-effect flaw in the survey (correlation does not establish which came first - religion or success), which directly undermines the conclusion. The other options are either supportive or irrelevant.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q026",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 2,
+   "question": "The banking sector is facing tough times. But the sector is facing only short-term pain as the rise in non-performing assets (NPAs) is proving a key challenge for the industry at large. The regulator wanted some stringent measures to be taken, and the government is coming out with so many reforms and policies.\nWhich of the following can be assumed from the given statement?",
+   "options": [
+    "NPA was 2.4% more in the last two years as compared to the present one.",
+    "The steps taken by the government are not enough to revamp the banking sector.",
+    "The manufacturing sector is performing far better than the banking sector for the last five years.",
+    "After the implementation of suitable expedients, the things are likely to be changed for the banking sector.",
+    "The increase in NPA is the only factor responsible for the difficult time of the banking industry."
+   ],
+   "correct": 3,
+   "explanation": "Since the pain is described as short-term and the regulator/government are bringing stringent measures, reforms and policies, it can be assumed that once these are implemented the banking sector's condition will improve. The other options introduce data or comparisons that the statement does not support.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q027",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 2,
+   "question": "Other than being an essential source of water for Indian agriculture, the monsoon plays a critical role in flushing out pollutants over Asia. However, recently increased pollution - particularly from coal burning - could potentially weaken this ability of the monsoon.\nWhich of the following can be deduced from the given statement?",
+   "options": [
+    "The unusually high concentration of particulate matter in the last few days in India clearly shows that air pollution is emerging as a big problem.",
+    "As the climate gets warmer and frequency of rains reduces, such spurts in coarse particles making breathing difficult will become a new normal and the government is not waking up to the alarm.",
+    "Both the periodicity and duration of dry spells in the country were rising as total rainfall events in a year had fallen even though the average rainfall in a year has not changed much, a direct consequence of climate change.",
+    "The annual average rainfall has remained the same because the frequency of heavy downpours increased in the past two decades.",
+    "The air quality in the region deteriorated because of dust storms in western India, particularly Rajasthan."
+   ],
+   "correct": 0,
+   "explanation": "Coal burning increases the concentration of pollutant particles, so a high concentration of particulate matter showing air pollution as a growing problem can be deduced. Options (b) and (e) can at best be assumed, and (c)/(d) bring in rainfall data not given in the statement.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q028",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 2,
+   "question": "The NITI Aayog released the results of a study warning that India is facing its 'worst' water crisis in history and that the demand for potable water will outstrip supply by 2030, if steps are not taken.\nWhich of the following most weakens the above statement?",
+   "options": [
+    "Currently 600 million Indians face high to extreme water shortage and about two lakh people die every year due to inadequate access to potable water.",
+    "People may face water scarcity and the country will suffer a loss of up to 6 per cent of the GDP.",
+    "The country's nearly 70 per cent of water is contaminated, which puts India at the 120th position among 122 countries in the water quality index.",
+    "The ranks of all states in the index on the composite water management, comprising 9 broad sectors with 28 different indicators covering various aspects of ground water, restoration of water bodies, irrigation, farm practices, drinking water, policy and governance.",
+    "The condition of availability of water currently in India is better than the water crisis which India had faced in 1960."
+   ],
+   "correct": 4,
+   "explanation": "Option (e) says the current water availability is better than what India faced in 1960, contradicting the claim that this is India's worst water crisis in history - so it weakens the statement. Options (a)-(c) strengthen it and (d) is neutral.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q029",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 2,
+   "question": "'If we slightly increase the price of our product then we can improve the quality of our product to increase the number of customers from our only rival company V.' - A statement by the owner of company U.\nWhich of the following can be assumed from the given statement?",
+   "options": [
+    "Without increasing the price, the quality of the product offered by company U can't be increased.",
+    "Quality offered by company V of the product is better than the quality offered by company U.",
+    "Improvising the quality is the only way to attract more number of customers.",
+    "The price offered by the rival company V is already higher than the price offered by company U.",
+    "Superior quality even for a bit higher price will definitely increase the demand of the product in the market."
+   ],
+   "correct": 4,
+   "explanation": "The owner's plan rests on the belief that customers will accept a slightly higher price for better quality, i.e., superior quality even at a somewhat higher price will raise demand. The statement says nothing about V's quality or prices, and 'only way' claims are too strong.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q030",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "logical-verbal-reasoning",
+   "difficulty": 2,
+   "question": "A company X decided to increase the HRA allowances of its employees due to reallocation of the company to NCR region.\nWhich of the following can be inferred from the given statement?\n(I) The HRA allowances directly depend on the region of living of the employee.\n(II) The employees of the company X are on strike due to the reallocation of the company.\n(III) The profit amount of company X has increased so it has also increased the amount of HRA of its employees.",
+   "options": [
+    "Both (I) and (II)",
+    "Both (II) and (III)",
+    "Only (I)",
+    "Only (III)",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "HRA was raised because the company relocated to the NCR region, which shows HRA depends on the region of living - so (I) follows. Nothing about a strike or higher profits is stated, so (II) and (III) cannot be inferred.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q031",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains19-set9",
+   "question": "After all persons changed their places based on the above conditions, who among the following is facing S in the other circle?",
+   "options": [
+    "A",
+    "D",
+    "F",
+    "R",
+    "U"
+   ],
+   "correct": 2,
+   "explanation": "Initial arrangement (clockwise, aligned inner/outer pairs): inner E,F,B,C,D,A behind whom sit outer S,R,P,U,T,Q respectively. Applying the eight draws in order (E swaps with F; S with Q; P crosses over with B; A with the person opposite in the inner circle; D with 2nd-left A; U with 2nd-left S; C with opposite F; F crosses over with S) gives the final aligned pairs: C-Q, E-R, D-B, S-F, A-T, P-U (inner person listed first). S ends up in the inner circle facing F.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q032",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains19-set9",
+   "question": "After all persons changed their places based on the above conditions, who among the following is sitting second to the right of A in the same circle?",
+   "options": [
+    "C",
+    "D",
+    "F",
+    "P",
+    "U"
+   ],
+   "correct": 0,
+   "explanation": "Final inner circle (clockwise): C, E, D, S, A, P. Inner-circle members face outward, so their right is the clockwise direction: second to the right of A is C (A -> P -> C).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q033",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains19-set9",
+   "question": "After all persons changed their places based on the above conditions, who among the following is sitting to the immediate right of U?",
+   "options": [
+    "S",
+    "B",
+    "F",
+    "R",
+    "T"
+   ],
+   "correct": 4,
+   "explanation": "Final outer circle (clockwise): Q, R, B, F, T, U. Outer-circle members face the centre, so their right is the anticlockwise direction: immediate right of U is T.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q034",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains19-set9",
+   "question": "How many persons are sitting between Q and B in the outer circle when counted from the left of Q (in the final arrangement)?",
+   "options": [
+    "One",
+    "More than three",
+    "Three",
+    "None",
+    "Two"
+   ],
+   "correct": 0,
+   "explanation": "Final outer circle (clockwise): Q, R, B, F, T, U. Q faces the centre, so Q's left is the clockwise direction: Q -> R -> B, i.e., only one person (R) sits between Q and B.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q035",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains19-set9",
+   "question": "Four of the following are alike in a certain way (based on the final arrangement) and so form a group. Which of the following does not belong to the group?",
+   "options": [
+    "A, T",
+    "D, B",
+    "E, R",
+    "Q, F",
+    "U, P"
+   ],
+   "correct": 3,
+   "explanation": "In the final arrangement the aligned (facing) pairs are C-Q, E-R, D-B, S-F, A-T and P-U. The pairs A-T, D-B, E-R and U-P each face one another, whereas Q and F do not (Q faces C and F faces S).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q036",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains19-set10",
+   "question": "What is the area of a room in Flat B on floor 2?",
+   "options": [
+    "340",
+    "360",
+    "396",
+    "either (a) or (c)",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "Final grid (rooms per flat): Floor 3 - A:4 (630 sq ft), B:6 (420), C:10 (252); Floor 2 - A:3 (840), B:7 (360), C:5 (504); Floor 1 - A:2 (1260), B:9 (280), C:8 (315). Flat B on floor 2 has 7 rooms of 2520/7 = 360 sq ft each.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q037",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains19-set10",
+   "question": "What is the total number of rooms on floor 3?",
+   "options": [
+    "22",
+    "21",
+    "20",
+    "18",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "Floor 3 has A:4, B:6 and C:10 rooms, totalling 4 + 6 + 10 = 20 rooms.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q038",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains19-set10",
+   "question": "Which of the following statements is true?",
+   "options": [
+    "Total number of rooms on floor 2 is 16",
+    "Area of each room is 494 sq ft in flat A on floor 1",
+    "Total rooms in Flat B of all three floors is 20",
+    "Total rooms in Flat A of all three floors is 9",
+    "None is correct"
+   ],
+   "correct": 3,
+   "explanation": "Flat A has 4 + 3 + 2 = 9 rooms across the three floors, so (d) is true. Floor 2 has 15 rooms (not 16), flat A floor 1 rooms measure 1260 sq ft, and Flat B totals 6 + 7 + 9 = 22 rooms.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q039",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains19-set10",
+   "question": "What is the area of a room of flat B on floor 3?",
+   "options": [
+    "420 ft",
+    "400 ft",
+    "385 ft",
+    "342 ft",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "Flat B on floor 3 has 6 rooms, each of 2520/6 = 420 sq ft.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q040",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains19-set10",
+   "question": "How many rooms are there to the west of the flat whose each room area is 280 sq ft?",
+   "options": [
+    "2",
+    "4",
+    "3",
+    "5",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "The 280 sq ft rooms are in Flat B of floor 1 (9 rooms). To its west on the same floor is Flat A of floor 1, which has 2 rooms.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q041",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains19-set11",
+   "question": "What will be the sum of the amounts earned by Q, Z and L if the amount earned by M is 7000?",
+   "options": [
+    "24000",
+    "16000",
+    "14500",
+    "15000",
+    "26500"
+   ],
+   "correct": 4,
+   "explanation": "Queue (front to back): Q, T, C, O, L, K, V, P, F, X, Z, M, G, H. Earnings decode to O > C = T > L > V > Z = H > X = Q = G > M = F > K > P with the coded gaps. If M = 7000 then F = 7000, G = 8000 = X = Q, H = Z = 8500, V = 9000, L = 10000. Q + Z + L = 8000 + 8500 + 10000 = 26500.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q042",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains19-set11",
+   "question": "How many persons are standing ahead of V?",
+   "options": [
+    "Two",
+    "More than four",
+    "Three",
+    "One",
+    "Four"
+   ],
+   "correct": 1,
+   "explanation": "V is 7th from the front in the queue Q, T, C, O, L, K, V, P, F, X, Z, M, G, H, so six persons (Q, T, C, O, L, K) stand ahead of V - more than four.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q043",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains19-set11",
+   "question": "How many persons are standing between G and X?",
+   "options": [
+    "Two",
+    "More than three",
+    "Three",
+    "One",
+    "None"
+   ],
+   "correct": 0,
+   "explanation": "X is 10th and G is 13th in the queue; Z (11th) and M (12th) stand between them - two persons.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q044",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains19-set11",
+   "question": "What will be the difference of the amounts earned by the one who earns the highest and the one who earns the lowest, if X earns 4500?",
+   "options": [
+    "4000",
+    "6000",
+    "1500",
+    "1000",
+    "2500"
+   ],
+   "correct": 1,
+   "explanation": "With X = 4500: H = Z = 5000, V = 5500, L = 6500, T = C = 7500, O = 8500 (highest); G = Q = 4500, M = F = 3500, K = 3000, P = 2500 (lowest). Difference = 8500 - 2500 = 6000.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q045",
+   "stage": "mains",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains19-set11",
+   "question": "What will be the amount earned by the one who is standing immediately ahead of C if K earns 5000?",
+   "options": [
+    "4000",
+    "7500",
+    "11500",
+    "15000",
+    "9500"
+   ],
+   "correct": 4,
+   "explanation": "Immediately ahead of C stands T. With K = 5000: F = 5500, G = 6500, X = Q = 6500, Z = H = 7000, V = 7500, L = 8500, T = 9500.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q046",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "number-series",
+   "difficulty": 3,
+   "question": "Three series are given. Find the values of x, y and z and then establish the relation among them.\nI. 1, 601, 721, 751, (x), 766\nII. 753, 769, (y), 765, 763, 764\nIII. 23, 24, 50, 153, (z), 3085",
+   "options": [
+    "x = y = z",
+    "x > y > z",
+    "x > y = z",
+    "x = y > z",
+    "x = z > y"
+   ],
+   "correct": 3,
+   "explanation": "I: differences 600, 120, 30, 10, 5 (each divided by 5, 4, 3, 2), so x = 751 + 10 = 761. II: pattern +16, -8, +4, -2, +1, so y = 769 - 8 = 761. III: pattern x1+1, x2+2, x3+3, x4+4, x5+5, so z = 153 x 4 + 4 = 616. Hence x = y > z.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q047",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "number-series",
+   "difficulty": 3,
+   "question": "Three series are given. Find the values of x, y and z and then establish the relation among them.\nI. 102, 107, 117, 134, (x)\nII. 130, 115, 135, 110, (y)\nIII. (z), 80, 120, 300, 1050",
+   "options": [
+    "x > y = z",
+    "y < x = z",
+    "x = y = z",
+    "y > x > z",
+    "x = z < y"
+   ],
+   "correct": 1,
+   "explanation": "I: differences 5, 10, 17, 26 (increase by 5, 7, 9), so x = 134 + 26 = 160. II: pattern -15, +20, -25, +30, so y = 110 + 30 = 140. III: pattern x0.5, x1.5, x2.5, x3.5 gives z x 0.5 = 80, so z = 160. Hence y < x = z.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q048",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "caselet-di",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains19-set12",
+   "question": "Find out the value of X.",
+   "options": [
+    "10",
+    "12",
+    "8",
+    "6",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "Total area of the pie = 0.77X sq cm. Half of the pie was cut into (X-3) pieces of 0.616 sq cm: (X - 3) x 0.616 x 2 = 0.77X, which gives 1.232X - 3.696 = 0.77X, so X = 8.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q049",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "caselet-di",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains19-set12",
+   "question": "Find out the circumference of the original pie.",
+   "options": [
+    "44/25 cm",
+    "88/25 cm",
+    "176/25 cm",
+    "132/25 cm",
+    "None of these"
+   ],
+   "correct": 4,
+   "explanation": "Area of the pie = 8 x 0.77 = 6.16 sq cm. pi R^2 = 6.16 gives R = 7/5 cm. Circumference = 2 x (22/7) x (7/5) = 44/5 = 8.8 cm, which is not among the listed fractions.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q050",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "caselet-di",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains19-set12",
+   "question": "If initially the entire pie would have been cut into (X + 3) identical pieces, then what would have been the area of each piece?",
+   "options": [
+    "0.64 sq cm",
+    "0.56 sq cm",
+    "0.28 sq cm",
+    "0.42 sq cm",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "Total area = 0.77 x 8 = 6.16 sq cm; divided into X + 3 = 11 pieces gives 6.16/11 = 0.56 sq cm each.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q051",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "time-work",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains19-set13",
+   "question": "If in team P, total number of workers = 0.5Z x 2M, then what is the number of days required by team P to complete project C?",
+   "options": [
+    "75 days",
+    "60 days",
+    "90 days",
+    "80 days",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "From project C: Z^2 x 75 = M^2 x 108, so Z = 1.2M. Team P has 0.5Z x 2M = ZM = 1.2M^2 workers. Total work on C = 108M^2 man-days, so days = 108M^2 / 1.2M^2 = 90 days.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q052",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "time-work",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains19-set13",
+   "question": "If 64 people were working for Project A, then how many days did it take to complete the work?",
+   "options": [
+    "44 days",
+    "22 days",
+    "33 days",
+    "36 days",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "From project A: X x 88 = (X + 8) x 66, so 88X = 66X + 528, X = 24. Total work = 24 x 88 = 2112 man-days; with 64 people it takes 2112/64 = 33 days.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q053",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "time-work",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains19-set13",
+   "question": "If 0.5Y people work on Project B for 10 days and then 0.5Y more people join the project, then how many days will it take to complete Project B?",
+   "options": [
+    "35 days",
+    "40 days",
+    "45 days",
+    "50 days",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "From project B: Y(Y - 1) = (Y + 6)(Y - 6), so Y^2 - Y = Y^2 - 36, Y = 36. Total work = 36 x 35 = 1260 units. In 10 days, 18 people do 180 units; the remaining 1080 units with 36 people take 30 days. Total time = 10 + 30 = 40 days.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q054",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains19-set14",
+   "question": "Find the gender ratio of village A if the population of females in village A is 2400.",
+   "options": [
+    "120",
+    "150",
+    "90",
+    "180",
+    "144"
+   ],
+   "correct": 1,
+   "explanation": "Population of A = 20 x 300 = 6000. Males = 6000 - 2400 = 3600. Gender ratio = (3600/2400) x 100 = 150.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q055",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains19-set14",
+   "question": "If the total female populations in villages A and C are equal and the gender ratio of village A is 125 more than that of village C, find the number of males in village C.",
+   "options": [
+    "2000",
+    "2500",
+    "2200",
+    "2400",
+    "2600"
+   ],
+   "correct": 3,
+   "explanation": "Let females in each village be x. Population of A = 6000, of C = 4000. ((6000 - x)/x) x 100 = ((4000 - x)/x) x 100 + 125 gives 200000/x = 125, so x = 1600. Males in C = 4000 - 1600 = 2400.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q056",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains19-set14",
+   "question": "In 2001, the ratio of the total population of B to that of E is 1 : 4. If the population density of E increases by 50% in 2010 (land area unchanged), then find the population of E in 2010.",
+   "options": [
+    "14400",
+    "12000",
+    "16800",
+    "10000",
+    "15600"
+   ],
+   "correct": 0,
+   "explanation": "Population of B in 2001 = 6 x 400 = 2400, so population of E = 4 x 2400 = 9600. A 50% rise in density with the same area means population of E in 2010 = 9600 x 1.5 = 14400.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q057",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "probability",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains19-set15",
+   "question": "Find the value of A.",
+   "options": [
+    "10",
+    "15",
+    "12",
+    "18",
+    "20"
+   ],
+   "correct": 0,
+   "explanation": "Let green balls = a, red = 30 - a. P(one red and one green) = a(30-a)/30C2 = 40/87 gives a(30-a) = 200, so a = 10 or 20. Statement III then requires green = 20 (with (20-B)(19-B) = 210 giving B = 5); green = 10 leads to no valid B. So red balls A = 30 - 20 = 10.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q058",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "probability",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains19-set15",
+   "question": "Find the probability of choosing (B - 3) green balls from bag X (consider the initial number of red and green balls in the bag).",
+   "options": [
+    "35/87",
+    "12/29",
+    "40/87",
+    "38/87",
+    "34/87"
+   ],
+   "correct": 3,
+   "explanation": "B = 5, so we need the probability of choosing 2 green balls from the initial bag X (20 green, 10 red): 20C2/30C2 = 190/435 = 38/87.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q059",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "probability",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains19-set15",
+   "question": "Find the value of C.",
+   "options": [
+    "5",
+    "6",
+    "4",
+    "7",
+    "3"
+   ],
+   "correct": 1,
+   "explanation": "After painting, bag X (hence bag Y) has 15 green and 15 red balls. After withdrawing C green and adding (C-5) red: red = 10 + C, total = 25. P(two red) = (10+C)C2 / 25C2 = 2/5 gives (10+C)(9+C) = 240, so C = 6.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q060",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains19-set16",
+   "question": "If the number of people who applied for loan but to whom loan was not disbursed is 400, and the people who are not eligible for loan among those who came for loan is 3600, then find the number of people to whom loan was disbursed.",
+   "options": [
+    "3200",
+    "3500",
+    "3600",
+    "3000",
+    "2500"
+   ],
+   "correct": 2,
+   "explanation": "Came for loan - eligible = 3600: 9600 - 0.30X = 3600 gives X = 20000. Applied = 20% of 20000 = 4000. Disbursed = 4000 - 400 = 3600.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q061",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains19-set16",
+   "question": "If the people who came for loan are 60% of the total people approached for loan, which is 40% of the total population of the city, and the average of X, Y and Z is 20,000, then the people who are eligible for loan are what percent of Z?",
+   "options": [
+    "105%",
+    "110%",
+    "112 1/2 %",
+    "116%",
+    "120%"
+   ],
+   "correct": 4,
+   "explanation": "X = 9600/0.60 = 16000 and Y = 16000/0.40 = 40000. X + Y + Z = 60000 gives Z = 4000. Eligible = 30% of 16000 = 4800. Required percent = 4800/4000 x 100 = 120%.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q062",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains19-set16",
+   "question": "If 8400 people were approached but did not come for loan, and then 30% of the total population of the city approached for loan, find what percent of the total population of the city are the people who are eligible but did not apply for loan.",
+   "options": [
+    "2 1/2 %",
+    "3%",
+    "3 1/2 %",
+    "4%",
+    "4 1/2 %"
+   ],
+   "correct": 1,
+   "explanation": "Approached = 9600 + 8400 = 18000 = 30% of population, so population = 60000. Eligible but not applied = (30% - 20%) of 18000 = 1800. Required percent = 1800/60000 x 100 = 3%.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q063",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "time-work",
+   "difficulty": 3,
+   "question": "A certain number of men can complete a task two days earlier than a certain number of boys. The work completed by one man in one hour is the same as the work completed by three boys in one hour.\nWhich of the following ratios of the number of men to the number of boys can satisfy the above condition?\n(i) 1 : 2  (ii) 2 : 5  (iii) 2 : 3  (iv) 16 : 35",
+   "options": [
+    "only (ii)",
+    "only (ii) and (iii)",
+    "only (i) and (iii)",
+    "All of the above",
+    "only (ii), (iii) and (iv)"
+   ],
+   "correct": 3,
+   "explanation": "Let p men finish in (d - 2) days and q boys in d days, with man : boy efficiency = 3 : 1, so 3p(d - 2) = qd. Testing each ratio: (i) p:q = 1:2 gives d = 6; (ii) 2:5 gives d = 12; (iii) 2:3 gives d = 4; (iv) 16:35 gives d = 96/13. Each yields a positive d, so all four ratios are possible.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q064",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "mixtures-alligations",
+   "difficulty": 3,
+   "question": "A vessel contains 400 litres of acid A and 80 litres of acid B. If ______ litres of mixture is taken out from the vessel and ______ litres of acid B is added to the remaining mixture, then the final amount of acid A in the vessel becomes 250 litres more than the amount of acid B in it. Which of the following integral values given in the options are possible in the blanks, in the same order?\n(A) (72, 22)  (B) (60, 30)  (C) (84, 24)  (D) (48, 38)  (E) (36, 48)",
+   "options": [
+    "Only option A, B and D possible",
+    "Only option B and D possible",
+    "Only option A and E possible",
+    "Only option B, D and E possible",
+    "Only A, D and E possible"
+   ],
+   "correct": 0,
+   "explanation": "The mixture is A : B = 5 : 1. Removing X litres removes 5X/6 of A and X/6 of B; adding Y litres of B gives (400 - 5X/6) - (80 - X/6 + Y) = 250, which simplifies to 2X + 3Y = 210. Checking: A(72,22): 144+66 = 210 yes; B(60,30): 120+90 = 210 yes; C(84,24): 168+72 = 240 no; D(48,38): 96+114 = 210 yes; E(36,48): 72+144 = 216 no. So A, B and D.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q065",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "profit-loss",
+   "difficulty": 3,
+   "question": "The marked price of an article is 40% above its cost price. When the shopkeeper allows d% discount he makes a profit of ______%, and when he allows 2d% discount he makes a profit of ______%. Which of the following options can fill both respective blanks?\n(A) (22.5, 5)  (B) (33, 26)  (C) (19, 2)  (D) (26, 12)  (E) (23.2, 6.4)",
+   "options": [
+    "Only option A, B, C possible",
+    "Only option B, D and E possible",
+    "Only option A, B, D and E possible",
+    "All of the above options are possible",
+    "Only B, C, D and E possible"
+   ],
+   "correct": 2,
+   "explanation": "With CP = 100x, MP = 140x: profit p% at discount d means SP = (100+p)x and d = (140x - SP)/140x. Doubling the discount must give the second profit. A: 22.5% -> d = 12.5%; 25% discount -> SP = 105x -> 5% profit, valid. B: 33% -> d = 5%; 10% -> 26% profit, valid. C: 19% -> d = 15%; 30% -> SP = 98x, a loss, invalid. D: 26% -> d = 10%; 20% -> 12% profit, valid. E: 23.2% -> d = 12%; 24% -> 6.4% profit, valid. Hence A, B, D and E.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q066",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "caselet-di",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains19-set17",
+   "question": "If C made spelling mistakes and whole-word mistakes in the ratio 5 : 3 in the long question section, then find the marks obtained by C in the short section if C made no spelling or whole-word mistakes there.",
+   "options": [
+    "170",
+    "150",
+    "155",
+    "160",
+    "180"
+   ],
+   "correct": 3,
+   "explanation": "Let long-section spelling mistakes = 5x and whole-word mistakes = 3x, correct long questions = y. Then 10y - (5x)(0.5) - (3x)(0.75) = 150.5, i.e. 10y - 4.75x = 150.5. For an integral y with y < 18, x = 2 and y = 16. So C corrected 2 x 16 = 32 short questions, scoring 32 x 5 = 160 marks.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q067",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "caselet-di",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains19-set17",
+   "question": "If A made 25% more spelling mistakes in long questions than in short, corrected 16 long questions and obtained 135 marks in the long section, then how many questions did A get wrong in the short section?",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "correct": 1,
+   "explanation": "Let short-section spelling errors = 4x, long-section = 5x. Long section: 16 x 10 - 5x(0.5) = 135 gives x = 10, so short spelling errors = 40. Short section: 5a - 40(0.5) = 160 gives a = 36 correct. A attempted 38 short questions, so 38 - 36 = 2 were wrong.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q068",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "caselet-di",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains19-set17",
+   "question": "B made 43 spelling errors and 18 full-word errors in the short section, while the total number of spelling errors made by D equals the number of questions answered correctly by B. Find the marks obtained by D in both sections together if D corrected 40 short questions.",
+   "options": [
+    "318",
+    "322",
+    "329",
+    "309",
+    "315"
+   ],
+   "correct": 1,
+   "explanation": "B's short-section correct count: 5c - 43(0.5) - 18(0.75) = 175 gives c = 42; B's total correct = 42 + 14 = 56. So D made 56 spelling errors, split 3 : 4 long : short = 24 and 32. D's marks = (15 x 10 - 24 x 0.5) + (40 x 5 - 32 x 0.5) = 138 + 184 = 322.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q069",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-sufficiency",
+   "difficulty": 3,
+   "question": "X and Y are two integers. Is X > Y?\nI. (X - Y)^a > (X - Y)^b, where a and b are two natural numbers and a > b.\nII. X^p > Y^q, where p and q are two consecutive even numbers and q < p.",
+   "options": [
+    "Statement (I) alone is sufficient to answer the question but statement (II) alone is not sufficient.",
+    "Statement (II) alone is sufficient to answer the question but statement (I) alone is not sufficient.",
+    "Both the statements taken together are necessary to answer the question, but neither statement alone is sufficient.",
+    "Either statement (I) or statement (II) by itself is sufficient to answer the question.",
+    "Statements (I) and (II) taken together are not sufficient to answer the question."
+   ],
+   "correct": 4,
+   "explanation": "From I: with X - Y = -2, a = 4, b = 2, we get (-2)^4 > (-2)^2 even though X < Y, so I is inconclusive. From II: even powers hide signs, e.g. X = -1, Y = -2 with p = 4, q = 2 fails to fix the order. Even together the sign ambiguity of even exponents remains, so both together are insufficient.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q070",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "partnership",
+   "difficulty": 3,
+   "question": "Bharat and Ekta started a business together. Bharat invested for 11 months while Ekta invested for 12 months. Out of the total profit, 20% is given to Bharat as an active partner and the remaining is distributed between Bharat and Ekta according to their investments. In the end, the profit shares of Bharat and Ekta are equal. If the initial investment of Bharat is Rs. 6,000, then find the initial investment of Ekta.",
+   "options": [
+    "Rs. 9,750",
+    "Rs. 11,250",
+    "Rs. 13,750",
+    "Rs. 12,500",
+    "None of these"
+   ],
+   "correct": 4,
+   "explanation": "Let total profit = 100x and Ekta's investment = y. Investment-time ratio = 6000 x 11 : 12y = 5500 : y. Bharat's share: 20x + 80x(5500/(5500 + y)) = 50x, which gives 8 x 5500 = 3 x 5500 + 3y, so y = 27500/3 = Rs. 9166.67 - not among the options.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q071",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains19-set18",
+   "question": "For how many instances in the graph is the difference between the opening value and the highest value of the stock for the day more than 23 4/9 % of the opening value of the stock of that day?",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "correct": 2,
+   "explanation": "Rise over open: Monday (900-750)/750 = 20%; Tuesday (1000-800)/800 = 25%; Wednesday (1000-700)/700 = 42 6/7 %; Thursday 0%; Friday (1200-800)/800 = 50%. Values above 23 4/9 %: Tuesday, Wednesday and Friday - 3 instances.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q072",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains19-set18",
+   "question": "An individual purchased 1234 units of the share at the lowest price of the day on Monday and sold them on Thursday at the highest price of that day. Find the difference in profit/loss % if he sells his entire stock on Friday at the closing price instead of on Thursday.",
+   "options": [
+    "75%",
+    "50%",
+    "30%",
+    "60%",
+    "25%"
+   ],
+   "correct": 4,
+   "explanation": "Cost = 1234 x 600 = Rs. 740400. Selling on Friday at 1100 instead of Thursday at 950 changes the sale value by (1100 - 950) x 1234 = Rs. 185100. Difference in profit % = 185100/740400 x 100 = 25%.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q073",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains19-set18",
+   "question": "An individual sells an equal number of shares on Monday at the lowest price, Tuesday at the closing price, Wednesday at the highest price, Thursday at the lowest price and Friday at the highest price. On which day is the profit obtained maximum? (On each day the shares were purchased at the opening price of that day.)",
+   "options": [
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday"
+   ],
+   "correct": 4,
+   "explanation": "Per-unit results: Monday 600 - 750 = -150; Tuesday 700 - 800 = -100; Wednesday 1000 - 700 = +300; Thursday 800 - 950 = -150; Friday 1200 - 800 = +400. Maximum profit is on Friday.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q074",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains19-set18",
+   "question": "On which day is the difference between the opening value of each unit of the share and the lowest value of each unit of the share for that day the lowest?",
+   "options": [
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday"
+   ],
+   "correct": 2,
+   "explanation": "Open minus low: Monday 150, Tuesday 200, Wednesday 700 - 650 = 50, Thursday 150, Friday 150. The smallest gap is on Wednesday.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q075",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains19-set19",
+   "question": "The shopkeeper uses Option I testing in the month of March and incurs a repairing cost of Rs 5600. Find the number of defective fans in March as a percent of the total manufactured fans in that month.",
+   "options": [
+    "12 1/2 %",
+    "15%",
+    "16 2/3 %",
+    "17 1/2 %",
+    "20%"
+   ],
+   "correct": 2,
+   "explanation": "Defective fans found during testing = 5600/20 = 280, which is 70% of all defectives (Option I misses 30%), so total defectives = 400. Required percent = 400/2400 x 100 = 16 2/3 %.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q076",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains19-set19",
+   "question": "For the month of February, find the difference in the extra cost (total of testing, repairing cost and penalties) incurred by the shopkeeper between the two options, if 150 units are defective in that month.",
+   "options": [
+    "Rs 1000",
+    "Rs 1200",
+    "Rs 1250",
+    "Rs 1400",
+    "Rs 1350"
+   ],
+   "correct": 1,
+   "explanation": "Option I: 1600 x 2.5 + (70% of 150) x 20 + (30% of 150) x 60 = 4000 + 2100 + 2700 = Rs 8800. Option II: 1600 x 4 + (90% of 150) x 20 + (10% of 150) x 60 = 6400 + 2700 + 900 = Rs 10000. Difference = Rs 1200.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q077",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains19-set19",
+   "question": "Find the ratio of all defective units of January to April, if in January the shopkeeper uses Option I for testing and in April Option II. The repairing cost of April is Rs 5300 more than that of January, whereas the penalties for January are Rs 900 more than those of April.",
+   "options": [
+    "3 : 8",
+    "2 : 5",
+    "11 : 18",
+    "4 : 9",
+    "8 : 15"
+   ],
+   "correct": 3,
+   "explanation": "Let defectives in January = x and April = y. Repairs: 0.9y x 20 - 0.7x x 20 = 5300 gives 18y - 14x = 5300. Penalties: 0.3x x 60 - 0.1y x 60 = 900 gives 18x - 6y = 900. Solving, x = 200 and y = 450, so the ratio is 200 : 450 = 4 : 9.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q078",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains19-set19",
+   "question": "In May, the shopkeeper uses Option II for testing all the fan units produced and has to pay penalties of Rs 1620 to the customer. Find the total units of fans manufactured in that month if the total defective units are 25 5/7 % of that month's production.",
+   "options": [
+    "980",
+    "1050",
+    "1071",
+    "1106",
+    "1120"
+   ],
+   "correct": 1,
+   "explanation": "Defective units reaching the customer = 1620/60 = 27, which is 10% of all defectives, so total defectives = 270. Since 25 5/7 % = 180/7 %, total production = 270 x 7/180 x 100 = 1050 units.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q079",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "ratio-proportion",
+   "difficulty": 2,
+   "question": "The number of girls in a college was 50 less than the number of boys. Subsequently, a few girls joined the college and the ratio of boys to girls became 2 : 5. Find the minimum number of girls who joined the college recently (the numbers of boys and girls are positive integers).",
+   "options": [
+    "116",
+    "120",
+    "124",
+    "128",
+    "136"
+   ],
+   "correct": 3,
+   "explanation": "Let girls = x, boys = x + 50, and y girls join. (x + 50)/(x + y) = 2/5 gives 2y = 3x + 250, so y = 3x/2 + 125. For y to be a minimum positive integer, x = 2 and y = 128.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q080",
+   "stage": "mains",
+   "section": "quant",
+   "topic": "mixtures-alligations",
+   "difficulty": 2,
+   "question": "Two types of ornaments are prepared by using gold and copper in two different proportions. In the first ornament, 6 grams of gold are mixed with 5 grams of copper, and in the second ornament, 5 grams of gold are mixed with 3 grams of copper. If the total quantities of gold and copper used are 122 grams and 90 grams respectively, how many ornaments of the second type are prepared? (All the gold and copper is used.)",
+   "options": [
+    "15",
+    "10",
+    "7",
+    "20",
+    "9"
+   ],
+   "correct": 1,
+   "explanation": "Let a ornaments of type 1 and b of type 2: 6a + 5b = 122 and 5a + 3b = 90. Solving gives a = 12, b = 10. So 10 ornaments of the second type are prepared.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q081",
+   "stage": "mains",
+   "section": "english",
+   "topic": "para-jumbles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains19-set20",
+   "question": "Which of the following is the correct sequence of the rearrangement of sentence (A)?",
+   "options": [
+    "1432",
+    "4123",
+    "4231",
+    "3412",
+    "None of these."
+   ],
+   "correct": 2,
+   "explanation": "Part (4) is the natural starter (traditional coal-fired plants took 5-6 years to), followed by (2) which completes the comparison, then (3) and (1): 'Traditional coal-fired power plants took 5-6 years to build compared to three to four years for construction of transmission lines required for power evacuation, the White Paper added.' Sequence: 4231.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q082",
+   "stage": "mains",
+   "section": "english",
+   "topic": "para-jumbles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains19-set20",
+   "question": "Which of the following is the correct sequence of the rearrangement of sentence (D)?",
+   "options": [
+    "1432",
+    "2143",
+    "4213",
+    "4231",
+    "None of these."
+   ],
+   "correct": 1,
+   "explanation": "Part (2) is the only viable starter; the article 'an' at its end links to 'Investment' in (1), followed by (4) and (3): 'one of the key requirements for a $5-trillion economy is an investment of about Rs 5 lakh crore in the power transmission sector over the next few years, according to a White Paper released by the CII.' Sequence: 2143.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q083",
+   "stage": "mains",
+   "section": "english",
+   "topic": "para-jumbles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains19-set20",
+   "question": "Which of the following is the correct sequence of the rearrangement of sentence (B)?",
+   "options": [
+    "4123",
+    "2143",
+    "4231",
+    "3412",
+    "None of these."
+   ],
+   "correct": 0,
+   "explanation": "Starting with (4) keeps the structure intact: 'more efficient modalities of the bidding process and forest clearance procedures will need to be adopted while preserving the integrity of the original process...'. Sequence: 4123.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q084",
+   "stage": "mains",
+   "section": "english",
+   "topic": "para-jumbles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains19-set20",
+   "question": "Which of the following is the correct sequence of the rearrangement of sentence (C)?",
+   "options": [
+    "1432",
+    "3142",
+    "2413",
+    "3124",
+    "None of these."
+   ],
+   "correct": 3,
+   "explanation": "Only (3) works as the starter; it pairs with (1) to form 'action points', then (2) and (4) complete the sentence: 'the White Paper goes on to enumerate several action points that the government must work on to enhance the transmission sector in line with the growth of the economy that is envisaged.' Sequence: 3124.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q085",
+   "stage": "mains",
+   "section": "english",
+   "topic": "para-jumbles",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-mains19-set20",
+   "question": "Rearrange the given four sentences in the proper sequence to form a meaningful paragraph and also choose the one which does not match the theme of the passage so formed.",
+   "options": [
+    "DBA; C",
+    "DCA; B",
+    "BDC; A",
+    "ACD; B",
+    "None of these."
+   ],
+   "correct": 1,
+   "explanation": "The coherent paragraph order is D-C-A, all about the CII White Paper on investment in the power transmission sector. Sentence (B) discusses developing the transport system, which does not fit the theme, so it is the odd one: DCA; B.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q086",
+   "stage": "mains",
+   "section": "english",
+   "topic": "fillers",
+   "difficulty": 2,
+   "question": "A statement is given with two blanks. For each blank, three alternatives are provided in the columns. Choose the pair that makes the sentence grammatically correct and contextually meaningful.\nThe Finance Secretary said that one of the ______[I] that the Reserve Bank of India's rate cuts were not being transmitted by the banks was because they didn't have enough liquidity left to ______[II] lend to the private sector after accommodating government borrowing.\n[I]: (A) Reasons (B) Crunches (C) Sanctions\n[II]: (D) Impingement (E) Distinguish (F) Adequately",
+   "options": [
+    "B-E",
+    "C-D",
+    "A-F",
+    "C-F",
+    "A-E"
+   ],
+   "correct": 2,
+   "explanation": "'One of the reasons' fits blank I; the adverb 'adequately' correctly modifies 'lend' in blank II. 'Crunches' and 'sanctions' do not fit the context, and 'impingement'/'distinguish' are ungrammatical there. Hence A-F.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q087",
+   "stage": "mains",
+   "section": "english",
+   "topic": "fillers",
+   "difficulty": 2,
+   "question": "A statement is given with two blanks. For each blank, three alternatives are provided in the columns. Choose the pair that makes the sentence grammatically correct and contextually meaningful.\nDepartment of Commerce is pro-actively pursuing an export promotion strategy involving ______[I] engagement with the EPCs and exporters to quickly address domestic and overseas constraints ______[II] exports.\n[I]: (A) Deter (B) Ripen (C) Conscious\n[II]: (D) Debilitating (E) Impacting (F) Unsparing",
+   "options": [
+    "B-D",
+    "C-E",
+    "A-F",
+    "C-F",
+    "A-D"
+   ],
+   "correct": 1,
+   "explanation": "'Conscious engagement' (determined and intentional) fits blank I, and 'constraints impacting exports' fits blank II. 'Deter' and 'ripen' are verbs that cannot modify 'engagement', while 'debilitating'/'unsparing' do not suit the context. Hence C-E.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q088",
+   "stage": "mains",
+   "section": "english",
+   "topic": "fillers",
+   "difficulty": 2,
+   "question": "A statement is given with two blanks. For each blank, three alternatives are provided in the columns. Choose the pair that makes the sentence grammatically correct and contextually meaningful.\nA series of braking mechanisms will be needed to ______[I] reduce the velocity of the Vikram lander from nearly 6,000 km an hour, to ______[II] that the touchdown is soft.\n[I]: (A) Drastically (B) Eloquently (C) Unravelling\n[II]: (D) Hauled (E) Ensure (F) Prone",
+   "options": [
+    "B-D",
+    "C-E",
+    "A-F",
+    "C-F",
+    "A-E"
+   ],
+   "correct": 4,
+   "explanation": "'Drastically reduce the velocity' fits blank I and 'to ensure that the touchdown is soft' fits blank II. 'Eloquently' and 'unravelling' make no sense with 'reduce', and 'hauled'/'prone' are ungrammatical in blank II. Hence A-E.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q089",
+   "stage": "mains",
+   "section": "english",
+   "topic": "fillers",
+   "difficulty": 2,
+   "question": "A statement is given with two blanks. For each blank, three alternatives are provided in the columns. Choose the pair that makes the sentence grammatically correct and contextually meaningful.\nAstronomers frequently observe mergers between distant galaxies, but it's ______[I] to reconstruct the interactions that defined the ______[II] Milky Way in part because we lack an outside perspective of our own galaxy.\n[I]: (A) Trickier (B) Assiduity (C) Reprobate\n[II]: (D) Influence (E) Modern (F) Devious",
+   "options": [
+    "B-D",
+    "C-E",
+    "A-E",
+    "C-F",
+    "A-D"
+   ],
+   "correct": 2,
+   "explanation": "'It's trickier to reconstruct' fits blank I (difficult, needing careful skill) and 'the modern Milky Way' fits blank II. 'Assiduity' and 'reprobate' are nouns that cannot follow 'it's ... to', and 'influence'/'devious' do not fit. Hence A-E.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q090",
+   "stage": "mains",
+   "section": "english",
+   "topic": "fillers",
+   "difficulty": 2,
+   "question": "A statement is given with two blanks. For each blank, three alternatives are provided in the columns. Choose the pair that makes the sentence grammatically correct and contextually meaningful.\n'Increasing urbanisation, evolving demographics, expanding renewables and changing market dynamics have placed ______[I] pressure on utilities to solve energy-delivery challenges in an economical manner in the shortest possible time with minimum ______[II],' the paper said.\n[I]: (A) Altercate (B) Duping (C) Extraordinary\n[II]: (D) Disruption (E) Protract (F) Perspicuous",
+   "options": [
+    "B-E",
+    "C-E",
+    "A-F",
+    "C-F",
+    "C-D"
+   ],
+   "correct": 4,
+   "explanation": "'Extraordinary pressure' fits blank I and 'with minimum disruption' fits blank II. 'Altercate' (argue) and 'duping' (deceiving) cannot modify 'pressure', while 'protract' and 'perspicuous' do not fit blank II. Hence C-D.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q091",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains19-set21",
+   "question": "As per the passage, why did the President of Iran sign the agreement?",
+   "options": [
+    "The president had to sign the deal because of the pressure from the States and the country's population.",
+    "The president had confidence that by signing the deal the sanctions over the country would be removed, thus improving the economy of the country.",
+    "Signing of the deal would help the nation to export the oil and the nuclear weapons easily.",
+    "Both (b) and (c)",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "The passage states that Rouhani concluded the agreement promising it would help lift sanctions and provide relief to Iran's economy - matching option (b). Nothing supports pressure from the population or easier export of nuclear weapons.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q092",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains19-set21",
+   "question": "As per the passage, what is the alternative that European nations are trying to work on to deal with Iran?",
+   "options": [
+    "The currency used for trading is being changed to European Peso from the US dollar.",
+    "Europe is trying to build a mechanism in which the trade would be done using the Barter system rather than the use of dollar.",
+    "Europe is building a corridor to Iran to trade directly with Iran and circumventing sanctions.",
+    "Europe has agreed to provide the additional budget required by Iran to build the nuclear weapons.",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "The passage mentions that European countries are working on a mechanism, still in its initial stages, allowing trade with Iran through a barter system that avoids the dollar and circumvents sanctions - option (b).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q093",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains19-set21",
+   "question": "Which of the following phrases would be used in (A) to form a contextually and grammatically correct sentence?",
+   "options": [
+    "some mechanical skill could carry out.",
+    "That would cut off access to about a fifth of the world's oil and a quarter of its natural gas",
+    "threaten to pull the UK and the international community into the escalating friction between Washington and Tehran",
+    "deepen cooperation with other signatories instead of breaking the deal",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "The sentence recommends a practical alternative for Iran to ending brinkmanship; 'deepen cooperation with other signatories instead of breaking the deal' is the only option that is both grammatically parallel and contextually consistent with the passage's argument.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q094",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains19-set22",
+   "question": "As per the passage, how can India fight against the vulnerabilities in space?",
+   "options": [
+    "India can take help from NASA and build strong spacecraft and satellites.",
+    "India can decentralise its space capabilities among various satellites and spacecraft in order to maintain the business continuity.",
+    "The government needs to provide ISRO with more budget and more resources so that the space missions can be completed effectively and efficiently.",
+    "Both (b) and (c)",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "The passage says the most basic way to secure space capabilities is to distribute them across many different satellites and spacecraft so that business continuity is unaffected even if an adversary disables some satellites - option (b). NASA help and a bigger ISRO budget are not mentioned.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q095",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains19-set22",
+   "question": "As per the passage, which of the following sentences depicts the meaning of the phrase 'playing with one hand tied behind one's back' as used in the passage?",
+   "options": [
+    "In this new space economy, India has the monopoly and there is no competition.",
+    "In this new space economy, India is playing with only one hand.",
+    "In this new space economy, India is playing very easily and not paying attention.",
+    "In this new space economy, India is not using all the resources that it has.",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "The phrase means competing at a self-imposed disadvantage: India relies on ISRO alone and does not tap private industry, i.e., it is not using all the resources it has - option (d).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q096",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains19-set22",
+   "question": "As per the passage, which of the following sentences is TRUE?",
+   "options": [
+    "The government is raising ISRO's budget and encouraging it to take up missions that push the technological frontiers.",
+    "Private space companies in nominally-Communist China have attracted more than half a billion dollars in investment since 2016.",
+    "India needs to increase its capacity to use space and should try to deny its nemesis the reliable use of space.",
+    "Both (a) and (c)",
+    "All are true"
+   ],
+   "correct": 2,
+   "explanation": "The opening of the passage states that India must ramp up both its capacity to use space and its capacity to deny adversaries the reliable use of space - option (c). The specific claims in (a) and (b) are not made in the passage.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q097",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains19-set22",
+   "question": "What can be inferred from the given passage?",
+   "options": [
+    "ISRO has burned more midnight oil than public money in its quest for a greater understanding of the shiny orb that has waxed and waned in our night sky from time immemorial.",
+    "ISRO's success shows that the public sector is not the arid wasteland of squandered resources many market fundamentalists like to portray it as.",
+    "The country must deregulate the space sector to encourage private enterprise if we are to compete in the new space economy.",
+    "India's avowed aim to pursue space research for the expansion of human knowledge got a mega lift as its second lunar mission got underway.",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "The passage concludes that India must deregulate the space sector and create an environment for private industry - hence option (c) is the valid inference.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q098",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains19-set23",
+   "question": "As per the passage, what would have been the effects of the decision of the tribunal judges on the banks?",
+   "options": [
+    "The usable assets and resources would be swiftly redeployed to the banks and the lenders.",
+    "The recoveries of the loan provided by the banks would be a far-fetched idea leading to the liquidation of debtors.",
+    "The banks would need to seek the permission from the government before lending the loans to the corporates and the businesses.",
+    "Both (b) and (c)",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "The passage says that if the tribunal's verdict had been upheld, banks would have had to give up substantial recoveries and push more salvageable debtors into liquidation - matching option (b).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q099",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains19-set23",
+   "question": "As per the passage, how was the money to be distributed among the creditors after the insolvency of a corporation (under the tribunal's ruling)?",
+   "options": [
+    "Unnecessary intervention of the banks would lead to the division of money among the shareholders and the board of directors.",
+    "The money would be deployed to the highest bidder and the remaining would be kept by the banks.",
+    "The money would be shared equally among the sundry suppliers and the unsecured lenders.",
+    "Both (a) and (b)",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "The passage explains that the process would have required financial creditors to share the money from any new buyer of a bankrupt business equally with miscellaneous suppliers and other unsecured lenders - option (c).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q100",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains19-set23",
+   "question": "As per the passage, which of the following sentences depicts the meaning of the phrase 'getting mired in' as used in the passage?\n(I) The legislation was getting bogged down in frustrating legal delays and bizarre judgments.\n(II) The legislation was getting tangled in frustrating legal delays and bizarre judgments.\n(III) The legislation was getting adjusted in the frustrating legal delays and bizarre judgments.",
+   "options": [
+    "Only (III)",
+    "Only (II)",
+    "Both (I) and (II)",
+    "Both (II) and (III)",
+    "All of the above"
+   ],
+   "correct": 2,
+   "explanation": "'Mired' means stuck or entangled in a difficult situation, so both 'bogged down' (I) and 'tangled' (II) capture the meaning; 'adjusted' (III) does not.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q101",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains19-set23",
+   "question": "What can be inferred from the given passage?",
+   "options": [
+    "The government's proposed changes to the 2016 insolvency law are bold, practical and badly needed.",
+    "Foreign investors in India's still-nascent market for impaired debt were stunned by the tribunal's order.",
+    "The Union cabinet's approval of amendments to the Insolvency and Bankruptcy Code (IBC) to enhance its efficacy could bring relief to banks.",
+    "Both (a) and (c)",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "The passage supports both that the amendments are practical and needed (they fill critical gaps and restore common sense) and that they could bring relief to banks (protecting recoveries) - hence both (a) and (c).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q102",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains19-set24",
+   "question": "As per the information given in the passage above, what has been the primary impediment in India-Russia trade?",
+   "options": [
+    "Indian government may be susceptible to fall prey to any external restrictions.",
+    "Engagement of the countries which are equally interested in extending their trade and business networks.",
+    "List of companies and persons under restrictions can be extended at any moment.",
+    "Paucity of independent banking infrastructure connecting India and Russia.",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "The passage identifies the lack of a smooth, independent banking infrastructure connecting the two countries as one of the main constraints in India-Russia trade - option (d).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q103",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains19-set24",
+   "question": "What has been the issue that has attracted the attention of banking officials in India and Russia?",
+   "options": [
+    "Use of an efficient platform and trusted financial interaction for a large number of actors globally.",
+    "Finding an alternative to payments as US Dollar payments have been put on hold.",
+    "Russian banks are ever denied access to the global system of financial messages.",
+    "Increased transparency and centralization of the international banking system.",
+    "Set the international trends in financial solutions."
+   ],
+   "correct": 1,
+   "explanation": "With US dollar payments put on hold in 2018, both countries had to look urgently for alternative payment solutions, and this is what drew the attention of bankers and decision-makers - option (b).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q104",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains19-set24",
+   "question": "What has been India's stance, as stated in the passage, with regard to trade with Russia?",
+   "options": [
+    "Development of an alternative trade partner is important and it is underway.",
+    "India and Russia have a unique opportunity to shape the future of global trade.",
+    "Cooperation in innovative technology and digital transformation.",
+    "The defence relations with Russia will not be affected despite pressure from the West.",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "Indian officials have consistently reiterated that defence relations with Russia will remain a priority despite unprecedented pressure from the West - option (d).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q105",
+   "stage": "mains",
+   "section": "english",
+   "topic": "phrase-replacement",
+   "difficulty": 3,
+   "question": "A sentence is given with a phrase in bold. Choose the phrase from the options which should replace the highlighted phrase to make the statement grammatically correct and contextually meaningful. If the highlighted phrase is correct, choose option (e).\nIn Thomas Walker's harpoon or frictionless log, introduced in 1861, the wheelwork was enclosed in a cylindrical case of the same diameter as the body of the rotator or fan, and the latter was brought **rattle off** to the register, forming a compact machine.",
+   "options": [
+    "pass off",
+    "close up",
+    "queer up",
+    "clear off",
+    "no replacement required"
+   ],
+   "correct": 1,
+   "explanation": "'Close up' means to join or bring together, which fits 'was brought close up to the register'. 'Rattle off' means to recite rapidly, 'pass off' to present falsely, 'queer up' to ruin, and 'clear off' to leave quickly - none fit the context.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q106",
+   "stage": "mains",
+   "section": "english",
+   "topic": "phrase-replacement",
+   "difficulty": 3,
+   "question": "A sentence is given with a phrase in bold. Choose the phrase from the options which should replace the highlighted phrase to make the statement grammatically correct and contextually meaningful. If the highlighted phrase is correct, choose option (e).\nThe cabinet minister **palmed off** his civil service team in front of a large audience after a paper required for a legislation committee had gone missing.",
+   "options": [
+    "marked out",
+    "packed away",
+    "bawled out",
+    "max out",
+    "no replacement required"
+   ],
+   "correct": 2,
+   "explanation": "'Bawled out' means to reprimand loudly or severely, which suits scolding the team over the missing paper. 'Palm off' means to pass something off as better than it is; 'mark out', 'pack away' and 'max out' do not fit.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q107",
+   "stage": "mains",
+   "section": "english",
+   "topic": "phrase-replacement",
+   "difficulty": 3,
+   "question": "A sentence is given with a phrase in bold. Choose the phrase from the options which should replace the highlighted phrase to make the statement grammatically correct and contextually meaningful. If the highlighted phrase is correct, choose option (e).\nGiven the pressure on CSPs to **latch on** margins, the router economics provided with this solution are most likely compelling enough for organizations to take a look.",
+   "options": [
+    "lash out",
+    "hook up",
+    "claw back",
+    "knuckle under",
+    "no replacement required"
+   ],
+   "correct": 2,
+   "explanation": "'Claw back' means to recover or retrieve (money/margins) gradually, fitting 'pressure to claw back margins'. 'Latch on' means to understand; 'lash out' (react angrily), 'hook up' (meet) and 'knuckle under' (submit) do not fit.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q108",
+   "stage": "mains",
+   "section": "english",
+   "topic": "phrase-replacement",
+   "difficulty": 3,
+   "question": "A sentence is given with a phrase in bold. Choose the phrase from the options which should replace the highlighted phrase to make the statement grammatically correct and contextually meaningful. If the highlighted phrase is correct, choose option (e).\nThe two then went head to head and nose to nose, even making contact with one another and continuing to **jam on** before eventually being separated and given offsetting technical fouls for their trouble.",
+   "options": [
+    "keel over",
+    "jazz up",
+    "jerk around",
+    "jaw away",
+    "no replacement required"
+   ],
+   "correct": 3,
+   "explanation": "'Jaw away' means to keep talking (trading words), which fits the two players continuing their verbal confrontation. 'Jam on' means to apply something forcefully; 'keel over' (collapse/give in), 'jazz up' (make attractive) and 'jerk around' (behave stupidly) do not fit.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q109",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains19-set25",
+   "question": "As per the information provided in the passage, what might be the possible reason for the colossal use of plastics in packaging?",
+   "options": [
+    "they are shatterproof and do not fragment into dangerous shards",
+    "they are low in weight but high in strength",
+    "make the manufacturing process economical",
+    "can be produced and used with tamper-evident features",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "The passage notes that plastics may be less expensive than other inputs in manufacturing, implying their heavy use in packaging is driven by economy - option (c).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q110",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains19-set25",
+   "question": "What have been the measures suggested in the above passage for combating plastic pollution?",
+   "options": [
+    "introducing or supporting legislation that would make plastic-bag use less desirable",
+    "switching to substitutes for packaging materials",
+    "upscaling waste segregation, collection and transmission",
+    "Both (b) and (c)",
+    "All (a), (b), (c)"
+   ],
+   "correct": 3,
+   "explanation": "The passage names two prongs of the solution: packaging innovation that reduces plastic use through alternatives, and increasing the separation, collection and dissemination of waste - i.e., both (b) and (c).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q111",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains19-set25",
+   "question": "What can be the possible inference drawn from the passage given above?",
+   "options": [
+    "Plant-based plastics, especially varieties made from sugar cane, are starting to seep into the mainstream.",
+    "Recycling is integral to addressing the problems posed by plastic packaging material.",
+    "Urban habitats are particularly at risk from plastic litter.",
+    "Every day our environment is being threatened by endless plastic pollution in the ocean.",
+    "Reckless tourism is adding to the plastic burden of the country."
+   ],
+   "correct": 1,
+   "explanation": "The passage centres on packaging plastic waste and stresses recycling it into new products as a substitute for virgin material - so recycling being integral to the solution (b) is the valid inference.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q112",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains19-set25",
+   "question": "What has been the flaw mentioned on the part of civic bodies in controlling pollution from plastic packaging?",
+   "options": [
+    "Recyclable waste is rendered useless as it gets mixed with other articles.",
+    "Municipal and pollution control bodies have not been held accountable for growing plastic pollution.",
+    "Civic bodies have been unsuccessful in convincing corporate giants to accumulate and process the waste.",
+    "Owing to lenient control by authorities, plastic pollution has resulted in choked landfills, drains and rivers and flows into the sea.",
+    "India being one of the most populous countries, authorities have failed to adjust the pollution levels with the demographic structure."
+   ],
+   "correct": 2,
+   "explanation": "The passage states that municipal and pollution control authorities have failed to persuade commercial giants to put in place a system to collect and process the waste - option (c).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q113",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains19-set26",
+   "question": "What are the factors mentioned in the passage which have hampered India's growth prospects?\n(i) prices of energy have shot through the roof\n(ii) amplified current account deficit\n(iii) tumbling value of rupee",
+   "options": [
+    "Both (i) and (ii)",
+    "Both (i) and (iii)",
+    "Only (i)",
+    "All (i), (ii), (iii)",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "The passage cites the widening current account deficit, the rupee falling about 16% with no recovery in sight, and fuel prices shooting through the roof as headwinds weighing on the economy - all three factors.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q114",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains19-set26",
+   "question": "How has Saudi Arabia replied diplomatically to the Indian Prime Minister's proposal for reduction of oil prices?",
+   "options": [
+    "The Saudi Arabian Energy Minister mentioned that while supply and demand affect oil prices, it is actually oil futures that set the price of oil.",
+    "Once the supply of cheap oil is exhausted, the price could conceivably rise if the only remaining oil is in the tar sands.",
+    "They refused to commit to lower prices and instead signalled towards higher prices if the country did not boost its supply.",
+    "The Saudi Arabian official stated that with so much oversupply in the industry, a decline in production decreases overall supply and increases prices.",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "The Saudi minister refused to openly commit to lower oil prices, saying prices could have been much higher but for his country's efforts to boost supply - matching option (c).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-mains19-q115",
+   "stage": "mains",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-mains19-set26",
+   "question": "What were the requests tabled by the Prime Minister in the meeting of oil ministers in the capital?",
+   "options": [
+    "To succor the global economy, the oil producing countries should taper the oil prices.",
+    "Intact use of rupee for payments by oil-importing countries to support the robustness of dollar.",
+    "Qualified use of rupee to truncate the strength of dollar.",
+    "Both (a) and (c)",
+    "Both (a) and (b)"
+   ],
+   "correct": 3,
+   "explanation": "The Prime Minister urged producers to reduce energy costs to aid the global economy (a) and sought the partial (qualified) use of the rupee instead of the dollar to ease the burden of the strengthening dollar (c). Option (b) misstates this as full use of the rupee to support the dollar.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Mains 2019 (memory-based, 50+ Papers book)",
+    "year": 2019
+   },
+   "tags": [
+    "pyq"
+   ]
+  }
+ ],
+ "paper": {
+  "id": "sbi-po-mains-2019",
+  "name": "SBI PO Mains 2019",
+  "exam": "sbi-po",
+  "stage": "mains",
+  "year": 2019,
+  "sections": [
+   {
+    "name": "Reasoning Ability",
+    "pool": "reasoning",
+    "minutes": 54,
+    "marksPerQuestion": 1,
+    "questionIds": [
+     "pyq-sbipo-mains19-q001",
+     "pyq-sbipo-mains19-q002",
+     "pyq-sbipo-mains19-q003",
+     "pyq-sbipo-mains19-q004",
+     "pyq-sbipo-mains19-q005",
+     "pyq-sbipo-mains19-q006",
+     "pyq-sbipo-mains19-q007",
+     "pyq-sbipo-mains19-q008",
+     "pyq-sbipo-mains19-q009",
+     "pyq-sbipo-mains19-q010",
+     "pyq-sbipo-mains19-q011",
+     "pyq-sbipo-mains19-q012",
+     "pyq-sbipo-mains19-q013",
+     "pyq-sbipo-mains19-q014",
+     "pyq-sbipo-mains19-q015",
+     "pyq-sbipo-mains19-q016",
+     "pyq-sbipo-mains19-q017",
+     "pyq-sbipo-mains19-q018",
+     "pyq-sbipo-mains19-q019",
+     "pyq-sbipo-mains19-q020",
+     "pyq-sbipo-mains19-q021",
+     "pyq-sbipo-mains19-q022",
+     "pyq-sbipo-mains19-q023",
+     "pyq-sbipo-mains19-q024",
+     "pyq-sbipo-mains19-q025",
+     "pyq-sbipo-mains19-q026",
+     "pyq-sbipo-mains19-q027",
+     "pyq-sbipo-mains19-q028",
+     "pyq-sbipo-mains19-q029",
+     "pyq-sbipo-mains19-q030",
+     "pyq-sbipo-mains19-q031",
+     "pyq-sbipo-mains19-q032",
+     "pyq-sbipo-mains19-q033",
+     "pyq-sbipo-mains19-q034",
+     "pyq-sbipo-mains19-q035",
+     "pyq-sbipo-mains19-q036",
+     "pyq-sbipo-mains19-q037",
+     "pyq-sbipo-mains19-q038",
+     "pyq-sbipo-mains19-q039",
+     "pyq-sbipo-mains19-q040",
+     "pyq-sbipo-mains19-q041",
+     "pyq-sbipo-mains19-q042",
+     "pyq-sbipo-mains19-q043",
+     "pyq-sbipo-mains19-q044",
+     "pyq-sbipo-mains19-q045"
+    ]
+   },
+   {
+    "name": "Quantitative Aptitude",
+    "pool": "quant",
+    "minutes": 42,
+    "marksPerQuestion": 1,
+    "questionIds": [
+     "pyq-sbipo-mains19-q046",
+     "pyq-sbipo-mains19-q047",
+     "pyq-sbipo-mains19-q048",
+     "pyq-sbipo-mains19-q049",
+     "pyq-sbipo-mains19-q050",
+     "pyq-sbipo-mains19-q051",
+     "pyq-sbipo-mains19-q052",
+     "pyq-sbipo-mains19-q053",
+     "pyq-sbipo-mains19-q054",
+     "pyq-sbipo-mains19-q055",
+     "pyq-sbipo-mains19-q056",
+     "pyq-sbipo-mains19-q057",
+     "pyq-sbipo-mains19-q058",
+     "pyq-sbipo-mains19-q059",
+     "pyq-sbipo-mains19-q060",
+     "pyq-sbipo-mains19-q061",
+     "pyq-sbipo-mains19-q062",
+     "pyq-sbipo-mains19-q063",
+     "pyq-sbipo-mains19-q064",
+     "pyq-sbipo-mains19-q065",
+     "pyq-sbipo-mains19-q066",
+     "pyq-sbipo-mains19-q067",
+     "pyq-sbipo-mains19-q068",
+     "pyq-sbipo-mains19-q069",
+     "pyq-sbipo-mains19-q070",
+     "pyq-sbipo-mains19-q071",
+     "pyq-sbipo-mains19-q072",
+     "pyq-sbipo-mains19-q073",
+     "pyq-sbipo-mains19-q074",
+     "pyq-sbipo-mains19-q075",
+     "pyq-sbipo-mains19-q076",
+     "pyq-sbipo-mains19-q077",
+     "pyq-sbipo-mains19-q078",
+     "pyq-sbipo-mains19-q079",
+     "pyq-sbipo-mains19-q080"
+    ]
+   },
+   {
+    "name": "English Language",
+    "pool": "english",
+    "minutes": 42,
+    "marksPerQuestion": 1,
+    "questionIds": [
+     "pyq-sbipo-mains19-q081",
+     "pyq-sbipo-mains19-q082",
+     "pyq-sbipo-mains19-q083",
+     "pyq-sbipo-mains19-q084",
+     "pyq-sbipo-mains19-q085",
+     "pyq-sbipo-mains19-q086",
+     "pyq-sbipo-mains19-q087",
+     "pyq-sbipo-mains19-q088",
+     "pyq-sbipo-mains19-q089",
+     "pyq-sbipo-mains19-q090",
+     "pyq-sbipo-mains19-q091",
+     "pyq-sbipo-mains19-q092",
+     "pyq-sbipo-mains19-q093",
+     "pyq-sbipo-mains19-q094",
+     "pyq-sbipo-mains19-q095",
+     "pyq-sbipo-mains19-q096",
+     "pyq-sbipo-mains19-q097",
+     "pyq-sbipo-mains19-q098",
+     "pyq-sbipo-mains19-q099",
+     "pyq-sbipo-mains19-q100",
+     "pyq-sbipo-mains19-q101",
+     "pyq-sbipo-mains19-q102",
+     "pyq-sbipo-mains19-q103",
+     "pyq-sbipo-mains19-q104",
+     "pyq-sbipo-mains19-q105",
+     "pyq-sbipo-mains19-q106",
+     "pyq-sbipo-mains19-q107",
+     "pyq-sbipo-mains19-q108",
+     "pyq-sbipo-mains19-q109",
+     "pyq-sbipo-mains19-q110",
+     "pyq-sbipo-mains19-q111",
+     "pyq-sbipo-mains19-q112",
+     "pyq-sbipo-mains19-q113",
+     "pyq-sbipo-mains19-q114",
+     "pyq-sbipo-mains19-q115"
+    ]
+   }
+  ]
+ }
+}
