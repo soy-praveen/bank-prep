@@ -1,0 +1,112 @@
+[
+ {
+  "file": "sbi-po-pre-2015.json",
+  "year": 2015,
+  "title": "SBI PO Prelims 2015",
+  "sections": {
+   "reasoning": 35,
+   "quant": 34,
+   "english": 30
+  }
+ },
+ {
+  "file": "sbi-po-pre-2016.json",
+  "year": 2016,
+  "title": "SBI PO Prelims 2016",
+  "sections": {
+   "reasoning": 35,
+   "quant": 35,
+   "english": 30
+  }
+ },
+ {
+  "file": "sbi-po-pre-2017.json",
+  "year": 2017,
+  "title": "SBI PO Prelims 2017",
+  "sections": {
+   "reasoning": 35,
+   "quant": 35,
+   "english": 30
+  }
+ },
+ {
+  "file": "sbi-po-pre-2018.json",
+  "year": 2018,
+  "title": "SBI PO Prelims 2018",
+  "sections": {
+   "reasoning": 30,
+   "quant": 35,
+   "english": 29
+  }
+ },
+ {
+  "file": "sbi-po-pre-2019.json",
+  "year": 2019,
+  "title": "SBI PO Prelims 2019",
+  "sections": {
+   "reasoning": 35,
+   "quant": 35,
+   "english": 30
+  }
+ },
+ {
+  "file": "sbi-po-pre-2020.json",
+  "year": 2020,
+  "title": "SBI PO Prelims 2020",
+  "sections": {
+   "english": 30,
+   "quant": 35,
+   "reasoning": 35
+  }
+ },
+ {
+  "file": "sbi-po-pre-2021.json",
+  "year": 2021,
+  "title": "SBI PO Prelims 2021",
+  "sections": {
+   "reasoning": 30,
+   "quant": 30,
+   "english": 40
+  }
+ },
+ {
+  "file": "sbi-po-pre-2022.json",
+  "year": 2022,
+  "title": "SBI PO Prelims 2022",
+  "sections": {
+   "reasoning": 30,
+   "quant": 30,
+   "english": 40
+  }
+ },
+ {
+  "file": "sbi-po-pre-2023.json",
+  "year": 2023,
+  "title": "SBI PO Prelims 2023",
+  "sections": {
+   "english": 40,
+   "quant": 30,
+   "reasoning": 30
+  }
+ },
+ {
+  "file": "sbi-po-pre-2024.json",
+  "year": 2024,
+  "title": "SBI PO Prelims 2024",
+  "sections": {
+   "english": 40,
+   "quant": 30,
+   "reasoning": 30
+  }
+ },
+ {
+  "file": "sbi-po-pre-2025.json",
+  "year": 2025,
+  "title": "SBI PO Prelims 2025",
+  "sections": {
+   "english": 40,
+   "quant": 30,
+   "reasoning": 30
+  }
+ }
+]

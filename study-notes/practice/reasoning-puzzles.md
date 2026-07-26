@@ -195,7 +195,7 @@ Solved arrangement, read clockwise starting at P:
 How it locks (facing centre → left = clockwise, right = anticlockwise). Fix P. T immediately left (clockwise) of P (clue 1). R second left of P, i.e. next clockwise after T (clue 2). Q opposite P, four seats away (clue 3). W immediately right (anticlockwise) of Q sits just before Q clockwise (clue 4); U immediately left of Q sits just after Q clockwise (clue 5). S second right of P and V immediately right of P fill the two seats on P's anticlockwise side (clues 6, 7). The clockwise ring is P, T, R, W, Q, U, S, V.
 
 - **Q1 → b) Q.** Q is defined as directly opposite P.
-- **Q2 → b) V.** Third to the left (clockwise) of U: U → S → V → … lands on V.
+- **Q2 → a) P.** Third to the left (facing centre, left = clockwise) of U: S is 1st, V is 2nd, **P is 3rd**.
 - **Q3 → b) 2.** Clockwise from T to Q you pass R and W — two people.
 - **Q4 → c) T.** Second to the right (anticlockwise) of W: W → R → T lands on T.
 - **Q5 → a) U and V.** S sits between U (clockwise side) and V (anticlockwise side).

@@ -453,7 +453,7 @@
         "1"
       ],
       "correct": 3,
-      "solution": "**2.** \"42\" = good boy and \"43\" = good girl share the digit 4, which must be the shared word \"good\". So in \"good boy\" (42), the remaining digit 2 = \"boy\". (\"51\" = bad boy just confirms boy is a single digit, here 2 does not appear because 51 uses different digits for bad/boy — the pin comes from 42 vs 43.) Arrangement with positions:",
+      "solution": "**2.** \"42\" = good boy and \"43\" = good girl share the digit 4, which must be the shared word \"good\". So in \"good boy\" (42), the remaining digit 2 = \"boy\". (\"51\" = bad boy just confirms boy is a single digit, here 2 does not appear because 51 uses different digits for bad/boy — the pin comes from 42 vs 43.)",
       "trick": "Find \"good\" from the two sentences that share it (4), then the leftover digit of \"good boy\" is boy = 2."
     },
     {

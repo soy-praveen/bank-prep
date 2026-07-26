@@ -1,0 +1,250 @@
+[
+ {
+  "slug": "quant-arithmetic",
+  "title": "Arithmetic Word Problems \u2014 Practice",
+  "section": "quant",
+  "kind": "quiz",
+  "category": "core",
+  "count": 25
+ },
+ {
+  "slug": "quant-di",
+  "title": "Data Interpretation \u2014 Practice",
+  "section": "quant",
+  "kind": "quiz",
+  "category": "core",
+  "count": 25
+ },
+ {
+  "slug": "quant-quadratic-qc-ds",
+  "title": "Quadratics, Quantity Comparison & Data Sufficiency \u2014 Practice",
+  "section": "quant",
+  "kind": "quiz",
+  "category": "core",
+  "count": 20
+ },
+ {
+  "slug": "quant-simplification-series",
+  "title": "Simplification, Approximation & Number Series \u2014 Practice",
+  "section": "quant",
+  "kind": "quiz",
+  "category": "core",
+  "count": 20
+ },
+ {
+  "slug": "reasoning-misc",
+  "title": "Blood Relations, Direction, Coding, Alphanumeric & Ranking \u2014 Practice",
+  "section": "reasoning",
+  "kind": "quiz",
+  "category": "core",
+  "count": 20
+ },
+ {
+  "slug": "reasoning-puzzles",
+  "title": "Puzzles & Seating \u2014 Practice",
+  "section": "reasoning",
+  "kind": "quiz",
+  "category": "core",
+  "count": 25
+ },
+ {
+  "slug": "reasoning-syllogism-inequality",
+  "title": "Syllogism & Inequality \u2014 Practice",
+  "section": "reasoning",
+  "kind": "quiz",
+  "category": "core",
+  "count": 20
+ },
+ {
+  "slug": "english-grammar",
+  "title": "Error Spotting, Sentence Improvement, Para-Jumbles & Word Usage \u2014 Practice",
+  "section": "english",
+  "kind": "quiz",
+  "category": "core",
+  "count": 24
+ },
+ {
+  "slug": "english-rc-cloze",
+  "title": "Reading Comprehension, Cloze & Fillers \u2014 Practice",
+  "section": "english",
+  "kind": "quiz",
+  "category": "core",
+  "count": 22
+ },
+ {
+  "slug": "quant-arithmetic-v2",
+  "title": "Arithmetic Word Problems \u2014 Practice (Vol. 2)",
+  "section": "quant",
+  "kind": "quiz",
+  "category": "volume",
+  "count": 50
+ },
+ {
+  "slug": "quant-arithmetic-v3",
+  "title": "Arithmetic Word Problems \u2014 Practice (Vol. 3)",
+  "section": "quant",
+  "kind": "quiz",
+  "category": "volume",
+  "count": 50
+ },
+ {
+  "slug": "quant-di-v2",
+  "title": "Data Interpretation \u2014 Practice (Vol. 2)",
+  "section": "quant",
+  "kind": "quiz",
+  "category": "volume",
+  "count": 30
+ },
+ {
+  "slug": "quant-di-v3",
+  "title": "Data Interpretation \u2014 Practice (Vol. 3)",
+  "section": "quant",
+  "kind": "quiz",
+  "category": "volume",
+  "count": 30
+ },
+ {
+  "slug": "quant-quadratic-qc-ds-v2",
+  "title": "Quadratics, Quantity Comparison & Data Sufficiency \u2014 Practice (Vol. 2)",
+  "section": "quant",
+  "kind": "quiz",
+  "category": "volume",
+  "count": 40
+ },
+ {
+  "slug": "quant-series-v2",
+  "title": "Number Series \u2014 Practice (Vol. 2)",
+  "section": "quant",
+  "kind": "quiz",
+  "category": "volume",
+  "count": 40
+ },
+ {
+  "slug": "quant-simplification-v2",
+  "title": "Simplification & Approximation \u2014 Practice (Vol. 2)",
+  "section": "quant",
+  "kind": "quiz",
+  "category": "volume",
+  "count": 40
+ },
+ {
+  "slug": "reasoning-coding-v2",
+  "title": "Coding-Decoding \u2014 Practice (Vol. 2)",
+  "section": "reasoning",
+  "kind": "quiz",
+  "category": "volume",
+  "count": 30
+ },
+ {
+  "slug": "reasoning-misc-v2",
+  "title": "Blood Relations, Direction, Coding, Alphanumeric & Ranking \u2014 Practice (Vol. 2)",
+  "section": "reasoning",
+  "kind": "quiz",
+  "category": "volume",
+  "count": 40
+ },
+ {
+  "slug": "reasoning-puzzles-v2",
+  "title": "Puzzles & Seating \u2014 Practice (Vol. 2)",
+  "section": "reasoning",
+  "kind": "quiz",
+  "category": "volume",
+  "count": 30
+ },
+ {
+  "slug": "reasoning-puzzles-v3",
+  "title": "Puzzles & Seating \u2014 Practice (Vol. 3)",
+  "section": "reasoning",
+  "kind": "quiz",
+  "category": "volume",
+  "count": 30
+ },
+ {
+  "slug": "reasoning-syllogism-inequality-v2",
+  "title": "Syllogism & Inequality \u2014 Practice (Vol. 2)",
+  "section": "reasoning",
+  "kind": "quiz",
+  "category": "volume",
+  "count": 40
+ },
+ {
+  "slug": "english-grammar-v2",
+  "title": "Error Spotting, Sentence Improvement & Word Usage \u2014 Practice (Vol. 2)",
+  "section": "english",
+  "kind": "quiz",
+  "category": "volume",
+  "count": 50
+ },
+ {
+  "slug": "english-jumbles-fillers-v2",
+  "title": "Para-Jumbles, Fillers & Cloze \u2014 Practice (Vol. 2)",
+  "section": "english",
+  "kind": "quiz",
+  "category": "volume",
+  "count": 38
+ },
+ {
+  "slug": "english-rc-v2",
+  "title": "Reading Comprehension & Cloze \u2014 Practice (Vol. 2)",
+  "section": "english",
+  "kind": "quiz",
+  "category": "volume",
+  "count": 25
+ },
+ {
+  "slug": "quant-speed-drill",
+  "title": "Quant Speed Drills (100 rapid calcs)",
+  "section": "quant",
+  "kind": "speed",
+  "category": "strategy",
+  "count": 100
+ },
+ {
+  "slug": "quant-trap-busters",
+  "title": "Quant Trap-Busters \u2014 Practice",
+  "section": "quant",
+  "kind": "quiz",
+  "category": "strategy",
+  "count": 40
+ },
+ {
+  "slug": "reasoning-trap-busters",
+  "title": "Reasoning Trap-Busters \u2014 Practice",
+  "section": "reasoning",
+  "kind": "quiz",
+  "category": "strategy",
+  "count": 40
+ },
+ {
+  "slug": "english-trap-busters",
+  "title": "English Trap-Busters \u2014 Practice",
+  "section": "english",
+  "kind": "quiz",
+  "category": "strategy",
+  "count": 40
+ },
+ {
+  "slug": "mini-mock-1",
+  "title": "Mixed Mini-Mock 1",
+  "section": "mixed",
+  "kind": "quiz",
+  "category": "mock",
+  "count": 30
+ },
+ {
+  "slug": "mini-mock-2",
+  "title": "Mixed Mini-Mock 2",
+  "section": "mixed",
+  "kind": "quiz",
+  "category": "mock",
+  "count": 30
+ },
+ {
+  "slug": "mini-mock-3",
+  "title": "Mixed Mini-Mock 3",
+  "section": "mixed",
+  "kind": "quiz",
+  "category": "mock",
+  "count": 30
+ }
+]

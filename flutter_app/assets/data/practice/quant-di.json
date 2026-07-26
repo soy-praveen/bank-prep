@@ -337,7 +337,7 @@
         "920"
       ],
       "correct": 2,
-      "solution": "Base figures: Boys = 60% of 2000 = 1200; Girls = 800.\n- Boys: Science 40% = 480, Commerce 25% = 300, Arts 35% = 420. (480+300+420 = 1200 ✓)\n- Girls: Science 50% = 400, Commerce 25% = 200, Arts 25% = 200. (400+200+200 = 800 ✓)\n\n**Trick (whole set):** Build the base table first — split boys/girls, then break each into streams — before touching any question. One clean table answers all five parts.\nScience = boys 480 + girls 400 = **880**.",
+      "solution": "Base figures: Boys = 60% of 2000 = 1200; Girls = 800.\n- Boys: Science 40% = 480, Commerce 25% = 300, Arts 35% = 420. (480+300+420 = 1200, checks)\n- Girls: Science 50% = 400, Commerce 25% = 200, Arts 25% = 200. (400+200+200 = 800, checks)\n\n**Trick (whole set):** Build the base table first — split boys/girls, then break each into streams — before touching any question. One clean table answers all five parts.\nScience = boys 480 + girls 400 = **880**.",
       "trick": "Add the two Science cells from the base table; don't recompute percentages."
     },
     {

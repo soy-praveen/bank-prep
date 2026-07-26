@@ -314,7 +314,7 @@ e) Ocassion
 
 **29. b) address.** To "address concerns" = to deal with them; the sentence is positive about the policy. **Trick:** The other four options are all negative (aggravate/ignore/dismiss/neglect) — the odd positive one is your answer.
 
-**30. b) Occasion.** One c, two s. **Trick:** Remember "occaSion" — double s, single c and single n.
+**30. b) Occasion.** Double c, single s. **Trick:** Remember "oCCasion" — two c, one s, one n.
 
 ---
 

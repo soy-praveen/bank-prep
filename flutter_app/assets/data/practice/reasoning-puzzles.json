@@ -1,408 +1,408 @@
 {
-  "title": "Puzzles & Seating — Practice",
-  "section": "reasoning",
-  "kind": "quiz",
-  "source": "reasoning-puzzles.md",
-  "questions": [
-    {
-      "id": "reasoning-puzzles-q001",
-      "group": "Set 1 — Linear seating (single row, single direction)",
-      "context": "Seven people — A, B, C, D, E, F and G — sit in a straight row. All of them face north. Positions are counted from left to right, so position 1 is the leftmost seat and position 7 is the rightmost. In every clue, \"left\" means toward position 1 and \"right\" means toward position 7.\n\nClues:\n1. C sits exactly in the middle of the row.\n2. D sits at the extreme left end.\n3. There are three persons sitting between D and F.\n4. A sits immediately to the left of C.\n5. G sits at the extreme right end.\n6. B sits immediately to the right of D.",
-      "question": "Who sits at the extreme right end?",
-      "options": [
-        "E",
-        "F",
-        "G",
-        "D",
-        "A"
-      ],
-      "correct": 2,
-      "solution": "Solved arrangement (left to right):\n\n| Pos 1 | Pos 2 | Pos 3 | Pos 4 | Pos 5 | Pos 6 | Pos 7 |\n|-------|-------|-------|-------|-------|-------|-------|\n| D | B | A | C | F | E | G |\n\nHow it locks: C is the middle of 7 seats, so C = 4 (clue 1). D is the extreme left, D = 1 (clue 2). Three persons between D and F places F at seat 5 (clue 3). A immediately left of C gives A = 3 (clue 4). G at the extreme right, G = 7 (clue 5). B immediately right of D gives B = 2 (clue 6). Only seat 6 is left, so E = 6.\n\nG is fixed at the extreme right end (seat 7).",
-      "trick": "Anchor the fixed \"end\" and \"middle\" clues first (D, C, G), then hang the \"immediately/…between\" clues off them. \"N persons between X and Y\" leaves N seats in the gap, so three between D(1) puts F at 1+3+1 = 5. Fill the last empty seat by elimination rather than searching for a clue for it."
-    },
-    {
-      "id": "reasoning-puzzles-q002",
-      "group": "Set 1 — Linear seating (single row, single direction)",
-      "context": "Seven people — A, B, C, D, E, F and G — sit in a straight row. All of them face north. Positions are counted from left to right, so position 1 is the leftmost seat and position 7 is the rightmost. In every clue, \"left\" means toward position 1 and \"right\" means toward position 7.\n\nClues:\n1. C sits exactly in the middle of the row.\n2. D sits at the extreme left end.\n3. There are three persons sitting between D and F.\n4. A sits immediately to the left of C.\n5. G sits at the extreme right end.\n6. B sits immediately to the right of D.",
-      "question": "How many persons sit between B and F?",
-      "options": [
-        "1",
-        "2",
-        "3",
-        "4",
-        "None"
-      ],
-      "correct": 1,
-      "solution": "Solved arrangement (left to right):\n\n| Pos 1 | Pos 2 | Pos 3 | Pos 4 | Pos 5 | Pos 6 | Pos 7 |\n|-------|-------|-------|-------|-------|-------|-------|\n| D | B | A | C | F | E | G |\n\nHow it locks: C is the middle of 7 seats, so C = 4 (clue 1). D is the extreme left, D = 1 (clue 2). Three persons between D and F places F at seat 5 (clue 3). A immediately left of C gives A = 3 (clue 4). G at the extreme right, G = 7 (clue 5). B immediately right of D gives B = 2 (clue 6). Only seat 6 is left, so E = 6.\n\nBetween B (2) and F (5) sit A and C — two persons.",
-      "trick": "Anchor the fixed \"end\" and \"middle\" clues first (D, C, G), then hang the \"immediately/…between\" clues off them. \"N persons between X and Y\" leaves N seats in the gap, so three between D(1) puts F at 1+3+1 = 5. Fill the last empty seat by elimination rather than searching for a clue for it."
-    },
-    {
-      "id": "reasoning-puzzles-q003",
-      "group": "Set 1 — Linear seating (single row, single direction)",
-      "context": "Seven people — A, B, C, D, E, F and G — sit in a straight row. All of them face north. Positions are counted from left to right, so position 1 is the leftmost seat and position 7 is the rightmost. In every clue, \"left\" means toward position 1 and \"right\" means toward position 7.\n\nClues:\n1. C sits exactly in the middle of the row.\n2. D sits at the extreme left end.\n3. There are three persons sitting between D and F.\n4. A sits immediately to the left of C.\n5. G sits at the extreme right end.\n6. B sits immediately to the right of D.",
-      "question": "Who sits third to the right of A?",
-      "options": [
-        "C",
-        "F",
-        "E",
-        "G",
-        "B"
-      ],
-      "correct": 2,
-      "solution": "Solved arrangement (left to right):\n\n| Pos 1 | Pos 2 | Pos 3 | Pos 4 | Pos 5 | Pos 6 | Pos 7 |\n|-------|-------|-------|-------|-------|-------|-------|\n| D | B | A | C | F | E | G |\n\nHow it locks: C is the middle of 7 seats, so C = 4 (clue 1). D is the extreme left, D = 1 (clue 2). Three persons between D and F places F at seat 5 (clue 3). A immediately left of C gives A = 3 (clue 4). G at the extreme right, G = 7 (clue 5). B immediately right of D gives B = 2 (clue 6). Only seat 6 is left, so E = 6.\n\nThird to the right of A (3) is seat 6, which is E.",
-      "trick": "Anchor the fixed \"end\" and \"middle\" clues first (D, C, G), then hang the \"immediately/…between\" clues off them. \"N persons between X and Y\" leaves N seats in the gap, so three between D(1) puts F at 1+3+1 = 5. Fill the last empty seat by elimination rather than searching for a clue for it."
-    },
-    {
-      "id": "reasoning-puzzles-q004",
-      "group": "Set 1 — Linear seating (single row, single direction)",
-      "context": "Seven people — A, B, C, D, E, F and G — sit in a straight row. All of them face north. Positions are counted from left to right, so position 1 is the leftmost seat and position 7 is the rightmost. In every clue, \"left\" means toward position 1 and \"right\" means toward position 7.\n\nClues:\n1. C sits exactly in the middle of the row.\n2. D sits at the extreme left end.\n3. There are three persons sitting between D and F.\n4. A sits immediately to the left of C.\n5. G sits at the extreme right end.\n6. B sits immediately to the right of D.",
-      "question": "Which of the following pairs are the two immediate neighbours of C?",
-      "options": [
-        "B and F",
-        "A and F",
-        "A and E",
-        "F and E",
-        "D and A"
-      ],
-      "correct": 1,
-      "solution": "Solved arrangement (left to right):\n\n| Pos 1 | Pos 2 | Pos 3 | Pos 4 | Pos 5 | Pos 6 | Pos 7 |\n|-------|-------|-------|-------|-------|-------|-------|\n| D | B | A | C | F | E | G |\n\nHow it locks: C is the middle of 7 seats, so C = 4 (clue 1). D is the extreme left, D = 1 (clue 2). Three persons between D and F places F at seat 5 (clue 3). A immediately left of C gives A = 3 (clue 4). G at the extreme right, G = 7 (clue 5). B immediately right of D gives B = 2 (clue 6). Only seat 6 is left, so E = 6.\n\nC is at seat 4; its neighbours are A (3) and F (5).",
-      "trick": "Anchor the fixed \"end\" and \"middle\" clues first (D, C, G), then hang the \"immediately/…between\" clues off them. \"N persons between X and Y\" leaves N seats in the gap, so three between D(1) puts F at 1+3+1 = 5. Fill the last empty seat by elimination rather than searching for a clue for it."
-    },
-    {
-      "id": "reasoning-puzzles-q005",
-      "group": "Set 1 — Linear seating (single row, single direction)",
-      "context": "Seven people — A, B, C, D, E, F and G — sit in a straight row. All of them face north. Positions are counted from left to right, so position 1 is the leftmost seat and position 7 is the rightmost. In every clue, \"left\" means toward position 1 and \"right\" means toward position 7.\n\nClues:\n1. C sits exactly in the middle of the row.\n2. D sits at the extreme left end.\n3. There are three persons sitting between D and F.\n4. A sits immediately to the left of C.\n5. G sits at the extreme right end.\n6. B sits immediately to the right of D.",
-      "question": "Who sits exactly between D and A?",
-      "options": [
-        "C",
-        "F",
-        "E",
-        "B",
-        "A"
-      ],
-      "correct": 3,
-      "solution": "Solved arrangement (left to right):\n\n| Pos 1 | Pos 2 | Pos 3 | Pos 4 | Pos 5 | Pos 6 | Pos 7 |\n|-------|-------|-------|-------|-------|-------|-------|\n| D | B | A | C | F | E | G |\n\nHow it locks: C is the middle of 7 seats, so C = 4 (clue 1). D is the extreme left, D = 1 (clue 2). Three persons between D and F places F at seat 5 (clue 3). A immediately left of C gives A = 3 (clue 4). G at the extreme right, G = 7 (clue 5). B immediately right of D gives B = 2 (clue 6). Only seat 6 is left, so E = 6.\n\nBetween D (1) and A (3) is seat 2, which is B.",
-      "trick": "Anchor the fixed \"end\" and \"middle\" clues first (D, C, G), then hang the \"immediately/…between\" clues off them. \"N persons between X and Y\" leaves N seats in the gap, so three between D(1) puts F at 1+3+1 = 5. Fill the last empty seat by elimination rather than searching for a clue for it."
-    },
-    {
-      "id": "reasoning-puzzles-q006",
-      "group": "Set 2 — Circular seating (eight people, facing the centre)",
-      "context": "Eight people — P, Q, R, S, T, U, V and W — sit around a circular table and all of them face the centre. Because they face the centre, each person's left hand points in the clockwise direction and each person's right hand points in the anticlockwise direction. So \"to the left\" means the next seat clockwise and \"to the right\" means the next seat anticlockwise.\n\nClues:\n1. T sits immediately to the left of P.\n2. R sits second to the left of P.\n3. Q sits exactly opposite P.\n4. W sits immediately to the right of Q.\n5. U sits immediately to the left of Q.\n6. S sits second to the right of P.\n7. V sits immediately to the right of P.",
-      "question": "Who sits exactly opposite P?",
-      "options": [
-        "U",
-        "Q",
-        "S",
-        "W",
-        "T"
-      ],
-      "correct": 1,
-      "solution": "Solved arrangement, read clockwise starting at P:\n\n| Clockwise order | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |\n|-----------------|---|---|---|---|---|---|---|---|\n| Person | P | T | R | W | Q | U | S | V |\n\nHow it locks (facing centre → left = clockwise, right = anticlockwise). Fix P. T immediately left (clockwise) of P (clue 1). R second left of P, i.e. next clockwise after T (clue 2). Q opposite P, four seats away (clue 3). W immediately right (anticlockwise) of Q sits just before Q clockwise (clue 4); U immediately left of Q sits just after Q clockwise (clue 5). S second right of P and V immediately right of P fill the two seats on P's anticlockwise side (clues 6, 7). The clockwise ring is P, T, R, W, Q, U, S, V.\n\nQ is defined as directly opposite P.",
-      "trick": "Convert the direction words once — facing centre, left is clockwise and right is anticlockwise — then treat the ring like a clock. \"Nth to the left\" means N steps clockwise (N−1 people sit in between). Draw one circle, pin P, and place everything relative to P so rotational symmetry never confuses you."
-    },
-    {
-      "id": "reasoning-puzzles-q007",
-      "group": "Set 2 — Circular seating (eight people, facing the centre)",
-      "context": "Eight people — P, Q, R, S, T, U, V and W — sit around a circular table and all of them face the centre. Because they face the centre, each person's left hand points in the clockwise direction and each person's right hand points in the anticlockwise direction. So \"to the left\" means the next seat clockwise and \"to the right\" means the next seat anticlockwise.\n\nClues:\n1. T sits immediately to the left of P.\n2. R sits second to the left of P.\n3. Q sits exactly opposite P.\n4. W sits immediately to the right of Q.\n5. U sits immediately to the left of Q.\n6. S sits second to the right of P.\n7. V sits immediately to the right of P.",
-      "question": "Who sits third to the left of U?",
-      "options": [
-        "P",
-        "V",
-        "S",
-        "R",
-        "W"
-      ],
-      "correct": 1,
-      "solution": "Solved arrangement, read clockwise starting at P:\n\n| Clockwise order | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |\n|-----------------|---|---|---|---|---|---|---|---|\n| Person | P | T | R | W | Q | U | S | V |\n\nHow it locks (facing centre → left = clockwise, right = anticlockwise). Fix P. T immediately left (clockwise) of P (clue 1). R second left of P, i.e. next clockwise after T (clue 2). Q opposite P, four seats away (clue 3). W immediately right (anticlockwise) of Q sits just before Q clockwise (clue 4); U immediately left of Q sits just after Q clockwise (clue 5). S second right of P and V immediately right of P fill the two seats on P's anticlockwise side (clues 6, 7). The clockwise ring is P, T, R, W, Q, U, S, V.\n\nThird to the left (clockwise) of U: U → S → V → … lands on V.",
-      "trick": "Convert the direction words once — facing centre, left is clockwise and right is anticlockwise — then treat the ring like a clock. \"Nth to the left\" means N steps clockwise (N−1 people sit in between). Draw one circle, pin P, and place everything relative to P so rotational symmetry never confuses you."
-    },
-    {
-      "id": "reasoning-puzzles-q008",
-      "group": "Set 2 — Circular seating (eight people, facing the centre)",
-      "context": "Eight people — P, Q, R, S, T, U, V and W — sit around a circular table and all of them face the centre. Because they face the centre, each person's left hand points in the clockwise direction and each person's right hand points in the anticlockwise direction. So \"to the left\" means the next seat clockwise and \"to the right\" means the next seat anticlockwise.\n\nClues:\n1. T sits immediately to the left of P.\n2. R sits second to the left of P.\n3. Q sits exactly opposite P.\n4. W sits immediately to the right of Q.\n5. U sits immediately to the left of Q.\n6. S sits second to the right of P.\n7. V sits immediately to the right of P.",
-      "question": "How many people sit between T and Q when counted clockwise from T?",
-      "options": [
-        "1",
-        "2",
-        "3",
-        "4",
-        "None"
-      ],
-      "correct": 1,
-      "solution": "Solved arrangement, read clockwise starting at P:\n\n| Clockwise order | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |\n|-----------------|---|---|---|---|---|---|---|---|\n| Person | P | T | R | W | Q | U | S | V |\n\nHow it locks (facing centre → left = clockwise, right = anticlockwise). Fix P. T immediately left (clockwise) of P (clue 1). R second left of P, i.e. next clockwise after T (clue 2). Q opposite P, four seats away (clue 3). W immediately right (anticlockwise) of Q sits just before Q clockwise (clue 4); U immediately left of Q sits just after Q clockwise (clue 5). S second right of P and V immediately right of P fill the two seats on P's anticlockwise side (clues 6, 7). The clockwise ring is P, T, R, W, Q, U, S, V.\n\nClockwise from T to Q you pass R and W — two people.",
-      "trick": "Convert the direction words once — facing centre, left is clockwise and right is anticlockwise — then treat the ring like a clock. \"Nth to the left\" means N steps clockwise (N−1 people sit in between). Draw one circle, pin P, and place everything relative to P so rotational symmetry never confuses you."
-    },
-    {
-      "id": "reasoning-puzzles-q009",
-      "group": "Set 2 — Circular seating (eight people, facing the centre)",
-      "context": "Eight people — P, Q, R, S, T, U, V and W — sit around a circular table and all of them face the centre. Because they face the centre, each person's left hand points in the clockwise direction and each person's right hand points in the anticlockwise direction. So \"to the left\" means the next seat clockwise and \"to the right\" means the next seat anticlockwise.\n\nClues:\n1. T sits immediately to the left of P.\n2. R sits second to the left of P.\n3. Q sits exactly opposite P.\n4. W sits immediately to the right of Q.\n5. U sits immediately to the left of Q.\n6. S sits second to the right of P.\n7. V sits immediately to the right of P.",
-      "question": "Who sits second to the right of W?",
-      "options": [
-        "R",
-        "P",
-        "T",
-        "S",
-        "U"
-      ],
-      "correct": 2,
-      "solution": "Solved arrangement, read clockwise starting at P:\n\n| Clockwise order | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |\n|-----------------|---|---|---|---|---|---|---|---|\n| Person | P | T | R | W | Q | U | S | V |\n\nHow it locks (facing centre → left = clockwise, right = anticlockwise). Fix P. T immediately left (clockwise) of P (clue 1). R second left of P, i.e. next clockwise after T (clue 2). Q opposite P, four seats away (clue 3). W immediately right (anticlockwise) of Q sits just before Q clockwise (clue 4); U immediately left of Q sits just after Q clockwise (clue 5). S second right of P and V immediately right of P fill the two seats on P's anticlockwise side (clues 6, 7). The clockwise ring is P, T, R, W, Q, U, S, V.\n\nSecond to the right (anticlockwise) of W: W → R → T lands on T.",
-      "trick": "Convert the direction words once — facing centre, left is clockwise and right is anticlockwise — then treat the ring like a clock. \"Nth to the left\" means N steps clockwise (N−1 people sit in between). Draw one circle, pin P, and place everything relative to P so rotational symmetry never confuses you."
-    },
-    {
-      "id": "reasoning-puzzles-q010",
-      "group": "Set 2 — Circular seating (eight people, facing the centre)",
-      "context": "Eight people — P, Q, R, S, T, U, V and W — sit around a circular table and all of them face the centre. Because they face the centre, each person's left hand points in the clockwise direction and each person's right hand points in the anticlockwise direction. So \"to the left\" means the next seat clockwise and \"to the right\" means the next seat anticlockwise.\n\nClues:\n1. T sits immediately to the left of P.\n2. R sits second to the left of P.\n3. Q sits exactly opposite P.\n4. W sits immediately to the right of Q.\n5. U sits immediately to the left of Q.\n6. S sits second to the right of P.\n7. V sits immediately to the right of P.",
-      "question": "Which pair sits immediately adjacent to S (on either side)?",
-      "options": [
-        "U and V",
-        "Q and U",
-        "P and V",
-        "T and R",
-        "W and Q"
-      ],
-      "correct": 0,
-      "solution": "Solved arrangement, read clockwise starting at P:\n\n| Clockwise order | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |\n|-----------------|---|---|---|---|---|---|---|---|\n| Person | P | T | R | W | Q | U | S | V |\n\nHow it locks (facing centre → left = clockwise, right = anticlockwise). Fix P. T immediately left (clockwise) of P (clue 1). R second left of P, i.e. next clockwise after T (clue 2). Q opposite P, four seats away (clue 3). W immediately right (anticlockwise) of Q sits just before Q clockwise (clue 4); U immediately left of Q sits just after Q clockwise (clue 5). S second right of P and V immediately right of P fill the two seats on P's anticlockwise side (clues 6, 7). The clockwise ring is P, T, R, W, Q, U, S, V.\n\nS sits between U (clockwise side) and V (anticlockwise side).",
-      "trick": "Convert the direction words once — facing centre, left is clockwise and right is anticlockwise — then treat the ring like a clock. \"Nth to the left\" means N steps clockwise (N−1 people sit in between). Draw one circle, pin P, and place everything relative to P so rotational symmetry never confuses you."
-    },
-    {
-      "id": "reasoning-puzzles-q011",
-      "group": "Set 3 — Floors + car colour (double variable)",
-      "context": "A seven-storey building has floors numbered 1 (lowest) to 7 (topmost). Seven people — L, M, N, O, P, Q and R — live on these floors, one person per floor. Each owns a car of a different colour among Red, Blue, Green, White, Black, Yellow and Pink.\n\nClues:\n1. Only two people live above P.\n2. M lives on an even-numbered floor that is above P.\n3. R lives immediately above M.\n4. Q lives on the lowest floor.\n5. N lives immediately above Q.\n6. L lives immediately below O.\n7. The person on the topmost floor owns the Pink car.\n8. Q owns the Red car.\n9. N owns the Blue car.\n10. The Black car owner lives immediately below the Pink car owner.\n11. The Green car owner lives immediately above the White car owner.\n12. The Yellow car owner lives immediately above the Green car owner.",
-      "question": "Who lives on floor 4?",
-      "options": [
-        "P",
-        "O",
-        "L",
-        "M",
-        "N"
-      ],
-      "correct": 1,
-      "solution": "Solved arrangement (top to bottom):\n\n| Floor | Person | Car colour |\n|-------|--------|-----------|\n| 7 | R | Pink |\n| 6 | M | Black |\n| 5 | P | Yellow |\n| 4 | O | Green |\n| 3 | L | White |\n| 2 | N | Blue |\n| 1 | Q | Red |\n\nPass 1 (positions): \"Only two above P\" → P = 5 (clue 1). The even floor above 5 is 6, so M = 6 (clue 2), and R immediately above M → R = 7 (clue 3). Q lowest → floor 1, N immediately above → floor 2 (clues 4, 5). That leaves floors 3 and 4 for L and O with L immediately below O (clue 6): L = 3, O = 4.\n\nPass 2 (colours via bridge clues): topmost owns Pink → R = Pink (clue 7). Q = Red (clue 8), N = Blue (clue 9). Black immediately below Pink → floor 6 = M = Black (clue 10). The Yellow-Green-White stack must be consecutive with Yellow on top (clues 11, 12); the only free consecutive floors are 5-4-3, giving P = Yellow, O = Green, L = White.\n\nFloor 4 is O.",
-      "trick": "Two-pass grid. Solve all the floor positions first using only the position clues (P, M, R, Q, N, then L/O by elimination). Only then bring in the colour clues, which act as bridges: a fixed anchor (Pink on top, Red for Q) plus a rigid consecutive block (Yellow-Green-White) drops straight into the one gap left."
-    },
-    {
-      "id": "reasoning-puzzles-q012",
-      "group": "Set 3 — Floors + car colour (double variable)",
-      "context": "A seven-storey building has floors numbered 1 (lowest) to 7 (topmost). Seven people — L, M, N, O, P, Q and R — live on these floors, one person per floor. Each owns a car of a different colour among Red, Blue, Green, White, Black, Yellow and Pink.\n\nClues:\n1. Only two people live above P.\n2. M lives on an even-numbered floor that is above P.\n3. R lives immediately above M.\n4. Q lives on the lowest floor.\n5. N lives immediately above Q.\n6. L lives immediately below O.\n7. The person on the topmost floor owns the Pink car.\n8. Q owns the Red car.\n9. N owns the Blue car.\n10. The Black car owner lives immediately below the Pink car owner.\n11. The Green car owner lives immediately above the White car owner.\n12. The Yellow car owner lives immediately above the Green car owner.",
-      "question": "Which colour car does the person on floor 3 own?",
-      "options": [
-        "Green",
-        "Blue",
-        "White",
-        "Black",
-        "Yellow"
-      ],
-      "correct": 2,
-      "solution": "Solved arrangement (top to bottom):\n\n| Floor | Person | Car colour |\n|-------|--------|-----------|\n| 7 | R | Pink |\n| 6 | M | Black |\n| 5 | P | Yellow |\n| 4 | O | Green |\n| 3 | L | White |\n| 2 | N | Blue |\n| 1 | Q | Red |\n\nPass 1 (positions): \"Only two above P\" → P = 5 (clue 1). The even floor above 5 is 6, so M = 6 (clue 2), and R immediately above M → R = 7 (clue 3). Q lowest → floor 1, N immediately above → floor 2 (clues 4, 5). That leaves floors 3 and 4 for L and O with L immediately below O (clue 6): L = 3, O = 4.\n\nPass 2 (colours via bridge clues): topmost owns Pink → R = Pink (clue 7). Q = Red (clue 8), N = Blue (clue 9). Black immediately below Pink → floor 6 = M = Black (clue 10). The Yellow-Green-White stack must be consecutive with Yellow on top (clues 11, 12); the only free consecutive floors are 5-4-3, giving P = Yellow, O = Green, L = White.\n\nFloor 3 is L, who owns White.",
-      "trick": "Two-pass grid. Solve all the floor positions first using only the position clues (P, M, R, Q, N, then L/O by elimination). Only then bring in the colour clues, which act as bridges: a fixed anchor (Pink on top, Red for Q) plus a rigid consecutive block (Yellow-Green-White) drops straight into the one gap left."
-    },
-    {
-      "id": "reasoning-puzzles-q013",
-      "group": "Set 3 — Floors + car colour (double variable)",
-      "context": "A seven-storey building has floors numbered 1 (lowest) to 7 (topmost). Seven people — L, M, N, O, P, Q and R — live on these floors, one person per floor. Each owns a car of a different colour among Red, Blue, Green, White, Black, Yellow and Pink.\n\nClues:\n1. Only two people live above P.\n2. M lives on an even-numbered floor that is above P.\n3. R lives immediately above M.\n4. Q lives on the lowest floor.\n5. N lives immediately above Q.\n6. L lives immediately below O.\n7. The person on the topmost floor owns the Pink car.\n8. Q owns the Red car.\n9. N owns the Blue car.\n10. The Black car owner lives immediately below the Pink car owner.\n11. The Green car owner lives immediately above the White car owner.\n12. The Yellow car owner lives immediately above the Green car owner.",
-      "question": "How many people live between the Blue car owner and the Black car owner?",
-      "options": [
-        "2",
-        "3",
-        "4",
-        "1",
-        "5"
-      ],
-      "correct": 1,
-      "solution": "Solved arrangement (top to bottom):\n\n| Floor | Person | Car colour |\n|-------|--------|-----------|\n| 7 | R | Pink |\n| 6 | M | Black |\n| 5 | P | Yellow |\n| 4 | O | Green |\n| 3 | L | White |\n| 2 | N | Blue |\n| 1 | Q | Red |\n\nPass 1 (positions): \"Only two above P\" → P = 5 (clue 1). The even floor above 5 is 6, so M = 6 (clue 2), and R immediately above M → R = 7 (clue 3). Q lowest → floor 1, N immediately above → floor 2 (clues 4, 5). That leaves floors 3 and 4 for L and O with L immediately below O (clue 6): L = 3, O = 4.\n\nPass 2 (colours via bridge clues): topmost owns Pink → R = Pink (clue 7). Q = Red (clue 8), N = Blue (clue 9). Black immediately below Pink → floor 6 = M = Black (clue 10). The Yellow-Green-White stack must be consecutive with Yellow on top (clues 11, 12); the only free consecutive floors are 5-4-3, giving P = Yellow, O = Green, L = White.\n\nBlue is floor 2, Black is floor 6; floors 3, 4, 5 lie between — three people.",
-      "trick": "Two-pass grid. Solve all the floor positions first using only the position clues (P, M, R, Q, N, then L/O by elimination). Only then bring in the colour clues, which act as bridges: a fixed anchor (Pink on top, Red for Q) plus a rigid consecutive block (Yellow-Green-White) drops straight into the one gap left."
-    },
-    {
-      "id": "reasoning-puzzles-q014",
-      "group": "Set 3 — Floors + car colour (double variable)",
-      "context": "A seven-storey building has floors numbered 1 (lowest) to 7 (topmost). Seven people — L, M, N, O, P, Q and R — live on these floors, one person per floor. Each owns a car of a different colour among Red, Blue, Green, White, Black, Yellow and Pink.\n\nClues:\n1. Only two people live above P.\n2. M lives on an even-numbered floor that is above P.\n3. R lives immediately above M.\n4. Q lives on the lowest floor.\n5. N lives immediately above Q.\n6. L lives immediately below O.\n7. The person on the topmost floor owns the Pink car.\n8. Q owns the Red car.\n9. N owns the Blue car.\n10. The Black car owner lives immediately below the Pink car owner.\n11. The Green car owner lives immediately above the White car owner.\n12. The Yellow car owner lives immediately above the Green car owner.",
-      "question": "Who owns the Yellow car?",
-      "options": [
-        "O",
-        "M",
-        "P",
-        "R",
-        "L"
-      ],
-      "correct": 2,
-      "solution": "Solved arrangement (top to bottom):\n\n| Floor | Person | Car colour |\n|-------|--------|-----------|\n| 7 | R | Pink |\n| 6 | M | Black |\n| 5 | P | Yellow |\n| 4 | O | Green |\n| 3 | L | White |\n| 2 | N | Blue |\n| 1 | Q | Red |\n\nPass 1 (positions): \"Only two above P\" → P = 5 (clue 1). The even floor above 5 is 6, so M = 6 (clue 2), and R immediately above M → R = 7 (clue 3). Q lowest → floor 1, N immediately above → floor 2 (clues 4, 5). That leaves floors 3 and 4 for L and O with L immediately below O (clue 6): L = 3, O = 4.\n\nPass 2 (colours via bridge clues): topmost owns Pink → R = Pink (clue 7). Q = Red (clue 8), N = Blue (clue 9). Black immediately below Pink → floor 6 = M = Black (clue 10). The Yellow-Green-White stack must be consecutive with Yellow on top (clues 11, 12); the only free consecutive floors are 5-4-3, giving P = Yellow, O = Green, L = White.\n\nYellow is floor 5, which is P.",
-      "trick": "Two-pass grid. Solve all the floor positions first using only the position clues (P, M, R, Q, N, then L/O by elimination). Only then bring in the colour clues, which act as bridges: a fixed anchor (Pink on top, Red for Q) plus a rigid consecutive block (Yellow-Green-White) drops straight into the one gap left."
-    },
-    {
-      "id": "reasoning-puzzles-q015",
-      "group": "Set 3 — Floors + car colour (double variable)",
-      "context": "A seven-storey building has floors numbered 1 (lowest) to 7 (topmost). Seven people — L, M, N, O, P, Q and R — live on these floors, one person per floor. Each owns a car of a different colour among Red, Blue, Green, White, Black, Yellow and Pink.\n\nClues:\n1. Only two people live above P.\n2. M lives on an even-numbered floor that is above P.\n3. R lives immediately above M.\n4. Q lives on the lowest floor.\n5. N lives immediately above Q.\n6. L lives immediately below O.\n7. The person on the topmost floor owns the Pink car.\n8. Q owns the Red car.\n9. N owns the Blue car.\n10. The Black car owner lives immediately below the Pink car owner.\n11. The Green car owner lives immediately above the White car owner.\n12. The Yellow car owner lives immediately above the Green car owner.",
-      "question": "M owns which colour car?",
-      "options": [
-        "Pink",
-        "Black",
-        "Green",
-        "Yellow",
-        "Blue"
-      ],
-      "correct": 1,
-      "solution": "Solved arrangement (top to bottom):\n\n| Floor | Person | Car colour |\n|-------|--------|-----------|\n| 7 | R | Pink |\n| 6 | M | Black |\n| 5 | P | Yellow |\n| 4 | O | Green |\n| 3 | L | White |\n| 2 | N | Blue |\n| 1 | Q | Red |\n\nPass 1 (positions): \"Only two above P\" → P = 5 (clue 1). The even floor above 5 is 6, so M = 6 (clue 2), and R immediately above M → R = 7 (clue 3). Q lowest → floor 1, N immediately above → floor 2 (clues 4, 5). That leaves floors 3 and 4 for L and O with L immediately below O (clue 6): L = 3, O = 4.\n\nPass 2 (colours via bridge clues): topmost owns Pink → R = Pink (clue 7). Q = Red (clue 8), N = Blue (clue 9). Black immediately below Pink → floor 6 = M = Black (clue 10). The Yellow-Green-White stack must be consecutive with Yellow on top (clues 11, 12); the only free consecutive floors are 5-4-3, giving P = Yellow, O = Green, L = White.\n\nM is on floor 6, the Black car owner.",
-      "trick": "Two-pass grid. Solve all the floor positions first using only the position clues (P, M, R, Q, N, then L/O by elimination). Only then bring in the colour clues, which act as bridges: a fixed anchor (Pink on top, Red for Q) plus a rigid consecutive block (Yellow-Green-White) drops straight into the one gap left."
-    },
-    {
-      "id": "reasoning-puzzles-q016",
-      "group": "Set 4 — Months + city (double variable)",
-      "context": "Six people — P, Q, R, S, T and U — each attend a seminar in a different month. The six months, in chronological order, are January, March, May, July, September and November. Each person is from a different city among Delhi, Mumbai, Pune, Kochi, Patna and Surat.\n\nClues:\n1. R attends in November (the last of the six months).\n2. Only one person attends before S.\n3. P attends immediately before S.\n4. T attends immediately before R.\n5. Q attends in an earlier month than U.\n6. The person attending in January is from Delhi.\n7. R is from Patna.\n8. The Mumbai person attends immediately after the Delhi person.\n9. Q is from Surat.\n10. The Pune person attends immediately before the Kochi person.",
-      "question": "Who attends in July?",
-      "options": [
-        "Q",
-        "T",
-        "U",
-        "P",
-        "S"
-      ],
-      "correct": 2,
-      "solution": "Solved arrangement (earliest to latest):\n\n| Month | Person | City |\n|-------|--------|------|\n| January | P | Delhi |\n| March | S | Mumbai |\n| May | Q | Surat |\n| July | U | Pune |\n| September | T | Kochi |\n| November | R | Patna |\n\nPass 1 (months): R = November (clue 1). \"Only one person before S\" → S is 2nd = March (clue 2); P immediately before S → P = January (clue 3). T immediately before R → T = September (clue 4). The two open months, May and July, go to Q and U with Q earlier (clue 5): Q = May, U = July.\n\nPass 2 (cities via bridge clues): January person is Delhi → P = Delhi (clue 6). R = Patna (clue 7). Mumbai immediately after Delhi → March = S = Mumbai (clue 8). Q = Surat (clue 9). The remaining Pune and Kochi are consecutive with Pune first (clue 10); the only free consecutive slot is July-September, so U = Pune, T = Kochi.\n\nJuly is U.",
-      "trick": "Treat the six ordered months exactly like six seats in a row and solve positions first (anchor R at the end, count \"only one before S,\" chain the immediate-before clues). Then layer cities on with the same bridge idea: one anchor (Delhi in January) plus a consecutive Pune-Kochi block fills the last gap."
-    },
-    {
-      "id": "reasoning-puzzles-q017",
-      "group": "Set 4 — Months + city (double variable)",
-      "context": "Six people — P, Q, R, S, T and U — each attend a seminar in a different month. The six months, in chronological order, are January, March, May, July, September and November. Each person is from a different city among Delhi, Mumbai, Pune, Kochi, Patna and Surat.\n\nClues:\n1. R attends in November (the last of the six months).\n2. Only one person attends before S.\n3. P attends immediately before S.\n4. T attends immediately before R.\n5. Q attends in an earlier month than U.\n6. The person attending in January is from Delhi.\n7. R is from Patna.\n8. The Mumbai person attends immediately after the Delhi person.\n9. Q is from Surat.\n10. The Pune person attends immediately before the Kochi person.",
-      "question": "Q is from which city?",
-      "options": [
-        "Pune",
-        "Surat",
-        "Delhi",
-        "Kochi",
-        "Patna"
-      ],
-      "correct": 1,
-      "solution": "Solved arrangement (earliest to latest):\n\n| Month | Person | City |\n|-------|--------|------|\n| January | P | Delhi |\n| March | S | Mumbai |\n| May | Q | Surat |\n| July | U | Pune |\n| September | T | Kochi |\n| November | R | Patna |\n\nPass 1 (months): R = November (clue 1). \"Only one person before S\" → S is 2nd = March (clue 2); P immediately before S → P = January (clue 3). T immediately before R → T = September (clue 4). The two open months, May and July, go to Q and U with Q earlier (clue 5): Q = May, U = July.\n\nPass 2 (cities via bridge clues): January person is Delhi → P = Delhi (clue 6). R = Patna (clue 7). Mumbai immediately after Delhi → March = S = Mumbai (clue 8). Q = Surat (clue 9). The remaining Pune and Kochi are consecutive with Pune first (clue 10); the only free consecutive slot is July-September, so U = Pune, T = Kochi.\n\nQ is stated to be from Surat.",
-      "trick": "Treat the six ordered months exactly like six seats in a row and solve positions first (anchor R at the end, count \"only one before S,\" chain the immediate-before clues). Then layer cities on with the same bridge idea: one anchor (Delhi in January) plus a consecutive Pune-Kochi block fills the last gap."
-    },
-    {
-      "id": "reasoning-puzzles-q018",
-      "group": "Set 4 — Months + city (double variable)",
-      "context": "Six people — P, Q, R, S, T and U — each attend a seminar in a different month. The six months, in chronological order, are January, March, May, July, September and November. Each person is from a different city among Delhi, Mumbai, Pune, Kochi, Patna and Surat.\n\nClues:\n1. R attends in November (the last of the six months).\n2. Only one person attends before S.\n3. P attends immediately before S.\n4. T attends immediately before R.\n5. Q attends in an earlier month than U.\n6. The person attending in January is from Delhi.\n7. R is from Patna.\n8. The Mumbai person attends immediately after the Delhi person.\n9. Q is from Surat.\n10. The Pune person attends immediately before the Kochi person.",
-      "question": "How many people attend between the Delhi person and the Kochi person?",
-      "options": [
-        "2",
-        "3",
-        "4",
-        "1",
-        "5"
-      ],
-      "correct": 1,
-      "solution": "Solved arrangement (earliest to latest):\n\n| Month | Person | City |\n|-------|--------|------|\n| January | P | Delhi |\n| March | S | Mumbai |\n| May | Q | Surat |\n| July | U | Pune |\n| September | T | Kochi |\n| November | R | Patna |\n\nPass 1 (months): R = November (clue 1). \"Only one person before S\" → S is 2nd = March (clue 2); P immediately before S → P = January (clue 3). T immediately before R → T = September (clue 4). The two open months, May and July, go to Q and U with Q earlier (clue 5): Q = May, U = July.\n\nPass 2 (cities via bridge clues): January person is Delhi → P = Delhi (clue 6). R = Patna (clue 7). Mumbai immediately after Delhi → March = S = Mumbai (clue 8). Q = Surat (clue 9). The remaining Pune and Kochi are consecutive with Pune first (clue 10); the only free consecutive slot is July-September, so U = Pune, T = Kochi.\n\nDelhi = January, Kochi = September; March, May, July lie between — three people.",
-      "trick": "Treat the six ordered months exactly like six seats in a row and solve positions first (anchor R at the end, count \"only one before S,\" chain the immediate-before clues). Then layer cities on with the same bridge idea: one anchor (Delhi in January) plus a consecutive Pune-Kochi block fills the last gap."
-    },
-    {
-      "id": "reasoning-puzzles-q019",
-      "group": "Set 4 — Months + city (double variable)",
-      "context": "Six people — P, Q, R, S, T and U — each attend a seminar in a different month. The six months, in chronological order, are January, March, May, July, September and November. Each person is from a different city among Delhi, Mumbai, Pune, Kochi, Patna and Surat.\n\nClues:\n1. R attends in November (the last of the six months).\n2. Only one person attends before S.\n3. P attends immediately before S.\n4. T attends immediately before R.\n5. Q attends in an earlier month than U.\n6. The person attending in January is from Delhi.\n7. R is from Patna.\n8. The Mumbai person attends immediately after the Delhi person.\n9. Q is from Surat.\n10. The Pune person attends immediately before the Kochi person.",
-      "question": "Who attends immediately before R?",
-      "options": [
-        "U",
-        "Q",
-        "T",
-        "S",
-        "P"
-      ],
-      "correct": 2,
-      "solution": "Solved arrangement (earliest to latest):\n\n| Month | Person | City |\n|-------|--------|------|\n| January | P | Delhi |\n| March | S | Mumbai |\n| May | Q | Surat |\n| July | U | Pune |\n| September | T | Kochi |\n| November | R | Patna |\n\nPass 1 (months): R = November (clue 1). \"Only one person before S\" → S is 2nd = March (clue 2); P immediately before S → P = January (clue 3). T immediately before R → T = September (clue 4). The two open months, May and July, go to Q and U with Q earlier (clue 5): Q = May, U = July.\n\nPass 2 (cities via bridge clues): January person is Delhi → P = Delhi (clue 6). R = Patna (clue 7). Mumbai immediately after Delhi → March = S = Mumbai (clue 8). Q = Surat (clue 9). The remaining Pune and Kochi are consecutive with Pune first (clue 10); the only free consecutive slot is July-September, so U = Pune, T = Kochi.\n\nT (September) attends immediately before R (November).",
-      "trick": "Treat the six ordered months exactly like six seats in a row and solve positions first (anchor R at the end, count \"only one before S,\" chain the immediate-before clues). Then layer cities on with the same bridge idea: one anchor (Delhi in January) plus a consecutive Pune-Kochi block fills the last gap."
-    },
-    {
-      "id": "reasoning-puzzles-q020",
-      "group": "Set 4 — Months + city (double variable)",
-      "context": "Six people — P, Q, R, S, T and U — each attend a seminar in a different month. The six months, in chronological order, are January, March, May, July, September and November. Each person is from a different city among Delhi, Mumbai, Pune, Kochi, Patna and Surat.\n\nClues:\n1. R attends in November (the last of the six months).\n2. Only one person attends before S.\n3. P attends immediately before S.\n4. T attends immediately before R.\n5. Q attends in an earlier month than U.\n6. The person attending in January is from Delhi.\n7. R is from Patna.\n8. The Mumbai person attends immediately after the Delhi person.\n9. Q is from Surat.\n10. The Pune person attends immediately before the Kochi person.",
-      "question": "The person from Pune attends in which month?",
-      "options": [
-        "May",
-        "July",
-        "September",
-        "March",
-        "January"
-      ],
-      "correct": 1,
-      "solution": "Solved arrangement (earliest to latest):\n\n| Month | Person | City |\n|-------|--------|------|\n| January | P | Delhi |\n| March | S | Mumbai |\n| May | Q | Surat |\n| July | U | Pune |\n| September | T | Kochi |\n| November | R | Patna |\n\nPass 1 (months): R = November (clue 1). \"Only one person before S\" → S is 2nd = March (clue 2); P immediately before S → P = January (clue 3). T immediately before R → T = September (clue 4). The two open months, May and July, go to Q and U with Q earlier (clue 5): Q = May, U = July.\n\nPass 2 (cities via bridge clues): January person is Delhi → P = Delhi (clue 6). R = Patna (clue 7). Mumbai immediately after Delhi → March = S = Mumbai (clue 8). Q = Surat (clue 9). The remaining Pune and Kochi are consecutive with Pune first (clue 10); the only free consecutive slot is July-September, so U = Pune, T = Kochi.\n\nPune is U, who attends in July.",
-      "trick": "Treat the six ordered months exactly like six seats in a row and solve positions first (anchor R at the end, count \"only one before S,\" chain the immediate-before clues). Then layer cities on with the same bridge idea: one anchor (Delhi in January) plus a consecutive Pune-Kochi block fills the last gap."
-    },
-    {
-      "id": "reasoning-puzzles-q021",
-      "group": "Set 5 — Box stacking (seven boxes, one above another)",
-      "context": "Seven boxes — A, B, C, D, E, F and G — are stacked one directly above another. Position 1 is the bottom of the stack and position 7 is the top.\n\nClues:\n1. Only two boxes are kept above D.\n2. G is kept immediately below D.\n3. F is kept at the bottom of the stack.\n4. C is kept immediately above F.\n5. A is kept between C and G.\n6. E is kept at the top of the stack.",
-      "question": "Which box is at the top of the stack?",
-      "options": [
-        "B",
-        "D",
-        "E",
-        "G",
-        "A"
-      ],
-      "correct": 2,
-      "solution": "Solved arrangement (top to bottom):\n\n| Position | Box |\n|----------|-----|\n| 7 (top) | E |\n| 6 | B |\n| 5 | D |\n| 4 | G |\n| 3 | A |\n| 2 | C |\n| 1 (bottom) | F |\n\nHow it locks: \"Only two boxes above D\" → D = 5 (clue 1). G immediately below D → G = 4 (clue 2). F at the bottom → F = 1 (clue 3); C immediately above F → C = 2 (clue 4). A between C (2) and G (4) → A = 3 (clue 5). E at the top → E = 7 (clue 6). The lone empty slot 6 takes B.\n\nE is fixed at the top.",
-      "trick": "Vertical stacks are just a linear row turned upright — fix the \"top / bottom / N above\" anchors first (D from \"two above,\" F and E from the ends), then place the \"immediately above/below\" and \"between\" boxes off them. Whenever every clue is used but one box is unplaced, drop it into the single empty position by elimination instead of hunting for another clue."
-    },
-    {
-      "id": "reasoning-puzzles-q022",
-      "group": "Set 5 — Box stacking (seven boxes, one above another)",
-      "context": "Seven boxes — A, B, C, D, E, F and G — are stacked one directly above another. Position 1 is the bottom of the stack and position 7 is the top.\n\nClues:\n1. Only two boxes are kept above D.\n2. G is kept immediately below D.\n3. F is kept at the bottom of the stack.\n4. C is kept immediately above F.\n5. A is kept between C and G.\n6. E is kept at the top of the stack.",
-      "question": "How many boxes are kept between F and D?",
-      "options": [
-        "2",
-        "3",
-        "4",
-        "1",
-        "5"
-      ],
-      "correct": 1,
-      "solution": "Solved arrangement (top to bottom):\n\n| Position | Box |\n|----------|-----|\n| 7 (top) | E |\n| 6 | B |\n| 5 | D |\n| 4 | G |\n| 3 | A |\n| 2 | C |\n| 1 (bottom) | F |\n\nHow it locks: \"Only two boxes above D\" → D = 5 (clue 1). G immediately below D → G = 4 (clue 2). F at the bottom → F = 1 (clue 3); C immediately above F → C = 2 (clue 4). A between C (2) and G (4) → A = 3 (clue 5). E at the top → E = 7 (clue 6). The lone empty slot 6 takes B.\n\nBetween F (1) and D (5) sit C, A and G — three boxes.",
-      "trick": "Vertical stacks are just a linear row turned upright — fix the \"top / bottom / N above\" anchors first (D from \"two above,\" F and E from the ends), then place the \"immediately above/below\" and \"between\" boxes off them. Whenever every clue is used but one box is unplaced, drop it into the single empty position by elimination instead of hunting for another clue."
-    },
-    {
-      "id": "reasoning-puzzles-q023",
-      "group": "Set 5 — Box stacking (seven boxes, one above another)",
-      "context": "Seven boxes — A, B, C, D, E, F and G — are stacked one directly above another. Position 1 is the bottom of the stack and position 7 is the top.\n\nClues:\n1. Only two boxes are kept above D.\n2. G is kept immediately below D.\n3. F is kept at the bottom of the stack.\n4. C is kept immediately above F.\n5. A is kept between C and G.\n6. E is kept at the top of the stack.",
-      "question": "Which box is kept immediately above A?",
-      "options": [
-        "D",
-        "G",
-        "C",
-        "B",
-        "F"
-      ],
-      "correct": 1,
-      "solution": "Solved arrangement (top to bottom):\n\n| Position | Box |\n|----------|-----|\n| 7 (top) | E |\n| 6 | B |\n| 5 | D |\n| 4 | G |\n| 3 | A |\n| 2 | C |\n| 1 (bottom) | F |\n\nHow it locks: \"Only two boxes above D\" → D = 5 (clue 1). G immediately below D → G = 4 (clue 2). F at the bottom → F = 1 (clue 3); C immediately above F → C = 2 (clue 4). A between C (2) and G (4) → A = 3 (clue 5). E at the top → E = 7 (clue 6). The lone empty slot 6 takes B.\n\nImmediately above A (3) is position 4, box G.",
-      "trick": "Vertical stacks are just a linear row turned upright — fix the \"top / bottom / N above\" anchors first (D from \"two above,\" F and E from the ends), then place the \"immediately above/below\" and \"between\" boxes off them. Whenever every clue is used but one box is unplaced, drop it into the single empty position by elimination instead of hunting for another clue."
-    },
-    {
-      "id": "reasoning-puzzles-q024",
-      "group": "Set 5 — Box stacking (seven boxes, one above another)",
-      "context": "Seven boxes — A, B, C, D, E, F and G — are stacked one directly above another. Position 1 is the bottom of the stack and position 7 is the top.\n\nClues:\n1. Only two boxes are kept above D.\n2. G is kept immediately below D.\n3. F is kept at the bottom of the stack.\n4. C is kept immediately above F.\n5. A is kept between C and G.\n6. E is kept at the top of the stack.",
-      "question": "Which box is kept just below B?",
-      "options": [
-        "G",
-        "D",
-        "E",
-        "A",
-        "C"
-      ],
-      "correct": 1,
-      "solution": "Solved arrangement (top to bottom):\n\n| Position | Box |\n|----------|-----|\n| 7 (top) | E |\n| 6 | B |\n| 5 | D |\n| 4 | G |\n| 3 | A |\n| 2 | C |\n| 1 (bottom) | F |\n\nHow it locks: \"Only two boxes above D\" → D = 5 (clue 1). G immediately below D → G = 4 (clue 2). F at the bottom → F = 1 (clue 3); C immediately above F → C = 2 (clue 4). A between C (2) and G (4) → A = 3 (clue 5). E at the top → E = 7 (clue 6). The lone empty slot 6 takes B.\n\nJust below B (6) is position 5, box D.",
-      "trick": "Vertical stacks are just a linear row turned upright — fix the \"top / bottom / N above\" anchors first (D from \"two above,\" F and E from the ends), then place the \"immediately above/below\" and \"between\" boxes off them. Whenever every clue is used but one box is unplaced, drop it into the single empty position by elimination instead of hunting for another clue."
-    },
-    {
-      "id": "reasoning-puzzles-q025",
-      "group": "Set 5 — Box stacking (seven boxes, one above another)",
-      "context": "Seven boxes — A, B, C, D, E, F and G — are stacked one directly above another. Position 1 is the bottom of the stack and position 7 is the top.\n\nClues:\n1. Only two boxes are kept above D.\n2. G is kept immediately below D.\n3. F is kept at the bottom of the stack.\n4. C is kept immediately above F.\n5. A is kept between C and G.\n6. E is kept at the top of the stack.",
-      "question": "Counting from the bottom, which box is fourth?",
-      "options": [
-        "A",
-        "C",
-        "G",
-        "D",
-        "B"
-      ],
-      "correct": 2,
-      "solution": "Solved arrangement (top to bottom):\n\n| Position | Box |\n|----------|-----|\n| 7 (top) | E |\n| 6 | B |\n| 5 | D |\n| 4 | G |\n| 3 | A |\n| 2 | C |\n| 1 (bottom) | F |\n\nHow it locks: \"Only two boxes above D\" → D = 5 (clue 1). G immediately below D → G = 4 (clue 2). F at the bottom → F = 1 (clue 3); C immediately above F → C = 2 (clue 4). A between C (2) and G (4) → A = 3 (clue 5). E at the top → E = 7 (clue 6). The lone empty slot 6 takes B.\n\nFourth from the bottom is position 4, box G.",
-      "trick": "Vertical stacks are just a linear row turned upright — fix the \"top / bottom / N above\" anchors first (D from \"two above,\" F and E from the ends), then place the \"immediately above/below\" and \"between\" boxes off them. Whenever every clue is used but one box is unplaced, drop it into the single empty position by elimination instead of hunting for another clue."
-    }
-  ]
+ "title": "Puzzles & Seating — Practice",
+ "section": "reasoning",
+ "kind": "quiz",
+ "source": "reasoning-puzzles.md",
+ "questions": [
+  {
+   "id": "reasoning-puzzles-q001",
+   "group": "Set 1 — Linear seating (single row, single direction)",
+   "context": "Seven people — A, B, C, D, E, F and G — sit in a straight row. All of them face north. Positions are counted from left to right, so position 1 is the leftmost seat and position 7 is the rightmost. In every clue, \"left\" means toward position 1 and \"right\" means toward position 7.\n\nClues:\n1. C sits exactly in the middle of the row.\n2. D sits at the extreme left end.\n3. There are three persons sitting between D and F.\n4. A sits immediately to the left of C.\n5. G sits at the extreme right end.\n6. B sits immediately to the right of D.",
+   "question": "Who sits at the extreme right end?",
+   "options": [
+    "E",
+    "F",
+    "G",
+    "D",
+    "A"
+   ],
+   "correct": 2,
+   "solution": "Solved arrangement (left to right):\n\n| Pos 1 | Pos 2 | Pos 3 | Pos 4 | Pos 5 | Pos 6 | Pos 7 |\n|-------|-------|-------|-------|-------|-------|-------|\n| D | B | A | C | F | E | G |\n\nHow it locks: C is the middle of 7 seats, so C = 4 (clue 1). D is the extreme left, D = 1 (clue 2). Three persons between D and F places F at seat 5 (clue 3). A immediately left of C gives A = 3 (clue 4). G at the extreme right, G = 7 (clue 5). B immediately right of D gives B = 2 (clue 6). Only seat 6 is left, so E = 6.\n\nG is fixed at the extreme right end (seat 7).",
+   "trick": "Anchor the fixed \"end\" and \"middle\" clues first (D, C, G), then hang the \"immediately/…between\" clues off them. \"N persons between X and Y\" leaves N seats in the gap, so three between D(1) puts F at 1+3+1 = 5. Fill the last empty seat by elimination rather than searching for a clue for it."
+  },
+  {
+   "id": "reasoning-puzzles-q002",
+   "group": "Set 1 — Linear seating (single row, single direction)",
+   "context": "Seven people — A, B, C, D, E, F and G — sit in a straight row. All of them face north. Positions are counted from left to right, so position 1 is the leftmost seat and position 7 is the rightmost. In every clue, \"left\" means toward position 1 and \"right\" means toward position 7.\n\nClues:\n1. C sits exactly in the middle of the row.\n2. D sits at the extreme left end.\n3. There are three persons sitting between D and F.\n4. A sits immediately to the left of C.\n5. G sits at the extreme right end.\n6. B sits immediately to the right of D.",
+   "question": "How many persons sit between B and F?",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "None"
+   ],
+   "correct": 1,
+   "solution": "Solved arrangement (left to right):\n\n| Pos 1 | Pos 2 | Pos 3 | Pos 4 | Pos 5 | Pos 6 | Pos 7 |\n|-------|-------|-------|-------|-------|-------|-------|\n| D | B | A | C | F | E | G |\n\nHow it locks: C is the middle of 7 seats, so C = 4 (clue 1). D is the extreme left, D = 1 (clue 2). Three persons between D and F places F at seat 5 (clue 3). A immediately left of C gives A = 3 (clue 4). G at the extreme right, G = 7 (clue 5). B immediately right of D gives B = 2 (clue 6). Only seat 6 is left, so E = 6.\n\nBetween B (2) and F (5) sit A and C — two persons.",
+   "trick": "Anchor the fixed \"end\" and \"middle\" clues first (D, C, G), then hang the \"immediately/…between\" clues off them. \"N persons between X and Y\" leaves N seats in the gap, so three between D(1) puts F at 1+3+1 = 5. Fill the last empty seat by elimination rather than searching for a clue for it."
+  },
+  {
+   "id": "reasoning-puzzles-q003",
+   "group": "Set 1 — Linear seating (single row, single direction)",
+   "context": "Seven people — A, B, C, D, E, F and G — sit in a straight row. All of them face north. Positions are counted from left to right, so position 1 is the leftmost seat and position 7 is the rightmost. In every clue, \"left\" means toward position 1 and \"right\" means toward position 7.\n\nClues:\n1. C sits exactly in the middle of the row.\n2. D sits at the extreme left end.\n3. There are three persons sitting between D and F.\n4. A sits immediately to the left of C.\n5. G sits at the extreme right end.\n6. B sits immediately to the right of D.",
+   "question": "Who sits third to the right of A?",
+   "options": [
+    "C",
+    "F",
+    "E",
+    "G",
+    "B"
+   ],
+   "correct": 2,
+   "solution": "Solved arrangement (left to right):\n\n| Pos 1 | Pos 2 | Pos 3 | Pos 4 | Pos 5 | Pos 6 | Pos 7 |\n|-------|-------|-------|-------|-------|-------|-------|\n| D | B | A | C | F | E | G |\n\nHow it locks: C is the middle of 7 seats, so C = 4 (clue 1). D is the extreme left, D = 1 (clue 2). Three persons between D and F places F at seat 5 (clue 3). A immediately left of C gives A = 3 (clue 4). G at the extreme right, G = 7 (clue 5). B immediately right of D gives B = 2 (clue 6). Only seat 6 is left, so E = 6.\n\nThird to the right of A (3) is seat 6, which is E.",
+   "trick": "Anchor the fixed \"end\" and \"middle\" clues first (D, C, G), then hang the \"immediately/…between\" clues off them. \"N persons between X and Y\" leaves N seats in the gap, so three between D(1) puts F at 1+3+1 = 5. Fill the last empty seat by elimination rather than searching for a clue for it."
+  },
+  {
+   "id": "reasoning-puzzles-q004",
+   "group": "Set 1 — Linear seating (single row, single direction)",
+   "context": "Seven people — A, B, C, D, E, F and G — sit in a straight row. All of them face north. Positions are counted from left to right, so position 1 is the leftmost seat and position 7 is the rightmost. In every clue, \"left\" means toward position 1 and \"right\" means toward position 7.\n\nClues:\n1. C sits exactly in the middle of the row.\n2. D sits at the extreme left end.\n3. There are three persons sitting between D and F.\n4. A sits immediately to the left of C.\n5. G sits at the extreme right end.\n6. B sits immediately to the right of D.",
+   "question": "Which of the following pairs are the two immediate neighbours of C?",
+   "options": [
+    "B and F",
+    "A and F",
+    "A and E",
+    "F and E",
+    "D and A"
+   ],
+   "correct": 1,
+   "solution": "Solved arrangement (left to right):\n\n| Pos 1 | Pos 2 | Pos 3 | Pos 4 | Pos 5 | Pos 6 | Pos 7 |\n|-------|-------|-------|-------|-------|-------|-------|\n| D | B | A | C | F | E | G |\n\nHow it locks: C is the middle of 7 seats, so C = 4 (clue 1). D is the extreme left, D = 1 (clue 2). Three persons between D and F places F at seat 5 (clue 3). A immediately left of C gives A = 3 (clue 4). G at the extreme right, G = 7 (clue 5). B immediately right of D gives B = 2 (clue 6). Only seat 6 is left, so E = 6.\n\nC is at seat 4; its neighbours are A (3) and F (5).",
+   "trick": "Anchor the fixed \"end\" and \"middle\" clues first (D, C, G), then hang the \"immediately/…between\" clues off them. \"N persons between X and Y\" leaves N seats in the gap, so three between D(1) puts F at 1+3+1 = 5. Fill the last empty seat by elimination rather than searching for a clue for it."
+  },
+  {
+   "id": "reasoning-puzzles-q005",
+   "group": "Set 1 — Linear seating (single row, single direction)",
+   "context": "Seven people — A, B, C, D, E, F and G — sit in a straight row. All of them face north. Positions are counted from left to right, so position 1 is the leftmost seat and position 7 is the rightmost. In every clue, \"left\" means toward position 1 and \"right\" means toward position 7.\n\nClues:\n1. C sits exactly in the middle of the row.\n2. D sits at the extreme left end.\n3. There are three persons sitting between D and F.\n4. A sits immediately to the left of C.\n5. G sits at the extreme right end.\n6. B sits immediately to the right of D.",
+   "question": "Who sits exactly between D and A?",
+   "options": [
+    "C",
+    "F",
+    "E",
+    "B",
+    "A"
+   ],
+   "correct": 3,
+   "solution": "Solved arrangement (left to right):\n\n| Pos 1 | Pos 2 | Pos 3 | Pos 4 | Pos 5 | Pos 6 | Pos 7 |\n|-------|-------|-------|-------|-------|-------|-------|\n| D | B | A | C | F | E | G |\n\nHow it locks: C is the middle of 7 seats, so C = 4 (clue 1). D is the extreme left, D = 1 (clue 2). Three persons between D and F places F at seat 5 (clue 3). A immediately left of C gives A = 3 (clue 4). G at the extreme right, G = 7 (clue 5). B immediately right of D gives B = 2 (clue 6). Only seat 6 is left, so E = 6.\n\nBetween D (1) and A (3) is seat 2, which is B.",
+   "trick": "Anchor the fixed \"end\" and \"middle\" clues first (D, C, G), then hang the \"immediately/…between\" clues off them. \"N persons between X and Y\" leaves N seats in the gap, so three between D(1) puts F at 1+3+1 = 5. Fill the last empty seat by elimination rather than searching for a clue for it."
+  },
+  {
+   "id": "reasoning-puzzles-q006",
+   "group": "Set 2 — Circular seating (eight people, facing the centre)",
+   "context": "Eight people — P, Q, R, S, T, U, V and W — sit around a circular table and all of them face the centre. Because they face the centre, each person's left hand points in the clockwise direction and each person's right hand points in the anticlockwise direction. So \"to the left\" means the next seat clockwise and \"to the right\" means the next seat anticlockwise.\n\nClues:\n1. T sits immediately to the left of P.\n2. R sits second to the left of P.\n3. Q sits exactly opposite P.\n4. W sits immediately to the right of Q.\n5. U sits immediately to the left of Q.\n6. S sits second to the right of P.\n7. V sits immediately to the right of P.",
+   "question": "Who sits exactly opposite P?",
+   "options": [
+    "U",
+    "Q",
+    "S",
+    "W",
+    "T"
+   ],
+   "correct": 1,
+   "solution": "Solved arrangement, read clockwise starting at P:\n\n| Clockwise order | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |\n|-----------------|---|---|---|---|---|---|---|---|\n| Person | P | T | R | W | Q | U | S | V |\n\nHow it locks (facing centre → left = clockwise, right = anticlockwise). Fix P. T immediately left (clockwise) of P (clue 1). R second left of P, i.e. next clockwise after T (clue 2). Q opposite P, four seats away (clue 3). W immediately right (anticlockwise) of Q sits just before Q clockwise (clue 4); U immediately left of Q sits just after Q clockwise (clue 5). S second right of P and V immediately right of P fill the two seats on P's anticlockwise side (clues 6, 7). The clockwise ring is P, T, R, W, Q, U, S, V.\n\nQ is defined as directly opposite P.",
+   "trick": "Convert the direction words once — facing centre, left is clockwise and right is anticlockwise — then treat the ring like a clock. \"Nth to the left\" means N steps clockwise (N−1 people sit in between). Draw one circle, pin P, and place everything relative to P so rotational symmetry never confuses you."
+  },
+  {
+   "id": "reasoning-puzzles-q007",
+   "group": "Set 2 — Circular seating (eight people, facing the centre)",
+   "context": "Eight people — P, Q, R, S, T, U, V and W — sit around a circular table and all of them face the centre. Because they face the centre, each person's left hand points in the clockwise direction and each person's right hand points in the anticlockwise direction. So \"to the left\" means the next seat clockwise and \"to the right\" means the next seat anticlockwise.\n\nClues:\n1. T sits immediately to the left of P.\n2. R sits second to the left of P.\n3. Q sits exactly opposite P.\n4. W sits immediately to the right of Q.\n5. U sits immediately to the left of Q.\n6. S sits second to the right of P.\n7. V sits immediately to the right of P.",
+   "question": "Who sits third to the left of U?",
+   "options": [
+    "P",
+    "V",
+    "S",
+    "R",
+    "W"
+   ],
+   "correct": 0,
+   "solution": "Solved arrangement, read clockwise starting at P:\n\nFacing the centre, left = clockwise. Count clockwise from U: S (1st), V (2nd), **P (3rd)**. So the person third to the left of U is P.",
+   "trick": "Convert the direction words once — facing centre, left is clockwise and right is anticlockwise — then treat the ring like a clock. \"Nth to the left\" means N steps clockwise (N−1 people sit in between). Draw one circle, pin P, and place everything relative to P so rotational symmetry never confuses you."
+  },
+  {
+   "id": "reasoning-puzzles-q008",
+   "group": "Set 2 — Circular seating (eight people, facing the centre)",
+   "context": "Eight people — P, Q, R, S, T, U, V and W — sit around a circular table and all of them face the centre. Because they face the centre, each person's left hand points in the clockwise direction and each person's right hand points in the anticlockwise direction. So \"to the left\" means the next seat clockwise and \"to the right\" means the next seat anticlockwise.\n\nClues:\n1. T sits immediately to the left of P.\n2. R sits second to the left of P.\n3. Q sits exactly opposite P.\n4. W sits immediately to the right of Q.\n5. U sits immediately to the left of Q.\n6. S sits second to the right of P.\n7. V sits immediately to the right of P.",
+   "question": "How many people sit between T and Q when counted clockwise from T?",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "None"
+   ],
+   "correct": 1,
+   "solution": "Solved arrangement, read clockwise starting at P:\n\n| Clockwise order | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |\n|-----------------|---|---|---|---|---|---|---|---|\n| Person | P | T | R | W | Q | U | S | V |\n\nHow it locks (facing centre → left = clockwise, right = anticlockwise). Fix P. T immediately left (clockwise) of P (clue 1). R second left of P, i.e. next clockwise after T (clue 2). Q opposite P, four seats away (clue 3). W immediately right (anticlockwise) of Q sits just before Q clockwise (clue 4); U immediately left of Q sits just after Q clockwise (clue 5). S second right of P and V immediately right of P fill the two seats on P's anticlockwise side (clues 6, 7). The clockwise ring is P, T, R, W, Q, U, S, V.\n\nClockwise from T to Q you pass R and W — two people.",
+   "trick": "Convert the direction words once — facing centre, left is clockwise and right is anticlockwise — then treat the ring like a clock. \"Nth to the left\" means N steps clockwise (N−1 people sit in between). Draw one circle, pin P, and place everything relative to P so rotational symmetry never confuses you."
+  },
+  {
+   "id": "reasoning-puzzles-q009",
+   "group": "Set 2 — Circular seating (eight people, facing the centre)",
+   "context": "Eight people — P, Q, R, S, T, U, V and W — sit around a circular table and all of them face the centre. Because they face the centre, each person's left hand points in the clockwise direction and each person's right hand points in the anticlockwise direction. So \"to the left\" means the next seat clockwise and \"to the right\" means the next seat anticlockwise.\n\nClues:\n1. T sits immediately to the left of P.\n2. R sits second to the left of P.\n3. Q sits exactly opposite P.\n4. W sits immediately to the right of Q.\n5. U sits immediately to the left of Q.\n6. S sits second to the right of P.\n7. V sits immediately to the right of P.",
+   "question": "Who sits second to the right of W?",
+   "options": [
+    "R",
+    "P",
+    "T",
+    "S",
+    "U"
+   ],
+   "correct": 2,
+   "solution": "Solved arrangement, read clockwise starting at P:\n\n| Clockwise order | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |\n|-----------------|---|---|---|---|---|---|---|---|\n| Person | P | T | R | W | Q | U | S | V |\n\nHow it locks (facing centre → left = clockwise, right = anticlockwise). Fix P. T immediately left (clockwise) of P (clue 1). R second left of P, i.e. next clockwise after T (clue 2). Q opposite P, four seats away (clue 3). W immediately right (anticlockwise) of Q sits just before Q clockwise (clue 4); U immediately left of Q sits just after Q clockwise (clue 5). S second right of P and V immediately right of P fill the two seats on P's anticlockwise side (clues 6, 7). The clockwise ring is P, T, R, W, Q, U, S, V.\n\nSecond to the right (anticlockwise) of W: W → R → T lands on T.",
+   "trick": "Convert the direction words once — facing centre, left is clockwise and right is anticlockwise — then treat the ring like a clock. \"Nth to the left\" means N steps clockwise (N−1 people sit in between). Draw one circle, pin P, and place everything relative to P so rotational symmetry never confuses you."
+  },
+  {
+   "id": "reasoning-puzzles-q010",
+   "group": "Set 2 — Circular seating (eight people, facing the centre)",
+   "context": "Eight people — P, Q, R, S, T, U, V and W — sit around a circular table and all of them face the centre. Because they face the centre, each person's left hand points in the clockwise direction and each person's right hand points in the anticlockwise direction. So \"to the left\" means the next seat clockwise and \"to the right\" means the next seat anticlockwise.\n\nClues:\n1. T sits immediately to the left of P.\n2. R sits second to the left of P.\n3. Q sits exactly opposite P.\n4. W sits immediately to the right of Q.\n5. U sits immediately to the left of Q.\n6. S sits second to the right of P.\n7. V sits immediately to the right of P.",
+   "question": "Which pair sits immediately adjacent to S (on either side)?",
+   "options": [
+    "U and V",
+    "Q and U",
+    "P and V",
+    "T and R",
+    "W and Q"
+   ],
+   "correct": 0,
+   "solution": "Solved arrangement, read clockwise starting at P:\n\n| Clockwise order | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |\n|-----------------|---|---|---|---|---|---|---|---|\n| Person | P | T | R | W | Q | U | S | V |\n\nHow it locks (facing centre → left = clockwise, right = anticlockwise). Fix P. T immediately left (clockwise) of P (clue 1). R second left of P, i.e. next clockwise after T (clue 2). Q opposite P, four seats away (clue 3). W immediately right (anticlockwise) of Q sits just before Q clockwise (clue 4); U immediately left of Q sits just after Q clockwise (clue 5). S second right of P and V immediately right of P fill the two seats on P's anticlockwise side (clues 6, 7). The clockwise ring is P, T, R, W, Q, U, S, V.\n\nS sits between U (clockwise side) and V (anticlockwise side).",
+   "trick": "Convert the direction words once — facing centre, left is clockwise and right is anticlockwise — then treat the ring like a clock. \"Nth to the left\" means N steps clockwise (N−1 people sit in between). Draw one circle, pin P, and place everything relative to P so rotational symmetry never confuses you."
+  },
+  {
+   "id": "reasoning-puzzles-q011",
+   "group": "Set 3 — Floors + car colour (double variable)",
+   "context": "A seven-storey building has floors numbered 1 (lowest) to 7 (topmost). Seven people — L, M, N, O, P, Q and R — live on these floors, one person per floor. Each owns a car of a different colour among Red, Blue, Green, White, Black, Yellow and Pink.\n\nClues:\n1. Only two people live above P.\n2. M lives on an even-numbered floor that is above P.\n3. R lives immediately above M.\n4. Q lives on the lowest floor.\n5. N lives immediately above Q.\n6. L lives immediately below O.\n7. The person on the topmost floor owns the Pink car.\n8. Q owns the Red car.\n9. N owns the Blue car.\n10. The Black car owner lives immediately below the Pink car owner.\n11. The Green car owner lives immediately above the White car owner.\n12. The Yellow car owner lives immediately above the Green car owner.",
+   "question": "Who lives on floor 4?",
+   "options": [
+    "P",
+    "O",
+    "L",
+    "M",
+    "N"
+   ],
+   "correct": 1,
+   "solution": "Solved arrangement (top to bottom):\n\n| Floor | Person | Car colour |\n|-------|--------|-----------|\n| 7 | R | Pink |\n| 6 | M | Black |\n| 5 | P | Yellow |\n| 4 | O | Green |\n| 3 | L | White |\n| 2 | N | Blue |\n| 1 | Q | Red |\n\nPass 1 (positions): \"Only two above P\" → P = 5 (clue 1). The even floor above 5 is 6, so M = 6 (clue 2), and R immediately above M → R = 7 (clue 3). Q lowest → floor 1, N immediately above → floor 2 (clues 4, 5). That leaves floors 3 and 4 for L and O with L immediately below O (clue 6): L = 3, O = 4.\n\nPass 2 (colours via bridge clues): topmost owns Pink → R = Pink (clue 7). Q = Red (clue 8), N = Blue (clue 9). Black immediately below Pink → floor 6 = M = Black (clue 10). The Yellow-Green-White stack must be consecutive with Yellow on top (clues 11, 12); the only free consecutive floors are 5-4-3, giving P = Yellow, O = Green, L = White.\n\nFloor 4 is O.",
+   "trick": "Two-pass grid. Solve all the floor positions first using only the position clues (P, M, R, Q, N, then L/O by elimination). Only then bring in the colour clues, which act as bridges: a fixed anchor (Pink on top, Red for Q) plus a rigid consecutive block (Yellow-Green-White) drops straight into the one gap left."
+  },
+  {
+   "id": "reasoning-puzzles-q012",
+   "group": "Set 3 — Floors + car colour (double variable)",
+   "context": "A seven-storey building has floors numbered 1 (lowest) to 7 (topmost). Seven people — L, M, N, O, P, Q and R — live on these floors, one person per floor. Each owns a car of a different colour among Red, Blue, Green, White, Black, Yellow and Pink.\n\nClues:\n1. Only two people live above P.\n2. M lives on an even-numbered floor that is above P.\n3. R lives immediately above M.\n4. Q lives on the lowest floor.\n5. N lives immediately above Q.\n6. L lives immediately below O.\n7. The person on the topmost floor owns the Pink car.\n8. Q owns the Red car.\n9. N owns the Blue car.\n10. The Black car owner lives immediately below the Pink car owner.\n11. The Green car owner lives immediately above the White car owner.\n12. The Yellow car owner lives immediately above the Green car owner.",
+   "question": "Which colour car does the person on floor 3 own?",
+   "options": [
+    "Green",
+    "Blue",
+    "White",
+    "Black",
+    "Yellow"
+   ],
+   "correct": 2,
+   "solution": "Solved arrangement (top to bottom):\n\n| Floor | Person | Car colour |\n|-------|--------|-----------|\n| 7 | R | Pink |\n| 6 | M | Black |\n| 5 | P | Yellow |\n| 4 | O | Green |\n| 3 | L | White |\n| 2 | N | Blue |\n| 1 | Q | Red |\n\nPass 1 (positions): \"Only two above P\" → P = 5 (clue 1). The even floor above 5 is 6, so M = 6 (clue 2), and R immediately above M → R = 7 (clue 3). Q lowest → floor 1, N immediately above → floor 2 (clues 4, 5). That leaves floors 3 and 4 for L and O with L immediately below O (clue 6): L = 3, O = 4.\n\nPass 2 (colours via bridge clues): topmost owns Pink → R = Pink (clue 7). Q = Red (clue 8), N = Blue (clue 9). Black immediately below Pink → floor 6 = M = Black (clue 10). The Yellow-Green-White stack must be consecutive with Yellow on top (clues 11, 12); the only free consecutive floors are 5-4-3, giving P = Yellow, O = Green, L = White.\n\nFloor 3 is L, who owns White.",
+   "trick": "Two-pass grid. Solve all the floor positions first using only the position clues (P, M, R, Q, N, then L/O by elimination). Only then bring in the colour clues, which act as bridges: a fixed anchor (Pink on top, Red for Q) plus a rigid consecutive block (Yellow-Green-White) drops straight into the one gap left."
+  },
+  {
+   "id": "reasoning-puzzles-q013",
+   "group": "Set 3 — Floors + car colour (double variable)",
+   "context": "A seven-storey building has floors numbered 1 (lowest) to 7 (topmost). Seven people — L, M, N, O, P, Q and R — live on these floors, one person per floor. Each owns a car of a different colour among Red, Blue, Green, White, Black, Yellow and Pink.\n\nClues:\n1. Only two people live above P.\n2. M lives on an even-numbered floor that is above P.\n3. R lives immediately above M.\n4. Q lives on the lowest floor.\n5. N lives immediately above Q.\n6. L lives immediately below O.\n7. The person on the topmost floor owns the Pink car.\n8. Q owns the Red car.\n9. N owns the Blue car.\n10. The Black car owner lives immediately below the Pink car owner.\n11. The Green car owner lives immediately above the White car owner.\n12. The Yellow car owner lives immediately above the Green car owner.",
+   "question": "How many people live between the Blue car owner and the Black car owner?",
+   "options": [
+    "2",
+    "3",
+    "4",
+    "1",
+    "5"
+   ],
+   "correct": 1,
+   "solution": "Solved arrangement (top to bottom):\n\n| Floor | Person | Car colour |\n|-------|--------|-----------|\n| 7 | R | Pink |\n| 6 | M | Black |\n| 5 | P | Yellow |\n| 4 | O | Green |\n| 3 | L | White |\n| 2 | N | Blue |\n| 1 | Q | Red |\n\nPass 1 (positions): \"Only two above P\" → P = 5 (clue 1). The even floor above 5 is 6, so M = 6 (clue 2), and R immediately above M → R = 7 (clue 3). Q lowest → floor 1, N immediately above → floor 2 (clues 4, 5). That leaves floors 3 and 4 for L and O with L immediately below O (clue 6): L = 3, O = 4.\n\nPass 2 (colours via bridge clues): topmost owns Pink → R = Pink (clue 7). Q = Red (clue 8), N = Blue (clue 9). Black immediately below Pink → floor 6 = M = Black (clue 10). The Yellow-Green-White stack must be consecutive with Yellow on top (clues 11, 12); the only free consecutive floors are 5-4-3, giving P = Yellow, O = Green, L = White.\n\nBlue is floor 2, Black is floor 6; floors 3, 4, 5 lie between — three people.",
+   "trick": "Two-pass grid. Solve all the floor positions first using only the position clues (P, M, R, Q, N, then L/O by elimination). Only then bring in the colour clues, which act as bridges: a fixed anchor (Pink on top, Red for Q) plus a rigid consecutive block (Yellow-Green-White) drops straight into the one gap left."
+  },
+  {
+   "id": "reasoning-puzzles-q014",
+   "group": "Set 3 — Floors + car colour (double variable)",
+   "context": "A seven-storey building has floors numbered 1 (lowest) to 7 (topmost). Seven people — L, M, N, O, P, Q and R — live on these floors, one person per floor. Each owns a car of a different colour among Red, Blue, Green, White, Black, Yellow and Pink.\n\nClues:\n1. Only two people live above P.\n2. M lives on an even-numbered floor that is above P.\n3. R lives immediately above M.\n4. Q lives on the lowest floor.\n5. N lives immediately above Q.\n6. L lives immediately below O.\n7. The person on the topmost floor owns the Pink car.\n8. Q owns the Red car.\n9. N owns the Blue car.\n10. The Black car owner lives immediately below the Pink car owner.\n11. The Green car owner lives immediately above the White car owner.\n12. The Yellow car owner lives immediately above the Green car owner.",
+   "question": "Who owns the Yellow car?",
+   "options": [
+    "O",
+    "M",
+    "P",
+    "R",
+    "L"
+   ],
+   "correct": 2,
+   "solution": "Solved arrangement (top to bottom):\n\n| Floor | Person | Car colour |\n|-------|--------|-----------|\n| 7 | R | Pink |\n| 6 | M | Black |\n| 5 | P | Yellow |\n| 4 | O | Green |\n| 3 | L | White |\n| 2 | N | Blue |\n| 1 | Q | Red |\n\nPass 1 (positions): \"Only two above P\" → P = 5 (clue 1). The even floor above 5 is 6, so M = 6 (clue 2), and R immediately above M → R = 7 (clue 3). Q lowest → floor 1, N immediately above → floor 2 (clues 4, 5). That leaves floors 3 and 4 for L and O with L immediately below O (clue 6): L = 3, O = 4.\n\nPass 2 (colours via bridge clues): topmost owns Pink → R = Pink (clue 7). Q = Red (clue 8), N = Blue (clue 9). Black immediately below Pink → floor 6 = M = Black (clue 10). The Yellow-Green-White stack must be consecutive with Yellow on top (clues 11, 12); the only free consecutive floors are 5-4-3, giving P = Yellow, O = Green, L = White.\n\nYellow is floor 5, which is P.",
+   "trick": "Two-pass grid. Solve all the floor positions first using only the position clues (P, M, R, Q, N, then L/O by elimination). Only then bring in the colour clues, which act as bridges: a fixed anchor (Pink on top, Red for Q) plus a rigid consecutive block (Yellow-Green-White) drops straight into the one gap left."
+  },
+  {
+   "id": "reasoning-puzzles-q015",
+   "group": "Set 3 — Floors + car colour (double variable)",
+   "context": "A seven-storey building has floors numbered 1 (lowest) to 7 (topmost). Seven people — L, M, N, O, P, Q and R — live on these floors, one person per floor. Each owns a car of a different colour among Red, Blue, Green, White, Black, Yellow and Pink.\n\nClues:\n1. Only two people live above P.\n2. M lives on an even-numbered floor that is above P.\n3. R lives immediately above M.\n4. Q lives on the lowest floor.\n5. N lives immediately above Q.\n6. L lives immediately below O.\n7. The person on the topmost floor owns the Pink car.\n8. Q owns the Red car.\n9. N owns the Blue car.\n10. The Black car owner lives immediately below the Pink car owner.\n11. The Green car owner lives immediately above the White car owner.\n12. The Yellow car owner lives immediately above the Green car owner.",
+   "question": "M owns which colour car?",
+   "options": [
+    "Pink",
+    "Black",
+    "Green",
+    "Yellow",
+    "Blue"
+   ],
+   "correct": 1,
+   "solution": "Solved arrangement (top to bottom):\n\n| Floor | Person | Car colour |\n|-------|--------|-----------|\n| 7 | R | Pink |\n| 6 | M | Black |\n| 5 | P | Yellow |\n| 4 | O | Green |\n| 3 | L | White |\n| 2 | N | Blue |\n| 1 | Q | Red |\n\nPass 1 (positions): \"Only two above P\" → P = 5 (clue 1). The even floor above 5 is 6, so M = 6 (clue 2), and R immediately above M → R = 7 (clue 3). Q lowest → floor 1, N immediately above → floor 2 (clues 4, 5). That leaves floors 3 and 4 for L and O with L immediately below O (clue 6): L = 3, O = 4.\n\nPass 2 (colours via bridge clues): topmost owns Pink → R = Pink (clue 7). Q = Red (clue 8), N = Blue (clue 9). Black immediately below Pink → floor 6 = M = Black (clue 10). The Yellow-Green-White stack must be consecutive with Yellow on top (clues 11, 12); the only free consecutive floors are 5-4-3, giving P = Yellow, O = Green, L = White.\n\nM is on floor 6, the Black car owner.",
+   "trick": "Two-pass grid. Solve all the floor positions first using only the position clues (P, M, R, Q, N, then L/O by elimination). Only then bring in the colour clues, which act as bridges: a fixed anchor (Pink on top, Red for Q) plus a rigid consecutive block (Yellow-Green-White) drops straight into the one gap left."
+  },
+  {
+   "id": "reasoning-puzzles-q016",
+   "group": "Set 4 — Months + city (double variable)",
+   "context": "Six people — P, Q, R, S, T and U — each attend a seminar in a different month. The six months, in chronological order, are January, March, May, July, September and November. Each person is from a different city among Delhi, Mumbai, Pune, Kochi, Patna and Surat.\n\nClues:\n1. R attends in November (the last of the six months).\n2. Only one person attends before S.\n3. P attends immediately before S.\n4. T attends immediately before R.\n5. Q attends in an earlier month than U.\n6. The person attending in January is from Delhi.\n7. R is from Patna.\n8. The Mumbai person attends immediately after the Delhi person.\n9. Q is from Surat.\n10. The Pune person attends immediately before the Kochi person.",
+   "question": "Who attends in July?",
+   "options": [
+    "Q",
+    "T",
+    "U",
+    "P",
+    "S"
+   ],
+   "correct": 2,
+   "solution": "Solved arrangement (earliest to latest):\n\n| Month | Person | City |\n|-------|--------|------|\n| January | P | Delhi |\n| March | S | Mumbai |\n| May | Q | Surat |\n| July | U | Pune |\n| September | T | Kochi |\n| November | R | Patna |\n\nPass 1 (months): R = November (clue 1). \"Only one person before S\" → S is 2nd = March (clue 2); P immediately before S → P = January (clue 3). T immediately before R → T = September (clue 4). The two open months, May and July, go to Q and U with Q earlier (clue 5): Q = May, U = July.\n\nPass 2 (cities via bridge clues): January person is Delhi → P = Delhi (clue 6). R = Patna (clue 7). Mumbai immediately after Delhi → March = S = Mumbai (clue 8). Q = Surat (clue 9). The remaining Pune and Kochi are consecutive with Pune first (clue 10); the only free consecutive slot is July-September, so U = Pune, T = Kochi.\n\nJuly is U.",
+   "trick": "Treat the six ordered months exactly like six seats in a row and solve positions first (anchor R at the end, count \"only one before S,\" chain the immediate-before clues). Then layer cities on with the same bridge idea: one anchor (Delhi in January) plus a consecutive Pune-Kochi block fills the last gap."
+  },
+  {
+   "id": "reasoning-puzzles-q017",
+   "group": "Set 4 — Months + city (double variable)",
+   "context": "Six people — P, Q, R, S, T and U — each attend a seminar in a different month. The six months, in chronological order, are January, March, May, July, September and November. Each person is from a different city among Delhi, Mumbai, Pune, Kochi, Patna and Surat.\n\nClues:\n1. R attends in November (the last of the six months).\n2. Only one person attends before S.\n3. P attends immediately before S.\n4. T attends immediately before R.\n5. Q attends in an earlier month than U.\n6. The person attending in January is from Delhi.\n7. R is from Patna.\n8. The Mumbai person attends immediately after the Delhi person.\n9. Q is from Surat.\n10. The Pune person attends immediately before the Kochi person.",
+   "question": "Q is from which city?",
+   "options": [
+    "Pune",
+    "Surat",
+    "Delhi",
+    "Kochi",
+    "Patna"
+   ],
+   "correct": 1,
+   "solution": "Solved arrangement (earliest to latest):\n\n| Month | Person | City |\n|-------|--------|------|\n| January | P | Delhi |\n| March | S | Mumbai |\n| May | Q | Surat |\n| July | U | Pune |\n| September | T | Kochi |\n| November | R | Patna |\n\nPass 1 (months): R = November (clue 1). \"Only one person before S\" → S is 2nd = March (clue 2); P immediately before S → P = January (clue 3). T immediately before R → T = September (clue 4). The two open months, May and July, go to Q and U with Q earlier (clue 5): Q = May, U = July.\n\nPass 2 (cities via bridge clues): January person is Delhi → P = Delhi (clue 6). R = Patna (clue 7). Mumbai immediately after Delhi → March = S = Mumbai (clue 8). Q = Surat (clue 9). The remaining Pune and Kochi are consecutive with Pune first (clue 10); the only free consecutive slot is July-September, so U = Pune, T = Kochi.\n\nQ is stated to be from Surat.",
+   "trick": "Treat the six ordered months exactly like six seats in a row and solve positions first (anchor R at the end, count \"only one before S,\" chain the immediate-before clues). Then layer cities on with the same bridge idea: one anchor (Delhi in January) plus a consecutive Pune-Kochi block fills the last gap."
+  },
+  {
+   "id": "reasoning-puzzles-q018",
+   "group": "Set 4 — Months + city (double variable)",
+   "context": "Six people — P, Q, R, S, T and U — each attend a seminar in a different month. The six months, in chronological order, are January, March, May, July, September and November. Each person is from a different city among Delhi, Mumbai, Pune, Kochi, Patna and Surat.\n\nClues:\n1. R attends in November (the last of the six months).\n2. Only one person attends before S.\n3. P attends immediately before S.\n4. T attends immediately before R.\n5. Q attends in an earlier month than U.\n6. The person attending in January is from Delhi.\n7. R is from Patna.\n8. The Mumbai person attends immediately after the Delhi person.\n9. Q is from Surat.\n10. The Pune person attends immediately before the Kochi person.",
+   "question": "How many people attend between the Delhi person and the Kochi person?",
+   "options": [
+    "2",
+    "3",
+    "4",
+    "1",
+    "5"
+   ],
+   "correct": 1,
+   "solution": "Solved arrangement (earliest to latest):\n\n| Month | Person | City |\n|-------|--------|------|\n| January | P | Delhi |\n| March | S | Mumbai |\n| May | Q | Surat |\n| July | U | Pune |\n| September | T | Kochi |\n| November | R | Patna |\n\nPass 1 (months): R = November (clue 1). \"Only one person before S\" → S is 2nd = March (clue 2); P immediately before S → P = January (clue 3). T immediately before R → T = September (clue 4). The two open months, May and July, go to Q and U with Q earlier (clue 5): Q = May, U = July.\n\nPass 2 (cities via bridge clues): January person is Delhi → P = Delhi (clue 6). R = Patna (clue 7). Mumbai immediately after Delhi → March = S = Mumbai (clue 8). Q = Surat (clue 9). The remaining Pune and Kochi are consecutive with Pune first (clue 10); the only free consecutive slot is July-September, so U = Pune, T = Kochi.\n\nDelhi = January, Kochi = September; March, May, July lie between — three people.",
+   "trick": "Treat the six ordered months exactly like six seats in a row and solve positions first (anchor R at the end, count \"only one before S,\" chain the immediate-before clues). Then layer cities on with the same bridge idea: one anchor (Delhi in January) plus a consecutive Pune-Kochi block fills the last gap."
+  },
+  {
+   "id": "reasoning-puzzles-q019",
+   "group": "Set 4 — Months + city (double variable)",
+   "context": "Six people — P, Q, R, S, T and U — each attend a seminar in a different month. The six months, in chronological order, are January, March, May, July, September and November. Each person is from a different city among Delhi, Mumbai, Pune, Kochi, Patna and Surat.\n\nClues:\n1. R attends in November (the last of the six months).\n2. Only one person attends before S.\n3. P attends immediately before S.\n4. T attends immediately before R.\n5. Q attends in an earlier month than U.\n6. The person attending in January is from Delhi.\n7. R is from Patna.\n8. The Mumbai person attends immediately after the Delhi person.\n9. Q is from Surat.\n10. The Pune person attends immediately before the Kochi person.",
+   "question": "Who attends immediately before R?",
+   "options": [
+    "U",
+    "Q",
+    "T",
+    "S",
+    "P"
+   ],
+   "correct": 2,
+   "solution": "Solved arrangement (earliest to latest):\n\n| Month | Person | City |\n|-------|--------|------|\n| January | P | Delhi |\n| March | S | Mumbai |\n| May | Q | Surat |\n| July | U | Pune |\n| September | T | Kochi |\n| November | R | Patna |\n\nPass 1 (months): R = November (clue 1). \"Only one person before S\" → S is 2nd = March (clue 2); P immediately before S → P = January (clue 3). T immediately before R → T = September (clue 4). The two open months, May and July, go to Q and U with Q earlier (clue 5): Q = May, U = July.\n\nPass 2 (cities via bridge clues): January person is Delhi → P = Delhi (clue 6). R = Patna (clue 7). Mumbai immediately after Delhi → March = S = Mumbai (clue 8). Q = Surat (clue 9). The remaining Pune and Kochi are consecutive with Pune first (clue 10); the only free consecutive slot is July-September, so U = Pune, T = Kochi.\n\nT (September) attends immediately before R (November).",
+   "trick": "Treat the six ordered months exactly like six seats in a row and solve positions first (anchor R at the end, count \"only one before S,\" chain the immediate-before clues). Then layer cities on with the same bridge idea: one anchor (Delhi in January) plus a consecutive Pune-Kochi block fills the last gap."
+  },
+  {
+   "id": "reasoning-puzzles-q020",
+   "group": "Set 4 — Months + city (double variable)",
+   "context": "Six people — P, Q, R, S, T and U — each attend a seminar in a different month. The six months, in chronological order, are January, March, May, July, September and November. Each person is from a different city among Delhi, Mumbai, Pune, Kochi, Patna and Surat.\n\nClues:\n1. R attends in November (the last of the six months).\n2. Only one person attends before S.\n3. P attends immediately before S.\n4. T attends immediately before R.\n5. Q attends in an earlier month than U.\n6. The person attending in January is from Delhi.\n7. R is from Patna.\n8. The Mumbai person attends immediately after the Delhi person.\n9. Q is from Surat.\n10. The Pune person attends immediately before the Kochi person.",
+   "question": "The person from Pune attends in which month?",
+   "options": [
+    "May",
+    "July",
+    "September",
+    "March",
+    "January"
+   ],
+   "correct": 1,
+   "solution": "Solved arrangement (earliest to latest):\n\n| Month | Person | City |\n|-------|--------|------|\n| January | P | Delhi |\n| March | S | Mumbai |\n| May | Q | Surat |\n| July | U | Pune |\n| September | T | Kochi |\n| November | R | Patna |\n\nPass 1 (months): R = November (clue 1). \"Only one person before S\" → S is 2nd = March (clue 2); P immediately before S → P = January (clue 3). T immediately before R → T = September (clue 4). The two open months, May and July, go to Q and U with Q earlier (clue 5): Q = May, U = July.\n\nPass 2 (cities via bridge clues): January person is Delhi → P = Delhi (clue 6). R = Patna (clue 7). Mumbai immediately after Delhi → March = S = Mumbai (clue 8). Q = Surat (clue 9). The remaining Pune and Kochi are consecutive with Pune first (clue 10); the only free consecutive slot is July-September, so U = Pune, T = Kochi.\n\nPune is U, who attends in July.",
+   "trick": "Treat the six ordered months exactly like six seats in a row and solve positions first (anchor R at the end, count \"only one before S,\" chain the immediate-before clues). Then layer cities on with the same bridge idea: one anchor (Delhi in January) plus a consecutive Pune-Kochi block fills the last gap."
+  },
+  {
+   "id": "reasoning-puzzles-q021",
+   "group": "Set 5 — Box stacking (seven boxes, one above another)",
+   "context": "Seven boxes — A, B, C, D, E, F and G — are stacked one directly above another. Position 1 is the bottom of the stack and position 7 is the top.\n\nClues:\n1. Only two boxes are kept above D.\n2. G is kept immediately below D.\n3. F is kept at the bottom of the stack.\n4. C is kept immediately above F.\n5. A is kept between C and G.\n6. E is kept at the top of the stack.",
+   "question": "Which box is at the top of the stack?",
+   "options": [
+    "B",
+    "D",
+    "E",
+    "G",
+    "A"
+   ],
+   "correct": 2,
+   "solution": "Solved arrangement (top to bottom):\n\n| Position | Box |\n|----------|-----|\n| 7 (top) | E |\n| 6 | B |\n| 5 | D |\n| 4 | G |\n| 3 | A |\n| 2 | C |\n| 1 (bottom) | F |\n\nHow it locks: \"Only two boxes above D\" → D = 5 (clue 1). G immediately below D → G = 4 (clue 2). F at the bottom → F = 1 (clue 3); C immediately above F → C = 2 (clue 4). A between C (2) and G (4) → A = 3 (clue 5). E at the top → E = 7 (clue 6). The lone empty slot 6 takes B.\n\nE is fixed at the top.",
+   "trick": "Vertical stacks are just a linear row turned upright — fix the \"top / bottom / N above\" anchors first (D from \"two above,\" F and E from the ends), then place the \"immediately above/below\" and \"between\" boxes off them. Whenever every clue is used but one box is unplaced, drop it into the single empty position by elimination instead of hunting for another clue."
+  },
+  {
+   "id": "reasoning-puzzles-q022",
+   "group": "Set 5 — Box stacking (seven boxes, one above another)",
+   "context": "Seven boxes — A, B, C, D, E, F and G — are stacked one directly above another. Position 1 is the bottom of the stack and position 7 is the top.\n\nClues:\n1. Only two boxes are kept above D.\n2. G is kept immediately below D.\n3. F is kept at the bottom of the stack.\n4. C is kept immediately above F.\n5. A is kept between C and G.\n6. E is kept at the top of the stack.",
+   "question": "How many boxes are kept between F and D?",
+   "options": [
+    "2",
+    "3",
+    "4",
+    "1",
+    "5"
+   ],
+   "correct": 1,
+   "solution": "Solved arrangement (top to bottom):\n\n| Position | Box |\n|----------|-----|\n| 7 (top) | E |\n| 6 | B |\n| 5 | D |\n| 4 | G |\n| 3 | A |\n| 2 | C |\n| 1 (bottom) | F |\n\nHow it locks: \"Only two boxes above D\" → D = 5 (clue 1). G immediately below D → G = 4 (clue 2). F at the bottom → F = 1 (clue 3); C immediately above F → C = 2 (clue 4). A between C (2) and G (4) → A = 3 (clue 5). E at the top → E = 7 (clue 6). The lone empty slot 6 takes B.\n\nBetween F (1) and D (5) sit C, A and G — three boxes.",
+   "trick": "Vertical stacks are just a linear row turned upright — fix the \"top / bottom / N above\" anchors first (D from \"two above,\" F and E from the ends), then place the \"immediately above/below\" and \"between\" boxes off them. Whenever every clue is used but one box is unplaced, drop it into the single empty position by elimination instead of hunting for another clue."
+  },
+  {
+   "id": "reasoning-puzzles-q023",
+   "group": "Set 5 — Box stacking (seven boxes, one above another)",
+   "context": "Seven boxes — A, B, C, D, E, F and G — are stacked one directly above another. Position 1 is the bottom of the stack and position 7 is the top.\n\nClues:\n1. Only two boxes are kept above D.\n2. G is kept immediately below D.\n3. F is kept at the bottom of the stack.\n4. C is kept immediately above F.\n5. A is kept between C and G.\n6. E is kept at the top of the stack.",
+   "question": "Which box is kept immediately above A?",
+   "options": [
+    "D",
+    "G",
+    "C",
+    "B",
+    "F"
+   ],
+   "correct": 1,
+   "solution": "Solved arrangement (top to bottom):\n\n| Position | Box |\n|----------|-----|\n| 7 (top) | E |\n| 6 | B |\n| 5 | D |\n| 4 | G |\n| 3 | A |\n| 2 | C |\n| 1 (bottom) | F |\n\nHow it locks: \"Only two boxes above D\" → D = 5 (clue 1). G immediately below D → G = 4 (clue 2). F at the bottom → F = 1 (clue 3); C immediately above F → C = 2 (clue 4). A between C (2) and G (4) → A = 3 (clue 5). E at the top → E = 7 (clue 6). The lone empty slot 6 takes B.\n\nImmediately above A (3) is position 4, box G.",
+   "trick": "Vertical stacks are just a linear row turned upright — fix the \"top / bottom / N above\" anchors first (D from \"two above,\" F and E from the ends), then place the \"immediately above/below\" and \"between\" boxes off them. Whenever every clue is used but one box is unplaced, drop it into the single empty position by elimination instead of hunting for another clue."
+  },
+  {
+   "id": "reasoning-puzzles-q024",
+   "group": "Set 5 — Box stacking (seven boxes, one above another)",
+   "context": "Seven boxes — A, B, C, D, E, F and G — are stacked one directly above another. Position 1 is the bottom of the stack and position 7 is the top.\n\nClues:\n1. Only two boxes are kept above D.\n2. G is kept immediately below D.\n3. F is kept at the bottom of the stack.\n4. C is kept immediately above F.\n5. A is kept between C and G.\n6. E is kept at the top of the stack.",
+   "question": "Which box is kept just below B?",
+   "options": [
+    "G",
+    "D",
+    "E",
+    "A",
+    "C"
+   ],
+   "correct": 1,
+   "solution": "Solved arrangement (top to bottom):\n\n| Position | Box |\n|----------|-----|\n| 7 (top) | E |\n| 6 | B |\n| 5 | D |\n| 4 | G |\n| 3 | A |\n| 2 | C |\n| 1 (bottom) | F |\n\nHow it locks: \"Only two boxes above D\" → D = 5 (clue 1). G immediately below D → G = 4 (clue 2). F at the bottom → F = 1 (clue 3); C immediately above F → C = 2 (clue 4). A between C (2) and G (4) → A = 3 (clue 5). E at the top → E = 7 (clue 6). The lone empty slot 6 takes B.\n\nJust below B (6) is position 5, box D.",
+   "trick": "Vertical stacks are just a linear row turned upright — fix the \"top / bottom / N above\" anchors first (D from \"two above,\" F and E from the ends), then place the \"immediately above/below\" and \"between\" boxes off them. Whenever every clue is used but one box is unplaced, drop it into the single empty position by elimination instead of hunting for another clue."
+  },
+  {
+   "id": "reasoning-puzzles-q025",
+   "group": "Set 5 — Box stacking (seven boxes, one above another)",
+   "context": "Seven boxes — A, B, C, D, E, F and G — are stacked one directly above another. Position 1 is the bottom of the stack and position 7 is the top.\n\nClues:\n1. Only two boxes are kept above D.\n2. G is kept immediately below D.\n3. F is kept at the bottom of the stack.\n4. C is kept immediately above F.\n5. A is kept between C and G.\n6. E is kept at the top of the stack.",
+   "question": "Counting from the bottom, which box is fourth?",
+   "options": [
+    "A",
+    "C",
+    "G",
+    "D",
+    "B"
+   ],
+   "correct": 2,
+   "solution": "Solved arrangement (top to bottom):\n\n| Position | Box |\n|----------|-----|\n| 7 (top) | E |\n| 6 | B |\n| 5 | D |\n| 4 | G |\n| 3 | A |\n| 2 | C |\n| 1 (bottom) | F |\n\nHow it locks: \"Only two boxes above D\" → D = 5 (clue 1). G immediately below D → G = 4 (clue 2). F at the bottom → F = 1 (clue 3); C immediately above F → C = 2 (clue 4). A between C (2) and G (4) → A = 3 (clue 5). E at the top → E = 7 (clue 6). The lone empty slot 6 takes B.\n\nFourth from the bottom is position 4, box G.",
+   "trick": "Vertical stacks are just a linear row turned upright — fix the \"top / bottom / N above\" anchors first (D from \"two above,\" F and E from the ends), then place the \"immediately above/below\" and \"between\" boxes off them. Whenever every clue is used but one box is unplaced, drop it into the single empty position by elimination instead of hunting for another clue."
+  }
+ ]
 }

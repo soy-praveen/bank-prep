@@ -1,476 +1,476 @@
 {
-  "title": "Mixed Mini-Mock 1",
-  "section": "mixed",
-  "kind": "quiz",
-  "source": "mini-mock-1.md",
-  "questions": [
-    {
-      "id": "mini-mock-1-q001",
-      "subject": "english",
-      "question": "Choose the word most similar in meaning to **MITIGATE**.",
-      "options": [
-        "worsen",
-        "alleviate",
-        "confuse",
-        "postpone",
-        "expand"
-      ],
-      "correct": 1,
-      "solution": "Mitigate = to make less severe.",
-      "trick": "\"mit-\" softens (think *mild*); opposite of aggravate."
-    },
-    {
-      "id": "mini-mock-1-q002",
-      "subject": "reasoning",
-      "question": "Statements: *All pens are books. All books are papers.*\nConclusions: **I.** All pens are papers. **II.** Some papers are pens.\nWhich conclusion(s) follow?",
-      "options": [
-        "Only I follows",
-        "Only II follows",
-        "Both I and II follow",
-        "Neither follows",
-        "Either I or II follows"
-      ],
-      "correct": 2,
-      "solution": "All pens -> books -> papers, so all pens are papers (I). \"All pens are papers\" converts to \"some papers are pens\" (II).",
-      "trick": "A universal \"All A are C\" always yields the particular converse \"Some C are A.\""
-    },
-    {
-      "id": "mini-mock-1-q003",
-      "subject": "quant",
-      "question": "Approximate value: `24.98% of 200 + 15.02% of 400 = ?`",
-      "options": [
-        "90",
-        "100",
-        "110",
-        "120",
-        "130"
-      ],
-      "correct": 2,
-      "solution": "25% of 200 = 50; 15% of 400 = 60; 50 + 60 = 110.",
-      "trick": "In approximation, round the ugly percentages (24.98 -> 25, 15.02 -> 15) before multiplying."
-    },
-    {
-      "id": "mini-mock-1-q004",
-      "subject": "english",
-      "question": "Find the part with the error:\n*Neither the manager nor his subordinates (a) / was present (b) / at the meeting (c) / held yesterday. (d) / No error (e)*",
-      "options": [
-        "Neither the manager nor his subordinates",
-        "was present",
-        "at the meeting",
-        "held yesterday",
-        "No error"
-      ],
-      "correct": 1,
-      "solution": "With \"Neither...nor\", the verb agrees with the nearer subject \"subordinates\" (plural) -> \"were present.\"",
-      "trick": "Nor/or/either — verb matches the *nearest* noun."
-    },
-    {
-      "id": "mini-mock-1-q005",
-      "subject": "reasoning",
-      "question": "Pointing to a photograph, a man said, \"She is the daughter of my grandfather's only son.\" How is the woman related to the man?",
-      "options": [
-        "Daughter",
-        "Niece",
-        "Sister",
-        "Aunt",
-        "Cousin"
-      ],
-      "correct": 2,
-      "solution": "Grandfather's only son = the man's father. Father's daughter = his sister.",
-      "trick": "Collapse the chain to the nearest person: \"only son of my grandfather\" is almost always \"my father.\""
-    },
-    {
-      "id": "mini-mock-1-q006",
-      "subject": "quant",
-      "question": "What comes next in the series? `5, 6, 10, 19, 35, ?`",
-      "options": [
-        "56",
-        "58",
-        "60",
-        "65",
-        "70"
-      ],
-      "correct": 2,
-      "solution": "Differences are +1, +4, +9, +16 (perfect squares) -> next is +25 -> 35 + 25 = 60.",
-      "trick": "When gaps grow fast, test 1,4,9,16 (squares) or cubes before anything else."
-    },
-    {
-      "id": "mini-mock-1-q007",
-      "subject": "english",
-      "group": "RC passage (Q7-Q9)",
-      "context": "*Directions (Q7-Q9): Read the passage and answer.*\n\nFinancial inclusion has become a central goal for policymakers in developing economies. By bringing unbanked populations into the formal banking system, governments hope to reduce dependence on informal lenders who often charge exorbitant rates. Digital payment systems have accelerated this shift, allowing even small vendors to accept electronic money without costly infrastructure. Yet inclusion is not merely about opening accounts; a large share of newly opened accounts remain dormant. Experts argue that genuine inclusion requires financial literacy, trust in institutions, and products designed for low-income users. Without these, the poor may open accounts to receive government transfers but continue to rely on cash and informal credit for daily needs. The challenge, therefore, is not access alone but meaningful and sustained usage.",
-      "question": "The primary purpose of the passage is to:",
-      "options": [
-        "criticise digital payment systems",
-        "argue that account access alone does not ensure genuine financial inclusion",
-        "praise informal lenders for their flexibility",
-        "describe the cost of banking infrastructure",
-        "promote government cash transfers"
-      ],
-      "correct": 1,
-      "solution": "The passage's thesis is stated at the end: \"not access alone but meaningful and sustained usage.\"",
-      "trick": "For \"primary purpose\", find the sentence that *qualifies* or *pushes back* — usually near \"yet/therefore\"."
-    },
-    {
-      "id": "mini-mock-1-q008",
-      "subject": "english",
-      "group": "RC passage (Q7-Q9)",
-      "context": "*Directions (Q7-Q9): Read the passage and answer.*\n\nFinancial inclusion has become a central goal for policymakers in developing economies. By bringing unbanked populations into the formal banking system, governments hope to reduce dependence on informal lenders who often charge exorbitant rates. Digital payment systems have accelerated this shift, allowing even small vendors to accept electronic money without costly infrastructure. Yet inclusion is not merely about opening accounts; a large share of newly opened accounts remain dormant. Experts argue that genuine inclusion requires financial literacy, trust in institutions, and products designed for low-income users. Without these, the poor may open accounts to receive government transfers but continue to rely on cash and informal credit for daily needs. The challenge, therefore, is not access alone but meaningful and sustained usage.",
-      "question": "According to the passage, why do many newly opened accounts remain dormant?",
-      "options": [
-        "Banks close them for inactivity",
-        "Users lack literacy, trust and suitable products",
-        "Digital payments are banned in villages",
-        "Informal lenders forbid their use",
-        "The government stops all transfers"
-      ],
-      "correct": 1,
-      "solution": "Directly stated: genuine inclusion needs literacy, trust and products for low-income users; without them accounts sit idle.",
-      "trick": "Detail questions are answered verbatim in the text — match, don't reason."
-    },
-    {
-      "id": "mini-mock-1-q009",
-      "subject": "english",
-      "group": "RC passage (Q7-Q9)",
-      "context": "*Directions (Q7-Q9): Read the passage and answer.*\n\nFinancial inclusion has become a central goal for policymakers in developing economies. By bringing unbanked populations into the formal banking system, governments hope to reduce dependence on informal lenders who often charge exorbitant rates. Digital payment systems have accelerated this shift, allowing even small vendors to accept electronic money without costly infrastructure. Yet inclusion is not merely about opening accounts; a large share of newly opened accounts remain dormant. Experts argue that genuine inclusion requires financial literacy, trust in institutions, and products designed for low-income users. Without these, the poor may open accounts to receive government transfers but continue to rely on cash and informal credit for daily needs. The challenge, therefore, is not access alone but meaningful and sustained usage.",
-      "question": "Which word is closest in meaning to **dormant** as used in the passage?",
-      "options": [
-        "active",
-        "inactive",
-        "profitable",
-        "fraudulent",
-        "shared"
-      ],
-      "correct": 1,
-      "solution": "Dormant accounts = ones not being used.",
-      "trick": "Read the vocab word back into its own sentence and swap in the option."
-    },
-    {
-      "id": "mini-mock-1-q010",
-      "subject": "reasoning",
-      "question": "In a certain code, **BANK** is written as **CBOL**. How is **LOAN** written in that code?",
-      "options": [
-        "MPBO",
-        "KNBM",
-        "MPBM",
-        "KPBO",
-        "MNBO"
-      ],
-      "correct": 0,
-      "solution": "BANK -> CBOL is each letter +1. LOAN: L+1=M, O+1=P, A+1=B, N+1=O -> MPBO.",
-      "trick": "Compare position-by-position first; here every shift is exactly +1."
-    },
-    {
-      "id": "mini-mock-1-q011",
-      "subject": "quant",
-      "question": "In each, solve for x and y and choose the relation:\n**I.** `x^2 - 7x + 12 = 0`\n**II.** `y^2 - 9y + 20 = 0`",
-      "options": [
-        "x > y",
-        "x < y",
-        "x >= y",
-        "x <= y",
-        "x = y or no relation"
-      ],
-      "correct": 3,
-      "solution": "I: (x-3)(x-4)=0 -> x = 3 or 4. II: (y-4)(y-5)=0 -> y = 4 or 5. Every x value <= every y value, so x <= y.",
-      "trick": "List both root sets on a number line; if they only touch at one point, it's an \"equal-or\" (<= / >=) answer, not strict."
-    },
-    {
-      "id": "mini-mock-1-q012",
-      "subject": "english",
-      "question": "Fill both blanks: *Despite _____ evidence, the committee refused to _____ its earlier decision.*",
-      "options": [
-        "compelling / reconsider",
-        "weak / uphold",
-        "ample / ignore",
-        "scanty / revise",
-        "strong / maintain"
-      ],
-      "correct": 0,
-      "solution": "\"Despite strong evidence\" sets up a contrast with refusing to rethink -> \"compelling / reconsider\" fits both slots logically.",
-      "trick": "In double-fills, lock the blank you're surest of first (here \"reconsider\" after \"refused to\") and eliminate."
-    },
-    {
-      "id": "mini-mock-1-q013",
-      "subject": "reasoning",
-      "group": "Puzzle set (Q13-Q15)",
-      "context": "*Directions (Q13-Q15): Five people — P, Q, R, S and T — live on a five-floor building, floor 1 the bottom and floor 5 the top, one person per floor.*\n*P lives on floor 3. Q lives immediately above P. R lives on the topmost floor. T lives immediately above S.*",
-      "question": "Who lives on the topmost floor?",
-      "options": [
-        "P",
-        "Q",
-        "R",
-        "S",
-        "T"
-      ],
-      "correct": 2,
-      "solution": "Given directly: R is on the topmost floor.",
-      "trick": "Always cash the direct clue before deducing anything."
-    },
-    {
-      "id": "mini-mock-1-q014",
-      "subject": "reasoning",
-      "group": "Puzzle set (Q13-Q15)",
-      "context": "*Directions (Q13-Q15): Five people — P, Q, R, S and T — live on a five-floor building, floor 1 the bottom and floor 5 the top, one person per floor.*\n*P lives on floor 3. Q lives immediately above P. R lives on the topmost floor. T lives immediately above S.*",
-      "question": "Who lives on floor 2?",
-      "options": [
-        "P",
-        "Q",
-        "R",
-        "S",
-        "T"
-      ],
-      "correct": 4,
-      "solution": "Arrangement: 1=S, 2=T, 3=P, 4=Q, 5=R. So floor 2 is T.",
-      "trick": "P=3 and Q above it fixes 4; R=5; T-above-S must then be 1-2 in the only gap."
-    },
-    {
-      "id": "mini-mock-1-q015",
-      "subject": "reasoning",
-      "group": "Puzzle set (Q13-Q15)",
-      "context": "*Directions (Q13-Q15): Five people — P, Q, R, S and T — live on a five-floor building, floor 1 the bottom and floor 5 the top, one person per floor.*\n*P lives on floor 3. Q lives immediately above P. R lives on the topmost floor. T lives immediately above S.*",
-      "question": "How many people live between Q and S?",
-      "options": [
-        "0",
-        "1",
-        "2",
-        "3",
-        "4"
-      ],
-      "correct": 2,
-      "solution": "Q is floor 4, S is floor 1; between them are floors 2 and 3 = 2 people (T and P).",
-      "trick": "\"Between\" excludes the endpoints — count the floors strictly in the middle."
-    },
-    {
-      "id": "mini-mock-1-q016",
-      "subject": "quant",
-      "question": "A number is first increased by 20% and then the result is decreased by 20%. The net change is:",
-      "options": [
-        "no change",
-        "4% increase",
-        "4% decrease",
-        "2% decrease",
-        "20% decrease"
-      ],
-      "correct": 2,
-      "solution": "1.20 x 0.80 = 0.96 -> a 4% net fall.",
-      "trick": "+a% then -a% always gives a fall of (a/10)^2 percent — here (20/10)^2 = 4%."
-    },
-    {
-      "id": "mini-mock-1-q017",
-      "subject": "english",
-      "question": "Improve the underlined part: *She is one of the most brilliant <u>student</u> in the class.*",
-      "options": [
-        "most brilliant students",
-        "more brilliant student",
-        "brilliant student",
-        "most brilliance student",
-        "No improvement"
-      ],
-      "correct": 0,
-      "solution": "\"One of the + superlative\" takes a plural noun.",
-      "trick": "\"One of the ...\" is always followed by a plural."
-    },
-    {
-      "id": "mini-mock-1-q018",
-      "subject": "reasoning",
-      "question": "A man walks 5 m North, turns right and walks 5 m, then turns right and walks 10 m. How far is he from his starting point?",
-      "options": [
-        "5 m",
-        "10 m",
-        "5√2 m",
-        "10√2 m",
-        "15 m"
-      ],
-      "correct": 2,
-      "solution": "N5 -> (0,5); right = East 5 -> (5,5); right = South 10 -> (5,-5). Distance = √(5² + 5²) = √50 = 5√2.",
-      "trick": "Sketch on axes; net displacement is the hypotenuse of the East and North-South legs."
-    },
-    {
-      "id": "mini-mock-1-q019",
-      "subject": "quant",
-      "group": "DI table (Q19-Q21)",
-      "context": "*Directions (Q19-Q21): The table shows loans disbursed (in ₹ crore) by a bank.*\n\n| Year | Agriculture | Industry |\n|------|-------------|----------|\n| 2020 | 120 | 180 |\n| 2021 | 150 | 200 |\n| 2022 | 180 | 225 |\n| 2023 | 210 | 300 |",
-      "question": "What is the total Agriculture loan disbursed over the four years (₹ crore)?",
-      "options": [
-        "620",
-        "640",
-        "660",
-        "680",
-        "700"
-      ],
-      "correct": 2,
-      "solution": "120 + 150 + 180 + 210 = 660.",
-      "trick": "Pair for speed: (120+180) + (150+210) = 300 + 360 = 660."
-    },
-    {
-      "id": "mini-mock-1-q020",
-      "subject": "quant",
-      "group": "DI table (Q19-Q21)",
-      "context": "*Directions (Q19-Q21): The table shows loans disbursed (in ₹ crore) by a bank.*\n\n| Year | Agriculture | Industry |\n|------|-------------|----------|\n| 2020 | 120 | 180 |\n| 2021 | 150 | 200 |\n| 2022 | 180 | 225 |\n| 2023 | 210 | 300 |",
-      "question": "In which year was the ratio of Agriculture loans to Industry loans the highest?",
-      "options": [
-        "2020",
-        "2021",
-        "2022",
-        "2023",
-        "2021 and 2022 are equal"
-      ],
-      "correct": 2,
-      "solution": "Ratios: 120/180 = 0.67, 150/200 = 0.75, 180/225 = 0.80, 210/300 = 0.70. Highest = 2022.",
-      "trick": "You don't need exact decimals — 180/225 = 0.8 clearly beats 150/200 = 0.75; scan for the biggest numerator-vs-denominator gap."
-    },
-    {
-      "id": "mini-mock-1-q021",
-      "subject": "quant",
-      "group": "DI table (Q19-Q21)",
-      "context": "*Directions (Q19-Q21): The table shows loans disbursed (in ₹ crore) by a bank.*\n\n| Year | Agriculture | Industry |\n|------|-------------|----------|\n| 2020 | 120 | 180 |\n| 2021 | 150 | 200 |\n| 2022 | 180 | 225 |\n| 2023 | 210 | 300 |",
-      "question": "By what percentage did Industry loans increase from 2021 to 2023?",
-      "options": [
-        "33.3%",
-        "40%",
-        "50%",
-        "60%",
-        "100%"
-      ],
-      "correct": 2,
-      "solution": "(300 − 200)/200 x 100 = 50%.",
-      "trick": "Increase from 200 to 300 is \"half again\" = 50%."
-    },
-    {
-      "id": "mini-mock-1-q022",
-      "subject": "english",
-      "question": "Choose the word most nearly OPPOSITE to **PROLIFIC**.",
-      "options": [
-        "productive",
-        "abundant",
-        "unproductive",
-        "fertile",
-        "rapid"
-      ],
-      "correct": 2,
-      "solution": "Prolific = highly productive/fruitful; opposite is unproductive.",
-      "trick": "\"Pro-\" + fertile sense; the antonym must carry a \"barren/idle\" meaning — only (c) does."
-    },
-    {
-      "id": "mini-mock-1-q023",
-      "subject": "reasoning",
-      "question": "Given the statement: `P > Q >= R = S < T`. Which conclusion is definitely true?\n**I.** P > S  **II.** T > R",
-      "options": [
-        "Only I is true",
-        "Only II is true",
-        "Both I and II are true",
-        "P < T",
-        "Neither is true"
-      ],
-      "correct": 2,
-      "solution": "P > Q >= R = S, so P > S (I true). R = S < T, so T > R (II true).",
-      "trick": "Follow the chain of signs; an equality (=) passes the inequality straight through."
-    },
-    {
-      "id": "mini-mock-1-q024",
-      "subject": "quant",
-      "question": "The average of five consecutive even numbers is 34. What is the largest of them?",
-      "options": [
-        "34",
-        "36",
-        "38",
-        "40",
-        "42"
-      ],
-      "correct": 2,
-      "solution": "For consecutive evens the average is the middle term = 34 -> 30, 32, 34, 36, 38; largest = 38.",
-      "trick": "Average of an odd count of evenly spaced numbers is the middle one; add 2+2 to reach the top."
-    },
-    {
-      "id": "mini-mock-1-q025",
-      "subject": "english",
-      "question": "Arrange the sentences into a coherent paragraph:\n**A.** However, this convenience comes with new risks of fraud.\n**B.** Mobile banking has transformed how customers interact with banks.\n**C.** Customers can now transfer money at any hour without visiting a branch.\n**D.** Banks therefore invest heavily in security systems to protect users.",
-      "options": [
-        "BCAD",
-        "BACD",
-        "CBAD",
-        "BCDA",
-        "ABCD"
-      ],
-      "correct": 0,
-      "solution": "B introduces mobile banking, C gives the benefit, A the contrasting risk (\"however\"), D the bank's response (\"therefore\").",
-      "trick": "Find the opener (broad statement, no pronoun) then follow the connectors however/therefore to order the rest."
-    },
-    {
-      "id": "mini-mock-1-q026",
-      "subject": "quant",
-      "question": "A can finish a job in 12 days and B in 24 days. Working together, how long will they take?",
-      "options": [
-        "6 days",
-        "8 days",
-        "9 days",
-        "10 days",
-        "18 days"
-      ],
-      "correct": 1,
-      "solution": "1/12 + 1/24 = 2/24 + 1/24 = 3/24 = 1/8 -> 8 days.",
-      "trick": "LCM method: total work = 24 units, rates 2 + 1 = 3/day -> 24/3 = 8."
-    },
-    {
-      "id": "mini-mock-1-q027",
-      "subject": "english",
-      "question": "The idiom **\"to beat around the bush\"** means:",
-      "options": [
-        "to work very hard",
-        "to avoid coming to the main point",
-        "to win a contest easily",
-        "to travel a long way",
-        "to plant a garden"
-      ],
-      "correct": 1,
-      "solution": "Standard idiom for being evasive.",
-      "trick": "\"Around\" the bush = never hitting the centre = dodging the point."
-    },
-    {
-      "id": "mini-mock-1-q028",
-      "subject": "reasoning",
-      "question": "Find the odd one out:",
-      "options": [
-        "32",
-        "64",
-        "128",
-        "256",
-        "100"
-      ],
-      "correct": 4,
-      "solution": "32, 64, 128, 256 are all powers of 2; 100 is not.",
-      "trick": "Scan for a common rule (doubling here) and flag the one that breaks it."
-    },
-    {
-      "id": "mini-mock-1-q029",
-      "subject": "english",
-      "question": "Fill the blank: *The new policy is expected to _____ the concerns of small depositors.*",
-      "options": [
-        "aggravate",
-        "address",
-        "ignore",
-        "dismiss",
-        "neglect"
-      ],
-      "correct": 1,
-      "solution": "To \"address concerns\" = to deal with them; the sentence is positive about the policy.",
-      "trick": "The other four options are all negative (aggravate/ignore/dismiss/neglect) — the odd positive one is your answer."
-    },
-    {
-      "id": "mini-mock-1-q030",
-      "subject": "english",
-      "question": "Choose the correctly spelled word:",
-      "options": [
-        "Occassion",
-        "Occasion",
-        "Ocasion",
-        "Occasson",
-        "Ocassion"
-      ],
-      "correct": 1,
-      "solution": "One c, two s.",
-      "trick": "Remember \"occaSion\" — double s, single c and single n."
-    }
-  ]
+ "title": "Mixed Mini-Mock 1",
+ "section": "mixed",
+ "kind": "quiz",
+ "source": "mini-mock-1.md",
+ "questions": [
+  {
+   "id": "mini-mock-1-q001",
+   "subject": "english",
+   "question": "Choose the word most similar in meaning to **MITIGATE**.",
+   "options": [
+    "worsen",
+    "alleviate",
+    "confuse",
+    "postpone",
+    "expand"
+   ],
+   "correct": 1,
+   "solution": "Mitigate = to make less severe.",
+   "trick": "\"mit-\" softens (think *mild*); opposite of aggravate."
+  },
+  {
+   "id": "mini-mock-1-q002",
+   "subject": "reasoning",
+   "question": "Statements: *All pens are books. All books are papers.*\nConclusions: **I.** All pens are papers. **II.** Some papers are pens.\nWhich conclusion(s) follow?",
+   "options": [
+    "Only I follows",
+    "Only II follows",
+    "Both I and II follow",
+    "Neither follows",
+    "Either I or II follows"
+   ],
+   "correct": 2,
+   "solution": "All pens -> books -> papers, so all pens are papers (I). \"All pens are papers\" converts to \"some papers are pens\" (II).",
+   "trick": "A universal \"All A are C\" always yields the particular converse \"Some C are A.\""
+  },
+  {
+   "id": "mini-mock-1-q003",
+   "subject": "quant",
+   "question": "Approximate value: `24.98% of 200 + 15.02% of 400 = ?`",
+   "options": [
+    "90",
+    "100",
+    "110",
+    "120",
+    "130"
+   ],
+   "correct": 2,
+   "solution": "25% of 200 = 50; 15% of 400 = 60; 50 + 60 = 110.",
+   "trick": "In approximation, round the ugly percentages (24.98 -> 25, 15.02 -> 15) before multiplying."
+  },
+  {
+   "id": "mini-mock-1-q004",
+   "subject": "english",
+   "question": "Find the part with the error:\n*Neither the manager nor his subordinates (a) / was present (b) / at the meeting (c) / held yesterday. (d) / No error (e)*",
+   "options": [
+    "Neither the manager nor his subordinates",
+    "was present",
+    "at the meeting",
+    "held yesterday",
+    "No error"
+   ],
+   "correct": 1,
+   "solution": "With \"Neither...nor\", the verb agrees with the nearer subject \"subordinates\" (plural) -> \"were present.\"",
+   "trick": "Nor/or/either — verb matches the *nearest* noun."
+  },
+  {
+   "id": "mini-mock-1-q005",
+   "subject": "reasoning",
+   "question": "Pointing to a photograph, a man said, \"She is the daughter of my grandfather's only son.\" How is the woman related to the man?",
+   "options": [
+    "Daughter",
+    "Niece",
+    "Sister",
+    "Aunt",
+    "Cousin"
+   ],
+   "correct": 2,
+   "solution": "Grandfather's only son = the man's father. Father's daughter = his sister.",
+   "trick": "Collapse the chain to the nearest person: \"only son of my grandfather\" is almost always \"my father.\""
+  },
+  {
+   "id": "mini-mock-1-q006",
+   "subject": "quant",
+   "question": "What comes next in the series? `5, 6, 10, 19, 35, ?`",
+   "options": [
+    "56",
+    "58",
+    "60",
+    "65",
+    "70"
+   ],
+   "correct": 2,
+   "solution": "Differences are +1, +4, +9, +16 (perfect squares) -> next is +25 -> 35 + 25 = 60.",
+   "trick": "When gaps grow fast, test 1,4,9,16 (squares) or cubes before anything else."
+  },
+  {
+   "id": "mini-mock-1-q007",
+   "subject": "english",
+   "group": "RC passage (Q7-Q9)",
+   "context": "*Directions (Q7-Q9): Read the passage and answer.*\n\nFinancial inclusion has become a central goal for policymakers in developing economies. By bringing unbanked populations into the formal banking system, governments hope to reduce dependence on informal lenders who often charge exorbitant rates. Digital payment systems have accelerated this shift, allowing even small vendors to accept electronic money without costly infrastructure. Yet inclusion is not merely about opening accounts; a large share of newly opened accounts remain dormant. Experts argue that genuine inclusion requires financial literacy, trust in institutions, and products designed for low-income users. Without these, the poor may open accounts to receive government transfers but continue to rely on cash and informal credit for daily needs. The challenge, therefore, is not access alone but meaningful and sustained usage.",
+   "question": "The primary purpose of the passage is to:",
+   "options": [
+    "criticise digital payment systems",
+    "argue that account access alone does not ensure genuine financial inclusion",
+    "praise informal lenders for their flexibility",
+    "describe the cost of banking infrastructure",
+    "promote government cash transfers"
+   ],
+   "correct": 1,
+   "solution": "The passage's thesis is stated at the end: \"not access alone but meaningful and sustained usage.\"",
+   "trick": "For \"primary purpose\", find the sentence that *qualifies* or *pushes back* — usually near \"yet/therefore\"."
+  },
+  {
+   "id": "mini-mock-1-q008",
+   "subject": "english",
+   "group": "RC passage (Q7-Q9)",
+   "context": "*Directions (Q7-Q9): Read the passage and answer.*\n\nFinancial inclusion has become a central goal for policymakers in developing economies. By bringing unbanked populations into the formal banking system, governments hope to reduce dependence on informal lenders who often charge exorbitant rates. Digital payment systems have accelerated this shift, allowing even small vendors to accept electronic money without costly infrastructure. Yet inclusion is not merely about opening accounts; a large share of newly opened accounts remain dormant. Experts argue that genuine inclusion requires financial literacy, trust in institutions, and products designed for low-income users. Without these, the poor may open accounts to receive government transfers but continue to rely on cash and informal credit for daily needs. The challenge, therefore, is not access alone but meaningful and sustained usage.",
+   "question": "According to the passage, why do many newly opened accounts remain dormant?",
+   "options": [
+    "Banks close them for inactivity",
+    "Users lack literacy, trust and suitable products",
+    "Digital payments are banned in villages",
+    "Informal lenders forbid their use",
+    "The government stops all transfers"
+   ],
+   "correct": 1,
+   "solution": "Directly stated: genuine inclusion needs literacy, trust and products for low-income users; without them accounts sit idle.",
+   "trick": "Detail questions are answered verbatim in the text — match, don't reason."
+  },
+  {
+   "id": "mini-mock-1-q009",
+   "subject": "english",
+   "group": "RC passage (Q7-Q9)",
+   "context": "*Directions (Q7-Q9): Read the passage and answer.*\n\nFinancial inclusion has become a central goal for policymakers in developing economies. By bringing unbanked populations into the formal banking system, governments hope to reduce dependence on informal lenders who often charge exorbitant rates. Digital payment systems have accelerated this shift, allowing even small vendors to accept electronic money without costly infrastructure. Yet inclusion is not merely about opening accounts; a large share of newly opened accounts remain dormant. Experts argue that genuine inclusion requires financial literacy, trust in institutions, and products designed for low-income users. Without these, the poor may open accounts to receive government transfers but continue to rely on cash and informal credit for daily needs. The challenge, therefore, is not access alone but meaningful and sustained usage.",
+   "question": "Which word is closest in meaning to **dormant** as used in the passage?",
+   "options": [
+    "active",
+    "inactive",
+    "profitable",
+    "fraudulent",
+    "shared"
+   ],
+   "correct": 1,
+   "solution": "Dormant accounts = ones not being used.",
+   "trick": "Read the vocab word back into its own sentence and swap in the option."
+  },
+  {
+   "id": "mini-mock-1-q010",
+   "subject": "reasoning",
+   "question": "In a certain code, **BANK** is written as **CBOL**. How is **LOAN** written in that code?",
+   "options": [
+    "MPBO",
+    "KNBM",
+    "MPBM",
+    "KPBO",
+    "MNBO"
+   ],
+   "correct": 0,
+   "solution": "BANK -> CBOL is each letter +1. LOAN: L+1=M, O+1=P, A+1=B, N+1=O -> MPBO.",
+   "trick": "Compare position-by-position first; here every shift is exactly +1."
+  },
+  {
+   "id": "mini-mock-1-q011",
+   "subject": "quant",
+   "question": "In each, solve for x and y and choose the relation:\n**I.** `x^2 - 7x + 12 = 0`\n**II.** `y^2 - 9y + 20 = 0`",
+   "options": [
+    "x > y",
+    "x < y",
+    "x >= y",
+    "x <= y",
+    "x = y or no relation"
+   ],
+   "correct": 3,
+   "solution": "I: (x-3)(x-4)=0 -> x = 3 or 4. II: (y-4)(y-5)=0 -> y = 4 or 5. Every x value <= every y value, so x <= y.",
+   "trick": "List both root sets on a number line; if they only touch at one point, it's an \"equal-or\" (<= / >=) answer, not strict."
+  },
+  {
+   "id": "mini-mock-1-q012",
+   "subject": "english",
+   "question": "Fill both blanks: *Despite _____ evidence, the committee refused to _____ its earlier decision.*",
+   "options": [
+    "compelling / reconsider",
+    "weak / uphold",
+    "ample / ignore",
+    "scanty / revise",
+    "strong / maintain"
+   ],
+   "correct": 0,
+   "solution": "\"Despite strong evidence\" sets up a contrast with refusing to rethink -> \"compelling / reconsider\" fits both slots logically.",
+   "trick": "In double-fills, lock the blank you're surest of first (here \"reconsider\" after \"refused to\") and eliminate."
+  },
+  {
+   "id": "mini-mock-1-q013",
+   "subject": "reasoning",
+   "group": "Puzzle set (Q13-Q15)",
+   "context": "*Directions (Q13-Q15): Five people — P, Q, R, S and T — live on a five-floor building, floor 1 the bottom and floor 5 the top, one person per floor.*\n*P lives on floor 3. Q lives immediately above P. R lives on the topmost floor. T lives immediately above S.*",
+   "question": "Who lives on the topmost floor?",
+   "options": [
+    "P",
+    "Q",
+    "R",
+    "S",
+    "T"
+   ],
+   "correct": 2,
+   "solution": "Given directly: R is on the topmost floor.",
+   "trick": "Always cash the direct clue before deducing anything."
+  },
+  {
+   "id": "mini-mock-1-q014",
+   "subject": "reasoning",
+   "group": "Puzzle set (Q13-Q15)",
+   "context": "*Directions (Q13-Q15): Five people — P, Q, R, S and T — live on a five-floor building, floor 1 the bottom and floor 5 the top, one person per floor.*\n*P lives on floor 3. Q lives immediately above P. R lives on the topmost floor. T lives immediately above S.*",
+   "question": "Who lives on floor 2?",
+   "options": [
+    "P",
+    "Q",
+    "R",
+    "S",
+    "T"
+   ],
+   "correct": 4,
+   "solution": "Arrangement: 1=S, 2=T, 3=P, 4=Q, 5=R. So floor 2 is T.",
+   "trick": "P=3 and Q above it fixes 4; R=5; T-above-S must then be 1-2 in the only gap."
+  },
+  {
+   "id": "mini-mock-1-q015",
+   "subject": "reasoning",
+   "group": "Puzzle set (Q13-Q15)",
+   "context": "*Directions (Q13-Q15): Five people — P, Q, R, S and T — live on a five-floor building, floor 1 the bottom and floor 5 the top, one person per floor.*\n*P lives on floor 3. Q lives immediately above P. R lives on the topmost floor. T lives immediately above S.*",
+   "question": "How many people live between Q and S?",
+   "options": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "correct": 2,
+   "solution": "Q is floor 4, S is floor 1; between them are floors 2 and 3 = 2 people (T and P).",
+   "trick": "\"Between\" excludes the endpoints — count the floors strictly in the middle."
+  },
+  {
+   "id": "mini-mock-1-q016",
+   "subject": "quant",
+   "question": "A number is first increased by 20% and then the result is decreased by 20%. The net change is:",
+   "options": [
+    "no change",
+    "4% increase",
+    "4% decrease",
+    "2% decrease",
+    "20% decrease"
+   ],
+   "correct": 2,
+   "solution": "1.20 x 0.80 = 0.96 -> a 4% net fall.",
+   "trick": "+a% then -a% always gives a fall of (a/10)^2 percent — here (20/10)^2 = 4%."
+  },
+  {
+   "id": "mini-mock-1-q017",
+   "subject": "english",
+   "question": "Improve the underlined part: *She is one of the most brilliant <u>student</u> in the class.*",
+   "options": [
+    "most brilliant students",
+    "more brilliant student",
+    "brilliant student",
+    "most brilliance student",
+    "No improvement"
+   ],
+   "correct": 0,
+   "solution": "\"One of the + superlative\" takes a plural noun.",
+   "trick": "\"One of the ...\" is always followed by a plural."
+  },
+  {
+   "id": "mini-mock-1-q018",
+   "subject": "reasoning",
+   "question": "A man walks 5 m North, turns right and walks 5 m, then turns right and walks 10 m. How far is he from his starting point?",
+   "options": [
+    "5 m",
+    "10 m",
+    "5√2 m",
+    "10√2 m",
+    "15 m"
+   ],
+   "correct": 2,
+   "solution": "N5 -> (0,5); right = East 5 -> (5,5); right = South 10 -> (5,-5). Distance = √(5² + 5²) = √50 = 5√2.",
+   "trick": "Sketch on axes; net displacement is the hypotenuse of the East and North-South legs."
+  },
+  {
+   "id": "mini-mock-1-q019",
+   "subject": "quant",
+   "group": "DI table (Q19-Q21)",
+   "context": "*Directions (Q19-Q21): The table shows loans disbursed (in ₹ crore) by a bank.*\n\n| Year | Agriculture | Industry |\n|------|-------------|----------|\n| 2020 | 120 | 180 |\n| 2021 | 150 | 200 |\n| 2022 | 180 | 225 |\n| 2023 | 210 | 300 |",
+   "question": "What is the total Agriculture loan disbursed over the four years (₹ crore)?",
+   "options": [
+    "620",
+    "640",
+    "660",
+    "680",
+    "700"
+   ],
+   "correct": 2,
+   "solution": "120 + 150 + 180 + 210 = 660.",
+   "trick": "Pair for speed: (120+180) + (150+210) = 300 + 360 = 660."
+  },
+  {
+   "id": "mini-mock-1-q020",
+   "subject": "quant",
+   "group": "DI table (Q19-Q21)",
+   "context": "*Directions (Q19-Q21): The table shows loans disbursed (in ₹ crore) by a bank.*\n\n| Year | Agriculture | Industry |\n|------|-------------|----------|\n| 2020 | 120 | 180 |\n| 2021 | 150 | 200 |\n| 2022 | 180 | 225 |\n| 2023 | 210 | 300 |",
+   "question": "In which year was the ratio of Agriculture loans to Industry loans the highest?",
+   "options": [
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2021 and 2022 are equal"
+   ],
+   "correct": 2,
+   "solution": "Ratios: 120/180 = 0.67, 150/200 = 0.75, 180/225 = 0.80, 210/300 = 0.70. Highest = 2022.",
+   "trick": "You don't need exact decimals — 180/225 = 0.8 clearly beats 150/200 = 0.75; scan for the biggest numerator-vs-denominator gap."
+  },
+  {
+   "id": "mini-mock-1-q021",
+   "subject": "quant",
+   "group": "DI table (Q19-Q21)",
+   "context": "*Directions (Q19-Q21): The table shows loans disbursed (in ₹ crore) by a bank.*\n\n| Year | Agriculture | Industry |\n|------|-------------|----------|\n| 2020 | 120 | 180 |\n| 2021 | 150 | 200 |\n| 2022 | 180 | 225 |\n| 2023 | 210 | 300 |",
+   "question": "By what percentage did Industry loans increase from 2021 to 2023?",
+   "options": [
+    "33.3%",
+    "40%",
+    "50%",
+    "60%",
+    "100%"
+   ],
+   "correct": 2,
+   "solution": "(300 − 200)/200 x 100 = 50%.",
+   "trick": "Increase from 200 to 300 is \"half again\" = 50%."
+  },
+  {
+   "id": "mini-mock-1-q022",
+   "subject": "english",
+   "question": "Choose the word most nearly OPPOSITE to **PROLIFIC**.",
+   "options": [
+    "productive",
+    "abundant",
+    "unproductive",
+    "fertile",
+    "rapid"
+   ],
+   "correct": 2,
+   "solution": "Prolific = highly productive/fruitful; opposite is unproductive.",
+   "trick": "\"Pro-\" + fertile sense; the antonym must carry a \"barren/idle\" meaning — only (c) does."
+  },
+  {
+   "id": "mini-mock-1-q023",
+   "subject": "reasoning",
+   "question": "Given the statement: `P > Q >= R = S < T`. Which conclusion is definitely true?\n**I.** P > S  **II.** T > R",
+   "options": [
+    "Only I is true",
+    "Only II is true",
+    "Both I and II are true",
+    "P < T",
+    "Neither is true"
+   ],
+   "correct": 2,
+   "solution": "P > Q >= R = S, so P > S (I true). R = S < T, so T > R (II true).",
+   "trick": "Follow the chain of signs; an equality (=) passes the inequality straight through."
+  },
+  {
+   "id": "mini-mock-1-q024",
+   "subject": "quant",
+   "question": "The average of five consecutive even numbers is 34. What is the largest of them?",
+   "options": [
+    "34",
+    "36",
+    "38",
+    "40",
+    "42"
+   ],
+   "correct": 2,
+   "solution": "For consecutive evens the average is the middle term = 34 -> 30, 32, 34, 36, 38; largest = 38.",
+   "trick": "Average of an odd count of evenly spaced numbers is the middle one; add 2+2 to reach the top."
+  },
+  {
+   "id": "mini-mock-1-q025",
+   "subject": "english",
+   "question": "Arrange the sentences into a coherent paragraph:\n**A.** However, this convenience comes with new risks of fraud.\n**B.** Mobile banking has transformed how customers interact with banks.\n**C.** Customers can now transfer money at any hour without visiting a branch.\n**D.** Banks therefore invest heavily in security systems to protect users.",
+   "options": [
+    "BCAD",
+    "BACD",
+    "CBAD",
+    "BCDA",
+    "ABCD"
+   ],
+   "correct": 0,
+   "solution": "B introduces mobile banking, C gives the benefit, A the contrasting risk (\"however\"), D the bank's response (\"therefore\").",
+   "trick": "Find the opener (broad statement, no pronoun) then follow the connectors however/therefore to order the rest."
+  },
+  {
+   "id": "mini-mock-1-q026",
+   "subject": "quant",
+   "question": "A can finish a job in 12 days and B in 24 days. Working together, how long will they take?",
+   "options": [
+    "6 days",
+    "8 days",
+    "9 days",
+    "10 days",
+    "18 days"
+   ],
+   "correct": 1,
+   "solution": "1/12 + 1/24 = 2/24 + 1/24 = 3/24 = 1/8 -> 8 days.",
+   "trick": "LCM method: total work = 24 units, rates 2 + 1 = 3/day -> 24/3 = 8."
+  },
+  {
+   "id": "mini-mock-1-q027",
+   "subject": "english",
+   "question": "The idiom **\"to beat around the bush\"** means:",
+   "options": [
+    "to work very hard",
+    "to avoid coming to the main point",
+    "to win a contest easily",
+    "to travel a long way",
+    "to plant a garden"
+   ],
+   "correct": 1,
+   "solution": "Standard idiom for being evasive.",
+   "trick": "\"Around\" the bush = never hitting the centre = dodging the point."
+  },
+  {
+   "id": "mini-mock-1-q028",
+   "subject": "reasoning",
+   "question": "Find the odd one out:",
+   "options": [
+    "32",
+    "64",
+    "128",
+    "256",
+    "100"
+   ],
+   "correct": 4,
+   "solution": "32, 64, 128, 256 are all powers of 2; 100 is not.",
+   "trick": "Scan for a common rule (doubling here) and flag the one that breaks it."
+  },
+  {
+   "id": "mini-mock-1-q029",
+   "subject": "english",
+   "question": "Fill the blank: *The new policy is expected to _____ the concerns of small depositors.*",
+   "options": [
+    "aggravate",
+    "address",
+    "ignore",
+    "dismiss",
+    "neglect"
+   ],
+   "correct": 1,
+   "solution": "To \"address concerns\" = to deal with them; the sentence is positive about the policy.",
+   "trick": "The other four options are all negative (aggravate/ignore/dismiss/neglect) — the odd positive one is your answer."
+  },
+  {
+   "id": "mini-mock-1-q030",
+   "subject": "english",
+   "question": "Choose the correctly spelled word:",
+   "options": [
+    "Occassion",
+    "Occasion",
+    "Ocasion",
+    "Occasson",
+    "Ocassion"
+   ],
+   "correct": 1,
+   "solution": "The correct spelling is **Occasion** - double c, single s. The common misspellings double the s (occassion) or drop a c (ocasion).",
+   "trick": "Remember \"occaSion\" — double s, single c and single n."
+  }
+ ]
 }
