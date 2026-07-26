@@ -1,0 +1,354 @@
+{
+  "title": "Reading Comprehension, Cloze & Fillers — Practice",
+  "section": "english",
+  "kind": "quiz",
+  "source": "english-rc-cloze.md",
+  "questions": [
+    {
+      "id": "english-rc-cloze-q001",
+      "group": "Reading Comprehension — Passage 1",
+      "context": "India's push toward a less-cash economy has produced a curious paradox. Even as digital payments through unified interfaces have grown to record volumes, the amount of physical currency in circulation has also risen steadily. Economists offer two explanations. First, digital transactions have largely replaced cheques and card swipes rather than cash itself; people still hold notes as a store of value and for informal, small-ticket trade. Second, cash remains a hedge against uncertainty. During periods of economic stress, households instinctively withdraw and hoard currency, trusting a note in hand over a balance on a screen.\n\nThe lesson for policymakers is that digital adoption and cash usage are not strictly a zero-sum game. Building payment rails is necessary but not sufficient. Unless citizens feel that the banking system is secure, accessible, and forgiving of error, the reassuring weight of paper money will not disappear. Financial inclusion, in this reading, is less a matter of technology than of trust.",
+      "question": "What is the main idea of the passage?",
+      "options": [
+        "Digital payments have completely replaced cash in India.",
+        "Rising digital payments have not eliminated cash because trust, not technology, drives currency habits.",
+        "Cheques and cards are more popular than digital interfaces.",
+        "Policymakers should stop building digital payment systems.",
+        "Households never withdraw cash during economic stress."
+      ],
+      "correct": 1,
+      "solution": "The passage's whole arc is that digital growth has not killed cash, and the closing line names trust, not technology, as the driver. (a), (c), (d), (e) each contradict or overstate the text.",
+      "trick": "RC main idea: the correct answer must cover the *whole* passage, not one supporting detail. Reject options that are true but narrow, and reject any that go beyond what the text says."
+    },
+    {
+      "id": "english-rc-cloze-q002",
+      "group": "Reading Comprehension — Passage 1",
+      "context": "India's push toward a less-cash economy has produced a curious paradox. Even as digital payments through unified interfaces have grown to record volumes, the amount of physical currency in circulation has also risen steadily. Economists offer two explanations. First, digital transactions have largely replaced cheques and card swipes rather than cash itself; people still hold notes as a store of value and for informal, small-ticket trade. Second, cash remains a hedge against uncertainty. During periods of economic stress, households instinctively withdraw and hoard currency, trusting a note in hand over a balance on a screen.\n\nThe lesson for policymakers is that digital adoption and cash usage are not strictly a zero-sum game. Building payment rails is necessary but not sufficient. Unless citizens feel that the banking system is secure, accessible, and forgiving of error, the reassuring weight of paper money will not disappear. Financial inclusion, in this reading, is less a matter of technology than of trust.",
+      "question": "According to the passage, why does physical currency in circulation keep rising despite digital growth?",
+      "options": [
+        "Because banks print more notes every year by law.",
+        "Because digital payments mostly replaced cheques and cards, while cash is still held as a store of value and hedge.",
+        "Because digital interfaces have failed technically.",
+        "Because informal trade has been banned.",
+        "Because card swipes have increased sharply."
+      ],
+      "correct": 1,
+      "solution": "Stated directly: digital transactions \"largely replaced cheques and card swipes rather than cash,\" and people \"still hold notes as a store of value.\"",
+      "trick": "detail: locate the exact line; the right option paraphrases it without adding new claims."
+    },
+    {
+      "id": "english-rc-cloze-q003",
+      "group": "Reading Comprehension — Passage 1",
+      "context": "India's push toward a less-cash economy has produced a curious paradox. Even as digital payments through unified interfaces have grown to record volumes, the amount of physical currency in circulation has also risen steadily. Economists offer two explanations. First, digital transactions have largely replaced cheques and card swipes rather than cash itself; people still hold notes as a store of value and for informal, small-ticket trade. Second, cash remains a hedge against uncertainty. During periods of economic stress, households instinctively withdraw and hoard currency, trusting a note in hand over a balance on a screen.\n\nThe lesson for policymakers is that digital adoption and cash usage are not strictly a zero-sum game. Building payment rails is necessary but not sufficient. Unless citizens feel that the banking system is secure, accessible, and forgiving of error, the reassuring weight of paper money will not disappear. Financial inclusion, in this reading, is less a matter of technology than of trust.",
+      "question": "Which of the following can be inferred from the passage?",
+      "options": [
+        "Improving public confidence in banks would likely reduce dependence on cash.",
+        "Physical currency will vanish within a year.",
+        "Digital and cash usage always rise and fall together in fixed proportion.",
+        "Cheques are the fastest-growing payment method.",
+        "Economic stress reduces cash hoarding."
+      ],
+      "correct": 0,
+      "solution": "The final sentences tie cash-holding to a lack of trust in banks; so building secure, accessible, forgiving banking would logically lower cash dependence. (c) contradicts \"not strictly a zero-sum game.\"",
+      "trick": "inference: a valid inference is one small logical step from the text, never a leap. Extreme words (\"vanish within a year\") usually signal a wrong option."
+    },
+    {
+      "id": "english-rc-cloze-q004",
+      "group": "Reading Comprehension — Passage 1",
+      "context": "India's push toward a less-cash economy has produced a curious paradox. Even as digital payments through unified interfaces have grown to record volumes, the amount of physical currency in circulation has also risen steadily. Economists offer two explanations. First, digital transactions have largely replaced cheques and card swipes rather than cash itself; people still hold notes as a store of value and for informal, small-ticket trade. Second, cash remains a hedge against uncertainty. During periods of economic stress, households instinctively withdraw and hoard currency, trusting a note in hand over a balance on a screen.\n\nThe lesson for policymakers is that digital adoption and cash usage are not strictly a zero-sum game. Building payment rails is necessary but not sufficient. Unless citizens feel that the banking system is secure, accessible, and forgiving of error, the reassuring weight of paper money will not disappear. Financial inclusion, in this reading, is less a matter of technology than of trust.",
+      "question": "The word \"hedge\" as used in the passage most nearly means:",
+      "options": [
+        "a boundary of shrubs",
+        "a protection against possible loss or uncertainty",
+        "an evasive answer",
+        "a financial penalty",
+        "a sudden increase"
+      ],
+      "correct": 1,
+      "solution": "\"Cash remains a hedge against uncertainty\" — protection against possible loss.",
+      "trick": "vocab-in-context: judge the word only from *its sentence*, not its most common dictionary meaning. \"Hedge\" as shrubs (a) is common but wrong here."
+    },
+    {
+      "id": "english-rc-cloze-q005",
+      "group": "Reading Comprehension — Passage 1",
+      "context": "India's push toward a less-cash economy has produced a curious paradox. Even as digital payments through unified interfaces have grown to record volumes, the amount of physical currency in circulation has also risen steadily. Economists offer two explanations. First, digital transactions have largely replaced cheques and card swipes rather than cash itself; people still hold notes as a store of value and for informal, small-ticket trade. Second, cash remains a hedge against uncertainty. During periods of economic stress, households instinctively withdraw and hoard currency, trusting a note in hand over a balance on a screen.\n\nThe lesson for policymakers is that digital adoption and cash usage are not strictly a zero-sum game. Building payment rails is necessary but not sufficient. Unless citizens feel that the banking system is secure, accessible, and forgiving of error, the reassuring weight of paper money will not disappear. Financial inclusion, in this reading, is less a matter of technology than of trust.",
+      "question": "The tone of the passage can best be described as:",
+      "options": [
+        "sarcastic and dismissive",
+        "analytical and balanced",
+        "alarmed and fearful",
+        "celebratory and triumphant",
+        "nostalgic and sentimental"
+      ],
+      "correct": 1,
+      "solution": "The writer weighs two explanations and draws a measured lesson — no mockery, alarm, or celebration.",
+      "trick": "tone: match the author's stance to the language. Balanced, explanatory prose is \"analytical,\" never \"triumphant\" or \"fearful\" unless emotive words appear."
+    },
+    {
+      "id": "english-rc-cloze-q006",
+      "group": "Reading Comprehension — Passage 2",
+      "context": "When a large public-sector bank recently announced that it would keep several rural branches open despite their thin profits, market analysts were quick to call the decision uncommercial. Yet the bank's chairperson defended it in plainly strategic terms. A branch, she argued, is not merely a counter for deposits; it is the visible face of the institution in places where a mobile signal is unreliable and where an elderly farmer may never trust an app. To withdraw is to surrender the field to informal moneylenders whose interest rates trap the very borrowers a public bank is meant to protect.\n\nHer argument reframed the debate. Profitability measured branch by branch tells only part of the story. A rural presence generates goodwill, gathers low-cost deposits, and builds the credit histories that make future lending safer. Seen over a decade rather than a quarter, the \"loss-making\" branch may be among the bank's soundest long-term investments. The real question, she suggested, is not whether the branch pays, but over what horizon we choose to measure.",
+      "question": "The main idea of the passage is that:",
+      "options": [
+        "rural branches should be shut because they lose money.",
+        "a rural branch's value should be judged over a long horizon, not by quarterly branch-level profit.",
+        "mobile apps have made bank branches unnecessary.",
+        "moneylenders offer better rates than public banks.",
+        "analysts are always correct about commercial decisions."
+      ],
+      "correct": 1,
+      "solution": "The closing question — \"over what horizon we choose to measure\" — is the thesis: long-run value versus quarterly profit.",
+      "trick": "RC main idea: the concluding sentence often states the main point; check that your choice reflects it and spans the passage."
+    },
+    {
+      "id": "english-rc-cloze-q007",
+      "group": "Reading Comprehension — Passage 2",
+      "context": "When a large public-sector bank recently announced that it would keep several rural branches open despite their thin profits, market analysts were quick to call the decision uncommercial. Yet the bank's chairperson defended it in plainly strategic terms. A branch, she argued, is not merely a counter for deposits; it is the visible face of the institution in places where a mobile signal is unreliable and where an elderly farmer may never trust an app. To withdraw is to surrender the field to informal moneylenders whose interest rates trap the very borrowers a public bank is meant to protect.\n\nHer argument reframed the debate. Profitability measured branch by branch tells only part of the story. A rural presence generates goodwill, gathers low-cost deposits, and builds the credit histories that make future lending safer. Seen over a decade rather than a quarter, the \"loss-making\" branch may be among the bank's soundest long-term investments. The real question, she suggested, is not whether the branch pays, but over what horizon we choose to measure.",
+      "question": "According to the chairperson, what happens if the bank withdraws from rural areas?",
+      "options": [
+        "Deposits automatically increase.",
+        "Informal moneylenders fill the gap and trap borrowers with high rates.",
+        "Mobile signals improve.",
+        "The bank instantly becomes more profitable overall.",
+        "Farmers begin trusting apps."
+      ],
+      "correct": 1,
+      "solution": "\"To withdraw is to surrender the field to informal moneylenders whose interest rates trap the very borrowers a public bank is meant to protect.\"",
+      "trick": "detail: answer must restate the cause-effect the author actually gives, not a tempting opposite."
+    },
+    {
+      "id": "english-rc-cloze-q008",
+      "group": "Reading Comprehension — Passage 2",
+      "context": "When a large public-sector bank recently announced that it would keep several rural branches open despite their thin profits, market analysts were quick to call the decision uncommercial. Yet the bank's chairperson defended it in plainly strategic terms. A branch, she argued, is not merely a counter for deposits; it is the visible face of the institution in places where a mobile signal is unreliable and where an elderly farmer may never trust an app. To withdraw is to surrender the field to informal moneylenders whose interest rates trap the very borrowers a public bank is meant to protect.\n\nHer argument reframed the debate. Profitability measured branch by branch tells only part of the story. A rural presence generates goodwill, gathers low-cost deposits, and builds the credit histories that make future lending safer. Seen over a decade rather than a quarter, the \"loss-making\" branch may be among the bank's soundest long-term investments. The real question, she suggested, is not whether the branch pays, but over what horizon we choose to measure.",
+      "question": "Which of the following best captures an inference from the passage?",
+      "options": [
+        "Short-term, branch-level accounting can understate a branch's true strategic value.",
+        "Every rural branch is guaranteed to be profitable next quarter.",
+        "Goodwill has no effect on future lending.",
+        "The chairperson wants to close all rural branches.",
+        "Credit histories are irrelevant to safe lending."
+      ],
+      "correct": 0,
+      "solution": "The chairperson argues profitability \"measured branch by branch tells only part of the story,\" implying short-term branch accounting understates real value.",
+      "trick": "inference: pick the option the author would *agree* with; avoid absolutes like \"guaranteed\" and \"every.\""
+    },
+    {
+      "id": "english-rc-cloze-q009",
+      "group": "Reading Comprehension — Passage 2",
+      "context": "When a large public-sector bank recently announced that it would keep several rural branches open despite their thin profits, market analysts were quick to call the decision uncommercial. Yet the bank's chairperson defended it in plainly strategic terms. A branch, she argued, is not merely a counter for deposits; it is the visible face of the institution in places where a mobile signal is unreliable and where an elderly farmer may never trust an app. To withdraw is to surrender the field to informal moneylenders whose interest rates trap the very borrowers a public bank is meant to protect.\n\nHer argument reframed the debate. Profitability measured branch by branch tells only part of the story. A rural presence generates goodwill, gathers low-cost deposits, and builds the credit histories that make future lending safer. Seen over a decade rather than a quarter, the \"loss-making\" branch may be among the bank's soundest long-term investments. The real question, she suggested, is not whether the branch pays, but over what horizon we choose to measure.",
+      "question": "The word \"surrender\" as used in the passage most nearly means:",
+      "options": [
+        "to hand over control or give up",
+        "to sign a document",
+        "to celebrate a victory",
+        "to repair",
+        "to invest heavily"
+      ],
+      "correct": 0,
+      "solution": "\"Surrender the field to informal moneylenders\" = give up control to them.",
+      "trick": "vocab-in-context: substitute your candidate word back into the sentence; only \"give up control\" keeps the meaning."
+    },
+    {
+      "id": "english-rc-cloze-q010",
+      "group": "Reading Comprehension — Passage 2",
+      "context": "When a large public-sector bank recently announced that it would keep several rural branches open despite their thin profits, market analysts were quick to call the decision uncommercial. Yet the bank's chairperson defended it in plainly strategic terms. A branch, she argued, is not merely a counter for deposits; it is the visible face of the institution in places where a mobile signal is unreliable and where an elderly farmer may never trust an app. To withdraw is to surrender the field to informal moneylenders whose interest rates trap the very borrowers a public bank is meant to protect.\n\nHer argument reframed the debate. Profitability measured branch by branch tells only part of the story. A rural presence generates goodwill, gathers low-cost deposits, and builds the credit histories that make future lending safer. Seen over a decade rather than a quarter, the \"loss-making\" branch may be among the bank's soundest long-term investments. The real question, she suggested, is not whether the branch pays, but over what horizon we choose to measure.",
+      "question": "The chairperson's attitude toward the rural branches is best described as:",
+      "options": [
+        "reluctant and apologetic",
+        "reasoned and defensive of their long-term worth",
+        "indifferent",
+        "hostile",
+        "confused"
+      ],
+      "correct": 1,
+      "solution": "She actively defends the branches \"in plainly strategic terms\" as sound long-term investments — reasoned, not apologetic.",
+      "trick": "tone/attitude: read the verbs describing the speaker (\"defended,\" \"argued\"); a defender is not \"indifferent\" or \"hostile.\""
+    },
+    {
+      "id": "english-rc-cloze-q011",
+      "group": "Cloze Test",
+      "context": "Financial literacy is often treated as an afterthought in school curricula, yet its absence can shape a lifetime of decisions. A young earner who has never been taught to read a loan statement may sign up for credit __(11)__ understanding its true cost. __(12)__ compound interest is explained early, borrowers tend to underestimate how quickly small debts can grow. Programmes that teach budgeting, saving, and the basics of insurance have been shown to __(13)__ default rates among first-time borrowers. The benefit is not merely individual; a population that manages money wisely places __(14)__ strain on welfare systems and formal lenders alike. Critics argue that classroom lessons rarely __(15)__ into real behaviour, but recent studies suggest that even short, practical modules can __(16)__ lasting habits when they are reinforced by simple digital reminders.",
+      "question": "Choose the best word for blank (11).",
+      "options": [
+        "despite",
+        "without",
+        "beyond",
+        "against",
+        "besides"
+      ],
+      "correct": 1,
+      "solution": "\"Sign up for credit *without* understanding its true cost.\" Meaning: lacking that understanding.",
+      "trick": "cloze: read the whole passage first for sense; here the logic needs \"absence of understanding,\" so \"without\" fits, not the contrast word \"despite.\""
+    },
+    {
+      "id": "english-rc-cloze-q012",
+      "group": "Cloze Test",
+      "context": "Financial literacy is often treated as an afterthought in school curricula, yet its absence can shape a lifetime of decisions. A young earner who has never been taught to read a loan statement may sign up for credit __(11)__ understanding its true cost. __(12)__ compound interest is explained early, borrowers tend to underestimate how quickly small debts can grow. Programmes that teach budgeting, saving, and the basics of insurance have been shown to __(13)__ default rates among first-time borrowers. The benefit is not merely individual; a population that manages money wisely places __(14)__ strain on welfare systems and formal lenders alike. Critics argue that classroom lessons rarely __(15)__ into real behaviour, but recent studies suggest that even short, practical modules can __(16)__ lasting habits when they are reinforced by simple digital reminders.",
+      "question": "Choose the best word for blank (12).",
+      "options": [
+        "Although",
+        "Because",
+        "Unless",
+        "Whether",
+        "So"
+      ],
+      "correct": 2,
+      "solution": "\"*Unless* compound interest is explained early, borrowers tend to underestimate...\" — the shortfall happens in the absence of teaching, a conditional-negative link.",
+      "trick": "cloze connectors: connectors set polarity. The clause describes a bad outcome when teaching is missing, so \"Unless\" (= if not) beats \"Because\" or \"Although.\""
+    },
+    {
+      "id": "english-rc-cloze-q013",
+      "group": "Cloze Test",
+      "context": "Financial literacy is often treated as an afterthought in school curricula, yet its absence can shape a lifetime of decisions. A young earner who has never been taught to read a loan statement may sign up for credit __(11)__ understanding its true cost. __(12)__ compound interest is explained early, borrowers tend to underestimate how quickly small debts can grow. Programmes that teach budgeting, saving, and the basics of insurance have been shown to __(13)__ default rates among first-time borrowers. The benefit is not merely individual; a population that manages money wisely places __(14)__ strain on welfare systems and formal lenders alike. Critics argue that classroom lessons rarely __(15)__ into real behaviour, but recent studies suggest that even short, practical modules can __(16)__ lasting habits when they are reinforced by simple digital reminders.",
+      "question": "Choose the best word for blank (13).",
+      "options": [
+        "raise",
+        "reduce",
+        "ignore",
+        "collect",
+        "inflate"
+      ],
+      "correct": 1,
+      "solution": "Good programmes \"*reduce* default rates\" — positive effect, so the debt-failure measure should fall.",
+      "trick": "cloze: align the blank's polarity with the sentence's positive tone; teaching budgeting lowers (not raises) defaults."
+    },
+    {
+      "id": "english-rc-cloze-q014",
+      "group": "Cloze Test",
+      "context": "Financial literacy is often treated as an afterthought in school curricula, yet its absence can shape a lifetime of decisions. A young earner who has never been taught to read a loan statement may sign up for credit __(11)__ understanding its true cost. __(12)__ compound interest is explained early, borrowers tend to underestimate how quickly small debts can grow. Programmes that teach budgeting, saving, and the basics of insurance have been shown to __(13)__ default rates among first-time borrowers. The benefit is not merely individual; a population that manages money wisely places __(14)__ strain on welfare systems and formal lenders alike. Critics argue that classroom lessons rarely __(15)__ into real behaviour, but recent studies suggest that even short, practical modules can __(16)__ lasting habits when they are reinforced by simple digital reminders.",
+      "question": "Choose the best word for blank (14).",
+      "options": [
+        "more",
+        "heavy",
+        "less",
+        "greater",
+        "equal"
+      ],
+      "correct": 2,
+      "solution": "A wise population \"places *less* strain on welfare systems\" — fewer problems, so lower strain.",
+      "trick": "cloze: trace the cause (wise money management) to a favourable effect (reduced burden) — \"less,\" not \"more/greater.\""
+    },
+    {
+      "id": "english-rc-cloze-q015",
+      "group": "Cloze Test",
+      "context": "Financial literacy is often treated as an afterthought in school curricula, yet its absence can shape a lifetime of decisions. A young earner who has never been taught to read a loan statement may sign up for credit __(11)__ understanding its true cost. __(12)__ compound interest is explained early, borrowers tend to underestimate how quickly small debts can grow. Programmes that teach budgeting, saving, and the basics of insurance have been shown to __(13)__ default rates among first-time borrowers. The benefit is not merely individual; a population that manages money wisely places __(14)__ strain on welfare systems and formal lenders alike. Critics argue that classroom lessons rarely __(15)__ into real behaviour, but recent studies suggest that even short, practical modules can __(16)__ lasting habits when they are reinforced by simple digital reminders.",
+      "question": "Choose the best word for blank (15).",
+      "options": [
+        "translate",
+        "transform",
+        "transfer",
+        "transmit",
+        "transport"
+      ],
+      "correct": 0,
+      "solution": "Lessons rarely \"*translate* into real behaviour\" — the fixed collocation is \"translate into.\"",
+      "trick": "cloze collocation: trust the idiom; \"translate into action/behaviour\" is standard, unlike \"transform/transfer into.\""
+    },
+    {
+      "id": "english-rc-cloze-q016",
+      "group": "Cloze Test",
+      "context": "Financial literacy is often treated as an afterthought in school curricula, yet its absence can shape a lifetime of decisions. A young earner who has never been taught to read a loan statement may sign up for credit __(11)__ understanding its true cost. __(12)__ compound interest is explained early, borrowers tend to underestimate how quickly small debts can grow. Programmes that teach budgeting, saving, and the basics of insurance have been shown to __(13)__ default rates among first-time borrowers. The benefit is not merely individual; a population that manages money wisely places __(14)__ strain on welfare systems and formal lenders alike. Critics argue that classroom lessons rarely __(15)__ into real behaviour, but recent studies suggest that even short, practical modules can __(16)__ lasting habits when they are reinforced by simple digital reminders.",
+      "question": "Choose the best word for blank (16).",
+      "options": [
+        "break",
+        "forget",
+        "build",
+        "waste",
+        "lose"
+      ],
+      "correct": 2,
+      "solution": "Short modules can \"*build* lasting habits\" — the positive counter to the critics, reinforced by \"lasting.\"",
+      "trick": "cloze: the sentence rebuts the critics, so the verb must be constructive; \"build habits\" pairs naturally with \"lasting.\""
+    },
+    {
+      "id": "english-rc-cloze-q017",
+      "group": "Fillers",
+      "question": "The regulator warned that lenders who _______ borrower complaints would face stricter audits.",
+      "options": [
+        "address",
+        "ignore",
+        "resolve",
+        "welcome",
+        "reward"
+      ],
+      "correct": 1,
+      "solution": "Facing \"stricter audits\" is a penalty, so the trigger must be negative conduct: lenders who *ignore* complaints.",
+      "trick": "fillers: the consequence signals the polarity — a punishment follows bad behaviour, so pick the negative verb."
+    },
+    {
+      "id": "english-rc-cloze-q018",
+      "group": "Fillers",
+      "question": "Although the scheme was launched with great fanfare, its benefits reached _______ few of the intended households.",
+      "options": [
+        "surprisingly",
+        "generously",
+        "universally",
+        "equally",
+        "abundantly"
+      ],
+      "correct": 0,
+      "solution": "\"Although... great fanfare, benefits reached *surprisingly* few\" — the contrast word \"although\" demands a let-down, and \"surprisingly few\" captures it.",
+      "trick": "fillers: the connector \"although\" forces a reversal; only a word conveying shortfall fits."
+    },
+    {
+      "id": "english-rc-cloze-q019",
+      "group": "Fillers",
+      "question": "The committee's report was _______ enough to satisfy critics, _______ detailed enough to guide reform.",
+      "options": [
+        "neither ... nor",
+        "both ... and",
+        "either ... or",
+        "so ... that",
+        "not only ... yet"
+      ],
+      "correct": 1,
+      "solution": "\"*both* ... *and*\" — the report satisfied critics and guided reform; two positives joined.",
+      "trick": "double fillers: test paired correlatives as a unit; \"both...and\" links two co-existing qualities, while \"neither...nor\" would wrongly deny both."
+    },
+    {
+      "id": "english-rc-cloze-q020",
+      "group": "Fillers",
+      "question": "Rising input costs _______ weak demand have _______ the profits of small manufacturers this quarter.",
+      "options": [
+        "despite ... boosted",
+        "coupled with ... squeezed",
+        "instead of ... raised",
+        "rather than ... protected",
+        "as well as ... ignored"
+      ],
+      "correct": 1,
+      "solution": "\"Rising costs *coupled with* weak demand have *squeezed* profits\" — two pressures combine to cut profit.",
+      "trick": "double fillers: both blanks must share one direction; two negatives (higher costs + weak demand) logically \"squeeze,\" not \"boost,\" profits."
+    },
+    {
+      "id": "english-rc-cloze-q021",
+      "group": "Fillers",
+      "question": "The new governor is known for a _______ approach, preferring gradual reform to sudden, disruptive change.",
+      "options": [
+        "reckless",
+        "cautious",
+        "hostile",
+        "careless",
+        "chaotic"
+      ],
+      "correct": 1,
+      "solution": "\"Preferring gradual reform to sudden change\" defines a *cautious* approach.",
+      "trick": "fillers: let the descriptive clause define the blank; \"gradual, not disruptive\" equals cautious."
+    },
+    {
+      "id": "english-rc-cloze-q022",
+      "group": "Fillers",
+      "question": "_______ the audit revealed no fraud, it did expose several _______ in the bank's internal controls.",
+      "options": [
+        "Because ... strengths",
+        "While ... weaknesses",
+        "Since ... profits",
+        "Unless ... virtues",
+        "After ... rewards"
+      ],
+      "correct": 1,
+      "solution": "\"*While* the audit revealed no fraud, it did expose several *weaknesses*\" — contrast connector plus a flaw in \"internal controls.\"",
+      "trick": "double fillers: \"did expose\" signals a contrast to \"no fraud,\" so use \"While\"; controls are exposed for weaknesses, not strengths."
+    }
+  ]
+}

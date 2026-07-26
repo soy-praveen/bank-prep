@@ -1,0 +1,601 @@
+{
+  "title": "Para-Jumbles, Fillers & Cloze — Practice (Vol. 2)",
+  "section": "english",
+  "kind": "quiz",
+  "source": "english-jumbles-fillers-v2.md",
+  "questions": [
+    {
+      "id": "english-jumbles-fillers-v2-q001",
+      "group": "Para-Jumbles — Set 1",
+      "context": "- A. But this convenience came at a cost that most shoppers never paused to calculate.\n- B. A decade ago, buying groceries meant a weekly trip to a crowded local market.\n- C. Today, the same basket of vegetables arrives at the door within ten minutes of a tap on a phone.\n- D. The hidden price was paid by the small vendors whose stalls slowly emptied of customers.",
+      "question": "Which sentence should come FIRST in the paragraph?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "A and D are equally suitable"
+      ],
+      "correct": 1,
+      "solution": "Order: B, C, A, D. B opens with the full noun phrase and the time anchor \"A decade ago\" (the past scene). C contrasts with \"Today.\" A introduces \"this convenience came at a cost,\" pointing back to the tap-to-deliver ease in C. D names \"The hidden price,\" resolving A.\n\nThe first sentence is B.",
+      "trick": "The opener must contain a full noun, not a pronoun or a back-reference. \"A decade ago... local market\" is a clean, self-standing statement; \"this convenience,\" \"the same,\" and \"The hidden price\" all lean on something earlier, so they cannot lead. Time markers *a decade ago -> today* fix the spine."
+    },
+    {
+      "id": "english-jumbles-fillers-v2-q002",
+      "group": "Para-Jumbles — Set 1",
+      "context": "- A. But this convenience came at a cost that most shoppers never paused to calculate.\n- B. A decade ago, buying groceries meant a weekly trip to a crowded local market.\n- C. Today, the same basket of vegetables arrives at the door within ten minutes of a tap on a phone.\n- D. The hidden price was paid by the small vendors whose stalls slowly emptied of customers.",
+      "question": "Which sentence immediately FOLLOWS sentence C?",
+      "options": [
+        "A",
+        "B",
+        "D",
+        "None; C is last",
+        "A or D"
+      ],
+      "correct": 0,
+      "solution": "Order: B, C, A, D. B opens with the full noun phrase and the time anchor \"A decade ago\" (the past scene). C contrasts with \"Today.\" A introduces \"this convenience came at a cost,\" pointing back to the tap-to-deliver ease in C. D names \"The hidden price,\" resolving A.\n\nA immediately follows C: \"this convenience\" in A refers to the ten-minute delivery described in C.",
+      "trick": "The opener must contain a full noun, not a pronoun or a back-reference. \"A decade ago... local market\" is a clean, self-standing statement; \"this convenience,\" \"the same,\" and \"The hidden price\" all lean on something earlier, so they cannot lead. Time markers *a decade ago -> today* fix the spine."
+    },
+    {
+      "id": "english-jumbles-fillers-v2-q003",
+      "group": "Para-Jumbles — Set 1",
+      "context": "- A. But this convenience came at a cost that most shoppers never paused to calculate.\n- B. A decade ago, buying groceries meant a weekly trip to a crowded local market.\n- C. Today, the same basket of vegetables arrives at the door within ten minutes of a tap on a phone.\n- D. The hidden price was paid by the small vendors whose stalls slowly emptied of customers.",
+      "question": "Which sentence should come LAST?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "B"
+      ],
+      "correct": 3,
+      "solution": "Order: B, C, A, D. B opens with the full noun phrase and the time anchor \"A decade ago\" (the past scene). C contrasts with \"Today.\" A introduces \"this convenience came at a cost,\" pointing back to the tap-to-deliver ease in C. D names \"The hidden price,\" resolving A.\n\nThe last sentence is D.",
+      "trick": "The opener must contain a full noun, not a pronoun or a back-reference. \"A decade ago... local market\" is a clean, self-standing statement; \"this convenience,\" \"the same,\" and \"The hidden price\" all lean on something earlier, so they cannot lead. Time markers *a decade ago -> today* fix the spine."
+    },
+    {
+      "id": "english-jumbles-fillers-v2-q004",
+      "group": "Para-Jumbles — Set 2",
+      "context": "- A. Over the following weeks, the same students who had dreaded the subject began solving problems for fun.\n- B. A teacher in a small town decided to replace her chalkboard lectures with short puzzles.\n- C. She noticed that curiosity, not fear, was what finally made the lessons stick.\n- D. Each puzzle hid a rule of arithmetic that the children had to uncover on their own.\n- E. At first, the class treated the change as a game rather than as real study.",
+      "question": "Which sentence should come FIRST?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "correct": 1,
+      "solution": "Order: B, E, D, A, C. B introduces \"A teacher\" (full noun) and the change. E's \"the change\" hugs B. D explains what each puzzle did. A gives the result \"over the following weeks.\" C is the reflective conclusion (\"what finally made the lessons stick\").\n\nThe first sentence is B.",
+      "trick": "Pronouns hug their noun — \"the change\" in E must sit right after the sentence that introduces a change (B). The result word \"began... for fun\" (A) and the summary verb \"finally made... stick\" (C) mark the tail; a reflective, evaluative sentence usually closes a narrative."
+    },
+    {
+      "id": "english-jumbles-fillers-v2-q005",
+      "group": "Para-Jumbles — Set 2",
+      "context": "- A. Over the following weeks, the same students who had dreaded the subject began solving problems for fun.\n- B. A teacher in a small town decided to replace her chalkboard lectures with short puzzles.\n- C. She noticed that curiosity, not fear, was what finally made the lessons stick.\n- D. Each puzzle hid a rule of arithmetic that the children had to uncover on their own.\n- E. At first, the class treated the change as a game rather than as real study.",
+      "question": "Which pair forms a correct consecutive sequence?",
+      "options": [
+        "BD",
+        "AC",
+        "EB",
+        "CB",
+        "DE"
+      ],
+      "correct": 1,
+      "solution": "Order: B, E, D, A, C. B introduces \"A teacher\" (full noun) and the change. E's \"the change\" hugs B. D explains what each puzzle did. A gives the result \"over the following weeks.\" C is the reflective conclusion (\"what finally made the lessons stick\").\n\nWith the order B-E-D-A-C, the consecutive pairs are BE, ED, DA and AC. Among the given options only AC is a consecutive pair, so AC is the answer.",
+      "trick": "Pronouns hug their noun — \"the change\" in E must sit right after the sentence that introduces a change (B). The result word \"began... for fun\" (A) and the summary verb \"finally made... stick\" (C) mark the tail; a reflective, evaluative sentence usually closes a narrative."
+    },
+    {
+      "id": "english-jumbles-fillers-v2-q006",
+      "group": "Para-Jumbles — Set 2",
+      "context": "- A. Over the following weeks, the same students who had dreaded the subject began solving problems for fun.\n- B. A teacher in a small town decided to replace her chalkboard lectures with short puzzles.\n- C. She noticed that curiosity, not fear, was what finally made the lessons stick.\n- D. Each puzzle hid a rule of arithmetic that the children had to uncover on their own.\n- E. At first, the class treated the change as a game rather than as real study.",
+      "question": "Which sentence should come LAST?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "correct": 2,
+      "solution": "Order: B, E, D, A, C. B introduces \"A teacher\" (full noun) and the change. E's \"the change\" hugs B. D explains what each puzzle did. A gives the result \"over the following weeks.\" C is the reflective conclusion (\"what finally made the lessons stick\").\n\nThe last sentence is C.",
+      "trick": "Pronouns hug their noun — \"the change\" in E must sit right after the sentence that introduces a change (B). The result word \"began... for fun\" (A) and the summary verb \"finally made... stick\" (C) mark the tail; a reflective, evaluative sentence usually closes a narrative."
+    },
+    {
+      "id": "english-jumbles-fillers-v2-q007",
+      "group": "Para-Jumbles — Set 3",
+      "context": "- A. These reserves act as a natural buffer, absorbing floodwaters that would otherwise swamp nearby towns.\n- B. Wetlands are often dismissed as wastelands fit only for draining and building.\n- C. Yet beneath their muddy surface lies one of the planet's most efficient water-storage systems.\n- D. When they are filled in for construction, the towns they once protected are left dangerously exposed.\n- E. Engineers are now, belatedly, trying to recreate artificially what these marshes did for free.",
+      "question": "Which sentence should come FIRST?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "correct": 1,
+      "solution": "Order: B, C, A, D, E. B states the dismissive view (full noun \"Wetlands\"). C flips it with \"Yet.\" A explains \"These reserves\" (the storage system in C). D shows the consequence of destroying them. E ends with the ironic present-day fix (\"now, belatedly\").\n\nThe first sentence is B.",
+      "trick": "*However / Yet* signals a reversal, so C cannot open — it needs a claim to overturn (B). \"These reserves\" is a back-pointer that must follow the noun it renames. The word \"now, belatedly\" marks the closing, up-to-the-present sentence."
+    },
+    {
+      "id": "english-jumbles-fillers-v2-q008",
+      "group": "Para-Jumbles — Set 3",
+      "context": "- A. These reserves act as a natural buffer, absorbing floodwaters that would otherwise swamp nearby towns.\n- B. Wetlands are often dismissed as wastelands fit only for draining and building.\n- C. Yet beneath their muddy surface lies one of the planet's most efficient water-storage systems.\n- D. When they are filled in for construction, the towns they once protected are left dangerously exposed.\n- E. Engineers are now, belatedly, trying to recreate artificially what these marshes did for free.",
+      "question": "Which sentence immediately PRECEDES sentence A?",
+      "options": [
+        "B",
+        "C",
+        "D",
+        "E",
+        "A is first"
+      ],
+      "correct": 1,
+      "solution": "Order: B, C, A, D, E. B states the dismissive view (full noun \"Wetlands\"). C flips it with \"Yet.\" A explains \"These reserves\" (the storage system in C). D shows the consequence of destroying them. E ends with the ironic present-day fix (\"now, belatedly\").\n\nC immediately precedes A: A's \"These reserves\" refers to the \"water-storage system\" named in C.",
+      "trick": "*However / Yet* signals a reversal, so C cannot open — it needs a claim to overturn (B). \"These reserves\" is a back-pointer that must follow the noun it renames. The word \"now, belatedly\" marks the closing, up-to-the-present sentence."
+    },
+    {
+      "id": "english-jumbles-fillers-v2-q009",
+      "group": "Para-Jumbles — Set 3",
+      "context": "- A. These reserves act as a natural buffer, absorbing floodwaters that would otherwise swamp nearby towns.\n- B. Wetlands are often dismissed as wastelands fit only for draining and building.\n- C. Yet beneath their muddy surface lies one of the planet's most efficient water-storage systems.\n- D. When they are filled in for construction, the towns they once protected are left dangerously exposed.\n- E. Engineers are now, belatedly, trying to recreate artificially what these marshes did for free.",
+      "question": "Which sentence should come LAST?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "correct": 4,
+      "solution": "Order: B, C, A, D, E. B states the dismissive view (full noun \"Wetlands\"). C flips it with \"Yet.\" A explains \"These reserves\" (the storage system in C). D shows the consequence of destroying them. E ends with the ironic present-day fix (\"now, belatedly\").\n\nThe last sentence is E.",
+      "trick": "*However / Yet* signals a reversal, so C cannot open — it needs a claim to overturn (B). \"These reserves\" is a back-pointer that must follow the noun it renames. The word \"now, belatedly\" marks the closing, up-to-the-present sentence."
+    },
+    {
+      "id": "english-jumbles-fillers-v2-q010",
+      "group": "Para-Jumbles — Set 4",
+      "context": "- A. The result is a photograph so detailed that scientists can count individual craters.\n- B. A spacecraft the size of a small car has been circling the moon for years.\n- C. As it passes overhead, its camera snaps the surface strip by narrow strip.\n- D. Mission planners then stitch these thousands of strips into a single seamless map.",
+      "question": "Which sentence should come FIRST?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "C"
+      ],
+      "correct": 1,
+      "solution": "Order: B, C, D, A. B sets the scene with a full noun (\"A spacecraft\"). C describes the ongoing action \"As it passes.\" D is the next processing step (\"then stitch these... strips\"). A is the outcome (\"The result\").\n\nThe first sentence is B.",
+      "trick": "A result sentence (\"The result is...\") almost always lands last. The sequence word \"then\" in D forces it after the action it follows (C). Start from the only sentence that names the subject outright — \"A spacecraft.\""
+    },
+    {
+      "id": "english-jumbles-fillers-v2-q011",
+      "group": "Para-Jumbles — Set 4",
+      "context": "- A. The result is a photograph so detailed that scientists can count individual craters.\n- B. A spacecraft the size of a small car has been circling the moon for years.\n- C. As it passes overhead, its camera snaps the surface strip by narrow strip.\n- D. Mission planners then stitch these thousands of strips into a single seamless map.",
+      "question": "Which sentence immediately FOLLOWS sentence C?",
+      "options": [
+        "A",
+        "B",
+        "D",
+        "C is last",
+        "A"
+      ],
+      "correct": 2,
+      "solution": "Order: B, C, D, A. B sets the scene with a full noun (\"A spacecraft\"). C describes the ongoing action \"As it passes.\" D is the next processing step (\"then stitch these... strips\"). A is the outcome (\"The result\").\n\nD immediately follows C: \"these thousands of strips\" in D refers to the strips the camera snaps in C.",
+      "trick": "A result sentence (\"The result is...\") almost always lands last. The sequence word \"then\" in D forces it after the action it follows (C). Start from the only sentence that names the subject outright — \"A spacecraft.\""
+    },
+    {
+      "id": "english-jumbles-fillers-v2-q012",
+      "group": "Para-Jumbles — Set 4",
+      "context": "- A. The result is a photograph so detailed that scientists can count individual craters.\n- B. A spacecraft the size of a small car has been circling the moon for years.\n- C. As it passes overhead, its camera snaps the surface strip by narrow strip.\n- D. Mission planners then stitch these thousands of strips into a single seamless map.",
+      "question": "Which sentence should come LAST?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "B"
+      ],
+      "correct": 0,
+      "solution": "Order: B, C, D, A. B sets the scene with a full noun (\"A spacecraft\"). C describes the ongoing action \"As it passes.\" D is the next processing step (\"then stitch these... strips\"). A is the outcome (\"The result\").\n\nThe last sentence is A.",
+      "trick": "A result sentence (\"The result is...\") almost always lands last. The sequence word \"then\" in D forces it after the action it follows (C). Start from the only sentence that names the subject outright — \"A spacecraft.\""
+    },
+    {
+      "id": "english-jumbles-fillers-v2-q013",
+      "group": "Para-Jumbles — Set 5",
+      "context": "- A. Instead, they store the fruit for months and release it only when prices climb.\n- B. Farmers who grow apples rarely sell their entire harvest at once.\n- C. This patience, however, depends on access to cold storage that many cannot afford.\n- D. Those without it are forced to sell early and cheaply, losing much of the season's profit.\n- E. The gap between the two groups widens with every passing harvest.",
+      "question": "Which sentence should come FIRST?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "correct": 1,
+      "solution": "Order: B, A, C, D, E. B introduces \"Farmers\" (full noun). A gives the contrast \"Instead, they store.\" C qualifies with \"This patience, however, depends on cold storage.\" D covers \"Those without it.\" E is the widening-gap conclusion.\n\nThe first sentence is B.",
+      "trick": "\"Instead\" and \"This patience, however\" are both back-referring connectors, so neither can open — only \"Farmers... rarely sell\" stands alone. Demonstratives (*this, those*) point backward and lock the middle order; a summarising \"gap widens\" sentence closes."
+    },
+    {
+      "id": "english-jumbles-fillers-v2-q014",
+      "group": "Para-Jumbles — Set 5",
+      "context": "- A. Instead, they store the fruit for months and release it only when prices climb.\n- B. Farmers who grow apples rarely sell their entire harvest at once.\n- C. This patience, however, depends on access to cold storage that many cannot afford.\n- D. Those without it are forced to sell early and cheaply, losing much of the season's profit.\n- E. The gap between the two groups widens with every passing harvest.",
+      "question": "Which sentence immediately FOLLOWS sentence A?",
+      "options": [
+        "B",
+        "C",
+        "D",
+        "E",
+        "A is last"
+      ],
+      "correct": 1,
+      "solution": "Order: B, A, C, D, E. B introduces \"Farmers\" (full noun). A gives the contrast \"Instead, they store.\" C qualifies with \"This patience, however, depends on cold storage.\" D covers \"Those without it.\" E is the widening-gap conclusion.\n\nC immediately follows A: \"This patience\" in C refers to the storing-and-waiting behaviour described in A.",
+      "trick": "\"Instead\" and \"This patience, however\" are both back-referring connectors, so neither can open — only \"Farmers... rarely sell\" stands alone. Demonstratives (*this, those*) point backward and lock the middle order; a summarising \"gap widens\" sentence closes."
+    },
+    {
+      "id": "english-jumbles-fillers-v2-q015",
+      "group": "Para-Jumbles — Set 5",
+      "context": "- A. Instead, they store the fruit for months and release it only when prices climb.\n- B. Farmers who grow apples rarely sell their entire harvest at once.\n- C. This patience, however, depends on access to cold storage that many cannot afford.\n- D. Those without it are forced to sell early and cheaply, losing much of the season's profit.\n- E. The gap between the two groups widens with every passing harvest.",
+      "question": "Which sentence should come LAST?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "correct": 4,
+      "solution": "Order: B, A, C, D, E. B introduces \"Farmers\" (full noun). A gives the contrast \"Instead, they store.\" C qualifies with \"This patience, however, depends on cold storage.\" D covers \"Those without it.\" E is the widening-gap conclusion.\n\nThe last sentence is E.",
+      "trick": "\"Instead\" and \"This patience, however\" are both back-referring connectors, so neither can open — only \"Farmers... rarely sell\" stands alone. Demonstratives (*this, those*) point backward and lock the middle order; a summarising \"gap widens\" sentence closes."
+    },
+    {
+      "id": "english-jumbles-fillers-v2-q016",
+      "group": "Sentence Rearrangement",
+      "question": "The committee decided\nP: to postpone the launch\nQ: until every safety test\nR: had been completed\nS: to the satisfaction of the regulators",
+      "options": [
+        "PQRS",
+        "QRPS",
+        "PSQR",
+        "QPRS",
+        "PRQS"
+      ],
+      "correct": 0,
+      "solution": "\"decided to postpone the launch until every safety test had been completed to the satisfaction of the regulators.\" Natural verb-object-clause flow.",
+      "trick": "Keep the verb next to its own object and let modifier clauses (\"that govern...\", \"of his departure\") attach to the noun they describe. Read your chosen order aloud once — the correct chain has no dangling phrase."
+    },
+    {
+      "id": "english-jumbles-fillers-v2-q017",
+      "group": "Sentence Rearrangement",
+      "question": "She could not have known\nP: that the letter she posted\nQ: would arrive\nR: on the very morning\nS: of his departure",
+      "options": [
+        "PQRS",
+        "PRQS",
+        "QPRS",
+        "PQSR",
+        "RPQS"
+      ],
+      "correct": 0,
+      "solution": "\"known that the letter she posted would arrive on the very morning of his departure.\" \"would arrive\" (Q) must follow its subject \"the letter\" (P).",
+      "trick": "Keep the verb next to its own object and let modifier clauses (\"that govern...\", \"of his departure\") attach to the noun they describe. Read your chosen order aloud once — the correct chain has no dangling phrase."
+    },
+    {
+      "id": "english-jumbles-fillers-v2-q018",
+      "group": "Sentence Rearrangement",
+      "question": "The new policy aims\nP: to reduce the burden\nQ: on small businesses\nR: by simplifying the rules\nS: that govern annual filings",
+      "options": [
+        "PQRS",
+        "QPRS",
+        "PRQS",
+        "PQSR",
+        "RPQS"
+      ],
+      "correct": 0,
+      "solution": "The correct sentence is \"The new policy aims to reduce the burden on small businesses by simplifying the rules that govern annual filings\" — order P-Q-R-S. Placing \"by simplifying the rules\" directly after \"the burden\" (\"to reduce the burden by simplifying the rules... on small businesses\") reads awkwardly, so PQRS is right.",
+      "trick": "Keep the verb next to its own object and let modifier clauses (\"that govern...\", \"of his departure\") attach to the noun they describe. Read your chosen order aloud once — the correct chain has no dangling phrase."
+    },
+    {
+      "id": "english-jumbles-fillers-v2-q019",
+      "group": "Single Fillers",
+      "question": "Despite the heavy rain, the volunteers remained _______ in their effort to reach the stranded families.",
+      "options": [
+        "hesitant",
+        "resolute",
+        "indifferent",
+        "reluctant",
+        "casual"
+      ],
+      "correct": 1,
+      "solution": "\"Despite the heavy rain\" sets up a contrast, so the volunteers stay firm, not hesitant/reluctant. Connector polarity: *despite* demands a positive, determined word.",
+      "trick": "Read the *connector* first. \"Despite / although / yet\" flips the polarity (expect a word opposite to the clue); \"because / so / and\" keeps the same polarity. Then confirm collocation — traffic *diverts*, evidence is *circumstantial*, staff is *recruited*."
+    },
+    {
+      "id": "english-jumbles-fillers-v2-q020",
+      "group": "Single Fillers",
+      "question": "The minister's speech was so _______ that even his critics admitted they had been moved.",
+      "options": [
+        "tedious",
+        "evasive",
+        "eloquent",
+        "abrupt",
+        "hollow"
+      ],
+      "correct": 2,
+      "solution": "\"even his critics admitted they had been moved\" needs a positive quality; only eloquent produces being moved.",
+      "trick": "Read the *connector* first. \"Despite / although / yet\" flips the polarity (expect a word opposite to the clue); \"because / so / and\" keeps the same polarity. Then confirm collocation — traffic *diverts*, evidence is *circumstantial*, staff is *recruited*."
+    },
+    {
+      "id": "english-jumbles-fillers-v2-q021",
+      "group": "Single Fillers",
+      "question": "Because the evidence was purely _______, the court was unwilling to convict on it alone.",
+      "options": [
+        "conclusive",
+        "circumstantial",
+        "tangible",
+        "documented",
+        "overwhelming"
+      ],
+      "correct": 1,
+      "solution": "\"unwilling to convict on it alone\" pairs with weak, indirect evidence; conclusive/overwhelming would justify conviction, the opposite.",
+      "trick": "Read the *connector* first. \"Despite / although / yet\" flips the polarity (expect a word opposite to the clue); \"because / so / and\" keeps the same polarity. Then confirm collocation — traffic *diverts*, evidence is *circumstantial*, staff is *recruited*."
+    },
+    {
+      "id": "english-jumbles-fillers-v2-q022",
+      "group": "Single Fillers",
+      "question": "The startup grew so quickly that its founders struggled to _______ enough staff to meet demand.",
+      "options": [
+        "recruit",
+        "dismiss",
+        "reject",
+        "suspend",
+        "withhold"
+      ],
+      "correct": 0,
+      "solution": "\"struggled to ___ enough staff to meet demand\" — a growing firm needs to hire, not dismiss/reject.",
+      "trick": "Read the *connector* first. \"Despite / although / yet\" flips the polarity (expect a word opposite to the clue); \"because / so / and\" keeps the same polarity. Then confirm collocation — traffic *diverts*, evidence is *circumstantial*, staff is *recruited*."
+    },
+    {
+      "id": "english-jumbles-fillers-v2-q023",
+      "group": "Single Fillers",
+      "question": "Her argument was _______ enough to persuade the panel without a single raised voice.",
+      "options": [
+        "frivolous",
+        "cogent",
+        "vague",
+        "reckless",
+        "trivial"
+      ],
+      "correct": 1,
+      "solution": "\"persuade the panel\" needs a strong, logical argument; vague/frivolous/trivial cannot persuade.",
+      "trick": "Read the *connector* first. \"Despite / although / yet\" flips the polarity (expect a word opposite to the clue); \"because / so / and\" keeps the same polarity. Then confirm collocation — traffic *diverts*, evidence is *circumstantial*, staff is *recruited*."
+    },
+    {
+      "id": "english-jumbles-fillers-v2-q024",
+      "group": "Single Fillers",
+      "question": "The old bridge was declared unsafe and traffic was _______ to a newer route across the river.",
+      "options": [
+        "diverted",
+        "reverted",
+        "converted",
+        "inverted",
+        "averted"
+      ],
+      "correct": 0,
+      "solution": "traffic is diverted (sent onto another route). Reverted/inverted/averted/converted do not fit road redirection.",
+      "trick": "Read the *connector* first. \"Despite / although / yet\" flips the polarity (expect a word opposite to the clue); \"because / so / and\" keeps the same polarity. Then confirm collocation — traffic *diverts*, evidence is *circumstantial*, staff is *recruited*."
+    },
+    {
+      "id": "english-jumbles-fillers-v2-q025",
+      "group": "Double Fillers",
+      "question": "The report was _______ in its praise but _______ about the risks that lay ahead.",
+      "options": [
+        "generous ... silent",
+        "harsh ... clear",
+        "brief ... loud",
+        "vague ... certain",
+        "hostile ... open"
+      ],
+      "correct": 0,
+      "solution": "\"but\" flips polarity: praise (positive) vs. saying nothing about risks (negative). Generous praise / silent on risks.",
+      "trick": "In double fillers, lock the blank whose clue is strongest, then let the connector decide the second. *But / although / while* means the two blanks pull in opposite directions; *and / so* means they agree. Reject any pair where one word alone breaks the sentence's logic."
+    },
+    {
+      "id": "english-jumbles-fillers-v2-q026",
+      "group": "Double Fillers",
+      "question": "_______ the initial setback, the team pressed on, _______ that persistence would eventually pay off.",
+      "options": [
+        "Because of ... doubting",
+        "Despite ... confident",
+        "Owing to ... afraid",
+        "After ... unsure",
+        "Given ... certain not"
+      ],
+      "correct": 1,
+      "solution": "\"Despite the setback... pressed on\" needs a concessive opener plus a positive attitude (\"persistence would pay off\" = confident).",
+      "trick": "In double fillers, lock the blank whose clue is strongest, then let the connector decide the second. *But / although / while* means the two blanks pull in opposite directions; *and / so* means they agree. Reject any pair where one word alone breaks the sentence's logic."
+    },
+    {
+      "id": "english-jumbles-fillers-v2-q027",
+      "group": "Double Fillers",
+      "question": "The scheme was designed to _______ rural incomes and, at the same time, to _______ migration to the cities.",
+      "options": [
+        "lower ... boost",
+        "raise ... curb",
+        "reduce ... hasten",
+        "freeze ... stop",
+        "raise ... quicken"
+      ],
+      "correct": 1,
+      "solution": "a scheme lifting rural incomes to reduce city migration. \"raise incomes... curb migration\" is internally consistent; (5) raise...quicken contradicts the aim.",
+      "trick": "In double fillers, lock the blank whose clue is strongest, then let the connector decide the second. *But / although / while* means the two blanks pull in opposite directions; *and / so* means they agree. Reject any pair where one word alone breaks the sentence's logic."
+    },
+    {
+      "id": "english-jumbles-fillers-v2-q028",
+      "group": "Double Fillers",
+      "question": "The manuscript was so _______ that the editor spent weeks _______ its tangled sentences.",
+      "options": [
+        "polished ... admiring",
+        "dense ... untangling",
+        "short ... expanding",
+        "simple ... rewriting",
+        "clear ... simplifying"
+      ],
+      "correct": 1,
+      "solution": "\"tangled sentences\" the editor spends weeks on implies difficult prose he must untangle.",
+      "trick": "In double fillers, lock the blank whose clue is strongest, then let the connector decide the second. *But / although / while* means the two blanks pull in opposite directions; *and / so* means they agree. Reject any pair where one word alone breaks the sentence's logic."
+    },
+    {
+      "id": "english-jumbles-fillers-v2-q029",
+      "group": "Double Fillers",
+      "question": "Although the medicine _______ the fever quickly, it did little to _______ the underlying infection.",
+      "options": [
+        "raised ... cure",
+        "lowered ... address",
+        "cured ... worsen",
+        "spread ... treat",
+        "eased ... ignore"
+      ],
+      "correct": 1,
+      "solution": "medicine lowers a fever but fails to treat the infection; \"Although\" sets the contrast.",
+      "trick": "In double fillers, lock the blank whose clue is strongest, then let the connector decide the second. *But / although / while* means the two blanks pull in opposite directions; *and / so* means they agree. Reject any pair where one word alone breaks the sentence's logic."
+    },
+    {
+      "id": "english-jumbles-fillers-v2-q030",
+      "group": "Double Fillers",
+      "question": "The negotiators remained _______ in public while working _______ behind closed doors to reach a deal.",
+      "options": [
+        "hostile ... openly",
+        "cordial ... tirelessly",
+        "silent ... loudly",
+        "rude ... politely",
+        "calm ... angrily"
+      ],
+      "correct": 1,
+      "solution": "\"in public... behind closed doors to reach a deal\" — outwardly friendly while working hard privately. Hostile/rude contradict reaching a deal.",
+      "trick": "In double fillers, lock the blank whose clue is strongest, then let the connector decide the second. *But / although / while* means the two blanks pull in opposite directions; *and / so* means they agree. Reject any pair where one word alone breaks the sentence's logic."
+    },
+    {
+      "id": "english-jumbles-fillers-v2-q031",
+      "group": "Cloze Test",
+      "context": "Public libraries are often (31)_______ as relics of a pre-digital age, yet their role has quietly (32)_______ rather than shrunk. Where they once lent only books, many now (33)_______ free internet access, job-search help, and quiet study space to people who have nowhere else to turn. This shift has (34)_______ the library into a kind of community anchor. Critics who argue that everything is available online (35)_______ that a large share of the population still lacks reliable devices or connections. For these residents, the library is not a (36)_______ but a necessity. Cutting its funding, therefore, does not merely close a building; it (37)_______ away one of the few public spaces that ask nothing of visitors except that they walk in. Any city that values equal opportunity would be (38)_______ to protect it.",
+      "question": "Choose the best word for blank (31).",
+      "options": [
+        "celebrated",
+        "dismissed",
+        "rewarded",
+        "restored",
+        "crowded"
+      ],
+      "correct": 1,
+      "solution": "\"yet their role has quietly expanded\" contrasts with a negative view; libraries are wrongly written off. \"celebrated\" clashes with \"yet.\"",
+      "trick": "In cloze, ride the connectors. \"yet\" and \"rather than\" flag reversals (pick the opposite of the surrounding tone); \"not a ___ but a necessity\" is a direct antonym slot; and fixed pairs — *transform into*, *strip away* — are collocation locks. Always test your word against the sentence's polarity signal before the neighbouring words."
+    },
+    {
+      "id": "english-jumbles-fillers-v2-q032",
+      "group": "Cloze Test",
+      "context": "Public libraries are often (31)_______ as relics of a pre-digital age, yet their role has quietly (32)_______ rather than shrunk. Where they once lent only books, many now (33)_______ free internet access, job-search help, and quiet study space to people who have nowhere else to turn. This shift has (34)_______ the library into a kind of community anchor. Critics who argue that everything is available online (35)_______ that a large share of the population still lacks reliable devices or connections. For these residents, the library is not a (36)_______ but a necessity. Cutting its funding, therefore, does not merely close a building; it (37)_______ away one of the few public spaces that ask nothing of visitors except that they walk in. Any city that values equal opportunity would be (38)_______ to protect it.",
+      "question": "Choose the best word for blank (32).",
+      "options": [
+        "expanded",
+        "collapsed",
+        "vanished",
+        "narrowed",
+        "frozen"
+      ],
+      "correct": 0,
+      "solution": "explicitly opposed to \"rather than shrunk\"; the antonym of shrunk is expanded.",
+      "trick": "In cloze, ride the connectors. \"yet\" and \"rather than\" flag reversals (pick the opposite of the surrounding tone); \"not a ___ but a necessity\" is a direct antonym slot; and fixed pairs — *transform into*, *strip away* — are collocation locks. Always test your word against the sentence's polarity signal before the neighbouring words."
+    },
+    {
+      "id": "english-jumbles-fillers-v2-q033",
+      "group": "Cloze Test",
+      "context": "Public libraries are often (31)_______ as relics of a pre-digital age, yet their role has quietly (32)_______ rather than shrunk. Where they once lent only books, many now (33)_______ free internet access, job-search help, and quiet study space to people who have nowhere else to turn. This shift has (34)_______ the library into a kind of community anchor. Critics who argue that everything is available online (35)_______ that a large share of the population still lacks reliable devices or connections. For these residents, the library is not a (36)_______ but a necessity. Cutting its funding, therefore, does not merely close a building; it (37)_______ away one of the few public spaces that ask nothing of visitors except that they walk in. Any city that values equal opportunity would be (38)_______ to protect it.",
+      "question": "Choose the best word for blank (33).",
+      "options": [
+        "withhold",
+        "offer",
+        "refuse",
+        "charge",
+        "borrow"
+      ],
+      "correct": 1,
+      "solution": "\"many now ___ free internet access... to people\" — libraries provide these services.",
+      "trick": "In cloze, ride the connectors. \"yet\" and \"rather than\" flag reversals (pick the opposite of the surrounding tone); \"not a ___ but a necessity\" is a direct antonym slot; and fixed pairs — *transform into*, *strip away* — are collocation locks. Always test your word against the sentence's polarity signal before the neighbouring words."
+    },
+    {
+      "id": "english-jumbles-fillers-v2-q034",
+      "group": "Cloze Test",
+      "context": "Public libraries are often (31)_______ as relics of a pre-digital age, yet their role has quietly (32)_______ rather than shrunk. Where they once lent only books, many now (33)_______ free internet access, job-search help, and quiet study space to people who have nowhere else to turn. This shift has (34)_______ the library into a kind of community anchor. Critics who argue that everything is available online (35)_______ that a large share of the population still lacks reliable devices or connections. For these residents, the library is not a (36)_______ but a necessity. Cutting its funding, therefore, does not merely close a building; it (37)_______ away one of the few public spaces that ask nothing of visitors except that they walk in. Any city that values equal opportunity would be (38)_______ to protect it.",
+      "question": "Choose the best word for blank (34).",
+      "options": [
+        "reduced",
+        "transformed",
+        "demoted",
+        "divided",
+        "emptied"
+      ],
+      "correct": 1,
+      "solution": "\"into a kind of community anchor\" needs a change-of-state verb; \"transformed... into\" is the fixed collocation.",
+      "trick": "In cloze, ride the connectors. \"yet\" and \"rather than\" flag reversals (pick the opposite of the surrounding tone); \"not a ___ but a necessity\" is a direct antonym slot; and fixed pairs — *transform into*, *strip away* — are collocation locks. Always test your word against the sentence's polarity signal before the neighbouring words."
+    },
+    {
+      "id": "english-jumbles-fillers-v2-q035",
+      "group": "Cloze Test",
+      "context": "Public libraries are often (31)_______ as relics of a pre-digital age, yet their role has quietly (32)_______ rather than shrunk. Where they once lent only books, many now (33)_______ free internet access, job-search help, and quiet study space to people who have nowhere else to turn. This shift has (34)_______ the library into a kind of community anchor. Critics who argue that everything is available online (35)_______ that a large share of the population still lacks reliable devices or connections. For these residents, the library is not a (36)_______ but a necessity. Cutting its funding, therefore, does not merely close a building; it (37)_______ away one of the few public spaces that ask nothing of visitors except that they walk in. Any city that values equal opportunity would be (38)_______ to protect it.",
+      "question": "Choose the best word for blank (35).",
+      "options": [
+        "prove",
+        "confirm",
+        "overlook",
+        "announce",
+        "celebrate"
+      ],
+      "correct": 2,
+      "solution": "critics \"who argue everything is online\" fail to notice the device gap; overlook = miss. \"confirm/prove\" would support, not counter, them.",
+      "trick": "In cloze, ride the connectors. \"yet\" and \"rather than\" flag reversals (pick the opposite of the surrounding tone); \"not a ___ but a necessity\" is a direct antonym slot; and fixed pairs — *transform into*, *strip away* — are collocation locks. Always test your word against the sentence's polarity signal before the neighbouring words."
+    },
+    {
+      "id": "english-jumbles-fillers-v2-q036",
+      "group": "Cloze Test",
+      "context": "Public libraries are often (31)_______ as relics of a pre-digital age, yet their role has quietly (32)_______ rather than shrunk. Where they once lent only books, many now (33)_______ free internet access, job-search help, and quiet study space to people who have nowhere else to turn. This shift has (34)_______ the library into a kind of community anchor. Critics who argue that everything is available online (35)_______ that a large share of the population still lacks reliable devices or connections. For these residents, the library is not a (36)_______ but a necessity. Cutting its funding, therefore, does not merely close a building; it (37)_______ away one of the few public spaces that ask nothing of visitors except that they walk in. Any city that values equal opportunity would be (38)_______ to protect it.",
+      "question": "Choose the best word for blank (36).",
+      "options": [
+        "burden",
+        "luxury",
+        "failure",
+        "mistake",
+        "threat"
+      ],
+      "correct": 1,
+      "solution": "\"not a ___ but a necessity\" — the natural antonym of necessity is luxury.",
+      "trick": "In cloze, ride the connectors. \"yet\" and \"rather than\" flag reversals (pick the opposite of the surrounding tone); \"not a ___ but a necessity\" is a direct antonym slot; and fixed pairs — *transform into*, *strip away* — are collocation locks. Always test your word against the sentence's polarity signal before the neighbouring words."
+    },
+    {
+      "id": "english-jumbles-fillers-v2-q037",
+      "group": "Cloze Test",
+      "context": "Public libraries are often (31)_______ as relics of a pre-digital age, yet their role has quietly (32)_______ rather than shrunk. Where they once lent only books, many now (33)_______ free internet access, job-search help, and quiet study space to people who have nowhere else to turn. This shift has (34)_______ the library into a kind of community anchor. Critics who argue that everything is available online (35)_______ that a large share of the population still lacks reliable devices or connections. For these residents, the library is not a (36)_______ but a necessity. Cutting its funding, therefore, does not merely close a building; it (37)_______ away one of the few public spaces that ask nothing of visitors except that they walk in. Any city that values equal opportunity would be (38)_______ to protect it.",
+      "question": "Choose the best word for blank (37).",
+      "options": [
+        "builds",
+        "gives",
+        "strips",
+        "hands",
+        "keeps"
+      ],
+      "correct": 2,
+      "solution": "\"does not merely close a building; it ___ away one of the few public spaces\"; \"strips away\" is the idiom and matches the negative escalation.",
+      "trick": "In cloze, ride the connectors. \"yet\" and \"rather than\" flag reversals (pick the opposite of the surrounding tone); \"not a ___ but a necessity\" is a direct antonym slot; and fixed pairs — *transform into*, *strip away* — are collocation locks. Always test your word against the sentence's polarity signal before the neighbouring words."
+    },
+    {
+      "id": "english-jumbles-fillers-v2-q038",
+      "group": "Cloze Test",
+      "context": "Public libraries are often (31)_______ as relics of a pre-digital age, yet their role has quietly (32)_______ rather than shrunk. Where they once lent only books, many now (33)_______ free internet access, job-search help, and quiet study space to people who have nowhere else to turn. This shift has (34)_______ the library into a kind of community anchor. Critics who argue that everything is available online (35)_______ that a large share of the population still lacks reliable devices or connections. For these residents, the library is not a (36)_______ but a necessity. Cutting its funding, therefore, does not merely close a building; it (37)_______ away one of the few public spaces that ask nothing of visitors except that they walk in. Any city that values equal opportunity would be (38)_______ to protect it.",
+      "question": "Choose the best word for blank (38).",
+      "options": [
+        "reluctant",
+        "unwise",
+        "foolish",
+        "wise",
+        "slow"
+      ],
+      "correct": 3,
+      "solution": "\"Any city that values equal opportunity would be ___ to protect it\" — protecting it is the sensible act, so wise. (unwise/foolish would need \"to abandon it.\")",
+      "trick": "In cloze, ride the connectors. \"yet\" and \"rather than\" flag reversals (pick the opposite of the surrounding tone); \"not a ___ but a necessity\" is a direct antonym slot; and fixed pairs — *transform into*, *strip away* — are collocation locks. Always test your word against the sentence's polarity signal before the neighbouring words."
+    }
+  ]
+}
