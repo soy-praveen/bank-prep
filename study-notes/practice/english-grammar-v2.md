@@ -172,8 +172,8 @@ For Q36–Q42, two words in the sentence have been interchanged and must be swap
 **Q6. (B) who always insists.** RULE — In "one of those officers who ...", the relative pronoun "who" refers to the plural "officers," so the verb is plural: "who always insist."
 **Trick:** "One of those X who" — the verb after "who" is plural because it points to X, not to "one."
 
-**Q7. (E) No error.** RULE — "Between" is for two, "among" for more than two — BUT "distribute among" is correct even for two people when sharing out items. Actually the standard rule prefers "between the two." Here the intended answer tests distribution: with exactly two persons the idiomatic and prescriptive choice is "between the two toppers."
-**Note/Trick:** Standard SBI key marks (B) "the prizes among" as the error for exactly two people — use "between" for two. Choose (B).
+**Q7. (B) the prizes among.** RULE — "Among" is used for more than two; for exactly two persons use "between." So "the prizes between the two toppers."
+**Trick:** BETWEEN for two, AMONG for three or more. The clue word here is "the two."
 
 **Q8. (B) meeting you.** RULE — "Look forward to" ends in a preposition "to," which must be followed by a gerund (-ing), not the base verb. So "look forward to meeting you."
 **Trick:** In "look forward to," the "to" is a preposition — always follow it with a verb+ing.
@@ -246,8 +246,8 @@ For Q36–Q42, two words in the sentence have been interchanged and must be swap
 **Q30. (E) No improvement.** RULE — "Write down their names in capital letters" is already correct: plural "names" for plural students, and "capital letters" is the standard phrase.
 **Trick:** Don't over-correct. If subject-verb, number and idiom all fit, keep the original.
 
-**Q31. (A) the organisers called off the match.** RULE — Dangling modifier. "Being a rainy day" must attach to a logical subject; the match cannot "be a rainy day." Recast so the clause has a proper subject — better still, "It being a rainy day, the organisers called off the match." Among the options, (A) supplies an active subject and reads best.
-**Trick:** An opening -ing phrase must describe the subject that follows it. Fix dangling modifiers by giving the main clause a doer.
+**Q31. (A) the organisers called off the match.** RULE — Dangling modifier: "Being a rainy day" wrongly attaches to "the match," which cannot be a rainy day. The main clause needs a logical doer, so "the organisers called off the match" reads best of the options.
+**Trick:** An opening participial phrase must describe the subject right after it. Fix a dangler by giving the main clause a real doer.
 
 **Q32. (A) too weak to walk.** RULE — "Too + adjective + to + base verb." So "too weak to walk," not "to walking."
 **Trick:** After "too ... to," use the plain (base) verb.
@@ -281,8 +281,8 @@ For Q36–Q42, two words in the sentence have been interchanged and must be swap
 **Q41. (B) prosecute / execute.** RULE — "Execute" = carry out (a project); "prosecute" = take legal action (a case). Correct: "engineers execute the project ... lawyer will prosecute the fraud case."
 **Trick:** exeCUTE = carry out a plan. proseCUTE = pursue in court.
 
-**Q42. (B) adversely / adverse.** RULE — Need the adverb "adversely" to modify the verb "affect," and the adjective — actually "at the same time" needs no "adverse"; the intended pair swaps the adverb and adjective forms. Correct: "will adversely affect the crops, and the two events happened at the same time." The word "adverse" is misused for "same"; the tested confusable is adverse (unfavourable) vs adverse-time. Correct reading keeps "adversely affect" and drops the wrong "adverse."
-**Trick:** Use "adversely" (adverb) before a verb; "adverse" (adjective) before a noun. "adverse effect," but "adversely affect."
+**Q42. (B) adverse / adversely.** RULE — "Adversely" (adverb) must modify the verb "affect"; "adverse" (adjective) must modify the noun "region." They are swapped. Correct: "will adversely affect the crops grown in this adverse low-lying region."
+**Trick:** Adverb before a verb: "adversely affect." Adjective before a noun: "adverse effect / adverse region."
 
 **Q43. (A) adopt.** RULE — "Adopt" = to take up / accept formally (a policy). "Adapt" = to adjust; "adept" = skilled.
 **Trick:** adOPT = OPT to accept. adAPT = Adjust.
