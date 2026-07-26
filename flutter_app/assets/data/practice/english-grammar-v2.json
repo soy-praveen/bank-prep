@@ -1,0 +1,758 @@
+{
+  "title": "Error Spotting, Sentence Improvement & Word Usage — Practice (Vol. 2)",
+  "section": "english",
+  "kind": "quiz",
+  "source": "english-grammar-v2.md",
+  "questions": [
+    {
+      "id": "english-grammar-v2-q001",
+      "group": "Part A — Error Spotting",
+      "question": "Find the segment that contains an error. If there is none, choose \"No error\".\n\nNeither the manager nor / his two assistants / was present / at the review meeting.",
+      "options": [
+        "Neither the manager nor",
+        "his two assistants",
+        "was present",
+        "at the review meeting.",
+        "No error"
+      ],
+      "correct": 2,
+      "solution": "With \"neither ... nor\", the verb agrees with the nearer subject. The nearer subject \"his two assistants\" is plural, so it must be \"were present.\"",
+      "trick": "In neither/nor and either/or, the verb obeys the noun sitting closest to it. Read only the part after \"nor.\""
+    },
+    {
+      "id": "english-grammar-v2-q002",
+      "group": "Part A — Error Spotting",
+      "question": "Find the segment that contains an error. If there is none, choose \"No error\".\n\nThe number of applicants / for the clerical post / have increased / sharply this year.",
+      "options": [
+        "The number of applicants",
+        "for the clerical post",
+        "have increased",
+        "sharply this year.",
+        "No error"
+      ],
+      "correct": 2,
+      "solution": "\"The number of + plural noun\" takes a singular verb; only \"A number of\" takes a plural verb. So \"has increased.\"",
+      "trick": "\"THE number\" = one figure = singular. \"A number of\" = many = plural."
+    },
+    {
+      "id": "english-grammar-v2-q003",
+      "group": "Part A — Error Spotting",
+      "question": "Find the segment that contains an error. If there is none, choose \"No error\".\n\nBy the time the auditor arrived, / the staff already / submitted all / the pending vouchers.",
+      "options": [
+        "By the time the auditor arrived,",
+        "the staff already",
+        "submitted all",
+        "the pending vouchers.",
+        "No error"
+      ],
+      "correct": 1,
+      "solution": "With \"By the time ... arrived\" (past), the earlier action needs the past perfect. So \"the staff had already submitted.\"",
+      "trick": "Two past actions, one earlier — the earlier one takes \"had + V3.\""
+    },
+    {
+      "id": "english-grammar-v2-q004",
+      "group": "Part A — Error Spotting",
+      "question": "Find the segment that contains an error. If there is none, choose \"No error\".\n\nShe has been working / in this branch / since the last five years / without a break.",
+      "options": [
+        "She has been working",
+        "in this branch",
+        "since the last five years",
+        "without a break.",
+        "No error"
+      ],
+      "correct": 2,
+      "solution": "\"Since\" marks a point of time; a stretch of time takes \"for.\" So \"for the last five years.\"",
+      "trick": "SINCE a point (since 2019), FOR a period (for five years)."
+    },
+    {
+      "id": "english-grammar-v2-q005",
+      "group": "Part A — Error Spotting",
+      "question": "Find the segment that contains an error. If there is none, choose \"No error\".\n\nThe committee was divided / in their opinion / about whether to / approve the new loan scheme.",
+      "options": [
+        "The committee was divided",
+        "in their opinion",
+        "about whether to",
+        "approve the new loan scheme.",
+        "No error"
+      ],
+      "correct": 1,
+      "solution": "\"Committee\" here acts as a single unit, so use the singular pronoun \"its.\" So \"in its opinion.\"",
+      "trick": "A collective noun acting as one body = singular (its), not \"their.\""
+    },
+    {
+      "id": "english-grammar-v2-q006",
+      "group": "Part A — Error Spotting",
+      "question": "Find the segment that contains an error. If there is none, choose \"No error\".\n\nHe is one of those officers / who always insists / on verifying every / document personally.",
+      "options": [
+        "He is one of those officers",
+        "who always insists",
+        "on verifying every",
+        "document personally.",
+        "No error"
+      ],
+      "correct": 1,
+      "solution": "In \"one of those officers who ...\", the relative pronoun \"who\" refers to the plural \"officers,\" so the verb is plural: \"who always insist.\"",
+      "trick": "\"One of those X who\" — the verb after \"who\" is plural because it points to X, not to \"one.\""
+    },
+    {
+      "id": "english-grammar-v2-q007",
+      "group": "Part A — Error Spotting",
+      "question": "Find the segment that contains an error. If there is none, choose \"No error\".\n\nThe teacher distributed / the prizes among / the two toppers / of the class.",
+      "options": [
+        "The teacher distributed",
+        "the prizes among",
+        "the two toppers",
+        "of the class.",
+        "No error"
+      ],
+      "correct": 1,
+      "solution": "\"Among\" is used for more than two; for exactly two persons use \"between.\" So \"the prizes between the two toppers.\"",
+      "trick": "BETWEEN for two, AMONG for three or more. The clue word here is \"the two.\""
+    },
+    {
+      "id": "english-grammar-v2-q008",
+      "group": "Part A — Error Spotting",
+      "question": "Find the segment that contains an error. If there is none, choose \"No error\".\n\nI look forward to / meet you / at the conference / next month.",
+      "options": [
+        "I look forward to",
+        "meet you",
+        "at the conference",
+        "next month.",
+        "No error"
+      ],
+      "correct": 1,
+      "solution": "\"Look forward to\" ends in a preposition \"to,\" which must be followed by a gerund (-ing), not the base verb. So \"look forward to meeting you.\"",
+      "trick": "In \"look forward to,\" the \"to\" is a preposition — always follow it with a verb+ing."
+    },
+    {
+      "id": "english-grammar-v2-q009",
+      "group": "Part A — Error Spotting",
+      "question": "Find the segment that contains an error. If there is none, choose \"No error\".\n\nHardly had she entered the hall / than the lights / suddenly went off / across the whole floor.",
+      "options": [
+        "Hardly had she entered the hall",
+        "than the lights",
+        "suddenly went off",
+        "across the whole floor.",
+        "No error"
+      ],
+      "correct": 1,
+      "solution": "\"Hardly ... when\" is the correct correlative pair (not \"than\"). So \"Hardly had she entered ... when the lights ...\"",
+      "trick": "Hardly/Scarcely pair with WHEN; No sooner pairs with THAN."
+    },
+    {
+      "id": "english-grammar-v2-q010",
+      "group": "Part A — Error Spotting",
+      "question": "Find the segment that contains an error. If there is none, choose \"No error\".\n\nThere are less / candidates this year / than the branch / had expected.",
+      "options": [
+        "There are less",
+        "candidates this year",
+        "than the branch",
+        "had expected.",
+        "No error"
+      ],
+      "correct": 0,
+      "solution": "\"Candidates\" are countable, so use \"fewer,\" not \"less.\" So \"There are fewer candidates.\"",
+      "trick": "FEWER for things you can count, LESS for things you measure (less water, fewer bottles)."
+    },
+    {
+      "id": "english-grammar-v2-q011",
+      "group": "Part A — Error Spotting",
+      "question": "Find the segment that contains an error. If there is none, choose \"No error\".\n\nIn my opinion, / I think the proposal / deserves a more / careful review.",
+      "options": [
+        "In my opinion,",
+        "I think the proposal",
+        "deserves a more",
+        "careful review.",
+        "No error"
+      ],
+      "correct": 1,
+      "solution": "Redundancy: \"In my opinion\" and \"I think\" mean the same thing; using both is repetitive. Drop one.",
+      "trick": "Watch for double-idea phrases — \"In my opinion, I think\" says the same thing twice."
+    },
+    {
+      "id": "english-grammar-v2-q012",
+      "group": "Part A — Error Spotting",
+      "question": "Find the segment that contains an error. If there is none, choose \"No error\".\n\nThis year's revenue is / far more higher / than what the / firm reported last year.",
+      "options": [
+        "This year's revenue is",
+        "far more higher",
+        "than what the",
+        "firm reported last year.",
+        "No error"
+      ],
+      "correct": 1,
+      "solution": "Double comparative. \"Higher\" is already comparative, so \"more higher\" is wrong. Use \"far higher.\"",
+      "trick": "Never stack two comparatives: no \"more higher,\" \"more better,\" \"most easiest.\""
+    },
+    {
+      "id": "english-grammar-v2-q013",
+      "group": "Part A — Error Spotting",
+      "question": "Find the segment that contains an error. If there is none, choose \"No error\".\n\nEach of the trainees / were asked to submit / a report before / leaving the premises.",
+      "options": [
+        "Each of the trainees",
+        "were asked to submit",
+        "a report before",
+        "leaving the premises.",
+        "No error"
+      ],
+      "correct": 1,
+      "solution": "\"Each of the + plural\" takes a singular verb. So \"was asked to submit.\"",
+      "trick": "Each / Every / Either / Neither + noun = always singular verb."
+    },
+    {
+      "id": "english-grammar-v2-q014",
+      "group": "Part A — Error Spotting",
+      "question": "Find the segment that contains an error. If there is none, choose \"No error\".\n\nThe jury have / taken their seats / and are ready / to deliver the verdict.",
+      "options": [
+        "The jury have",
+        "taken their seats",
+        "and are ready",
+        "to deliver the verdict.",
+        "No error"
+      ],
+      "correct": 4,
+      "solution": "\"Jury\" is a collective noun; when members act individually (taking their seats), the plural verb \"have\" and pronoun \"their\" are acceptable. The sentence is internally consistent.",
+      "trick": "Collective noun + members acting separately = plural verb is fine. Consistency is what matters."
+    },
+    {
+      "id": "english-grammar-v2-q015",
+      "group": "Part A — Error Spotting",
+      "question": "Find the segment that contains an error. If there is none, choose \"No error\".\n\nHe congratulated me / for winning / the inter-bank / debate competition.",
+      "options": [
+        "He congratulated me",
+        "for winning",
+        "the inter-bank",
+        "debate competition.",
+        "No error"
+      ],
+      "correct": 1,
+      "solution": "The correct preposition is \"congratulate someone ON something.\" So \"congratulated me on winning.\"",
+      "trick": "Congratulate ON, not \"for.\""
+    },
+    {
+      "id": "english-grammar-v2-q016",
+      "group": "Part A — Error Spotting",
+      "question": "Find the segment that contains an error. If there is none, choose \"No error\".\n\nNot only the director / but also the shareholders / was unhappy with / the quarterly results.",
+      "options": [
+        "Not only the director",
+        "but also the shareholders",
+        "was unhappy with",
+        "the quarterly results.",
+        "No error"
+      ],
+      "correct": 2,
+      "solution": "\"Not only ... but also\" — the verb agrees with the nearer subject \"the shareholders\" (plural). So \"were unhappy.\"",
+      "trick": "Like neither/nor, the \"not only ... but also\" verb follows the nearest subject."
+    },
+    {
+      "id": "english-grammar-v2-q017",
+      "group": "Part A — Error Spotting",
+      "question": "Find the segment that contains an error. If there is none, choose \"No error\".\n\nA honest officer / is respected by / everyone in the / entire department.",
+      "options": [
+        "A honest officer",
+        "is respected by",
+        "everyone in the",
+        "entire department.",
+        "No error"
+      ],
+      "correct": 0,
+      "solution": "\"Honest\" begins with a silent \"h\" (vowel sound), so it takes \"An.\" So \"An honest officer.\"",
+      "trick": "Article choice follows SOUND, not spelling: an honest man, a university, an hour."
+    },
+    {
+      "id": "english-grammar-v2-q018",
+      "group": "Part A — Error Spotting",
+      "question": "Find the segment that contains an error. If there is none, choose \"No error\".\n\nIf I was you, / I would accept / the transfer to / the head office.",
+      "options": [
+        "If I was you,",
+        "I would accept",
+        "the transfer to",
+        "the head office.",
+        "No error"
+      ],
+      "correct": 0,
+      "solution": "In a hypothetical / unreal condition, use the subjunctive \"were\" for all subjects. So \"If I were you.\"",
+      "trick": "For imaginary \"if\" statements, always use \"were\": If I were you / If he were rich."
+    },
+    {
+      "id": "english-grammar-v2-q019",
+      "group": "Part A — Error Spotting",
+      "question": "Find the segment that contains an error. If there is none, choose \"No error\".\n\nThe scenery of Kashmir / are so beautiful / that tourists visit / it every season.",
+      "options": [
+        "The scenery of Kashmir",
+        "are so beautiful",
+        "that tourists visit",
+        "it every season.",
+        "No error"
+      ],
+      "correct": 1,
+      "solution": "\"Scenery\" is an uncountable singular noun, so it takes a singular verb \"is.\" So \"The scenery ... is so beautiful.\"",
+      "trick": "Scenery, furniture, luggage, information — all uncountable, all singular."
+    },
+    {
+      "id": "english-grammar-v2-q020",
+      "group": "Part A — Error Spotting",
+      "question": "Find the segment that contains an error. If there is none, choose \"No error\".\n\nShe returned back / from the training / programme earlier / than we expected.",
+      "options": [
+        "She returned back",
+        "from the training",
+        "programme earlier",
+        "than we expected.",
+        "No error"
+      ],
+      "correct": 0,
+      "solution": "Redundancy: \"return\" already means \"come back,\" so \"returned back\" is repetitive. Use \"She returned.\"",
+      "trick": "Cut the redundant \"back\" after return, revert, repeat, refer."
+    },
+    {
+      "id": "english-grammar-v2-q021",
+      "group": "Part B — Sentence Improvement",
+      "question": "Choose the option that best replaces the marked part. If the original is correct, choose \"No improvement\".\n\nThe bank has decided to **do away the** outdated ledger system next quarter.",
+      "options": [
+        "do away by the",
+        "do away with the",
+        "do off the",
+        "do away from the",
+        "No improvement"
+      ],
+      "correct": 1,
+      "solution": "The phrasal verb is \"do away WITH\" (to abolish). It always needs \"with.\"",
+      "trick": "Learn the fixed particle: do away WITH = abolish."
+    },
+    {
+      "id": "english-grammar-v2-q022",
+      "group": "Part B — Sentence Improvement",
+      "question": "Choose the option that best replaces the marked part. If the original is correct, choose \"No improvement\".\n\nScarcely had the results been announced **than** the candidates began celebrating.",
+      "options": [
+        "then",
+        "when",
+        "that",
+        "until",
+        "No improvement"
+      ],
+      "correct": 1,
+      "solution": "\"Scarcely ... when\" is the correct correlative (like Hardly ... when). \"Than\" is wrong here.",
+      "trick": "Scarcely/Hardly = WHEN. Only \"No sooner\" takes \"than.\""
+    },
+    {
+      "id": "english-grammar-v2-q023",
+      "group": "Part B — Sentence Improvement",
+      "question": "Choose the option that best replaces the marked part. If the original is correct, choose \"No improvement\".\n\nIf he **would have studied** the guidelines carefully, he would not have made the error.",
+      "options": [
+        "had studied",
+        "has studied",
+        "would study",
+        "studied",
+        "No improvement"
+      ],
+      "correct": 0,
+      "solution": "Third conditional: \"If + had + V3, ... would have + V3.\" Never use \"would have\" in the if-clause.",
+      "trick": "No \"would\" inside the \"if\" half of a conditional. If-clause takes \"had + V3.\""
+    },
+    {
+      "id": "english-grammar-v2-q024",
+      "group": "Part B — Sentence Improvement",
+      "question": "Choose the option that best replaces the marked part. If the original is correct, choose \"No improvement\".\n\nThe new recruit is **more efficient than any** employee in the team.",
+      "options": [
+        "more efficient than any other",
+        "the most efficient than any",
+        "more efficient as any",
+        "as efficient than any",
+        "No improvement"
+      ],
+      "correct": 0,
+      "solution": "When comparing one member with the rest of its own group, add \"other.\" Without it, the sentence illogically compares him to himself.",
+      "trick": "Comparative + \"than any\" within the same group needs \"any OTHER.\""
+    },
+    {
+      "id": "english-grammar-v2-q025",
+      "group": "Part B — Sentence Improvement",
+      "question": "Choose the option that best replaces the marked part. If the original is correct, choose \"No improvement\".\n\nShe is **senior than me** by three years in the organisation.",
+      "options": [
+        "senior to me",
+        "more senior than me",
+        "senior from me",
+        "senior than I",
+        "No improvement"
+      ],
+      "correct": 0,
+      "solution": "Latin comparatives (senior, junior, superior, inferior, prior, preferable) take \"to,\" not \"than.\"",
+      "trick": "Senior/junior/superior/inferior always pair with TO."
+    },
+    {
+      "id": "english-grammar-v2-q026",
+      "group": "Part B — Sentence Improvement",
+      "question": "Choose the option that best replaces the marked part. If the original is correct, choose \"No improvement\".\n\nNeither the auditor nor the accountants **has signed** the final statement yet.",
+      "options": [
+        "have signed",
+        "has been signing",
+        "signs",
+        "is signing",
+        "No improvement"
+      ],
+      "correct": 0,
+      "solution": "With \"neither ... nor,\" the verb agrees with the nearer subject \"the accountants\" (plural). So \"have signed.\"",
+      "trick": "Nor's verb follows the nearest noun — here plural \"accountants.\""
+    },
+    {
+      "id": "english-grammar-v2-q027",
+      "group": "Part B — Sentence Improvement",
+      "question": "Choose the option that best replaces the marked part. If the original is correct, choose \"No improvement\".\n\nNo sooner did the alarm ring **when** everyone rushed to the exit.",
+      "options": [
+        "then",
+        "than",
+        "that",
+        "but",
+        "No improvement"
+      ],
+      "correct": 1,
+      "solution": "\"No sooner ... than\" is the fixed pair. \"When\" is wrong.",
+      "trick": "No sooner = THAN (not when)."
+    },
+    {
+      "id": "english-grammar-v2-q028",
+      "group": "Part B — Sentence Improvement",
+      "question": "Choose the option that best replaces the marked part. If the original is correct, choose \"No improvement\".\n\nThe manager insisted **on me to complete** the report by evening.",
+      "options": [
+        "that I complete",
+        "me to complete",
+        "on me completing",
+        "for me completing",
+        "No improvement"
+      ],
+      "correct": 0,
+      "solution": "\"Insist\" is not followed by \"on + object + to-infinitive.\" Use \"insist that + subject + base verb\" (subjunctive). So \"insisted that I complete.\"",
+      "trick": "Insist / demand / suggest + THAT + base verb."
+    },
+    {
+      "id": "english-grammar-v2-q029",
+      "group": "Part B — Sentence Improvement",
+      "question": "Choose the option that best replaces the marked part. If the original is correct, choose \"No improvement\".\n\nHe **prefers coffee than tea** during the morning shift.",
+      "options": [
+        "prefers coffee to tea",
+        "prefers coffee over tea",
+        "prefer coffee than tea",
+        "prefers coffee from tea",
+        "No improvement"
+      ],
+      "correct": 0,
+      "solution": "\"Prefer\" takes \"to,\" not \"than,\" when comparing two nouns.",
+      "trick": "Prefer X TO Y."
+    },
+    {
+      "id": "english-grammar-v2-q030",
+      "group": "Part B — Sentence Improvement",
+      "question": "Choose the option that best replaces the marked part. If the original is correct, choose \"No improvement\".\n\nThe students were asked to **write down their names in capital letters** on the answer sheet.",
+      "options": [
+        "write their names down in capitals letters",
+        "write down their name in capital letter",
+        "write down their names in capitals letter",
+        "writing down their names in capital letters",
+        "No improvement"
+      ],
+      "correct": 4,
+      "solution": "\"Write down their names in capital letters\" is already correct: plural \"names\" for plural students, and \"capital letters\" is the standard phrase.",
+      "trick": "Don't over-correct. If subject-verb, number and idiom all fit, keep the original."
+    },
+    {
+      "id": "english-grammar-v2-q031",
+      "group": "Part B — Sentence Improvement",
+      "question": "Choose the option that best replaces the marked part. If the original is correct, choose \"No improvement\".\n\nBeing a rainy day, **the match was called off** by the organisers.",
+      "options": [
+        "the organisers called off the match",
+        "the match was calling off",
+        "they called the match up",
+        "the match were called off",
+        "No improvement"
+      ],
+      "correct": 0,
+      "solution": "Dangling modifier: \"Being a rainy day\" wrongly attaches to \"the match,\" which cannot be a rainy day. The main clause needs a logical doer, so \"the organisers called off the match\" reads best of the options.",
+      "trick": "An opening participial phrase must describe the subject right after it. Fix a dangler by giving the main clause a real doer."
+    },
+    {
+      "id": "english-grammar-v2-q032",
+      "group": "Part B — Sentence Improvement",
+      "question": "Choose the option that best replaces the marked part. If the original is correct, choose \"No improvement\".\n\nHe is **too weak to walking** without support after the surgery.",
+      "options": [
+        "too weak to walk",
+        "so weak to walk",
+        "too weak for walking",
+        "too weak that he walks",
+        "No improvement"
+      ],
+      "correct": 0,
+      "solution": "\"Too + adjective + to + base verb.\" So \"too weak to walk,\" not \"to walking.\"",
+      "trick": "After \"too ... to,\" use the plain (base) verb."
+    },
+    {
+      "id": "english-grammar-v2-q033",
+      "group": "Part B — Sentence Improvement",
+      "question": "Choose the option that best replaces the marked part. If the original is correct, choose \"No improvement\".\n\nThe reason for his failure **is because he was** overconfident.",
+      "options": [
+        "is that he was",
+        "is due to he was",
+        "was because of he is",
+        "is because of he being",
+        "No improvement"
+      ],
+      "correct": 0,
+      "solution": "\"The reason is because\" is redundant (reason + because both give cause). Use \"The reason is that.\"",
+      "trick": "Never write \"reason is because\" — replace with \"reason is that.\""
+    },
+    {
+      "id": "english-grammar-v2-q034",
+      "group": "Part B — Sentence Improvement",
+      "question": "Choose the option that best replaces the marked part. If the original is correct, choose \"No improvement\".\n\nOne should keep **his promises** if one wishes to be trusted.",
+      "options": [
+        "one's promises",
+        "their promises",
+        "the promises",
+        "his or her promise",
+        "No improvement"
+      ],
+      "correct": 0,
+      "solution": "The pronoun must agree with \"one\"; the correct possessive is \"one's.\"",
+      "trick": "Start with \"one,\" continue with \"one's\" — don't switch to \"his\" or \"their.\""
+    },
+    {
+      "id": "english-grammar-v2-q035",
+      "group": "Part B — Sentence Improvement",
+      "question": "Choose the option that best replaces the marked part. If the original is correct, choose \"No improvement\".\n\nThe higher you climb, **the coldest it becomes** on the mountain.",
+      "options": [
+        "the more cold it becomes",
+        "the colder it becomes",
+        "colder it becomes",
+        "the more colder it becomes",
+        "No improvement"
+      ],
+      "correct": 1,
+      "solution": "Parallel comparative structure: \"The + comparative ..., the + comparative ...\" So \"The higher ..., the colder ...\" — use the comparative, not the superlative \"coldest.\"",
+      "trick": "In \"The more ..., the more ...\" sentences both blanks take the COMPARATIVE form."
+    },
+    {
+      "id": "english-grammar-v2-q036",
+      "group": "Part C — Word Swap / Usage & Confusables",
+      "question": "Two words in the sentence have been interchanged and must be swapped back for it to make sense. Identify the pair.\n\nThe **principle** of the college addressed the students on the importance of moral **principal**.",
+      "options": [
+        "students / importance",
+        "principle / principal",
+        "addressed / importance",
+        "college / students",
+        "No swap needed"
+      ],
+      "correct": 1,
+      "solution": "\"Principal\" = head of a college (noun/person); \"principle\" = a moral rule. They are swapped. Correct: \"The principal ... importance of moral principles.\"",
+      "trick": "The princiPAL is your PAL (the head person). PrinciplE = rulE."
+    },
+    {
+      "id": "english-grammar-v2-q037",
+      "group": "Part C — Word Swap / Usage & Confusables",
+      "question": "Two words in the sentence have been interchanged and must be swapped back for it to make sense. Identify the pair.\n\nThe medicine had little **affect** on the patient, but the news deeply **effected** her mood.",
+      "options": [
+        "affect / effected",
+        "medicine / patient",
+        "little / deeply",
+        "patient / mood",
+        "No swap needed"
+      ],
+      "correct": 0,
+      "solution": "\"Affect\" is the verb (to influence); \"effect\" as a noun means result. Correct: \"little effect on the patient, but the news deeply affected her mood.\"",
+      "trick": "RAVEN — Affect = Verb; Effect = Noun. So use \"effect\" (noun) after \"little,\" and \"affected\" (verb) as the action on her mood."
+    },
+    {
+      "id": "english-grammar-v2-q038",
+      "group": "Part C — Word Swap / Usage & Confusables",
+      "question": "Two words in the sentence have been interchanged and must be swapped back for it to make sense. Identify the pair.\n\nThe manager gave his **council** on the matter, and the local **counsel** met to discuss the roads.",
+      "options": [
+        "manager / matter",
+        "council / counsel",
+        "gave / met",
+        "matter / roads",
+        "No swap needed"
+      ],
+      "correct": 1,
+      "solution": "\"Counsel\" = advice / to advise; \"council\" = an assembly/body. Correct: \"gave his counsel ... the local council met.\"",
+      "trick": "CounCIL = a Committee (people). CounSEL = adviSE / a lawyer."
+    },
+    {
+      "id": "english-grammar-v2-q039",
+      "group": "Part C — Word Swap / Usage & Confusables",
+      "question": "Two words in the sentence have been interchanged and must be swapped back for it to make sense. Identify the pair.\n\nThe soldiers were **complimented** with rations, and the officer **supplemented** them on their bravery.",
+      "options": [
+        "soldiers / officer",
+        "complimented / supplemented",
+        "rations / bravery",
+        "were / on",
+        "No swap needed"
+      ],
+      "correct": 1,
+      "solution": "\"Supplement\" = to add to (rations); \"compliment\" = to praise (bravery). Correct: \"soldiers were supplemented with rations ... officer complimented them on their bravery.\"",
+      "trick": "ComplIment = praIse. Supplement = supply extra."
+    },
+    {
+      "id": "english-grammar-v2-q040",
+      "group": "Part C — Word Swap / Usage & Confusables",
+      "question": "Two words in the sentence have been interchanged and must be swapped back for it to make sense. Identify the pair.\n\nHe was careful not to **loose** his wallet, and the belt felt too **lose** around his waist.",
+      "options": [
+        "careful / waist",
+        "loose / lose",
+        "wallet / belt",
+        "not / too",
+        "No swap needed"
+      ],
+      "correct": 1,
+      "solution": "\"Lose\" (verb) = fail to keep / misplace; \"loose\" (adjective) = not tight. They are swapped. Correct: \"careful not to lose his wallet, and the belt felt too loose.\"",
+      "trick": "LOOSE rhymes with goose (adjective, extra o = extra slack). LOSE has one o — you \"lost\" an o. Verb of misplacing = lose."
+    },
+    {
+      "id": "english-grammar-v2-q041",
+      "group": "Part C — Word Swap / Usage & Confusables",
+      "question": "Two words in the sentence have been interchanged and must be swapped back for it to make sense. Identify the pair.\n\nThe lawyer will **prosecute** the project next year, while the engineers **execute** the fraud case.",
+      "options": [
+        "lawyer / engineers",
+        "prosecute / execute",
+        "project / case",
+        "next / year",
+        "No swap needed"
+      ],
+      "correct": 1,
+      "solution": "\"Execute\" = carry out (a project); \"prosecute\" = take legal action (a case). Correct: \"engineers execute the project ... lawyer will prosecute the fraud case.\"",
+      "trick": "exeCUTE = carry out a plan. proseCUTE = pursue in court."
+    },
+    {
+      "id": "english-grammar-v2-q042",
+      "group": "Part C — Word Swap / Usage & Confusables",
+      "question": "Two words in the sentence have been interchanged and must be swapped back for it to make sense. Identify the pair.\n\nThe storm will **adverse** affect the crops grown in this **adversely** low-lying region.",
+      "options": [
+        "storm / crops",
+        "adverse / adversely",
+        "affect / grown",
+        "crops / region",
+        "No swap needed"
+      ],
+      "correct": 1,
+      "solution": "\"Adversely\" (adverb) must modify the verb \"affect\"; \"adverse\" (adjective) must modify the noun \"region.\" They are swapped. Correct: \"will adversely affect the crops grown in this adverse low-lying region.\"",
+      "trick": "Adverb before a verb: \"adversely affect.\" Adjective before a noun: \"adverse effect / adverse region.\""
+    },
+    {
+      "id": "english-grammar-v2-q043",
+      "group": "Part C — Word Swap / Usage & Confusables",
+      "question": "Choose the correct word for the blank.\n\nThe committee will **______** the new policy at its next sitting.",
+      "options": [
+        "adopt",
+        "adept",
+        "adapt",
+        "adhere",
+        "adept to"
+      ],
+      "correct": 0,
+      "solution": "\"Adopt\" = to take up / accept formally (a policy). \"Adapt\" = to adjust; \"adept\" = skilled.",
+      "trick": "adOPT = OPT to accept. adAPT = Adjust."
+    },
+    {
+      "id": "english-grammar-v2-q044",
+      "group": "Part C — Word Swap / Usage & Confusables",
+      "question": "Choose the correct word for the blank.\n\nYour careless remark may **______** his decision to resign.",
+      "options": [
+        "effect",
+        "affect",
+        "affright",
+        "effective",
+        "affectation"
+      ],
+      "correct": 1,
+      "solution": "Here we need a verb meaning \"to influence\" — \"affect.\" \"Effect\" as a verb means \"to bring about,\" which is not the sense here.",
+      "trick": "Verb slot after \"may\" means Affect (the Verb of the pair)."
+    },
+    {
+      "id": "english-grammar-v2-q045",
+      "group": "Part C — Word Swap / Usage & Confusables",
+      "question": "Choose the correct word for the blank.\n\nThe two ministers reached a **______** agreement on the trade issue.",
+      "options": [
+        "mutual",
+        "mutuel",
+        "neutral",
+        "natural",
+        "moral"
+      ],
+      "correct": 0,
+      "solution": "\"Mutual\" = shared between both parties. \"Neutral\" = impartial; \"moral\" = ethical.",
+      "trick": "MUTUAL = shared by BOTH."
+    },
+    {
+      "id": "english-grammar-v2-q046",
+      "group": "Part C — Word Swap / Usage & Confusables",
+      "question": "Choose the correct word for the blank.\n\nHe was **______** to the club after paying the annual fee.",
+      "options": [
+        "admitted",
+        "omitted",
+        "emitted",
+        "permitted in",
+        "submitted"
+      ],
+      "correct": 0,
+      "solution": "\"Admit to\" = allow to enter/join. \"Omit\" = leave out; \"emit\" = give off; \"submit\" = hand in.",
+      "trick": "adMITted = let IN."
+    },
+    {
+      "id": "english-grammar-v2-q047",
+      "group": "Part C — Word Swap / Usage & Confusables",
+      "question": "Choose the correct word for the blank.\n\nThe witness gave a **______** account of the accident to the police.",
+      "options": [
+        "credible",
+        "creditable",
+        "credulous",
+        "credential",
+        "creditory"
+      ],
+      "correct": 0,
+      "solution": "\"Credible\" = believable (the account). \"Creditable\" = praiseworthy; \"credulous\" = gullible (a person).",
+      "trick": "CredIBLE = believABLE. Creditable = deserves credit. Credulous = too trusting."
+    },
+    {
+      "id": "english-grammar-v2-q048",
+      "group": "Part C — Word Swap / Usage & Confusables",
+      "question": "Choose the correct word for the blank.\n\nThe company decided to **______** its losses by cutting travel costs.",
+      "options": [
+        "minimise",
+        "mineralise",
+        "miniature",
+        "minimum",
+        "diminutive"
+      ],
+      "correct": 0,
+      "solution": "\"Minimise\" = reduce to the least (losses). The others are unrelated in meaning.",
+      "trick": "miniMISE = make the MINIMUM."
+    },
+    {
+      "id": "english-grammar-v2-q049",
+      "group": "Part C — Word Swap / Usage & Confusables",
+      "question": "Choose the correct word for the blank.\n\nPlease **______** from smoking inside the office premises.",
+      "options": [
+        "refrain",
+        "restrain",
+        "remain",
+        "retain",
+        "refrom"
+      ],
+      "correct": 0,
+      "solution": "\"Refrain from\" = hold yourself back from an action. \"Restrain\" needs an object (restrain someone); the idiom for stopping oneself from doing something is \"refrain from.\"",
+      "trick": "reFRAIN FROM doing. reSTRAIN someone/something."
+    },
+    {
+      "id": "english-grammar-v2-q050",
+      "group": "Part C — Word Swap / Usage & Confusables",
+      "question": "Choose the correct word for the blank.\n\nThe new bridge will **______** the two districts across the river.",
+      "options": [
+        "connect",
+        "collect",
+        "correct",
+        "collate",
+        "convict"
+      ],
+      "correct": 0,
+      "solution": "\"Connect\" = join two things (districts). \"Collect,\" \"correct,\" \"collate,\" \"convict\" don't fit.",
+      "trick": "conNECT = join (think of a NETwork linking points)."
+    }
+  ]
+}

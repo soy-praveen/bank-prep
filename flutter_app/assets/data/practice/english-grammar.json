@@ -1,0 +1,358 @@
+{
+  "title": "Error Spotting, Sentence Improvement, Para-Jumbles & Word Usage — Practice",
+  "section": "english",
+  "kind": "quiz",
+  "source": "english-grammar.md",
+  "questions": [
+    {
+      "id": "english-grammar-q001",
+      "group": "Error Spotting",
+      "question": "Mark the part that contains the error. If there is no error, choose \"No error\".\n\nOne of the students / who was caught cheating / have been / suspended for a week.",
+      "options": [
+        "One of the students",
+        "who was caught cheating",
+        "have been",
+        "suspended for a week.",
+        "No error"
+      ],
+      "correct": 2,
+      "solution": "have been -> \"has been\".\nRule broken: Subject-verb agreement with \"one of the...\". The true subject is the singular \"One\", not the plural \"students\". \"One... has been suspended.\"",
+      "trick": "*\"One of the\" always takes a singular verb.* The plural noun after \"of\" is only describing the group; the head is \"One\". Mentally cross out the \"of the students\" phrase and the singular subject stands alone."
+    },
+    {
+      "id": "english-grammar-q002",
+      "group": "Error Spotting",
+      "question": "Mark the part that contains the error. If there is no error, choose \"No error\".\n\nThe number of applicants / for this single post / have crossed / two thousand this year.",
+      "options": [
+        "The number of applicants",
+        "for this single post",
+        "have crossed",
+        "two thousand this year.",
+        "No error"
+      ],
+      "correct": 2,
+      "solution": "have crossed -> \"has crossed\".\nRule broken: Subject-verb agreement. \"The number of...\" is singular and takes a singular verb. (Contrast: \"A number of...\" is plural.)",
+      "trick": "*\"The number of\" -> singular; \"A number of\" -> plural.* Ignore the \"of applicants\" phrase — the subject is \"The number\"."
+    },
+    {
+      "id": "english-grammar-q003",
+      "group": "Error Spotting",
+      "question": "Mark the part that contains the error. If there is no error, choose \"No error\".\n\nShe has been living / in this city / for the year 2015, / which is quite a long time.",
+      "options": [
+        "She has been living",
+        "in this city",
+        "for the year 2015,",
+        "which is quite a long time.",
+        "No error"
+      ],
+      "correct": 2,
+      "solution": "for the year 2015 -> \"since 2015\".\nRule broken: since vs for. 2015 is a point in time, so it takes \"since\". \"For\" is used only for a duration/period.",
+      "trick": "*since = a point in time (since 2015, since Monday); for = a length of time (for two years, for a decade).* With the present perfect continuous (\"has been living\"), a specific starting point needs \"since\"."
+    },
+    {
+      "id": "english-grammar-q004",
+      "group": "Error Spotting",
+      "question": "Mark the part that contains the error. If there is no error, choose \"No error\".\n\nHe is far / more senior than me, / so I usually defer / to his judgement.",
+      "options": [
+        "He is far",
+        "more senior than me,",
+        "so I usually defer",
+        "to his judgement.",
+        "No error"
+      ],
+      "correct": 1,
+      "solution": "more senior than me -> \"senior to me\".\nRule broken: Latin comparatives. Words like senior, junior, superior, inferior, prior, prefer take \"to\", never \"than\", and are not used with \"more\".",
+      "trick": "*senior / superior / junior / inferior / prior / prefer + \"to\" (never \"than\", never \"more\").*"
+    },
+    {
+      "id": "english-grammar-q005",
+      "group": "Error Spotting",
+      "question": "Mark the part that contains the error. If there is no error, choose \"No error\".\n\nThe manager, along with / his assistants, / were praised / for handling the crisis calmly.",
+      "options": [
+        "The manager, along with",
+        "his assistants,",
+        "were praised",
+        "for handling the crisis calmly.",
+        "No error"
+      ],
+      "correct": 2,
+      "solution": "were praised -> \"was praised\".\nRule broken: Subject-verb agreement with \"along with\". Phrases like along with, together with, as well as, in addition to do not change the number of the subject. The subject is singular \"The manager\".",
+      "trick": "*Ignore the \"along with / as well as / together with\" phrase (usually set off by commas) — match the verb to the real subject before it.* Manager = singular = \"was\"."
+    },
+    {
+      "id": "english-grammar-q006",
+      "group": "Error Spotting",
+      "question": "Mark the part that contains the error. If there is no error, choose \"No error\".\n\nThere are fewer / sugar in this recipe / than in the one / we tried last week.",
+      "options": [
+        "There are fewer",
+        "sugar in this recipe",
+        "than in the one",
+        "we tried last week.",
+        "No error"
+      ],
+      "correct": 0,
+      "solution": "fewer -> \"less\".\nRule broken: less vs fewer. Sugar is an uncountable noun, so it takes \"less\". \"Fewer\" is only for countable plural nouns.",
+      "trick": "*fewer = things you can count (fewer chairs, fewer errors); less = things you cannot count / measure (less sugar, less water, less time).*"
+    },
+    {
+      "id": "english-grammar-q007",
+      "group": "Error Spotting",
+      "question": "Mark the part that contains the error. If there is no error, choose \"No error\".\n\nNo sooner had the bell rung / when the students / rushed out / of the classroom.",
+      "options": [
+        "No sooner had the bell rung",
+        "when the students",
+        "rushed out",
+        "of the classroom.",
+        "No error"
+      ],
+      "correct": 1,
+      "solution": "when -> \"than\".\nRule broken: Correlative pairing. \"No sooner\" is always followed by \"than\", not \"when\". (Note also the correct inversion: \"No sooner had the bell rung...\".)",
+      "trick": "*no sooner ... than; hardly/scarcely ... when; such ... that.* Memorise the fixed partner of each opener."
+    },
+    {
+      "id": "english-grammar-q008",
+      "group": "Error Spotting",
+      "question": "Mark the part that contains the error. If there is no error, choose \"No error\".\n\nIn my opinion, / I think the plan / is far too risky / to be approved now.",
+      "options": [
+        "In my opinion,",
+        "I think the plan",
+        "is far too risky",
+        "to be approved now.",
+        "No error"
+      ],
+      "correct": 1,
+      "solution": "I think -> redundancy.\nRule broken: Redundancy. \"In my opinion\" and \"I think\" express the same idea; using both is repetitive. Keep one only — \"In my opinion, the plan is far too risky.\"",
+      "trick": "*Watch for double-expression redundancy: \"In my opinion, I think\", \"return back\", \"reason is because\", \"each and every one\". If two parts say the same thing, one is the error.*"
+    },
+    {
+      "id": "english-grammar-q009",
+      "group": "Sentence Improvement",
+      "question": "Choose the option that best replaces the marked part. If no change is needed, choose \"No improvement\".\n\nHardly had he entered the hall _when the lights went off_.",
+      "options": [
+        "than the lights went off",
+        "then the lights went off",
+        "when the lights went off",
+        "that the lights went off",
+        "No improvement"
+      ],
+      "correct": 2,
+      "solution": "when the lights went off (No improvement).\nRule broken: none — the pairing is already correct. \"Hardly/Scarcely\" is completed by \"when\", not \"than\" or \"then\".",
+      "trick": "*hardly/scarcely ... when* (partner check again). Do not confuse it with *no sooner ... than*."
+    },
+    {
+      "id": "english-grammar-q010",
+      "group": "Sentence Improvement",
+      "question": "Choose the option that best replaces the marked part. If no change is needed, choose \"No improvement\".\n\nThe committee _were divided_ in their opinions about the merger.",
+      "options": [
+        "was divided",
+        "were divide",
+        "has divided",
+        "were dividing",
+        "No improvement"
+      ],
+      "correct": 4,
+      "solution": "No improvement — \"were divided\".\nRule broken: none. A collective noun like \"committee\" takes a plural verb when its members act as individuals (here, \"divided in their opinions\" shows disagreement among members). \"Were divided\" is correct.",
+      "trick": "*A collective noun is plural when the group is split/acting individually (\"the jury were divided\"), singular when it acts as one unit (\"the jury has reached a verdict\").*"
+    },
+    {
+      "id": "english-grammar-q011",
+      "group": "Sentence Improvement",
+      "question": "Choose the option that best replaces the marked part. If no change is needed, choose \"No improvement\".\n\nShe prefers coffee _than tea_ in the morning.",
+      "options": [
+        "over tea",
+        "to tea",
+        "from tea",
+        "than the tea",
+        "No improvement"
+      ],
+      "correct": 1,
+      "solution": "to tea.\nRule broken: \"prefer\" takes \"to\", never \"than\".",
+      "trick": "*prefer + noun + \"to\" + noun.* (Same Latin-comparative family as senior/superior.)"
+    },
+    {
+      "id": "english-grammar-q012",
+      "group": "Sentence Improvement",
+      "question": "Choose the option that best replaces the marked part. If no change is needed, choose \"No improvement\".\n\nIf I _would have known_ about the meeting, I would have attended it.",
+      "options": [
+        "had known",
+        "have known",
+        "would know",
+        "knew",
+        "No improvement"
+      ],
+      "correct": 0,
+      "solution": "had known.\nRule broken: Third conditional. The \"if\" clause of an unreal past condition uses the past perfect (\"had known\"), and the main clause uses \"would have + participle\". \"Would have\" never appears in the if-clause.",
+      "trick": "*If + had + past participle, ... would have + past participle. Never put \"would\" in the \"if\" half.*"
+    },
+    {
+      "id": "english-grammar-q013",
+      "group": "Sentence Improvement",
+      "question": "Choose the option that best replaces the marked part. If no change is needed, choose \"No improvement\".\n\nThe scientist explained _that how_ the vaccine works in the body.",
+      "options": [
+        "that how",
+        "how that",
+        "how",
+        "which how",
+        "No improvement"
+      ],
+      "correct": 2,
+      "solution": "how.\nRule broken: Double conjunction / redundancy. \"That\" and \"how\" both introduce the clause; using both is wrong. Keep \"how\" alone: \"explained how the vaccine works\".",
+      "trick": "*Do not stack conjunctions: \"that how\", \"but yet\", \"because... so\", \"although... but\" are all errors. Keep one connector.*"
+    },
+    {
+      "id": "english-grammar-q014",
+      "group": "Sentence Improvement",
+      "question": "Choose the option that best replaces the marked part. If no change is needed, choose \"No improvement\".\n\nNeither the teacher nor the students _was aware_ of the sudden change in schedule.",
+      "options": [
+        "was aware",
+        "were aware",
+        "has been aware",
+        "is aware",
+        "No improvement"
+      ],
+      "correct": 1,
+      "solution": "were aware.\nRule broken: neither...nor proximity rule. With \"neither...nor\" (and \"either...or\"), the verb agrees with the nearer subject. The nearer subject is \"the students\" (plural), so \"were aware\".",
+      "trick": "*neither/nor & either/or: the verb matches the subject CLOSEST to it. Reorder mentally so the closest noun sets the verb.*"
+    },
+    {
+      "id": "english-grammar-q015",
+      "group": "Para-Jumbles — Set 1",
+      "context": "Rearrange the sentences A-E to form a coherent paragraph.\n\n- **A.** However, most of these plans collapse within a few weeks, long before February arrives.\n- **B.** Every January, millions of people set ambitious resolutions to change their lives.\n- **C.** The reason is rarely a lack of desire; it is usually a lack of a realistic system.\n- **D.** These goals range from losing weight to learning a new language.\n- **E.** Experts therefore advise replacing vague resolutions with small, measurable daily habits.",
+      "question": "Which sentence should come **first** in the paragraph?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "correct": 1,
+      "solution": "Correct order: B - D - A - C - E.\n\n- **B** opens: it introduces the full subject (\"millions of people\") and the topic (resolutions).\n- **D** follows: \"These goals\" points back to the resolutions in B.\n- **A** brings the contrast: \"However, most of these plans collapse\".\n- **C** explains the collapse: \"The reason is... a lack of a realistic system\".\n- **E** concludes: \"Experts therefore advise...\" gives the takeaway.\n\nB is the opener — it names the full subject with no back-reference; every other sentence depends on something already introduced (These goals, these plans, The reason, therefore).",
+      "trick": "*The opener contains the full noun (here \"millions of people\"), never a pronoun or a back-pointing word. Pronouns and demonstratives (These goals, these plans, The reason) must hug the noun they refer to, so they cannot start the paragraph. Signal words — however, therefore, as a result — mark the middle or the end, never the start.*"
+    },
+    {
+      "id": "english-grammar-q016",
+      "group": "Para-Jumbles — Set 1",
+      "context": "Rearrange the sentences A-E to form a coherent paragraph.\n\n- **A.** However, most of these plans collapse within a few weeks, long before February arrives.\n- **B.** Every January, millions of people set ambitious resolutions to change their lives.\n- **C.** The reason is rarely a lack of desire; it is usually a lack of a realistic system.\n- **D.** These goals range from losing weight to learning a new language.\n- **E.** Experts therefore advise replacing vague resolutions with small, measurable daily habits.",
+      "question": "Which sentence should come **last** in the paragraph?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "correct": 4,
+      "solution": "Correct order: B - D - A - C - E.\n\n- **B** opens: it introduces the full subject (\"millions of people\") and the topic (resolutions).\n- **D** follows: \"These goals\" points back to the resolutions in B.\n- **A** brings the contrast: \"However, most of these plans collapse\".\n- **C** explains the collapse: \"The reason is... a lack of a realistic system\".\n- **E** concludes: \"Experts therefore advise...\" gives the takeaway.\n\n\"Experts therefore advise...\" is the concluding recommendation; \"therefore\" signals a wrap-up.",
+      "trick": "*The opener contains the full noun (here \"millions of people\"), never a pronoun or a back-pointing word. Pronouns and demonstratives (These goals, these plans, The reason) must hug the noun they refer to, so they cannot start the paragraph. Signal words — however, therefore, as a result — mark the middle or the end, never the start.*"
+    },
+    {
+      "id": "english-grammar-q017",
+      "group": "Para-Jumbles — Set 2",
+      "context": "Rearrange the sentences A-D to form a coherent paragraph.\n\n- **A.** As a result, farmers in the region were able to double their annual income within three years.\n- **B.** A small cooperative in the village decided to pool its savings and buy a shared irrigation pump.\n- **C.** The pump allowed them to grow a second crop during the dry season, which had earlier been impossible.\n- **D.** Before this, each family had struggled alone with tiny, rain-dependent plots.",
+      "question": "Which sentence should come **second** in the paragraph?",
+      "answerText": "D",
+      "solution": "Correct order: B - D - C - A.\n\n- **B** opens: it introduces the actors (\"A small cooperative\") and the action (buying a shared pump).\n- **D** gives the earlier situation: \"Before this, each family had struggled alone\" — contrasting the past with B.\n- **C** states the effect of the pump: \"The pump allowed them to grow a second crop\".\n- **A** gives the final result: \"As a result, farmers... were able to double their income\".\n\nAfter the opener B, sentence D (\"Before this...\") sets the earlier backdrop before the consequences unfold.",
+      "trick": "*\"As a result\" and \"Before this\" are position markers. \"As a result\" (A) almost always lands last — it is an outcome. \"Before this\" (D) must sit right after the event it contrasts. \"The pump\" in C hugs the pump introduced in B, confirming C follows the pump's purchase.*"
+    },
+    {
+      "id": "english-grammar-q018",
+      "group": "Para-Jumbles — Set 2",
+      "context": "Rearrange the sentences A-D to form a coherent paragraph.\n\n- **A.** As a result, farmers in the region were able to double their annual income within three years.\n- **B.** A small cooperative in the village decided to pool its savings and buy a shared irrigation pump.\n- **C.** The pump allowed them to grow a second crop during the dry season, which had earlier been impossible.\n- **D.** Before this, each family had struggled alone with tiny, rain-dependent plots.",
+      "question": "Which of the following is the correct sequence?",
+      "answerText": "B-D-C-A",
+      "solution": "Correct order: B - D - C - A.\n\n- **B** opens: it introduces the actors (\"A small cooperative\") and the action (buying a shared pump).\n- **D** gives the earlier situation: \"Before this, each family had struggled alone\" — contrasting the past with B.\n- **C** states the effect of the pump: \"The pump allowed them to grow a second crop\".\n- **A** gives the final result: \"As a result, farmers... were able to double their income\".",
+      "trick": "*\"As a result\" and \"Before this\" are position markers. \"As a result\" (A) almost always lands last — it is an outcome. \"Before this\" (D) must sit right after the event it contrasts. \"The pump\" in C hugs the pump introduced in B, confirming C follows the pump's purchase.*"
+    },
+    {
+      "id": "english-grammar-q019",
+      "group": "Word Swap / Word Usage",
+      "question": "Word Swap: In the sentence below, two words need to be interchanged to make it meaningful. Which pair should be swapped?\n\"The chef added a pinch of *flavour* to enhance the *salt* of the soup.\"",
+      "options": [
+        "added - enhance",
+        "flavour - salt",
+        "pinch - soup",
+        "chef - flavour",
+        "No swap needed"
+      ],
+      "correct": 1,
+      "solution": "flavour - salt.\nRule: The two words sit in each other's slots. Interchanging \"flavour\" and \"salt\" gives the logical sentence: \"The chef added a pinch of **salt** to enhance the **flavour** of the soup.\" You add salt (a physical pinch) in order to enhance flavour, not the reverse.",
+      "trick": "*Word Swap: spot the two words that are in each other's place, swap them, and re-read. The version that makes logical sense is right. Check the objects: a \"pinch of salt\" is physical; \"flavour\" is the quality being enhanced — only that pairing fits.*"
+    },
+    {
+      "id": "english-grammar-q020",
+      "group": "Word Swap / Word Usage",
+      "question": "Word Swap: Identify the pair of words that must be interchanged.\n\"The company decided to *raise* its old machines and *replace* the wages of its workers.\"",
+      "options": [
+        "raise - replace",
+        "decided - raise",
+        "old - workers",
+        "machines - wages",
+        "No swap needed"
+      ],
+      "correct": 0,
+      "solution": "raise - replace.\nRule: Swapping \"raise\" and \"replace\" makes the sentence logical: \"The company decided to **replace** its old machines and **raise** the wages of its workers.\" You replace old machines and raise wages.",
+      "trick": "*After swapping, check that each verb fits its object: machines are replaced, wages are raised. The pair whose interchange makes BOTH halves sensible is the answer.*"
+    },
+    {
+      "id": "english-grammar-q021",
+      "group": "Word Swap / Word Usage",
+      "question": "Word Usage: In which sentence is the word **\"principal\"** used correctly?",
+      "options": [
+        "She acted on a matter of principal and refused the bribe.",
+        "The principal amount of the loan must be repaid within five years.",
+        "Honesty is the guiding principal of his life.",
+        "They argued about the principals of democracy.",
+        "He has no principals worth defending."
+      ],
+      "correct": 1,
+      "solution": "The principal amount of the loan must be repaid within five years.\nRule: principal vs principle. \"Principal\" = chief/main, or the original loan sum, or a head of school (noun). \"Principle\" = a rule or moral truth. Options (a), (c), (d), (e) all need \"principle(s)\".",
+      "trick": "*principLE = a ruLE (both end in -le); principAL = the mAin one / the pAL who is the head. The loan's \"principal\" is the main sum.*"
+    },
+    {
+      "id": "english-grammar-q022",
+      "group": "Word Swap / Word Usage",
+      "question": "Word Usage: Choose the sentence where **\"complement\"** is used correctly.",
+      "options": [
+        "The chef received many complements on the dessert.",
+        "A good wine can complement a rich meal perfectly.",
+        "She paid him a lovely complement about his speech.",
+        "He thanked the guests for their kind complements.",
+        "The manager gave her a complement for the hard work."
+      ],
+      "correct": 1,
+      "solution": "A good wine can complement a rich meal perfectly.\nRule: complement vs compliment. \"Complement\" = to complete or go well with something. \"Compliment\" = praise. All the other options mean praise and need \"compliment(s)\".",
+      "trick": "*complEment = complEte (goes together); complIment = \"I\" like to praise. If it means \"goes well with\", use complement.*"
+    },
+    {
+      "id": "english-grammar-q023",
+      "group": "Word Swap / Word Usage",
+      "question": "Word Usage: Select the sentence in which **\"affect\"** is used correctly.",
+      "options": [
+        "The new policy will have a positive affect on trade.",
+        "The medicine had little affect on the patient.",
+        "Poor sleep can seriously affect your concentration.",
+        "The affects of the storm were visible everywhere.",
+        "Her mood had an immediate affect on the team."
+      ],
+      "correct": 2,
+      "solution": "Poor sleep can seriously affect your concentration.\nRule: affect vs effect. \"Affect\" is normally the verb (to influence); \"effect\" is normally the noun (the result). Options (a), (b), (d), (e) need the noun \"effect\".",
+      "trick": "*A = Action = Affect (verb); E = End result = Effect (noun). \"Affect\" DOES something; an \"effect\" IS the result.*"
+    },
+    {
+      "id": "english-grammar-q024",
+      "group": "Word Swap / Word Usage",
+      "question": "Word Usage: In which sentence is **\"eminent\"** used correctly?",
+      "options": [
+        "A storm seemed eminent as the sky darkened.",
+        "The danger was so eminent that they fled at once.",
+        "An eminent scientist delivered the keynote address.",
+        "His arrival was eminent within the hour.",
+        "They feared an eminent collapse of the bridge."
+      ],
+      "correct": 2,
+      "solution": "An eminent scientist delivered the keynote address.\nRule: eminent vs imminent. \"Eminent\" = distinguished/famous. \"Imminent\" = about to happen. Options (a), (b), (d), (e) describe something about to happen and need \"imminent\".",
+      "trick": "*Eminent = Excellent/Esteemed person; Imminent = \"in a minute\" (about to happen). A famous person is eminent; an approaching storm is imminent.*"
+    }
+  ]
+}

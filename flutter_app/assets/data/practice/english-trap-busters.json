@@ -1,0 +1,608 @@
+{
+  "title": "English Trap-Busters — Practice",
+  "section": "english",
+  "kind": "quiz",
+  "source": "english-trap-busters.md",
+  "questions": [
+    {
+      "id": "english-trap-busters-q001",
+      "group": "Set A — Subject–Verb Attraction (the \"of\" phrase steals your verb)",
+      "question": "Choose the correct verb.\nThe *list* of eligible candidates ___ been published on the notice board.",
+      "options": [
+        "have",
+        "has",
+        "were",
+        "are",
+        "having"
+      ],
+      "correct": 1,
+      "solution": "**Rule:** The subject is *the list* (singular). The verb agrees with the head noun, not with *candidates* inside the \"of\" phrase: *the list ... has been published.*\n**Common wrong answer: (a) have.** People let the nearest plural noun *candidates* pull the verb into the plural.",
+      "trick": "Mentally delete the \"of ___\" phrase. \"The list ___ been published\" — obviously *has*."
+    },
+    {
+      "id": "english-trap-busters-q002",
+      "group": "Set A — Subject–Verb Attraction (the \"of\" phrase steals your verb)",
+      "question": "Choose the correct verb.\nThe *quality* of the answers submitted by the trainees ___ improved sharply this quarter.",
+      "options": [
+        "have",
+        "were",
+        "has",
+        "are",
+        "improve"
+      ],
+      "correct": 2,
+      "solution": "**Rule:** Head noun *quality* is singular → *has improved*. *Answers* and *trainees* are just modifiers.\n**Common wrong answer: (a) have.** The plural *answers* sitting right before the blank tempts the plural verb.",
+      "trick": "Find the true subject by asking \"what improved?\" — the *quality*, not the answers."
+    },
+    {
+      "id": "english-trap-busters-q003",
+      "group": "Set A — Subject–Verb Attraction (the \"of\" phrase steals your verb)",
+      "question": "Choose the correct verb.\nA *bunch* of keys ___ lying on the manager's desk since morning.",
+      "options": [
+        "are",
+        "were",
+        "have been",
+        "has been",
+        "being"
+      ],
+      "correct": 3,
+      "solution": "**Rule:** *A bunch* is a singular collective head → *a bunch ... has been lying*. The tense needs perfect-continuous with \"since morning,\" so \"has been.\"\n**Common wrong answer: (a) are / (c) have been.** *Keys* right before the verb screams plural.",
+      "trick": "\"Since morning\" demands a perfect form, and the singular subject fixes it to *has been*."
+    },
+    {
+      "id": "english-trap-busters-q004",
+      "group": "Set A — Subject–Verb Attraction (the \"of\" phrase steals your verb)",
+      "question": "Choose the correct verb.\nThe *series* of workshops on financial literacy ___ scheduled for the last week of August.",
+      "options": [
+        "are",
+        "is",
+        "were",
+        "have been",
+        "being"
+      ],
+      "correct": 1,
+      "solution": "**Rule:** *Series* is singular even though it ends in -s and refers to many workshops → *the series ... is scheduled*.\n**Common wrong answer: (a) are.** The -s ending and the many workshops both suggest plural.",
+      "trick": "*Series, species, means, news* look plural but take a singular verb."
+    },
+    {
+      "id": "english-trap-busters-q005",
+      "group": "Set A — Subject–Verb Attraction (the \"of\" phrase steals your verb)",
+      "question": "Choose the correct verb.\nNeither the *branch manager* nor his *assistants* ___ aware of the revised circular.",
+      "options": [
+        "was",
+        "is",
+        "were",
+        "has been",
+        "being"
+      ],
+      "correct": 2,
+      "solution": "**Rule:** With *neither ... nor*, the verb agrees with the nearer subject. The nearer one is *assistants* (plural) → *were*.\n**Common wrong answer: (a) was.** People default to singular after \"neither.\"",
+      "trick": "In neither/nor and either/or, the verb obeys whichever subject is closest to it."
+    },
+    {
+      "id": "english-trap-busters-q006",
+      "group": "Set B — \"The number of\" vs \"A number of\"",
+      "question": "Choose the correct verb.\nThe *number* of applicants for the clerical post ___ risen every year since 2019.",
+      "options": [
+        "have",
+        "has",
+        "were",
+        "are",
+        "have been"
+      ],
+      "correct": 1,
+      "solution": "**Rule:** *The number of ___* is singular (it names one figure) → *the number ... has risen*.\n**Common wrong answer: (a) have.** *Applicants* just before the verb drags it plural.",
+      "trick": "\"The number\" = one number = singular. Always."
+    },
+    {
+      "id": "english-trap-busters-q007",
+      "group": "Set B — \"The number of\" vs \"A number of\"",
+      "question": "Choose the correct verb.\nA *number* of employees ___ requested a transfer to the regional office.",
+      "options": [
+        "has",
+        "have",
+        "is",
+        "was",
+        "has been"
+      ],
+      "correct": 1,
+      "solution": "**Rule:** *A number of ___* means \"several/many\" and is plural → *a number of employees have requested*.\n**Common wrong answer: (a) has.** People overcorrect after learning that \"the number\" is singular and apply it to \"a number\" too.",
+      "trick": "THE number → singular; A number → plural. Swap \"a number of\" with \"many\" to hear the plural."
+    },
+    {
+      "id": "english-trap-busters-q008",
+      "group": "Set B — \"The number of\" vs \"A number of\"",
+      "question": "Choose the correct verb.\nThe *number* of defaulters ___ surprisingly small this financial year.",
+      "options": [
+        "are",
+        "were",
+        "is",
+        "have been",
+        "being"
+      ],
+      "correct": 2,
+      "solution": "**Rule:** *The number of* → singular → *the number ... is small*.\n**Common wrong answer: (a) are.** *Defaulters* pulls it plural.",
+      "trick": "Same as Q6 — \"the number\" is one quantity, so *is*."
+    },
+    {
+      "id": "english-trap-busters-q009",
+      "group": "Set C — Since vs For (a point in time vs a stretch of time)",
+      "question": "Fill in the blank.\nShe has been working at this bank ___ 2015.",
+      "options": [
+        "for",
+        "from",
+        "since",
+        "by",
+        "during"
+      ],
+      "correct": 2,
+      "solution": "**Rule:** *Since* marks a *point* in time (a start date). 2015 is a point → *since 2015*.\n**Common wrong answer: (a) for.** Learners pair \"for\" with any duration, forgetting that a fixed year is a point.",
+      "trick": "SINCE + a point on the calendar/clock; FOR + a length of time."
+    },
+    {
+      "id": "english-trap-busters-q010",
+      "group": "Set C — Since vs For (a point in time vs a stretch of time)",
+      "question": "Fill in the blank.\nThey have known each other ___ nearly a decade.",
+      "options": [
+        "since",
+        "for",
+        "from",
+        "by",
+        "over since"
+      ],
+      "correct": 1,
+      "solution": "**Rule:** *Nearly a decade* is a *duration* → *for nearly a decade*.\n**Common wrong answer: (a) since.** The present-perfect \"have known\" makes people reach for \"since\" reflexively.",
+      "trick": "If you can put \"a period of\" in front of it (a period of nearly a decade), use FOR."
+    },
+    {
+      "id": "english-trap-busters-q011",
+      "group": "Set C — Since vs For (a point in time vs a stretch of time)",
+      "question": "Fill in the blank.\nThe audit team has been examining the ledgers ___ last Monday.",
+      "options": [
+        "for",
+        "from",
+        "by",
+        "since",
+        "within"
+      ],
+      "correct": 3,
+      "solution": "**Rule:** *Last Monday* is a specific starting point → *since last Monday*.\n**Common wrong answer: (a) for.** \"Last Monday\" feels like recent time, so \"for\" slips in.",
+      "trick": "\"Last Monday\" answers \"starting when?\" — a point — so SINCE."
+    },
+    {
+      "id": "english-trap-busters-q012",
+      "group": "Set D — Senior / Superior / Prefer + TO (never \"than\")",
+      "question": "Fill in the blank.\nHe is three years ___ me in service, so he chairs the committee.",
+      "options": [
+        "senior than",
+        "more senior than",
+        "senior to",
+        "seniored to",
+        "senior from"
+      ],
+      "correct": 2,
+      "solution": "**Rule:** Latin-origin comparatives (*senior, junior, superior, inferior, prior, anterior*) take *to*, never *than* — and never \"more.\" → *senior to me*.\n**Common wrong answer: (a) senior than / (b) more senior than.** English comparison habit (\"taller than\") makes \"than\" feel natural.",
+      "trick": "Words ending in -ior lean on *to*, not *than*."
+    },
+    {
+      "id": "english-trap-busters-q013",
+      "group": "Set D — Senior / Superior / Prefer + TO (never \"than\")",
+      "question": "Fill in the blank.\nMost reviewers agree that this model is far ___ the earlier one in battery life.",
+      "options": [
+        "superior than",
+        "superior to",
+        "more superior to",
+        "superior from",
+        "superior over"
+      ],
+      "correct": 1,
+      "solution": "**Rule:** *Superior* is already comparative and takes *to* → *superior to the earlier one*. \"More superior\" is a double comparative.\n**Common wrong answer: (a) superior than / (c) more superior to.** Both the \"than\" reflex and the urge to add \"more\" strike here.",
+      "trick": "Never say \"more superior.\" Superior *to*. Done."
+    },
+    {
+      "id": "english-trap-busters-q014",
+      "group": "Set D — Senior / Superior / Prefer + TO (never \"than\")",
+      "question": "Fill in the blank.\nI would ___ tea to coffee on a cold morning.",
+      "options": [
+        "prefer",
+        "rather",
+        "prefer more",
+        "prefer",
+        "prefer than"
+      ],
+      "correct": 3,
+      "solution": "**Rule:** *Prefer X to Y*. Here the structure is \"prefer tea to coffee,\" so the verb is simply *prefer*. (Options a and d are identical in wording; the intended correct verb is *prefer*, completing *prefer tea to coffee*.)\n**Common wrong answer: (b) rather / (e) prefer than.** People confuse it with \"would rather ... than,\" which is a different pattern.",
+      "trick": "PREFER pairs with *to*. Only \"would rather\" pairs with *than*."
+    },
+    {
+      "id": "english-trap-busters-q015",
+      "group": "Set D — Senior / Superior / Prefer + TO (never \"than\")",
+      "question": "Fill in the blank.\nGiven the choice, most customers ___ digital statements ___ paper ones.",
+      "options": [
+        "prefer / than",
+        "prefer / to",
+        "prefer / over than",
+        "prefer more / than",
+        "prefer / from"
+      ],
+      "correct": 1,
+      "solution": "**Rule:** *Prefer A to B* → *prefer digital statements to paper ones*.\n**Common wrong answer: (a) prefer / than.** The comparison \"feels\" like it needs \"than.\"",
+      "trick": "Chant it: \"prefer TEA to COFFEE\" — the slot after prefer's object is always *to*."
+    },
+    {
+      "id": "english-trap-busters-q016",
+      "group": "Set E — Less vs Fewer (uncountable vs countable)",
+      "question": "Fill in the blank.\nThere were ___ candidates in this shift than in the morning one.",
+      "options": [
+        "less",
+        "lesser",
+        "fewer",
+        "least",
+        "little"
+      ],
+      "correct": 2,
+      "solution": "**Rule:** *Candidates* are countable → *fewer*. (*Less* is for uncountables.)\n**Common wrong answer: (a) less.** \"Less\" is the default filler for everyone in speech.",
+      "trick": "If you can put a number in front (ten candidates), use FEWER."
+    },
+    {
+      "id": "english-trap-busters-q017",
+      "group": "Set E — Less vs Fewer (uncountable vs countable)",
+      "question": "Fill in the blank.\nWe spent ___ money on marketing this year, yet reached more people.",
+      "options": [
+        "fewer",
+        "less",
+        "fewest",
+        "few",
+        "lesser number of"
+      ],
+      "correct": 1,
+      "solution": "**Rule:** *Money* as a mass/uncountable idea → *less money*. (You'd count *rupees*, not *money*.)\n**Common wrong answer: (a) fewer.** After drilling \"fewer,\" students overcorrect onto uncountables.",
+      "trick": "Money, water, time, information → uncountable → LESS."
+    },
+    {
+      "id": "english-trap-busters-q018",
+      "group": "Set E — Less vs Fewer (uncountable vs countable)",
+      "question": "Fill in the blank.\nThe express counter is for shoppers with ___ than ten items.",
+      "options": [
+        "less",
+        "lesser",
+        "fewer",
+        "little",
+        "few"
+      ],
+      "correct": 2,
+      "solution": "**Rule:** *Items* are countable → *fewer than ten items*. (This is exactly why \"10 items or fewer\" is the correct sign.)\n**Common wrong answer: (a) less.** Supermarket \"10 items or less\" signs have trained the wrong reflex.",
+      "trick": "Countable plural noun after the blank → FEWER."
+    },
+    {
+      "id": "english-trap-busters-q019",
+      "group": "Set F — Correlatives (no sooner…than, hardly…when, not only…but also, either…or)",
+      "question": "Fill in the blank.\nNo sooner ___ the results announced ___ the students began celebrating.",
+      "options": [
+        "had / when",
+        "were / than",
+        "had / then",
+        "did / than",
+        "were / then"
+      ],
+      "correct": 1,
+      "solution": "**Rule:** *No sooner* is followed by *than* (not \"when\"/\"then\"). With inversion after a fronted negative you invert subject and auxiliary: *No sooner were the results announced than...*.\n**Common wrong answer: (a) had / when or (d) did / than.** People pair \"no sooner\" with \"when,\" or force \"had\" where a passive \"were\" is needed.",
+      "trick": "NO SOONER ... THAN (they rhyme in the pairing); HARDLY/SCARCELY ... WHEN."
+    },
+    {
+      "id": "english-trap-busters-q020",
+      "group": "Set F — Correlatives (no sooner…than, hardly…when, not only…but also, either…or)",
+      "question": "Fill in the blank.\nHardly had the train left the platform ___ the signal failed.",
+      "options": [
+        "than",
+        "then",
+        "when",
+        "that",
+        "so"
+      ],
+      "correct": 2,
+      "solution": "**Rule:** *Hardly/Scarcely ... when* is the fixed pair → *Hardly had the train left ... when the signal failed*.\n**Common wrong answer: (a) than.** \"No sooner ... than\" bleeds over onto \"hardly.\"",
+      "trick": "Hardly and Scarcely shake hands with WHEN. Only \"no sooner\" takes THAN."
+    },
+    {
+      "id": "english-trap-busters-q021",
+      "group": "Set F — Correlatives (no sooner…than, hardly…when, not only…but also, either…or)",
+      "question": "Fill in the blank.\nShe is ___ a talented singer ___ a gifted teacher.",
+      "options": [
+        "not only / but also",
+        "not only / but",
+        "either / or",
+        "neither / or",
+        "both / as well as"
+      ],
+      "correct": 0,
+      "solution": "**Rule:** The matching correlative is *not only ... but also*.\n**Common wrong answer: (b) not only / but.** Dropping \"also\" breaks the balanced pair in a formal test context.",
+      "trick": "Keep correlatives in their fixed sets — \"not only\" always wants \"but also.\""
+    },
+    {
+      "id": "english-trap-busters-q022",
+      "group": "Set F — Correlatives (no sooner…than, hardly…when, not only…but also, either…or)",
+      "question": "Fill in the blank.\n___ the manager ___ the cashier was present when the vault was opened.",
+      "options": [
+        "Either / nor",
+        "Neither / or",
+        "Neither / nor",
+        "Both / nor",
+        "Whether / or"
+      ],
+      "correct": 2,
+      "solution": "**Rule:** *Neither* pairs only with *nor* → *Neither the manager nor the cashier was present*.\n**Common wrong answer: (b) Neither / or.** \"Or\" feels interchangeable with \"nor.\"",
+      "trick": "Neither↔Nor, Either↔Or. Same first letter after the slash: **n**either/**n**or."
+    },
+    {
+      "id": "english-trap-busters-q023",
+      "group": "Set G — Redundancy (say it once)",
+      "question": "Pick the option that best replaces the underlined part.\nPlease *return back* the signed form by Friday.",
+      "options": [
+        "return back",
+        "revert back",
+        "return",
+        "send back again",
+        "return once again back"
+      ],
+      "correct": 2,
+      "solution": "**Rule:** *Return* already means \"give/send back,\" so \"return back\" is redundant → just *return*.\n**Common wrong answer: (a) return back / (b) revert back.** Both are everyday spoken redundancies (\"revert back\" doubles the \"back\" inside re-).",
+      "trick": "Any verb with \"re-\" (return, revert, repeat, reply) rejects a following \"back/again.\""
+    },
+    {
+      "id": "english-trap-busters-q024",
+      "group": "Set G — Redundancy (say it once)",
+      "question": "Pick the sentence that is free of redundancy.",
+      "options": [
+        "The two firms decided to mutually cooperate with each other.",
+        "The two firms decided to cooperate.",
+        "The two firms decided to mutually cooperate.",
+        "The two firms decided to cooperate with each other mutually.",
+        "The two firms decided to co-jointly cooperate."
+      ],
+      "correct": 1,
+      "solution": "**Rule:** *Cooperate* already contains \"with each other/mutually,\" so those additions are redundant. The clean sentence is (b).\n**Common wrong answer: (a) or (c).** \"Mutually cooperate\" and \"cooperate with each other\" sound emphatic, so they seem richer.",
+      "trick": "\"Co-\" and \"mutual/each other\" are the same idea — keep one."
+    },
+    {
+      "id": "english-trap-busters-q025",
+      "group": "Set G — Redundancy (say it once)",
+      "question": "Pick the option that best replaces the underlined part.\nThe committee will *repeat that point again* in the next meeting.",
+      "options": [
+        "repeat that point again",
+        "again repeat that point again",
+        "repeat that point",
+        "re-repeat that point",
+        "repeat back that point"
+      ],
+      "correct": 2,
+      "solution": "**Rule:** *Repeat* means \"say again,\" so \"again\" is redundant → *repeat that point*.\n**Common wrong answer: (a) repeat that point again.** It's a near-universal spoken habit.",
+      "trick": "Repeat = again already inside it. Don't stack another \"again.\""
+    },
+    {
+      "id": "english-trap-busters-q026",
+      "group": "Set G — Redundancy (say it once)",
+      "question": "Pick the sentence with no redundancy.",
+      "options": [
+        "The final outcome of the merger is still uncertain.",
+        "The end result of the merger is still uncertain.",
+        "The outcome of the merger is still uncertain.",
+        "The final end result of the merger is still uncertain.",
+        "The outcome result of the merger is still uncertain."
+      ],
+      "correct": 2,
+      "solution": "**Rule:** *Outcome* and *result* are the same idea; \"final outcome,\" \"end result,\" and \"final end result\" all double up. Clean version: (c).\n**Common wrong answer: (a) final outcome / (b) end result.** They sound like standard business English.",
+      "trick": "An outcome/result is inherently the end thing — drop \"final/end.\""
+    },
+    {
+      "id": "english-trap-busters-q027",
+      "group": "Set H — Past Perfect & Sequence of Tenses (the earlier action takes \"had\")",
+      "question": "Choose the correct form.\nBy the time the ambulance arrived, the patient ___ already ___.",
+      "options": [
+        "has / recovered",
+        "had / recovered",
+        "has / recover",
+        "was / recovering",
+        "had / recover"
+      ],
+      "correct": 1,
+      "solution": "**Rule:** Of two past events, the *earlier* one takes past perfect. Recovery happened before the arrival → *had already recovered*.\n**Common wrong answer: (a) has ... recovered.** Mixing present perfect into a wholly past narration.",
+      "trick": "\"By the time X happened, Y had already happened.\" The action further back gets HAD."
+    },
+    {
+      "id": "english-trap-busters-q028",
+      "group": "Set H — Past Perfect & Sequence of Tenses (the earlier action takes \"had\")",
+      "question": "Choose the correct form.\nThe train ___ before we ___ the station.",
+      "options": [
+        "left / reached",
+        "had left / reached",
+        "has left / reached",
+        "left / had reached",
+        "had left / had reached"
+      ],
+      "correct": 0,
+      "solution": "**Rule:** With *before/after*, the conjunction already fixes the sequence, so a simple past in both clauses is standard and correct: *The train left before we reached the station.* (Using \"had left\" is also acceptable, but among the options, the clean simple-past pair is the intended answer; \"reached had\" combinations in the other options are wrong.)\n**Common wrong answer: (d) left / had reached.** Putting \"had\" on the *later* action (reaching) reverses the real order.",
+      "trick": "\"Before\" already shows what came first, so don't force \"had\" onto the second, later action."
+    },
+    {
+      "id": "english-trap-busters-q029",
+      "group": "Set H — Past Perfect & Sequence of Tenses (the earlier action takes \"had\")",
+      "question": "Choose the correct form.\nShe told the auditor that she ___ the discrepancy the previous week.",
+      "options": [
+        "has noticed",
+        "notices",
+        "had noticed",
+        "will notice",
+        "is noticing"
+      ],
+      "correct": 2,
+      "solution": "**Rule:** Reported speech in the past: the earlier noticing shifts to past perfect → *she had noticed ... the previous week*.\n**Common wrong answer: (a) has noticed.** Failing to back-shift the tense after \"told.\"",
+      "trick": "After a past reporting verb (told/said), an earlier action becomes HAD + past participle."
+    },
+    {
+      "id": "english-trap-busters-q030",
+      "group": "Set H — Past Perfect & Sequence of Tenses (the earlier action takes \"had\")",
+      "question": "Choose the correct form.\nWhen I reached the counter, the officer ___ for lunch.",
+      "options": [
+        "has already left",
+        "had already left",
+        "already leaves",
+        "is already leaving",
+        "already left"
+      ],
+      "correct": 1,
+      "solution": "**Rule:** Leaving happened before reaching the counter → past perfect *had already left*.\n**Common wrong answer: (e) already left / (a) has already left.** Simple past blurs the order; present perfect clashes with the past frame.",
+      "trick": "Two past actions, one clearly first → first one wears HAD."
+    },
+    {
+      "id": "english-trap-busters-q031",
+      "group": "Set I — Article a / an by SOUND (not by spelling)",
+      "question": "Choose the correct article.\nHe completed the internship in ___ hour and a half.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "one of",
+        "no article"
+      ],
+      "correct": 1,
+      "solution": "**Rule:** Choose a/an by the *sound* of the next word. *Hour* starts with a silent H, a vowel sound /aʊ/ → *an hour*.\n**Common wrong answer: (a) a.** The written consonant \"h\" fools the eye.",
+      "trick": "Say the word aloud. If it opens with a vowel *sound*, use \"an\" — spelling is irrelevant."
+    },
+    {
+      "id": "english-trap-busters-q032",
+      "group": "Set I — Article a / an by SOUND (not by spelling)",
+      "question": "Choose the correct article.\nShe is pursuing ___ MBA after five years in the field.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "some",
+        "no article"
+      ],
+      "correct": 1,
+      "solution": "**Rule:** *MBA* begins with the letter M, pronounced \"em\" — a vowel sound /e/ → *an MBA*.\n**Common wrong answer: (a) a.** \"M is a consonant\" thinking ignores how the abbreviation is voiced.",
+      "trick": "For abbreviations, use the letter's spoken name: M = \"em,\" so \"an.\""
+    },
+    {
+      "id": "english-trap-busters-q033",
+      "group": "Set I — Article a / an by SOUND (not by spelling)",
+      "question": "Choose the correct article.\nThe professor is ___ European scholar of monetary history.",
+      "options": [
+        "an",
+        "a",
+        "the",
+        "one",
+        "no article"
+      ],
+      "correct": 1,
+      "solution": "**Rule:** *European* starts with a \"y\" consonant sound /juː/ → *a European*.\n**Common wrong answer: (a) an.** The written vowel \"E\" invites \"an.\"",
+      "trick": "\"Eu-\" and \"Uni-\" words sound like \"you-\" — a consonant sound — so use \"a\" (a European, a university, a useful tool)."
+    },
+    {
+      "id": "english-trap-busters-q034",
+      "group": "Set I — Article a / an by SOUND (not by spelling)",
+      "question": "Choose the correct article.\nIt was ___ honest mistake, and the clerk apologised at once.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "that",
+        "no article"
+      ],
+      "correct": 1,
+      "solution": "**Rule:** *Honest* has a silent H → vowel sound /ɒ/ → *an honest mistake*.\n**Common wrong answer: (a) a.** The consonant letter \"h\" again.",
+      "trick": "The silent-H club — honest, hour, honour, heir — all take \"an.\""
+    },
+    {
+      "id": "english-trap-busters-q035",
+      "group": "Set I — Article a / an by SOUND (not by spelling)",
+      "question": "Choose the correct article.\nThe scheme requires every applicant to hold ___ university degree.",
+      "options": [
+        "an",
+        "a",
+        "the",
+        "any",
+        "no article"
+      ],
+      "correct": 1,
+      "solution": "**Rule:** *University* opens with a \"yoo\" consonant sound → *a university degree*.\n**Common wrong answer: (a) an.** The letter \"u\" looks like a vowel.",
+      "trick": "If the word sounds like it starts with \"y,\" it takes \"a.\" (a university, a European, a one-time offer)."
+    },
+    {
+      "id": "english-trap-busters-q036",
+      "group": "Set J — Para-jumble Openers & the Pronoun-Hug (a pronoun must follow its noun)",
+      "question": "Which sentence is the correct *opening* sentence of the paragraph?\n(P) It quickly became the most downloaded app in the country.\n(Q) In 2021, a small startup launched a budgeting tool aimed at first-time earners.\n(R) They had built it in just four months.\n(S) Its clean design won over sceptical users.",
+      "options": [
+        "P",
+        "Q",
+        "R",
+        "S",
+        "It cannot be decided"
+      ],
+      "correct": 1,
+      "solution": "**Rule:** The opener must introduce the subject with a *full noun*, not a pronoun. Only (Q) — \"a small startup launched a budgeting tool\" — names things fresh. P's *It*, R's *They/it*, and S's *Its* all point back to nouns in Q, so they can't come first.\n**Common wrong answer: (a) P.** \"It quickly became the most downloaded app\" reads like a punchy headline opener, but \"It\" has no antecedent yet.",
+      "trick": "A sentence starting with a pronoun (It/They/This/Its) can never open a paragraph — it needs an earlier noun to hug."
+    },
+    {
+      "id": "english-trap-busters-q037",
+      "group": "Set J — Para-jumble Openers & the Pronoun-Hug (a pronoun must follow its noun)",
+      "question": "Which pair must stay together, in this order?\n(1) The RBI released the new guidelines on Monday.\n(2) They took effect the very next day.",
+      "options": [
+        "2 then 1",
+        "1 then 2",
+        "Order does not matter",
+        "They cannot be linked",
+        "2 alone opens"
+      ],
+      "correct": 1,
+      "solution": "**Rule:** *They* in (2) refers to *the new guidelines* in (1), so (1) must come first and (2) must follow immediately — the pronoun hugs its noun.\n**Common wrong answer: (a) 2 then 1.** Testing whether you'll place the pronoun before its antecedent.",
+      "trick": "Noun first, pronoun right behind it — never the reverse."
+    },
+    {
+      "id": "english-trap-busters-q038",
+      "group": "Set J — Para-jumble Openers & the Pronoun-Hug (a pronoun must follow its noun)",
+      "question": "Which sentence *cannot* be the opener?",
+      "options": [
+        "A new library opened near the market last week.",
+        "The mayor inaugurated a modern facility on Ring Road.",
+        "This has delighted the students of the area.",
+        "Volunteers had spent months cataloguing the books.",
+        "Residents welcomed the long-awaited addition."
+      ],
+      "correct": 2,
+      "solution": "**Rule:** *This* is a demonstrative pronoun with no antecedent yet, so (c) cannot open. (Also, (d) \"had spent\" is a past-perfect follow-up that needs an earlier past event to relate to, but the clearest impossible opener is the pronoun-led (c).)\n**Common wrong answer: (d) Volunteers had spent months...** Its past perfect feels mid-story, but it at least names a full subject; the demonstrative \"This\" in (c) is the definitive non-opener.",
+      "trick": "Opening lines can't lead with This/That/These/Those/It/They — they all need a prior noun."
+    },
+    {
+      "id": "english-trap-busters-q039",
+      "group": "Set K — Contrast Connectors (Despite/In spite of + noun; Although/Though + clause)",
+      "question": "Fill in the blank.\n___ the heavy rain, the outdoor recruitment drive went ahead as planned.",
+      "options": [
+        "Although",
+        "Though",
+        "Even though",
+        "Despite",
+        "While"
+      ],
+      "correct": 3,
+      "solution": "**Rule:** *Despite / In spite of* are followed by a *noun/noun phrase*. \"The heavy rain\" is a noun phrase → *Despite the heavy rain*. (Although/Though/While would need a full clause with a verb.)\n**Common wrong answer: (a) Although.** People treat all contrast words as interchangeable.",
+      "trick": "DESPITE + noun (no verb); ALTHOUGH + subject + verb. There's no verb after the blank here, so it must be *Despite*."
+    },
+    {
+      "id": "english-trap-busters-q040",
+      "group": "Set K — Contrast Connectors (Despite/In spite of + noun; Although/Though + clause)",
+      "question": "Fill in the blank.\n___ she had prepared thoroughly, she felt nervous before the interview.",
+      "options": [
+        "Despite",
+        "In spite of",
+        "Although",
+        "Regardless of",
+        "Owing to"
+      ],
+      "correct": 2,
+      "solution": "**Rule:** \"___ she had prepared thoroughly\" is a full clause (subject *she* + verb *had prepared*) → it needs *Although*. *Despite/In spite of/Regardless of* would require a noun, not a clause.\n**Common wrong answer: (a) Despite / (b) In spite of.** Both express contrast, so they tempt you, but they can't sit before a clause without \"the fact that.\"",
+      "trick": "See a subject + verb after the blank? Use ALTHOUGH/THOUGH. See only a noun? Use DESPITE/IN SPITE OF. (*Owing to* means \"because of,\" the wrong meaning entirely.)"
+    }
+  ]
+}
