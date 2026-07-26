@@ -1,6 +1,6 @@
 # English Toolkit
 
-Status: RC / Sentence Improvement / Vocab **strong**. Error-spotting **rulebook learned**. Para-jumbles + Cloze **in progress**.
+Status: RC / Sentence Improvement / Vocab **strong**. Error-spotting, Para-jumbles, Cloze all covered. **English basics complete.**
 
 You're fluent — the marks leak from **mechanical grammar rules**, not comprehension. Diagnostic: RC 4/4, but error-spotting/jumbles needed the rules below.
 
@@ -62,5 +62,17 @@ senior/superior/junior/inferior/prefer → **to** · different **from** · good 
 ## Fillers
 Read the **connector logic** — "despite/although" = contrast; "because/therefore" = cause. Pick words that fit the logic, not just the meaning.
 
-## Para-Jumbles — *(method to be added)*
-## Cloze Test — *(method to be added)*
+## Para-Jumbles (logic puzzles — a strength once you know the moves)
+1. **Find the OPENER:** stands alone, introduces the topic with a **full noun**, no back-references (not *however/this/it/therefore*).
+2. **Find the CLOSER:** concludes — *thus/finally/as a result/today*.
+3. **Link the middle:**
+   - **Pronouns hug their noun** — "It/This/These/He" comes right after the sentence naming the noun.
+   - Connectors: *However/But* (contrast) · *Therefore/Thus* (result) · *Also/Moreover* (addition) · *For example* (follows a claim).
+   - **a → the:** "a scientist" introduced first, "the scientist" refers back.
+   - **Mandatory pairs:** two sentences glued by a reference — find these first, they lock big chunks.
+- Tiebreak between two consequence sentences: the one whose pronoun points at the previous line comes first; the "as a result/finally" one closes.
+
+## Cloze Test (RC + grammar + vocab combined)
+1. **Read the whole passage first** for the theme — don't fill blindly.
+2. Each blank: context logic + correct **part of speech** + **collocation** (words that go together).
+3. **Connectors decide polarity:** *despite/although/yet* → the blank contrasts; *because/therefore* → it matches.
