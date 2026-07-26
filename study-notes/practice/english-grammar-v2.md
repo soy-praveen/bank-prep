@@ -288,7 +288,7 @@ For Q36–Q42, two words in the sentence have been interchanged and must be swap
 **Trick:** adOPT = OPT to accept. adAPT = Adjust.
 
 **Q44. (B) affect.** RULE — Here we need a verb meaning "to influence" — "affect." "Effect" as a verb means "to bring about," which is not the sense here.
-**Trick:** Verb slot after "may" → Affect (Verb).
+**Trick:** Verb slot after "may" means Affect (the Verb of the pair).
 
 **Q45. (A) mutual.** RULE — "Mutual" = shared between both parties. "Neutral" = impartial; "moral" = ethical.
 **Trick:** MUTUAL = shared by BOTH.
