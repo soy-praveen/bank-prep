@@ -69,7 +69,7 @@ Fraction table worth memorising: 1/8 = 12.5%, 1/6 = 16.66%, 1/3 = 33.33%,
 **Answer: 10% decrease**
 
 **Method 1 (fastest) — Multiplier chain**
-- 1.20 x 0.75 = 0.90 → 0.90 means 90% of original → **10% decrease**
+- 1.20 x 0.75 = 0.90 -> 0.90 means 90% of original -> **10% decrease**
 - ~6 seconds. No formula, no assumed number.
 
 **Method 2 — Successive-change formula**
