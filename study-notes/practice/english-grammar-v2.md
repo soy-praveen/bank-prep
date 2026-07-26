@@ -115,14 +115,14 @@ For Q36–Q42, two words in the sentence have been interchanged and must be swap
 **Q39.** The soldiers were **complimented** with rations, and the officer **supplemented** them on their bravery.
 (A) soldiers / officer (B) complimented / supplemented (C) rations / bravery (D) were / on (E) No swap needed
 
-**Q40.** She could not **loose** the tight knot because the rope was too **lose**.
-(A) knot / rope (B) loose / lose (C) tight / too (D) could / because (E) No swap needed
+**Q40.** He was careful not to **loose** his wallet, and the belt felt too **lose** around his waist.
+(A) careful / waist (B) loose / lose (C) wallet / belt (D) not / too (E) No swap needed
 
 **Q41.** The lawyer will **prosecute** the project next year, while the engineers **execute** the fraud case.
 (A) lawyer / engineers (B) prosecute / execute (C) project / case (D) next / year (E) No swap needed
 
-**Q42.** The weather will **adversely** affect the crops, and the two events happened at the same **adverse** time.
-(A) weather / crops (B) adversely / adverse (C) affect / happened (D) crops / events (E) No swap needed
+**Q42.** The storm will **adverse** affect the crops grown in this **adversely** low-lying region.
+(A) storm / crops (B) adverse / adversely (C) affect / grown (D) crops / region (E) No swap needed
 
 **Q43.** The committee will **______** the new policy at its next sitting.
 (A) adopt (B) adept (C) adapt (D) adhere (E) adept to
@@ -275,8 +275,8 @@ For Q36–Q42, two words in the sentence have been interchanged and must be swap
 **Q39. (B) complimented / supplemented.** RULE — "Supplement" = to add to (rations); "compliment" = to praise (bravery). Correct: "soldiers were supplemented with rations ... officer complimented them on their bravery."
 **Trick:** ComplIment = praIse. Supplement = supply extra.
 
-**Q40. (B) loose / lose.** RULE — "Loosen/loose" (adjective) = not tight; "lose" (verb) = fail to keep / undo. Correct: "could not loosen the knot because the rope was too loose." The interchanged pair is loose (should describe the rope) and lose (the action on the knot). Correct usage: "could not loose (undo) the knot ... rope was too loose."
-**Trick:** LOOSE rhymes with goose (adjective, extra o = extra slack). LOSE has one o — you "lost" an o.
+**Q40. (B) loose / lose.** RULE — "Lose" (verb) = fail to keep / misplace; "loose" (adjective) = not tight. They are swapped. Correct: "careful not to lose his wallet, and the belt felt too loose."
+**Trick:** LOOSE rhymes with goose (adjective, extra o = extra slack). LOSE has one o — you "lost" an o. Verb of misplacing = lose.
 
 **Q41. (B) prosecute / execute.** RULE — "Execute" = carry out (a project); "prosecute" = take legal action (a case). Correct: "engineers execute the project ... lawyer will prosecute the fraud case."
 **Trick:** exeCUTE = carry out a plan. proseCUTE = pursue in court.
