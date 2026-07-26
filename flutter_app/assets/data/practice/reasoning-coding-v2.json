@@ -1,0 +1,476 @@
+{
+  "title": "Coding-Decoding — Practice (Vol. 2)",
+  "section": "reasoning",
+  "kind": "quiz",
+  "source": "reasoning-coding-v2.md",
+  "questions": [
+    {
+      "id": "reasoning-coding-v2-q001",
+      "group": "Type 1 — Letter-shift (Caesar)",
+      "question": "If FRIEND is coded as HTKGPF, how is CANDLE coded?",
+      "options": [
+        "ECPFMG",
+        "DCPFNG",
+        "ECPFNG",
+        "ECQFNG",
+        "FCPFNG"
+      ],
+      "correct": 2,
+      "solution": "**ECPFNG.** Find the shift from ONE pair of letters: F → H is +2. Confirm with one more: R → T, also +2. The whole word is shifted +2.\nCANDLE +2: C→E, A→C, N→P, D→F, L→N, E→G = **ECPFNG**.",
+      "trick": "Never check all six letters. Read the shift off the first letter (F→H = +2), verify on the second, then apply mechanically."
+    },
+    {
+      "id": "reasoning-coding-v2-q002",
+      "group": "Type 1 — Letter-shift (Caesar)",
+      "question": "If TEACHER is coded as UFBDIFS, how is STUDENT coded?",
+      "options": [
+        "TUVEFPU",
+        "TUVEFOU",
+        "TUWEFOU",
+        "SUVEFOU",
+        "TUVDFOU"
+      ],
+      "correct": 1,
+      "solution": "**TUVEFOU.** Shift: T → U = +1.\nSTUDENT +1: S→T, T→U, U→V, D→E, E→F, N→O, T→U = **TUVEFOU**.",
+      "trick": "+1 is the most common bank shift — spot it instantly when the coded word \"looks one step ahead.\""
+    },
+    {
+      "id": "reasoning-coding-v2-q003",
+      "group": "Type 1 — Letter-shift (Caesar)",
+      "question": "If MONDAY is coded as LNMCZX, how is FRIDAY coded?",
+      "options": [
+        "EQHBZX",
+        "EPHCZX",
+        "EQHCYX",
+        "EQHCZX",
+        "FQHCZX"
+      ],
+      "correct": 3,
+      "solution": "**EQHCZX.** Shift: M → L = −1 (going backward).\nFRIDAY −1: F→E, R→Q, I→H, D→C, A→Z (A wraps back to Z), Y→X = **EQHCZX**.",
+      "trick": "For a backward shift, A wraps to Z. Picture the alphabet as a ring so you never get stuck at the ends."
+    },
+    {
+      "id": "reasoning-coding-v2-q004",
+      "group": "Type 1 — Letter-shift (Caesar)",
+      "question": "If LIGHT is coded as OLJKW, how is SOUND coded?",
+      "options": [
+        "VRXQG",
+        "VRXPG",
+        "VQXQG",
+        "VRWQG",
+        "URXQG"
+      ],
+      "correct": 0,
+      "solution": "**VRXQG.** Shift: L → O = +3.\nSOUND +3: S→V, O→R, U→X, N→Q, D→G = **VRXQG**.",
+      "trick": "Once you know it is +3, count 3 forward on your fingers per letter. Speed comes from committing the shift number first."
+    },
+    {
+      "id": "reasoning-coding-v2-q005",
+      "group": "Type 1 — Letter-shift (Caesar)",
+      "question": "If PENCIL is coded as RGPEKN, how is MARKER coded?",
+      "options": [
+        "OCTMGS",
+        "OCSMGT",
+        "NCTMGT",
+        "OCTNGT",
+        "OCTMGT"
+      ],
+      "correct": 4,
+      "solution": "**OCTMGT.** Shift: P → R = +2.\nMARKER +2: M→O, A→C, R→T, K→M, E→G, R→T = **OCTMGT**.",
+      "trick": "Same +2 as Q1 — the identical repeated letters (R…R → T…T) are a fast self-check: equal letters must give equal codes."
+    },
+    {
+      "id": "reasoning-coding-v2-q006",
+      "group": "Type 1 — Letter-shift (Caesar)",
+      "question": "If DOG is coded as WLT, how is CAT coded?",
+      "options": [
+        "XYG",
+        "XZG",
+        "WZG",
+        "XZH",
+        "YZG"
+      ],
+      "correct": 1,
+      "solution": "**XZG.** This is NOT a fixed shift. D → W: positions 4 and 23, which add to 27. Check O → L: 15 + 12 = 27. G → T: 7 + 20 = 27. Every letter is replaced by its OPPOSITE.\nCAT: C(3) → X(24), A(1) → Z(26), T(20) → G(7) = **XZG**.",
+      "trick": "Opposite letters sum to 27. So opposite of a letter = 27 − its position. If the \"shift\" seems to change size per letter, suspect opposites and test the 27 rule."
+    },
+    {
+      "id": "reasoning-coding-v2-q007",
+      "group": "Type 2 — Coded-sentence (common-word matching)",
+      "question": "What is the code for \"food\"?",
+      "options": [
+        "mot",
+        "ka",
+        "lisen",
+        "dora",
+        "pel"
+      ],
+      "correct": 3,
+      "solution": "- S1 \"mot ka lisen\" = bring good books; S2 \"pel lisen dora\" = good tasty food. Shared English word = \"good\"; shared code = **lisen** → good.\n- S1 & S3 \"ka dora nim\" = bring food now share \"bring\"; shared code = **ka** → bring.\n- S2 & S3 share \"food\"; shared code = **dora** → food.\n- Leftovers: mot = books, pel = tasty, nim = now.\n\nSo **dora** = food.",
+      "context": "In a certain code language:\n\n- \"mot ka lisen\" means \"bring good books\"\n- \"pel lisen dora\" means \"good tasty food\"\n- \"ka dora nim\" means \"bring food now\"",
+      "trick": "Circle the one English word two sentences have in common, then circle the one code word they share — they must match. Repeat for each pair to \"triangulate.\""
+    },
+    {
+      "id": "reasoning-coding-v2-q008",
+      "group": "Type 2 — Coded-sentence (common-word matching)",
+      "question": "What is the code for \"bring\"?",
+      "options": [
+        "ka",
+        "dora",
+        "lisen",
+        "mot",
+        "nim"
+      ],
+      "correct": 0,
+      "solution": "- S1 \"mot ka lisen\" = bring good books; S2 \"pel lisen dora\" = good tasty food. Shared English word = \"good\"; shared code = **lisen** → good.\n- S1 & S3 \"ka dora nim\" = bring food now share \"bring\"; shared code = **ka** → bring.\n- S2 & S3 share \"food\"; shared code = **dora** → food.\n- Leftovers: mot = books, pel = tasty, nim = now.\n\nSo **ka** = bring.",
+      "context": "In a certain code language:\n\n- \"mot ka lisen\" means \"bring good books\"\n- \"pel lisen dora\" means \"good tasty food\"\n- \"ka dora nim\" means \"bring food now\"",
+      "trick": "Circle the one English word two sentences have in common, then circle the one code word they share — they must match. Repeat for each pair to \"triangulate.\""
+    },
+    {
+      "id": "reasoning-coding-v2-q009",
+      "group": "Type 2 — Coded-sentence (common-word matching)",
+      "question": "What is the code for \"is\"?",
+      "options": [
+        "rej",
+        "mip",
+        "fan",
+        "sto",
+        "tuk"
+      ],
+      "correct": 2,
+      "solution": "- S1 \"sto rej mip\" = black tea cup; S2 \"rej fan tuk\" = tea is hot share \"tea\" → **rej**.\n- S1 & S3 \"mip fan gyo\" = cup is broken share \"cup\" → **mip**.\n- S2 & S3 share \"is\" → **fan**.\n- Leftovers: sto = black, tuk = hot, gyo = broken.\n\nSo **fan** = is.",
+      "context": "In a certain code language:\n\n- \"sto rej mip\" means \"black tea cup\"\n- \"rej fan tuk\" means \"tea is hot\"\n- \"mip fan gyo\" means \"cup is broken\"",
+      "trick": "Short function words (is, the, of) are usually the code that appears in the MOST sentences. \"fan\" shows up in two sentences whose only common word is \"is.\""
+    },
+    {
+      "id": "reasoning-coding-v2-q010",
+      "group": "Type 2 — Coded-sentence (common-word matching)",
+      "question": "What is the code for \"cup\"?",
+      "options": [
+        "sto",
+        "mip",
+        "rej",
+        "fan",
+        "gyo"
+      ],
+      "correct": 1,
+      "solution": "- S1 \"sto rej mip\" = black tea cup; S2 \"rej fan tuk\" = tea is hot share \"tea\" → **rej**.\n- S1 & S3 \"mip fan gyo\" = cup is broken share \"cup\" → **mip**.\n- S2 & S3 share \"is\" → **fan**.\n- Leftovers: sto = black, tuk = hot, gyo = broken.\n\nSo **mip** = cup.",
+      "context": "In a certain code language:\n\n- \"sto rej mip\" means \"black tea cup\"\n- \"rej fan tuk\" means \"tea is hot\"\n- \"mip fan gyo\" means \"cup is broken\"",
+      "trick": "Short function words (is, the, of) are usually the code that appears in the MOST sentences. \"fan\" shows up in two sentences whose only common word is \"is.\""
+    },
+    {
+      "id": "reasoning-coding-v2-q011",
+      "group": "Type 2 — Coded-sentence (common-word matching)",
+      "question": "What is the code for \"children\"?",
+      "options": [
+        "nok",
+        "zari",
+        "peed",
+        "det",
+        "lom"
+      ],
+      "correct": 2,
+      "solution": "- S1 \"nok peed zari\" = children play games; S2 \"zari lom det\" = games are fun share \"games\" → **zari**.\n- S1 & S3 \"peed det bora\" = children enjoy fun share \"children\" → **peed**.\n- S2 & S3 share \"fun\" → **det**.\n- Leftovers: nok = play, lom = are, bora = enjoy.\n\nSo **peed** = children.",
+      "context": "In a certain code language:\n\n- \"nok peed zari\" means \"children play games\"\n- \"zari lom det\" means \"games are fun\"\n- \"peed det bora\" means \"children enjoy fun\"",
+      "trick": "After fixing two words in a 3-word sentence, the third code word is forced — no guessing needed for the leftovers."
+    },
+    {
+      "id": "reasoning-coding-v2-q012",
+      "group": "Type 2 — Coded-sentence (common-word matching)",
+      "question": "What is the code for \"fun\"?",
+      "options": [
+        "det",
+        "zari",
+        "bora",
+        "lom",
+        "nok"
+      ],
+      "correct": 0,
+      "solution": "- S1 \"nok peed zari\" = children play games; S2 \"zari lom det\" = games are fun share \"games\" → **zari**.\n- S1 & S3 \"peed det bora\" = children enjoy fun share \"children\" → **peed**.\n- S2 & S3 share \"fun\" → **det**.\n- Leftovers: nok = play, lom = are, bora = enjoy.\n\nSo **det** = fun.",
+      "context": "In a certain code language:\n\n- \"nok peed zari\" means \"children play games\"\n- \"zari lom det\" means \"games are fun\"\n- \"peed det bora\" means \"children enjoy fun\"",
+      "trick": "After fixing two words in a 3-word sentence, the third code word is forced — no guessing needed for the leftovers."
+    },
+    {
+      "id": "reasoning-coding-v2-q013",
+      "group": "Type 3 — Number / position coding",
+      "question": "If RED is coded as 27, how is BLUE coded (same logic)?",
+      "options": [
+        "38",
+        "40",
+        "42",
+        "36",
+        "44"
+      ],
+      "correct": 1,
+      "solution": "**40.** Logic = SUM of letter positions. Check: RED = 18 + 5 + 4 = 27.\nBLUE = B(2) + L(12) + U(21) + E(5) = **40**.",
+      "trick": "If a whole word maps to ONE number, it is almost always the sum of positions. Verify on the given example before trusting it."
+    },
+    {
+      "id": "reasoning-coding-v2-q014",
+      "group": "Type 3 — Number / position coding",
+      "question": "If BAD is coded as 2-1-4, how is FACE coded?",
+      "options": [
+        "6-1-3-5",
+        "6-1-4-5",
+        "5-1-3-5",
+        "6-2-3-5",
+        "6-1-3-6"
+      ],
+      "correct": 0,
+      "solution": "**6-1-3-5.** Logic = write each letter's position as a separate number. BAD = 2-1-4.\nFACE = F(6)-A(1)-C(3)-E(5) = **6-1-3-5**.",
+      "trick": "Memorise anchor positions: A=1, E=5, J=10, O=15, T=20, Z=26. Count from the nearest anchor instead of from A."
+    },
+    {
+      "id": "reasoning-coding-v2-q015",
+      "group": "Type 3 — Number / position coding",
+      "question": "If CAT is coded as 20-1-3, how is DOG coded (same logic)?",
+      "options": [
+        "4-15-7",
+        "7-14-4",
+        "7-15-4",
+        "6-15-4",
+        "7-15-5"
+      ],
+      "correct": 2,
+      "solution": "**7-15-4.** CAT → coded 20-1-3. Note 20-1-3 is T-A-C = CAT REVERSED, then positions. So: reverse the word, then write positions.\nDOG reversed = GOD = G(7)-O(15)-D(4) = **7-15-4**.",
+      "trick": "When the numbers look like the right letters but in the wrong order, test \"reverse the word first.\" Here 20 (=T) tipped us off that the last letter was coded first."
+    },
+    {
+      "id": "reasoning-coding-v2-q016",
+      "group": "Type 3 — Number / position coding",
+      "question": "If HAT is coded as 19-26-7, how is MOON coded (same logic)?",
+      "options": [
+        "13-12-12-14",
+        "14-12-12-14",
+        "12-14-14-13",
+        "14-12-12-13",
+        "14-11-12-13"
+      ],
+      "correct": 3,
+      "solution": "**14-12-12-13.** HAT = 19-26-7. Check: H is 8, but code is 19; 8 + 19 = 27. A is 1, code 26; 1 + 26 = 27. So each code = 27 − position (the OPPOSITE position).\nMOON: M(13) → 27−13 = 14, O(15) → 12, O → 12, N(14) → 13 = **14-12-12-13**.",
+      "trick": "Same \"sum-to-27\" idea as opposite letters, but with numbers: opposite position = 27 − position. Repeated letters (O, O) must give repeated codes — a built-in check."
+    },
+    {
+      "id": "reasoning-coding-v2-q017",
+      "group": "Type 3 — Number / position coding",
+      "question": "If ROSE is coded as 23, how is LILY coded (same logic)?",
+      "options": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39"
+      ],
+      "correct": 2,
+      "solution": "**37.** ROSE = 23 = R(18) + E(5): only the FIRST and LAST letters are added (18 + 5 = 23), middle letters ignored.\nLILY = L(12) + Y(25) = **37**.",
+      "trick": "If the sum of ALL letters is too big to match, try first + last only. ROSE's full sum is 18+15+19+5 = 57, not 23 — so it must be first+last."
+    },
+    {
+      "id": "reasoning-coding-v2-q018",
+      "group": "Type 3 — Number / position coding",
+      "question": "If BAD is coded as 4-2-8, how is CAB coded (same logic)?",
+      "options": [
+        "6-2-4",
+        "3-1-2",
+        "6-2-2",
+        "6-1-4",
+        "4-2-6"
+      ],
+      "correct": 0,
+      "solution": "**6-2-4.** BAD = 4-2-8 = 2×2, 2×1, 2×4 = each position DOUBLED.\nCAB = C(3)→6, A(1)→2, B(2)→4 = **6-2-4**.",
+      "trick": "If codes are consistent multiples of the positions, find the multiplier from one letter (A=1→? gives it instantly). Here A→2 reveals ×2."
+    },
+    {
+      "id": "reasoning-coding-v2-q019",
+      "group": "Type 4 — Symbol coding",
+      "question": "How is RATED written?",
+      "options": [
+        "◆▲■◇◐",
+        "◆▲◇■◐",
+        "▲◆■◇◐",
+        "◆▲■◐◇",
+        "◆■▲◇◐"
+      ],
+      "correct": 0,
+      "solution": "**◆▲■◇◐.** Straight substitution from the key: R=◆, A=▲, T=■, E=◇, D=◐.\nRATED = **◆▲■◇◐**.",
+      "context": "In a certain code, letters map to fixed symbols:\n\nS = ▼, T = ■, A = ▲, R = ◆, E = ◇, D = ◐, P = ★",
+      "trick": "Fixed-key symbol coding is pure lookup — go strictly left to right and don't reorder. Distractor (b) swaps two symbols; scanning in order avoids that trap."
+    },
+    {
+      "id": "reasoning-coding-v2-q020",
+      "group": "Type 4 — Symbol coding",
+      "question": "What does ▼■◇★ stand for?",
+      "options": [
+        "STEP",
+        "STOP",
+        "STEM",
+        "PETS",
+        "SPED"
+      ],
+      "correct": 0,
+      "solution": "**STEP.** Reverse the key (symbol → letter): ▼=S, ■=T, ◇=E, ★=P.\n▼■◇★ = **STEP**.",
+      "context": "In a certain code, letters map to fixed symbols:\n\nS = ▼, T = ■, A = ▲, R = ◆, E = ◇, D = ◐, P = ★",
+      "trick": "To DECODE, first jot the reverse map (symbol→letter) so you never re-scan the table per symbol."
+    },
+    {
+      "id": "reasoning-coding-v2-q021",
+      "group": "Type 4 — Symbol coding",
+      "question": "What is the symbol for \"winter\"?",
+      "options": [
+        "π",
+        "μ",
+        "ρ",
+        "ø",
+        "ζ"
+      ],
+      "correct": 2,
+      "solution": "- S1 \"π μ ø\" = rain brings water; S2 \"μ ζ ρ\" = brings cold winter share \"brings\" → μ.\n- S2 & S3 \"ø ρ φ\" = water winter ends share \"winter\" → **ρ**.\n- S1 & S3 share \"water\" → **ø**.\n- Leftovers: π = rain, ζ = cold, φ = ends.\n\nSo **ρ** = winter.",
+      "context": "In a certain code language:\n\n- \"π μ ø\" means \"rain brings water\"\n- \"μ ζ ρ\" means \"brings cold winter\"\n- \"ø ρ φ\" means \"water winter ends\"",
+      "trick": "Symbols change nothing about the method — match the one shared word between two lines to the one shared symbol."
+    },
+    {
+      "id": "reasoning-coding-v2-q022",
+      "group": "Type 4 — Symbol coding",
+      "question": "What is the symbol for \"water\"?",
+      "options": [
+        "ø",
+        "ρ",
+        "π",
+        "φ",
+        "μ"
+      ],
+      "correct": 0,
+      "solution": "- S1 \"π μ ø\" = rain brings water; S2 \"μ ζ ρ\" = brings cold winter share \"brings\" → μ.\n- S2 & S3 \"ø ρ φ\" = water winter ends share \"winter\" → **ρ**.\n- S1 & S3 share \"water\" → **ø**.\n- Leftovers: π = rain, ζ = cold, φ = ends.\n\nSo **ø** = water.",
+      "context": "In a certain code language:\n\n- \"π μ ø\" means \"rain brings water\"\n- \"μ ζ ρ\" means \"brings cold winter\"\n- \"ø ρ φ\" means \"water winter ends\"",
+      "trick": "Symbols change nothing about the method — match the one shared word between two lines to the one shared symbol."
+    },
+    {
+      "id": "reasoning-coding-v2-q023",
+      "group": "Type 4 — Symbol coding",
+      "question": "How is 3852 written?",
+      "options": [
+        "#^&%",
+        "#^%&",
+        "$^&%",
+        "#?&%",
+        "#^&#"
+      ],
+      "correct": 0,
+      "solution": "**#^&%.** Digit→symbol lookup: 3=#, 8=^, 5=&, 2=%.\n3852 = **#^&%**.",
+      "context": "Digits are coded as symbols:\n\n1 = $, 2 = %, 3 = #, 4 = @, 5 = &, 6 = *, 7 = !, 8 = ^, 9 = ?, 0 = ~",
+      "trick": "For digit-symbol codes, encode/decode one digit at a time in order; group the symbols only at the end."
+    },
+    {
+      "id": "reasoning-coding-v2-q024",
+      "group": "Type 4 — Symbol coding",
+      "question": "What number is &~@!?",
+      "options": [
+        "5407",
+        "5047",
+        "4057",
+        "5048",
+        "6047"
+      ],
+      "correct": 1,
+      "solution": "**5047.** Reverse the map: &=5, ~=0, @=4, !=7.\n&~@! = **5047**. (Note ~ = 0 is the easy-to-miss one.)",
+      "context": "Digits are coded as symbols:\n\n1 = $, 2 = %, 3 = #, 4 = @, 5 = &, 6 = *, 7 = !, 8 = ^, 9 = ?, 0 = ~",
+      "trick": "The \"0\" symbol is the classic distractor. Underline it first so 5047 is not misread as 547."
+    },
+    {
+      "id": "reasoning-coding-v2-q025",
+      "group": "Type 5 — Conditional coding",
+      "question": "Code the group **R E N T A**.",
+      "options": [
+        "$ 3 5 8 $",
+        "7 3 5 8 1",
+        "$ 3 5 8 1",
+        "7 3 5 8 $",
+        "$ 5 3 8 $"
+      ],
+      "correct": 0,
+      "solution": "**$ 3 5 8 $.** R E N T A: first R = consonant, last A = vowel → **condition (ii)** → both ends = **$**. Middle: E=3, N=5, T=8.\n= **$ 3 5 8 $**.",
+      "context": "Use this letter/code key and the four conditions below.\n\n| Letter | E | R | A | N | K | D | P | S | T | M |\n|--------|---|---|---|---|---|---|---|---|---|---|\n| Code | 3 | 7 | 1 | 5 | 9 | 4 | 6 | 2 | 8 | 0 |\n\nVowels here are **A** and **E**; all other letters are consonants. Apply the FIRST condition that fits:\n\n- **(i)** If the first letter is a vowel and the last is a consonant → code BOTH first and last as the code of the first letter.\n- **(ii)** If the first letter is a consonant and the last is a vowel → code BOTH first and last as **$**.\n- **(iii)** If the first and last letters are BOTH consonants → interchange (swap) their codes.\n- **(iv)** If the first and last letters are BOTH vowels → code BOTH as **£**.\n\nMiddle letters are always coded normally from the table.",
+      "trick": "Decide the condition from the ends BEFORE coding anything. Consonant-start + vowel-end always means \"$ … $\"."
+    },
+    {
+      "id": "reasoning-coding-v2-q026",
+      "group": "Type 5 — Conditional coding",
+      "question": "Code the group **A P T E R**.",
+      "options": [
+        "1 6 8 3 7",
+        "7 6 8 3 1",
+        "1 6 8 3 1",
+        "1 8 6 3 1",
+        "1 6 8 3 £"
+      ],
+      "correct": 2,
+      "solution": "**1 6 8 3 1.** A P T E R: first A = vowel, last R = consonant → **condition (i)** → both ends = code of first letter = A = 1. Middle: P=6, T=8, E=3.\n= **1 6 8 3 1**.",
+      "context": "Use this letter/code key and the four conditions below.\n\n| Letter | E | R | A | N | K | D | P | S | T | M |\n|--------|---|---|---|---|---|---|---|---|---|---|\n| Code | 3 | 7 | 1 | 5 | 9 | 4 | 6 | 2 | 8 | 0 |\n\nVowels here are **A** and **E**; all other letters are consonants. Apply the FIRST condition that fits:\n\n- **(i)** If the first letter is a vowel and the last is a consonant → code BOTH first and last as the code of the first letter.\n- **(ii)** If the first letter is a consonant and the last is a vowel → code BOTH first and last as **$**.\n- **(iii)** If the first and last letters are BOTH consonants → interchange (swap) their codes.\n- **(iv)** If the first and last letters are BOTH vowels → code BOTH as **£**.\n\nMiddle letters are always coded normally from the table.",
+      "trick": "Condition (i) makes the first and last codes IDENTICAL (both = first letter's code). Matching end digits are a quick sanity check."
+    },
+    {
+      "id": "reasoning-coding-v2-q027",
+      "group": "Type 5 — Conditional coding",
+      "question": "Code the group **P A N D S**.",
+      "options": [
+        "2 1 5 4 6",
+        "6 1 5 4 2",
+        "2 1 5 4 2",
+        "6 1 5 4 6",
+        "2 5 1 4 6"
+      ],
+      "correct": 0,
+      "solution": "**2 1 5 4 6.** P A N D S: first P and last S are both consonants → **condition (iii)** → swap their codes: P=6, S=2 become 2 … 6. Middle: A=1, N=5, D=4.\n= **2 1 5 4 6**.",
+      "context": "Use this letter/code key and the four conditions below.\n\n| Letter | E | R | A | N | K | D | P | S | T | M |\n|--------|---|---|---|---|---|---|---|---|---|---|\n| Code | 3 | 7 | 1 | 5 | 9 | 4 | 6 | 2 | 8 | 0 |\n\nVowels here are **A** and **E**; all other letters are consonants. Apply the FIRST condition that fits:\n\n- **(i)** If the first letter is a vowel and the last is a consonant → code BOTH first and last as the code of the first letter.\n- **(ii)** If the first letter is a consonant and the last is a vowel → code BOTH first and last as **$**.\n- **(iii)** If the first and last letters are BOTH consonants → interchange (swap) their codes.\n- **(iv)** If the first and last letters are BOTH vowels → code BOTH as **£**.\n\nMiddle letters are always coded normally from the table.",
+      "trick": "\"Both consonants → swap the two end codes.\" Write the normal codes first (6…2), then flip them (2…6)."
+    },
+    {
+      "id": "reasoning-coding-v2-q028",
+      "group": "Type 5 — Conditional coding",
+      "question": "Code the group **E N D A**.",
+      "options": [
+        "£ 5 4 £",
+        "3 5 4 1",
+        "£ 5 4 1",
+        "3 5 4 £",
+        "£ 4 5 £"
+      ],
+      "correct": 0,
+      "solution": "**£ 5 4 £.** E N D A: first E and last A are both vowels → **condition (iv)** → both ends = **£**. Middle: N=5, D=4.\n= **£ 5 4 £**.",
+      "context": "Use this letter/code key and the four conditions below.\n\n| Letter | E | R | A | N | K | D | P | S | T | M |\n|--------|---|---|---|---|---|---|---|---|---|---|\n| Code | 3 | 7 | 1 | 5 | 9 | 4 | 6 | 2 | 8 | 0 |\n\nVowels here are **A** and **E**; all other letters are consonants. Apply the FIRST condition that fits:\n\n- **(i)** If the first letter is a vowel and the last is a consonant → code BOTH first and last as the code of the first letter.\n- **(ii)** If the first letter is a consonant and the last is a vowel → code BOTH first and last as **$**.\n- **(iii)** If the first and last letters are BOTH consonants → interchange (swap) their codes.\n- **(iv)** If the first and last letters are BOTH vowels → code BOTH as **£**.\n\nMiddle letters are always coded normally from the table.",
+      "trick": "Two vowels bracket the word → \"£ … £\". The £ symbol appears ONLY in this both-vowels case, so it is an instant giveaway."
+    },
+    {
+      "id": "reasoning-coding-v2-q029",
+      "group": "Type 5 — Conditional coding",
+      "question": "Code the group **A K N D R**.",
+      "options": [
+        "1 9 5 4 1",
+        "1 9 5 4 7",
+        "7 9 5 4 1",
+        "1 9 5 4 £",
+        "1 5 9 4 1"
+      ],
+      "correct": 0,
+      "solution": "**1 9 5 4 1.** A K N D R: first A = vowel, last R = consonant → **condition (i)** → both ends = A = 1. Middle: K=9, N=5, D=4.\n= **1 9 5 4 1**.",
+      "context": "Use this letter/code key and the four conditions below.\n\n| Letter | E | R | A | N | K | D | P | S | T | M |\n|--------|---|---|---|---|---|---|---|---|---|---|\n| Code | 3 | 7 | 1 | 5 | 9 | 4 | 6 | 2 | 8 | 0 |\n\nVowels here are **A** and **E**; all other letters are consonants. Apply the FIRST condition that fits:\n\n- **(i)** If the first letter is a vowel and the last is a consonant → code BOTH first and last as the code of the first letter.\n- **(ii)** If the first letter is a consonant and the last is a vowel → code BOTH first and last as **$**.\n- **(iii)** If the first and last letters are BOTH consonants → interchange (swap) their codes.\n- **(iv)** If the first and last letters are BOTH vowels → code BOTH as **£**.\n\nMiddle letters are always coded normally from the table.",
+      "trick": "Same rule as Q26 — vowel-start + consonant-end → identical end digits equal to the first letter's code."
+    },
+    {
+      "id": "reasoning-coding-v2-q030",
+      "group": "Type 5 — Conditional coding",
+      "question": "Code the group **S T A R E**.",
+      "options": [
+        "2 8 1 7 3",
+        "$ 8 7 1 $",
+        "2 8 1 7 $",
+        "$ 8 1 7 $",
+        "$ 8 1 7 3"
+      ],
+      "correct": 3,
+      "solution": "**$ 8 1 7 $.** S T A R E: first S = consonant, last E = vowel → **condition (ii)** → both ends = **$**. Middle: T=8, A=1, R=7.\n= **$ 8 1 7 $**.",
+      "context": "Use this letter/code key and the four conditions below.\n\n| Letter | E | R | A | N | K | D | P | S | T | M |\n|--------|---|---|---|---|---|---|---|---|---|---|\n| Code | 3 | 7 | 1 | 5 | 9 | 4 | 6 | 2 | 8 | 0 |\n\nVowels here are **A** and **E**; all other letters are consonants. Apply the FIRST condition that fits:\n\n- **(i)** If the first letter is a vowel and the last is a consonant → code BOTH first and last as the code of the first letter.\n- **(ii)** If the first letter is a consonant and the last is a vowel → code BOTH first and last as **$**.\n- **(iii)** If the first and last letters are BOTH consonants → interchange (swap) their codes.\n- **(iv)** If the first and last letters are BOTH vowels → code BOTH as **£**.\n\nMiddle letters are always coded normally from the table.",
+      "trick": "Consonant-start + vowel-end → \"$ … $\" (mirror of Q25). Keep a two-line cheat sheet: vowel-start→matching digits/£, consonant-start→$ or swap."
+    }
+  ]
+}

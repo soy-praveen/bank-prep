@@ -1,0 +1,608 @@
+{
+  "title": "Simplification & Approximation — Practice (Vol. 2)",
+  "section": "quant",
+  "kind": "quiz",
+  "source": "quant-simplification-v2.md",
+  "questions": [
+    {
+      "id": "quant-simplification-v2-q001",
+      "group": "Simplification",
+      "question": "24 × 3 + 48 ÷ 6 − 15 = ?",
+      "options": [
+        "62",
+        "65",
+        "68",
+        "60",
+        "70"
+      ],
+      "correct": 1,
+      "solution": "BODMAS: multiply/divide first — 24×3 = 72, 48÷6 = 8. Then 72 + 8 − 15 = 65.",
+      "trick": "Resolve all × and ÷ into single numbers before touching + and −; then it is plain addition/subtraction."
+    },
+    {
+      "id": "quant-simplification-v2-q002",
+      "group": "Simplification",
+      "question": "√576 + √729 = ?",
+      "options": [
+        "49",
+        "50",
+        "51",
+        "53",
+        "55"
+      ],
+      "correct": 2,
+      "solution": "√576 = 24, √729 = 27. Sum = 51.",
+      "trick": "Memorise perfect-square roots to 30² and cube roots to 20³. 24² = 576, 27² = 729 are staples."
+    },
+    {
+      "id": "quant-simplification-v2-q003",
+      "group": "Simplification",
+      "question": "17² − 13² = ?",
+      "options": [
+        "110",
+        "120",
+        "130",
+        "100",
+        "115"
+      ],
+      "correct": 1,
+      "solution": "a² − b² = (a+b)(a−b) = (17+13)(17−13) = 30 × 4 = 120.",
+      "trick": "Never square each term; the difference-of-squares factorisation is far faster."
+    },
+    {
+      "id": "quant-simplification-v2-q004",
+      "group": "Simplification",
+      "question": "12³ ÷ 8 = ?",
+      "options": [
+        "216",
+        "212",
+        "224",
+        "208",
+        "220"
+      ],
+      "correct": 0,
+      "solution": "12³/8 = (12/2)³ = 6³ = 216.",
+      "trick": "Since 8 = 2³, dividing a cube by 2³ just halves the base before cubing."
+    },
+    {
+      "id": "quant-simplification-v2-q005",
+      "group": "Simplification",
+      "question": "(3/7) of 448 = ?",
+      "options": [
+        "182",
+        "188",
+        "192",
+        "196",
+        "200"
+      ],
+      "correct": 2,
+      "solution": "448/7 = 64, then ×3 = 192.",
+      "trick": "Divide by the denominator first (448÷7 is clean), then multiply — smaller intermediate numbers."
+    },
+    {
+      "id": "quant-simplification-v2-q006",
+      "group": "Simplification",
+      "question": "35% of 640 = ?",
+      "options": [
+        "214",
+        "224",
+        "234",
+        "218",
+        "228"
+      ],
+      "correct": 1,
+      "solution": "35% = 0.35; 640 × 0.35 = 224. Or 10% = 64, 30% = 192, 5% = 32, sum 224.",
+      "trick": "Build percentages from 10% and 5% chunks to avoid decimal multiplication."
+    },
+    {
+      "id": "quant-simplification-v2-q007",
+      "group": "Simplification",
+      "question": "(18 + 6) × 4 − 60 ÷ 5 = ?",
+      "options": [
+        "80",
+        "82",
+        "84",
+        "86",
+        "88"
+      ],
+      "correct": 2,
+      "solution": "Brackets first: 18+6 = 24; 24×4 = 96; 60÷5 = 12; 96 − 12 = 84.",
+      "trick": "Clear the innermost bracket, then × and ÷, then −."
+    },
+    {
+      "id": "quant-simplification-v2-q008",
+      "group": "Simplification",
+      "question": "∛4096 + ∛1728 = ?",
+      "options": [
+        "26",
+        "28",
+        "30",
+        "24",
+        "32"
+      ],
+      "correct": 1,
+      "solution": "∛4096 = 16 (16³ = 4096), ∛1728 = 12. Sum = 28.",
+      "trick": "16³ = 4096 and 12³ = 1728 recur constantly — keep them at hand."
+    },
+    {
+      "id": "quant-simplification-v2-q009",
+      "group": "Simplification",
+      "question": "(2/5) × (3/4) × 300 = ?",
+      "options": [
+        "80",
+        "85",
+        "90",
+        "95",
+        "100"
+      ],
+      "correct": 2,
+      "solution": "(2/5)(3/4) = 6/20 = 3/10; 3/10 × 300 = 90.",
+      "trick": "Cancel across the chain first (300/20 = 15, ×6 = 90) — no big multiplications."
+    },
+    {
+      "id": "quant-simplification-v2-q010",
+      "group": "Simplification",
+      "question": "25% of 40% of 900 = ?",
+      "options": [
+        "80",
+        "90",
+        "100",
+        "72",
+        "108"
+      ],
+      "correct": 1,
+      "solution": "40% of 900 = 360; 25% of 360 = 90.",
+      "trick": "Order does not matter for chained percentages; take the \"friendliest\" first (25% = ÷4)."
+    },
+    {
+      "id": "quant-simplification-v2-q011",
+      "group": "Simplification",
+      "question": "√1444 + 15² = ?",
+      "options": [
+        "253",
+        "263",
+        "273",
+        "258",
+        "268"
+      ],
+      "correct": 1,
+      "solution": "√1444 = 38 (38² = 1444), 15² = 225. Sum = 263.",
+      "trick": "38² = 1444 — for roots ending in 4, the root ends in 2 or 8; 1444 is just below 40²=1600, so 38."
+    },
+    {
+      "id": "quant-simplification-v2-q012",
+      "group": "Simplification",
+      "question": "144 ÷ 12 + 15 × 4 − 7² = ?",
+      "options": [
+        "21",
+        "23",
+        "25",
+        "19",
+        "27"
+      ],
+      "correct": 1,
+      "solution": "144÷12 = 12, 15×4 = 60, 7² = 49. So 12 + 60 − 49 = 23.",
+      "trick": "Evaluate each ×/÷/power block independently, then combine signs at the end."
+    },
+    {
+      "id": "quant-simplification-v2-q013",
+      "group": "Simplification",
+      "question": "(5/8) of 512 + (3/7) of 210 = ?",
+      "options": [
+        "400",
+        "410",
+        "420",
+        "390",
+        "405"
+      ],
+      "correct": 1,
+      "solution": "(5/8) of 512 = 5 × 64 = 320; (3/7) of 210 = 3 × 30 = 90. Sum = 410.",
+      "trick": "Pick numerators that leave clean divisions (512÷8, 210÷7) — mental one-liners."
+    },
+    {
+      "id": "quant-simplification-v2-q014",
+      "group": "Simplification",
+      "question": "12.5% of 848 = ?",
+      "options": [
+        "102",
+        "106",
+        "108",
+        "104",
+        "110"
+      ],
+      "correct": 1,
+      "solution": "12.5% = 1/8; 848/8 = 106.",
+      "trick": "Convert \"ugly\" percentages to unit fractions: 12.5% = 1/8, 6.25% = 1/16, 6.66% = 1/15."
+    },
+    {
+      "id": "quant-simplification-v2-q015",
+      "group": "Simplification",
+      "question": "14² + 16² = ?",
+      "options": [
+        "442",
+        "452",
+        "462",
+        "448",
+        "456"
+      ],
+      "correct": 1,
+      "solution": "14² = 196, 16² = 256. Sum = 452.",
+      "trick": "For two squares straddling 15, note 14²+16² = 2(15²)+2 = 450+2 = 452 (a²+b² with mean 15, gap 1)."
+    },
+    {
+      "id": "quant-simplification-v2-q016",
+      "group": "Simplification",
+      "question": "√256 × √121 = ?",
+      "options": [
+        "166",
+        "176",
+        "186",
+        "172",
+        "180"
+      ],
+      "correct": 1,
+      "solution": "√256 = 16, √121 = 11; 16 × 11 = 176.",
+      "trick": "√(256×121) = √30976 is the same; but rooting each factor separately is instant."
+    },
+    {
+      "id": "quant-simplification-v2-q017",
+      "group": "Simplification",
+      "question": "63 ÷ 9 × 4 + 11 = ?",
+      "options": [
+        "37",
+        "39",
+        "41",
+        "35",
+        "43"
+      ],
+      "correct": 1,
+      "solution": "Left to right for equal-priority ×/÷: 63÷9 = 7, ×4 = 28, +11 = 39.",
+      "trick": "÷ and × share priority — process strictly left to right, do not multiply before dividing."
+    },
+    {
+      "id": "quant-simplification-v2-q018",
+      "group": "Simplification",
+      "question": "8³ − 20² = ?",
+      "options": [
+        "102",
+        "112",
+        "122",
+        "108",
+        "116"
+      ],
+      "correct": 1,
+      "solution": "8³ = 512, 20² = 400. 512 − 400 = 112.",
+      "trick": "Keep small cubes (8³=512, 7³=343, 9³=729) memorised for these mixed power problems."
+    },
+    {
+      "id": "quant-simplification-v2-q019",
+      "group": "Simplification",
+      "question": "(7/9) of 630 − (2/3) of 240 = ?",
+      "options": [
+        "320",
+        "330",
+        "340",
+        "310",
+        "350"
+      ],
+      "correct": 1,
+      "solution": "(7/9) of 630 = 7 × 70 = 490; (2/3) of 240 = 160. 490 − 160 = 330.",
+      "trick": "630÷9 = 70 and 240÷3 = 80 are clean — always divide before multiplying the numerator."
+    },
+    {
+      "id": "quant-simplification-v2-q020",
+      "group": "Simplification",
+      "question": "40% of 250 + 60% of 150 = ?",
+      "options": [
+        "180",
+        "190",
+        "200",
+        "185",
+        "195"
+      ],
+      "correct": 1,
+      "solution": "40% of 250 = 100; 60% of 150 = 90. Sum = 190.",
+      "trick": "40% of 250 = 40% × 250 = 25% × 400 style swaps (\"x% of y = y% of x\") can simplify — here 250×0.4 = 100 directly."
+    },
+    {
+      "id": "quant-simplification-v2-q021",
+      "group": "Approximation",
+      "question": "29.87% of 649.7 = ? (approx.)",
+      "options": [
+        "175",
+        "185",
+        "195",
+        "205",
+        "215"
+      ],
+      "correct": 2,
+      "solution": "Round: 30% of 650 = 195. (Exact ≈ 194.1.)",
+      "trick": "Round the percent to a clean value and the base to a round number, then multiply."
+    },
+    {
+      "id": "quant-simplification-v2-q022",
+      "group": "Approximation",
+      "question": "4899 ÷ 6.98 = ? (approx.)",
+      "options": [
+        "680",
+        "700",
+        "720",
+        "660",
+        "740"
+      ],
+      "correct": 1,
+      "solution": "4899 ≈ 4900, 6.98 ≈ 7; 4900/7 = 700.",
+      "trick": "In division, nudge both numbers so they cancel evenly (7 divides 4900)."
+    },
+    {
+      "id": "quant-simplification-v2-q023",
+      "group": "Approximation",
+      "question": "√4095 = ? (approx.)",
+      "options": [
+        "58",
+        "60",
+        "64",
+        "66",
+        "70"
+      ],
+      "correct": 2,
+      "solution": "4095 ≈ 4096 = 64². So √4095 ≈ 64.",
+      "trick": "Spot the nearest perfect square; 4096 = 64² is a classic anchor."
+    },
+    {
+      "id": "quant-simplification-v2-q024",
+      "group": "Approximation",
+      "question": "15.02 × 23.98 = ? (approx.)",
+      "options": [
+        "340",
+        "360",
+        "380",
+        "320",
+        "400"
+      ],
+      "correct": 1,
+      "solution": "15 × 24 = 360. (Exact ≈ 360.1.)",
+      "trick": "Round each factor to the nearest integer; the tiny +0.02/−0.02 offsets nearly cancel."
+    },
+    {
+      "id": "quant-simplification-v2-q025",
+      "group": "Approximation",
+      "question": "63.9% of 799.6 = ? (approx.)",
+      "options": [
+        "492",
+        "512",
+        "532",
+        "472",
+        "552"
+      ],
+      "correct": 1,
+      "solution": "64% of 800 = 512.",
+      "trick": "64% of 800 = 8 × 64 = 512 (since 1% of 800 = 8)."
+    },
+    {
+      "id": "quant-simplification-v2-q026",
+      "group": "Approximation",
+      "question": "1199.7 ÷ 15.02 = ? (approx.)",
+      "options": [
+        "70",
+        "75",
+        "80",
+        "85",
+        "90"
+      ],
+      "correct": 2,
+      "solution": "1200/15 = 80.",
+      "trick": "Round the dividend up to a multiple of the rounded divisor (1200 is 15×80)."
+    },
+    {
+      "id": "quant-simplification-v2-q027",
+      "group": "Approximation",
+      "question": "34.95² = ? (approx.)",
+      "options": [
+        "1125",
+        "1225",
+        "1325",
+        "1025",
+        "1425"
+      ],
+      "correct": 1,
+      "solution": "35² = 1225.",
+      "trick": "Squares ending in 5: n5² = (n)(n+1) then append 25 → 3×4 = 12, so 1225."
+    },
+    {
+      "id": "quant-simplification-v2-q028",
+      "group": "Approximation",
+      "question": "17.02% of 1499.5 = ? (approx.)",
+      "options": [
+        "235",
+        "245",
+        "255",
+        "265",
+        "275"
+      ],
+      "correct": 2,
+      "solution": "17% of 1500 = 255.",
+      "trick": "1% of 1500 = 15, so 17% = 15 × 17 = 255."
+    },
+    {
+      "id": "quant-simplification-v2-q029",
+      "group": "Approximation",
+      "question": "(44.9% of 320.1) + (11.02 × 8.97) = ? (approx.)",
+      "options": [
+        "223",
+        "233",
+        "243",
+        "253",
+        "263"
+      ],
+      "correct": 2,
+      "solution": "45% of 320 = 144; 11 × 9 = 99. Sum = 144 + 99 = 243.",
+      "trick": "Handle each bracket with its own rounding, then add the rounded results."
+    },
+    {
+      "id": "quant-simplification-v2-q030",
+      "group": "Approximation",
+      "question": "8888 ÷ 88.9 = ? (approx.)",
+      "options": [
+        "90",
+        "95",
+        "100",
+        "105",
+        "110"
+      ],
+      "correct": 2,
+      "solution": "8888 ≈ 8900, 88.9 ≈ 89; 8900/89 = 100.",
+      "trick": "Recognise 89 × 100 = 8900 — round the dividend to hit an exact multiple."
+    },
+    {
+      "id": "quant-simplification-v2-q031",
+      "group": "Approximation",
+      "question": "∛1727 = ? (approx.)",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "correct": 2,
+      "solution": "1727 ≈ 1728 = 12³. So ∛1727 ≈ 12.",
+      "trick": "12³ = 1728 is the nearest cube anchor."
+    },
+    {
+      "id": "quant-simplification-v2-q032",
+      "group": "Approximation",
+      "question": "24.98 × 16.02 + 49.9 = ? (approx.)",
+      "options": [
+        "430",
+        "440",
+        "450",
+        "460",
+        "470"
+      ],
+      "correct": 2,
+      "solution": "25 × 16 = 400; + 50 = 450.",
+      "trick": "25 × 16 = 25 × 16 = 400 (25 × 4 = 100, ×4 = 400); add the rounded 49.9 ≈ 50."
+    },
+    {
+      "id": "quant-simplification-v2-q033",
+      "group": "Approximation",
+      "question": "79.97% of 249.8 = ? (approx.)",
+      "options": [
+        "180",
+        "190",
+        "200",
+        "210",
+        "220"
+      ],
+      "correct": 2,
+      "solution": "80% of 250 = 200.",
+      "trick": "80% = 4/5; (4/5) × 250 = 200."
+    },
+    {
+      "id": "quant-simplification-v2-q034",
+      "group": "Approximation",
+      "question": "√624.8 = ? (approx.)",
+      "options": [
+        "21",
+        "23",
+        "25",
+        "27",
+        "29"
+      ],
+      "correct": 2,
+      "solution": "624.8 ≈ 625 = 25². So √624.8 ≈ 25.",
+      "trick": "625 = 25² — one of the most common approximation anchors."
+    },
+    {
+      "id": "quant-simplification-v2-q035",
+      "group": "Approximation",
+      "question": "3599.6 ÷ 5.98 = ? (approx.)",
+      "options": [
+        "560",
+        "580",
+        "600",
+        "620",
+        "640"
+      ],
+      "correct": 2,
+      "solution": "3600/6 = 600.",
+      "trick": "Round dividend to 3600 (a multiple of 6) and divisor to 6."
+    },
+    {
+      "id": "quant-simplification-v2-q036",
+      "group": "Approximation",
+      "question": "12.05 × 14.98 − 30.2 = ? (approx.)",
+      "options": [
+        "140",
+        "150",
+        "160",
+        "130",
+        "170"
+      ],
+      "correct": 1,
+      "solution": "12 × 15 = 180; − 30 = 150.",
+      "trick": "Multiply the rounded factors, then apply the rounded subtraction last."
+    },
+    {
+      "id": "quant-simplification-v2-q037",
+      "group": "Approximation",
+      "question": "55.03% of 439.8 = ? (approx.)",
+      "options": [
+        "222",
+        "232",
+        "242",
+        "252",
+        "262"
+      ],
+      "correct": 2,
+      "solution": "55% of 440 = 242.",
+      "trick": "55% = 11/20; (11/20) × 440 = 11 × 22 = 242."
+    },
+    {
+      "id": "quant-simplification-v2-q038",
+      "group": "Approximation",
+      "question": "(6.98)² + (9.02)² = ? (approx.)",
+      "options": [
+        "120",
+        "130",
+        "140",
+        "110",
+        "150"
+      ],
+      "correct": 1,
+      "solution": "7² + 9² = 49 + 81 = 130.",
+      "trick": "Round each base to the nearest integer before squaring — 6.98→7, 9.02→9."
+    },
+    {
+      "id": "quant-simplification-v2-q039",
+      "group": "Approximation",
+      "question": "719.6 ÷ 8.03 + 39.9 = ? (approx.)",
+      "options": [
+        "110",
+        "120",
+        "130",
+        "140",
+        "150"
+      ],
+      "correct": 2,
+      "solution": "720/8 = 90; + 40 = 130.",
+      "trick": "Do the division block first (720÷8 = 90), then add the rounded 39.9 ≈ 40."
+    },
+    {
+      "id": "quant-simplification-v2-q040",
+      "group": "Approximation",
+      "question": "5.97 × 5.97 × 5.97 = ? (approx.)",
+      "options": [
+        "196",
+        "206",
+        "216",
+        "226",
+        "236"
+      ],
+      "correct": 2,
+      "solution": "6³ = 216.",
+      "trick": "Three near-equal factors ≈ 6 each → cube it: 6³ = 216."
+    }
+  ]
+}

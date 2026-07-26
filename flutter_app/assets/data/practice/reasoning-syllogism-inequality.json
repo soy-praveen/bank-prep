@@ -1,0 +1,313 @@
+{
+  "title": "Syllogism & Inequality — Practice",
+  "section": "reasoning",
+  "kind": "quiz",
+  "source": "reasoning-syllogism-inequality.md",
+  "questions": [
+    {
+      "id": "reasoning-syllogism-inequality-q001",
+      "group": "Syllogism",
+      "question": "Statements: All cats are dogs. All dogs are animals.\nConclusions: I. All cats are animals. II. Some animals are cats.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Either I or II follows",
+        "Neither I nor II follows",
+        "Both I and II follow"
+      ],
+      "correct": 4,
+      "solution": "All+All gives `All cats are animals` (I follows). Convert it: `Some animals are cats` (II follows).",
+      "trick": "All+All → All; then any \"All A are C\" converts to \"Some C are A\", so a matching Some-conclusion rides along for free — often \"Both\"."
+    },
+    {
+      "id": "reasoning-syllogism-inequality-q002",
+      "group": "Syllogism",
+      "question": "Statements: No pen is a pencil. All pencils are erasers.\nConclusions: I. Some erasers are not pens. II. All erasers being pens is a possibility.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Either I or II follows",
+        "Neither I nor II follows",
+        "Both I and II follow"
+      ],
+      "correct": 0,
+      "solution": "`No pen is pencil` = `No pencil is pen`. Pencils are erasers and are not pens, so `Some erasers are not pens` (I follows — this is the No+All → \"Some C are not A\" pattern). Since some erasers are definitely not pens, `All erasers are pens` is impossible, so possibility II fails.",
+      "trick": "No+All → \"Some (last term) are not (first term)\". A \"possibility\" conclusion dies the moment a definite \"some are not\" already contradicts it."
+    },
+    {
+      "id": "reasoning-syllogism-inequality-q003",
+      "group": "Syllogism",
+      "question": "Statements: Some books are pens. All pens are papers.\nConclusions: I. All books are papers. II. Some books are not papers.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Either I or II follows",
+        "Neither I nor II follows",
+        "Both I and II follow"
+      ],
+      "correct": 2,
+      "solution": "Some+All gives only `Some books are papers` (definite). `All books are papers` (I) and `Some books are not papers` (II) are each possible but not definite, and they form the complementary pair All/Some-not with the same subject-predicate. So Either/Or.",
+      "trick": "All + Some (or Some + something that leaves the rest of the subject unknown) → watch for the All/Some-not complementary pair. Both undefined + exact opposites = Either/Or."
+    },
+    {
+      "id": "reasoning-syllogism-inequality-q004",
+      "group": "Syllogism",
+      "question": "Statements: All roses are flowers. Some flowers are red.\nConclusions: I. Some roses are red. II. All red things are flowers.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Either I or II follows",
+        "Neither I nor II follows",
+        "Both I and II follow"
+      ],
+      "correct": 3,
+      "solution": "Middle term \"flowers\" is undistributed (`some flowers are red` says nothing about which flowers). `Some roses are red` — not definite. `All red are flowers` — `some flowers are red` only converts to `some red are flowers`, never \"all\". The two conclusions are NOT a complementary pair (different subject/predicate), so it is Neither, not Either/Or.",
+      "trick": "\"Some X are Y\" never upgrades to \"All Y are X\". Different subject/predicate in the two conclusions rules out Either/Or."
+    },
+    {
+      "id": "reasoning-syllogism-inequality-q005",
+      "group": "Syllogism",
+      "question": "Statements: All keys are locks. Some locks are doors. All doors are gates.\nConclusions: I. Some keys are gates. II. Some locks are gates.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Either I or II follows",
+        "Neither I nor II follows",
+        "Both I and II follow"
+      ],
+      "correct": 1,
+      "solution": "`Some locks are doors` + `All doors are gates` → `Some locks are gates` (II follows). For I, `All keys are locks` + `Some locks are doors`: the locks that are doors need not be keys, so no link keys→gates.",
+      "trick": "Some+All chains forward (`Some B are C`, `All C are D` → `Some B are D`), but \"All A are B\" + \"Some B are...\" does NOT push down to A."
+    },
+    {
+      "id": "reasoning-syllogism-inequality-q006",
+      "group": "Syllogism",
+      "question": "Statements: Some phones are tablets. No tablet is a laptop.\nConclusions: I. Some phones are not laptops. II. Some tablets are phones.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Either I or II follows",
+        "Neither I nor II follows",
+        "Both I and II follow"
+      ],
+      "correct": 4,
+      "solution": "`Some phones are tablets` + `No tablet is laptop`: the phone-tablets are not laptops → `Some phones are not laptops` (I, the Some+No pattern). Convert `Some phones are tablets` → `Some tablets are phones` (II).",
+      "trick": "Some+No → \"Some (first term) are not (last term)\". Every \"Some A are B\" gives you \"Some B are A\" for free."
+    },
+    {
+      "id": "reasoning-syllogism-inequality-q007",
+      "group": "Syllogism",
+      "question": "Statements: All students are boys. Some boys are athletes.\nConclusions: I. Some students are athletes. II. Some students are not athletes.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Either I or II follows",
+        "Neither I nor II follows",
+        "Both I and II follow"
+      ],
+      "correct": 2,
+      "solution": "`All students are boys` + `Some boys are athletes`: the athletic boys need not be students. `Some students are athletes` (I) — not definite. `Some students are not athletes` (II) — not definite. Same subject-predicate, one positive one negative → complementary pair → Either/Or.",
+      "trick": "The classic Either/Or trap: All A are B + Some B are C leaves \"Some A are C\" / \"Some A are not C\" both open — that pair is complementary, so Either/Or (never Neither here)."
+    },
+    {
+      "id": "reasoning-syllogism-inequality-q008",
+      "group": "Syllogism",
+      "question": "Statements: All doctors are engineers. All engineers are teachers. No teacher is a nurse.\nConclusions: I. No doctor is a nurse. II. Some teachers are doctors.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Either I or II follows",
+        "Neither I nor II follows",
+        "Both I and II follow"
+      ],
+      "correct": 4,
+      "solution": "All+All: `All doctors are teachers`. Then `No teacher is nurse` → `No doctor is nurse` (I). And `All doctors are teachers` converts to `Some teachers are doctors` (II).",
+      "trick": "Build the longest All-chain first (doctors→engineers→teachers), then apply the \"No\" at the end; the converted \"Some\" rides along."
+    },
+    {
+      "id": "reasoning-syllogism-inequality-q009",
+      "group": "Syllogism",
+      "question": "Statements: Some fruits are vegetables. All vegetables are green. Some green things are fresh.\nConclusions: I. Some fruits are green. II. Some fruits are fresh.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Either I or II follows",
+        "Neither I nor II follows",
+        "Both I and II follow"
+      ],
+      "correct": 0,
+      "solution": "`Some fruits are vegetables` + `All vegetables are green` → `Some fruits are green` (I). For II, `Some green are fresh` — the green fruits need not be the fresh green ones, so `Some fruits are fresh` is not definite. I is definite, so this is not an Either/Or (and the conclusions are not a complementary pair anyway).",
+      "trick": "A \"some\" statement further down the chain (some green are fresh) cannot be pulled back onto a specific subset (the green fruits)."
+    },
+    {
+      "id": "reasoning-syllogism-inequality-q010",
+      "group": "Syllogism",
+      "question": "Statements: All pens are inks. Some inks are blue. No blue is red.\nConclusions: I. Some inks are not red. II. Some pens being blue is a possibility.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Either I or II follows",
+        "Neither I nor II follows",
+        "Both I and II follow"
+      ],
+      "correct": 4,
+      "solution": "`Some inks are blue` + `No blue is red` → the blue inks are not red → `Some inks are not red` (I). II is a possibility: pens are a subset of inks and some inks are blue, so nothing forbids some pens from being blue → possibility holds.",
+      "trick": "A possibility conclusion follows unless something makes it impossible. Here no rule blocks pens∩blue, so \"possible\" is true."
+    },
+    {
+      "id": "reasoning-syllogism-inequality-q011",
+      "group": "Inequality — Direct",
+      "question": "Statement: A > B ≥ C = D > E\nConclusions: I. A > D. II. B > E.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Either I or II follows",
+        "Neither I nor II follows",
+        "Both I and II follow"
+      ],
+      "correct": 4,
+      "solution": "A > B ≥ C = D > E. Chain A > B ≥ C = D is all \"greater/equal-or-greater\" with at least one strict `>`, so **A > D** (I). Chain B ≥ C = D > E has a strict `>` at the end, so **B > E** (II).",
+      "trick": "Unbroken same-direction chain: as long as every link points the same way (≥, =, >) and at least one link is strict `>`, the endpoints get a strict `>`. All links `=`/`≥` with no strict → only `≥`."
+    },
+    {
+      "id": "reasoning-syllogism-inequality-q012",
+      "group": "Inequality — Direct",
+      "question": "Statement: P ≥ Q = R ≤ S < T\nConclusions: I. P > R. II. P = R.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Either I or II follows",
+        "Neither I nor II follows",
+        "Both I and II follow"
+      ],
+      "correct": 2,
+      "solution": "P ≥ Q = R gives **P ≥ R**, i.e. P > R OR P = R. Neither alone is definite; together they are the complementary pair (> and =). Either/Or. (The S, T part is a distractor — no P–S/T link.)",
+      "trick": "A derived `≥` between the two conclusion variables splits exactly into \"> \" and \"=\". If the two conclusions are precisely those two, it is Either/Or."
+    },
+    {
+      "id": "reasoning-syllogism-inequality-q013",
+      "group": "Inequality — Direct",
+      "question": "Statement: L ≤ M < N = O\nConclusions: I. L < O. II. L = N.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Either I or II follows",
+        "Neither I nor II follows",
+        "Both I and II follow"
+      ],
+      "correct": 0,
+      "solution": "L ≤ M < N = O → L ≤ M < N gives L < N, and N = O, so **L < O** (I). L = N is false since L < N. Not a complementary pair, so not Either/Or.",
+      "trick": "`≤` then `<` still yields a strict `<` across (the strict link dominates)."
+    },
+    {
+      "id": "reasoning-syllogism-inequality-q014",
+      "group": "Inequality — Direct",
+      "question": "Statement: A > B < C ≤ D\nConclusions: I. A > C. II. D > B.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Either I or II follows",
+        "Neither I nor II follows",
+        "Both I and II follow"
+      ],
+      "correct": 1,
+      "solution": "A > B < C ≤ D. A and C both sit above B but there is no direct A–C link → I not definite. D ≥ C > B → **D > B** (II).",
+      "trick": "A change of direction (`>` then `<`) breaks the chain — the two ends around the \"valley\" (or \"peak\") have no forced relation."
+    },
+    {
+      "id": "reasoning-syllogism-inequality-q015",
+      "group": "Inequality — Direct",
+      "question": "Statements: A ≥ B > C and D > C\nConclusions: I. A > D. II. B < D.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Either I or II follows",
+        "Neither I nor II follows",
+        "Both I and II follow"
+      ],
+      "correct": 3,
+      "solution": "A ≥ B > C and D > C. Both A and D are above C, but two things bigger than a common item have no forced order → I (A > D) not definite; II (B < D) not definite. Conclusions are about different variable pairs → not a complementary pair → Neither.",
+      "trick": "\"Both greater than C\" tells you nothing about how the two big items compare. No common directional chain between them = Neither (only genuine complementary pairs give Either/Or)."
+    },
+    {
+      "id": "reasoning-syllogism-inequality-q016",
+      "group": "Inequality — Coded",
+      "context": "In the following questions, the symbols are decoded as:\n- `P @ Q` means P is not smaller than Q (P ≥ Q)\n- `P & Q` means P is not greater than Q (P ≤ Q)\n- `P # Q` means P is neither smaller than nor equal to Q (P > Q)\n- `P % Q` means P is neither greater than nor equal to Q (P < Q)\n- `P $ Q` means P is neither smaller than nor greater than Q (P = Q)",
+      "question": "Statements: A @ B, B # C, C & D\nConclusions: I. A # C. II. A % D.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Either I or II follows",
+        "Neither I nor II follows",
+        "Both I and II follow"
+      ],
+      "correct": 0,
+      "solution": "Decode: A ≥ B, B > C, C ≤ D. A ≥ B > C → **A > C** = `A # C` (I). For II, A > C ≤ D has a direction change, so no A–D link → `A % D` (A < D) not definite.",
+      "trick": "Decode first, then apply the chain rule. `≥` then `>` → strict `>`; a following `≤` breaks it."
+    },
+    {
+      "id": "reasoning-syllogism-inequality-q017",
+      "group": "Inequality — Coded",
+      "context": "In the following questions, the symbols are decoded as:\n- `P @ Q` means P is not smaller than Q (P ≥ Q)\n- `P & Q` means P is not greater than Q (P ≤ Q)\n- `P # Q` means P is neither smaller than nor equal to Q (P > Q)\n- `P % Q` means P is neither greater than nor equal to Q (P < Q)\n- `P $ Q` means P is neither smaller than nor greater than Q (P = Q)",
+      "question": "Statements: P % Q, Q $ R, R @ S\nConclusions: I. P % R. II. Q @ S.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Either I or II follows",
+        "Neither I nor II follows",
+        "Both I and II follow"
+      ],
+      "correct": 4,
+      "solution": "Decode: P < Q, Q = R, R ≥ S. P < Q = R → **P < R** = `P % R` (I). Q = R ≥ S → **Q ≥ S** = `Q @ S` (II).",
+      "trick": "`@` = ≥, `&` = ≤, `#` = strict >, `%` = strict <, `$` = =. Reading the sentence form (\"neither smaller nor equal\" = strictly greater) is the whole game."
+    },
+    {
+      "id": "reasoning-syllogism-inequality-q018",
+      "group": "Inequality — Coded",
+      "context": "In the following questions, the symbols are decoded as:\n- `P @ Q` means P is not smaller than Q (P ≥ Q)\n- `P & Q` means P is not greater than Q (P ≤ Q)\n- `P # Q` means P is neither smaller than nor equal to Q (P > Q)\n- `P % Q` means P is neither greater than nor equal to Q (P < Q)\n- `P $ Q` means P is neither smaller than nor greater than Q (P = Q)",
+      "question": "Statements: X @ Y, Y $ Z\nConclusions: I. X # Z. II. X $ Z.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Either I or II follows",
+        "Neither I nor II follows",
+        "Both I and II follow"
+      ],
+      "correct": 2,
+      "solution": "Decode: X ≥ Y, Y = Z → **X ≥ Z**. That is X > Z (`X # Z`, I) OR X = Z (`X $ Z`, II) — the exact complementary pair. Either/Or.",
+      "trick": "Same as direct: a derived `≥` between the two conclusion variables, asked as \">\" and \"=\", is textbook Either/Or."
+    },
+    {
+      "id": "reasoning-syllogism-inequality-q019",
+      "group": "Inequality — Coded",
+      "context": "In the following questions, the symbols are decoded as:\n- `P @ Q` means P is not smaller than Q (P ≥ Q)\n- `P & Q` means P is not greater than Q (P ≤ Q)\n- `P # Q` means P is neither smaller than nor equal to Q (P > Q)\n- `P % Q` means P is neither greater than nor equal to Q (P < Q)\n- `P $ Q` means P is neither smaller than nor greater than Q (P = Q)",
+      "question": "Statements: P # Q, Q % R, S @ R\nConclusions: I. P # R. II. S # Q.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Either I or II follows",
+        "Neither I nor II follows",
+        "Both I and II follow"
+      ],
+      "correct": 1,
+      "solution": "Decode: P > Q, Q < R, S ≥ R. P > Q < R is a direction change → I (`P # R`, P > R) not definite. S ≥ R > Q → **S > Q** = `S # Q` (II).",
+      "trick": "Watch the \"valley\" at Q (P > Q < R) — it kills the P–R conclusion; meanwhile S ≥ R > Q chains cleanly to strict >."
+    },
+    {
+      "id": "reasoning-syllogism-inequality-q020",
+      "group": "Inequality — Coded",
+      "context": "In the following questions, the symbols are decoded as:\n- `P @ Q` means P is not smaller than Q (P ≥ Q)\n- `P & Q` means P is not greater than Q (P ≤ Q)\n- `P # Q` means P is neither smaller than nor equal to Q (P > Q)\n- `P % Q` means P is neither greater than nor equal to Q (P < Q)\n- `P $ Q` means P is neither smaller than nor greater than Q (P = Q)",
+      "question": "Statements: L @ M, M % N, N @ O\nConclusions: I. L # N. II. L # O.",
+      "options": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Either I or II follows",
+        "Neither I nor II follows",
+        "Both I and II follow"
+      ],
+      "correct": 3,
+      "solution": "Decode: L ≥ M, M < N, N ≥ O. L ≥ M < N breaks (direction change), so I (`L # N`) fails. For II, L and O connect only through the broken middle → no L–O link, `L # O` fails. Different variable pairs → not complementary → Neither.",
+      "trick": "When the middle link reverses direction, neither end-to-end conclusion survives; if the two conclusions also target different pairs, it is a clean Neither."
+    }
+  ]
+}

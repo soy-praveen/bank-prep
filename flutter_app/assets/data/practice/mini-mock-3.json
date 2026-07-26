@@ -1,0 +1,462 @@
+{
+  "title": "Mixed Mini-Mock 3",
+  "section": "mixed",
+  "kind": "quiz",
+  "source": "mini-mock-3.md",
+  "questions": [
+    {
+      "id": "mini-mock-3-q001",
+      "subject": "quant",
+      "question": "Solve: 15% of 240 + 25% of 160 - 12 = ?",
+      "options": [
+        "60",
+        "62",
+        "64",
+        "66",
+        "68"
+      ],
+      "correct": 2,
+      "solution": "**64.** 15% of 240 = 36; 25% of 160 = 40; 36 + 40 - 12 = 64.\n\nSkip-if-stuck: Never — this is a free 30-sec mark.",
+      "trick": "25% of a number = quarter of it (160/4 = 40); 15% = 10% + 5% (24 + 12 = 36). No long multiplication needed."
+    },
+    {
+      "id": "mini-mock-3-q002",
+      "subject": "english",
+      "question": "Spot the error. The number of students (a)/ appearing for the exam (b)/ have increased (c)/ this year. (d)/ No error (e)",
+      "options": [
+        "The number of students",
+        "appearing for the exam",
+        "have increased",
+        "this year.",
+        "No error"
+      ],
+      "correct": 2,
+      "solution": "\"The number of students ... has increased.\" *The number of* takes a singular verb, so \"have increased\" is wrong.\n\nSkip-if-stuck: Rarely; if unsure, \"have\" after a singular head noun is the usual trap.",
+      "trick": "\"The number of\" = singular (a single count). \"A number of\" = plural (many). Memorise this pair — banks test it every session."
+    },
+    {
+      "id": "mini-mock-3-q003",
+      "subject": "reasoning",
+      "question": "In the expression P > Q >= R = S < T, which conclusion is definitely true?\nI. P > S\nII. T > R",
+      "options": [
+        "Only I",
+        "Only II",
+        "Both I and II",
+        "Neither I nor II",
+        "Either I or II"
+      ],
+      "correct": 2,
+      "solution": "**Both I and II.** P > Q >= R = S gives P > S (all strict/equal links preserve >). R = S < T gives T > R. Both hold.\n\nSkip-if-stuck: If a chain has a reversal or an \"either/or\" (=/<) gap, pause; this one is clean.",
+      "trick": "A conclusion is true only if every link in the chain agrees in direction. Here no link opposes, so both flow through."
+    },
+    {
+      "id": "mini-mock-3-q004",
+      "subject": "quant",
+      "question": "A person's salary is first increased by 20% and then decreased by 25%. What is the net change?",
+      "options": [
+        "5% increase",
+        "10% decrease",
+        "10% increase",
+        "5% decrease",
+        "No change"
+      ],
+      "correct": 1,
+      "solution": "**10% decrease.** Net factor = 1.20 x 0.75 = 0.90, i.e. a 10% fall.\n\nSkip-if-stuck: Never; the +/- formula is 15 seconds.",
+      "trick": "For successive % changes a and b, net = a + b + (ab/100) = 20 - 25 + (20 x -25/100) = -5 - 5 = -10%."
+    },
+    {
+      "id": "mini-mock-3-q005",
+      "subject": "english",
+      "question": "Fill the blank: Despite ______ evidence, the committee refused to change its decision.",
+      "options": [
+        "compelling",
+        "compulsive",
+        "compulsory",
+        "compelled",
+        "compliant"
+      ],
+      "correct": 0,
+      "solution": "**compelling.** \"Compelling evidence\" is the fixed collocation (evidence so strong it forces a conclusion).\n\nSkip-if-stuck: Eliminate compulsive/compulsory (wrong sense) and pick from the rest.",
+      "trick": "Test collocation, not just meaning. \"Compulsive\" = habitual (a compulsive liar); \"compulsory\" = mandatory. Only \"compelling\" pairs with evidence."
+    },
+    {
+      "id": "mini-mock-3-q006",
+      "subject": "reasoning",
+      "question": "In a certain code, GARDEN is written as HBSEFO. How is FLOWER written in that code?",
+      "options": [
+        "GMPXFS",
+        "EKNVDQ",
+        "GNPXFS",
+        "GMPWFS",
+        "HMPXFS"
+      ],
+      "correct": 0,
+      "solution": "**GMPXFS.** GARDEN -> HBSEFO is each letter +1. FLOWER +1 = G, M, P, X, F, S.\n\nSkip-if-stuck: If the shift is irregular, move on; a uniform +1 like this is a guaranteed mark.",
+      "trick": "Decode the pattern on ONE given letter pair first (G->H = +1), then apply blindly. F+1=G, L+1=M, O+1=P, W+1=X, E+1=F, R+1=S."
+    },
+    {
+      "id": "mini-mock-3-q007",
+      "subject": "quant",
+      "question": "What is the total number of cars sold by all three dealers in 2024?",
+      "options": [
+        "490",
+        "500",
+        "510",
+        "520",
+        "530"
+      ],
+      "correct": 2,
+      "solution": "**510.** 2024 column: 150 + 200 + 160 = 510.\n\nSkip-if-stuck: Do this before Q8 — you'll reuse the same table read.",
+      "context": "The table shows the number of cars sold by three dealers in two years.\n\n| Dealer | 2023 | 2024 |\n|--------|------|------|\n| P | 120 | 150 |\n| Q | 180 | 200 |\n| R | 140 | 160 |",
+      "trick": "Add the column top-to-bottom in one sweep; don't re-read rows."
+    },
+    {
+      "id": "mini-mock-3-q008",
+      "subject": "quant",
+      "question": "What is the percentage increase in dealer P's sales from 2023 to 2024?",
+      "options": [
+        "20%",
+        "25%",
+        "30%",
+        "15%",
+        "33.3%"
+      ],
+      "correct": 1,
+      "solution": "**25%.** P: 120 -> 150, rise of 30. 30/120 = 1/4 = 25%.\n\nSkip-if-stuck: Never divide by the new figure — that is the classic DI trap.",
+      "context": "The table shows the number of cars sold by three dealers in two years.\n\n| Dealer | 2023 | 2024 |\n|--------|------|------|\n| P | 120 | 150 |\n| Q | 180 | 200 |\n| R | 140 | 160 |",
+      "trick": "Increase as a fraction of the ORIGINAL (120), not the new value. 30/120 simplifies straight to 1/4."
+    },
+    {
+      "id": "mini-mock-3-q009",
+      "subject": "english",
+      "question": "Fill the blank: The manager praised the team for their ______ efforts during the crisis.",
+      "options": [
+        "reluctant",
+        "reticent",
+        "relentless",
+        "relative",
+        "relenting"
+      ],
+      "correct": 2,
+      "solution": "**relentless.** \"Relentless efforts\" = unremitting, tireless — the intended praise.\n\nSkip-if-stuck: Cross out the clearly negative options and pick the vigorous one.",
+      "trick": "Positive context (\"praised\") needs a positive/strong word. Reluctant and reticent are negative/passive; eliminate them instantly."
+    },
+    {
+      "id": "mini-mock-3-q010",
+      "subject": "reasoning",
+      "question": "A man walks 5 km towards North, turns right and walks 3 km, then turns right again and walks 5 km. How far and in which direction is he from the starting point?",
+      "options": [
+        "3 km East",
+        "3 km West",
+        "5 km East",
+        "8 km North",
+        "3 km North"
+      ],
+      "correct": 0,
+      "solution": "**3 km East.** North 5, then right = East 3, then right = South 5. The two 5s (North then South) cancel; net is 3 km East.\n\nSkip-if-stuck: Draw the path — never track direction in your head on turns.",
+      "trick": "Sketch it. Opposite equal legs cancel; only the lone leg (East 3) survives."
+    },
+    {
+      "id": "mini-mock-3-q011",
+      "subject": "quant",
+      "question": "The ratio of the present ages of A and B is 5:7. After 6 years, the ratio becomes 3:4. What is A's present age?",
+      "options": [
+        "25 years",
+        "30 years",
+        "35 years",
+        "28 years",
+        "32 years"
+      ],
+      "correct": 1,
+      "solution": "**30 years.** Let ages be 5x and 7x. (5x+6)/(7x+6) = 3/4 -> 20x+24 = 21x+18 -> x = 6. A = 5x = 30.\n\nSkip-if-stuck: Slightly slower; flag it for Pass 2 if the algebra stalls.",
+      "trick": "Cross-multiply once and the x-terms nearly cancel (20x vs 21x). Present age = 5 x 6."
+    },
+    {
+      "id": "mini-mock-3-q012",
+      "subject": "english",
+      "question": "Rearrange these into a coherent paragraph and identify which sentence should come FIRST.\n(A) This led to their widespread adoption across industries.\n(B) Electric vehicles were once considered impractical.\n(C) However, battery technology improved dramatically.\n(D) Today, they dominate many urban transport plans.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "A and D both work"
+      ],
+      "correct": 1,
+      "solution": "**B.** Order is B (topic: EVs were impractical) -> C (however, batteries improved) -> A (this led to adoption) -> D (today they dominate). B introduces the subject with no back-reference, so it opens.\n\nSkip-if-stuck: To find the opener, just eliminate every sentence starting with a linker.",
+      "trick": "The opening sentence has no pronoun/connector pointing backward (\"this\", \"however\", \"they\"). Only B is self-standing."
+    },
+    {
+      "id": "mini-mock-3-q013",
+      "subject": "reasoning",
+      "question": "Who lives on floor 3?",
+      "options": [
+        "P",
+        "Q",
+        "R",
+        "S",
+        "T"
+      ],
+      "correct": 0,
+      "solution": "**P.** Fill: T=1 (lowest), Q=4, S above Q so S=5. P immediately above R leaves floors 2 and 3 -> R=2, P=3. Floor 3 = P.\n\nSkip-if-stuck: Solve the whole arrangement once for both Q13 and Q14; don't restart.",
+      "context": "Five people P, Q, R, S and T live on a five-storey building (floor 1 is lowest, floor 5 is highest), one person per floor.\n- Q lives on floor 4.\n- P lives immediately above R.\n- T lives on the lowest floor.\n- S lives above Q.",
+      "trick": "Place the absolute clues first (T lowest, Q on 4), then the \"above\" clues squeeze the rest."
+    },
+    {
+      "id": "mini-mock-3-q014",
+      "subject": "reasoning",
+      "question": "How many people live between S and R?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "None"
+      ],
+      "correct": 1,
+      "solution": "**2.** Final order: 1=T, 2=R, 3=P, 4=Q, 5=S. Between S(5) and R(2) sit floors 3 and 4 = 2 people (P and Q).\n\nSkip-if-stuck: Reuse the Q13 chart — zero extra setup.",
+      "context": "Five people P, Q, R, S and T live on a five-storey building (floor 1 is lowest, floor 5 is highest), one person per floor.\n- Q lives on floor 4.\n- P lives immediately above R.\n- T lives on the lowest floor.\n- S lives above Q.",
+      "trick": "\"Between\" = subtract floor numbers minus 1: (5 - 2) - 1 = 2."
+    },
+    {
+      "id": "mini-mock-3-q015",
+      "subject": "english",
+      "question": "Improve the underlined part: She is one of the best _singer_ in the country.",
+      "options": [
+        "best singers",
+        "better singer",
+        "best of singer",
+        "best singing",
+        "No improvement"
+      ],
+      "correct": 0,
+      "solution": "**best singers.** After \"one of the best\" the noun must be plural: \"one of the best singers.\"\n\nSkip-if-stuck: Never; this pattern is memorisable.",
+      "trick": "\"One of the [superlative] + plural noun\" is a fixed frame. Singular \"singer\" is always wrong here."
+    },
+    {
+      "id": "mini-mock-3-q016",
+      "subject": "quant",
+      "question": "The average of 5 numbers is 27. If one number, 35, is removed, what is the average of the remaining four?",
+      "options": [
+        "25",
+        "24",
+        "26",
+        "23",
+        "27"
+      ],
+      "correct": 0,
+      "solution": "**25.** Sum of 5 = 27 x 5 = 135. Remove 35 -> 100. New average = 100/4 = 25.\n\nSkip-if-stuck: Never; pure two-step arithmetic.",
+      "trick": "Recover the total from average x count, subtract, divide by the new count. Don't overthink."
+    },
+    {
+      "id": "mini-mock-3-q017",
+      "subject": "english",
+      "question": "Choose the word most nearly SIMILAR in meaning to CANDID.",
+      "options": [
+        "hidden",
+        "harsh",
+        "frank",
+        "sweet",
+        "dull"
+      ],
+      "correct": 2,
+      "solution": "**frank.** Candid = open, honest, frank.\n\nSkip-if-stuck: If unknown, recall the phrase \"candid camera\" (unposed, honest shots).",
+      "trick": "Link candid to \"candidly speaking\" = speaking openly. Frank is the synonym."
+    },
+    {
+      "id": "mini-mock-3-q018",
+      "subject": "reasoning",
+      "question": "Pointing to a photograph, a man said, \"She is the daughter of my grandfather's only son.\" How is the woman related to the man?",
+      "options": [
+        "Mother",
+        "Sister",
+        "Aunt",
+        "Daughter",
+        "Cousin"
+      ],
+      "correct": 1,
+      "solution": "**Sister.** Grandfather's only son = the man's father. The father's daughter = the man's sister.\n\nSkip-if-stuck: Write the chain left-to-right; don't hold it mentally.",
+      "trick": "Resolve inside-out: innermost relation first (\"grandfather's only son\" = father), then apply the outer one."
+    },
+    {
+      "id": "mini-mock-3-q019",
+      "subject": "quant",
+      "question": "A can complete a piece of work in 12 days and B in 18 days. Working together, in how many days will they finish it?",
+      "options": [
+        "7.2 days",
+        "7.5 days",
+        "6 days",
+        "8 days",
+        "7 days"
+      ],
+      "correct": 0,
+      "solution": "**7.2 days.** Combined rate = 1/12 + 1/18. LCM(12,18)=36; A=3 units/day, B=2 units/day -> 5 units/day. Time = 36/5 = 7.2 days.\n\nSkip-if-stuck: If fractions feel slow, the LCM-units method removes all fraction addition.",
+      "trick": "Use LCM as total work (36 units) so rates become whole numbers (3 and 2). Time = total/combined rate."
+    },
+    {
+      "id": "mini-mock-3-q020",
+      "subject": "english",
+      "question": "What does the idiom \"to bite the bullet\" mean?",
+      "options": [
+        "To face a difficult situation bravely",
+        "To eat quickly",
+        "To get injured",
+        "To waste time",
+        "To argue loudly"
+      ],
+      "correct": 0,
+      "solution": "**To face a difficult situation bravely.** \"Bite the bullet\" = endure something painful/unavoidable with courage.\n\nSkip-if-stuck: If the idiom is unknown, don't guess under negative marking — skip.",
+      "trick": "Origin image — soldiers biting a bullet during surgery without anaesthetic: enduring pain bravely."
+    },
+    {
+      "id": "mini-mock-3-q021",
+      "subject": "reasoning",
+      "question": "If 5 -> 25, 6 -> 36 and 7 -> 49, then 8 -> ?",
+      "options": [
+        "56",
+        "64",
+        "72",
+        "81",
+        "48"
+      ],
+      "correct": 1,
+      "solution": "**64.** Pattern is n -> n squared. 8 squared = 64.\n\nSkip-if-stuck: Never; spot \"square\" from 25, 36, 49 instantly.",
+      "trick": "5->25, 6->36, 7->49 are perfect squares; extend the sequence. 8 squared = 64."
+    },
+    {
+      "id": "mini-mock-3-q022",
+      "subject": "quant",
+      "question": "Find the simple interest on Rs. 8,000 at 5% per annum for 2 years.",
+      "options": [
+        "Rs. 800",
+        "Rs. 700",
+        "Rs. 900",
+        "Rs. 750",
+        "Rs. 850"
+      ],
+      "correct": 0,
+      "solution": "**Rs. 800.** SI = P x R x T / 100 = 8000 x 5 x 2 / 100 = 800.\n\nSkip-if-stuck: Never; simple interest is one line.",
+      "trick": "5% of 8000 = 400 per year; over 2 years = 800. No formula sheet needed."
+    },
+    {
+      "id": "mini-mock-3-q023",
+      "subject": "english",
+      "question": "Choose the word most nearly OPPOSITE in meaning to ABUNDANT.",
+      "options": [
+        "plenty",
+        "ample",
+        "scarce",
+        "large",
+        "full"
+      ],
+      "correct": 2,
+      "solution": "**scarce.** Abundant = plentiful; its opposite is scarce (in short supply).\n\nSkip-if-stuck: Eliminate every option that MEANS abundant; the survivor is the answer.",
+      "trick": "Plenty, ample, large, full are all synonyms of abundant — one odd word out is the antonym."
+    },
+    {
+      "id": "mini-mock-3-q024",
+      "subject": "reasoning",
+      "question": "Statements: All pens are books. Some books are pencils.\nConclusions: I. Some pens are pencils. II. Some books are pens.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "Neither follows",
+        "Either I or II follows"
+      ],
+      "correct": 1,
+      "solution": "**Only II follows.** All pens are books -> conversion gives \"some books are pens\" (II true). Pens and pencils share no direct link (the pencils connect only to books), so I does not follow.\n\nSkip-if-stuck: Draw two circles: pens inside books; pencils merely overlap books. Pens-pencils overlap is not guaranteed.",
+      "trick": "\"All A are B\" always yields \"Some B are A.\" For I you'd need pens tied to pencils, but no such bridge exists."
+    },
+    {
+      "id": "mini-mock-3-q025",
+      "subject": "quant",
+      "question": "A and B invest Rs. 5,000 and Rs. 7,000 respectively in a business. At the end of the year they earn a total profit of Rs. 3,600, shared in the ratio of their investments. What is B's share?",
+      "options": [
+        "Rs. 2,100",
+        "Rs. 1,500",
+        "Rs. 1,800",
+        "Rs. 2,400",
+        "Rs. 2,000"
+      ],
+      "correct": 0,
+      "solution": "**Rs. 2,100.** Investment ratio 5000:7000 = 5:7 (12 parts). B's share = 7/12 x 3600 = 2100.\n\nSkip-if-stuck: Reduce the ratio first (5:7), then one part = total/12.",
+      "trick": "Same time period, so profit splits by investment ratio directly. 3600/12 = 300 per part; B gets 7 x 300."
+    },
+    {
+      "id": "mini-mock-3-q026",
+      "subject": "english",
+      "question": "Fill both blanks: The government ______ new measures to ______ the spread of the disease.",
+      "options": [
+        "introduced ... curb",
+        "introduce ... curbing",
+        "introducing ... curbed",
+        "introduces ... curbs",
+        "introduced ... curbing"
+      ],
+      "correct": 0,
+      "solution": "**introduced ... curb.** Past-tense main verb \"introduced\"; \"to + base form curb\" after the purpose infinitive.\n\nSkip-if-stuck: Lock the second blank first (\"to curb\") — it eliminates four options at once.",
+      "trick": "\"to ______\" always takes the base verb (curb), never curbing/curbed. That alone kills b, c, e; subject-verb agreement kills d."
+    },
+    {
+      "id": "mini-mock-3-q027",
+      "subject": "reasoning",
+      "question": "In a row of 25 students, A is 7th from the left end. What is his position from the right end?",
+      "options": [
+        "19th",
+        "18th",
+        "20th",
+        "17th",
+        "21st"
+      ],
+      "correct": 0,
+      "solution": "**19th.** Position from right = total - position from left + 1 = 25 - 7 + 1 = 19.\n\nSkip-if-stuck: Never; memorise Left + Right = Total + 1.",
+      "trick": "The \"+1\" is essential (both ends count the person once). 25 - 7 = 18, then +1 = 19."
+    },
+    {
+      "id": "mini-mock-3-q028",
+      "subject": "english",
+      "question": "Choose the correct replacement for the underlined word: No sooner had I reached the station _when_ the train left.",
+      "options": [
+        "than",
+        "then",
+        "that",
+        "as",
+        "No improvement"
+      ],
+      "correct": 0,
+      "solution": "**than.** The correlative is \"No sooner ... than,\" not \"no sooner ... when.\"\n\nSkip-if-stuck: If the opener is \"no sooner,\" the answer is always \"than.\"",
+      "trick": "Pair up correlatives: \"no sooner-than\", \"hardly-when\", \"scarcely-when\". Match the opener to its fixed partner."
+    },
+    {
+      "id": "mini-mock-3-q029",
+      "subject": "english",
+      "question": "Spot the error. Each of the boys (a)/ were given (b)/ a separate room (c)/ in the hostel. (d)/ No error (e)",
+      "options": [
+        "Each of the boys",
+        "were given",
+        "a separate room",
+        "in the hostel.",
+        "No error"
+      ],
+      "correct": 1,
+      "solution": "\"Each of the boys ... was given.\" *Each* is singular, so \"were given\" must be \"was given.\"\n\nSkip-if-stuck: Whenever a sentence starts with \"Each of,\" check the verb for singular agreement first.",
+      "trick": "Each / every / one of / neither = singular verb, regardless of the plural noun that follows (\"boys\")."
+    },
+    {
+      "id": "mini-mock-3-q030",
+      "subject": "english",
+      "question": "One word for: a person who cannot read or write.",
+      "options": [
+        "ignorant",
+        "illiterate",
+        "literate",
+        "innocent",
+        "immature"
+      ],
+      "correct": 1,
+      "solution": "**illiterate.** A person unable to read or write = illiterate.\n\nSkip-if-stuck: Don't confuse with \"ignorant\" (no knowledge) — the clue is specifically read/write.",
+      "trick": "Prefix \"il-\" (not) + literate (able to read) = illiterate. Ignorant means lacking knowledge, not literacy."
+    }
+  ]
+}

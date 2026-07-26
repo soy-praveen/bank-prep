@@ -1,0 +1,648 @@
+{
+  "title": "Quadratics, Quantity Comparison & Data Sufficiency — Practice (Vol. 2)",
+  "section": "quant",
+  "kind": "quiz",
+  "source": "quant-quadratic-qc-ds-v2.md",
+  "questions": [
+    {
+      "id": "quant-quadratic-qc-ds-v2-q001",
+      "group": "Part A — Quadratic Comparison",
+      "context": "In each question two equations are given. Solve both and choose the correct relation between x and y.",
+      "question": "I. x^2 - 7x + 12 = 0\nII. y^2 - 9y + 20 = 0",
+      "options": [
+        "x > y",
+        "x < y",
+        "x >= y",
+        "x <= y",
+        "x = y or no relation can be established"
+      ],
+      "correct": 3,
+      "solution": "I. x^2 - 7x + 12 = 0 -> (x-3)(x-4) = 0 -> x = 3, 4\nII. y^2 - 9y + 20 = 0 -> (y-4)(y-5) = 0 -> y = 4, 5\nEvery x-value (3, 4) is <= every y-value (4, 5); the case x = 4 = y occurs, so equality is possible. Hence x <= y.",
+      "trick": "When the largest root of x equals the smallest root of y and all other x-roots fall below, it is a \"<=\" not a strict \"<\". Line the roots up on a number line: x-roots {3,4}, y-roots {4,5} — they touch at 4."
+    },
+    {
+      "id": "quant-quadratic-qc-ds-v2-q002",
+      "group": "Part A — Quadratic Comparison",
+      "context": "In each question two equations are given. Solve both and choose the correct relation between x and y.",
+      "question": "I. x^2 - 11x + 30 = 0\nII. y^2 - 7y + 10 = 0",
+      "options": [
+        "x > y",
+        "x < y",
+        "x >= y",
+        "x <= y",
+        "x = y or no relation can be established"
+      ],
+      "correct": 2,
+      "solution": "I. x^2 - 11x + 30 = 0 -> (x-5)(x-6) = 0 -> x = 5, 6\nII. y^2 - 7y + 10 = 0 -> (y-2)(y-5) = 0 -> y = 2, 5\nSmallest x (5) equals largest y (5); all other x-values are larger. So x >= y.",
+      "trick": "Mirror image of Q1 — smallest x meets largest y means \"x >= y\". Only the touching point creates the \"equal-to\" part of the sign."
+    },
+    {
+      "id": "quant-quadratic-qc-ds-v2-q003",
+      "group": "Part A — Quadratic Comparison",
+      "context": "In each question two equations are given. Solve both and choose the correct relation between x and y.",
+      "question": "I. x^2 - 6x + 8 = 0\nII. y^2 - 14y + 48 = 0",
+      "options": [
+        "x > y",
+        "x < y",
+        "x >= y",
+        "x <= y",
+        "x = y or no relation can be established"
+      ],
+      "correct": 1,
+      "solution": "I. x^2 - 6x + 8 = 0 -> (x-2)(x-4) = 0 -> x = 2, 4\nII. y^2 - 14y + 48 = 0 -> (y-6)(y-8) = 0 -> y = 6, 8\nLargest x (4) < smallest y (6). Complete separation, so strictly x < y.",
+      "trick": "If the whole x-set sits entirely below the whole y-set (max-x < min-y), it is a strict inequality — no \"equal\" tail."
+    },
+    {
+      "id": "quant-quadratic-qc-ds-v2-q004",
+      "group": "Part A — Quadratic Comparison",
+      "context": "In each question two equations are given. Solve both and choose the correct relation between x and y.",
+      "question": "I. 2x^2 - 9x + 10 = 0\nII. y^2 - 6y + 9 = 0",
+      "options": [
+        "x > y",
+        "x < y",
+        "x >= y",
+        "x <= y",
+        "x = y or no relation can be established"
+      ],
+      "correct": 1,
+      "solution": "I. 2x^2 - 9x + 10 = 0 -> discriminant = 81 - 80 = 1 -> x = (9 +/- 1)/4 = 2.5, 2\nII. y^2 - 6y + 9 = 0 -> (y-3)^2 = 0 -> y = 3 (repeated)\nLargest x (2.5) < y (3). So x < y.",
+      "trick": "A perfect-square trinomial (b^2 = 4ac) gives one repeated root — treat it as a single value. Here compare {2, 2.5} against 3."
+    },
+    {
+      "id": "quant-quadratic-qc-ds-v2-q005",
+      "group": "Part A — Quadratic Comparison",
+      "context": "In each question two equations are given. Solve both and choose the correct relation between x and y.",
+      "question": "I. x^2 - 3x - 10 = 0\nII. y^2 - y - 6 = 0",
+      "options": [
+        "x > y",
+        "x < y",
+        "x >= y",
+        "x <= y",
+        "x = y or no relation can be established"
+      ],
+      "correct": 4,
+      "solution": "I. x^2 - 3x - 10 = 0 -> (x-5)(x+2) = 0 -> x = 5, -2\nII. y^2 - y - 6 = 0 -> (y-3)(y+2) = 0 -> y = 3, -2\nx = 5 > y = 3, but x = -2 < y = 3. The root ranges overlap, so no consistent relation.",
+      "trick": "Whenever the two root intervals overlap (here both span from -2 upward), the answer is almost always \"no relation\". Test just the extreme pairings to confirm a sign flip."
+    },
+    {
+      "id": "quant-quadratic-qc-ds-v2-q006",
+      "group": "Part A — Quadratic Comparison",
+      "context": "In each question two equations are given. Solve both and choose the correct relation between x and y.",
+      "question": "I. x^2 - 13x + 42 = 0\nII. y^2 - 15y + 56 = 0",
+      "options": [
+        "x > y",
+        "x < y",
+        "x >= y",
+        "x <= y",
+        "x = y or no relation can be established"
+      ],
+      "correct": 3,
+      "solution": "I. x^2 - 13x + 42 = 0 -> (x-6)(x-7) = 0 -> x = 6, 7\nII. y^2 - 15y + 56 = 0 -> (y-7)(y-8) = 0 -> y = 7, 8\nMax x (7) = min y (7); x = 6 < 7. So x <= y.",
+      "trick": "For x^2 - Sx + P with consecutive-integer roots, the roots are the two factors of P that add to S. 42 = 6x7, 56 = 7x8."
+    },
+    {
+      "id": "quant-quadratic-qc-ds-v2-q007",
+      "group": "Part A — Quadratic Comparison",
+      "context": "In each question two equations are given. Solve both and choose the correct relation between x and y.",
+      "question": "I. x^2 + 7x + 12 = 0\nII. y^2 + 9y + 20 = 0",
+      "options": [
+        "x > y",
+        "x < y",
+        "x >= y",
+        "x <= y",
+        "x = y or no relation can be established"
+      ],
+      "correct": 2,
+      "solution": "I. x^2 + 7x + 12 = 0 -> (x+3)(x+4) = 0 -> x = -3, -4\nII. y^2 + 9y + 20 = 0 -> (y+4)(y+5) = 0 -> y = -4, -5\nBoth sets negative. Min x (-4) = max y (-4); x = -3 > -4. So x >= y.",
+      "trick": "With all-positive middle and last terms, both roots are negative. On the number line -3 and -4 sit to the right of -4 and -5, so x is the larger set."
+    },
+    {
+      "id": "quant-quadratic-qc-ds-v2-q008",
+      "group": "Part A — Quadratic Comparison",
+      "context": "In each question two equations are given. Solve both and choose the correct relation between x and y.",
+      "question": "I. x^2 - 15x + 54 = 0\nII. y^2 - 8y + 15 = 0",
+      "options": [
+        "x > y",
+        "x < y",
+        "x >= y",
+        "x <= y",
+        "x = y or no relation can be established"
+      ],
+      "correct": 0,
+      "solution": "I. x^2 - 15x + 54 = 0 -> (x-6)(x-9) = 0 -> x = 6, 9\nII. y^2 - 8y + 15 = 0 -> (y-3)(y-5) = 0 -> y = 3, 5\nMin x (6) > max y (5). Complete separation upward, so x > y strictly.",
+      "trick": "min-x > max-y gives a strict \">\". 54 = 6x9 (sum 15), 15 = 3x5 (sum 8) — factor by matching the middle coefficient."
+    },
+    {
+      "id": "quant-quadratic-qc-ds-v2-q009",
+      "group": "Part A — Quadratic Comparison",
+      "context": "In each question two equations are given. Solve both and choose the correct relation between x and y.",
+      "question": "I. x^2 = 49\nII. y^2 - 14y + 49 = 0",
+      "options": [
+        "x > y",
+        "x < y",
+        "x >= y",
+        "x <= y",
+        "x = y or no relation can be established"
+      ],
+      "correct": 3,
+      "solution": "I. x^2 = 49 -> x = +7 or -7\nII. y^2 - 14y + 49 = 0 -> (y-7)^2 = 0 -> y = 7\nx = 7 equals y; x = -7 < 7. So x <= y.",
+      "trick": "x^2 = k always yields both signs (+/- sqrt(k)); students who write only +7 will wrongly pick \"=\". The negative root drags this to \"<=\"."
+    },
+    {
+      "id": "quant-quadratic-qc-ds-v2-q010",
+      "group": "Part A — Quadratic Comparison",
+      "context": "In each question two equations are given. Solve both and choose the correct relation between x and y.",
+      "question": "I. x^2 - 8x + 15 = 0\nII. y^2 - 4y + 3 = 0",
+      "options": [
+        "x > y",
+        "x < y",
+        "x >= y",
+        "x <= y",
+        "x = y or no relation can be established"
+      ],
+      "correct": 2,
+      "solution": "I. x^2 - 8x + 15 = 0 -> (x-3)(x-5) = 0 -> x = 3, 5\nII. y^2 - 4y + 3 = 0 -> (y-1)(y-3) = 0 -> y = 1, 3\nMin x (3) = max y (3); x = 5 > 3. So x >= y.",
+      "trick": "Touching at 3 (max-y = min-x) plus a higher x-root gives \">=\"."
+    },
+    {
+      "id": "quant-quadratic-qc-ds-v2-q011",
+      "group": "Part A — Quadratic Comparison",
+      "context": "In each question two equations are given. Solve both and choose the correct relation between x and y.",
+      "question": "I. 2x^2 - 11x + 12 = 0\nII. y^2 - 6y + 8 = 0",
+      "options": [
+        "x > y",
+        "x < y",
+        "x >= y",
+        "x <= y",
+        "x = y or no relation can be established"
+      ],
+      "correct": 4,
+      "solution": "I. 2x^2 - 11x + 12 = 0 -> discriminant = 121 - 96 = 25 -> x = (11 +/- 5)/4 = 4, 1.5\nII. y^2 - 6y + 8 = 0 -> (y-2)(y-4) = 0 -> y = 2, 4\nx = 4 > y = 2, but x = 1.5 < y = 2. Overlap -> no relation.",
+      "trick": "For a x^2 + b x + c, quick roots = (-b +/- sqrt(D))/(2a). D = 25 is a perfect square, so roots are clean. Overlapping ranges = no relation."
+    },
+    {
+      "id": "quant-quadratic-qc-ds-v2-q012",
+      "group": "Part A — Quadratic Comparison",
+      "context": "In each question two equations are given. Solve both and choose the correct relation between x and y.",
+      "question": "I. x^2 - 22x + 120 = 0\nII. y^2 - 30y + 224 = 0",
+      "options": [
+        "x > y",
+        "x < y",
+        "x >= y",
+        "x <= y",
+        "x = y or no relation can be established"
+      ],
+      "correct": 1,
+      "solution": "I. x^2 - 22x + 120 = 0 -> (x-10)(x-12) = 0 -> x = 10, 12\nII. y^2 - 30y + 224 = 0 -> (y-14)(y-16) = 0 -> y = 14, 16\nMax x (12) < min y (14). So x < y.",
+      "trick": "224 = 14x16 (sum 30). For larger products, test the factor pair centred near S/2 = 15."
+    },
+    {
+      "id": "quant-quadratic-qc-ds-v2-q013",
+      "group": "Part A — Quadratic Comparison",
+      "context": "In each question two equations are given. Solve both and choose the correct relation between x and y.",
+      "question": "I. x^2 - 19x + 90 = 0\nII. y^2 - 11y + 28 = 0",
+      "options": [
+        "x > y",
+        "x < y",
+        "x >= y",
+        "x <= y",
+        "x = y or no relation can be established"
+      ],
+      "correct": 0,
+      "solution": "I. x^2 - 19x + 90 = 0 -> (x-9)(x-10) = 0 -> x = 9, 10\nII. y^2 - 11y + 28 = 0 -> (y-4)(y-7) = 0 -> y = 4, 7\nMin x (9) > max y (7). So x > y.",
+      "trick": "90 = 9x10 (sum 19), 28 = 4x7 (sum 11). Fully separated sets, x higher — strict \">\"."
+    },
+    {
+      "id": "quant-quadratic-qc-ds-v2-q014",
+      "group": "Part A — Quadratic Comparison",
+      "context": "In each question two equations are given. Solve both and choose the correct relation between x and y.",
+      "question": "I. 5x^2 - 16x + 3 = 0\nII. 2y^2 - 3y - 2 = 0",
+      "options": [
+        "x > y",
+        "x < y",
+        "x >= y",
+        "x <= y",
+        "x = y or no relation can be established"
+      ],
+      "correct": 4,
+      "solution": "I. 5x^2 - 16x + 3 = 0 -> discriminant = 256 - 60 = 196 -> x = (16 +/- 14)/10 = 3, 0.2\nII. 2y^2 - 3y - 2 = 0 -> discriminant = 9 + 16 = 25 -> y = (3 +/- 5)/4 = 2, -0.5\nx = 3 > y = 2, but x = 0.2 < y = 2. Overlap -> no relation.",
+      "trick": "sqrt(196) = 14 and sqrt(25) = 5 — memorise perfect squares up to 400 to snap these open. Sign flip across the pairings confirms \"no relation\"."
+    },
+    {
+      "id": "quant-quadratic-qc-ds-v2-q015",
+      "group": "Part A — Quadratic Comparison",
+      "context": "In each question two equations are given. Solve both and choose the correct relation between x and y.",
+      "question": "I. x^2 + 12x + 35 = 0\nII. y^2 + 4y + 3 = 0",
+      "options": [
+        "x > y",
+        "x < y",
+        "x >= y",
+        "x <= y",
+        "x = y or no relation can be established"
+      ],
+      "correct": 1,
+      "solution": "I. x^2 + 12x + 35 = 0 -> (x+5)(x+7) = 0 -> x = -5, -7\nII. y^2 + 4y + 3 = 0 -> (y+1)(y+3) = 0 -> y = -1, -3\nMax x (-5) < min y (-3). Both negative, but x-set is more negative. So x < y.",
+      "trick": "With negatives, the number closer to zero is larger. -5 and -7 lie left of -3 and -1, so x is the smaller set."
+    },
+    {
+      "id": "quant-quadratic-qc-ds-v2-q016",
+      "group": "Part B — Quantity Comparison",
+      "context": "Compare Quantity 1 and Quantity 2 and choose the correct relation.",
+      "question": "Quantity 1: 25% of 320\nQuantity 2: 40% of 220",
+      "options": [
+        "Quantity 1 > Quantity 2",
+        "Quantity 1 < Quantity 2",
+        "Quantity 1 >= Quantity 2",
+        "Quantity 1 <= Quantity 2",
+        "Quantity 1 = Quantity 2, or the relation cannot be established"
+      ],
+      "correct": 1,
+      "solution": "Q1 = 25% of 320 = 80. Q2 = 40% of 220 = 88. 80 < 88.",
+      "trick": "Convert percentages to simple fractions: 25% = 1/4 (of 320 = 80), 40% = 2/5 (of 220 = 88). Fraction form avoids decimal slips."
+    },
+    {
+      "id": "quant-quadratic-qc-ds-v2-q017",
+      "group": "Part B — Quantity Comparison",
+      "context": "Compare Quantity 1 and Quantity 2 and choose the correct relation.",
+      "question": "Quantity 1: Compound interest on Rs. 8000 at 10% p.a. for 2 years\nQuantity 2: Simple interest on Rs. 8000 at 10% p.a. for 2 years",
+      "options": [
+        "Quantity 1 > Quantity 2",
+        "Quantity 1 < Quantity 2",
+        "Quantity 1 >= Quantity 2",
+        "Quantity 1 <= Quantity 2",
+        "Quantity 1 = Quantity 2, or the relation cannot be established"
+      ],
+      "correct": 0,
+      "solution": "Q1 = CI = 8000 x (1.1^2 - 1) = 8000 x 0.21 = 1680. Q2 = SI = 8000 x 0.10 x 2 = 1600. 1680 > 1600.",
+      "trick": "For 2 years, CI - SI = P x r^2 = 8000 x (0.1)^2 = 80, so CI is always the larger by exactly that gap. CI beats SI whenever time > 1 year."
+    },
+    {
+      "id": "quant-quadratic-qc-ds-v2-q018",
+      "group": "Part B — Quantity Comparison",
+      "context": "Compare Quantity 1 and Quantity 2 and choose the correct relation.",
+      "question": "A train 240 m long crosses a platform 360 m long in 30 seconds.\nQuantity 1: Speed of the train (in m/s)\nQuantity 2: 72 km/h converted to m/s",
+      "options": [
+        "Quantity 1 > Quantity 2",
+        "Quantity 1 < Quantity 2",
+        "Quantity 1 >= Quantity 2",
+        "Quantity 1 <= Quantity 2",
+        "Quantity 1 = Quantity 2, or the relation cannot be established"
+      ],
+      "correct": 4,
+      "solution": "Q1 = (240 + 360)/30 = 600/30 = 20 m/s. Q2 = 72 x 5/18 = 20 m/s. Equal.",
+      "trick": "km/h to m/s multiply by 5/18; m/s to km/h multiply by 18/5. Train crossing a platform covers (train + platform) length."
+    },
+    {
+      "id": "quant-quadratic-qc-ds-v2-q019",
+      "group": "Part B — Quantity Comparison",
+      "context": "Compare Quantity 1 and Quantity 2 and choose the correct relation.",
+      "question": "Quantity 1: Value of x where 5x - 8 = 3x + 14\nQuantity 2: 9",
+      "options": [
+        "Quantity 1 > Quantity 2",
+        "Quantity 1 < Quantity 2",
+        "Quantity 1 >= Quantity 2",
+        "Quantity 1 <= Quantity 2",
+        "Quantity 1 = Quantity 2, or the relation cannot be established"
+      ],
+      "correct": 0,
+      "solution": "5x - 8 = 3x + 14 -> 2x = 22 -> x = 11. Q2 = 9. 11 > 9.",
+      "trick": "Collect variables on one side in one step: (5x - 3x) = (14 + 8) -> 2x = 22."
+    },
+    {
+      "id": "quant-quadratic-qc-ds-v2-q020",
+      "group": "Part B — Quantity Comparison",
+      "context": "Compare Quantity 1 and Quantity 2 and choose the correct relation.",
+      "question": "Quantity 1: LCM of 12 and 18\nQuantity 2: (HCF of 12 and 18) x 6",
+      "options": [
+        "Quantity 1 > Quantity 2",
+        "Quantity 1 < Quantity 2",
+        "Quantity 1 >= Quantity 2",
+        "Quantity 1 <= Quantity 2",
+        "Quantity 1 = Quantity 2, or the relation cannot be established"
+      ],
+      "correct": 4,
+      "solution": "LCM(12,18) = 36. HCF(12,18) = 6, x 6 = 36. Equal.",
+      "trick": "LCM x HCF = product of the two numbers (12 x 18 = 216 = 36 x 6). Handy cross-check."
+    },
+    {
+      "id": "quant-quadratic-qc-ds-v2-q021",
+      "group": "Part B — Quantity Comparison",
+      "context": "Compare Quantity 1 and Quantity 2 and choose the correct relation.",
+      "question": "Quantity 1: Average of 14, 18, 22 and 26\nQuantity 2: 21",
+      "options": [
+        "Quantity 1 > Quantity 2",
+        "Quantity 1 < Quantity 2",
+        "Quantity 1 >= Quantity 2",
+        "Quantity 1 <= Quantity 2",
+        "Quantity 1 = Quantity 2, or the relation cannot be established"
+      ],
+      "correct": 1,
+      "solution": "Q1 = (14 + 18 + 22 + 26)/4 = 80/4 = 20. Q2 = 21. 20 < 21.",
+      "trick": "Equally spaced numbers: average = (first + last)/2 = (14 + 26)/2 = 20. No need to add all."
+    },
+    {
+      "id": "quant-quadratic-qc-ds-v2-q022",
+      "group": "Part B — Quantity Comparison",
+      "context": "Compare Quantity 1 and Quantity 2 and choose the correct relation.",
+      "question": "Quantity 1: Value of x where x^2 = 49\nQuantity 2: 7",
+      "options": [
+        "Quantity 1 > Quantity 2",
+        "Quantity 1 < Quantity 2",
+        "Quantity 1 >= Quantity 2",
+        "Quantity 1 <= Quantity 2",
+        "Quantity 1 = Quantity 2, or the relation cannot be established"
+      ],
+      "correct": 3,
+      "solution": "x^2 = 49 -> x = +7 or -7. Q2 = 7. When x = 7, equal; when x = -7, less. So Q1 <= Q2.",
+      "trick": "A squared variable always carries a negative root. Since 7 = 7 (equal) and -7 < 7, the correct sign is \"<=\", not \"<\"."
+    },
+    {
+      "id": "quant-quadratic-qc-ds-v2-q023",
+      "group": "Part B — Quantity Comparison",
+      "context": "Compare Quantity 1 and Quantity 2 and choose the correct relation.",
+      "question": "Quantity 1: Value of x where x^2 - 9x + 20 = 0\nQuantity 2: 4",
+      "options": [
+        "Quantity 1 > Quantity 2",
+        "Quantity 1 < Quantity 2",
+        "Quantity 1 >= Quantity 2",
+        "Quantity 1 <= Quantity 2",
+        "Quantity 1 = Quantity 2, or the relation cannot be established"
+      ],
+      "correct": 2,
+      "solution": "x^2 - 9x + 20 = 0 -> (x-4)(x-5) = 0 -> x = 4 or 5. Q2 = 4. When x = 4, equal; when x = 5, greater. So Q1 >= Q2.",
+      "trick": "Both roots are >= the compared value with one touching it — that touch makes it \">=\" instead of \">\"."
+    },
+    {
+      "id": "quant-quadratic-qc-ds-v2-q024",
+      "group": "Part B — Quantity Comparison",
+      "context": "Compare Quantity 1 and Quantity 2 and choose the correct relation.",
+      "question": "Quantity 1: Number of diagonals of an octagon\nQuantity 2: Number of diagonals of a heptagon",
+      "options": [
+        "Quantity 1 > Quantity 2",
+        "Quantity 1 < Quantity 2",
+        "Quantity 1 >= Quantity 2",
+        "Quantity 1 <= Quantity 2",
+        "Quantity 1 = Quantity 2, or the relation cannot be established"
+      ],
+      "correct": 0,
+      "solution": "Diagonals = n(n-3)/2. Octagon: 8x5/2 = 20. Heptagon: 7x4/2 = 14. 20 > 14.",
+      "trick": "Memorise the n(n-3)/2 diagonal formula; more sides always means more diagonals, so an octagon (8) beats a heptagon (7) without full computation."
+    },
+    {
+      "id": "quant-quadratic-qc-ds-v2-q025",
+      "group": "Part B — Quantity Comparison",
+      "context": "Compare Quantity 1 and Quantity 2 and choose the correct relation.",
+      "question": "Quantity 1: Time (in years) for a sum to double at 12.5% p.a. simple interest\nQuantity 2: 10",
+      "options": [
+        "Quantity 1 > Quantity 2",
+        "Quantity 1 < Quantity 2",
+        "Quantity 1 >= Quantity 2",
+        "Quantity 1 <= Quantity 2",
+        "Quantity 1 = Quantity 2, or the relation cannot be established"
+      ],
+      "correct": 1,
+      "solution": "Time to double at SI: interest must equal principal, so T = 100/rate = 100/12.5 = 8 years. Q2 = 10. 8 < 10.",
+      "trick": "Under SI, sum doubles in 100/R years, triples in 200/R years — memorise these shortcuts."
+    },
+    {
+      "id": "quant-quadratic-qc-ds-v2-q026",
+      "group": "Part B — Quantity Comparison",
+      "context": "Compare Quantity 1 and Quantity 2 and choose the correct relation.",
+      "question": "Quantity 1: Value of x where x/4 + x/6 = 10\nQuantity 2: 20",
+      "options": [
+        "Quantity 1 > Quantity 2",
+        "Quantity 1 < Quantity 2",
+        "Quantity 1 >= Quantity 2",
+        "Quantity 1 <= Quantity 2",
+        "Quantity 1 = Quantity 2, or the relation cannot be established"
+      ],
+      "correct": 0,
+      "solution": "x/4 + x/6 = 10 -> (3x + 2x)/12 = 10 -> 5x/12 = 10 -> x = 24. Q2 = 20. 24 > 20.",
+      "trick": "LCM of 4 and 6 is 12; combine to 5x/12 in one move, then x = 10 x 12/5 = 24."
+    },
+    {
+      "id": "quant-quadratic-qc-ds-v2-q027",
+      "group": "Part B — Quantity Comparison",
+      "context": "Compare Quantity 1 and Quantity 2 and choose the correct relation.",
+      "question": "A can complete a job in 12 days and B in 18 days.\nQuantity 1: Number of days A and B take working together\nQuantity 2: 8",
+      "options": [
+        "Quantity 1 > Quantity 2",
+        "Quantity 1 < Quantity 2",
+        "Quantity 1 >= Quantity 2",
+        "Quantity 1 <= Quantity 2",
+        "Quantity 1 = Quantity 2, or the relation cannot be established"
+      ],
+      "correct": 1,
+      "solution": "Together = 1/(1/12 + 1/18). 1/12 + 1/18 = (3 + 2)/36 = 5/36. Time = 36/5 = 7.2 days. Q2 = 8. 7.2 < 8.",
+      "trick": "Combined time = product/sum = (12x18)/(12+18) = 216/30 = 7.2 days. Faster than adding reciprocals."
+    },
+    {
+      "id": "quant-quadratic-qc-ds-v2-q028",
+      "group": "Part B — Quantity Comparison",
+      "context": "Compare Quantity 1 and Quantity 2 and choose the correct relation.",
+      "question": "Quantity 1: Value of x where x^2 - 5x + 6 = 0\nQuantity 2: 2.5",
+      "options": [
+        "Quantity 1 > Quantity 2",
+        "Quantity 1 < Quantity 2",
+        "Quantity 1 >= Quantity 2",
+        "Quantity 1 <= Quantity 2",
+        "Quantity 1 = Quantity 2, or the relation cannot be established"
+      ],
+      "correct": 4,
+      "solution": "x^2 - 5x + 6 = 0 -> (x-2)(x-3) = 0 -> x = 2 or 3. Q2 = 2.5. x = 2 < 2.5 but x = 3 > 2.5. No fixed relation.",
+      "trick": "When the compared number sits between the two roots, the quantity can be above or below it — answer is \"cannot be established\"."
+    },
+    {
+      "id": "quant-quadratic-qc-ds-v2-q029",
+      "group": "Part B — Quantity Comparison",
+      "context": "Compare Quantity 1 and Quantity 2 and choose the correct relation.",
+      "question": "Quantity 1: 3/8 of 640\nQuantity 2: 5/12 of 540",
+      "options": [
+        "Quantity 1 > Quantity 2",
+        "Quantity 1 < Quantity 2",
+        "Quantity 1 >= Quantity 2",
+        "Quantity 1 <= Quantity 2",
+        "Quantity 1 = Quantity 2, or the relation cannot be established"
+      ],
+      "correct": 0,
+      "solution": "Q1 = 3/8 of 640 = 240. Q2 = 5/12 of 540 = 225. 240 > 225.",
+      "trick": "640/8 = 80, x3 = 240; 540/12 = 45, x5 = 225. Divide first, then multiply — keeps numbers small."
+    },
+    {
+      "id": "quant-quadratic-qc-ds-v2-q030",
+      "group": "Part B — Quantity Comparison",
+      "context": "Compare Quantity 1 and Quantity 2 and choose the correct relation.",
+      "question": "Quantity 1: Value of x where 2x^2 = 32\nQuantity 2: -4",
+      "options": [
+        "Quantity 1 > Quantity 2",
+        "Quantity 1 < Quantity 2",
+        "Quantity 1 >= Quantity 2",
+        "Quantity 1 <= Quantity 2",
+        "Quantity 1 = Quantity 2, or the relation cannot be established"
+      ],
+      "correct": 2,
+      "solution": "2x^2 = 32 -> x^2 = 16 -> x = +4 or -4. Q2 = -4. When x = 4, greater; when x = -4, equal. So Q1 >= Q2.",
+      "trick": "Compared against the negative root itself, the quantity equals it in one case and exceeds it in the other — hence \">=\"."
+    },
+    {
+      "id": "quant-quadratic-qc-ds-v2-q031",
+      "group": "Part C — Data Sufficiency",
+      "context": "Each question has two statements, I and II. Decide which statement(s) are sufficient.",
+      "question": "What is the two-digit number?\nI. The sum of its digits is 9.\nII. The number is 4 times the sum of its digits.",
+      "options": [
+        "Statement I alone is sufficient, but statement II alone is not",
+        "Statement II alone is sufficient, but statement I alone is not",
+        "Each statement alone is sufficient",
+        "Both statements together are needed (neither alone is sufficient), and together they are sufficient",
+        "Even both statements together are not sufficient"
+      ],
+      "correct": 3,
+      "solution": "I alone: digit sum 9 gives 18, 27, 36, 45, ... — many numbers. Not sufficient.\nII alone: number = 4 x (digit sum). If number = 10t + u, then 10t + u = 4(t + u) -> 6t = 3u -> u = 2t, giving 12, 24, 36, 48 — many. Not sufficient.\nTogether: digit sum 9 and u = 2t -> t + 2t = 9 -> t = 3, u = 6 -> 36 (check: 3 + 6 = 9, and 4 x 9 = 36). Unique.",
+      "trick": "Translate \"number = k x digit sum\" into 10t + u = k(t + u) and simplify to a digit ratio; then overlay the second clue."
+    },
+    {
+      "id": "quant-quadratic-qc-ds-v2-q032",
+      "group": "Part C — Data Sufficiency",
+      "context": "Each question has two statements, I and II. Decide which statement(s) are sufficient.",
+      "question": "What is the speed of a train?\nI. It crosses a pole in 9 seconds.\nII. Its length is 180 m.",
+      "options": [
+        "Statement I alone is sufficient, but statement II alone is not",
+        "Statement II alone is sufficient, but statement I alone is not",
+        "Each statement alone is sufficient",
+        "Both statements together are needed (neither alone is sufficient), and together they are sufficient",
+        "Even both statements together are not sufficient"
+      ],
+      "correct": 3,
+      "solution": "I alone: time only, no length -> insufficient. II alone: length only, no time -> insufficient.\nTogether: speed = 180/9 = 20 m/s.",
+      "trick": "Crossing a pole means distance = train length. Speed needs both distance and time — one statement each supplies exactly one."
+    },
+    {
+      "id": "quant-quadratic-qc-ds-v2-q033",
+      "group": "Part C — Data Sufficiency",
+      "context": "Each question has two statements, I and II. Decide which statement(s) are sufficient.",
+      "question": "Is x > y?\nI. x = y + 3\nII. x^2 > y^2",
+      "options": [
+        "Statement I alone is sufficient, but statement II alone is not",
+        "Statement II alone is sufficient, but statement I alone is not",
+        "Each statement alone is sufficient",
+        "Both statements together are needed (neither alone is sufficient), and together they are sufficient",
+        "Even both statements together are not sufficient"
+      ],
+      "correct": 0,
+      "solution": "I alone: x = y + 3 means x is always 3 more than y, so x > y. Sufficient.\nII alone: x^2 > y^2 could mean x = 5, y = 3 (x > y) or x = -5, y = 3 (x < y). Not sufficient.",
+      "trick": "A squared inequality hides the sign — never enough to order the originals. A linear \"x = y + positive\" settles it instantly."
+    },
+    {
+      "id": "quant-quadratic-qc-ds-v2-q034",
+      "group": "Part C — Data Sufficiency",
+      "context": "Each question has two statements, I and II. Decide which statement(s) are sufficient.",
+      "question": "What is the present age of the father?\nI. The father's age is 4 times the son's age.\nII. After 8 years, the father's age will be twice the son's age.",
+      "options": [
+        "Statement I alone is sufficient, but statement II alone is not",
+        "Statement II alone is sufficient, but statement I alone is not",
+        "Each statement alone is sufficient",
+        "Both statements together are needed (neither alone is sufficient), and together they are sufficient",
+        "Even both statements together are not sufficient"
+      ],
+      "correct": 3,
+      "solution": "Let father = f, son = s. I alone: f = 4s — insufficient. II alone: f + 8 = 2(s + 8) -> f = 2s + 8 — insufficient.\nTogether: 4s = 2s + 8 -> s = 4, f = 16.",
+      "trick": "Age problems needing a unique value require as many independent equations as unknowns — two unknowns here demand both statements."
+    },
+    {
+      "id": "quant-quadratic-qc-ds-v2-q035",
+      "group": "Part C — Data Sufficiency",
+      "context": "Each question has two statements, I and II. Decide which statement(s) are sufficient.",
+      "question": "What is the cost of one pen?\nI. 5 pens cost Rs. 60.\nII. 8 pens cost Rs. 96.",
+      "options": [
+        "Statement I alone is sufficient, but statement II alone is not",
+        "Statement II alone is sufficient, but statement I alone is not",
+        "Each statement alone is sufficient",
+        "Both statements together are needed (neither alone is sufficient), and together they are sufficient",
+        "Even both statements together are not sufficient"
+      ],
+      "correct": 2,
+      "solution": "I alone: 60/5 = Rs. 12. II alone: 96/8 = Rs. 12. Each gives the unit price.",
+      "trick": "A single \"quantity costs total\" ratio fixes the unit rate — either such statement alone is enough."
+    },
+    {
+      "id": "quant-quadratic-qc-ds-v2-q036",
+      "group": "Part C — Data Sufficiency",
+      "context": "Each question has two statements, I and II. Decide which statement(s) are sufficient.",
+      "question": "What is the annual rate of simple interest?\nI. The principal is Rs. 4000.\nII. The simple interest on Rs. 4000 for 2 years is Rs. 640.",
+      "options": [
+        "Statement I alone is sufficient, but statement II alone is not",
+        "Statement II alone is sufficient, but statement I alone is not",
+        "Each statement alone is sufficient",
+        "Both statements together are needed (neither alone is sufficient), and together they are sufficient",
+        "Even both statements together are not sufficient"
+      ],
+      "correct": 1,
+      "solution": "I alone: only the principal, no interest or time -> insufficient.\nII alone: rate = (SI x 100)/(P x T) = (640 x 100)/(4000 x 2) = 8%. Sufficient (principal, interest, and time are all inside statement II).",
+      "trick": "Rate needs SI, principal and time together; statement II already carries all three, while statement I carries only one."
+    },
+    {
+      "id": "quant-quadratic-qc-ds-v2-q037",
+      "group": "Part C — Data Sufficiency",
+      "context": "Each question has two statements, I and II. Decide which statement(s) are sufficient.",
+      "question": "Is the integer n even?\nI. n^2 is even.\nII. n + 1 is odd.",
+      "options": [
+        "Statement I alone is sufficient, but statement II alone is not",
+        "Statement II alone is sufficient, but statement I alone is not",
+        "Each statement alone is sufficient",
+        "Both statements together are needed (neither alone is sufficient), and together they are sufficient",
+        "Even both statements together are not sufficient"
+      ],
+      "correct": 2,
+      "solution": "I alone: n^2 even -> n even. Sufficient. II alone: n + 1 odd -> n even. Sufficient.",
+      "trick": "Parity facts are self-contained: \"square is even\" and \"successor is odd\" each force n even on their own."
+    },
+    {
+      "id": "quant-quadratic-qc-ds-v2-q038",
+      "group": "Part C — Data Sufficiency",
+      "context": "Each question has two statements, I and II. Decide which statement(s) are sufficient.",
+      "question": "What is the two-digit number?\nI. The sum of its digits is 8.\nII. The difference of its digits is 2.",
+      "options": [
+        "Statement I alone is sufficient, but statement II alone is not",
+        "Statement II alone is sufficient, but statement I alone is not",
+        "Each statement alone is sufficient",
+        "Both statements together are needed (neither alone is sufficient), and together they are sufficient",
+        "Even both statements together are not sufficient"
+      ],
+      "correct": 4,
+      "solution": "Digits sum 8 and differ by 2 -> digits are 5 and 3, giving 53 or 35. Two possibilities, so not unique even together.",
+      "trick": "Sum-and-difference of digits fixes the digit pair but not their order — a two-digit number can still be either arrangement."
+    },
+    {
+      "id": "quant-quadratic-qc-ds-v2-q039",
+      "group": "Part C — Data Sufficiency",
+      "context": "Each question has two statements, I and II. Decide which statement(s) are sufficient.",
+      "question": "What is the average of five numbers?\nI. The sum of the five numbers is 250.\nII. The largest of the five numbers is 80.",
+      "options": [
+        "Statement I alone is sufficient, but statement II alone is not",
+        "Statement II alone is sufficient, but statement I alone is not",
+        "Each statement alone is sufficient",
+        "Both statements together are needed (neither alone is sufficient), and together they are sufficient",
+        "Even both statements together are not sufficient"
+      ],
+      "correct": 0,
+      "solution": "I alone: average = 250/5 = 50. Sufficient. II alone: largest value alone tells nothing about the mean.",
+      "trick": "Average depends only on the total and the count; once the sum is given, extra facts (like the largest) are irrelevant."
+    },
+    {
+      "id": "quant-quadratic-qc-ds-v2-q040",
+      "group": "Part C — Data Sufficiency",
+      "context": "Each question has two statements, I and II. Decide which statement(s) are sufficient.",
+      "question": "What is the two-digit number?\nI. It is a prime number between 10 and 20.\nII. The sum of its digits is 8.",
+      "options": [
+        "Statement I alone is sufficient, but statement II alone is not",
+        "Statement II alone is sufficient, but statement I alone is not",
+        "Each statement alone is sufficient",
+        "Both statements together are needed (neither alone is sufficient), and together they are sufficient",
+        "Even both statements together are not sufficient"
+      ],
+      "correct": 3,
+      "solution": "I alone: primes 11, 13, 17, 19 — four options. II alone: digit sum 8 gives 17, 26, 35, 44, ... — many.\nTogether: prime between 10 and 20 with digit sum 8 -> 17 only (1 + 7 = 8).",
+      "trick": "List the small candidate set from the tighter clue (four primes) and screen with the second clue (digit sum) to land on one."
+    }
+  ]
+}

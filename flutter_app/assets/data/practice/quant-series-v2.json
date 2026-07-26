@@ -1,0 +1,328 @@
+{
+  "title": "Number Series — Practice (Vol. 2)",
+  "section": "quant",
+  "kind": "quiz",
+  "source": "quant-series-v2.md",
+  "questions": [
+    {
+      "id": "quant-series-v2-q001",
+      "group": "Missing-term",
+      "question": "3, 7, 15, 31, 63, ?",
+      "answerText": "127",
+      "solution": "Pattern ×2 + 1 each step (63×2+1).",
+      "trick": "ratios ≈2, and each term = one less than a power of 2 (2^n − 1): 3,7,15,31,63,127 → 2²−1 … 2⁷−1."
+    },
+    {
+      "id": "quant-series-v2-q002",
+      "group": "Missing-term",
+      "question": "5, 9, 17, 33, 65, ?",
+      "answerText": "129",
+      "solution": "Pattern ×2 − 1 (65×2−1).",
+      "trick": "each term = 2^n + 1: 5,9,17,33,65,129 → 2²+1 … 2⁷+1. Compare with Q1 to keep ±1 straight."
+    },
+    {
+      "id": "quant-series-v2-q003",
+      "group": "Missing-term",
+      "question": "4, 6, 10, 16, 24, ?",
+      "answerText": "34",
+      "solution": "Growing difference.",
+      "trick": "difference row 2, 4, 6, 8, **10** (even numbers). 24+10 = 34."
+    },
+    {
+      "id": "quant-series-v2-q004",
+      "group": "Missing-term",
+      "question": "2, 3, 7, 16, 32, ?",
+      "answerText": "57",
+      "solution": "Differences are perfect squares.",
+      "trick": "difference row 1, 4, 9, 16, **25** (1²…5²). 32+25 = 57."
+    },
+    {
+      "id": "quant-series-v2-q005",
+      "group": "Missing-term",
+      "question": "3, 6, 11, 18, 27, ?",
+      "answerText": "38",
+      "solution": "Squares + 2 (n² + 2).",
+      "trick": "subtract 2 → 1, 4, 9, 16, 25, **36**; roots 1,2,3,4,5,**6**. So 36+2 = 38."
+    },
+    {
+      "id": "quant-series-v2-q006",
+      "group": "Missing-term",
+      "question": "2, 9, 28, 65, 126, ?",
+      "answerText": "217",
+      "solution": "Cubes + 1 (n³ + 1).",
+      "trick": "subtract 1 → 1, 8, 27, 64, 125, **216**; cube roots 1…**6**. 216+1 = 217."
+    },
+    {
+      "id": "quant-series-v2-q007",
+      "group": "Missing-term",
+      "question": "4, 9, 25, 49, 121, ?",
+      "answerText": "169",
+      "solution": "Squares of primes.",
+      "trick": "roots are primes 2, 3, 5, 7, 11, **13**; 13² = 169. (Note 1 and non-primes 4,6,8,9,10,12 are skipped.)"
+    },
+    {
+      "id": "quant-series-v2-q008",
+      "group": "Missing-term",
+      "question": "1, 2, 6, 24, 120, ?",
+      "answerText": "720",
+      "solution": "Growing multiplier ×2, ×3, ×4, ×5, **×6** (factorials).",
+      "trick": "ratio row 2, 3, 4, 5, **6**. 120×6 = 720."
+    },
+    {
+      "id": "quant-series-v2-q009",
+      "group": "Missing-term",
+      "question": "3, 7, 16, 35, 74, ?",
+      "answerText": "153",
+      "solution": "Growing-multiplier ×2 with rising add: ×2+1, ×2+2, ×2+3, ×2+4, **×2+5**.",
+      "trick": "74×2 = 148, +5 = 153. Check add row 1,2,3,4,**5**."
+    },
+    {
+      "id": "quant-series-v2-q010",
+      "group": "Missing-term",
+      "question": "1, 4, 2, 8, 3, 12, 4, ?",
+      "answerText": "16",
+      "solution": "Alternating/interleaved.",
+      "trick": "split into two series — positions 1,3,5,7 give 1, 2, 3, **4**; positions 2,4,6,8 give 4, 8, 12, **16** (×4 table). The `?` sits in the 2nd series → 16."
+    },
+    {
+      "id": "quant-series-v2-q011",
+      "group": "Missing-term",
+      "question": "3, 5, 8, 13, 21, ?",
+      "answerText": "34",
+      "solution": "Fibonacci-like (each = sum of previous two).",
+      "trick": "13+21 = 34. Verify backward: 8+13 = 21, 5+8 = 13."
+    },
+    {
+      "id": "quant-series-v2-q012",
+      "group": "Missing-term",
+      "question": "4, 7, 11, 18, 29, ?",
+      "answerText": "47",
+      "solution": "Fibonacci-like.",
+      "trick": "18+29 = 47. Backward check: 11+18 = 29, 7+11 = 18."
+    },
+    {
+      "id": "quant-series-v2-q013",
+      "group": "Missing-term",
+      "question": "320, 160, 80, 40, 20, ?",
+      "answerText": "10",
+      "solution": "Simple halving (÷2).",
+      "trick": "ratio row is constant ½ → 320,160,80,40,20,**10**."
+    },
+    {
+      "id": "quant-series-v2-q014",
+      "group": "Missing-term",
+      "question": "5, 6, 9, 18, 45, ?",
+      "answerText": "126",
+      "solution": "Difference grows ×3.",
+      "trick": "difference row 1, 3, 9, 27, **81** (powers of 3). 45+81 = 126."
+    },
+    {
+      "id": "quant-series-v2-q015",
+      "group": "Missing-term",
+      "question": "3, 8, 15, 24, 35, ?",
+      "answerText": "48",
+      "solution": "n² − 1.",
+      "trick": "add 1 → 4, 9, 16, 25, 36, **49**; roots 2,3,4,5,6,**7**. So 49−1 = 48. (Difference row also gives odd numbers 5,7,9,11,**13**.)"
+    },
+    {
+      "id": "quant-series-v2-q016",
+      "group": "Missing-term",
+      "question": "3, 4, 8, 9, 18, 19, ?",
+      "answerText": "38",
+      "solution": "Alternating +1, ×2.",
+      "trick": "pattern +1, ×2, +1, ×2, +1, **×2**. Last op is ×2 → 19×2 = 38."
+    },
+    {
+      "id": "quant-series-v2-q017",
+      "group": "Missing-term",
+      "question": "1, 8, 27, 64, 125, ?",
+      "answerText": "216",
+      "solution": "Perfect cubes.",
+      "trick": "cube roots 1, 2, 3, 4, 5, **6**; 6³ = 216."
+    },
+    {
+      "id": "quant-series-v2-q018",
+      "group": "Missing-term",
+      "question": "6, 24, 60, 120, 210, ?",
+      "answerText": "336",
+      "solution": "n³ − n.",
+      "trick": "2³−2=6, 3³−3=24 … 7³−7 = 343−7 = 336. Equivalent to (n−1)·n·(n+1): 6·7·8 = 336."
+    },
+    {
+      "id": "quant-series-v2-q019",
+      "group": "Missing-term",
+      "question": "3, 7, 19, 55, 163, ?",
+      "answerText": "487",
+      "solution": "×3 − 2.",
+      "trick": "163×3 = 489, −2 = 487. Ratio ≈3 each step confirms the multiplier."
+    },
+    {
+      "id": "quant-series-v2-q020",
+      "group": "Missing-term",
+      "question": "32, 48, 72, 108, 162, ?",
+      "answerText": "243",
+      "solution": "×1.5 each step (×3/2).",
+      "trick": "ratio row constant 1.5 → 162×1.5 = 243. Cross-check: 243 = 3⁵."
+    },
+    {
+      "id": "quant-series-v2-q021",
+      "group": "Missing-term",
+      "question": "2, 5, 10, 17, 26, ?",
+      "answerText": "37",
+      "solution": "n² + 1.",
+      "trick": "subtract 1 → 1, 4, 9, 16, 25, **36**; roots 1…**6**. 36+1 = 37. (Difference row odd: 3,5,7,9,**11**.)"
+    },
+    {
+      "id": "quant-series-v2-q022",
+      "group": "Missing-term",
+      "question": "2, 3, 5, 7, 11, 13, ?",
+      "answerText": "17",
+      "solution": "Consecutive prime numbers.",
+      "trick": "after 13 the next prime is 17 (14,15,16 composite)."
+    },
+    {
+      "id": "quant-series-v2-q023",
+      "group": "Missing-term",
+      "question": "5, 5, 10, 30, 120, ?",
+      "answerText": "600",
+      "solution": "Growing multiplier ×1, ×2, ×3, ×4, **×5**.",
+      "trick": "ratio row 1, 2, 3, 4, **5**. 120×5 = 600."
+    },
+    {
+      "id": "quant-series-v2-q024",
+      "group": "Missing-term",
+      "question": "100, 99, 95, 86, 70, ?",
+      "answerText": "45",
+      "solution": "Decreasing by squares.",
+      "trick": "difference row −1, −4, −9, −16, **−25** (subtract 1²…5²). 70−25 = 45."
+    },
+    {
+      "id": "quant-series-v2-q025",
+      "group": "Missing-term",
+      "question": "3, 8, 18, 38, 78, ?",
+      "answerText": "158",
+      "solution": "×2 + 2.",
+      "trick": "78×2 = 156, +2 = 158. Check: each term = 2×prev + 2."
+    },
+    {
+      "id": "quant-series-v2-q026",
+      "group": "Wrong-number",
+      "question": "Find the wrong number: 2, 5, 10, 17, 25, 37, 50",
+      "answerText": "25 → 26",
+      "solution": "Series is n² + 1 (2,5,10,17,**26**,37,50).",
+      "trick": "subtract 1 from each → should be perfect squares 1,4,9,16,**24?**→ 24 isn't a square; 26−1 = 25 = 5². The printed 25 gives 24, breaking the square pattern. Correct term 26."
+    },
+    {
+      "id": "quant-series-v2-q027",
+      "group": "Wrong-number",
+      "question": "Find the wrong number: 3, 7, 15, 31, 64, 127",
+      "answerText": "64 → 63",
+      "solution": "Series is ×2 + 1 (…31,**63**,127).",
+      "trick": "each true term = 2^n − 1; 64 = 2⁶ (a power of 2, not one-less). Also 63×2+1 = 127 fits; 64×2+1 = 129 ≠ 127. Correct 63."
+    },
+    {
+      "id": "quant-series-v2-q028",
+      "group": "Wrong-number",
+      "question": "Find the wrong number: 1, 8, 27, 64, 124, 216",
+      "answerText": "124 → 125",
+      "solution": "Perfect cubes.",
+      "trick": "cube-root check — 124 has no integer root; the slot is 5³ = 125. Correct 125."
+    },
+    {
+      "id": "quant-series-v2-q029",
+      "group": "Wrong-number",
+      "question": "Find the wrong number: 4, 9, 25, 48, 121, 169",
+      "answerText": "48 → 49",
+      "solution": "Prime squares (2²,3²,5²,7²,11²,13²).",
+      "trick": "√48 ≈ 6.9 (not whole); the 7² slot must be 49. Correct 49."
+    },
+    {
+      "id": "quant-series-v2-q030",
+      "group": "Wrong-number",
+      "question": "Find the wrong number: 1, 2, 6, 24, 120, 600",
+      "answerText": "600 → 720",
+      "solution": "Growing multiplier ×2,×3,×4,×5,**×6**.",
+      "trick": "ratio row 2,3,4,5,**6**; 120×6 = 720, but 600 = 120×5 uses the wrong multiplier. Correct 720."
+    },
+    {
+      "id": "quant-series-v2-q031",
+      "group": "Wrong-number",
+      "question": "Find the wrong number: 2, 3, 7, 16, 32, 58",
+      "answerText": "58 → 57",
+      "solution": "Differences are squares.",
+      "trick": "difference row should be 1,4,9,16,**25**; 32→58 is +26 (not a square). 32+25 = 57. Correct 57."
+    },
+    {
+      "id": "quant-series-v2-q032",
+      "group": "Wrong-number",
+      "question": "Find the wrong number: 4, 7, 11, 18, 30, 47",
+      "answerText": "30 → 29",
+      "solution": "Fibonacci-like (each = sum of previous two).",
+      "trick": "11+18 = 29, not 30. (18+29 = 47 confirms the rest.) Correct 29."
+    },
+    {
+      "id": "quant-series-v2-q033",
+      "group": "Wrong-number",
+      "question": "Find the wrong number: 3, 7, 19, 55, 161, 487",
+      "answerText": "161 → 163",
+      "solution": "×3 − 2.",
+      "trick": "55×3−2 = 163, not 161. Also 163×3−2 = 487 fits. Correct 163."
+    },
+    {
+      "id": "quant-series-v2-q034",
+      "group": "Wrong-number",
+      "question": "Find the wrong number: 6, 24, 60, 120, 210, 338",
+      "answerText": "338 → 336",
+      "solution": "n³ − n (= (n−1)n(n+1)).",
+      "trick": "6·7·8 = 336; 338 is +2 off. Correct 336."
+    },
+    {
+      "id": "quant-series-v2-q035",
+      "group": "Wrong-number",
+      "question": "Find the wrong number: 5, 6, 9, 18, 44, 126",
+      "answerText": "44 → 45",
+      "solution": "Difference grows ×3.",
+      "trick": "difference row 1,3,9,27,**81**; 18→45 needs +27, and 45+81 = 126 fits. Printed 44 gives +26 (breaks ×3). Correct 45."
+    },
+    {
+      "id": "quant-series-v2-q036",
+      "group": "Wrong-number",
+      "question": "Find the wrong number: 32, 48, 72, 110, 162, 243",
+      "answerText": "110 → 108",
+      "solution": "×1.5 each step.",
+      "trick": "ratio row must stay 1.5; 72×1.5 = 108, and 108×1.5 = 162 fits. 110 breaks the constant ratio. Correct 108."
+    },
+    {
+      "id": "quant-series-v2-q037",
+      "group": "Wrong-number",
+      "question": "Find the wrong number: 3, 4, 8, 9, 18, 20, 38",
+      "answerText": "20 → 19",
+      "solution": "Alternating +1, ×2.",
+      "trick": "18+1 = 19 (the \"+1\" step), then 19×2 = 38. 20 breaks the +1. Correct 19."
+    },
+    {
+      "id": "quant-series-v2-q038",
+      "group": "Wrong-number",
+      "question": "Find the wrong number: 3, 8, 15, 24, 34, 48",
+      "answerText": "34 → 35",
+      "solution": "n² − 1.",
+      "trick": "add 1 to each → perfect squares; 34+1 = 35 (not a square) but the 6²−1 slot = 35. Difference row should be odd 5,7,9,11,**13**; 24→34 is +10 (even). Correct 35."
+    },
+    {
+      "id": "quant-series-v2-q039",
+      "group": "Wrong-number",
+      "question": "Find the wrong number: 5, 9, 17, 34, 65, 129",
+      "answerText": "34 → 33",
+      "solution": "×2 − 1.",
+      "trick": "17×2−1 = 33, and 33×2−1 = 65 fits; 34 breaks it (34×2−1 = 67 ≠ 65). Correct 33."
+    },
+    {
+      "id": "quant-series-v2-q040",
+      "group": "Wrong-number",
+      "question": "Find the wrong number: 3, 7, 16, 35, 72, 153",
+      "answerText": "72 → 74",
+      "solution": "Growing-multiplier ×2+1, ×2+2, ×2+3, **×2+4**, ×2+5.",
+      "trick": "35×2+4 = 74, then 74×2+5 = 153 fits. 72 = 35×2+2 uses the wrong add. Correct 74."
+    }
+  ]
+}

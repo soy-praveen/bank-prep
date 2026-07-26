@@ -1,0 +1,421 @@
+{
+  "title": "Reasoning Trap-Busters — Practice",
+  "section": "reasoning",
+  "kind": "quiz",
+  "source": "reasoning-trap-busters.md",
+  "questions": [
+    {
+      "id": "reasoning-trap-busters-q001",
+      "group": "Syllogisms",
+      "question": "Statements: Some pens are books. No book is a pencil.\nConclusions: I. Some pens are not pencils. II. Some pens are pencils.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Either I or II follows",
+        "Neither follows",
+        "Both follow"
+      ],
+      "correct": 0,
+      "solution": "Method: \"Some pens are books\" + \"No book is a pencil\" → the pens that are books cannot be pencils → **Some pens are not pencils** (I, definite). II is not forced.\nCommon wrong: **(c) Either I or II** — people see two conclusions both dealing with pens/pencils and reflexively pick \"either/or.\"",
+      "trick": "The only complementary (contradictory) pairs are *Some–No* and *All–Some not*. \"Some pens are not pencils\" (I) and \"Some pens are pencils\" (II) are *Some not / Some* — NOT a pair, both can be true together. Since I is definitely established, the answer is simply Only I. Decide by definiteness first; test either/or only when neither is definite."
+    },
+    {
+      "id": "reasoning-trap-busters-q002",
+      "group": "Syllogisms",
+      "question": "Statements: Some apples are red. Some red are sweet.\nConclusions: I. Some apples are sweet. II. No apple is sweet.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Either I or II follows",
+        "Neither follows",
+        "Both follow"
+      ],
+      "correct": 2,
+      "solution": "Method: Two particular premises, middle term \"red\" undistributed → nothing definite. I (\"Some apples are sweet\", type I) and II (\"No apple is sweet\", type E) form a *Some–No* complementary pair, exhausting all cases → Either I or II.\nCommon wrong: **(d) Neither** — you correctly see neither is definite and stop there.",
+      "trick": "When neither conclusion is individually definite, run the complementary-pair test. *Some X are Y* / *No X are Y* covers every possibility → it's Either/Or, never Neither."
+    },
+    {
+      "id": "reasoning-trap-busters-q003",
+      "group": "Syllogisms",
+      "question": "Statements: No stone is water. All water is liquid.\nConclusions: I. Some liquid is not stone. II. No stone is liquid.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Either I or II follows",
+        "Neither follows",
+        "Both follow"
+      ],
+      "correct": 0,
+      "solution": "Method: Water is not stone (from \"No stone is water\") and water is liquid → **Some liquid is not stone** (I, definite). II \"No stone is liquid\" is not forced — stone could still be some other liquid.\nCommon wrong: **(c) Either I or II** — it looks like a stone/liquid pair.",
+      "trick": "\"Some liquid is not stone\" (type O) is complementary to \"**All** liquid is stone,\" NOT to \"No stone is liquid.\" They aren't a pair, and I already follows, so it's Only I."
+    },
+    {
+      "id": "reasoning-trap-busters-q004",
+      "group": "Syllogisms",
+      "question": "Statements: All A are B. No B is C.\nConclusion: Some A are C is a possibility.\n(a) Follows (b) Does not follow",
+      "answerText": "Does not follow",
+      "solution": "Method: All A are B and No B is C → **No A is C** is definitely forced. So \"Some A are C\" is impossible.\nCommon wrong: **(a) Follows** — \"it's only a *possibility*, so surely it could happen.\"",
+      "trick": "Check definiteness FIRST. A possibility conclusion fails the moment its contrary is a *definite* conclusion. Here \"No A is C\" is locked in, so the possibility is dead."
+    },
+    {
+      "id": "reasoning-trap-busters-q005",
+      "group": "Syllogisms",
+      "question": "Statement: All roses are flowers.\nConclusions: I. Some flowers are roses. II. All flowers are roses.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Either I or II follows",
+        "Neither follows",
+        "Both follow"
+      ],
+      "correct": 0,
+      "solution": "Method: All roses are flowers → by valid conversion, **Some flowers are roses** (I). \"All flowers are roses\" is not implied.\nCommon wrong: **(d) Neither** — \"the statement is about roses, it says nothing about flowers.\"",
+      "trick": "All A are B always yields **Some B are A**. The All→Some conversion is free; never say \"nothing about B.\""
+    },
+    {
+      "id": "reasoning-trap-busters-q006",
+      "group": "Syllogisms",
+      "question": "Statements: All cups are plates. All plates are dishes.\nConclusions: I. All cups are dishes. II. Some dishes are cups.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Either I or II follows",
+        "Neither follows",
+        "Both follow"
+      ],
+      "correct": 4,
+      "solution": "Method: cups ⊆ plates ⊆ dishes → All cups are dishes (I). That gives Some cups are dishes → convert → **Some dishes are cups** (II).\nCommon wrong: **(a) Only I** — you get the universal and forget the conversion.",
+      "trick": "After deriving \"All cups are dishes,\" immediately also claim \"Some dishes are cups.\" Every A→B universal carries a Some-B-are-A with it."
+    },
+    {
+      "id": "reasoning-trap-busters-q007",
+      "group": "Syllogisms",
+      "question": "Statements: Some pens are inks. All inks are blue.\nConclusion: All pens being blue is a possibility.\n(a) Follows (b) Does not follow",
+      "answerText": "Follows",
+      "solution": "Method: The pens that are inks are blue; the remaining pens are unrestricted and *may* all be blue. No premise blocks it → \"All pens are blue\" is a valid possibility.\nCommon wrong: **(b) Does not follow** — \"only *some* pens are inks, so 'all' is impossible.\"",
+      "trick": "For a possibility conclusion, look for a *blocking definite* conclusion. There is none here (nothing says any pen is non-blue), so the possibility stands."
+    },
+    {
+      "id": "reasoning-trap-busters-q008",
+      "group": "Syllogisms",
+      "question": "Statements: All keys are locks. Some locks are doors. No door is a window.\nConclusions: I. Some locks are windows. II. Some locks are not windows.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Either I or II follows",
+        "Neither follows",
+        "Both follow"
+      ],
+      "correct": 1,
+      "solution": "Method: Some locks are doors, and no door is a window → those locks are not windows → **Some locks are not windows** (II, definite). I is not forced.\nCommon wrong: **(c) Either I or II** — two conclusions about locks/windows tempt the either/or reflex.",
+      "trick": "\"Some locks are windows\" (I) and \"Some locks are not windows\" (II) are *Some / Some-not* — NOT complementary. II is already definite → Only II."
+    },
+    {
+      "id": "reasoning-trap-busters-q009",
+      "group": "Inequalities",
+      "question": "Statement: P > Q < R > S.\nConclusions: I. P > R. II. P < R.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Either I or II follows",
+        "Neither follows",
+        "Both follow"
+      ],
+      "correct": 3,
+      "solution": "Method: P > Q < R — the inequality direction **breaks** at Q, so there is no definite relation between P and R.\nCommon wrong: **(c) Either I or II.**",
+      "trick": "For an inequality Either/Or, the two conclusions must together cover **>, =, and <**. Here I (P>R) and II (P<R) leave out **P = R**, so they aren't complementary → Neither."
+    },
+    {
+      "id": "reasoning-trap-busters-q010",
+      "group": "Inequalities",
+      "question": "Statement: A ≥ B = C.\nConclusions: I. A > C. II. A = C.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Either I or II follows",
+        "Neither follows",
+        "Both follow"
+      ],
+      "correct": 2,
+      "solution": "Method: A ≥ B = C → A ≥ C, i.e. A > C **or** A = C, with nothing to decide which.\nCommon wrong: **(d) Neither.**",
+      "trick": "A \"≥\" with no strict info splits *exactly* into \">\" or \"=\" → the textbook Either/Or. (Same logic for ≤ → \"<\" or \"=\".)"
+    },
+    {
+      "id": "reasoning-trap-busters-q011",
+      "group": "Inequalities",
+      "question": "Statement: X < Y ≤ Z = W.\nConclusions: I. W > X. II. W ≥ Y.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Either I or II follows",
+        "Neither follows",
+        "Both follow"
+      ],
+      "correct": 4,
+      "solution": "Method: X < Y ≤ Z = W. Substitute W = Z: then W ≥ Y (II) and W = Z ≥ Y > X → **W > X** (I).\nCommon wrong: **(a) Only I** — the \"≤\" scares people off concluding W ≥ Y.",
+      "trick": "Replace the equal term (W = Z) and re-read the chain; W inherits everything Z had, including Z ≥ Y."
+    },
+    {
+      "id": "reasoning-trap-busters-q012",
+      "group": "Inequalities",
+      "question": "Statement: A > B ≥ C, C = D, D ≥ E.\nConclusions: I. A > E. II. B > E.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Either I or II follows",
+        "Neither follows",
+        "Both follow"
+      ],
+      "correct": 0,
+      "solution": "Method: A > B ≥ C = D ≥ E. The single strict \">\" (A > B) carries all the way → **A > E** (I). But B ≥ C = D ≥ E is all \"≥/=\", so only B ≥ E — \"B > E\" is not guaranteed (they could be equal).\nCommon wrong: **(e) Both follow** — assuming B > E.",
+      "trick": "A conclusion of \">\" needs at least one strict \">\" somewhere on the path between the two terms. From B to E every link is ≥ or =, so you only earn \"≥\"."
+    },
+    {
+      "id": "reasoning-trap-busters-q013",
+      "group": "Inequalities",
+      "context": "Symbols: `A#B` = A≥B, `A©B` = A≤B, `A&B` = A>B, `A*B` = A<B, `A$B` = A=B.",
+      "question": "Statement: P & Q $ R © S.\nConclusions: I. P & S. II. P © S.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Either I or II follows",
+        "Neither follows",
+        "Both follow"
+      ],
+      "correct": 2,
+      "solution": "Method: Decode P & Q $ R © S → P > Q = R ≤ S. Between P and S the direction breaks (> then ≤) → no definite relation. Conclusions I (P > S) and II (P ≤ S) cover every case.\nCommon wrong: **(d) Neither** — \"direction breaks, so no relation, so neither.\"",
+      "trick": "A direction break only kills a *definite* relation. If the two conclusions are complementary — here P > S and P ≤ S (and \"≤\" absorbs both \"=\" and \"<\") — the answer is Either/Or, not Neither."
+    },
+    {
+      "id": "reasoning-trap-busters-q014",
+      "group": "Inequalities",
+      "context": "Symbols: `A#B` = A≥B, `A©B` = A≤B, `A&B` = A>B, `A*B` = A<B, `A$B` = A=B.",
+      "question": "Statement: A # B & C # D.\nConclusions: I. A & D. II. A # D.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Either I or II follows",
+        "Neither follows",
+        "Both follow"
+      ],
+      "correct": 4,
+      "solution": "Method: Decode A # B & C # D → A ≥ B > C ≥ D. The strict \"B > C\" gives **A > D** (I). And A > D automatically means **A ≥ D** (II).\nCommon wrong: **(a) Only I** — thinking \"A ≥ D\" is false because the real relation is the stronger A > D.",
+      "trick": "If A > D is true, the weaker A ≥ D is also true. A strict inequality never invalidates the corresponding non-strict one."
+    },
+    {
+      "id": "reasoning-trap-busters-q015",
+      "group": "Inequalities",
+      "question": "Statement: L > M < N = O.\nConclusions: I. L > O. II. L = O.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Either I or II follows",
+        "Neither follows",
+        "Both follow"
+      ],
+      "correct": 3,
+      "solution": "Method: L > M < N = O — direction breaks at M → no relation between L and O.\nCommon wrong: **(c) Either I or II.**",
+      "trick": "I (L > O) and II (L = O) miss the case **L < O**, so they don't exhaust the possibilities → Neither. (Either/Or would need \"L > O\" paired with \"L ≤ O\".)"
+    },
+    {
+      "id": "reasoning-trap-busters-q016",
+      "group": "Seating & Arrangement",
+      "question": "Eight persons sit in a row facing north, seats numbered 1 (leftmost) to 8. R is fourth to the right of N, and N is at seat 2. How many persons sit between N and R?\n(a) 2 (b) 3 (c) 4 (d) 5",
+      "answerText": "3",
+      "solution": "Method: N at seat 2, fourth to the right → seat 6. Persons strictly between = seats 3, 4, 5 = 3.\nCommon wrong: **(c) 4** — counting the gap as equal to \"fourth.\"",
+      "trick": "\"Nth to the right/left\" lands N seats away; the number strictly *between* is **N − 1**."
+    },
+    {
+      "id": "reasoning-trap-busters-q017",
+      "group": "Seating & Arrangement",
+      "question": "In a row of 8 people, A is 3rd from the left end and B is 2nd from the right end. How many people sit between A and B?\n(a) 2 (b) 3 (c) 4 (d) 5",
+      "answerText": "3",
+      "solution": "Method: Convert both to the same reference. B, 2nd from the right in a row of 8 = 8 − 2 + 1 = 7th from left. A is 3rd from left. Between = 7 − 3 − 1 = 3.\nCommon wrong: **(c) 4** — doing 7 − 3, or mis-converting B's position.",
+      "trick": "Bring both ends to one reference (from-left), then \"between = big − small − 1.\""
+    },
+    {
+      "id": "reasoning-trap-busters-q018",
+      "group": "Seating & Arrangement",
+      "question": "Seven people sit in a row all facing **south**. The row is drawn west-to-east (left-to-right on paper). K is third to the right of L. On paper, is K to L's west (left) or east (right)?",
+      "answerText": "K is to L's west (left on paper)",
+      "solution": "Method: Facing **south**, a person's right hand points **west**. \"Third to the right of L\" is 3 seats west of L, i.e. 3 seats to the **left** on a west-to-east diagram.\nCommon wrong: placing K to the **east/right** — treating it like a north-facing row.",
+      "trick": "Facing south flips left/right: right hand → west, left hand → east. Only for a *north*-facing row does \"to the right\" mean page-right/east."
+    },
+    {
+      "id": "reasoning-trap-busters-q019",
+      "group": "Seating & Arrangement",
+      "question": "Eight people sit around a circle facing the **centre**. G is to the immediate right of H. Moving **clockwise**, does one go from H toward G or away from G?",
+      "answerText": "Clockwise moves AWAY from G; G is anticlockwise from H",
+      "solution": "Method: Facing the **centre**, the right hand points **anticlockwise**. So G (H's immediate right) is anticlockwise from H. Going clockwise from H therefore moves toward H's *left*, away from G.\nCommon wrong: \"G is clockwise from H.\"",
+      "trick": "Facing centre → **right = anticlockwise, left = clockwise**. (Facing *outward* reverses both.)"
+    },
+    {
+      "id": "reasoning-trap-busters-q020",
+      "group": "Seating & Arrangement",
+      "question": "Ten people sit evenly around a circle facing the centre. P is 4th to the left of Q. How many people sit between P and Q along Q's left arc?\n(a) 3 (b) 4 (c) 5 (d) 6",
+      "answerText": "3",
+      "solution": "Method: \"4th to the left of Q\" → 4 seats along Q's left → 3 seats strictly between.\nCommon wrong: **(b) 4.**",
+      "trick": "The N−1 rule holds on circles too: Nth position ⇒ N−1 people in between."
+    },
+    {
+      "id": "reasoning-trap-busters-q021",
+      "group": "Seating & Arrangement",
+      "question": "In a row, C is 5th from the left and 4th from the right. How many people are in the row?\n(a) 8 (b) 9 (c) 10 (d) 7",
+      "answerText": "8",
+      "solution": "Method: Total = left-position + right-position − 1 = 5 + 4 − 1 = 8.\nCommon wrong: **(b) 9** — simply adding 5 + 4.",
+      "trick": "C is counted once from each end, so subtract the double-count: total = sum of the two positions − 1."
+    },
+    {
+      "id": "reasoning-trap-busters-q022",
+      "group": "Seating & Arrangement",
+      "question": "Six friends sit around a circular table facing the **centre**. M is second to the right of N. If we list the seats **clockwise** starting from N (N, then c1, c2, c3, c4, c5), which seat is M?",
+      "answerText": "M is seat c4 (i.e., 2 seats anticlockwise from N)",
+      "solution": "Method: Facing centre, right = anticlockwise, so \"second to the right of N\" = 2 steps anticlockwise. On a 6-seat clockwise list N, c1…c5, two steps anticlockwise from N = −2 ≡ position 4 → **c4**.\nCommon wrong: placing M at **c2** (2 steps clockwise).",
+      "trick": "Convert \"right/left\" to clockwise/anticlockwise *before* plotting on a diagram whose numbering runs the other way. Facing centre: right = anticlockwise."
+    },
+    {
+      "id": "reasoning-trap-busters-q023",
+      "group": "Directions",
+      "question": "A is to the North of B. C is to the East of B. In which direction is A with respect to C?",
+      "answerText": "North-West",
+      "solution": "Method: B at origin; A = (0, +1) (north), C = (+1, 0) (east). A relative to C = (0−1, +1−0) = (−1, +1) → left and up → **North-West**.\nCommon wrong: **North** — reading A's direction from B, not from C.",
+      "trick": "\"With respect to C\" means re-anchor to C as the origin. A sits above and to the left of C → NW."
+    },
+    {
+      "id": "reasoning-trap-busters-q024",
+      "group": "Directions",
+      "question": "P is 10 m east of Q. R is 10 m north of P. S is 10 m west of R. Give the direction and distance of S with respect to Q.",
+      "answerText": "10 m due North",
+      "solution": "Method: Q = (0,0), P = (10,0), R = (10,10), S = (0,10). S relative to Q = (0, 10) → **10 m North**.\nCommon wrong: **North-West** — assuming the westward leg leaves S left of Q, when it lands exactly above it.",
+      "trick": "Assign coordinates and compute; don't eyeball. S returns to Q's x-coordinate, so it is due north, not NW."
+    },
+    {
+      "id": "reasoning-trap-busters-q025",
+      "group": "Directions",
+      "question": "A man faces North. He turns 90° clockwise, then 180°, then 90° anticlockwise. Which direction is he facing now?",
+      "answerText": "South",
+      "solution": "Method: North →(90° CW)→ East →(180°)→ West →(90° ACW)→ South.\nCommon wrong: **North** — cancelling turns loosely instead of stepping through.",
+      "trick": "Apply one turn at a time. Clockwise: N→E→S→W; anticlockwise is the reverse. From West, 90° anticlockwise → South."
+    },
+    {
+      "id": "reasoning-trap-busters-q026",
+      "group": "Directions",
+      "question": "At sunrise, a man X's shadow falls to his right. Which direction is X facing?",
+      "answerText": "South",
+      "solution": "Method: At sunrise the sun is in the East, so shadows fall **West**. If the shadow (west) is on X's right, then X's right hand points west → X faces **South**.\nCommon wrong: **North** — putting the shadow in the wrong hand, or **West**.",
+      "trick": "Sunrise shadow = West; sunset shadow = East. Then \"west is on my right\" ⇒ facing South (right hand west ⇒ front south)."
+    },
+    {
+      "id": "reasoning-trap-busters-q027",
+      "group": "Directions",
+      "question": "A boy walks 4 km North, 3 km East, 4 km South, then 3 km West. How far is he from his starting point?",
+      "answerText": "0 km (back at the start)",
+      "solution": "Method: North 4 vs South 4 cancel; East 3 vs West 3 cancel → net displacement 0.\nCommon wrong: **14 km** — summing all legs (path length, not displacement).",
+      "trick": "Direction questions ask for *displacement*. Equal opposite legs cancel; add path lengths only if the question literally says \"total distance travelled.\""
+    },
+    {
+      "id": "reasoning-trap-busters-q028",
+      "group": "Directions",
+      "question": "A car starts at O, goes 5 km North to A, turns right and goes 5 km to B, turns right and goes 10 km to C. Direction of C with respect to O?",
+      "answerText": "South-East",
+      "solution": "Method: O(0,0) → N 5 → A(0,5). Turn right (now facing East) 5 → B(5,5). Turn right (now facing South) 10 → C(5, −5). C relative to O = (east 5, south 5) → **South-East**.\nCommon wrong: **North-East** — forgetting the second right turn now points *south*.",
+      "trick": "Update the facing after every turn (N→E→S→W for successive rights). C lands right-of and below O → SE."
+    },
+    {
+      "id": "reasoning-trap-busters-q029",
+      "group": "Blood Relations",
+      "question": "Pointing to a photograph, a man said, \"He is the son of the only son of my father.\" How is the man related to the person in the photograph?",
+      "answerText": "The man is the boy's father",
+      "solution": "Method: \"The only son of my father\" = the speaker himself (he is male and the only son). So the boy is the son of the speaker → the man is his **father**.\nCommon wrong: **brother** or **uncle** — reading \"only son of my father\" as a separate person.",
+      "trick": "\"The only son of my father,\" spoken by a man, is a self-reference — it *is* the speaker."
+    },
+    {
+      "id": "reasoning-trap-busters-q030",
+      "group": "Blood Relations",
+      "question": "A's mother is the only daughter of B's father. How is B related to A?",
+      "answerText": "B is A's maternal uncle",
+      "solution": "Method: B's father's only daughter = A's mother. B is another child of B's father; since there is only ONE daughter, B must be a **son** → B is A's mother's brother → A's maternal uncle.\nCommon wrong: **aunt** (assuming B is female) or **father**.",
+      "trick": "\"Only daughter\" forces B's gender: a second daughter is impossible, so B is male. A's mother is B's sister → B is A's uncle. Don't assume B's gender from the letter."
+    },
+    {
+      "id": "reasoning-trap-busters-q031",
+      "group": "Blood Relations",
+      "question": "P is the child of Q. Q is the daughter of R. How is R related to P?",
+      "answerText": "R is P's grandparent (gender not determinable)",
+      "solution": "Method: Q is female (a daughter) and is P's parent; R is Q's parent → R is P's **grandparent**. R's sex is never stated.\nCommon wrong: **grandfather** — silently assuming male.",
+      "trick": "Never assign a gender that the puzzle doesn't give. With R's sex unknown, the answer is grandparent, not grandfather."
+    },
+    {
+      "id": "reasoning-trap-busters-q032",
+      "group": "Blood Relations",
+      "question": "Pointing to a woman, Rahul said, \"She is the daughter of the only child of my grandmother.\" How is the woman related to Rahul?",
+      "answerText": "His sister",
+      "solution": "Method: \"The only child of my grandmother\" = Rahul's parent (mother or father). That parent's daughter (other than Rahul) = Rahul's **sister**.\nCommon wrong: **daughter** or **cousin**.",
+      "trick": "Peel it inside-out: grandmother's only child = Rahul's own parent; her daughter = Rahul's sister."
+    },
+    {
+      "id": "reasoning-trap-busters-q033",
+      "group": "Blood Relations",
+      "question": "A woman, pointing to a man, said, \"His mother is the only daughter of my mother.\" How is the woman related to the man?",
+      "answerText": "She is the man's mother",
+      "solution": "Method: \"The only daughter of my mother,\" spoken by a woman, = the speaker herself. So the man's mother is she → she is his **mother**.\nCommon wrong: **sister** or **aunt**.",
+      "trick": "Another self-reference: a woman calling out \"my mother's only daughter\" is naming herself."
+    },
+    {
+      "id": "reasoning-trap-busters-q034",
+      "group": "Blood Relations",
+      "question": "Pointing to a boy, Sunita said, \"He is the son of the only son of my father's father.\" How is the boy related to Sunita?",
+      "answerText": "Her brother",
+      "solution": "Method: \"My father's father\" = Sunita's paternal grandfather; his only son = Sunita's father; his son = Sunita's **brother**.\nCommon wrong: **cousin** or **nephew** — which would arise only if it were the maternal grandfather's son.",
+      "trick": "\"Father's father's only son\" pins it to Sunita's own father, so his son is her brother. Trace the chain literally rather than guessing the branch."
+    },
+    {
+      "id": "reasoning-trap-busters-q035",
+      "group": "Coding-Decoding",
+      "question": "In a code language: 'she is smart' → '2 5 9', 'smart and tall' → '5 6 3', 'he is tall' → '9 1 3'. What is the code for 'tall'?\n(a) 3 (b) 5 (c) 9 (d) 6",
+      "answerText": "3",
+      "solution": "Method: 'tall' appears only in the 2nd and 3rd sentences. {5,6,3} ∩ {9,1,3} = 3 → **tall = 3**.\nCommon wrong: **(b) 5** ('smart', the code shared by sentences 1 and 2) — a deliberate red herring.",
+      "trick": "Pick the pair of sentences whose *only* common word is the target, then intersect their codes. (Here 'is'=9 and 'smart'=5 are decoys.)"
+    },
+    {
+      "id": "reasoning-trap-busters-q036",
+      "group": "Coding-Decoding",
+      "question": "If 'CAT' is written as 'DBU', how is 'DOG' written?\n(a) EPH (b) CNF (c) EPF (d) EOH",
+      "answerText": "EPH",
+      "solution": "Method: CAT→DBU is +1 on each letter. DOG → E, P, H → **EPH**.\nCommon wrong: **(b) CNF** — shifting the wrong way (−1).",
+      "trick": "Derive the rule from the given pair (each letter +1) and apply it in the *same* direction."
+    },
+    {
+      "id": "reasoning-trap-busters-q037",
+      "group": "Coding-Decoding",
+      "question": "A word's code = the sum of the alphabet positions of its letters (A=1 … Z=26). 'CAB' = 6. What is the code for 'FED'?\n(a) 15 (b) 654 (c) 12 (d) 18",
+      "answerText": "15",
+      "solution": "Method: Rule = sum of positions. F+E+D = 6+5+4 = **15**.\nCommon wrong: **(b) 654** — concatenating positions instead of summing.",
+      "trick": "Confirm the rule with the worked example (CAB = 6 = 3+1+2 = sum), then apply the *same* operation."
+    },
+    {
+      "id": "reasoning-trap-busters-q038",
+      "group": "Coding-Decoding",
+      "question": "Rule: replace each vowel with the next letter and each consonant with the previous letter. Encode 'CAB'.\n(a) BBA (b) DBC (c) BZA (d) DZC",
+      "answerText": "BBA",
+      "solution": "Method: C (consonant) → previous = B; A (vowel) → next = B; B (consonant) → previous = A → **BBA**.\nCommon wrong: **(b) DBC** (treating all as +1) or **(c) BZA** (all −1).",
+      "trick": "Two rules in one — classify each letter as vowel/consonant *first*, then shift it the right way (vowels forward, consonants back)."
+    },
+    {
+      "id": "reasoning-trap-busters-q039",
+      "group": "Coding-Decoding",
+      "question": "In a code: 'green very fresh' → 'pa la ta', 'fresh and clean' → 'ta na sa', 'very clean water' → 'la sa da'. Find the code for 'clean'.\n(a) sa (b) ta (c) la (d) da",
+      "answerText": "sa",
+      "solution": "Method: 'clean' appears only in sentences 2 and 3. {ta,na,sa} ∩ {la,sa,da} = sa → **clean = sa**.\nCommon wrong: **(b) ta** ('fresh') or **(c) la** ('very') — the other repeated codes.",
+      "trick": "Same isolate-the-target method: intersect only the two sentences sharing the word you want. Ignore codes shared by other pairs."
+    },
+    {
+      "id": "reasoning-trap-busters-q040",
+      "group": "Coding-Decoding",
+      "question": "In a code, 'MANGO' is written as 'NBOHP'. Using the same code, what does 'IBQQZ' stand for?\n(a) HAPPY (b) JCRRA (c) GZOOX (d) HAPPZ",
+      "answerText": "HAPPY",
+      "solution": "Method: MANGO→NBOHP is +1, so this is a *decode*: reverse it (−1). I→H, B→A, Q→P, Q→P, Z→Y → **HAPPY**.\nCommon wrong: **(b) JCRRA** — encoding again (+1) instead of decoding.",
+      "trick": "Note the direction the question asks. Given code→word means reverse the encoding rule (here −1), not re-apply it."
+    }
+  ]
+}

@@ -1,0 +1,612 @@
+{
+  "title": "Quant Trap-Busters — Practice",
+  "section": "quant",
+  "kind": "quiz",
+  "source": "quant-trap-busters.md",
+  "questions": [
+    {
+      "id": "quant-trap-busters-q001",
+      "group": "Set A — \"% of\" vs \"% more / less than\" (base confusion)",
+      "question": "A's salary is 25% more than B's. If A earns Rs 40,000, what is B's salary?",
+      "options": [
+        "32,000",
+        "30,000",
+        "50,000",
+        "33,000",
+        "28,000"
+      ],
+      "correct": 0,
+      "solution": "*Method:* \"A is 25% more than B\" means A = B × 1.25. So B = 40,000 / 1.25 = **32,000**.\n*Common wrong answer: (b) 30,000.* People subtract 25% *of A*: 40,000 − 10,000 = 30,000. But 25% of A is not the same as 25% of B.",
+      "trick": "In \"more/less than\", the quantity after \"than\" is the base = 100%. Set B = 100, A = 125, so B = A × 100/125. To reverse a % increase you divide by 1.25 — never subtract the same %."
+    },
+    {
+      "id": "quant-trap-busters-q002",
+      "group": "Set A — \"% of\" vs \"% more / less than\" (base confusion)",
+      "question": "The population of town X is 30% less than town Y. If Y has 80,000 people, how many does X have?",
+      "options": [
+        "56,000",
+        "1,14,286",
+        "24,000",
+        "60,000",
+        "50,000"
+      ],
+      "correct": 0,
+      "solution": "*Method:* \"X is 30% less than Y\" → X = Y × 0.70 = 80,000 × 0.70 = **56,000**.\n*Common wrong answer: (b) 1,14,286.* People read it as \"Y is 30% less than X\" and divide: 80,000 / 0.70 = 1,14,286.",
+      "trick": "The subject of the sentence (X) is what you are solving for; the object after \"than\" (Y) is the base. X less than Y → multiply Y directly by 0.70."
+    },
+    {
+      "id": "quant-trap-busters-q003",
+      "group": "Set A — \"% of\" vs \"% more / less than\" (base confusion)",
+      "question": "In an exam, 20% of the students failed. If 480 students passed, how many students appeared?",
+      "options": [
+        "600",
+        "576",
+        "560",
+        "620",
+        "500"
+      ],
+      "correct": 0,
+      "solution": "*Method:* If 20% failed, 80% passed. 80% of the total = 480 → total = 480 / 0.80 = **600**.\n*Common wrong answer: (b) 576.* People take 20% of the passed count (0.20 × 480 = 96) and add: 480 + 96 = 576, treating \"passed\" as the base.",
+      "trick": "The percentage is always of the TOTAL that appeared, not of a sub-group. 480 is 80% of the whole — divide, don't add a slice of itself."
+    },
+    {
+      "id": "quant-trap-busters-q004",
+      "group": "Set A — \"% of\" vs \"% more / less than\" (base confusion)",
+      "question": "If 35% of a number is 210, what is 50% of that number?",
+      "options": [
+        "300",
+        "105",
+        "315",
+        "350",
+        "250"
+      ],
+      "correct": 0,
+      "solution": "*Method:* Number = 210 / 0.35 = 600. Then 50% of 600 = **300**.\n*Common wrong answer: (b) 105.* People apply 50% straight to 210, giving 105.",
+      "trick": "When two different percentages of the *same whole* are involved, find the whole first, then take the percentage asked. Never chain one percentage onto another percentage's result."
+    },
+    {
+      "id": "quant-trap-busters-q005",
+      "group": "Set B — Average vs Sum (answer the exact word asked)",
+      "question": "The average age of 5 members of a family is 26 years. What is the total of their ages?",
+      "options": [
+        "130",
+        "26",
+        "125",
+        "156",
+        "120"
+      ],
+      "correct": 0,
+      "solution": "*Method:* Sum = average × count = 26 × 5 = **130**.\n*Common wrong answer: (b) 26.* Under time pressure people re-read \"average 26\" and tick 26, having computed nothing.",
+      "trick": "Underline the exact word asked — \"total/sum\" vs \"average\". Sum = average × count."
+    },
+    {
+      "id": "quant-trap-busters-q006",
+      "group": "Set B — Average vs Sum (answer the exact word asked)",
+      "question": "The average of 6 numbers is 40. If the average of the first 4 is 45, what is the SUM of the last 2 numbers?",
+      "options": [
+        "60",
+        "30",
+        "48",
+        "45",
+        "72"
+      ],
+      "correct": 0,
+      "solution": "*Method:* Total of 6 = 40 × 6 = 240. First 4 = 45 × 4 = 180. Last 2 sum = 240 − 180 = **60**.\n*Common wrong answer: (b) 30.* People finish by dividing 60 by 2 to get the *average* of the last two — but the question asked for the SUM.",
+      "trick": "Read the last word of the question again before ticking. Here the work ends at the subtraction; do not take the extra \"÷ 2\" step."
+    },
+    {
+      "id": "quant-trap-busters-q007",
+      "group": "Set B — Average vs Sum (answer the exact word asked)",
+      "question": "The sum of the weights of 8 boxes is 320 kg. What is the average weight of a box?",
+      "options": [
+        "40",
+        "320",
+        "45",
+        "38",
+        "48"
+      ],
+      "correct": 0,
+      "solution": "*Method:* Average = sum / count = 320 / 8 = **40**.\n*Common wrong answer: (b) 320.* People restate the given sum, or multiply again (320 × 8).",
+      "trick": "Average = sum ÷ count. If the sum is given, your job is to divide, not to repeat the number."
+    },
+    {
+      "id": "quant-trap-busters-q008",
+      "group": "Set B — Average vs Sum (answer the exact word asked)",
+      "question": "The average of 5 consecutive even numbers is 24. What is the largest of these numbers?",
+      "options": [
+        "28",
+        "24",
+        "26",
+        "30",
+        "120"
+      ],
+      "correct": 0,
+      "solution": "*Method:* Five consecutive even numbers with average 24: the average is the middle term, so they are 20, 22, 24, 26, 28. Largest = **28**.\n*Common wrong answer: (b) 24.* People stop at the average (the middle number) instead of stepping out to the largest.",
+      "trick": "For an odd count of equally-spaced numbers the average = middle term. After finding it, step out (+2, +2) to reach the specific term asked."
+    },
+    {
+      "id": "quant-trap-busters-q009",
+      "group": "Set C — Reading the wrong table cell",
+      "context": "Use the following table for questions 9-12. It shows the sales (in units) of four items over two years.\n\n| Item | 2022 | 2023 |\n|------|------|------|\n| A    | 120  | 150  |\n| B    | 200  | 180  |\n| C    | 90   | 140  |\n| D    | 160  | 160  |",
+      "question": "What was the sale of item C in 2022?",
+      "options": [
+        "90",
+        "140",
+        "150",
+        "200",
+        "120"
+      ],
+      "correct": 0,
+      "solution": "*Method:* Row C, column 2022 → **90**.\n*Common wrong answer: (b) 140.* That is C in 2023 — a slide into the wrong column.",
+      "trick": "Anchor the row with one finger, then move straight down the correct year's column. Confirm both coordinates before reading."
+    },
+    {
+      "id": "quant-trap-busters-q010",
+      "group": "Set C — Reading the wrong table cell",
+      "context": "Use the following table for questions 9-12. It shows the sales (in units) of four items over two years.\n\n| Item | 2022 | 2023 |\n|------|------|------|\n| A    | 120  | 150  |\n| B    | 200  | 180  |\n| C    | 90   | 140  |\n| D    | 160  | 160  |",
+      "question": "By how much did the sale of item A increase from 2022 to 2023?",
+      "options": [
+        "30",
+        "150",
+        "20",
+        "270",
+        "50"
+      ],
+      "correct": 0,
+      "solution": "*Method:* Item A: 150 − 120 = **30**.\n*Common wrong answer: (b) 150.* People read off the 2023 value as if it were the increase.",
+      "trick": "\"Increase\" = later value − earlier value, staying in the same row. An increase can never equal a raw cell value."
+    },
+    {
+      "id": "quant-trap-busters-q011",
+      "group": "Set C — Reading the wrong table cell",
+      "context": "Use the following table for questions 9-12. It shows the sales (in units) of four items over two years.\n\n| Item | 2022 | 2023 |\n|------|------|------|\n| A    | 120  | 150  |\n| B    | 200  | 180  |\n| C    | 90   | 140  |\n| D    | 160  | 160  |",
+      "question": "What is the total sale of item B over the two years combined?",
+      "options": [
+        "380",
+        "320",
+        "180",
+        "340",
+        "300"
+      ],
+      "correct": 0,
+      "solution": "*Method:* Item B: 200 + 180 = **380**.\n*Common wrong answer: (c) 180.* People grab a single year's figure, or slip to a neighbouring row.",
+      "trick": "\"Over both years\" = sum along that item's row. Read both cells of row B, add them."
+    },
+    {
+      "id": "quant-trap-busters-q012",
+      "group": "Set C — Reading the wrong table cell",
+      "context": "Use the following table for questions 9-12. It shows the sales (in units) of four items over two years.\n\n| Item | 2022 | 2023 |\n|------|------|------|\n| A    | 120  | 150  |\n| B    | 200  | 180  |\n| C    | 90   | 140  |\n| D    | 160  | 160  |",
+      "question": "What is the difference between the total sales of all items in 2023 and the total in 2022?",
+      "options": [
+        "60",
+        "1200",
+        "570",
+        "630",
+        "40"
+      ],
+      "correct": 0,
+      "solution": "*Method:* 2022 total = 120 + 200 + 90 + 160 = 570. 2023 total = 150 + 180 + 140 + 160 = 630. Difference = 630 − 570 = **60**.\n*Common wrong answer: (d) 630.* People report just the 2023 column total, forgetting the subtraction, or drop one item while adding.",
+      "trick": "Add all four rows for each column fully (count your terms — there should be 4), then subtract. Missing one item is the classic slip."
+    },
+    {
+      "id": "quant-trap-busters-q013",
+      "group": "Set D — Unit traps (thousands / lakhs / crore)",
+      "question": "A company's profit is Rs 4.5 lakh and its expenses are Rs 250 thousand. What is its revenue (profit + expenses)?",
+      "options": [
+        "7 lakh",
+        "254.5 lakh",
+        "29.5 lakh",
+        "2.95 lakh",
+        "70 lakh"
+      ],
+      "correct": 0,
+      "solution": "*Method:* 4.5 lakh = 4,50,000; 250 thousand = 2,50,000. Sum = 7,00,000 = **7 lakh**.\n*Common wrong answer: (c) 29.5 lakh.* People misread 250 thousand as 25 lakh: 4.5 + 25 = 29.5.",
+      "trick": "Convert everything to ONE unit before adding. 1 lakh = 100 thousand, so 250 thousand = 2.5 lakh, not 25 lakh."
+    },
+    {
+      "id": "quant-trap-busters-q014",
+      "group": "Set D — Unit traps (thousands / lakhs / crore)",
+      "question": "A chart shows a person's income as 45 (in Rs thousand). What is the actual income in rupees?",
+      "options": [
+        "45,000",
+        "45,00,000",
+        "4,500",
+        "4,50,000",
+        "45"
+      ],
+      "correct": 0,
+      "solution": "*Method:* \"In thousands\" → multiply by 1,000: 45 × 1,000 = **45,000**.\n*Common wrong answer: (b) 45,00,000.* People multiply by 1,00,000 as if the scale were \"in lakhs\".",
+      "trick": "Read the scale label exactly. \"In thousands\" = × 1,000 (three zeros), \"in lakhs\" = × 1,00,000 (five zeros)."
+    },
+    {
+      "id": "quant-trap-busters-q015",
+      "group": "Set D — Unit traps (thousands / lakhs / crore)",
+      "question": "The population of a village is 1.2 lakh. If it increases by 15,000, what is the new population?",
+      "options": [
+        "1.35 lakh",
+        "2.7 lakh",
+        "1.5 lakh",
+        "1.215 lakh",
+        "3 lakh"
+      ],
+      "correct": 0,
+      "solution": "*Method:* 1.2 lakh = 1,20,000; + 15,000 = 1,35,000 = **1.35 lakh**.\n*Common wrong answer: (b) 2.7 lakh.* People read 15,000 as 1.5 lakh and add 1.2 + 1.5.",
+      "trick": "15,000 = 0.15 lakh (divide by 1,00,000), not 1.5 lakh. Convert before adding."
+    },
+    {
+      "id": "quant-trap-busters-q016",
+      "group": "Set D — Unit traps (thousands / lakhs / crore)",
+      "question": "Company X's turnover is 12 crore and Company Y's turnover is 800 lakh. Which company is higher, and by how much?",
+      "options": [
+        "X, by 4 crore",
+        "Y, by 788 crore",
+        "X, by 400 crore",
+        "Y, by 4 crore",
+        "They are equal"
+      ],
+      "correct": 0,
+      "solution": "*Method:* X = 12 crore = 1,200 lakh. Y = 800 lakh. X − Y = 400 lakh = **4 crore**.\n*Common wrong answer: (b) Y, by 788 crore.* People compare the bare numbers 12 vs 800 and conclude Y is far larger.",
+      "trick": "Never compare across different units. Convert both to the same unit (1 crore = 100 lakh) first, then compare."
+    },
+    {
+      "id": "quant-trap-busters-q017",
+      "group": "Set E — Successive percentage change",
+      "question": "The price of an item is first increased by 20% and then decreased by 20%. What is the net change?",
+      "options": [
+        "4% decrease",
+        "No change",
+        "4% increase",
+        "8% decrease",
+        "2% decrease"
+      ],
+      "correct": 0,
+      "solution": "*Method:* Net factor = 1.20 × 0.80 = 0.96 → **4% decrease**.\n*Common wrong answer: (b) No change.* People assume +20% and −20% cancel out.",
+      "trick": "Successive percentages don't add. Net% = a + b + ab/100 = 20 − 20 − 400/100 = −4%. The decrease acts on the already-inflated price, so you lose more than you gained."
+    },
+    {
+      "id": "quant-trap-busters-q018",
+      "group": "Set E — Successive percentage change",
+      "question": "A salary is increased by 10% and then further increased by 20%. What is the total percentage increase?",
+      "options": [
+        "32%",
+        "30%",
+        "33%",
+        "22%",
+        "35%"
+      ],
+      "correct": 0,
+      "solution": "*Method:* 1.10 × 1.20 = 1.32 → **32% increase**.\n*Common wrong answer: (b) 30%.* People simply add 10 + 20.",
+      "trick": "Net% = 10 + 20 + (10 × 20)/100 = 32%. The extra 2% is the second rise acting on the first rise."
+    },
+    {
+      "id": "quant-trap-busters-q019",
+      "group": "Set E — Successive percentage change",
+      "question": "A number is decreased by 25% and then increased by 25%. What is the net effect?",
+      "options": [
+        "6.25% decrease",
+        "No change",
+        "6.25% increase",
+        "5% decrease",
+        "12.5% decrease"
+      ],
+      "correct": 0,
+      "solution": "*Method:* 0.75 × 1.25 = 0.9375 → **6.25% decrease**.\n*Common wrong answer: (b) No change.* People think −25% then +25% returns to start.",
+      "trick": "Equal up-and-down percentages ALWAYS give a net decrease of (x²/100)% = 25²/100 = 6.25%, regardless of order."
+    },
+    {
+      "id": "quant-trap-busters-q020",
+      "group": "Set E — Successive percentage change",
+      "question": "The length of a rectangle is increased by 30% and its breadth is decreased by 10%. What is the percentage change in area?",
+      "options": [
+        "17% increase",
+        "20% increase",
+        "20% decrease",
+        "3% increase",
+        "40% increase"
+      ],
+      "correct": 0,
+      "solution": "*Method:* Area factor = 1.30 × 0.90 = 1.17 → **17% increase**.\n*Common wrong answer: (b) 20% increase.* People just do 30 − 10.",
+      "trick": "For area, multiply the two dimension factors. Net% = 30 − 10 − (30 × 10)/100 = 30 − 10 − 3 = 17%."
+    },
+    {
+      "id": "quant-trap-busters-q021",
+      "group": "Set F — Ratio vs Fraction confusion",
+      "question": "In a class the ratio of boys to girls is 3:2. What fraction of the class is boys?",
+      "options": [
+        "3/5",
+        "3/2",
+        "2/5",
+        "2/3",
+        "1/3"
+      ],
+      "correct": 0,
+      "solution": "*Method:* Fraction of whole = part / (sum of parts) = 3 / (3 + 2) = **3/5**.\n*Common wrong answer: (b) 3/2.* People write the ratio itself as the fraction.",
+      "trick": "A ratio 3:2 compares two parts; a fraction of the WHOLE needs the total in the denominator: 3/(3+2)."
+    },
+    {
+      "id": "quant-trap-busters-q022",
+      "group": "Set F — Ratio vs Fraction confusion",
+      "question": "Rs 96 is divided between A and B in the ratio 5:7. How much MORE does B get than A?",
+      "options": [
+        "16",
+        "56",
+        "2",
+        "40",
+        "96"
+      ],
+      "correct": 0,
+      "solution": "*Method:* Parts = 5 + 7 = 12; each part = 96/12 = 8. A = 40, B = 56. B − A = **16** (also = (7−5) × 8 = 2 × 8).\n*Common wrong answer: (b) 56.* People report B's full share instead of the difference asked.",
+      "trick": "\"How much more\" = difference of shares = (difference in ratio terms) × (value of one part), not either share by itself."
+    },
+    {
+      "id": "quant-trap-busters-q023",
+      "group": "Set F — Ratio vs Fraction confusion",
+      "question": "An alloy contains copper and zinc in the ratio 3:1. What is the percentage of zinc in the alloy?",
+      "options": [
+        "25%",
+        "33.33%",
+        "20%",
+        "75%",
+        "30%"
+      ],
+      "correct": 0,
+      "solution": "*Method:* Zinc fraction = 1 / (3 + 1) = 1/4 = **25%**.\n*Common wrong answer: (b) 33.33%.* People compute 1/3, using a ratio term as a fraction.",
+      "trick": "Percentage of a component = its term / (total of all terms) = 1/4, not 1/3."
+    },
+    {
+      "id": "quant-trap-busters-q024",
+      "group": "Set F — Ratio vs Fraction confusion",
+      "question": "If A:B = 2:3 and B:C = 4:5, then A:C = ?",
+      "options": [
+        "8:15",
+        "2:5",
+        "8:5",
+        "2:15",
+        "10:12"
+      ],
+      "correct": 0,
+      "solution": "*Method:* Make B common. A:B = 2:3 = 8:12; B:C = 4:5 = 12:15. So A:C = **8:15**.\n*Common wrong answer: (b) 2:5.* People just read the outer terms (2 from the first, 5 from the second).",
+      "trick": "Before combining chained ratios, scale so the common term (B) matches — here LCM(3,4) = 12 — then read off A and C."
+    },
+    {
+      "id": "quant-trap-busters-q025",
+      "group": "Set G — Over-rounding in approximation",
+      "question": "Find the approximate value of 1197 × 0.336.",
+      "options": [
+        "400",
+        "360",
+        "420",
+        "380",
+        "440"
+      ],
+      "correct": 0,
+      "solution": "*Method:* 0.336 ≈ 1/3, so 1197 × 0.336 ≈ 1197/3 ≈ 402. Nearest option = **400**. (Exact: 402.2.)\n*Common wrong answer: (b) 360.* People over-round 0.336 down to 0.3: 1197 × 0.3 = 359.",
+      "trick": "Don't over-round. 0.336 is much closer to 1/3 (0.333) than to 0.3; rounding to 0.3 throws away about 10% of the value."
+    },
+    {
+      "id": "quant-trap-busters-q026",
+      "group": "Set G — Over-rounding in approximation",
+      "question": "Find the approximate value of 66.6% of 449.7 + 33.3% of 150.3.",
+      "options": [
+        "350",
+        "360",
+        "340",
+        "375",
+        "300"
+      ],
+      "correct": 0,
+      "solution": "*Method:* 66.6% ≈ 2/3 of 450 = 300; 33.3% ≈ 1/3 of 150 = 50; total = **350**. (Exact: 349.5.)\n*Common wrong answer: (b) 360.* People round 66.6% up to 70% and 33.3% down to 30%: 315 + 45 = 360.",
+      "trick": "Use exact fraction equivalents (66.6% = 2/3, 33.3% = 1/3), not lazy 70%/30% roundings."
+    },
+    {
+      "id": "quant-trap-busters-q027",
+      "group": "Set G — Over-rounding in approximation",
+      "question": "Find the approximate value of 14.95% of 800 + 24.9% of 400.",
+      "options": [
+        "220",
+        "200",
+        "240",
+        "210",
+        "180"
+      ],
+      "correct": 0,
+      "solution": "*Method:* 14.95% ≈ 15% of 800 = 120; 24.9% ≈ 25% of 400 = 100; total = **220**. (Exact: 219.2.)\n*Common wrong answer: (b) 200.* People round 24.9% down to 20% (100 → 80), giving 200.",
+      "trick": "Round to the NEAREST clean value. 24.9% is essentially 25% (= 1/4), not 20%. Rounding to the far side of a natural fraction is the error."
+    },
+    {
+      "id": "quant-trap-busters-q028",
+      "group": "Set G — Over-rounding in approximation",
+      "question": "Find the approximate value of 899.8 ÷ 29.95.",
+      "options": [
+        "30",
+        "300",
+        "3",
+        "27",
+        "33"
+      ],
+      "correct": 0,
+      "solution": "*Method:* 899.8 / 29.95 ≈ 900 / 30 = **30**.\n*Common wrong answer: (b) 300.* A decimal-place slip: dividing 900 by 3 instead of 30.",
+      "trick": "Keep track of magnitude. 29.95 ≈ 30 (two significant figures), not 3. A quick sanity check: 30 × 30 = 900, so the answer must be near 30."
+    },
+    {
+      "id": "quant-trap-busters-q029",
+      "group": "Set H — \"What % more / less\" reference",
+      "question": "A is 150 and B is 120. A is what percent MORE than B?",
+      "options": [
+        "25%",
+        "20%",
+        "30%",
+        "12.5%",
+        "15%"
+      ],
+      "correct": 0,
+      "solution": "*Method:* (150 − 120) / 120 × 100 = 30/120 × 100 = **25%**.\n*Common wrong answer: (b) 20%.* People divide the difference by A (150): 30/150 = 20%.",
+      "trick": "\"% more than B\" → the base is whatever follows \"than\". Divide the difference by B (the reference), not by the bigger number."
+    },
+    {
+      "id": "quant-trap-busters-q030",
+      "group": "Set H — \"What % more / less\" reference",
+      "question": "B is 120 and A is 150. B is what percent LESS than A?",
+      "options": [
+        "20%",
+        "25%",
+        "30%",
+        "16.67%",
+        "15%"
+      ],
+      "correct": 0,
+      "solution": "*Method:* (150 − 120) / 150 × 100 = 30/150 × 100 = **20%**.\n*Common wrong answer: (b) 25%.* People divide by 120 out of habit from Q29.",
+      "trick": "\"% less than A\" → base is A (150). The reference is always the quantity after \"than\" — it flips between this question and the previous one, so read carefully."
+    },
+    {
+      "id": "quant-trap-busters-q031",
+      "group": "Set H — \"What % more / less\" reference",
+      "question": "In an exam the pass mark is 40 and a student scored 50. His marks are what percent above the pass mark?",
+      "options": [
+        "25%",
+        "20%",
+        "10%",
+        "40%",
+        "12.5%"
+      ],
+      "correct": 0,
+      "solution": "*Method:* (50 − 40) / 40 × 100 = 10/40 × 100 = **25%**.\n*Common wrong answer: (b) 20%.* People divide by the score 50: 10/50 = 20%.",
+      "trick": "\"Above the pass mark\" makes the pass mark (40) the reference. Divide the excess by the benchmark you are measuring against, not by the achieved value."
+    },
+    {
+      "id": "quant-trap-busters-q032",
+      "group": "Set H — \"What % more / less\" reference",
+      "question": "The price of a share rose from Rs 80 to Rs 100, and later fell from Rs 100 back to Rs 80. The percentage rise and the percentage fall are respectively:",
+      "options": [
+        "25% and 20%",
+        "20% and 20%",
+        "25% and 25%",
+        "20% and 25%",
+        "25% and 30%"
+      ],
+      "correct": 0,
+      "solution": "*Method:* Rise = 20/80 × 100 = 25% (base = old price 80). Fall = 20/100 × 100 = 20% (base = 100, the price it fell from). So **25% rise, 20% fall**.\n*Common wrong answer: (b) both 20%.* People assume the same rupee change (Rs 20) means the same percentage both ways.",
+      "trick": "Percentage always depends on the starting point. Going up, base is 80; coming down, base is 100. Different bases → different percentages, even for the same absolute change."
+    },
+    {
+      "id": "quant-trap-busters-q033",
+      "group": "Set I — Compound Interest vs Simple Interest",
+      "question": "Find the simple interest on Rs 10,000 at 10% per annum for 2 years.",
+      "options": [
+        "2,000",
+        "2,100",
+        "1,000",
+        "2,200",
+        "1,100"
+      ],
+      "correct": 0,
+      "solution": "*Method:* SI = P × R × T / 100 = 10,000 × 10 × 2 / 100 = **2,000**.\n*Common wrong answer: (b) 2,100.* People compute compound interest by mistake.",
+      "trick": "Simple interest is flat on the original principal every year — no compounding. Just P × R × T / 100."
+    },
+    {
+      "id": "quant-trap-busters-q034",
+      "group": "Set I — Compound Interest vs Simple Interest",
+      "question": "Find the compound interest on Rs 10,000 at 10% per annum for 2 years.",
+      "options": [
+        "2,100",
+        "2,000",
+        "2,010",
+        "1,210",
+        "2,200"
+      ],
+      "correct": 0,
+      "solution": "*Method:* Amount = 10,000 × (1.1)² = 12,100. CI = 12,100 − 10,000 = **2,100**.\n*Common wrong answer: (b) 2,000.* People compute simple interest instead.",
+      "trick": "CI = P[(1 + R/100)^T − 1]. The extra Rs 100 over the SI of 2,000 is the interest earned on the first year's interest."
+    },
+    {
+      "id": "quant-trap-busters-q035",
+      "group": "Set I — Compound Interest vs Simple Interest",
+      "question": "The difference between compound interest and simple interest on a sum for 2 years at 10% per annum is Rs 50. Find the sum.",
+      "options": [
+        "5,000",
+        "250",
+        "500",
+        "2,500",
+        "10,000"
+      ],
+      "correct": 0,
+      "solution": "*Method:* For 2 years, CI − SI = P × (R/100)² = P × (0.1)² = 0.01P. So 0.01P = 50 → P = **5,000**. (Check: SI = 1,000, CI = 1,050, difference = 50.)\n*Common wrong answer: (b) 250.* People misuse the SI formula (50 = P × 10 × 2 / 100 → P = 250).",
+      "trick": "For a 2-year difference, use the shortcut CI − SI = P(R/100)². The difference is tiny relative to P, so the sum must be large."
+    },
+    {
+      "id": "quant-trap-busters-q036",
+      "group": "Set I — Compound Interest vs Simple Interest",
+      "question": "A sum of money doubles itself in 5 years at simple interest. In how many years will it become 4 times itself at the same rate?",
+      "options": [
+        "15",
+        "10",
+        "20",
+        "25",
+        "12"
+      ],
+      "correct": 0,
+      "solution": "*Method:* At SI, doubling means the interest equals P, earned in 5 years. To become 4 times, interest must equal 3P → time = 3 × 5 = **15 years**.\n*Common wrong answer: (b) 10.* People think \"4 times = double the doubling\", so 2 × 5 = 10 — that would be compound-style intuition.",
+      "trick": "Simple interest grows the *amount* linearly. 2× means +1P (5 yr); 3× means +2P (10 yr); 4× means +3P (15 yr). Count the added principals, not the multiples."
+    },
+    {
+      "id": "quant-trap-busters-q037",
+      "group": "Set J — Profit % is on CP, not SP",
+      "question": "An article is bought for Rs 400 and sold for Rs 500. Find the profit percent.",
+      "options": [
+        "25%",
+        "20%",
+        "15%",
+        "30%",
+        "24%"
+      ],
+      "correct": 0,
+      "solution": "*Method:* Profit = 500 − 400 = 100. Profit% = 100/400 × 100 = **25%**.\n*Common wrong answer: (b) 20%.* People divide by the selling price 500: 100/500 = 20%.",
+      "trick": "Profit% is ALWAYS on cost price: profit / CP × 100. The SP is never the base."
+    },
+    {
+      "id": "quant-trap-busters-q038",
+      "group": "Set J — Profit % is on CP, not SP",
+      "question": "By selling an article for Rs 600, a shopkeeper gains 20%. Find the cost price.",
+      "options": [
+        "500",
+        "480",
+        "520",
+        "450",
+        "720"
+      ],
+      "correct": 0,
+      "solution": "*Method:* SP = CP × 1.20 → CP = 600 / 1.20 = **500**.\n*Common wrong answer: (b) 480.* People take 20% off the SP: 600 − 20% of 600 = 480 — but the 20% gain is on CP, not SP.",
+      "trick": "To undo a gain%, divide the SP by (1 + gain%), don't subtract the gain% of the SP."
+    },
+    {
+      "id": "quant-trap-busters-q039",
+      "group": "Set J — Profit % is on CP, not SP",
+      "question": "A trader calculates his profit as 25% of the selling price. What is his profit percent on cost?",
+      "options": [
+        "33.33%",
+        "25%",
+        "20%",
+        "30%",
+        "50%"
+      ],
+      "correct": 0,
+      "solution": "*Method:* Profit = 25% of SP → CP = SP − 0.25 SP = 0.75 SP. Profit% on cost = 0.25 SP / 0.75 SP × 100 = 1/3 = **33.33%**.\n*Common wrong answer: (b) 25%.* People report the given 25% directly, ignoring that it is measured on SP.",
+      "trick": "A profit stated on SP must be converted to CP base. 25% of SP = 33⅓% of CP (since CP is the smaller 75% slice)."
+    },
+    {
+      "id": "quant-trap-busters-q040",
+      "group": "Set J — Profit % is on CP, not SP",
+      "question": "An item costing Rs 800 is sold at a loss of 15%. Find the selling price.",
+      "options": [
+        "680",
+        "941",
+        "920",
+        "720",
+        "700"
+      ],
+      "correct": 0,
+      "solution": "*Method:* Loss% is on CP: SP = 800 × (1 − 0.15) = 800 × 0.85 = **680**.\n*Common wrong answer: (b) 941.* People divide by 0.85 (800 / 0.85 = 941) instead of multiplying — reversing the operation.",
+      "trick": "Loss/gain% is a fraction OF the cost price, so multiply CP by (1 − loss%). Divide only when you are given the SP and need the CP."
+    }
+  ]
+}

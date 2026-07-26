@@ -1,0 +1,488 @@
+{
+  "title": "Data Interpretation — Practice (Vol. 2)",
+  "section": "quant",
+  "kind": "quiz",
+  "source": "quant-di-v2.md",
+  "questions": [
+    {
+      "id": "quant-di-v2-q001",
+      "group": "Set 1 — Table",
+      "context": "The table shows the number of units of two products, **A** and **B**, sold by five stores in a month.\n\n| Store | Product A | Product B |\n|-------|-----------|-----------|\n| P     | 120       | 80        |\n| Q     | 150       | 90        |\n| R     | 200       | 160       |\n| S     | 90        | 110       |\n| T     | 140       | 60        |",
+      "question": "What is the total number of units of Product A sold by all five stores together?",
+      "options": [
+        "680",
+        "700",
+        "720",
+        "740",
+        "760"
+      ],
+      "correct": 1,
+      "solution": "Total A = 120 + 150 + 200 + 90 + 140 = 700.",
+      "trick": "Pair for easy round sums: (120 + 90) = 210, (150 + 140) = 290, then + 200 = 700. Grouping numbers into hundreds first kills carry-errors."
+    },
+    {
+      "id": "quant-di-v2-q002",
+      "group": "Set 1 — Table",
+      "context": "The table shows the number of units of two products, **A** and **B**, sold by five stores in a month.\n\n| Store | Product A | Product B |\n|-------|-----------|-----------|\n| P     | 120       | 80        |\n| Q     | 150       | 90        |\n| R     | 200       | 160       |\n| S     | 90        | 110       |\n| T     | 140       | 60        |",
+      "question": "The total units of Product A sold is in what ratio to the total units of Product B sold?",
+      "options": [
+        "5:7",
+        "3:2",
+        "7:5",
+        "8:5",
+        "6:5"
+      ],
+      "correct": 2,
+      "solution": "Total A = 700. Total B = 80 + 90 + 160 + 110 + 60 = 500. Ratio 700:500 = 7:5.",
+      "trick": "Cancel the two trailing zeros immediately — 700:500 becomes 7:5 by inspection. Never carry zeros into ratio-simplification."
+    },
+    {
+      "id": "quant-di-v2-q003",
+      "group": "Set 1 — Table",
+      "context": "The table shows the number of units of two products, **A** and **B**, sold by five stores in a month.\n\n| Store | Product A | Product B |\n|-------|-----------|-----------|\n| P     | 120       | 80        |\n| Q     | 150       | 90        |\n| R     | 200       | 160       |\n| S     | 90        | 110       |\n| T     | 140       | 60        |",
+      "question": "Which store sold the highest number of units (A and B combined)?",
+      "options": [
+        "P",
+        "Q",
+        "R",
+        "S",
+        "T"
+      ],
+      "correct": 2,
+      "solution": "Combined totals: P = 200, Q = 240, R = 360, S = 200, T = 200. R is highest.",
+      "trick": "The store leading in BOTH columns usually wins — R tops both A (200) and B (160), so no full addition of the others is needed."
+    },
+    {
+      "id": "quant-di-v2-q004",
+      "group": "Set 1 — Table",
+      "context": "The table shows the number of units of two products, **A** and **B**, sold by five stores in a month.\n\n| Store | Product A | Product B |\n|-------|-----------|-----------|\n| P     | 120       | 80        |\n| Q     | 150       | 90        |\n| R     | 200       | 160       |\n| S     | 90        | 110       |\n| T     | 140       | 60        |",
+      "question": "What is the average number of units of Product B sold per store?",
+      "options": [
+        "90",
+        "95",
+        "100",
+        "110",
+        "120"
+      ],
+      "correct": 2,
+      "solution": "Average B = Total B / 5 = 500 / 5 = 100.",
+      "trick": "You already found Total B = 500 in Q2 — reuse it. In multi-part DI, carry forward sub-totals rather than re-adding."
+    },
+    {
+      "id": "quant-di-v2-q005",
+      "group": "Set 1 — Table",
+      "context": "The table shows the number of units of two products, **A** and **B**, sold by five stores in a month.\n\n| Store | Product A | Product B |\n|-------|-----------|-----------|\n| P     | 120       | 80        |\n| Q     | 150       | 90        |\n| R     | 200       | 160       |\n| S     | 90        | 110       |\n| T     | 140       | 60        |",
+      "question": "For store S, the units of Product A form what percentage of store S's combined sales (A + B)?",
+      "options": [
+        "40%",
+        "42%",
+        "45%",
+        "48%",
+        "50%"
+      ],
+      "correct": 2,
+      "solution": "Store S: A = 90, combined = 90 + 110 = 200. Percentage = 90/200 = 45%.",
+      "trick": "Denominator 200 → multiply numerator by 0.5 and read directly: 90 → 45%. Any \"/200\" is just \"half, as a percent.\""
+    },
+    {
+      "id": "quant-di-v2-q006",
+      "group": "Set 2 — Bar Graph",
+      "context": "The bar graph shows the number of students (in hundreds) who appeared for an entrance exam from five cities in 2022 and 2023.\n\n| City | 2022 | 2023 |\n|------|------|------|\n| A    | 24   | 30   |\n| B    | 18   | 27   |\n| C    | 36   | 33   |\n| D    | 40   | 44   |\n| E    | 15   | 21   |\n\n(Values are in hundreds.)",
+      "question": "What is the total number of students who appeared in 2022 from all five cities?",
+      "options": [
+        "12,300",
+        "13,300",
+        "13,500",
+        "14,300",
+        "15,300"
+      ],
+      "correct": 1,
+      "solution": "Sum (in hundreds) = 24 + 18 + 36 + 40 + 15 = 133 → 13,300.",
+      "trick": "Add the hundreds first, attach \"00\" last. 24+18=42, +36=78, +40=118, +15=133."
+    },
+    {
+      "id": "quant-di-v2-q007",
+      "group": "Set 2 — Bar Graph",
+      "context": "The bar graph shows the number of students (in hundreds) who appeared for an entrance exam from five cities in 2022 and 2023.\n\n| City | 2022 | 2023 |\n|------|------|------|\n| A    | 24   | 30   |\n| B    | 18   | 27   |\n| C    | 36   | 33   |\n| D    | 40   | 44   |\n| E    | 15   | 21   |\n\n(Values are in hundreds.)",
+      "question": "The number of students from city B increased by what percentage from 2022 to 2023?",
+      "options": [
+        "30%",
+        "40%",
+        "45%",
+        "50%",
+        "55%"
+      ],
+      "correct": 3,
+      "solution": "City B: (27 − 18)/18 = 9/18 = 50%.",
+      "trick": "When the increase equals half the base (9 is half of 18), it's an instant 50% — no long division."
+    },
+    {
+      "id": "quant-di-v2-q008",
+      "group": "Set 2 — Bar Graph",
+      "context": "The bar graph shows the number of students (in hundreds) who appeared for an entrance exam from five cities in 2022 and 2023.\n\n| City | 2022 | 2023 |\n|------|------|------|\n| A    | 24   | 30   |\n| B    | 18   | 27   |\n| C    | 36   | 33   |\n| D    | 40   | 44   |\n| E    | 15   | 21   |\n\n(Values are in hundreds.)",
+      "question": "Which city recorded the highest percentage increase in appearances from 2022 to 2023?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "correct": 1,
+      "solution": "Increases: A = 6/24 = 25%, B = 9/18 = 50%, C = negative (36→33), D = 4/40 = 10%, E = 6/15 = 40%. B is highest.",
+      "trick": "Scan for the largest jump relative to the smallest base. B has a big rise (9) on a small base (18) — the winning combination. Discard C outright (it fell)."
+    },
+    {
+      "id": "quant-di-v2-q009",
+      "group": "Set 2 — Bar Graph",
+      "context": "The bar graph shows the number of students (in hundreds) who appeared for an entrance exam from five cities in 2022 and 2023.\n\n| City | 2022 | 2023 |\n|------|------|------|\n| A    | 24   | 30   |\n| B    | 18   | 27   |\n| C    | 36   | 33   |\n| D    | 40   | 44   |\n| E    | 15   | 21   |\n\n(Values are in hundreds.)",
+      "question": "What is the total number of students who appeared in 2023 from all five cities?",
+      "options": [
+        "14,500",
+        "15,000",
+        "15,500",
+        "16,000",
+        "16,500"
+      ],
+      "correct": 2,
+      "solution": "Sum = 30 + 27 + 33 + 44 + 21 = 155 → 15,500.",
+      "trick": "30+27=57, +33=90 (round anchor), +44=134, +21=155. Hunt for a running total that hits a round number (90) to steady the addition."
+    },
+    {
+      "id": "quant-di-v2-q010",
+      "group": "Set 2 — Bar Graph",
+      "context": "The bar graph shows the number of students (in hundreds) who appeared for an entrance exam from five cities in 2022 and 2023.\n\n| City | 2022 | 2023 |\n|------|------|------|\n| A    | 24   | 30   |\n| B    | 18   | 27   |\n| C    | 36   | 33   |\n| D    | 40   | 44   |\n| E    | 15   | 21   |\n\n(Values are in hundreds.)",
+      "question": "The students from city D in 2022 are in what ratio to the students from city A in 2023?",
+      "options": [
+        "3:4",
+        "4:3",
+        "5:4",
+        "4:5",
+        "5:3"
+      ],
+      "correct": 1,
+      "solution": "D in 2022 = 40; A in 2023 = 30. Ratio 40:30 = 4:3.",
+      "trick": "Divide both by the common factor 10 first, then by nothing more needed: 4:3. Strip common zeros before simplifying."
+    },
+    {
+      "id": "quant-di-v2-q011",
+      "group": "Set 3 — Pie Chart",
+      "context": "A person's total monthly income of **Rs 45,000** is distributed across five heads. The pie chart is given below as central angles (degrees).\n\n| Head      | Central Angle (degrees) |\n|-----------|--------------------------|\n| Rent      | 120                      |\n| Food      | 90                       |\n| Transport | 45                       |\n| Savings   | 60                       |\n| Others    | 45                       |\n\n(Total = 360 degrees.)",
+      "question": "How much does the person spend on Rent per month?",
+      "options": [
+        "Rs 12,500",
+        "Rs 13,500",
+        "Rs 15,000",
+        "Rs 16,500",
+        "Rs 18,000"
+      ],
+      "correct": 2,
+      "solution": "Per-degree value = 45,000 / 360 = **Rs 125 per degree**. (Memorise this once for the whole set.)\nRent = 120 × 125 = 15,000.",
+      "trick": "120 degrees is exactly one-third of 360, so Rent = 45,000 / 3 = 15,000 with zero multiplication."
+    },
+    {
+      "id": "quant-di-v2-q012",
+      "group": "Set 3 — Pie Chart",
+      "context": "A person's total monthly income of **Rs 45,000** is distributed across five heads. The pie chart is given below as central angles (degrees).\n\n| Head      | Central Angle (degrees) |\n|-----------|--------------------------|\n| Rent      | 120                      |\n| Food      | 90                       |\n| Transport | 45                       |\n| Savings   | 60                       |\n| Others    | 45                       |\n\n(Total = 360 degrees.)",
+      "question": "What is the amount allocated to Food?",
+      "options": [
+        "Rs 10,250",
+        "Rs 11,250",
+        "Rs 12,250",
+        "Rs 9,750",
+        "Rs 13,250"
+      ],
+      "correct": 1,
+      "solution": "Food = 90 × 125 = 11,250.",
+      "trick": "90 degrees = one-quarter of the circle, so Food = 45,000 / 4 = 11,250 instantly."
+    },
+    {
+      "id": "quant-di-v2-q013",
+      "group": "Set 3 — Pie Chart",
+      "context": "A person's total monthly income of **Rs 45,000** is distributed across five heads. The pie chart is given below as central angles (degrees).\n\n| Head      | Central Angle (degrees) |\n|-----------|--------------------------|\n| Rent      | 120                      |\n| Food      | 90                       |\n| Transport | 45                       |\n| Savings   | 60                       |\n| Others    | 45                       |\n\n(Total = 360 degrees.)",
+      "question": "By how much does the Rent amount exceed the Savings amount?",
+      "options": [
+        "Rs 6,000",
+        "Rs 6,500",
+        "Rs 7,000",
+        "Rs 7,500",
+        "Rs 8,000"
+      ],
+      "correct": 3,
+      "solution": "Rent (15,000) − Savings (60 × 125 = 7,500) = 7,500.",
+      "trick": "Work with the angle gap: Rent − Savings = (120 − 60) degrees = 60 degrees = 60 × 125 = 7,500. Differences on a pie are just angle differences times the per-degree rate."
+    },
+    {
+      "id": "quant-di-v2-q014",
+      "group": "Set 3 — Pie Chart",
+      "context": "A person's total monthly income of **Rs 45,000** is distributed across five heads. The pie chart is given below as central angles (degrees).\n\n| Head      | Central Angle (degrees) |\n|-----------|--------------------------|\n| Rent      | 120                      |\n| Food      | 90                       |\n| Transport | 45                       |\n| Savings   | 60                       |\n| Others    | 45                       |\n\n(Total = 360 degrees.)",
+      "question": "Transport expenditure is what percentage of the total income?",
+      "options": [
+        "10%",
+        "12.5%",
+        "15%",
+        "17.5%",
+        "20%"
+      ],
+      "correct": 1,
+      "solution": "Transport share = 45/360 = 12.5%.",
+      "trick": "Percentage on a pie = angle / 360. 45 is one-eighth of 360, and 1/8 = 12.5%. Learn the eighths (12.5, 25, 37.5...)."
+    },
+    {
+      "id": "quant-di-v2-q015",
+      "group": "Set 3 — Pie Chart",
+      "context": "A person's total monthly income of **Rs 45,000** is distributed across five heads. The pie chart is given below as central angles (degrees).\n\n| Head      | Central Angle (degrees) |\n|-----------|--------------------------|\n| Rent      | 120                      |\n| Food      | 90                       |\n| Transport | 45                       |\n| Savings   | 60                       |\n| Others    | 45                       |\n\n(Total = 360 degrees.)",
+      "question": "If Savings increased by 20% next month (income unchanged), what would be the new Savings amount?",
+      "options": [
+        "Rs 8,250",
+        "Rs 8,500",
+        "Rs 9,000",
+        "Rs 9,250",
+        "Rs 9,500"
+      ],
+      "correct": 2,
+      "solution": "Savings = 7,500; +20% = 7,500 × 1.2 = 9,000.",
+      "trick": "20% of 7,500 is 1,500 (just 7,500 / 5). Add it back: 9,000. Dividing by 5 beats multiplying by 0.2."
+    },
+    {
+      "id": "quant-di-v2-q016",
+      "group": "Set 4 — Line Graph",
+      "context": "The line graph shows the monthly production (in tonnes) of a factory over five months.\n\n| Month | Production (tonnes) |\n|-------|---------------------|\n| Jan   | 250                 |\n| Feb   | 300                 |\n| Mar   | 280                 |\n| Apr   | 350                 |\n| May   | 320                 |",
+      "question": "What is the total production over the five months?",
+      "options": [
+        "1,400",
+        "1,450",
+        "1,500",
+        "1,550",
+        "1,600"
+      ],
+      "correct": 2,
+      "solution": "250 + 300 + 280 + 350 + 320 = 1,500.",
+      "trick": "Pair to round hundreds: (250 + 350) = 600, (300 + 320) = 620, wait—simpler: (250+350)=600, (280+320)=600, +300 = 1,500. Two clean 600s plus the middle value."
+    },
+    {
+      "id": "quant-di-v2-q017",
+      "group": "Set 4 — Line Graph",
+      "context": "The line graph shows the monthly production (in tonnes) of a factory over five months.\n\n| Month | Production (tonnes) |\n|-------|---------------------|\n| Jan   | 250                 |\n| Feb   | 300                 |\n| Mar   | 280                 |\n| Apr   | 350                 |\n| May   | 320                 |",
+      "question": "What is the average monthly production?",
+      "options": [
+        "280",
+        "290",
+        "300",
+        "310",
+        "320"
+      ],
+      "correct": 2,
+      "solution": "Average = 1,500 / 5 = 300.",
+      "trick": "Reuse the Q16 total. Also note the values sit symmetrically around 300, so 300 is the natural average — a quick sanity check."
+    },
+    {
+      "id": "quant-di-v2-q018",
+      "group": "Set 4 — Line Graph",
+      "context": "The line graph shows the monthly production (in tonnes) of a factory over five months.\n\n| Month | Production (tonnes) |\n|-------|---------------------|\n| Jan   | 250                 |\n| Feb   | 300                 |\n| Mar   | 280                 |\n| Apr   | 350                 |\n| May   | 320                 |",
+      "question": "The production increased by what percentage from January to April?",
+      "options": [
+        "30%",
+        "35%",
+        "40%",
+        "45%",
+        "50%"
+      ],
+      "correct": 2,
+      "solution": "(350 − 250)/250 = 100/250 = 40%.",
+      "trick": "100/250 = 2/5 = 40%. Convert to a simple fraction before percentaging."
+    },
+    {
+      "id": "quant-di-v2-q019",
+      "group": "Set 4 — Line Graph",
+      "context": "The line graph shows the monthly production (in tonnes) of a factory over five months.\n\n| Month | Production (tonnes) |\n|-------|---------------------|\n| Jan   | 250                 |\n| Feb   | 300                 |\n| Mar   | 280                 |\n| Apr   | 350                 |\n| May   | 320                 |",
+      "question": "The production in February is in what ratio to the production in May?",
+      "options": [
+        "14:15",
+        "15:16",
+        "16:15",
+        "15:14",
+        "5:6"
+      ],
+      "correct": 1,
+      "solution": "Feb : May = 300 : 320. Divide both by 20 → 15:16.",
+      "trick": "Common factor 20 clears it fast: 300/20 = 15, 320/20 = 16. Look for the largest obvious common factor, not just 2s."
+    },
+    {
+      "id": "quant-di-v2-q020",
+      "group": "Set 4 — Line Graph",
+      "context": "The line graph shows the monthly production (in tonnes) of a factory over five months.\n\n| Month | Production (tonnes) |\n|-------|---------------------|\n| Jan   | 250                 |\n| Feb   | 300                 |\n| Mar   | 280                 |\n| Apr   | 350                 |\n| May   | 320                 |",
+      "question": "The production in May is what percentage more than the production in January?",
+      "options": [
+        "24%",
+        "26%",
+        "28%",
+        "30%",
+        "32%"
+      ],
+      "correct": 2,
+      "solution": "(320 − 250)/250 = 70/250 = 28%.",
+      "trick": "70/250 = 28/100 (multiply top and bottom by 0.4, or note 250 × 4 = 1000 so ×4 both: 280/1000 = 28%). Scaling the denominator to 1000 gives the percentage directly."
+    },
+    {
+      "id": "quant-di-v2-q021",
+      "group": "Set 5 — Caselet",
+      "context": "A school has **840** students. The ratio of boys to girls is **4:3**. Among the boys, **25%** wear glasses; among the girls, **40%** wear glasses.",
+      "question": "How many boys are there in the school?",
+      "options": [
+        "420",
+        "450",
+        "480",
+        "500",
+        "360"
+      ],
+      "correct": 2,
+      "solution": "Boys : Girls = 4:3 of 840 → 7 parts = 840, so 1 part = 120. Boys = 480, Girls = 360.\nBoys = 4 × 120 = 480.",
+      "trick": "Total parts (4 + 3 = 7) divide the total once: 840 / 7 = 120 per part. Set the \"per part\" value first, then everything else is a multiplication."
+    },
+    {
+      "id": "quant-di-v2-q022",
+      "group": "Set 5 — Caselet",
+      "context": "A school has **840** students. The ratio of boys to girls is **4:3**. Among the boys, **25%** wear glasses; among the girls, **40%** wear glasses.",
+      "question": "What is the total number of students (boys + girls) who wear glasses?",
+      "options": [
+        "240",
+        "252",
+        "260",
+        "264",
+        "276"
+      ],
+      "correct": 3,
+      "solution": "Boys with glasses = 25% of 480 = 120. Girls with glasses = 40% of 360 = 144. Total = 264.",
+      "trick": "25% = divide by 4 (480/4 = 120); 40% = 0.4 (360 × 0.4 = 144). Use the \"friendly form\" of each percent."
+    },
+    {
+      "id": "quant-di-v2-q023",
+      "group": "Set 5 — Caselet",
+      "context": "A school has **840** students. The ratio of boys to girls is **4:3**. Among the boys, **25%** wear glasses; among the girls, **40%** wear glasses.",
+      "question": "How many boys do NOT wear glasses?",
+      "options": [
+        "320",
+        "340",
+        "350",
+        "360",
+        "380"
+      ],
+      "correct": 3,
+      "solution": "Boys without glasses = 480 − 120 = 360 (i.e. 75% of 480).",
+      "trick": "75% of 480 = three-quarters = 360 directly, no subtraction needed."
+    },
+    {
+      "id": "quant-di-v2-q024",
+      "group": "Set 5 — Caselet",
+      "context": "A school has **840** students. The ratio of boys to girls is **4:3**. Among the boys, **25%** wear glasses; among the girls, **40%** wear glasses.",
+      "question": "The number of boys who wear glasses is in what ratio to the number of girls who wear glasses?",
+      "options": [
+        "4:5",
+        "5:6",
+        "6:5",
+        "5:4",
+        "3:4"
+      ],
+      "correct": 1,
+      "solution": "Boys-with : Girls-with = 120 : 144. Divide both by 24 → 5:6.",
+      "trick": "Both are divisible by 24 (120 = 24×5, 144 = 24×6). Spot the shared factor via the times-tables rather than reducing step by step."
+    },
+    {
+      "id": "quant-di-v2-q025",
+      "group": "Set 5 — Caselet",
+      "context": "A school has **840** students. The ratio of boys to girls is **4:3**. Among the boys, **25%** wear glasses; among the girls, **40%** wear glasses.",
+      "question": "The girls who do NOT wear glasses form what percentage of the total number of girls?",
+      "options": [
+        "55%",
+        "58%",
+        "60%",
+        "62%",
+        "65%"
+      ],
+      "correct": 2,
+      "solution": "Girls without glasses = 60% of girls (since 40% wear them). = 100% − 40%.",
+      "trick": "\"Not X%\" is just the complement — 100 − 40 = 60%. No headcount needed at all."
+    },
+    {
+      "id": "quant-di-v2-q026",
+      "group": "Set 6 — Mixed (Table + Percentage)",
+      "context": "The table shows the total sales (in Rs lakh) of three companies in 2023 and the share of those sales made through the online channel.\n\n| Company | Total Sales (Rs lakh) | Online Share |\n|---------|------------------------|--------------|\n| X       | 400                    | 60%          |\n| Y       | 500                    | 40%          |\n| Z       | 300                    | 60%          |",
+      "question": "What are the combined online sales of all three companies (Rs lakh)?",
+      "options": [
+        "580",
+        "600",
+        "610",
+        "620",
+        "640"
+      ],
+      "correct": 3,
+      "solution": "Online amounts: X = 60% of 400 = 240; Y = 40% of 500 = 200; Z = 60% of 300 = 180.\n240 + 200 + 180 = 620.",
+      "trick": "Compute each online figure as (percent × total) using friendly fractions: 60% = 3/5, 40% = 2/5. 400×3/5 = 240, 500×2/5 = 200, 300×3/5 = 180."
+    },
+    {
+      "id": "quant-di-v2-q027",
+      "group": "Set 6 — Mixed (Table + Percentage)",
+      "context": "The table shows the total sales (in Rs lakh) of three companies in 2023 and the share of those sales made through the online channel.\n\n| Company | Total Sales (Rs lakh) | Online Share |\n|---------|------------------------|--------------|\n| X       | 400                    | 60%          |\n| Y       | 500                    | 40%          |\n| Z       | 300                    | 60%          |",
+      "question": "What are the offline sales of company Y (Rs lakh)?",
+      "options": [
+        "200",
+        "250",
+        "280",
+        "300",
+        "320"
+      ],
+      "correct": 3,
+      "solution": "Offline Y = 500 − 200 = 300 (i.e. 60% of 500).",
+      "trick": "Offline share = 100% − online share = 60% of 500 = 300 straight."
+    },
+    {
+      "id": "quant-di-v2-q028",
+      "group": "Set 6 — Mixed (Table + Percentage)",
+      "context": "The table shows the total sales (in Rs lakh) of three companies in 2023 and the share of those sales made through the online channel.\n\n| Company | Total Sales (Rs lakh) | Online Share |\n|---------|------------------------|--------------|\n| X       | 400                    | 60%          |\n| Y       | 500                    | 40%          |\n| Z       | 300                    | 60%          |",
+      "question": "The online sales of X are in what ratio to the online sales of Z?",
+      "options": [
+        "3:2",
+        "4:3",
+        "5:3",
+        "8:5",
+        "3:4"
+      ],
+      "correct": 1,
+      "solution": "Online X : Online Z = 240 : 180. Divide by 60 → 4:3.",
+      "trick": "Both share factor 60 (240 = 60×4, 180 = 60×3). Since X and Z have the same online rate (60%), the ratio is just their totals 400:300 = 4:3 — skip computing the online amounts entirely."
+    },
+    {
+      "id": "quant-di-v2-q029",
+      "group": "Set 6 — Mixed (Table + Percentage)",
+      "context": "The table shows the total sales (in Rs lakh) of three companies in 2023 and the share of those sales made through the online channel.\n\n| Company | Total Sales (Rs lakh) | Online Share |\n|---------|------------------------|--------------|\n| X       | 400                    | 60%          |\n| Y       | 500                    | 40%          |\n| Z       | 300                    | 60%          |",
+      "question": "What are the total sales of all three companies together (Rs lakh)?",
+      "options": [
+        "1,000",
+        "1,100",
+        "1,150",
+        "1,200",
+        "1,250"
+      ],
+      "correct": 3,
+      "solution": "400 + 500 + 300 = 1,200.",
+      "trick": "Totals column adds cleanly to a round 1,200 — no channel split needed here; read the \"Total Sales\" column directly."
+    },
+    {
+      "id": "quant-di-v2-q030",
+      "group": "Set 6 — Mixed (Table + Percentage)",
+      "context": "The table shows the total sales (in Rs lakh) of three companies in 2023 and the share of those sales made through the online channel.\n\n| Company | Total Sales (Rs lakh) | Online Share |\n|---------|------------------------|--------------|\n| X       | 400                    | 60%          |\n| Y       | 500                    | 40%          |\n| Z       | 300                    | 60%          |",
+      "question": "The online sales of X are what percentage more than the online sales of Z?",
+      "options": [
+        "25%",
+        "30%",
+        "33.33%",
+        "40%",
+        "50%"
+      ],
+      "correct": 2,
+      "solution": "(240 − 180)/180 = 60/180 = 1/3 = 33.33%.",
+      "trick": "60 is one-third of 180, so the excess is 33.33% by inspection. Whenever the gap equals a third of the base, answer 33.33% without dividing."
+    }
+  ]
+}

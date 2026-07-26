@@ -1,0 +1,738 @@
+{
+  "title": "Arithmetic Word Problems — Practice (Vol. 3)",
+  "section": "quant",
+  "kind": "quiz",
+  "source": "quant-arithmetic-v3.md",
+  "questions": [
+    {
+      "id": "quant-arithmetic-v3-q001",
+      "group": "Simple & Compound Interest",
+      "question": "A sum of Rs. 12,500 is lent at 8% per annum simple interest for 3 years. What is the simple interest earned?",
+      "options": [
+        "Rs. 2,500",
+        "Rs. 3,000",
+        "Rs. 3,200",
+        "Rs. 2,800",
+        "Rs. 3,600"
+      ],
+      "correct": 1,
+      "solution": "SI = (P x R x T) / 100 = (12500 x 8 x 3) / 100 = 300000 / 100 = **3,000**.",
+      "trick": "8% for 3 years = 24% of principal. 24% of 12,500 = 3,000."
+    },
+    {
+      "id": "quant-arithmetic-v3-q002",
+      "group": "Simple & Compound Interest",
+      "question": "Rs. 15,000 is invested at 10% per annum compound interest, compounded annually, for 2 years. What is the compound interest?",
+      "options": [
+        "Rs. 3,000",
+        "Rs. 3,300",
+        "Rs. 3,150",
+        "Rs. 2,950",
+        "Rs. 3,450"
+      ],
+      "correct": 2,
+      "solution": "Amount = 15000 x (1.1) x (1.1) = 15000 x 1.21 = 18,150. CI = 18,150 - 15,000 = **3,150**.",
+      "trick": "For 2 years, CI% = R + R + (R x R)/100 = 10 + 10 + 1 = 21%. 21% of 15,000 = 3,150."
+    },
+    {
+      "id": "quant-arithmetic-v3-q003",
+      "group": "Simple & Compound Interest",
+      "question": "The difference between the compound interest and the simple interest on a certain sum for 2 years at 8% per annum is Rs. 96. What is the sum?",
+      "options": [
+        "Rs. 12,000",
+        "Rs. 18,000",
+        "Rs. 15,000",
+        "Rs. 16,000",
+        "Rs. 14,400"
+      ],
+      "correct": 2,
+      "solution": "For 2 years, difference = P x (R/100)^2 = P x (8/100)^2 = P x 64/10000 = 96.\nSo P = 96 x 10000 / 64 = **15,000**.",
+      "trick": "Difference (2 yrs) = P(R/100)^2; the difference equals the \"interest on the first year's interest.\""
+    },
+    {
+      "id": "quant-arithmetic-v3-q004",
+      "group": "Simple & Compound Interest",
+      "question": "A sum of money doubles itself in 8 years at simple interest. In how many years will the same sum become three times itself at the same rate?",
+      "options": [
+        "12 years",
+        "14 years",
+        "16 years",
+        "18 years",
+        "24 years"
+      ],
+      "correct": 2,
+      "solution": "Doubling means interest earned = P. At SI, interest is constant each year, so P is earned in 8 years -> P/8 per year.\nTo triple, interest needed = 2P -> time = 2P / (P/8) = **16 years**.",
+      "trick": "(n-1) rule at SI. Double => interest = 1P in 8 yr. Triple => interest = 2P, so time = 2 x 8 = 16 yr."
+    },
+    {
+      "id": "quant-arithmetic-v3-q005",
+      "group": "Simple & Compound Interest",
+      "question": "Rs. 8,000 is invested at 20% per annum compound interest, compounded half-yearly, for 1 year. What is the compound interest?",
+      "options": [
+        "Rs. 1,600",
+        "Rs. 1,680",
+        "Rs. 1,720",
+        "Rs. 1,760",
+        "Rs. 1,640"
+      ],
+      "correct": 1,
+      "solution": "Half-yearly: rate = 10% per half-year, periods = 2. Amount = 8000 x (1.1)^2 = 8000 x 1.21 = 9,680. CI = **1,680**.",
+      "trick": "Half-yearly halves the rate (20% -> 10%) and doubles the periods (1 yr -> 2 half-years)."
+    },
+    {
+      "id": "quant-arithmetic-v3-q006",
+      "group": "Profit, Loss & Discount",
+      "question": "A article costing Rs. 480 is sold at a profit of 15%. What is its selling price?",
+      "options": [
+        "Rs. 540",
+        "Rs. 552",
+        "Rs. 564",
+        "Rs. 528",
+        "Rs. 550"
+      ],
+      "correct": 1,
+      "solution": "SP = CP x (1 + 15/100) = 480 x 1.15 = **552**.",
+      "trick": "15% of 480 = 72; 480 + 72 = 552."
+    },
+    {
+      "id": "quant-arithmetic-v3-q007",
+      "group": "Profit, Loss & Discount",
+      "question": "An article is sold for Rs. 736 at a loss of 8%. What was its cost price?",
+      "options": [
+        "Rs. 780",
+        "Rs. 820",
+        "Rs. 800",
+        "Rs. 760",
+        "Rs. 850"
+      ],
+      "correct": 2,
+      "solution": "CP = SP / (1 - loss%) = 736 / 0.92 = **800**.",
+      "trick": "At 8% loss, SP = 92% of CP. CP = SP x 100/92 = 736 x 100/92 = 800."
+    },
+    {
+      "id": "quant-arithmetic-v3-q008",
+      "group": "Profit, Loss & Discount",
+      "question": "The marked price of an article is Rs. 1,200 and its cost price is Rs. 800. A discount of 20% is allowed on the marked price. What is the profit percentage?",
+      "options": [
+        "15%",
+        "18%",
+        "25%",
+        "20%",
+        "22%"
+      ],
+      "correct": 3,
+      "solution": "SP = 1200 x (1 - 0.20) = 1200 x 0.80 = 960. Profit = 960 - 800 = 160. Profit% = 160/800 x 100 = **20%**."
+    },
+    {
+      "id": "quant-arithmetic-v3-q009",
+      "group": "Profit, Loss & Discount",
+      "question": "Two successive discounts of 10% and 20% are given on an article. What is the single equivalent discount?",
+      "options": [
+        "30%",
+        "28%",
+        "26%",
+        "25%",
+        "32%"
+      ],
+      "correct": 1,
+      "solution": "Net factor = (1 - 0.10)(1 - 0.20) = 0.9 x 0.8 = 0.72, i.e. 72% of MP is paid, so discount = **28%**.",
+      "trick": "Combined discount = a + b - (ab/100) = 10 + 20 - 2 = 28%."
+    },
+    {
+      "id": "quant-arithmetic-v3-q010",
+      "group": "Profit, Loss & Discount",
+      "question": "A shopkeeper marks his goods 40% above cost price and then allows a discount of 25% on the marked price. What is his profit or loss percentage?",
+      "options": [
+        "10% profit",
+        "5% loss",
+        "5% profit",
+        "15% profit",
+        "No profit no loss"
+      ],
+      "correct": 2,
+      "solution": "Let CP = 100. MP = 140. SP = 140 x 0.75 = 105. Profit = 5, so profit% = **5%**.",
+      "trick": "Overall factor = 1.40 x 0.75 = 1.05 -> 5% profit."
+    },
+    {
+      "id": "quant-arithmetic-v3-q011",
+      "group": "Time & Work",
+      "question": "A can do a piece of work in 12 days and B in 18 days. Working together, in how many days will they complete the work?",
+      "options": [
+        "6 days",
+        "7.2 days",
+        "8 days",
+        "7.5 days",
+        "9 days"
+      ],
+      "correct": 1,
+      "solution": "Take LCM(12, 18) = 36 units. A = 3 units/day, B = 2 units/day, together = 5 units/day. Time = 36/5 = **7.2 days**.",
+      "trick": "Combined time = (12 x 18)/(12 + 18) = 216/30 = 7.2 days."
+    },
+    {
+      "id": "quant-arithmetic-v3-q012",
+      "group": "Time & Work",
+      "question": "A and B together can finish a work in 8 days. A alone can do it in 12 days. In how many days can B alone do the work?",
+      "options": [
+        "20 days",
+        "18 days",
+        "24 days",
+        "30 days",
+        "22 days"
+      ],
+      "correct": 2,
+      "solution": "B's one-day work = 1/8 - 1/12 = (3 - 2)/24 = 1/24, so B alone = **24 days**.",
+      "trick": "Product-over-difference: (8 x 12)/(12 - 8) = 96/4 = 24."
+    },
+    {
+      "id": "quant-arithmetic-v3-q013",
+      "group": "Time & Work",
+      "question": "15 men can complete a piece of work in 20 days. How many days will 25 men take to complete the same work?",
+      "options": [
+        "10 days",
+        "12 days",
+        "15 days",
+        "14 days",
+        "16 days"
+      ],
+      "correct": 1,
+      "solution": "Men x Days is constant: 15 x 20 = 25 x D -> D = 300/25 = **12 days**.",
+      "trick": "More men, fewer days (inverse). 300 man-days / 25 men = 12."
+    },
+    {
+      "id": "quant-arithmetic-v3-q014",
+      "group": "Time & Work",
+      "question": "A is twice as efficient as B. Together they finish a work in 16 days. In how many days can A alone finish the work?",
+      "options": [
+        "20 days",
+        "22 days",
+        "24 days",
+        "28 days",
+        "32 days"
+      ],
+      "correct": 2,
+      "solution": "A : B efficiency = 2 : 1. Let B = 1, A = 2 units/day; together 3 units/day. Total work = 3 x 16 = 48 units. A alone = 48/2 = **24 days**.",
+      "trick": "If A is twice as efficient and together they take 16 days, A alone takes 16 x 3/2 = 24 days."
+    },
+    {
+      "id": "quant-arithmetic-v3-q015",
+      "group": "Time & Work",
+      "question": "Pipe A can fill a tank in 6 hours and pipe B can empty it in 9 hours. If both pipes are opened together, in how long will the tank be filled?",
+      "options": [
+        "15 hours",
+        "16 hours",
+        "18 hours",
+        "20 hours",
+        "21 hours"
+      ],
+      "correct": 2,
+      "solution": "Net fill rate = 1/6 - 1/9 = (3 - 2)/18 = 1/18 per hour, so time = **18 hours**.",
+      "trick": "Fill minus empty; net one-part per 18 hours means 18 hours to fill."
+    },
+    {
+      "id": "quant-arithmetic-v3-q016",
+      "group": "Speed, Time & Distance",
+      "question": "A car travels at a uniform speed of 60 km/h. How long will it take to cover a distance of 210 km?",
+      "options": [
+        "3 hours",
+        "3.5 hours",
+        "4 hours",
+        "3.25 hours",
+        "4.5 hours"
+      ],
+      "correct": 1,
+      "solution": "Time = Distance / Speed = 210 / 60 = **3.5 hours**."
+    },
+    {
+      "id": "quant-arithmetic-v3-q017",
+      "group": "Speed, Time & Distance",
+      "question": "A train 180 metres long is running at 72 km/h. How much time will it take to cross a pole?",
+      "options": [
+        "8 seconds",
+        "9 seconds",
+        "10 seconds",
+        "12 seconds",
+        "7 seconds"
+      ],
+      "correct": 1,
+      "solution": "72 km/h = 72 x 5/18 = 20 m/s. To cross a pole, distance = train length = 180 m. Time = 180/20 = **9 seconds**.",
+      "trick": "To cross a pole, only the train's own length matters."
+    },
+    {
+      "id": "quant-arithmetic-v3-q018",
+      "group": "Speed, Time & Distance",
+      "question": "A train 240 metres long, moving at 20 m/s, crosses a platform 360 metres long. How much time does it take?",
+      "options": [
+        "25 seconds",
+        "28 seconds",
+        "30 seconds",
+        "32 seconds",
+        "24 seconds"
+      ],
+      "correct": 2,
+      "solution": "Total distance = 240 + 360 = 600 m. Time = 600/20 = **30 seconds**.",
+      "trick": "To cross a platform, distance = train length + platform length."
+    },
+    {
+      "id": "quant-arithmetic-v3-q019",
+      "group": "Speed, Time & Distance",
+      "question": "Two trains, 120 m and 130 m long, are running in opposite directions at 54 km/h and 36 km/h respectively. How much time will they take to cross each other?",
+      "options": [
+        "8 seconds",
+        "9 seconds",
+        "10 seconds",
+        "12 seconds",
+        "11 seconds"
+      ],
+      "correct": 2,
+      "solution": "Opposite directions -> add speeds: 54 + 36 = 90 km/h = 25 m/s. Total length = 120 + 130 = 250 m. Time = 250/25 = **10 seconds**.",
+      "trick": "Crossing each other -> relative speed x sum of lengths."
+    },
+    {
+      "id": "quant-arithmetic-v3-q020",
+      "group": "Speed, Time & Distance",
+      "question": "A boat covers 28 km downstream in 2 hours and 16 km upstream in 2 hours. What is the speed of the stream?",
+      "options": [
+        "2 km/h",
+        "3 km/h",
+        "4 km/h",
+        "5 km/h",
+        "3.5 km/h"
+      ],
+      "correct": 1,
+      "solution": "Downstream speed = 28/2 = 14 km/h. Upstream speed = 16/2 = 8 km/h. Stream = (14 - 8)/2 = **3 km/h**.",
+      "trick": "Stream speed = (downstream - upstream)/2; boat speed = (downstream + upstream)/2."
+    },
+    {
+      "id": "quant-arithmetic-v3-q021",
+      "group": "Averages",
+      "question": "The average of 5 numbers is 27. If one of the numbers, which is 15, is removed, what is the average of the remaining numbers?",
+      "options": [
+        "28",
+        "29",
+        "30",
+        "32",
+        "31"
+      ],
+      "correct": 2,
+      "solution": "Sum of 5 numbers = 5 x 27 = 135. Remove 15 -> 120 over 4 numbers -> 120/4 = **30**."
+    },
+    {
+      "id": "quant-arithmetic-v3-q022",
+      "group": "Averages",
+      "question": "The average age of 30 students in a class is 14 years. When the teacher's age is included, the average increases by 1 year. What is the teacher's age?",
+      "options": [
+        "40 years",
+        "44 years",
+        "45 years",
+        "46 years",
+        "48 years"
+      ],
+      "correct": 2,
+      "solution": "Total of 31 people = 31 x 15 = 465. Total of 30 students = 30 x 14 = 420. Teacher = 465 - 420 = **45**.",
+      "trick": "New member's value = new average + (old count x increase) = 15 + 30 x 1 = 45."
+    },
+    {
+      "id": "quant-arithmetic-v3-q023",
+      "group": "Averages",
+      "question": "What is the average of the first five multiples of 6?",
+      "options": [
+        "15",
+        "16",
+        "18",
+        "20",
+        "21"
+      ],
+      "correct": 2,
+      "solution": "Multiples: 6, 12, 18, 24, 30. Sum = 90. Average = 90/5 = **18**.",
+      "trick": "For an evenly spaced set, average = middle term = 18."
+    },
+    {
+      "id": "quant-arithmetic-v3-q024",
+      "group": "Averages",
+      "question": "The average weight of A, B and C is 60 kg. The average weight of A and B is 55 kg, and that of B and C is 65 kg. What is the weight of B?",
+      "options": [
+        "50 kg",
+        "55 kg",
+        "60 kg",
+        "65 kg",
+        "70 kg"
+      ],
+      "correct": 2,
+      "solution": "A + B + C = 180. A + B = 110 -> C = 70. B + C = 130 -> A = 50. So B = 180 - 50 - 70 = **60 kg**."
+    },
+    {
+      "id": "quant-arithmetic-v3-q025",
+      "group": "Averages",
+      "question": "The average of 20 numbers was calculated as 35. Later it was found that one number was read as 18 instead of the correct 78. What is the correct average?",
+      "options": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40"
+      ],
+      "correct": 2,
+      "solution": "Wrong sum = 20 x 35 = 700. Correction = 78 - 18 = +60. Correct sum = 760. Correct average = 760/20 = **38**.",
+      "trick": "Change in average = correction/count = 60/20 = 3; 35 + 3 = 38."
+    },
+    {
+      "id": "quant-arithmetic-v3-q026",
+      "group": "Problems on Ages",
+      "question": "The present ages of A and B are in the ratio 5 : 7. After 6 years the ratio of their ages will be 3 : 4. What is the present age of A?",
+      "options": [
+        "25 years",
+        "28 years",
+        "30 years",
+        "35 years",
+        "42 years"
+      ],
+      "correct": 2,
+      "solution": "Let ages be 5x and 7x. (5x + 6)/(7x + 6) = 3/4 -> 20x + 24 = 21x + 18 -> x = 6. A = 5 x 6 = **30**."
+    },
+    {
+      "id": "quant-arithmetic-v3-q027",
+      "group": "Problems on Ages",
+      "question": "The sum of the ages of a father and his son is 60 years. Six years ago the father's age was five times the son's age. What is the son's present age?",
+      "options": [
+        "12 years",
+        "14 years",
+        "15 years",
+        "16 years",
+        "18 years"
+      ],
+      "correct": 1,
+      "solution": "Let son = s, father = 60 - s. Six years ago: (60 - s - 6) = 5(s - 6) -> 54 - s = 5s - 30 -> 6s = 84 -> s = **14**. (Check: father 46; 6 yrs ago 40 = 5 x 8.)"
+    },
+    {
+      "id": "quant-arithmetic-v3-q028",
+      "group": "Problems on Ages",
+      "question": "A is older than B by 6 years. Ten years ago, A's age was three times B's age. What is A's present age?",
+      "options": [
+        "16 years",
+        "18 years",
+        "19 years",
+        "21 years",
+        "22 years"
+      ],
+      "correct": 2,
+      "solution": "Let B ten years ago = b, then A = 3b. Now A = 3b + 10, B = b + 10; difference 2b = 6 -> b = 3. A now = 3(3) + 10 = **19**. (Check: B now 13, difference 6; 10 yrs ago 9 = 3 x 3.)"
+    },
+    {
+      "id": "quant-arithmetic-v3-q029",
+      "group": "Problems on Ages",
+      "question": "The present ages of P and Q are in the ratio 3 : 5. Q is 8 years older than P. What will be P's age after 5 years?",
+      "options": [
+        "15 years",
+        "16 years",
+        "17 years",
+        "18 years",
+        "20 years"
+      ],
+      "correct": 2,
+      "solution": "Ratio 3 : 5; difference 2 parts = 8 -> 1 part = 4. P = 3 x 4 = 12. After 5 years = **17**."
+    },
+    {
+      "id": "quant-arithmetic-v3-q030",
+      "group": "Problems on Ages",
+      "question": "A man's present age is three times his son's age. Fifteen years ago, the man's age was nine times the son's age. What is the man's present age?",
+      "options": [
+        "45 years",
+        "50 years",
+        "54 years",
+        "60 years",
+        "63 years"
+      ],
+      "correct": 3,
+      "solution": "Let son = s, man = 3s. Fifteen years ago: 3s - 15 = 9(s - 15) -> 3s - 15 = 9s - 135 -> 6s = 120 -> s = 20. Man = 3 x 20 = **60**. (Check: 15 yrs ago 45 = 9 x 5.)"
+    },
+    {
+      "id": "quant-arithmetic-v3-q031",
+      "group": "Ratio & Proportion",
+      "question": "Rs. 720 is divided between two persons in the ratio 3 : 5. What is the larger share?",
+      "options": [
+        "Rs. 270",
+        "Rs. 400",
+        "Rs. 450",
+        "Rs. 480",
+        "Rs. 420"
+      ],
+      "correct": 2,
+      "solution": "Total parts = 3 + 5 = 8; one part = 720/8 = 90. Larger share = 5 x 90 = **450**."
+    },
+    {
+      "id": "quant-arithmetic-v3-q032",
+      "group": "Ratio & Proportion",
+      "question": "Two numbers are in the ratio 5 : 8. If each is increased by 6, the ratio becomes 7 : 10. What are the two numbers?",
+      "options": [
+        "10 and 16",
+        "15 and 24",
+        "20 and 32",
+        "25 and 40",
+        "12 and 18"
+      ],
+      "correct": 1,
+      "solution": "Let numbers be 5x and 8x. (5x + 6)/(8x + 6) = 7/10 -> 50x + 60 = 56x + 42 -> 6x = 18 -> x = 3. Numbers = **15 and 24**."
+    },
+    {
+      "id": "quant-arithmetic-v3-q033",
+      "group": "Ratio & Proportion",
+      "question": "If A : B = 2 : 3 and B : C = 4 : 5, then A : B : C is:",
+      "options": [
+        "2 : 3 : 5",
+        "8 : 12 : 15",
+        "6 : 9 : 10",
+        "2 : 4 : 5",
+        "8 : 12 : 20"
+      ],
+      "correct": 1,
+      "solution": "A : B = 2 : 3 = 8 : 12; B : C = 4 : 5 = 12 : 15. Making B common (12): A : B : C = **8 : 12 : 15**.",
+      "trick": "Scale each ratio so the common term (B) matches."
+    },
+    {
+      "id": "quant-arithmetic-v3-q034",
+      "group": "Ratio & Proportion",
+      "question": "A sum of Rs. 100 is divided among three friends in the ratio 2 : 3 : 5. What is the largest share?",
+      "options": [
+        "Rs. 20",
+        "Rs. 30",
+        "Rs. 40",
+        "Rs. 50",
+        "Rs. 45"
+      ],
+      "correct": 3,
+      "solution": "Total parts = 2 + 3 + 5 = 10; one part = 100/10 = 10. Largest = 5 x 10 = **50**."
+    },
+    {
+      "id": "quant-arithmetic-v3-q035",
+      "group": "Ratio & Proportion",
+      "question": "If 40% of A equals 60% of B, then A : B is:",
+      "options": [
+        "2 : 3",
+        "3 : 2",
+        "4 : 6",
+        "5 : 4",
+        "6 : 5"
+      ],
+      "correct": 1,
+      "solution": "40% of A = 60% of B -> 0.4A = 0.6B -> A/B = 0.6/0.4 = 6/4 = **3 : 2**.",
+      "trick": "A : B = (second %) : (first %) = 60 : 40 = 3 : 2."
+    },
+    {
+      "id": "quant-arithmetic-v3-q036",
+      "group": "Percentages",
+      "question": "What is 35% of 640?",
+      "options": [
+        "210",
+        "224",
+        "230",
+        "216",
+        "240"
+      ],
+      "correct": 1,
+      "solution": "35% of 640 = 0.35 x 640 = **224**.",
+      "trick": "10% = 64, so 35% = 3.5 x 64 = 224."
+    },
+    {
+      "id": "quant-arithmetic-v3-q037",
+      "group": "Percentages",
+      "question": "A number when increased by 25% becomes 350. What is the original number?",
+      "options": [
+        "260",
+        "275",
+        "280",
+        "300",
+        "290"
+      ],
+      "correct": 2,
+      "solution": "Original x 1.25 = 350 -> original = 350/1.25 = **280**.",
+      "trick": "Increase by 25% = x 5/4, so original = 350 x 4/5 = 280."
+    },
+    {
+      "id": "quant-arithmetic-v3-q038",
+      "group": "Percentages",
+      "question": "If the price of a commodity increases by 20%, by what percentage must a family reduce its consumption so that the expenditure remains unchanged?",
+      "options": [
+        "20%",
+        "25%",
+        "16 2/3%",
+        "15%",
+        "18%"
+      ],
+      "correct": 2,
+      "solution": "Required reduction = increase/(100 + increase) = 20/120 = 1/6 = **16 2/3%**.",
+      "trick": "Price up r% -> consumption down [r/(100 + r)] x 100 %."
+    },
+    {
+      "id": "quant-arithmetic-v3-q039",
+      "group": "Percentages",
+      "question": "In an examination, 40% marks are required to pass. A candidate scored 180 marks and failed by 20 marks. What are the maximum marks?",
+      "options": [
+        "400",
+        "450",
+        "500",
+        "550",
+        "480"
+      ],
+      "correct": 2,
+      "solution": "Pass mark = 180 + 20 = 200 = 40% of total. Total = 200 x 100/40 = **500**."
+    },
+    {
+      "id": "quant-arithmetic-v3-q040",
+      "group": "Percentages",
+      "question": "The population of a town is 20,000. It increases by 10% in the first year and decreases by 10% in the second year. What is the population at the end of two years?",
+      "options": [
+        "20,000",
+        "19,800",
+        "20,200",
+        "19,600",
+        "19,900"
+      ],
+      "correct": 1,
+      "solution": "20000 x 1.10 x 0.90 = 20000 x 0.99 = **19,800**.",
+      "trick": "+10% then -10% always gives a net -1% (= -x^2/100 for x = 10)."
+    },
+    {
+      "id": "quant-arithmetic-v3-q041",
+      "group": "Mixtures & Alligation",
+      "question": "40 litres of a mixture contain milk and water in the ratio 3 : 1. How much water must be added so that the ratio becomes 3 : 2?",
+      "options": [
+        "5 litres",
+        "8 litres",
+        "10 litres",
+        "12 litres",
+        "15 litres"
+      ],
+      "correct": 2,
+      "solution": "Milk = 3/4 x 40 = 30 L, water = 10 L. Let w litres of water be added: 30/(10 + w) = 3/2 -> 60 = 30 + 3w -> w = **10 litres**. (Milk stays constant.)"
+    },
+    {
+      "id": "quant-arithmetic-v3-q042",
+      "group": "Mixtures & Alligation",
+      "question": "In what ratio must rice costing Rs. 40 per kg be mixed with rice costing Rs. 60 per kg so that the mixture costs Rs. 48 per kg?",
+      "options": [
+        "2 : 3",
+        "3 : 2",
+        "4 : 3",
+        "1 : 2",
+        "3 : 4"
+      ],
+      "correct": 1,
+      "solution": "By alligation: cheaper : dearer = (60 - 48) : (48 - 40) = 12 : 8 = **3 : 2**."
+    },
+    {
+      "id": "quant-arithmetic-v3-q043",
+      "group": "Mixtures & Alligation",
+      "question": "A 40-litre solution contains 10% water and the rest alcohol. How much water must be added to make the water content 25% of the new solution?",
+      "options": [
+        "5 litres",
+        "6 litres",
+        "8 litres",
+        "10 litres",
+        "12 litres"
+      ],
+      "correct": 2,
+      "solution": "Water = 10% of 40 = 4 L; alcohol = 36 L (unchanged). For water to be 25%, alcohol is 75% of new total -> new total = 36/0.75 = 48 L. Water added = 48 - 40 = **8 litres**."
+    },
+    {
+      "id": "quant-arithmetic-v3-q044",
+      "group": "Mixtures & Alligation",
+      "question": "From a vessel containing 50 litres of pure milk, 5 litres are drawn out and replaced with water. This process is repeated once more. How much pure milk remains in the vessel?",
+      "options": [
+        "39.5 litres",
+        "40 litres",
+        "40.5 litres",
+        "41 litres",
+        "42 litres"
+      ],
+      "correct": 2,
+      "solution": "Milk left = 50 x (1 - 5/50)^2 = 50 x (0.9)^2 = 50 x 0.81 = **40.5 litres**.",
+      "trick": "Replacement formula: initial x (1 - drawn/total)^n."
+    },
+    {
+      "id": "quant-arithmetic-v3-q045",
+      "group": "Mixtures & Alligation",
+      "question": "A vessel contains 25 litres of a mixture of milk and water in the ratio 3 : 2. If 5 litres of the mixture is removed and replaced with 5 litres of water, what is the new ratio of milk to water?",
+      "options": [
+        "3 : 2",
+        "11 : 14",
+        "12 : 13",
+        "13 : 12",
+        "2 : 3"
+      ],
+      "correct": 2,
+      "solution": "Initial: milk 15 L, water 10 L. Removing 5 L of a 3 : 2 mix removes 3 L milk and 2 L water -> milk 12, water 8. Add 5 L water -> water 13. Ratio = **12 : 13**."
+    },
+    {
+      "id": "quant-arithmetic-v3-q046",
+      "group": "Partnership",
+      "question": "A invests Rs. 5,000 and B invests Rs. 7,000 in a business for one year. If the total annual profit is Rs. 3,600, what is B's share?",
+      "options": [
+        "Rs. 1,500",
+        "Rs. 1,800",
+        "Rs. 2,100",
+        "Rs. 2,000",
+        "Rs. 2,400"
+      ],
+      "correct": 2,
+      "solution": "Ratio of investments = 5000 : 7000 = 5 : 7. B's share = 7/12 x 3600 = **2,100**."
+    },
+    {
+      "id": "quant-arithmetic-v3-q047",
+      "group": "Partnership",
+      "question": "A invests Rs. 8,000 for 12 months and B invests Rs. 12,000 for 6 months. If the total profit is Rs. 2,800, what is A's share?",
+      "options": [
+        "Rs. 1,200",
+        "Rs. 1,400",
+        "Rs. 1,600",
+        "Rs. 1,800",
+        "Rs. 1,500"
+      ],
+      "correct": 2,
+      "solution": "Capital-months: A = 8000 x 12 = 96,000; B = 12000 x 6 = 72,000. Ratio = 96 : 72 = 4 : 3. A's share = 4/7 x 2800 = **1,600**.",
+      "trick": "Share is proportional to (amount x time)."
+    },
+    {
+      "id": "quant-arithmetic-v3-q048",
+      "group": "Partnership",
+      "question": "A and B invest amounts in the ratio 4 : 5. A keeps his money invested for 12 months and B for 9 months. If the total profit is Rs. 3,100, what is B's share?",
+      "options": [
+        "Rs. 1,400",
+        "Rs. 1,500",
+        "Rs. 1,600",
+        "Rs. 1,550",
+        "Rs. 1,650"
+      ],
+      "correct": 1,
+      "solution": "Ratio = (4 x 12) : (5 x 9) = 48 : 45 = 16 : 15. B's share = 15/31 x 3100 = **1,500**."
+    },
+    {
+      "id": "quant-arithmetic-v3-q049",
+      "group": "Partnership",
+      "question": "Three partners A, B and C invest Rs. 6,000, Rs. 8,000 and Rs. 10,000 respectively in a business. If the total profit is Rs. 7,200, what is C's share?",
+      "options": [
+        "Rs. 2,400",
+        "Rs. 2,800",
+        "Rs. 3,000",
+        "Rs. 3,200",
+        "Rs. 3,600"
+      ],
+      "correct": 2,
+      "solution": "Ratio = 6000 : 8000 : 10000 = 3 : 4 : 5 (total 12). C's share = 5/12 x 7200 = **3,000**."
+    },
+    {
+      "id": "quant-arithmetic-v3-q050",
+      "group": "Partnership",
+      "question": "A starts a business with Rs. 12,000. After 4 months, B joins with Rs. 18,000. At the end of the year, the total profit is Rs. 5,100. What is each partner's share?",
+      "options": [
+        "A: Rs. 2,550, B: Rs. 2,550",
+        "A: Rs. 3,000, B: Rs. 2,100",
+        "A: Rs. 2,100, B: Rs. 3,000",
+        "A: Rs. 2,700, B: Rs. 2,400",
+        "A: Rs. 2,400, B: Rs. 2,700"
+      ],
+      "correct": 0,
+      "solution": "Capital-months: A = 12000 x 12 = 144,000; B = 18000 x 8 = 144,000. Ratio = 1 : 1. Each = 5100/2 = **2,550**.",
+      "trick": "Larger capital for fewer months can equal smaller capital for more months — always compare (amount x time)."
+    }
+  ]
+}

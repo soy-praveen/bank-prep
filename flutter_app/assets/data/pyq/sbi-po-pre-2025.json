@@ -1,0 +1,2029 @@
+{
+ "sets": [
+  {
+   "id": "pyq-sbipo-pre25-set1",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "title": "Central Bank Digital Currencies",
+   "context": "Central bank digital currencies, or CBDCs, have moved from the realm of academic speculation to active experimentation in a remarkably short span. A CBDC is simply money issued directly by a country's central bank in digital form, distinct from the balances that commercial banks hold or the private cryptocurrencies that trade on exchanges. While the cash in your wallet is a direct claim on the central bank, the money in your bank account is a claim on a private lender; a retail CBDC would extend that direct, sovereign-backed claim into the digital world.\n\nProponents argue that a well-designed CBDC could lower the cost of payments, speed up settlement and extend financial services to millions who remain outside the formal banking system. Because it would be a public good rather than a profit-seeking product, a CBDC could in principle serve remote and low-income users whom private providers often neglect. For governments, it also promises faster and more transparent delivery of welfare payments, with less leakage along the way.\n\nYet the technology, still **nascent** in most economies, carries real risks. If citizens can hold money directly at the central bank, they may pull deposits out of commercial banks during moments of panic, draining the very institutions that fund loans to businesses and households. There are equally serious worries about privacy: a digital currency that records every transaction could hand the state an unprecedented window into private life. Poorly designed safeguards could **curtail** the financial freedoms that cash has long protected.\n\nMost experts therefore counsel a cautious, deliberate approach. A two-tier model, in which the central bank issues the currency but private institutions manage customer-facing services, could preserve the role of banks while capturing the benefits of public digital money. Strong legal limits on data use, offline functionality and caps on individual holdings are among the guardrails being tested. Handled with care, a CBDC could modernise money for the digital age; handled carelessly, it could concentrate power and unsettle a financial system that depends, above all, on trust."
+  },
+  {
+   "id": "pyq-sbipo-pre25-set2",
+   "section": "english",
+   "topic": "cloze-test",
+   "title": "The Shift to Remote and Hybrid Work",
+   "context": "The shift to remote work, accelerated by the pandemic, has fundamentally (1) the way organisations think about the workplace. Many companies that once (2) that productivity required physical presence have discovered that employees can perform just as well, if not better, from home. However, this new arrangement is not without its (3); managers worry about weakened team bonds and the blurring of boundaries between work and personal life. To address these concerns, a growing number of firms are (4) a hybrid model that combines office and remote days. Such flexibility, they believe, will help them (5) top talent in an increasingly competitive job market."
+  },
+  {
+   "id": "pyq-sbipo-pre25-set3",
+   "section": "english",
+   "topic": "para-jumbles",
+   "title": "The Invention of the Printing Press",
+   "context": "(A) Within decades, printing presses had spread across Europe, turning a slow, elite craft into a booming industry.\n(B) For most of human history, books were copied by hand, a painstaking process that made them rare and expensive.\n(C) This explosion of printed material fuelled the spread of new ideas, from science to religion, reshaping society forever.\n(D) In the middle of the fifteenth century, a German goldsmith named Johannes Gutenberg changed all that with his movable-type press.\n(E) His machine could produce pages far faster than any scribe, dramatically lowering the cost of books.\n(F) As prices fell, literacy began to rise, and ordinary people gained access to knowledge once reserved for the few."
+  },
+  {
+   "id": "pyq-sbipo-pre25-set4",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "title": "Cars and Bikes Serviced by Five Centres",
+   "context": "The table shows the number of **Cars** and **Bikes** serviced by five service centres (P-T) during a month.\n\n| Centre | Cars | Bikes |\n| --- | --- | --- |\n| P | 240 | 160 |\n| Q | 180 | 220 |\n| R | 300 | 150 |\n| S | 260 | 140 |\n| T | 220 | 180 |"
+  },
+  {
+   "id": "pyq-sbipo-pre25-set5",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "title": "Distribution of 7200 Books Across Six Subjects",
+   "context": "A library has a total of **7200** books distributed across six subjects. The pie chart is summarised below as the percentage share of each subject.\n\n| Subject | Percentage |\n| --- | --- |\n| Mathematics | 20% |\n| Physics | 15% |\n| Chemistry | 18% |\n| Biology | 12% |\n| English | 25% |\n| Hindi | 10% |"
+  },
+  {
+   "id": "pyq-sbipo-pre25-set6",
+   "section": "quant",
+   "topic": "caselet-di",
+   "title": "Newspaper Readership Survey",
+   "context": "In a survey of 600 people about the newspapers they read, respondents could read English, Hindi, both or neither. It was found that 240 people read only English, 180 people read only Hindi, and 90 people read both English and Hindi. The remaining respondents read neither newspaper.\n\n| Category | Number |\n| --- | --- |\n| Only English | 240 |\n| Only Hindi | 180 |\n| Both | 90 |\n| Neither | ? |"
+  },
+  {
+   "id": "pyq-sbipo-pre25-set7",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "title": "Eight Friends Around a Circular Table",
+   "context": "Eight friends - A, B, C, D, E, F, G and H - sit around a circular table facing the centre, but not necessarily in this order. (For a person facing the centre, the immediate left is the clockwise neighbour and the immediate right is the anticlockwise neighbour.)\nA sits to the immediate left of B.\nD sits to the immediate left of A.\nF sits to the immediate left of D.\nH sits to the immediate left of F.\nC sits to the immediate left of H.\nE sits to the immediate left of C.\nG sits to the immediate left of E."
+  },
+  {
+   "id": "pyq-sbipo-pre25-set8",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "title": "Seven People on a Seven-Floor Building",
+   "context": "Seven people - P, Q, R, S, T, U and V - live on seven different floors of a building. The lowest floor is numbered 1 and the topmost floor is numbered 7.\nThree persons live between P and Q.\nP lives on a floor above Q.\nT lives on the floor immediately above P.\nOnly one person lives between T and R.\nS lives on the floor immediately below Q.\nU lives on an even-numbered floor."
+  },
+  {
+   "id": "pyq-sbipo-pre25-set9",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "title": "Six Boxes in a Stack",
+   "context": "Six boxes - J, K, L, M, N and O - are placed one above another in a single stack. The bottommost position is numbered 1 and the topmost position is numbered 6.\nBox L is placed at the topmost position.\nTwo boxes are placed between L and J.\nBox K is placed immediately below J.\nBox M is placed immediately above J.\nBox N is not placed at the bottom."
+  },
+  {
+   "id": "pyq-sbipo-pre25-set10",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "title": "Eight Persons in a Single Row",
+   "context": "Eight persons - P, Q, R, S, T, U, V and W - sit in a single row, all facing north, but not necessarily in this order.\nP sits second from the left end.\nS sits at an extreme end and is an immediate neighbour of P.\nExactly one person sits between P and W.\nV sits at the extreme right end.\nR sits second to the right of Q.\nU sits immediately to the right of Q."
+  }
+ ],
+ "questions": [
+  {
+   "id": "pyq-sbipo-pre25-q001",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre25-set1",
+   "question": "Which of the following best captures the central idea of the passage?",
+   "options": [
+    "Central bank digital currencies have already replaced cash in most economies.",
+    "A CBDC offers significant benefits but poses real risks, so it must be designed with great care.",
+    "Commercial banks will inevitably collapse once a CBDC is introduced.",
+    "Private cryptocurrencies are superior to any currency a central bank could issue.",
+    "Governments should abandon all plans for digital currencies immediately."
+   ],
+   "correct": 1,
+   "explanation": "The passage lays out the promise of CBDCs (cheaper payments, inclusion, transparent welfare) alongside the perils (bank disintermediation, privacy) and concludes that a cautious, well-designed approach is essential. Option 2 balances both sides, matching the final paragraph. The others overstate one aspect or contradict the text.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q002",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre25-set1",
+   "question": "According to the passage, how does money in a commercial bank account differ from physical cash?",
+   "options": [
+    "Both are direct claims on the central bank.",
+    "Cash is a claim on a private lender, while bank-account money is a claim on the central bank.",
+    "Cash is a direct claim on the central bank, while money in a bank account is a claim on a private lender.",
+    "Neither is backed by the central bank in any way.",
+    "Money in a bank account is a private cryptocurrency."
+   ],
+   "correct": 2,
+   "explanation": "The first paragraph states that 'the cash in your wallet is a direct claim on the central bank, [while] the money in your bank account is a claim on a private lender.' Option 3 reproduces this distinction exactly.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q003",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-pre25-set1",
+   "question": "Which of the following can be inferred as a reason a retail CBDC might drain deposits from commercial banks during a panic?",
+   "options": [
+    "Because commercial banks would be legally required to shut down.",
+    "Because citizens could hold money directly at the central bank and pull it out of private banks when frightened.",
+    "Because the central bank would confiscate all private deposits.",
+    "Because a CBDC would pay far higher interest than any bank.",
+    "Because cash would be banned entirely once a CBDC launched."
+   ],
+   "correct": 1,
+   "explanation": "The third paragraph explains that 'if citizens can hold money directly at the central bank, they may pull deposits out of commercial banks during moments of panic.' Option 2 captures this. The others invent facts not supported by the passage.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q004",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre25-set1",
+   "question": "Which of the following is NOT mentioned in the passage as a potential benefit of a CBDC?",
+   "options": [
+    "Lower cost of payments",
+    "Faster settlement",
+    "More transparent delivery of welfare payments",
+    "Extending financial services to those outside the banking system",
+    "Eliminating the need for a central bank"
+   ],
+   "correct": 4,
+   "explanation": "The second paragraph lists cheaper payments, faster settlement, financial inclusion and transparent welfare delivery as benefits. A CBDC is issued BY the central bank, so 'eliminating the need for a central bank' is never mentioned and is the correct answer.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q005",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre25-set1",
+   "question": "What is the tone of the author towards CBDCs in the passage?",
+   "options": [
+    "Alarmed and wholly opposed",
+    "Cautiously balanced, weighing benefits against risks",
+    "Uncritically enthusiastic and celebratory",
+    "Indifferent and detached",
+    "Mocking and sarcastic"
+   ],
+   "correct": 1,
+   "explanation": "The author presents genuine benefits and serious risks even-handedly and ends by urging care. This is a cautiously balanced tone, not hostile, uncritical, indifferent or sarcastic.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q006",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre25-set1",
+   "question": "What is the 'two-tier model' described in the passage?",
+   "options": [
+    "A model in which two central banks jointly issue the currency.",
+    "A model in which the central bank issues the currency while private institutions manage customer-facing services.",
+    "A model in which only private banks issue digital money.",
+    "A model that runs two competing cryptocurrencies side by side.",
+    "A model that abolishes commercial banks entirely."
+   ],
+   "correct": 1,
+   "explanation": "The final paragraph defines the two-tier model as one 'in which the central bank issues the currency but private institutions manage customer-facing services,' preserving banks while gaining the benefits of public digital money. Option 2 matches.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q007",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "vocabulary",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre25-set1",
+   "question": "Choose the word that is most nearly SIMILAR in meaning to the word **nascent** as used in the passage.",
+   "options": [
+    "mature",
+    "emerging",
+    "obsolete",
+    "widespread",
+    "declining"
+   ],
+   "correct": 1,
+   "explanation": "'Nascent' means just coming into existence or in an early stage of development. 'Emerging' is the closest synonym. 'Mature,' 'obsolete,' 'widespread' and 'declining' all conflict with the sense of a technology still in its infancy.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q008",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "vocabulary",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre25-set1",
+   "question": "Choose the word that is most nearly OPPOSITE in meaning to the word **curtail** as used in the passage.",
+   "options": [
+    "restrict",
+    "shorten",
+    "expand",
+    "reduce",
+    "limit"
+   ],
+   "correct": 2,
+   "explanation": "'Curtail' means to cut short or reduce. Its opposite is 'expand,' meaning to increase or extend. 'Restrict,' 'shorten,' 'reduce' and 'limit' are all synonyms of curtail, not antonyms.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q009",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "cloze-test",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre25-set2",
+   "question": "Choose the best word for blank (1).",
+   "options": [
+    "transformed",
+    "ignored",
+    "delayed",
+    "weakened",
+    "hidden"
+   ],
+   "correct": 0,
+   "explanation": "The sentence says the shift to remote work has 'fundamentally ___ the way organisations think about the workplace.' 'Transformed' captures the deep change described in the rest of the passage. 'Ignored,' 'delayed,' 'weakened' and 'hidden' do not fit.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q010",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "cloze-test",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre25-set2",
+   "question": "Choose the best word for blank (2).",
+   "options": [
+    "denied",
+    "assumed",
+    "forgot",
+    "proved",
+    "refused"
+   ],
+   "correct": 1,
+   "explanation": "The companies 'once ___ that productivity required physical presence' but later 'discovered' otherwise. The contrast requires a word meaning 'took for granted,' i.e. 'assumed.' 'Denied,' 'proved' and 'refused' reverse the logic; 'forgot' does not fit.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q011",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "cloze-test",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre25-set2",
+   "question": "Choose the best word for blank (3).",
+   "options": [
+    "benefits",
+    "challenges",
+    "rewards",
+    "celebrations",
+    "guarantees"
+   ],
+   "correct": 1,
+   "explanation": "The clause 'not without its ___' is followed by the managers' worries about weakened bonds and blurred boundaries, so the blank needs a negative word: 'challenges.' 'Benefits,' 'rewards,' 'celebrations' and 'guarantees' are positive and do not fit.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q012",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "cloze-test",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre25-set2",
+   "question": "Choose the best word for blank (4).",
+   "options": [
+    "rejecting",
+    "adopting",
+    "banning",
+    "postponing",
+    "questioning"
+   ],
+   "correct": 1,
+   "explanation": "Firms are 'to address these concerns ... ___ a hybrid model.' 'Adopting' (taking up) fits the positive, solution-oriented context. 'Rejecting,' 'banning,' 'postponing' and 'questioning' all contradict the idea of embracing the hybrid model.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q013",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "cloze-test",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre25-set2",
+   "question": "Choose the best word for blank (5).",
+   "options": [
+    "lose",
+    "retain",
+    "dismiss",
+    "ignore",
+    "replace"
+   ],
+   "correct": 1,
+   "explanation": "Flexibility helps firms '___ top talent in an increasingly competitive job market.' Companies want to keep good employees, so 'retain' fits. 'Lose,' 'dismiss,' 'ignore' and 'replace' all run counter to the intended meaning.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q014",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "para-jumbles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre25-set3",
+   "question": "After rearranging the six sentences (A)-(F) into a coherent paragraph, which sentence should come FIRST?",
+   "options": [
+    "(A)",
+    "(B)",
+    "(C)",
+    "(D)",
+    "(E)"
+   ],
+   "correct": 1,
+   "explanation": "The correct order is B-D-E-A-F-C. Sentence (B) sets the historical scene ('For most of human history, books were copied by hand'), so it opens the paragraph.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q015",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "para-jumbles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre25-set3",
+   "question": "In the correct arrangement of sentences (A)-(F), which sentence should come SECOND?",
+   "options": [
+    "(A)",
+    "(C)",
+    "(D)",
+    "(E)",
+    "(F)"
+   ],
+   "correct": 2,
+   "explanation": "The correct order is B-D-E-A-F-C. After (B) describes hand-copying, (D) introduces Gutenberg, who 'changed all that,' so (D) is second.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q016",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "para-jumbles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre25-set3",
+   "question": "In the correct arrangement of sentences (A)-(F), which sentence should come FOURTH?",
+   "options": [
+    "(A)",
+    "(C)",
+    "(E)",
+    "(F)",
+    "(B)"
+   ],
+   "correct": 0,
+   "explanation": "The correct order is B-D-E-A-F-C. After (E) explains that the machine lowered costs, (A) states that presses 'spread across Europe' into a booming industry, so (A) is fourth.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q017",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "para-jumbles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre25-set3",
+   "question": "In the correct arrangement of sentences (A)-(F), which sentence should come LAST?",
+   "options": [
+    "(A)",
+    "(C)",
+    "(E)",
+    "(F)",
+    "(B)"
+   ],
+   "correct": 1,
+   "explanation": "The correct order is B-D-E-A-F-C. Sentence (C) sums up the lasting impact ('This explosion of printed material ... reshaping society forever'), making it the concluding sentence.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q018",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "para-jumbles",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-pre25-set3",
+   "question": "In the correct arrangement of sentences (A)-(F), which of the following pairs is adjacent, with the first appearing immediately before the second?",
+   "options": [
+    "(E) then (D)",
+    "(D) then (E)",
+    "(C) then (F)",
+    "(A) then (B)",
+    "(F) then (A)"
+   ],
+   "correct": 1,
+   "explanation": "The correct order is B-D-E-A-F-C. (D) introduces Gutenberg's press and (E) begins 'His machine could produce pages far faster,' referring directly to that press, so (D) is immediately followed by (E).",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q019",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "error-spotting",
+   "difficulty": 2,
+   "question": "Read the sentence and identify the part that contains a grammatical error. If there is no error, choose 'No error'.\n\n**(A)** One of the most **(B)** important skill **(C)** that a leader must have **(D)** is the ability to listen.",
+   "options": [
+    "(A) One of the most",
+    "(B) important skill",
+    "(C) that a leader must have",
+    "(D) is the ability to listen",
+    "(E) No error"
+   ],
+   "correct": 1,
+   "explanation": "The structure 'one of the most important ___' requires a plural noun. Part (B) should read 'important skills,' not 'important skill.' The error is in part (B).",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q020",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "error-spotting",
+   "difficulty": 2,
+   "question": "Read the sentence and identify the part that contains a grammatical error. If there is no error, choose 'No error'.\n\n**(A)** The teacher along with **(B)** her students **(C)** were invited **(D)** to the annual function.",
+   "options": [
+    "(A) The teacher along with",
+    "(B) her students",
+    "(C) were invited",
+    "(D) to the annual function",
+    "(E) No error"
+   ],
+   "correct": 2,
+   "explanation": "When the subject is joined to another noun by 'along with,' the verb agrees with the main subject, 'The teacher' (singular). So part (C) should be 'was invited,' not 'were invited.' The error is in part (C).",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q021",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "error-spotting",
+   "difficulty": 2,
+   "question": "Read the sentence and identify the part that contains a grammatical error. If there is no error, choose 'No error'.\n\n**(A)** He is senior **(B)** than me **(C)** by five years **(D)** in this office.",
+   "options": [
+    "(A) He is senior",
+    "(B) than me",
+    "(C) by five years",
+    "(D) in this office",
+    "(E) No error"
+   ],
+   "correct": 1,
+   "explanation": "Comparatives like 'senior,' 'junior,' 'superior' and 'inferior' are followed by 'to,' not 'than.' Part (B) should be 'to me.' The error is in part (B).",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q022",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "error-spotting",
+   "difficulty": 2,
+   "question": "Read the sentence and identify the part that contains a grammatical error. If there is no error, choose 'No error'.\n\n**(A)** If he had **(B)** worked harder, **(C)** he will have **(D)** passed the examination.",
+   "options": [
+    "(A) If he had",
+    "(B) worked harder,",
+    "(C) he will have",
+    "(D) passed the examination",
+    "(E) No error"
+   ],
+   "correct": 2,
+   "explanation": "This is a third conditional: the 'if' clause uses the past perfect ('had worked'), so the main clause must use 'would have.' Part (C) should be 'he would have,' not 'he will have.' The error is in part (C).",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q023",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "error-spotting",
+   "difficulty": 2,
+   "question": "Read the sentence and identify the part that contains a grammatical error. If there is no error, choose 'No error'.\n\n**(A)** The scenery of **(B)** the hills were **(C)** so beautiful that **(D)** we decided to stay.",
+   "options": [
+    "(A) The scenery of",
+    "(B) the hills were",
+    "(C) so beautiful that",
+    "(D) we decided to stay",
+    "(E) No error"
+   ],
+   "correct": 1,
+   "explanation": "The subject is 'The scenery' (singular, uncountable), so the verb must be singular. Part (B) should be 'the hills was,' i.e. 'The scenery of the hills was so beautiful.' The error is in part (B).",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q024",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "word-usage",
+   "difficulty": 2,
+   "question": "In the following sentence, two words have been interchanged, making the sentence illogical. Select the pair of words that must be swapped to restore the intended meaning.\n\nThe lawyer presented strong questions and the judge asked several arguments.",
+   "options": [
+    "lawyer and judge",
+    "questions and arguments",
+    "presented and asked",
+    "strong and several",
+    "lawyer and questions"
+   ],
+   "correct": 1,
+   "explanation": "A lawyer presents arguments and a judge asks questions, so the sentence reverses these. Swapping 'questions' and 'arguments' restores the sense: 'The lawyer presented strong arguments and the judge asked several questions.' The pair is 'questions and arguments.'",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q025",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "word-usage",
+   "difficulty": 2,
+   "question": "In the following sentence, two words have been interchanged, making the sentence illogical. Select the pair of words that must be swapped to restore the intended meaning.\n\nThe company decided to launch its new problem to solve a major product.",
+   "options": [
+    "company and product",
+    "launch and solve",
+    "problem and product",
+    "new and major",
+    "decided and launch"
+   ],
+   "correct": 2,
+   "explanation": "One launches a product and solves a problem, but the sentence swaps them. Interchanging 'problem' and 'product' fixes it: 'launch its new product to solve a major problem.' The pair is 'problem and product.'",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q026",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "word-usage",
+   "difficulty": 2,
+   "question": "In the following sentence, two words have been interchanged, making the sentence illogical. Select the pair of words that must be swapped to restore the intended meaning.\n\nThe scientist recorded his observations after conducting the results and analysing the experiment.",
+   "options": [
+    "scientist and observations",
+    "recorded and conducting",
+    "results and experiment",
+    "after and analysing",
+    "conducting and analysing"
+   ],
+   "correct": 2,
+   "explanation": "One conducts an experiment and analyses the results, but the sentence swaps them. Interchanging 'results' and 'experiment' restores the logical order: 'after conducting the experiment and analysing the results.' The pair is 'results and experiment.'",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q027",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "word-usage",
+   "difficulty": 2,
+   "question": "In the following sentence, two words have been interchanged, making the sentence illogical. Select the pair of words that must be swapped to restore the intended meaning.\n\nThe chef added salt to the dessert and sugar to the soup before serving.",
+   "options": [
+    "chef and dessert",
+    "added and serving",
+    "salt and sugar",
+    "dessert and serving",
+    "soup and serving"
+   ],
+   "correct": 2,
+   "explanation": "Sugar belongs in a dessert and salt in a soup, but the sentence reverses them. Interchanging 'salt' and 'sugar' fixes it: 'added sugar to the dessert and salt to the soup.' The pair is 'salt and sugar.'",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q028",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "phrase-replacement",
+   "difficulty": 2,
+   "question": "Choose the option that best replaces the highlighted phrase. If no replacement is needed, choose the 'No replacement required' option.\n\nThe new manager is **well versed with** the latest technologies used in the industry.",
+   "options": [
+    "well versed in",
+    "well verse with",
+    "well versed about",
+    "well versing with",
+    "No replacement required"
+   ],
+   "correct": 0,
+   "explanation": "The correct collocation is 'well versed in,' meaning highly skilled or knowledgeable in something. So 'well versed with' should be replaced with 'well versed in.' The other options are ungrammatical.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q029",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "phrase-replacement",
+   "difficulty": 2,
+   "question": "Choose the option that best replaces the highlighted phrase. If no replacement is needed, choose the 'No replacement required' option.\n\nScarcely had he reached the station **than** the train left the platform.",
+   "options": [
+    "when",
+    "then",
+    "that",
+    "as",
+    "No replacement required"
+   ],
+   "correct": 0,
+   "explanation": "The correlative for 'scarcely' (like 'hardly') is 'when,' not 'than.' The correct sentence is 'Scarcely had he reached the station when the train left.' So 'than' should be replaced with 'when.'",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q030",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "phrase-replacement",
+   "difficulty": 2,
+   "question": "Choose the option that best replaces the highlighted phrase. If no replacement is needed, choose the 'No replacement required' option.\n\nThe committee will **look into the matter** and take appropriate action soon.",
+   "options": [
+    "look on the matter",
+    "look into matter",
+    "looking into the matter",
+    "look for the matter",
+    "No replacement required"
+   ],
+   "correct": 4,
+   "explanation": "The phrase 'look into the matter' correctly means to investigate it, and it is grammatically sound. No change is needed, so the answer is 'No replacement required.' The other options are ungrammatical or change the meaning.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q031",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "fillers",
+   "difficulty": 2,
+   "question": "Select the pair of words that best fits the two blanks to make the sentence meaningful and grammatically correct.\n\nThe scheme was launched with great ______, but its poor implementation soon led to widespread ______.",
+   "options": [
+    "sorrow / joy",
+    "enthusiasm / disappointment",
+    "doubt / success",
+    "anger / celebration",
+    "fear / relief"
+   ],
+   "correct": 1,
+   "explanation": "A launch generates 'enthusiasm,' and 'poor implementation' would cause 'disappointment.' The contrast signalled by 'but' fits 'enthusiasm / disappointment.' The other pairs are internally contradictory or illogical.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q032",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "fillers",
+   "difficulty": 1,
+   "question": "Select the word that best fits the blank to make the sentence meaningful and grammatically correct.\n\nDespite repeated warnings, the factory continued to ______ harmful chemicals into the nearby river.",
+   "options": [
+    "absorb",
+    "discharge",
+    "purify",
+    "consume",
+    "store"
+   ],
+   "correct": 1,
+   "explanation": "Releasing chemicals into a river is described by 'discharge.' 'Absorb,' 'purify,' 'consume' and 'store' all imply taking in or improving rather than releasing, so they do not fit the context of pollution.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q033",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "fillers",
+   "difficulty": 2,
+   "question": "Select the pair of words that best fits the two blanks to make the sentence meaningful and grammatically correct.\n\nThe negotiations were ______ because both parties refused to ______ their original demands.",
+   "options": [
+    "successful / raise",
+    "deadlocked / compromise",
+    "quick / abandon",
+    "smooth / defend",
+    "easy / change"
+   ],
+   "correct": 1,
+   "explanation": "If both parties refuse to 'compromise' on their demands, the talks become 'deadlocked' (stuck). The pair 'deadlocked / compromise' fits the cause-and-effect logic. The other pairs conflict with 'refused to.'",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q034",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "fillers",
+   "difficulty": 2,
+   "question": "Select the word that best fits the blank to make the sentence meaningful and grammatically correct.\n\nHer ______ remarks during the meeting offended several colleagues and were later regretted.",
+   "options": [
+    "gracious",
+    "tactless",
+    "thoughtful",
+    "encouraging",
+    "humble"
+   ],
+   "correct": 1,
+   "explanation": "Remarks that 'offended several colleagues' and were 'later regretted' must be 'tactless' (insensitive). 'Gracious,' 'thoughtful,' 'encouraging' and 'humble' are all positive and would not cause offence.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q035",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "sentence-improvement",
+   "difficulty": 2,
+   "question": "Select the phrase that best replaces the underlined part to make the sentence grammatically correct.\n\nNo sooner did the bell ring **when** the students rushed out of the classroom.",
+   "options": [
+    "than",
+    "then",
+    "that",
+    "as",
+    "No correction required"
+   ],
+   "correct": 0,
+   "explanation": "The correlative of 'no sooner' is 'than,' not 'when.' The correct sentence is 'No sooner did the bell ring than the students rushed out.' So the underlined 'when' should be replaced with 'than.'",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q036",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "sentence-improvement",
+   "difficulty": 2,
+   "question": "Select the phrase that best replaces the underlined part to make the sentence grammatically correct.\n\nThe quality of these products **are far superior to** those of its competitors.",
+   "options": [
+    "is far superior to",
+    "are far superior than",
+    "is far superior than",
+    "are more superior to",
+    "No correction required"
+   ],
+   "correct": 0,
+   "explanation": "The subject is 'The quality' (singular), so the verb must be 'is,' and 'superior' takes 'to.' The correct phrase is 'is far superior to.' 'Are' is a wrong number agreement and 'superior than' is incorrect.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q037",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "sentence-improvement",
+   "difficulty": 2,
+   "question": "Select the phrase that best replaces the underlined part to make the sentence grammatically correct.\n\nWhen she heard the news, she could not help **but laughing** at the situation.",
+   "options": [
+    "but laugh",
+    "but to laugh",
+    "laughing",
+    "but laughed",
+    "No correction required"
+   ],
+   "correct": 0,
+   "explanation": "The idiom 'cannot help but' is followed by the base form of the verb: 'could not help but laugh.' So 'but laughing' should be replaced with 'but laugh.' (The alternative idiom 'could not help laughing' is also correct but is not offered here.)",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q038",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "para-completion",
+   "difficulty": 2,
+   "question": "Choose the sentence that best completes the paragraph in a coherent and logical manner.\n\nWith the rise of social media and streaming platforms, the amount of time young people spend reading books has fallen sharply. Educators worry that this decline could weaken vocabulary, concentration and critical thinking. Yet reading is a skill that, like any other, strengthens with practice. ______",
+   "options": [
+    "Therefore, social media should be banned in all schools immediately.",
+    "Encouraging young people to set aside even a few minutes each day for books could therefore make a lasting difference.",
+    "This proves that books have become completely irrelevant in the modern age.",
+    "As a result, vocabulary and concentration have no connection with reading at all.",
+    "Hence, young people should stop using streaming platforms altogether."
+   ],
+   "correct": 1,
+   "explanation": "The paragraph laments falling reading time but notes that reading improves with practice. The logical conclusion is to encourage a little daily reading, as in option 2. The other options are extreme or contradict the passage.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q039",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "para-completion",
+   "difficulty": 3,
+   "question": "Choose the sentence that best completes the paragraph in a coherent and logical manner.\n\nTraffic congestion in fast-growing cities costs economies huge sums in lost productivity every year. Building more roads, once seen as the obvious remedy, often simply attracts more vehicles and fills up again within a few years. ______",
+   "options": [
+    "Therefore, cities should stop investing in any form of transport whatsoever.",
+    "A lasting solution, many planners argue, lies instead in efficient public transport that moves large numbers of people without adding cars to the streets.",
+    "This shows that traffic congestion can never be reduced by any means.",
+    "Hence, building more and wider roads is clearly the only reliable answer.",
+    "As a result, public transport has no role to play in modern cities."
+   ],
+   "correct": 1,
+   "explanation": "The paragraph argues that new roads fail to cure congestion because they attract more cars. The natural next step is to favour public transport, as in option 2. The other options either contradict the argument or overstate it.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q040",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "para-completion",
+   "difficulty": 2,
+   "question": "Choose the sentence that best completes the paragraph in a coherent and logical manner.\n\nSolar and wind power have grown rapidly, but their output rises and falls with the weather. On calm, cloudy days, generation can drop sharply just when demand is high. ______",
+   "options": [
+    "This proves that renewable energy can never be useful for any country.",
+    "Reliable storage, such as large-scale batteries, is therefore essential if renewables are to power the grid around the clock.",
+    "Therefore, countries should abandon solar and wind power entirely.",
+    "As a result, the weather has no effect on renewable energy output.",
+    "Hence, fossil fuels remain the cleanest source of electricity available."
+   ],
+   "correct": 1,
+   "explanation": "The paragraph highlights the intermittency of solar and wind power. The logical completion points to storage as the remedy, as in option 2. The other options contradict the passage or draw unsupported conclusions.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q041",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre25-set4",
+   "question": "What is the total number of cars serviced by all five centres together?",
+   "options": [
+    "1150",
+    "1180",
+    "1200",
+    "1220",
+    "1250"
+   ],
+   "correct": 2,
+   "explanation": "Total cars = 240 + 180 + 300 + 260 + 220 = **1200**.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q042",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre25-set4",
+   "question": "What is the ratio of bikes serviced by centre P to bikes serviced by centre R?",
+   "options": [
+    "15:16",
+    "16:15",
+    "8:7",
+    "7:8",
+    "4:3"
+   ],
+   "correct": 1,
+   "explanation": "Bikes by P = 160, by R = 150. Ratio = 160 : 150. Dividing both by 10 gives 16 : 15 = **16:15**.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q043",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre25-set4",
+   "question": "The number of cars serviced by centre R is what percent more than the number of cars serviced by centre Q? (approximately)",
+   "options": [
+    "60%",
+    "62.5%",
+    "66.67%",
+    "70%",
+    "75%"
+   ],
+   "correct": 2,
+   "explanation": "Cars: R = 300, Q = 180. Increase = 300 - 180 = 120. Percent more = (120 / 180) * 100 = **66.67%**.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q044",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre25-set4",
+   "question": "What is the average number of bikes serviced per centre?",
+   "options": [
+    "160",
+    "165",
+    "170",
+    "175",
+    "180"
+   ],
+   "correct": 2,
+   "explanation": "Total bikes = 160 + 220 + 150 + 140 + 180 = 850. Average = 850 / 5 = **170**.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q045",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre25-set4",
+   "question": "What is the difference between the total number of cars and the total number of bikes serviced by all centres together?",
+   "options": [
+    "300",
+    "325",
+    "350",
+    "375",
+    "400"
+   ],
+   "correct": 2,
+   "explanation": "Total cars = 1200 (Q041), total bikes = 850 (Q044). Difference = 1200 - 850 = **350**.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q046",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre25-set5",
+   "question": "How many Mathematics books are there in the library?",
+   "options": [
+    "1350",
+    "1400",
+    "1440",
+    "1500",
+    "1560"
+   ],
+   "correct": 2,
+   "explanation": "Mathematics = 20% of 7200 = 0.20 * 7200 = **1440**.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q047",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre25-set5",
+   "question": "What is the difference between the number of English books and the number of Chemistry books?",
+   "options": [
+    "480",
+    "504",
+    "540",
+    "560",
+    "600"
+   ],
+   "correct": 1,
+   "explanation": "English = 25% of 7200 = 1800; Chemistry = 18% of 7200 = 1296. Difference = 1800 - 1296 = **504**.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q048",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre25-set5",
+   "question": "How many books of Physics and Biology are there together?",
+   "options": [
+    "1900",
+    "1920",
+    "1944",
+    "1980",
+    "2016"
+   ],
+   "correct": 2,
+   "explanation": "Physics = 15% of 7200 = 1080; Biology = 12% of 7200 = 864. Together = 1080 + 864 = **1944**.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q049",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre25-set5",
+   "question": "What is the central angle (in degrees) corresponding to the English books in the pie chart?",
+   "options": [
+    "72",
+    "80",
+    "84",
+    "90",
+    "100"
+   ],
+   "correct": 3,
+   "explanation": "English is 25% of the total. Central angle = 25% of 360 = 0.25 * 360 = **90 degrees**.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q050",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre25-set5",
+   "question": "The number of Chemistry books is what percent more than the number of Biology books?",
+   "options": [
+    "40%",
+    "45%",
+    "50%",
+    "55%",
+    "60%"
+   ],
+   "correct": 2,
+   "explanation": "Chemistry = 1296, Biology = 864. Increase = 1296 - 864 = 432. Percent more = (432 / 864) * 100 = **50%**. (Equivalently, 18% vs 12%: (6/12)*100 = 50%.)",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q051",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "caselet-di",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre25-set6",
+   "question": "How many people read at least one of the two newspapers?",
+   "options": [
+    "480",
+    "500",
+    "510",
+    "540",
+    "560"
+   ],
+   "correct": 2,
+   "explanation": "At least one = only English + only Hindi + both = 240 + 180 + 90 = **510**.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q052",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "caselet-di",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre25-set6",
+   "question": "How many people read the English newspaper (including those who read both)?",
+   "options": [
+    "300",
+    "320",
+    "330",
+    "350",
+    "360"
+   ],
+   "correct": 2,
+   "explanation": "Total English readers = only English + both = 240 + 90 = **330**.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q053",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "caselet-di",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre25-set6",
+   "question": "How many people read neither of the two newspapers?",
+   "options": [
+    "70",
+    "80",
+    "90",
+    "100",
+    "110"
+   ],
+   "correct": 2,
+   "explanation": "Neither = total - at least one = 600 - 510 = **90**.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q054",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "caselet-di",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre25-set6",
+   "question": "What is the ratio of people who read only English to people who read only Hindi?",
+   "options": [
+    "3:4",
+    "4:3",
+    "5:4",
+    "5:3",
+    "6:5"
+   ],
+   "correct": 1,
+   "explanation": "Only English = 240, only Hindi = 180. Ratio = 240 : 180. Dividing by 60 gives 4 : 3 = **4:3**.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q055",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "caselet-di",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre25-set6",
+   "question": "The number of people who read both newspapers is what percent of the total number of people surveyed?",
+   "options": [
+    "10%",
+    "12.5%",
+    "15%",
+    "18%",
+    "20%"
+   ],
+   "correct": 2,
+   "explanation": "Both = 90, total surveyed = 600. Required percent = (90 / 600) * 100 = **15%**.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q056",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "number-series",
+   "difficulty": 2,
+   "question": "Find the missing term:\n\n4, 6, 12, 30, 90, ?",
+   "options": [
+    "270",
+    "300",
+    "315",
+    "330",
+    "360"
+   ],
+   "correct": 2,
+   "explanation": "The multipliers increase by 0.5 each step: *1.5, *2, *2.5, *3, *3.5. 4*1.5=6, 6*2=12, 12*2.5=30, 30*3=90, 90*3.5 = **315**.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q057",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "number-series",
+   "difficulty": 3,
+   "question": "Find the missing term:\n\n5, 6, 14, 45, 184, ?",
+   "options": [
+    "905",
+    "915",
+    "925",
+    "935",
+    "945"
+   ],
+   "correct": 2,
+   "explanation": "Pattern: *1+1, *2+2, *3+3, *4+4, *5+5. 5*1+1=6, 6*2+2=14, 14*3+3=45, 45*4+4=184, 184*5+5 = **925**.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q058",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "number-series",
+   "difficulty": 2,
+   "question": "Find the missing term:\n\n3, 5, 9, 17, 33, ?",
+   "options": [
+    "63",
+    "64",
+    "65",
+    "66",
+    "67"
+   ],
+   "correct": 2,
+   "explanation": "Pattern: each term = previous * 2 - 1. 3*2-1=5, 5*2-1=9, 9*2-1=17, 17*2-1=33, 33*2-1 = **65**. (Equivalently the differences double: +2, +4, +8, +16, +32.)",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q059",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "number-series",
+   "difficulty": 2,
+   "question": "Find the missing term:\n\n120, 99, 80, 63, 48, ?",
+   "options": [
+    "30",
+    "33",
+    "35",
+    "37",
+    "39"
+   ],
+   "correct": 2,
+   "explanation": "The differences are decreasing odd numbers: -21, -19, -17, -15, -13. 48 - 13 = **35**.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q060",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "quadratic-equations",
+   "difficulty": 2,
+   "question": "In the following question, two equations are given. Solve them and choose the correct relation.\n\nI. x^2 - 7x + 12 = 0\nII. y^2 - 9y + 20 = 0",
+   "options": [
+    "x > y",
+    "x < y",
+    "x >= y",
+    "x <= y",
+    "x = y or relation cannot be established"
+   ],
+   "correct": 3,
+   "explanation": "I: x^2 - 7x + 12 = 0 gives x = 3 or 4. II: y^2 - 9y + 20 = 0 gives y = 4 or 5. Comparing every case: 3<4, 3<5, 4=4, 4<5 -- x is always less than or equal to y. So **x <= y**.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q061",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "quadratic-equations",
+   "difficulty": 2,
+   "question": "In the following question, two equations are given. Solve them and choose the correct relation.\n\nI. x^2 - 11x + 30 = 0\nII. y^2 - 15y + 56 = 0",
+   "options": [
+    "x > y",
+    "x < y",
+    "x >= y",
+    "x <= y",
+    "x = y or relation cannot be established"
+   ],
+   "correct": 1,
+   "explanation": "I: x = 5 or 6. II: y = 7 or 8. Every value of x (5, 6) is less than every value of y (7, 8), so **x < y**.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q062",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "quadratic-equations",
+   "difficulty": 3,
+   "question": "In the following question, two equations are given. Solve them and choose the correct relation.\n\nI. x^2 - x - 6 = 0\nII. y^2 - 3y + 2 = 0",
+   "options": [
+    "x > y",
+    "x < y",
+    "x >= y",
+    "x <= y",
+    "x = y or relation cannot be established"
+   ],
+   "correct": 4,
+   "explanation": "I: x^2 - x - 6 = 0 gives x = 3 or -2. II: y^2 - 3y + 2 = 0 gives y = 1 or 2. Here x = 3 exceeds both y values, but x = -2 is below both, so no consistent relation holds. Hence the **relation cannot be established**.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q063",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "simplification-approximation",
+   "difficulty": 1,
+   "question": "Solve: 45% of 640 + 30% of 320 = ?",
+   "options": [
+    "372",
+    "378",
+    "384",
+    "390",
+    "396"
+   ],
+   "correct": 2,
+   "explanation": "45% of 640 = 288; 30% of 320 = 96. Sum = 288 + 96 = **384**.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q064",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "simplification-approximation",
+   "difficulty": 2,
+   "question": "Solve: sqrt(1296) + sqrt(2025) = ?",
+   "options": [
+    "79",
+    "80",
+    "81",
+    "82",
+    "83"
+   ],
+   "correct": 2,
+   "explanation": "sqrt(1296) = 36 and sqrt(2025) = 45. Sum = 36 + 45 = **81**.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q065",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "simplification-approximation",
+   "difficulty": 2,
+   "question": "Find the approximate value: 24.98% of 799.9 + 15.02% of 199.8 = ?",
+   "options": [
+    "210",
+    "220",
+    "230",
+    "240",
+    "250"
+   ],
+   "correct": 2,
+   "explanation": "Approximating: 25% of 800 = 200 and 15% of 200 = 30. Sum is approximately 200 + 30 = **230**.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q066",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "profit-loss",
+   "difficulty": 2,
+   "question": "A shopkeeper marks up the price of an article 40% above its cost price and then allows a discount of 25% on the marked price. What is his profit or loss percent?",
+   "options": [
+    "3% loss",
+    "5% profit",
+    "6% profit",
+    "8% profit",
+    "10% profit"
+   ],
+   "correct": 1,
+   "explanation": "Let CP = 100. MP = 140. SP = 140 * (1 - 0.25) = 140 * 0.75 = 105. Profit = 105 - 100 = 5, so profit percent = **5%**.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q067",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "simple-compound-interest",
+   "difficulty": 2,
+   "question": "What is the difference between the compound interest and the simple interest on Rs 5000 for 2 years at 10% per annum?",
+   "options": [
+    "Rs 40",
+    "Rs 45",
+    "Rs 50",
+    "Rs 55",
+    "Rs 60"
+   ],
+   "correct": 2,
+   "explanation": "For 2 years, the difference = P * (r/100)^2 = 5000 * (10/100)^2 = 5000 * 0.01 = **Rs 50**.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q068",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "time-work",
+   "difficulty": 2,
+   "question": "A can complete a piece of work in 12 days and B can complete the same work in 18 days. Working together, in how many days will they finish the work?",
+   "options": [
+    "6 days",
+    "7.2 days",
+    "7.5 days",
+    "8 days",
+    "9 days"
+   ],
+   "correct": 1,
+   "explanation": "Take total work as LCM(12, 18) = 36 units. A does 3 units/day, B does 2 units/day, together 5 units/day. Time = 36 / 5 = **7.2 days**.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q069",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "speed-time-distance",
+   "difficulty": 2,
+   "question": "A train 180 metres long crosses a pole in 12 seconds. What is the speed of the train in km/h?",
+   "options": [
+    "45",
+    "54",
+    "60",
+    "66",
+    "72"
+   ],
+   "correct": 1,
+   "explanation": "Speed = distance / time = 180 / 12 = 15 m/s. Converting: 15 * 18/5 = **54 km/h**.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q070",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "averages",
+   "difficulty": 2,
+   "question": "The average age of 5 members of a family is 30 years. If a new member joins the family, the average age becomes 29 years. What is the age of the new member?",
+   "options": [
+    "20 years",
+    "22 years",
+    "24 years",
+    "26 years",
+    "28 years"
+   ],
+   "correct": 2,
+   "explanation": "Total age of 5 members = 5 * 30 = 150. After the new member, total = 6 * 29 = 174. New member's age = 174 - 150 = **24 years**.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q071",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre25-set7",
+   "question": "Who sits to the immediate right of C?",
+   "options": [
+    "E",
+    "H",
+    "G",
+    "A",
+    "D"
+   ],
+   "correct": 1,
+   "explanation": "The clockwise order (facing centre) is B, A, D, F, H, C, E, G. The immediate right of a person is the anticlockwise neighbour, which for C is **H**.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q072",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre25-set7",
+   "question": "Who sits second to the left of A?",
+   "options": [
+    "D",
+    "F",
+    "H",
+    "B",
+    "G"
+   ],
+   "correct": 1,
+   "explanation": "Clockwise order: B, A, D, F, H, C, E, G. Moving to the left (clockwise) from A: first D, then F. So second to the left of A is **F**.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q073",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre25-set7",
+   "question": "How many persons sit between A and H when counted from A in the clockwise (left) direction?",
+   "options": [
+    "One",
+    "Two",
+    "Three",
+    "Four",
+    "None"
+   ],
+   "correct": 1,
+   "explanation": "Clockwise order: B, A, D, F, H, C, E, G. Going clockwise from A to H, the persons in between are D and F, i.e. **two** persons.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q074",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre25-set7",
+   "question": "Which of the following pairs represents the immediate neighbours of F?",
+   "options": [
+    "D and H",
+    "H and C",
+    "A and D",
+    "B and G",
+    "E and G"
+   ],
+   "correct": 0,
+   "explanation": "Clockwise order: B, A, D, F, H, C, E, G. F's clockwise neighbour is H and its anticlockwise neighbour is D, so its immediate neighbours are **D and H**.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q075",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre25-set7",
+   "question": "Who sits exactly between H and E (on the shorter side)?",
+   "options": [
+    "A",
+    "C",
+    "D",
+    "G",
+    "B"
+   ],
+   "correct": 1,
+   "explanation": "Clockwise order: B, A, D, F, H, C, E, G. Between H and E, the person sitting is **C**.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q076",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre25-set8",
+   "question": "Who lives on the topmost floor (floor 7)?",
+   "options": [
+    "P",
+    "R",
+    "T",
+    "V",
+    "S"
+   ],
+   "correct": 2,
+   "explanation": "Solving the clues gives the order (floor 7 to 1): T, P, R, U, V, Q, S. The topmost floor is occupied by **T**.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q077",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre25-set8",
+   "question": "How many persons live between R and Q?",
+   "options": [
+    "One",
+    "Two",
+    "Three",
+    "Four",
+    "Five"
+   ],
+   "correct": 1,
+   "explanation": "Order (7 to 1): T, P, R, U, V, Q, S. R is on floor 5 and Q is on floor 2, so floors 4 and 3 lie between them -- **two** persons (U and V).",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q078",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre25-set8",
+   "question": "Who lives on the floor immediately above U?",
+   "options": [
+    "P",
+    "V",
+    "R",
+    "Q",
+    "T"
+   ],
+   "correct": 2,
+   "explanation": "Order (7 to 1): T, P, R, U, V, Q, S. U is on floor 4 and the floor immediately above (floor 5) is occupied by **R**.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q079",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre25-set8",
+   "question": "On which floor does V live?",
+   "options": [
+    "First",
+    "Second",
+    "Third",
+    "Fourth",
+    "Fifth"
+   ],
+   "correct": 2,
+   "explanation": "Order (7 to 1): T, P, R, U, V, Q, S. V is placed on the **third** floor.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q080",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-pre25-set8",
+   "question": "Which of the following statements is TRUE?",
+   "options": [
+    "P lives on the fifth floor.",
+    "S lives on the topmost floor.",
+    "R lives on the floor immediately above U.",
+    "Q lives on the floor immediately above V.",
+    "Two persons live between T and P."
+   ],
+   "correct": 2,
+   "explanation": "Order (7 to 1): T, P, R, U, V, Q, S. P is on floor 6 (not 5), S is on floor 1, T and P are adjacent, and Q (floor 2) is below V (floor 3). Only 'R lives immediately above U' (floors 5 and 4) is **true**.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q081",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre25-set9",
+   "question": "Which box is placed at the bottom of the stack?",
+   "options": [
+    "J",
+    "K",
+    "O",
+    "N",
+    "M"
+   ],
+   "correct": 2,
+   "explanation": "Solving the clues gives the order (position 6 to 1): L, N, M, J, K, O. The bottom box is **O**.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q082",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre25-set9",
+   "question": "How many boxes are placed between K and N?",
+   "options": [
+    "One",
+    "Two",
+    "Three",
+    "Four",
+    "None"
+   ],
+   "correct": 1,
+   "explanation": "Order (6 to 1): L, N, M, J, K, O. K is at position 2 and N at position 5, so boxes M and J (positions 4 and 3) lie between them -- **two** boxes.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q083",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre25-set9",
+   "question": "Which box is placed immediately above M?",
+   "options": [
+    "L",
+    "J",
+    "K",
+    "N",
+    "O"
+   ],
+   "correct": 3,
+   "explanation": "Order (6 to 1): L, N, M, J, K, O. M is at position 4 and the box immediately above (position 5) is **N**.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q084",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre25-set9",
+   "question": "Which box is placed immediately below J?",
+   "options": [
+    "O",
+    "K",
+    "M",
+    "N",
+    "L"
+   ],
+   "correct": 1,
+   "explanation": "Order (6 to 1): L, N, M, J, K, O. J is at position 3 and the box immediately below (position 2) is **K**.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q085",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-pre25-set9",
+   "question": "Which of the following statements is TRUE?",
+   "options": [
+    "J is placed at the top of the stack.",
+    "M is placed immediately below J.",
+    "K is placed immediately above O.",
+    "N is placed at the bottom of the stack.",
+    "Three boxes lie between L and O."
+   ],
+   "correct": 2,
+   "explanation": "Order (6 to 1): L, N, M, J, K, O. L is at the top, M is above J, N is second from the top, and four boxes lie between L and O. Only 'K is placed immediately above O' (positions 2 and 1) is **true**.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q086",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre25-set10",
+   "question": "Who sits at the extreme left end of the row?",
+   "options": [
+    "P",
+    "S",
+    "T",
+    "V",
+    "W"
+   ],
+   "correct": 1,
+   "explanation": "Solving the clues gives the order from left to right: S, P, T, W, Q, U, R, V. The extreme left end is occupied by **S**.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q087",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre25-set10",
+   "question": "How many persons sit between W and R?",
+   "options": [
+    "One",
+    "Two",
+    "Three",
+    "Four",
+    "Five"
+   ],
+   "correct": 1,
+   "explanation": "Order: S, P, T, W, Q, U, R, V. W is at position 4 and R at position 7, so Q and U (positions 5 and 6) sit between them -- **two** persons.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q088",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre25-set10",
+   "question": "Who sits immediately to the left of Q?",
+   "options": [
+    "T",
+    "W",
+    "U",
+    "P",
+    "S"
+   ],
+   "correct": 1,
+   "explanation": "Order: S, P, T, W, Q, U, R, V. Q is at position 5 and the person immediately to the left (position 4) is **W**.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q089",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre25-set10",
+   "question": "Who sits third to the right of P?",
+   "options": [
+    "U",
+    "R",
+    "Q",
+    "T",
+    "V"
+   ],
+   "correct": 2,
+   "explanation": "Order: S, P, T, W, Q, U, R, V. P is at position 2; three places to the right is position 5, which is **Q**.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q090",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-pre25-set10",
+   "question": "Which of the following statements is TRUE?",
+   "options": [
+    "P sits at the extreme left end.",
+    "Q sits at position six from the left.",
+    "R sits between U and V.",
+    "W sits at the extreme right end.",
+    "Only one person sits to the right of U."
+   ],
+   "correct": 2,
+   "explanation": "Order: S, P, T, W, Q, U, R, V. S is at the extreme left, Q is at position 5, W is at position 4, and two persons (R and V) sit to the right of U. Only 'R sits between U and V' (positions 6, 7, 8) is **true**.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q091",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "syllogism",
+   "difficulty": 2,
+   "question": "In the question, statements are followed by two conclusions. Assuming the statements to be true, decide which conclusion(s) logically follow(s).\n\nStatements: All pens are books. All books are tables.\nConclusions:\nI. All pens are tables.\nII. Some tables are pens.",
+   "options": [
+    "Only conclusion I follows",
+    "Only conclusion II follows",
+    "Both conclusions I and II follow",
+    "Neither conclusion I nor II follows",
+    "Either conclusion I or II follows"
+   ],
+   "correct": 2,
+   "explanation": "All pens are books and all books are tables, so all pens are tables -- conclusion I follows. Since all pens are tables, some tables are certainly pens -- conclusion II also follows. Hence **both** follow.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q092",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "syllogism",
+   "difficulty": 2,
+   "question": "In the question, statements are followed by two conclusions. Assuming the statements to be true, decide which conclusion(s) logically follow(s).\n\nStatements: Some cats are dogs. All dogs are animals.\nConclusions:\nI. Some cats are animals.\nII. All cats are animals.",
+   "options": [
+    "Only conclusion I follows",
+    "Only conclusion II follows",
+    "Both conclusions I and II follow",
+    "Neither conclusion I nor II follows",
+    "Either conclusion I or II follows"
+   ],
+   "correct": 0,
+   "explanation": "Some cats are dogs, and all dogs are animals, so those cats are animals -- some cats are animals (I follows). But nothing forces every cat to be an animal, so II does not follow. Hence **only I** follows.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q093",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "syllogism",
+   "difficulty": 3,
+   "question": "In the question, statements are followed by two conclusions. Assuming the statements to be true, decide which conclusion(s) logically follow(s).\n\nStatements: Some books are red. Some red are blue.\nConclusions:\nI. Some books are blue.\nII. No book is blue.",
+   "options": [
+    "Only conclusion I follows",
+    "Only conclusion II follows",
+    "Both conclusions I and II follow",
+    "Neither conclusion I nor II follows",
+    "Either conclusion I or II follows"
+   ],
+   "correct": 4,
+   "explanation": "From 'some books are red' and 'some red are blue,' no definite link between books and blue can be drawn. Conclusions I and II are complementary (a some-yes / no pair covering all possibilities), so **either I or II** follows.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q094",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "inequality",
+   "difficulty": 2,
+   "question": "In the question, a statement of relations is followed by two conclusions. Decide which conclusion(s) follow(s).\n\nStatement: P > Q >= R = S < T\nConclusions:\nI. P > S\nII. T > R",
+   "options": [
+    "Only conclusion I follows",
+    "Only conclusion II follows",
+    "Both conclusions I and II follow",
+    "Neither conclusion I nor II follows",
+    "Either conclusion I or II follows"
+   ],
+   "correct": 2,
+   "explanation": "From P > Q >= R = S, we get P > S (I follows). From R = S < T, we get T > S = R, so T > R (II follows). Hence **both** conclusions follow.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q095",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "inequality",
+   "difficulty": 2,
+   "question": "In the question, a statement of relations is followed by two conclusions. Decide which conclusion(s) follow(s).\n\nStatement: A <= B < C = D >= E\nConclusions:\nI. A < D\nII. E > B",
+   "options": [
+    "Only conclusion I follows",
+    "Only conclusion II follows",
+    "Both conclusions I and II follow",
+    "Neither conclusion I nor II follows",
+    "Either conclusion I or II follows"
+   ],
+   "correct": 0,
+   "explanation": "From A <= B < C = D, we get A < D (I follows). For E and B: D >= E and B < C = D, but the relation between E and B cannot be fixed, so II does not follow. Hence **only I** follows.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q096",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "inequality",
+   "difficulty": 2,
+   "question": "In the question, a statement of relations is followed by two conclusions. Decide which conclusion(s) follow(s).\n\nStatement: M >= N > O; P < O; Q = P\nConclusions:\nI. M > P\nII. N > Q",
+   "options": [
+    "Only conclusion I follows",
+    "Only conclusion II follows",
+    "Both conclusions I and II follow",
+    "Neither conclusion I nor II follows",
+    "Either conclusion I or II follows"
+   ],
+   "correct": 2,
+   "explanation": "Combining: M >= N > O > P = Q. So M > P (I follows) and N > O > P = Q gives N > Q (II follows). Hence **both** conclusions follow.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q097",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "blood-relations",
+   "difficulty": 2,
+   "question": "Pointing to a photograph, a man said, \"She is the daughter of my grandfather's only son.\" How is the woman in the photograph related to the man?",
+   "options": [
+    "Sister",
+    "Mother",
+    "Daughter",
+    "Aunt",
+    "Cousin"
+   ],
+   "correct": 0,
+   "explanation": "The man's grandfather's only son is the man's own father. The daughter of his father is his **sister**.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q098",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "blood-relations",
+   "difficulty": 2,
+   "question": "A is the brother of B. B is the son of C. D is the mother of A. How is C related to D?",
+   "options": [
+    "Wife",
+    "Husband",
+    "Brother",
+    "Father",
+    "Son"
+   ],
+   "correct": 1,
+   "explanation": "A and B are children of C, and D is the mother of A. So C is the other parent of the children, i.e. the father, which makes C the **husband** of D.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q099",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "direction-sense",
+   "difficulty": 2,
+   "question": "A man starts from his home and walks 5 km towards the north. He then turns right and walks 3 km, and again turns right and walks 5 km. How far and in which direction is he now from his starting point?",
+   "options": [
+    "3 km East",
+    "5 km East",
+    "4 km West",
+    "3 km West",
+    "8 km East"
+   ],
+   "correct": 0,
+   "explanation": "North 5 km, then right (east) 3 km, then right (south) 5 km. The 5 km north and 5 km south cancel, leaving him 3 km east of the start. So he is **3 km East**.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  },
+  {
+   "id": "pyq-sbipo-pre25-q100",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "direction-sense",
+   "difficulty": 3,
+   "question": "A person walks 4 m towards north, then 3 m towards east, then again 4 m towards north and 3 m towards east. How far is he from the starting point?",
+   "options": [
+    "10 m",
+    "12 m",
+    "14 m",
+    "7 m",
+    "5 m"
+   ],
+   "correct": 0,
+   "explanation": "Total northward distance = 4 + 4 = 8 m; total eastward distance = 3 + 3 = 6 m. Straight-line distance = sqrt(8^2 + 6^2) = sqrt(64 + 36) = sqrt(100) = **10 m**.",
+   "source": { "kind": "generated", "ref": "Modeled on SBI PO Prelims 2025 pattern", "year": 2025 },
+   "tags": ["generated", "sbi-po-2025"]
+  }
+ ]
+}

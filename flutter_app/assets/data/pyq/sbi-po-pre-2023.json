@@ -1,0 +1,2847 @@
+{
+ "sets": [
+  {
+   "id": "pyq-sbipo-pre23-set1",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "title": "Digital Lending and Financial Inclusion",
+   "context": "Over the past decade, digital lending has emerged as one of the most **potent** forces reshaping the financial landscape of developing economies. By replacing branch visits and paper documents with mobile applications and cloud-based credit assessment, lenders can now reach borrowers who were once considered too small or too remote to serve. For a farmer in a distant village or a street vendor in a crowded city, a loan that used to require days of travel and stacks of paperwork can now be approved within minutes, often on the strength of alternative data such as mobile-phone usage, utility payments and digital transaction history.\n\nThe promise of this transformation is genuine financial inclusion. Traditional banks have long relied on collateral and formal credit records, both of which the poor typically lack. Digital platforms, by contrast, can infer creditworthiness from behavioural signals, extending small-ticket loans that formal institutions found unprofitable to process. In doing so, they have brought millions of first-time borrowers into the formal economy, allowing them to smooth consumption, invest in tools and inventory, and cushion themselves against unexpected shocks.\n\nYet the same speed and reach that make digital lending powerful also make it perilous. Because approvals are quick and largely automated, borrowers can accumulate multiple loans across several apps before any single lender notices. Interest rates, buried in dense terms and conditions, are sometimes punishingly high, and aggressive recovery practices have driven vulnerable customers into deeper distress. Regulators, playing catch-up with a rapidly evolving industry, have struggled to distinguish legitimate innovators from **predatory** operators.\n\nThe path forward, most experts agree, lies not in resisting the technology but in governing it wisely. Transparent pricing, clear consent, robust data protection and a shared registry of outstanding loans could preserve the benefits of digital credit while blunting its dangers. Handled with care, digital lending can remain a ladder out of poverty rather than a trap that pulls the unwary further down."
+  },
+  {
+   "id": "pyq-sbipo-pre23-set2",
+   "section": "english",
+   "topic": "cloze-test",
+   "title": "The Rise of Urban Green Spaces",
+   "context": "As cities across the world continue to expand, planners are increasingly recognising the importance of urban green spaces. Parks, gardens and tree-lined streets do more than beautify a neighbourhood; they actively (1) the well-being of residents. Studies have consistently shown that access to greenery can (2) stress, encourage physical activity and even improve air quality. In densely populated areas, these pockets of nature offer a rare (3) from the noise and heat of concrete surroundings. Unfortunately, as land becomes scarce and expensive, such spaces are often the first to be (4) in favour of new buildings. Forward-thinking municipalities, however, are now treating green areas as essential infrastructure rather than a luxury, and are (5) them into every stage of urban design."
+  },
+  {
+   "id": "pyq-sbipo-pre23-set3",
+   "section": "english",
+   "topic": "para-jumbles",
+   "title": "How Coffee Spread Across the World",
+   "context": "(A) From these Yemeni ports, the drink travelled to Persia, Egypt and Turkey, where lively coffee houses soon became centres of conversation and commerce.\n(B) The story of coffee begins in the highlands of Ethiopia, where, according to legend, a goatherd first noticed his animals growing unusually energetic after eating certain berries.\n(C) European traders, encountering the beverage in these bustling establishments, carried it back home, and by the seventeenth century coffee houses had sprung up across the continent.\n(D) Word of the invigorating berries eventually crossed the Red Sea into Yemen, where farmers began cultivating the plant and brewing its roasted seeds.\n(E) Today, from a small Ethiopian discovery, coffee has become one of the most widely traded commodities on the planet, consumed by billions every single day.\n(F) There, merchants and scholars gathered to debate ideas over steaming cups, earning the venues the nickname schools of the wise."
+  },
+  {
+   "id": "pyq-sbipo-pre23-set4",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "title": "Laptops and Tablets Sold by Five Stores",
+   "context": "The table shows the number of **Laptops** and **Tablets** sold by five stores (A-E) during a month.\n\n| Store | Laptops | Tablets |\n| --- | --- | --- |\n| A | 120 | 80 |\n| B | 150 | 100 |\n| C | 90 | 110 |\n| D | 200 | 150 |\n| E | 140 | 60 |"
+  },
+  {
+   "id": "pyq-sbipo-pre23-set5",
+   "section": "quant",
+   "topic": "caselet-di",
+   "title": "Candidates Appeared and Qualified in an Entrance Exam",
+   "context": "In an entrance exam, candidates appeared from three cities P, Q and R. In city P, 500 candidates appeared and 60% of them qualified. In city Q, 400 candidates appeared and 45% qualified. In city R, 600 candidates appeared and 40% qualified. The summary is shown below.\n\n| City | Appeared | Qualified % | Qualified |\n| --- | --- | --- | --- |\n| P | 500 | 60% | 300 |\n| Q | 400 | 45% | 180 |\n| R | 600 | 40% | 240 |"
+  },
+  {
+   "id": "pyq-sbipo-pre23-set6",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "title": "Seven People on a Seven-Floor Building",
+   "context": "Seven people - A, B, C, D, E, F and G - live on seven different floors of a building. The lowest floor is numbered 1 and the topmost floor is numbered 7, but not necessarily in this order.\nA lives on the sixth floor.\nE lives on the topmost floor.\nExactly two persons live between A and D.\nF lives immediately below D.\nG lives immediately above D.\nExactly two persons live between G and B."
+  },
+  {
+   "id": "pyq-sbipo-pre23-set7",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "title": "Eight Persons in a Single Row",
+   "context": "Eight persons - P, Q, R, S, T, U, V and W - sit in a single row, all facing north, but not necessarily in this order.\nP sits second from the left end.\nS sits at an extreme end and is an immediate neighbour of P.\nExactly one person sits between P and Q.\nW sits between P and Q.\nV sits at the extreme right end.\nR sits second to the right of Q.\nU sits immediately to the right of Q."
+  },
+  {
+   "id": "pyq-sbipo-pre23-set8",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "title": "Eight Friends Around a Circular Table",
+   "context": "Eight friends - A, B, C, D, E, F, G and H - sit around a circular table facing the centre, but not necessarily in this order. (For a person facing the centre, the immediate left is the clockwise neighbour and the immediate right is the anticlockwise neighbour.)\nA sits to the immediate right of C.\nE sits to the immediate left of C.\nG sits to the immediate left of E.\nB sits to the immediate left of G.\nD sits to the immediate left of B.\nF sits to the immediate left of D.\nH sits to the immediate left of F."
+  },
+  {
+   "id": "pyq-sbipo-pre23-set9",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "title": "Five People Attending a Seminar",
+   "context": "Five people - P, Q, R, S and T - attend a seminar, each on a different day of the same week, from Monday to Friday.\nP attends on the second day of the week (Tuesday).\nExactly two persons attend between P and S.\nR attends on a day before P.\nT attends immediately before Q."
+  }
+ ],
+ "questions": [
+  {
+   "id": "pyq-sbipo-pre23-q001",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre23-set1",
+   "question": "Which of the following best captures the central idea of the passage?",
+   "options": [
+    "Digital lending has completely eliminated the need for traditional banks in developing economies.",
+    "Digital lending offers powerful benefits for financial inclusion but carries serious risks that must be managed through wise regulation.",
+    "Regulators have successfully controlled the digital lending industry and removed all predatory operators.",
+    "Traditional banks are better than digital platforms because they rely on collateral and formal credit records.",
+    "Farmers and street vendors should avoid digital loans because interest rates are always punishingly high."
+   ],
+   "correct": 1,
+   "explanation": "The passage praises the inclusion benefits of digital lending, warns of its dangers, and concludes that wise governance is the way forward. Option 2 balances both sides and matches the final paragraph. The other options overstate one aspect or contradict the text (regulators are described as struggling, not succeeding; rates are 'sometimes' high, not always).",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q002",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre23-set1",
+   "question": "According to the passage, how can digital platforms assess the creditworthiness of borrowers who lack formal credit records?",
+   "options": [
+    "By requiring them to provide physical collateral before approval.",
+    "By insisting on days of travel and stacks of paperwork.",
+    "By inferring it from behavioural signals such as mobile-phone usage and digital transaction history.",
+    "By relying exclusively on the borrower's formal employment contract.",
+    "By consulting a shared registry of outstanding loans maintained by all lenders."
+   ],
+   "correct": 2,
+   "explanation": "The second and first paragraphs state that platforms use 'alternative data such as mobile-phone usage, utility payments and digital transaction history' and can 'infer creditworthiness from behavioural signals.' Collateral and formal records are what the poor lack; the shared registry is proposed as a future solution, not the current method.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q003",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-pre23-set1",
+   "question": "Which of the following can be inferred as a reason that borrowers may accumulate multiple loans across several apps?",
+   "options": [
+    "Digital lenders deliberately coordinate to trap borrowers in a single large loan.",
+    "Because approvals are quick and automated, no single lender immediately notices the borrower's other outstanding loans.",
+    "Borrowers are required by regulators to spread their loans across many apps.",
+    "Traditional banks force borrowers to use multiple digital apps at once.",
+    "Alternative data makes it impossible for anyone to lend to the same borrower twice."
+   ],
+   "correct": 1,
+   "explanation": "The third paragraph explains that 'because approvals are quick and largely automated, borrowers can accumulate multiple loans across several apps before any single lender notices.' The inference is that the lack of a shared view lets debts pile up unnoticed. The other options invent facts not supported by the text.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q004",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre23-set1",
+   "question": "Which of the following is NOT mentioned in the passage as part of the way forward for governing digital lending?",
+   "options": [
+    "Transparent pricing",
+    "Clear consent",
+    "Robust data protection",
+    "A shared registry of outstanding loans",
+    "Banning all automated loan approvals"
+   ],
+   "correct": 4,
+   "explanation": "The final paragraph lists transparent pricing, clear consent, robust data protection and a shared registry as remedies. It never calls for banning automated approvals; indeed it argues for governing the technology wisely rather than resisting it. Hence option 5 is the one not mentioned.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q005",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre23-set1",
+   "question": "What is the tone of the author towards digital lending in the passage?",
+   "options": [
+    "Wholly dismissive and hostile",
+    "Uncritically enthusiastic and celebratory",
+    "Balanced and cautiously optimistic",
+    "Indifferent and detached",
+    "Sarcastic and mocking"
+   ],
+   "correct": 2,
+   "explanation": "The author acknowledges genuine benefits ('a ladder out of poverty') while candidly noting the perils, and ends on a hopeful note contingent on wise regulation. This is a balanced, cautiously optimistic tone, not hostile, uncritical, indifferent or sarcastic.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q006",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre23-set1",
+   "question": "According to the passage, why did formal institutions traditionally find it unprofitable to serve poor borrowers?",
+   "options": [
+    "Because such borrowers always defaulted on their loans.",
+    "Because processing small-ticket loans for borrowers lacking collateral and formal credit records was costly relative to the returns.",
+    "Because regulators forbade banks from lending to the poor.",
+    "Because the poor refused to accept loans from formal institutions.",
+    "Because digital platforms had already lent to all of them."
+   ],
+   "correct": 1,
+   "explanation": "The second paragraph says traditional banks relied on collateral and formal credit records, 'both of which the poor typically lack,' and that platforms extended 'small-ticket loans that formal institutions found unprofitable to process.' Option 2 captures this cost-versus-return reasoning. The others are not supported.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q007",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "vocabulary",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre23-set1",
+   "question": "Choose the word that is most nearly SIMILAR in meaning to the word **potent** as used in the passage.",
+   "options": [
+    "Feeble",
+    "Powerful",
+    "Doubtful",
+    "Gentle",
+    "Temporary"
+   ],
+   "correct": 1,
+   "explanation": "'Potent' means powerful, strong or influential. In the passage digital lending is described as one of the most potent forces reshaping finance. 'Powerful' is the closest synonym; 'feeble' and 'gentle' are antonyms, and 'doubtful' and 'temporary' are unrelated.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q008",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "vocabulary",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre23-set1",
+   "question": "Choose the word that is most nearly OPPOSITE in meaning to the word **predatory** as used in the passage.",
+   "options": [
+    "Exploitative",
+    "Ruthless",
+    "Benevolent",
+    "Aggressive",
+    "Greedy"
+   ],
+   "correct": 2,
+   "explanation": "'Predatory' describes operators who exploit or prey on vulnerable customers. Its opposite is 'benevolent,' meaning kind and well-meaning. 'Exploitative,' 'ruthless,' 'aggressive' and 'greedy' are all synonyms of predatory, not antonyms.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q009",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "cloze-test",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre23-set2",
+   "question": "Choose the best word for blank (1).",
+   "options": [
+    "diminish",
+    "enhance",
+    "ignore",
+    "complicate",
+    "postpone"
+   ],
+   "correct": 1,
+   "explanation": "The sentence contrasts beautification with a stronger claim: green spaces 'actively ___ the well-being of residents.' The positive, supported context (they reduce stress, encourage activity) requires 'enhance.' 'Diminish' and 'ignore' reverse the meaning; 'complicate' and 'postpone' do not fit.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q010",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "cloze-test",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre23-set2",
+   "question": "Choose the best word for blank (2).",
+   "options": [
+    "increase",
+    "reduce",
+    "celebrate",
+    "measure",
+    "prolong"
+   ],
+   "correct": 1,
+   "explanation": "Access to greenery is described as beneficial, so it should 'reduce' stress, not increase or prolong it. 'Reduce' fits the list of positive effects (encourage activity, improve air quality). 'Celebrate' and 'measure' are illogical with 'stress.'",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q011",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "cloze-test",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre23-set2",
+   "question": "Choose the best word for blank (3).",
+   "options": [
+    "obstacle",
+    "escape",
+    "reminder",
+    "distance",
+    "penalty"
+   ],
+   "correct": 1,
+   "explanation": "Pockets of nature offer 'a rare ___ from the noise and heat of concrete surroundings.' The idiom is 'an escape from,' meaning relief or respite. 'Obstacle,' 'reminder,' 'distance' and 'penalty' do not collocate naturally with 'from the noise and heat' in this positive sense.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q012",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "cloze-test",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre23-set2",
+   "question": "Choose the best word for blank (4).",
+   "options": [
+    "protected",
+    "sacrificed",
+    "expanded",
+    "admired",
+    "planted"
+   ],
+   "correct": 1,
+   "explanation": "As land becomes scarce and expensive, green spaces 'are often the first to be ___ in favour of new buildings.' The phrase 'in favour of new buildings' signals loss, so 'sacrificed' is correct. 'Protected,' 'expanded' and 'planted' contradict the sense; 'admired' does not fit the construction.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q013",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "cloze-test",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre23-set2",
+   "question": "Choose the best word for blank (5).",
+   "options": [
+    "removing",
+    "integrating",
+    "delaying",
+    "hiding",
+    "questioning"
+   ],
+   "correct": 1,
+   "explanation": "Forward-thinking municipalities treat green areas as essential and are '___ them into every stage of urban design.' 'Integrating ... into' means building them in, which matches the positive, planning-focused context. 'Removing,' 'delaying,' 'hiding' and 'questioning' all oppose the intended meaning.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q014",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "para-jumbles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre23-set3",
+   "question": "After rearranging the six sentences (A)-(F) into a coherent paragraph, which sentence should come FIRST?",
+   "options": [
+    "(A)",
+    "(B)",
+    "(C)",
+    "(D)",
+    "(E)"
+   ],
+   "correct": 1,
+   "explanation": "The correct order is B-D-A-F-C-E. Sentence (B) opens the narrative ('The story of coffee begins in the highlands of Ethiopia'), introducing the origin, so it must come first.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q015",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "para-jumbles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre23-set3",
+   "question": "In the correct arrangement of sentences (A)-(F), which sentence should come SECOND?",
+   "options": [
+    "(A)",
+    "(C)",
+    "(D)",
+    "(E)",
+    "(F)"
+   ],
+   "correct": 2,
+   "explanation": "The correct order is B-D-A-F-C-E. After (B) introduces the Ethiopian berries, (D) continues the journey as word of the berries 'crossed the Red Sea into Yemen,' where cultivation began. So (D) is second.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q016",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "para-jumbles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre23-set3",
+   "question": "In the correct arrangement of sentences (A)-(F), which sentence should come THIRD?",
+   "options": [
+    "(A)",
+    "(B)",
+    "(C)",
+    "(E)",
+    "(F)"
+   ],
+   "correct": 0,
+   "explanation": "The correct order is B-D-A-F-C-E. Sentence (A) begins 'From these Yemeni ports,' directly following (D)'s mention of Yemen, and carries the drink onward to Persia, Egypt and Turkey. So (A) is third.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q017",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "para-jumbles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre23-set3",
+   "question": "In the correct arrangement of sentences (A)-(F), which sentence should come LAST?",
+   "options": [
+    "(A)",
+    "(C)",
+    "(D)",
+    "(E)",
+    "(F)"
+   ],
+   "correct": 3,
+   "explanation": "The correct order is B-D-A-F-C-E. Sentence (E) begins 'Today' and sums up the global spread of coffee, making it the concluding sentence. So (E) is last.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q018",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "para-jumbles",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-pre23-set3",
+   "question": "In the correct arrangement of sentences (A)-(F), which of the following pairs are adjacent, with the first appearing immediately before the second?",
+   "options": [
+    "(A) then (F)",
+    "(F) then (A)",
+    "(C) then (F)",
+    "(E) then (C)",
+    "(A) then (C)"
+   ],
+   "correct": 0,
+   "explanation": "The correct order is B-D-A-F-C-E. Sentence (A) mentions coffee houses in Persia, Egypt and Turkey, and (F) begins 'There, merchants and scholars gathered,' referring to those very venues. Thus (A) is immediately followed by (F), making 'A then F' the adjacent pair.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q019",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "error-spotting",
+   "difficulty": 2,
+   "question": "Read the sentence and identify the part that contains a grammatical error. If there is no error, choose 'No error'.\n\n**(A)** The number of students **(B)** who have applied for the scholarship **(C)** have increased **(D)** significantly this year.",
+   "options": [
+    "(A) The number of students",
+    "(B) who have applied for the scholarship",
+    "(C) have increased",
+    "(D) significantly this year",
+    "(E) No error"
+   ],
+   "correct": 2,
+   "explanation": "The subject is 'The number of students,' and 'the number of' takes a singular verb. So part (C) should read 'has increased,' not 'have increased.' The error is in part (C).",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q020",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "error-spotting",
+   "difficulty": 2,
+   "question": "Read the sentence and identify the part that contains a grammatical error. If there is no error, choose 'No error'.\n\n**(A)** Neither the manager **(B)** nor his assistants **(C)** was able to explain **(D)** why the report was delayed.",
+   "options": [
+    "(A) Neither the manager",
+    "(B) nor his assistants",
+    "(C) was able to explain",
+    "(D) why the report was delayed",
+    "(E) No error"
+   ],
+   "correct": 2,
+   "explanation": "With 'neither ... nor,' the verb agrees with the nearer subject, which is 'assistants' (plural). So part (C) should be 'were able to explain,' not 'was able to explain.' The error is in part (C).",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q021",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "error-spotting",
+   "difficulty": 2,
+   "question": "Read the sentence and identify the part that contains a grammatical error. If there is no error, choose 'No error'.\n\n**(A)** She is one of **(B)** the most talented **(C)** singer **(D)** in the entire country.",
+   "options": [
+    "(A) She is one of",
+    "(B) the most talented",
+    "(C) singer",
+    "(D) in the entire country",
+    "(E) No error"
+   ],
+   "correct": 2,
+   "explanation": "The structure 'one of the most talented ___' requires a plural noun. So part (C) should be 'singers,' not 'singer.' The error is in part (C).",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q022",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "error-spotting",
+   "difficulty": 2,
+   "question": "Read the sentence and identify the part that contains a grammatical error. If there is no error, choose 'No error'.\n\n**(A)** The committee has decided **(B)** to review the proposal **(C)** carefully before **(D)** making its final decision.",
+   "options": [
+    "(A) The committee has decided",
+    "(B) to review the proposal",
+    "(C) carefully before",
+    "(D) making its final decision",
+    "(E) No error"
+   ],
+   "correct": 4,
+   "explanation": "The sentence is grammatically correct throughout: 'committee' is treated as a singular collective noun ('has decided,' 'its final decision'), the infinitive and adverb are correctly placed, and the tenses are consistent. Hence the answer is 'No error.'",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q023",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "error-spotting",
+   "difficulty": 2,
+   "question": "Read the sentence and identify the part that contains a grammatical error. If there is no error, choose 'No error'.\n\n**(A)** Despite of **(B)** the heavy rain, **(C)** the players continued **(D)** to practise on the field.",
+   "options": [
+    "(A) Despite of",
+    "(B) the heavy rain,",
+    "(C) the players continued",
+    "(D) to practise on the field",
+    "(E) No error"
+   ],
+   "correct": 0,
+   "explanation": "'Despite' is not followed by 'of'; the correct forms are 'despite' or 'in spite of.' So part (A) should read 'Despite' (without 'of'). The error is in part (A).",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q024",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "word-usage",
+   "difficulty": 2,
+   "question": "In the following sentence, two words have been interchanged (used in each other's place), making the sentence illogical. Select the pair of words that must be swapped to restore the intended meaning.\n\nThe scientist conducted the errors carefully to avoid any experiment in the results.",
+   "options": [
+    "scientist and results",
+    "conducted and avoid",
+    "errors and experiment",
+    "carefully and any",
+    "conducted and experiment"
+   ],
+   "correct": 2,
+   "explanation": "As written, one 'conducts errors' and tries to 'avoid an experiment,' both of which are illogical. Interchanging 'errors' and 'experiment' restores the sense: 'The scientist conducted the experiment carefully to avoid any errors in the results.' So the pair to swap is 'errors and experiment.'",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q025",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "word-usage",
+   "difficulty": 2,
+   "question": "In the following sentence, two words have been interchanged, making the statement factually wrong. Select the pair of words that must be swapped to restore the intended meaning.\n\nDuring winter, the days become longer and the nights become shorter.",
+   "options": [
+    "winter and nights",
+    "days and nights",
+    "longer and shorter",
+    "become and winter",
+    "days and longer"
+   ],
+   "correct": 2,
+   "explanation": "In winter the days are actually shorter and the nights longer, so the sentence as written reverses the facts. Interchanging 'longer' and 'shorter' fixes it: 'During winter, the days become shorter and the nights become longer.' So the pair to swap is 'longer and shorter.'",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q026",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "word-usage",
+   "difficulty": 2,
+   "question": "In the sentence below, one word has been used incorrectly. Choose the word that is used INCORRECTLY.\n\nThe new policy will effect all employees who joined the company after January, and its affect on morale is still being studied.",
+   "options": [
+    "policy",
+    "effect",
+    "employees",
+    "morale",
+    "studied"
+   ],
+   "correct": 1,
+   "explanation": "'Effect' is usually a noun; as a verb meaning 'to influence' the correct word is 'affect.' The sentence should read 'The new policy will affect all employees ... and its effect on morale...' The word used incorrectly is 'effect' (it should be 'affect').",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q027",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "word-usage",
+   "difficulty": 2,
+   "question": "In the sentence below, one word has been used incorrectly. Choose the word that is used INCORRECTLY.\n\nThe council decided to precede with the construction project despite strong objections from local residents.",
+   "options": [
+    "council",
+    "precede",
+    "construction",
+    "objections",
+    "residents"
+   ],
+   "correct": 1,
+   "explanation": "'Precede' means to come before something. The intended word is 'proceed,' meaning to go ahead. The sentence should read 'decided to proceed with the construction project.' The word used incorrectly is 'precede.'",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q028",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "sentence-improvement",
+   "difficulty": 2,
+   "question": "Select the phrase that best replaces the underlined part to make the sentence grammatically correct.\n\nIf I **would have known** about the meeting, I would have attended it.",
+   "options": [
+    "would have known",
+    "had known",
+    "have known",
+    "would know",
+    "No correction required"
+   ],
+   "correct": 1,
+   "explanation": "In a third conditional, the 'if' clause takes the past perfect, not 'would have.' The correct form is 'If I had known about the meeting, I would have attended it.' So 'had known' is the right replacement.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q029",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "sentence-improvement",
+   "difficulty": 2,
+   "question": "Select the phrase that best replaces the underlined part to make the sentence grammatically correct.\n\nThe teacher asked the students to **not make noise** during the examination.",
+   "options": [
+    "not make noise",
+    "not making noise",
+    "do not make noise",
+    "not to make noise",
+    "No correction required"
+   ],
+   "correct": 3,
+   "explanation": "The reporting structure 'asked someone ___' takes a 'to'-infinitive, and the negative is formed with 'not to.' The correct phrasing is 'asked the students not to make noise.' So the right replacement is 'not to make noise.'",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q030",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "sentence-improvement",
+   "difficulty": 2,
+   "question": "Select the phrase that best replaces the underlined part to make the sentence grammatically correct.\n\nHardly had she entered the room **than** the lights went out.",
+   "options": [
+    "than",
+    "when",
+    "then",
+    "that",
+    "No correction required"
+   ],
+   "correct": 1,
+   "explanation": "The correlative for 'hardly ... ' is 'when,' not 'than.' The correct sentence is 'Hardly had she entered the room when the lights went out.' So 'when' is the right replacement. ('No sooner' pairs with 'than,' but 'hardly' pairs with 'when.')",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q031",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "sentence-improvement",
+   "difficulty": 1,
+   "question": "Select the phrase that best replaces the underlined part to make the sentence grammatically correct.\n\nShe has been working in this organisation **since** five years.",
+   "options": [
+    "since",
+    "for",
+    "from",
+    "during",
+    "No correction required"
+   ],
+   "correct": 1,
+   "explanation": "'Since' is used with a point in time, while 'for' is used with a period or duration. 'Five years' is a duration, so the correct word is 'for': 'She has been working in this organisation for five years.'",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q032",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "fillers",
+   "difficulty": 1,
+   "question": "Select the word that best fits the blank to make the sentence meaningful and grammatically correct.\n\nThe government has introduced several measures to ______ the impact of rising fuel prices on ordinary citizens.",
+   "options": [
+    "aggravate",
+    "mitigate",
+    "ignore",
+    "celebrate",
+    "postpone"
+   ],
+   "correct": 1,
+   "explanation": "The government's 'measures' are meant to lessen a negative impact, so the word is 'mitigate,' meaning to reduce the severity of something. 'Aggravate' means to worsen (opposite), and 'ignore,' 'celebrate' and 'postpone' do not fit the context.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q033",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "fillers",
+   "difficulty": 2,
+   "question": "Select the pair of words that best fits the two blanks to make the sentence meaningful and grammatically correct.\n\n______ the report was submitted on time, the committee still asked for several ______ before approving it.",
+   "options": [
+    "Because / rewards",
+    "Although / revisions",
+    "Unless / delays",
+    "Since / celebrations",
+    "Whether / apologies"
+   ],
+   "correct": 1,
+   "explanation": "There is a contrast between submitting on time and still being asked for more work, so the first blank needs 'Although.' The committee would ask for 'revisions' before approval. The pair 'Although / revisions' fits both the logic and the meaning.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q034",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "fillers",
+   "difficulty": 2,
+   "question": "Select the word that best fits the blank to make the sentence meaningful and grammatically correct.\n\nDespite facing numerous setbacks, the young entrepreneur remained ______ and eventually built a successful business.",
+   "options": [
+    "discouraged",
+    "resilient",
+    "careless",
+    "indifferent",
+    "hesitant"
+   ],
+   "correct": 1,
+   "explanation": "The clue 'Despite facing numerous setbacks ... eventually built a successful business' calls for a positive quality of persistence, so 'resilient' fits. 'Discouraged,' 'careless,' 'indifferent' and 'hesitant' contradict the idea of overcoming setbacks.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q035",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "fillers",
+   "difficulty": 2,
+   "question": "Select the pair of words that best fits the two blanks to make the sentence meaningful and grammatically correct.\n\nThe scientist explained her theory in such a ______ manner that even ______ listeners could follow it easily.",
+   "options": [
+    "confusing / expert",
+    "lucid / lay",
+    "complicated / trained",
+    "vague / attentive",
+    "technical / uninterested"
+   ],
+   "correct": 1,
+   "explanation": "The result clause 'even ___ listeners could follow it easily' implies the explanation was clear, so the first blank is 'lucid' (clear). For the emphasis 'even,' the listeners should be non-experts, i.e. 'lay' listeners. 'Lucid / lay' fits both blanks logically.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q036",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "phrase-replacement",
+   "difficulty": 2,
+   "question": "Choose the option that best replaces the highlighted phrase. If no replacement is needed, choose the 'No replacement required' option.\n\nThe new employee was asked to **get rid off** all the outdated files in the cabinet.",
+   "options": [
+    "get rid of",
+    "get ridden of",
+    "get rid from",
+    "getting rid off",
+    "No replacement required"
+   ],
+   "correct": 0,
+   "explanation": "The correct idiom is 'get rid of,' not 'get rid off.' The highlighted phrase should be replaced with 'get rid of.' The other options are ungrammatical.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q037",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "phrase-replacement",
+   "difficulty": 2,
+   "question": "Choose the option that best replaces the highlighted phrase. If no replacement is needed, choose the 'No replacement required' option.\n\nThe manager insisted that every report **should be checked twice** before it is sent to the client.",
+   "options": [
+    "should be check twice",
+    "should be checking twice",
+    "should being checked twice",
+    "should have checked twice",
+    "No replacement required"
+   ],
+   "correct": 4,
+   "explanation": "The phrase 'should be checked twice' is a correct passive construction ('should be' + past participle 'checked'). No change is needed, so the answer is 'No replacement required.' The other options introduce grammatical errors.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q038",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "phrase-replacement",
+   "difficulty": 2,
+   "question": "Choose the option that best replaces the highlighted phrase. If no replacement is needed, choose the 'No replacement required' option.\n\nThe children were looking forward **to see** the magician perform at the fair.",
+   "options": [
+    "to seeing",
+    "to have seen",
+    "for seeing",
+    "to saw",
+    "No replacement required"
+   ],
+   "correct": 0,
+   "explanation": "In 'look forward to,' the 'to' is a preposition and must be followed by a gerund. So 'to see' should be 'to seeing': 'looking forward to seeing the magician.' The correct replacement is 'to seeing.'",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q039",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "para-completion",
+   "difficulty": 2,
+   "question": "Choose the sentence that best completes the paragraph in a coherent and logical manner.\n\nMany people believe that working longer hours automatically leads to greater productivity. However, research increasingly suggests the opposite. Employees who take regular breaks and maintain a healthy work-life balance tend to be more focused and creative. ______",
+   "options": [
+    "Therefore, companies should encourage employees to work even longer hours to maximise output.",
+    "In other words, quality of work often matters more than the sheer number of hours spent at the desk.",
+    "As a result, breaks should be banned to prevent employees from wasting valuable time.",
+    "Consequently, work-life balance has no measurable effect on employee performance.",
+    "This proves that productivity cannot be measured in any meaningful way."
+   ],
+   "correct": 1,
+   "explanation": "The paragraph argues that balance and breaks improve focus and creativity, challenging the 'longer hours' assumption. The concluding sentence should reinforce that quality outweighs sheer hours, which option 2 does. The other options contradict the paragraph's argument.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q040",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "para-completion",
+   "difficulty": 3,
+   "question": "Choose the sentence that best completes the paragraph in a coherent and logical manner.\n\nElectric vehicles are often praised as a clean alternative to petrol and diesel cars. Yet their environmental benefit depends heavily on how the electricity that powers them is generated. In regions where power comes largely from coal, the advantage over conventional cars shrinks considerably. ______",
+   "options": [
+    "Thus, electric vehicles are always the most polluting option regardless of the energy source.",
+    "Therefore, the true green potential of electric vehicles can only be realised alongside a shift to cleaner sources of electricity.",
+    "Hence, petrol and diesel cars should be promoted over electric vehicles everywhere.",
+    "As a result, the way electricity is generated has no bearing on the benefits of electric vehicles.",
+    "Consequently, coal remains the cleanest possible fuel for powering electric vehicles."
+   ],
+   "correct": 1,
+   "explanation": "The paragraph states that the benefit of electric vehicles depends on how the electricity is generated, and shrinks where coal dominates. The logical conclusion is that their green potential requires cleaner electricity, as in option 2. The others contradict or misstate the paragraph.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q041",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre23-set4",
+   "question": "What is the total number of laptops sold by all five stores together?",
+   "options": [
+    "650",
+    "680",
+    "700",
+    "720",
+    "750"
+   ],
+   "correct": 2,
+   "explanation": "Total laptops = 120 + 150 + 90 + 200 + 140 = **700**.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q042",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre23-set4",
+   "question": "What is the ratio of tablets sold by store A to tablets sold by store D?",
+   "options": [
+    "7:15",
+    "8:15",
+    "15:8",
+    "4:5",
+    "2:3"
+   ],
+   "correct": 1,
+   "explanation": "Tablets by A = 80, by D = 150. Ratio = 80 : 150. Dividing both by 10 gives 8 : 15 = **8:15**.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q043",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre23-set4",
+   "question": "The number of tablets sold by store D is what percent more than the number of tablets sold by store A?",
+   "options": [
+    "75%",
+    "80%",
+    "85%",
+    "87.5%",
+    "90%"
+   ],
+   "correct": 3,
+   "explanation": "Tablets: D = 150, A = 80. Increase = 150 - 80 = 70. Percent more = (70 / 80) * 100 = **87.5%**.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q044",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre23-set4",
+   "question": "What is the average number of laptops sold per store?",
+   "options": [
+    "120",
+    "130",
+    "140",
+    "150",
+    "160"
+   ],
+   "correct": 2,
+   "explanation": "Total laptops = 700 (from Q041). Average = 700 / 5 = **140**.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q045",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre23-set4",
+   "question": "The number of laptops sold by store B is what percent of the number of laptops sold by store D?",
+   "options": [
+    "60%",
+    "65%",
+    "70%",
+    "75%",
+    "80%"
+   ],
+   "correct": 3,
+   "explanation": "Laptops: B = 150, D = 200. Required percent = (150 / 200) * 100 = **75%**.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q046",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "caselet-di",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre23-set5",
+   "question": "What is the total number of candidates who qualified from all three cities together?",
+   "options": [
+    "680",
+    "700",
+    "720",
+    "740",
+    "760"
+   ],
+   "correct": 2,
+   "explanation": "Qualified: P = 60% of 500 = 300, Q = 45% of 400 = 180, R = 40% of 600 = 240. Total = 300 + 180 + 240 = **720**.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q047",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "caselet-di",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre23-set5",
+   "question": "What is the ratio of candidates qualified from city P to candidates qualified from city R?",
+   "options": [
+    "4:5",
+    "5:4",
+    "3:2",
+    "5:6",
+    "6:5"
+   ],
+   "correct": 1,
+   "explanation": "Qualified: P = 300, R = 240. Ratio = 300 : 240. Dividing by 60 gives 5 : 4 = **5:4**.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q048",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "caselet-di",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre23-set5",
+   "question": "What is the total number of candidates who did NOT qualify from all three cities together?",
+   "options": [
+    "760",
+    "770",
+    "780",
+    "800",
+    "820"
+   ],
+   "correct": 2,
+   "explanation": "Not qualified = Appeared - Qualified. P = 500 - 300 = 200, Q = 400 - 180 = 220, R = 600 - 240 = 360. Total = 200 + 220 + 360 = **780**.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q049",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "caselet-di",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre23-set5",
+   "question": "The number of candidates qualified from city Q is what percent of the number qualified from city P?",
+   "options": [
+    "50%",
+    "55%",
+    "60%",
+    "65%",
+    "70%"
+   ],
+   "correct": 2,
+   "explanation": "Qualified: Q = 180, P = 300. Required percent = (180 / 300) * 100 = **60%**.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q050",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "caselet-di",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre23-set5",
+   "question": "What is the average number of candidates who appeared per city?",
+   "options": [
+    "450",
+    "480",
+    "500",
+    "520",
+    "550"
+   ],
+   "correct": 2,
+   "explanation": "Total appeared = 500 + 400 + 600 = 1500. Average = 1500 / 3 = **500**.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q051",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "number-series",
+   "difficulty": 2,
+   "question": "Find the missing term:\n\n5, 11, 23, 47, 95, ?",
+   "options": [
+    "181",
+    "187",
+    "191",
+    "195",
+    "203"
+   ],
+   "correct": 2,
+   "explanation": "Pattern: each term = previous * 2 + 1. 5*2+1=11, 11*2+1=23, 23*2+1=47, 47*2+1=95, 95*2+1 = **191**.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q052",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "number-series",
+   "difficulty": 2,
+   "question": "Find the missing term:\n\n8, 12, 24, 60, ?",
+   "options": [
+    "150",
+    "168",
+    "180",
+    "192",
+    "210"
+   ],
+   "correct": 2,
+   "explanation": "Multipliers increase by 0.5 each step: *1.5, *2, *2.5, *3. 8*1.5=12, 12*2=24, 24*2.5=60, 60*3 = **180**.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q053",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "number-series",
+   "difficulty": 2,
+   "question": "Find the missing term:\n\n7, 9, 13, 21, 37, ?",
+   "options": [
+    "53",
+    "61",
+    "69",
+    "73",
+    "77"
+   ],
+   "correct": 2,
+   "explanation": "Differences double each time: +2, +4, +8, +16, +32. 37 + 32 = **69**.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q054",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "number-series",
+   "difficulty": 1,
+   "question": "Find the missing term:\n\n2, 6, 12, 20, 30, ?",
+   "options": [
+    "38",
+    "40",
+    "42",
+    "44",
+    "46"
+   ],
+   "correct": 2,
+   "explanation": "Differences increase by 2: +4, +6, +8, +10, +12. 30 + 12 = **42**. (Also n*(n+1): 6*7 = 42.)",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q055",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "number-series",
+   "difficulty": 3,
+   "question": "Find the missing term:\n\n4, 9, 25, 49, 121, ?",
+   "options": [
+    "143",
+    "157",
+    "169",
+    "181",
+    "225"
+   ],
+   "correct": 2,
+   "explanation": "These are squares of consecutive primes: 2^2=4, 3^2=9, 5^2=25, 7^2=49, 11^2=121, next prime 13, 13^2 = **169**.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q056",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "simplification-approximation",
+   "difficulty": 2,
+   "question": "What approximate value comes in place of the question mark?\n\n24.98% of 400.05 + 15.02% of 199.9 = ?",
+   "options": [
+    "110",
+    "120",
+    "130",
+    "140",
+    "150"
+   ],
+   "correct": 2,
+   "explanation": "Approximate: 25% of 400 = 100, and 15% of 200 = 30. Sum = 100 + 30 = **130**.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q057",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "simplification-approximation",
+   "difficulty": 2,
+   "question": "What approximate value comes in place of the question mark?\n\nsqrt(624.99) + sqrt(255.98) = ?",
+   "options": [
+    "39",
+    "40",
+    "41",
+    "42",
+    "43"
+   ],
+   "correct": 2,
+   "explanation": "sqrt(625) = 25 and sqrt(256) = 16. Sum = 25 + 16 = **41**.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q058",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "simplification-approximation",
+   "difficulty": 2,
+   "question": "What approximate value comes in place of the question mark?\n\n(19.98 * 15.02) + (9.97 * 4.99) = ?",
+   "options": [
+    "320",
+    "335",
+    "350",
+    "365",
+    "380"
+   ],
+   "correct": 2,
+   "explanation": "Approximate: 20 * 15 = 300 and 10 * 5 = 50. Sum = 300 + 50 = **350**.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q059",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "simplification-approximation",
+   "difficulty": 2,
+   "question": "What approximate value comes in place of the question mark?\n\n4599 / 22.98 + 17.02 * 6.99 = ?",
+   "options": [
+    "300",
+    "310",
+    "320",
+    "330",
+    "340"
+   ],
+   "correct": 2,
+   "explanation": "Approximate: 4600 / 23 = 200 and 17 * 7 = 119. Sum = 200 + 119 = 319, nearest to **320**.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q060",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "simplification-approximation",
+   "difficulty": 2,
+   "question": "What approximate value comes in place of the question mark?\n\n44.99% of 800 - 25.01% of 240.2 = ?",
+   "options": [
+    "270",
+    "285",
+    "300",
+    "315",
+    "330"
+   ],
+   "correct": 2,
+   "explanation": "Approximate: 45% of 800 = 360 and 25% of 240 = 60. Difference = 360 - 60 = **300**.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q061",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "quadratic-equations",
+   "difficulty": 2,
+   "question": "In the following, two equations are given. Solve both and determine the relation between x and y.\n\nI. x^2 - 7x + 12 = 0\nII. y^2 - 9y + 20 = 0",
+   "options": [
+    "x > y",
+    "x >= y",
+    "x < y",
+    "x <= y",
+    "x = y or no relation can be established"
+   ],
+   "correct": 3,
+   "explanation": "I: x^2 - 7x + 12 = 0 gives x = 3 or 4. II: y^2 - 9y + 20 = 0 gives y = 4 or 5. Comparing all pairs: 3<4, 3<5, 4=4, 4<5. In every case x <= y, so **x <= y**.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q062",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "quadratic-equations",
+   "difficulty": 2,
+   "question": "In the following, two equations are given. Solve both and determine the relation between x and y.\n\nI. x^2 - 11x + 30 = 0\nII. y^2 - 15y + 56 = 0",
+   "options": [
+    "x > y",
+    "x >= y",
+    "x < y",
+    "x <= y",
+    "x = y or no relation can be established"
+   ],
+   "correct": 2,
+   "explanation": "I: x^2 - 11x + 30 = 0 gives x = 5 or 6. II: y^2 - 15y + 56 = 0 gives y = 7 or 8. The largest x (6) is less than the smallest y (7), so in every case **x < y**.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q063",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "quadratic-equations",
+   "difficulty": 3,
+   "question": "In the following, two equations are given. Solve both and determine the relation between x and y.\n\nI. 2x^2 - 9x + 9 = 0\nII. y^2 - 5y + 6 = 0",
+   "options": [
+    "x > y",
+    "x >= y",
+    "x < y",
+    "x <= y",
+    "x = y or no relation can be established"
+   ],
+   "correct": 4,
+   "explanation": "I: 2x^2 - 9x + 9 = 0, x = (9 +/- 3)/4 = 3 or 1.5. II: y^2 - 5y + 6 = 0 gives y = 2 or 3. Compare: x=1.5 < y=2 and y=3; but x=3 > y=2 while x=3 = y=3. Relations are mixed, so **no relation can be established**.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q064",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "quadratic-equations",
+   "difficulty": 2,
+   "question": "In the following, two equations are given. Solve both and determine the relation between x and y.\n\nI. x^2 - 16x + 63 = 0\nII. y^2 - 12y + 35 = 0",
+   "options": [
+    "x > y",
+    "x >= y",
+    "x < y",
+    "x <= y",
+    "x = y or no relation can be established"
+   ],
+   "correct": 1,
+   "explanation": "I: x^2 - 16x + 63 = 0 gives x = 7 or 9. II: y^2 - 12y + 35 = 0 gives y = 5 or 7. Compare: 7>5, 7=7, 9>5, 9>7. In every case x >= y, so **x >= y**.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q065",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "profit-loss",
+   "difficulty": 2,
+   "question": "A shopkeeper marks an article 40% above its cost price and then allows a discount of 25% on the marked price. What is his profit or loss percent?",
+   "options": [
+    "3% profit",
+    "4% profit",
+    "5% profit",
+    "6% profit",
+    "8% profit"
+   ],
+   "correct": 2,
+   "explanation": "Let cost price = 100. Marked price = 100 * 1.40 = 140. Selling price = 140 * (1 - 0.25) = 140 * 0.75 = 105. Profit = 105 - 100 = 5, so profit = **5% profit**.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q066",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "simple-compound-interest",
+   "difficulty": 2,
+   "question": "The difference between the compound interest and the simple interest on a certain sum for 2 years at 10% per annum is Rs 50. What is the sum?",
+   "options": [
+    "Rs 4000",
+    "Rs 4500",
+    "Rs 5000",
+    "Rs 5500",
+    "Rs 6000"
+   ],
+   "correct": 2,
+   "explanation": "For 2 years, difference = P * (r/100)^2 = P * (10/100)^2 = P * 0.01. So P * 0.01 = 50, giving P = 50 / 0.01 = **Rs 5000**.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q067",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "time-work",
+   "difficulty": 2,
+   "question": "A can complete a piece of work in 12 days and B can complete the same work in 18 days. Working together, in how many days will they complete the work?",
+   "options": [
+    "6 days",
+    "6.5 days",
+    "7.2 days",
+    "7.5 days",
+    "8 days"
+   ],
+   "correct": 2,
+   "explanation": "Combined one-day work = 1/12 + 1/18. LCM 36: 3/36 + 2/36 = 5/36. Time = 36/5 = **7.2 days**.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q068",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "speed-time-distance",
+   "difficulty": 2,
+   "question": "A car travels from town P to town Q, a distance of 360 km, at 60 km/h and returns along the same route at 90 km/h. What is the average speed for the entire journey?",
+   "options": [
+    "70 km/h",
+    "71 km/h",
+    "72 km/h",
+    "74 km/h",
+    "75 km/h"
+   ],
+   "correct": 2,
+   "explanation": "Average speed for equal distances = 2*s1*s2 / (s1 + s2) = (2 * 60 * 90) / (60 + 90) = 10800 / 150 = **72 km/h**.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q069",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "mixtures-alligations",
+   "difficulty": 2,
+   "question": "In what ratio must rice costing Rs 30 per kg be mixed with rice costing Rs 45 per kg so that the mixture is worth Rs 35 per kg?",
+   "options": [
+    "1:2",
+    "2:1",
+    "3:2",
+    "2:3",
+    "3:1"
+   ],
+   "correct": 1,
+   "explanation": "By alligation, ratio = (45 - 35) : (35 - 30) = 10 : 5 = **2:1** (cheaper : dearer).",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q070",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "partnership",
+   "difficulty": 2,
+   "question": "A and B start a business investing Rs 5000 and Rs 8000 respectively for the same period. At the end of the year the total profit is Rs 6500. What is B's share of the profit?",
+   "options": [
+    "Rs 3000",
+    "Rs 3500",
+    "Rs 4000",
+    "Rs 4500",
+    "Rs 5000"
+   ],
+   "correct": 2,
+   "explanation": "Profit is shared in the ratio of investments = 5000 : 8000 = 5 : 8, total 13 parts. One part = 6500 / 13 = 500. B's share = 8 * 500 = **Rs 4000**.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q071",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre23-set6",
+   "question": "Who lives on the topmost floor?",
+   "options": [
+    "A",
+    "C",
+    "E",
+    "G",
+    "B"
+   ],
+   "correct": 2,
+   "explanation": "Final arrangement (floor 7 down to 1): 7-E, 6-A, 5-C, 4-G, 3-D, 2-F, 1-B. E lives on the topmost floor (7).",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q072",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre23-set6",
+   "question": "How many persons live between A and F?",
+   "options": [
+    "One",
+    "Two",
+    "Three",
+    "Four",
+    "None"
+   ],
+   "correct": 2,
+   "explanation": "In the order 7-E, 6-A, 5-C, 4-G, 3-D, 2-F, 1-B, A is on floor 6 and F on floor 2. Between them lie floors 5, 4 and 3 (C, G and D) - three persons.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q073",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre23-set6",
+   "question": "Who lives immediately above C?",
+   "options": [
+    "A",
+    "D",
+    "G",
+    "E",
+    "F"
+   ],
+   "correct": 0,
+   "explanation": "C is on floor 5 and A is on floor 6, directly above C.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q074",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre23-set6",
+   "question": "On which floor does G live?",
+   "options": [
+    "Floor 2",
+    "Floor 3",
+    "Floor 4",
+    "Floor 5",
+    "Floor 6"
+   ],
+   "correct": 2,
+   "explanation": "G lives immediately above D. Since D is on floor 3, G is on floor 4.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q075",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-pre23-set6",
+   "question": "Four of the following five are alike in a certain way based on the arrangement and hence form a group. Which one does not belong to that group?",
+   "options": [
+    "E",
+    "C",
+    "D",
+    "B",
+    "G"
+   ],
+   "correct": 4,
+   "explanation": "E (7), C (5), D (3) and B (1) all live on odd-numbered floors, whereas G lives on floor 4, an even-numbered floor. So G is the odd one out.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q076",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre23-set7",
+   "question": "Who sits at the extreme right end of the row?",
+   "options": [
+    "S",
+    "R",
+    "T",
+    "V",
+    "U"
+   ],
+   "correct": 3,
+   "explanation": "Final row (left to right): S, P, W, Q, U, R, T, V. V sits at the extreme right end.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q077",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre23-set7",
+   "question": "How many persons sit between W and R?",
+   "options": [
+    "One",
+    "Two",
+    "Three",
+    "Four",
+    "None"
+   ],
+   "correct": 1,
+   "explanation": "In the row S, P, W, Q, U, R, T, V, W is 3rd and R is 6th. Between them sit Q and U - two persons.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q078",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre23-set7",
+   "question": "Who sits immediately to the left of T?",
+   "options": [
+    "V",
+    "R",
+    "U",
+    "Q",
+    "W"
+   ],
+   "correct": 1,
+   "explanation": "T is 7th in the row S, P, W, Q, U, R, T, V. The person immediately to the left of T is R (6th).",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q079",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre23-set7",
+   "question": "Who sits third to the left of V?",
+   "options": [
+    "R",
+    "U",
+    "T",
+    "Q",
+    "W"
+   ],
+   "correct": 1,
+   "explanation": "V is at position 8. Third to the left of V is position 5, which is U (row: S, P, W, Q, U, R, T, V).",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q080",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-pre23-set7",
+   "question": "Four of the following five pairs are immediate neighbours in the row and hence form a group. Which pair does NOT belong to that group?",
+   "options": [
+    "S-P",
+    "W-Q",
+    "U-R",
+    "T-V",
+    "P-Q"
+   ],
+   "correct": 4,
+   "explanation": "In the row S, P, W, Q, U, R, T, V, the pairs S-P, W-Q, U-R and T-V are all adjacent. P and Q are not adjacent (W sits between them), so P-Q is the odd one out.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q081",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre23-set8",
+   "question": "Who sits immediately to the right of E?",
+   "options": [
+    "C",
+    "G",
+    "A",
+    "D",
+    "H"
+   ],
+   "correct": 0,
+   "explanation": "The clockwise order (which is also the left-hand direction for those facing the centre) is A, C, E, G, B, D, F, H. The immediate right of a person is the anticlockwise neighbour, so immediately to the right of E is C.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q082",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-pre23-set8",
+   "question": "Who sits second to the left of B?",
+   "options": [
+    "D",
+    "G",
+    "F",
+    "H",
+    "E"
+   ],
+   "correct": 2,
+   "explanation": "Left means clockwise (for those facing the centre). Clockwise order: A, C, E, G, B, D, F, H. From B, first to the left is D and second to the left is F.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q083",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-pre23-set8",
+   "question": "How many persons sit between A and B when counted from the left of A (clockwise)?",
+   "options": [
+    "One",
+    "Two",
+    "Three",
+    "Four",
+    "Five"
+   ],
+   "correct": 2,
+   "explanation": "Going clockwise (to the left) from A: A, C, E, G, B. Between A and B lie C, E and G - three persons.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q084",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre23-set8",
+   "question": "Who sits exactly opposite to C?",
+   "options": [
+    "B",
+    "D",
+    "F",
+    "G",
+    "H"
+   ],
+   "correct": 1,
+   "explanation": "With eight persons in the clockwise order A, C, E, G, B, D, F, H, the person opposite is four seats away. Four seats from C (A, C, E, G, B, D...) lands on D, so D sits exactly opposite C.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q085",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "syllogism",
+   "difficulty": 2,
+   "question": "Statements:\nOnly a few pens are pencils.\nAll pencils are erasers.\nNo eraser is a marker.\nConclusions:\nI. Some pens are erasers.\nII. No pencil is a marker.",
+   "options": [
+    "Only conclusion I follows",
+    "Only conclusion II follows",
+    "Either I or II follows",
+    "Neither I nor II follows",
+    "Both I and II follow"
+   ],
+   "correct": 4,
+   "explanation": "'Only a few pens are pencils' means some pens are pencils, and all pencils are erasers, so those pens are erasers - I follows. All pencils are erasers and no eraser is a marker, so no pencil is a marker - II follows. Both follow.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q086",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "syllogism",
+   "difficulty": 2,
+   "question": "Statements:\nSome cats are dogs.\nAll dogs are pets.\nConclusions:\nI. Some cats are pets.\nII. All pets are dogs.",
+   "options": [
+    "Only conclusion I follows",
+    "Only conclusion II follows",
+    "Either I or II follows",
+    "Neither I nor II follows",
+    "Both I and II follow"
+   ],
+   "correct": 0,
+   "explanation": "Some cats are dogs and all dogs are pets, so those cats are pets - I follows. 'All pets are dogs' reverses the given 'all dogs are pets' and is not supported, so II does not follow.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q087",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "syllogism",
+   "difficulty": 3,
+   "question": "Statements:\nAll roses are flowers.\nSome flowers are red.\nConclusions:\nI. Some roses are red.\nII. No rose is red.",
+   "options": [
+    "Only conclusion I follows",
+    "Only conclusion II follows",
+    "Either I or II follows",
+    "Neither I nor II follows",
+    "Both I and II follow"
+   ],
+   "correct": 2,
+   "explanation": "From the premises it cannot be determined whether any rose is red. 'Some roses are red' and 'No rose is red' are complementary - exactly one must be true - so neither follows definitely but together they cover all cases. Hence either I or II follows.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q088",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "inequality",
+   "difficulty": 2,
+   "question": "In the statements below, the relationships are given. Read them and decide which conclusions follow.\n\nStatements: P > Q >= R = S; T < R\nConclusions:\nI. P > S\nII. T < P",
+   "options": [
+    "Only conclusion I follows",
+    "Only conclusion II follows",
+    "Either I or II follows",
+    "Neither I nor II follows",
+    "Both I and II follow"
+   ],
+   "correct": 4,
+   "explanation": "P > Q >= R = S gives P > S, so I follows. Also T < R = S <= Q < P, so T < P, and II follows. Both follow.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q089",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "inequality",
+   "difficulty": 2,
+   "question": "In the statements below, the relationships are given. Read them and decide which conclusions follow.\n\nStatements: M >= N = O; P < O\nConclusions:\nI. M > P\nII. M = P",
+   "options": [
+    "Only conclusion I follows",
+    "Only conclusion II follows",
+    "Either I or II follows",
+    "Neither I nor II follows",
+    "Both I and II follow"
+   ],
+   "correct": 0,
+   "explanation": "M >= N = O and P < O give M >= O > P, so M > P - I follows. Since M is strictly greater than P, M = P cannot hold, so II does not follow.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q090",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "inequality",
+   "difficulty": 3,
+   "question": "In the statements below, the relationships are given. Read them and decide which conclusions follow.\n\nStatements: X <= Y; Y <= Z\nConclusions:\nI. X < Z\nII. X = Z",
+   "options": [
+    "Only conclusion I follows",
+    "Only conclusion II follows",
+    "Either I or II follows",
+    "Neither I nor II follows",
+    "Both I and II follow"
+   ],
+   "correct": 2,
+   "explanation": "X <= Y <= Z gives X <= Z, meaning either X < Z or X = Z. Neither is certain on its own, but together they exhaust all possibilities, so either I or II follows.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q091",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre23-set9",
+   "question": "Who attends the seminar on Wednesday?",
+   "options": [
+    "P",
+    "Q",
+    "R",
+    "S",
+    "T"
+   ],
+   "correct": 4,
+   "explanation": "Final schedule: Monday-R, Tuesday-P, Wednesday-T, Thursday-Q, Friday-S. T attends on Wednesday.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q092",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre23-set9",
+   "question": "On which day does S attend the seminar?",
+   "options": [
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday"
+   ],
+   "correct": 4,
+   "explanation": "P is on Tuesday and exactly two persons attend between P and S, placing S on Friday (with Wednesday and Thursday in between).",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q093",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre23-set9",
+   "question": "How many persons attend the seminar between R and Q?",
+   "options": [
+    "None",
+    "One",
+    "Two",
+    "Three",
+    "Four"
+   ],
+   "correct": 2,
+   "explanation": "R attends on Monday and Q on Thursday. Between them, P (Tuesday) and T (Wednesday) attend - two persons.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q094",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "blood-relations",
+   "difficulty": 2,
+   "question": "Pointing to a photograph, a man said, \"She is the daughter of my grandfather's only son.\" How is the woman in the photograph related to the man?",
+   "options": [
+    "Mother",
+    "Sister",
+    "Aunt",
+    "Daughter",
+    "Cousin"
+   ],
+   "correct": 1,
+   "explanation": "The man's grandfather's only son is the man's own father. The daughter of the man's father is the man's sister.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q095",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "blood-relations",
+   "difficulty": 1,
+   "question": "A is the brother of B. B is the son of C. D is the mother of A. How is B related to D?",
+   "options": [
+    "Daughter",
+    "Son",
+    "Brother",
+    "Father",
+    "Nephew"
+   ],
+   "correct": 1,
+   "explanation": "A and B are brothers, so they share the same parents. D is the mother of A, hence also the mother of B. Since B is male (brother of A), B is the son of D.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q096",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "direction-sense",
+   "difficulty": 2,
+   "question": "A man starts from point O and walks 5 km towards the north. He then turns right and walks 3 km, and again turns right and walks 5 km. How far and in which direction is he now from point O?",
+   "options": [
+    "3 km, East",
+    "5 km, North",
+    "3 km, West",
+    "8 km, East",
+    "4 km, South"
+   ],
+   "correct": 0,
+   "explanation": "Taking O as (0,0): 5 km north to (0,5); turn right (east) 3 km to (3,5); turn right (south) 5 km to (3,0). He ends 3 km due east of O.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q097",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "direction-sense",
+   "difficulty": 2,
+   "question": "A person starts facing east and walks 8 m. He then turns left and walks 6 m, and again turns left and walks 8 m. How far and in which direction is he from his starting point?",
+   "options": [
+    "6 m, North",
+    "8 m, East",
+    "10 m, North-west",
+    "6 m, South",
+    "14 m, North"
+   ],
+   "correct": 0,
+   "explanation": "Start at (0,0) facing east: 8 m east to (8,0); turn left (north) 6 m to (8,6); turn left (west) 8 m to (0,6). He is 6 m due north of the start.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q098",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "coding-decoding",
+   "difficulty": 1,
+   "question": "In a certain code language, 'MANGO' is written as 'NBOHP'. How is 'APPLE' written in that code?",
+   "options": [
+    "BQQMF",
+    "BQMQF",
+    "ZOOKD",
+    "BQQNF",
+    "CRRNG"
+   ],
+   "correct": 0,
+   "explanation": "Each letter is shifted one place forward in the alphabet (M->N, A->B, N->O, G->H, O->P). Applying the same shift to APPLE: A->B, P->Q, P->Q, L->M, E->F, giving BQQMF.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q099",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "coding-decoding",
+   "difficulty": 2,
+   "question": "In a certain code language, 'TABLE' is written as 'GZYOV'. How is 'CHAIR' written in that code?",
+   "options": [
+    "XSZRI",
+    "XSXRI",
+    "DIBJS",
+    "WSZRI",
+    "XRZSI"
+   ],
+   "correct": 0,
+   "explanation": "Each letter is replaced by its opposite in the alphabet (A<->Z, B<->Y, ...): T->G, A->Z, B->Y, L->O, E->V. Applying the same rule to CHAIR: C->X, H->S, A->Z, I->R, R->I, giving XSZRI.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre23-q100",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "alphanumeric-series",
+   "difficulty": 2,
+   "question": "Study the following sequence and answer the question.\n\n4 R % 2 M K @ 7 B # J 5 W & 9 $ P 3\n\nHow many symbols are there in the sequence, each of which is immediately preceded by a letter and immediately followed by a number?",
+   "options": [
+    "One",
+    "Two",
+    "Three",
+    "Four",
+    "None"
+   ],
+   "correct": 2,
+   "explanation": "Check each symbol: % is preceded by R (letter) and followed by 2 (number) - yes; @ is preceded by K (letter) and followed by 7 (number) - yes; # is preceded by B (letter) but followed by J (letter) - no; & is preceded by W (letter) and followed by 9 (number) - yes; $ is preceded by 9 (number) - no. Three symbols qualify.",
+   "source": {
+    "kind": "generated",
+    "ref": "Modeled on SBI PO Prelims 2023 pattern",
+    "year": 2023
+   },
+   "tags": [
+    "generated",
+    "sbi-po-2023"
+   ]
+  }
+ ],
+ "paper": {
+  "id": "sbi-po-pre-2023",
+  "name": "SBI PO Prelims 2023",
+  "exam": "sbi-po",
+  "stage": "prelims",
+  "year": 2023,
+  "sections": [
+   {
+    "name": "English Language",
+    "pool": "english",
+    "minutes": 20,
+    "marksPerQuestion": 1,
+    "questionIds": [
+     "pyq-sbipo-pre23-q001",
+     "pyq-sbipo-pre23-q002",
+     "pyq-sbipo-pre23-q003",
+     "pyq-sbipo-pre23-q004",
+     "pyq-sbipo-pre23-q005",
+     "pyq-sbipo-pre23-q006",
+     "pyq-sbipo-pre23-q007",
+     "pyq-sbipo-pre23-q008",
+     "pyq-sbipo-pre23-q009",
+     "pyq-sbipo-pre23-q010",
+     "pyq-sbipo-pre23-q011",
+     "pyq-sbipo-pre23-q012",
+     "pyq-sbipo-pre23-q013",
+     "pyq-sbipo-pre23-q014",
+     "pyq-sbipo-pre23-q015",
+     "pyq-sbipo-pre23-q016",
+     "pyq-sbipo-pre23-q017",
+     "pyq-sbipo-pre23-q018",
+     "pyq-sbipo-pre23-q019",
+     "pyq-sbipo-pre23-q020",
+     "pyq-sbipo-pre23-q021",
+     "pyq-sbipo-pre23-q022",
+     "pyq-sbipo-pre23-q023",
+     "pyq-sbipo-pre23-q024",
+     "pyq-sbipo-pre23-q025",
+     "pyq-sbipo-pre23-q026",
+     "pyq-sbipo-pre23-q027",
+     "pyq-sbipo-pre23-q028",
+     "pyq-sbipo-pre23-q029",
+     "pyq-sbipo-pre23-q030",
+     "pyq-sbipo-pre23-q031",
+     "pyq-sbipo-pre23-q032",
+     "pyq-sbipo-pre23-q033",
+     "pyq-sbipo-pre23-q034",
+     "pyq-sbipo-pre23-q035",
+     "pyq-sbipo-pre23-q036",
+     "pyq-sbipo-pre23-q037",
+     "pyq-sbipo-pre23-q038",
+     "pyq-sbipo-pre23-q039",
+     "pyq-sbipo-pre23-q040"
+    ]
+   },
+   {
+    "name": "Quantitative Aptitude",
+    "pool": "quant",
+    "minutes": 20,
+    "marksPerQuestion": 1,
+    "questionIds": [
+     "pyq-sbipo-pre23-q041",
+     "pyq-sbipo-pre23-q042",
+     "pyq-sbipo-pre23-q043",
+     "pyq-sbipo-pre23-q044",
+     "pyq-sbipo-pre23-q045",
+     "pyq-sbipo-pre23-q046",
+     "pyq-sbipo-pre23-q047",
+     "pyq-sbipo-pre23-q048",
+     "pyq-sbipo-pre23-q049",
+     "pyq-sbipo-pre23-q050",
+     "pyq-sbipo-pre23-q051",
+     "pyq-sbipo-pre23-q052",
+     "pyq-sbipo-pre23-q053",
+     "pyq-sbipo-pre23-q054",
+     "pyq-sbipo-pre23-q055",
+     "pyq-sbipo-pre23-q056",
+     "pyq-sbipo-pre23-q057",
+     "pyq-sbipo-pre23-q058",
+     "pyq-sbipo-pre23-q059",
+     "pyq-sbipo-pre23-q060",
+     "pyq-sbipo-pre23-q061",
+     "pyq-sbipo-pre23-q062",
+     "pyq-sbipo-pre23-q063",
+     "pyq-sbipo-pre23-q064",
+     "pyq-sbipo-pre23-q065",
+     "pyq-sbipo-pre23-q066",
+     "pyq-sbipo-pre23-q067",
+     "pyq-sbipo-pre23-q068",
+     "pyq-sbipo-pre23-q069",
+     "pyq-sbipo-pre23-q070"
+    ]
+   },
+   {
+    "name": "Reasoning Ability",
+    "pool": "reasoning",
+    "minutes": 20,
+    "marksPerQuestion": 1,
+    "questionIds": [
+     "pyq-sbipo-pre23-q071",
+     "pyq-sbipo-pre23-q072",
+     "pyq-sbipo-pre23-q073",
+     "pyq-sbipo-pre23-q074",
+     "pyq-sbipo-pre23-q075",
+     "pyq-sbipo-pre23-q076",
+     "pyq-sbipo-pre23-q077",
+     "pyq-sbipo-pre23-q078",
+     "pyq-sbipo-pre23-q079",
+     "pyq-sbipo-pre23-q080",
+     "pyq-sbipo-pre23-q081",
+     "pyq-sbipo-pre23-q082",
+     "pyq-sbipo-pre23-q083",
+     "pyq-sbipo-pre23-q084",
+     "pyq-sbipo-pre23-q085",
+     "pyq-sbipo-pre23-q086",
+     "pyq-sbipo-pre23-q087",
+     "pyq-sbipo-pre23-q088",
+     "pyq-sbipo-pre23-q089",
+     "pyq-sbipo-pre23-q090",
+     "pyq-sbipo-pre23-q091",
+     "pyq-sbipo-pre23-q092",
+     "pyq-sbipo-pre23-q093",
+     "pyq-sbipo-pre23-q094",
+     "pyq-sbipo-pre23-q095",
+     "pyq-sbipo-pre23-q096",
+     "pyq-sbipo-pre23-q097",
+     "pyq-sbipo-pre23-q098",
+     "pyq-sbipo-pre23-q099",
+     "pyq-sbipo-pre23-q100"
+    ]
+   }
+  ]
+ }
+}

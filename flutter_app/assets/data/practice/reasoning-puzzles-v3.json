@@ -1,0 +1,473 @@
+{
+  "title": "Puzzles & Seating — Practice (Vol. 3)",
+  "section": "reasoning",
+  "kind": "quiz",
+  "source": "reasoning-puzzles-v3.md",
+  "questions": [
+    {
+      "id": "reasoning-puzzles-v3-q001",
+      "group": "Set 1 — Linear row, both directions (8 persons)",
+      "context": "Eight persons — A, B, C, D, E, F, G and H — sit in a straight row. Positions are counted 1 to 8 from the left end (as we look at the row). Each person faces either North or South. For a person facing **North**, their right hand points toward the higher-numbered (right) end; for a person facing **South**, their right hand points toward the lower-numbered (left) end.\n\nClues:\n1. Only two persons sit to the left of A (A is third from the left).\n2. H sits third from the right end.\n3. D sits at the extreme right end.\n4. Four of them face North and the remaining four face South.\n5. E sits immediately to the right of A.\n6. A and E face opposite directions.\n7. F faces South.\n8. Exactly one person sits between F and H, and that person is C.\n9. The person at the extreme left end faces South.\n10. Both persons sitting at the extreme ends face the same direction.\n11. B sits immediately to the right of H.\n12. C faces the same direction as E.\n13. H faces the same direction as B.",
+      "question": "How many persons sit between C and D?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four",
+        "None"
+      ],
+      "correct": 1,
+      "solution": "Left (1) to right (8), with facing in brackets:\n\n| Pos | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |\n|-----|---|---|---|---|---|---|---|---|\n| Person | G | E | A | F | C | H | B | D |\n| Faces | S | N | S | S | N | N | N | S |\n\nHow to reach it: A is 3rd from left (pos 3), H is 3rd from right (pos 6), D at the right end (pos 8). Clue 8 puts F and H with exactly one person between and that person C, so F=4, C=5. Clue 5 (E immediately right of A) — if A faced North, E would be at pos 4, but that is F; so A faces South and E sits at pos 2. Clue 6 makes E face North; clue 12 makes C face North. Positions 1 and 7 remain for G and B. Clue 11 (B immediately right of H): H must face North to place B at pos 7, so B=7 and G=1. Clue 9 gives G (left end) South, clue 10 gives D (right end) South. Clue 13 makes B face North. Count check: North = E, C, H, B (four); South = G, A, F, D (four) — matches clue 4.\n\nC is at 5, D at 8; positions 6 and 7 (H, B) lie between.",
+      "trick": "Between-count = (difference of positions) − 1 = 8 − 5 − 1 = 2. Ignore facing for \"how many between\"."
+    },
+    {
+      "id": "reasoning-puzzles-v3-q002",
+      "group": "Set 1 — Linear row, both directions (8 persons)",
+      "context": "Eight persons — A, B, C, D, E, F, G and H — sit in a straight row. Positions are counted 1 to 8 from the left end (as we look at the row). Each person faces either North or South. For a person facing **North**, their right hand points toward the higher-numbered (right) end; for a person facing **South**, their right hand points toward the lower-numbered (left) end.\n\nClues:\n1. Only two persons sit to the left of A (A is third from the left).\n2. H sits third from the right end.\n3. D sits at the extreme right end.\n4. Four of them face North and the remaining four face South.\n5. E sits immediately to the right of A.\n6. A and E face opposite directions.\n7. F faces South.\n8. Exactly one person sits between F and H, and that person is C.\n9. The person at the extreme left end faces South.\n10. Both persons sitting at the extreme ends face the same direction.\n11. B sits immediately to the right of H.\n12. C faces the same direction as E.\n13. H faces the same direction as B.",
+      "question": "Who sits immediately to the right of E?",
+      "options": [
+        "F",
+        "C",
+        "A",
+        "G",
+        "H"
+      ],
+      "correct": 2,
+      "solution": "Left (1) to right (8), with facing in brackets:\n\n| Pos | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |\n|-----|---|---|---|---|---|---|---|---|\n| Person | G | E | A | F | C | H | B | D |\n| Faces | S | N | S | S | N | N | N | S |\n\nHow to reach it: A is 3rd from left (pos 3), H is 3rd from right (pos 6), D at the right end (pos 8). Clue 8 puts F and H with exactly one person between and that person C, so F=4, C=5. Clue 5 (E immediately right of A) — if A faced North, E would be at pos 4, but that is F; so A faces South and E sits at pos 2. Clue 6 makes E face North; clue 12 makes C face North. Positions 1 and 7 remain for G and B. Clue 11 (B immediately right of H): H must face North to place B at pos 7, so B=7 and G=1. Clue 9 gives G (left end) South, clue 10 gives D (right end) South. Clue 13 makes B face North. Count check: North = E, C, H, B (four); South = G, A, F, D (four) — matches clue 4.\n\nE is at pos 2 facing North, so its right is pos 3 = A.",
+      "trick": "North-facer's right = next higher position."
+    },
+    {
+      "id": "reasoning-puzzles-v3-q003",
+      "group": "Set 1 — Linear row, both directions (8 persons)",
+      "context": "Eight persons — A, B, C, D, E, F, G and H — sit in a straight row. Positions are counted 1 to 8 from the left end (as we look at the row). Each person faces either North or South. For a person facing **North**, their right hand points toward the higher-numbered (right) end; for a person facing **South**, their right hand points toward the lower-numbered (left) end.\n\nClues:\n1. Only two persons sit to the left of A (A is third from the left).\n2. H sits third from the right end.\n3. D sits at the extreme right end.\n4. Four of them face North and the remaining four face South.\n5. E sits immediately to the right of A.\n6. A and E face opposite directions.\n7. F faces South.\n8. Exactly one person sits between F and H, and that person is C.\n9. The person at the extreme left end faces South.\n10. Both persons sitting at the extreme ends face the same direction.\n11. B sits immediately to the right of H.\n12. C faces the same direction as E.\n13. H faces the same direction as B.",
+      "question": "Which of the following pairs sits at the two extreme ends of the row?",
+      "options": [
+        "G and F",
+        "E and D",
+        "G and D",
+        "C and B",
+        "A and H"
+      ],
+      "correct": 2,
+      "solution": "Left (1) to right (8), with facing in brackets:\n\n| Pos | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |\n|-----|---|---|---|---|---|---|---|---|\n| Person | G | E | A | F | C | H | B | D |\n| Faces | S | N | S | S | N | N | N | S |\n\nHow to reach it: A is 3rd from left (pos 3), H is 3rd from right (pos 6), D at the right end (pos 8). Clue 8 puts F and H with exactly one person between and that person C, so F=4, C=5. Clue 5 (E immediately right of A) — if A faced North, E would be at pos 4, but that is F; so A faces South and E sits at pos 2. Clue 6 makes E face North; clue 12 makes C face North. Positions 1 and 7 remain for G and B. Clue 11 (B immediately right of H): H must face North to place B at pos 7, so B=7 and G=1. Clue 9 gives G (left end) South, clue 10 gives D (right end) South. Clue 13 makes B face North. Count check: North = E, C, H, B (four); South = G, A, F, D (four) — matches clue 4.\n\nEnds are pos 1 (G) and pos 8 (D)."
+    },
+    {
+      "id": "reasoning-puzzles-v3-q004",
+      "group": "Set 1 — Linear row, both directions (8 persons)",
+      "context": "Eight persons — A, B, C, D, E, F, G and H — sit in a straight row. Positions are counted 1 to 8 from the left end (as we look at the row). Each person faces either North or South. For a person facing **North**, their right hand points toward the higher-numbered (right) end; for a person facing **South**, their right hand points toward the lower-numbered (left) end.\n\nClues:\n1. Only two persons sit to the left of A (A is third from the left).\n2. H sits third from the right end.\n3. D sits at the extreme right end.\n4. Four of them face North and the remaining four face South.\n5. E sits immediately to the right of A.\n6. A and E face opposite directions.\n7. F faces South.\n8. Exactly one person sits between F and H, and that person is C.\n9. The person at the extreme left end faces South.\n10. Both persons sitting at the extreme ends face the same direction.\n11. B sits immediately to the right of H.\n12. C faces the same direction as E.\n13. H faces the same direction as B.",
+      "question": "How many persons face South?",
+      "options": [
+        "Three",
+        "Four",
+        "Five",
+        "Two",
+        "Six"
+      ],
+      "correct": 1,
+      "solution": "Left (1) to right (8), with facing in brackets:\n\n| Pos | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |\n|-----|---|---|---|---|---|---|---|---|\n| Person | G | E | A | F | C | H | B | D |\n| Faces | S | N | S | S | N | N | N | S |\n\nHow to reach it: A is 3rd from left (pos 3), H is 3rd from right (pos 6), D at the right end (pos 8). Clue 8 puts F and H with exactly one person between and that person C, so F=4, C=5. Clue 5 (E immediately right of A) — if A faced North, E would be at pos 4, but that is F; so A faces South and E sits at pos 2. Clue 6 makes E face North; clue 12 makes C face North. Positions 1 and 7 remain for G and B. Clue 11 (B immediately right of H): H must face North to place B at pos 7, so B=7 and G=1. Clue 9 gives G (left end) South, clue 10 gives D (right end) South. Clue 13 makes B face North. Count check: North = E, C, H, B (four); South = G, A, F, D (four) — matches clue 4.\n\nG, A, F, D face South.",
+      "trick": "Clue 4 already fixes it as four — no need to build the whole row for this one."
+    },
+    {
+      "id": "reasoning-puzzles-v3-q005",
+      "group": "Set 1 — Linear row, both directions (8 persons)",
+      "context": "Eight persons — A, B, C, D, E, F, G and H — sit in a straight row. Positions are counted 1 to 8 from the left end (as we look at the row). Each person faces either North or South. For a person facing **North**, their right hand points toward the higher-numbered (right) end; for a person facing **South**, their right hand points toward the lower-numbered (left) end.\n\nClues:\n1. Only two persons sit to the left of A (A is third from the left).\n2. H sits third from the right end.\n3. D sits at the extreme right end.\n4. Four of them face North and the remaining four face South.\n5. E sits immediately to the right of A.\n6. A and E face opposite directions.\n7. F faces South.\n8. Exactly one person sits between F and H, and that person is C.\n9. The person at the extreme left end faces South.\n10. Both persons sitting at the extreme ends face the same direction.\n11. B sits immediately to the right of H.\n12. C faces the same direction as E.\n13. H faces the same direction as B.",
+      "question": "Who sits third to the left of B?",
+      "options": [
+        "C",
+        "H",
+        "A",
+        "F",
+        "E"
+      ],
+      "correct": 3,
+      "solution": "Left (1) to right (8), with facing in brackets:\n\n| Pos | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |\n|-----|---|---|---|---|---|---|---|---|\n| Person | G | E | A | F | C | H | B | D |\n| Faces | S | N | S | S | N | N | N | S |\n\nHow to reach it: A is 3rd from left (pos 3), H is 3rd from right (pos 6), D at the right end (pos 8). Clue 8 puts F and H with exactly one person between and that person C, so F=4, C=5. Clue 5 (E immediately right of A) — if A faced North, E would be at pos 4, but that is F; so A faces South and E sits at pos 2. Clue 6 makes E face North; clue 12 makes C face North. Positions 1 and 7 remain for G and B. Clue 11 (B immediately right of H): H must face North to place B at pos 7, so B=7 and G=1. Clue 9 gives G (left end) South, clue 10 gives D (right end) South. Clue 13 makes B face North. Count check: North = E, C, H, B (four); South = G, A, F, D (four) — matches clue 4.\n\nB is at pos 7 facing North, so its left is the lower-numbered side; third to the left = pos 7 − 3 = pos 4 = F.",
+      "trick": "For a North-facer, \"to the left\" means subtract positions."
+    },
+    {
+      "id": "reasoning-puzzles-v3-q006",
+      "group": "Set 2 — Circular table, facing centre (8 persons)",
+      "context": "Eight persons — P, Q, R, S, T, U, V and W — sit around a circular table, all **facing the centre**. (Standard convention: when a person faces the centre, \"immediate right\" is the neighbour on the anticlockwise side and \"immediate left\" is the neighbour on the clockwise side.)\n\nClues:\n1. U sits to the immediate left of P.\n2. Q sits to the immediate left of U.\n3. Only one person sits between Q and V.\n4. S sits between Q and V.\n5. V sits exactly opposite P.\n6. R sits to the immediate right of P.\n7. W sits to the immediate right of R, and T sits to the immediate right of W.",
+      "question": "Who sits immediately to the right of V?",
+      "options": [
+        "T",
+        "S",
+        "Q",
+        "R",
+        "W"
+      ],
+      "correct": 1,
+      "solution": "Going clockwise, all facing the centre: **P, U, Q, S, V, T, W, R** (then back to P).\n\nHow to reach it: fix P. Clue 1 puts U on P's immediate left (clockwise neighbour); clue 2 puts Q on U's immediate left. Clue 6 puts R on P's immediate right (anticlockwise neighbour); clue 7 chains W then T anticlockwise from R. Clue 5 puts V opposite P. Clues 3 and 4 confirm S sits between Q and V (the single seat separating them). This fills all eight seats consistently.\n\nV's immediate right is the anticlockwise neighbour = S.",
+      "trick": "Facing centre, \"right\" moves anticlockwise — the opposite of what a floor plan feels like."
+    },
+    {
+      "id": "reasoning-puzzles-v3-q007",
+      "group": "Set 2 — Circular table, facing centre (8 persons)",
+      "context": "Eight persons — P, Q, R, S, T, U, V and W — sit around a circular table, all **facing the centre**. (Standard convention: when a person faces the centre, \"immediate right\" is the neighbour on the anticlockwise side and \"immediate left\" is the neighbour on the clockwise side.)\n\nClues:\n1. U sits to the immediate left of P.\n2. Q sits to the immediate left of U.\n3. Only one person sits between Q and V.\n4. S sits between Q and V.\n5. V sits exactly opposite P.\n6. R sits to the immediate right of P.\n7. W sits to the immediate right of R, and T sits to the immediate right of W.",
+      "question": "Who sits exactly opposite W?",
+      "options": [
+        "P",
+        "U",
+        "Q",
+        "S",
+        "T"
+      ],
+      "correct": 2,
+      "solution": "Going clockwise, all facing the centre: **P, U, Q, S, V, T, W, R** (then back to P).\n\nHow to reach it: fix P. Clue 1 puts U on P's immediate left (clockwise neighbour); clue 2 puts Q on U's immediate left. Clue 6 puts R on P's immediate right (anticlockwise neighbour); clue 7 chains W then T anticlockwise from R. Clue 5 puts V opposite P. Clues 3 and 4 confirm S sits between Q and V (the single seat separating them). This fills all eight seats consistently.\n\nThe person opposite W (4 seats away) is Q.",
+      "trick": "Opposite = seat + 4 in an 8-seat circle."
+    },
+    {
+      "id": "reasoning-puzzles-v3-q008",
+      "group": "Set 2 — Circular table, facing centre (8 persons)",
+      "context": "Eight persons — P, Q, R, S, T, U, V and W — sit around a circular table, all **facing the centre**. (Standard convention: when a person faces the centre, \"immediate right\" is the neighbour on the anticlockwise side and \"immediate left\" is the neighbour on the clockwise side.)\n\nClues:\n1. U sits to the immediate left of P.\n2. Q sits to the immediate left of U.\n3. Only one person sits between Q and V.\n4. S sits between Q and V.\n5. V sits exactly opposite P.\n6. R sits to the immediate right of P.\n7. W sits to the immediate right of R, and T sits to the immediate right of W.",
+      "question": "Who sits second to the left of P?",
+      "options": [
+        "U",
+        "Q",
+        "S",
+        "R",
+        "V"
+      ],
+      "correct": 1,
+      "solution": "Going clockwise, all facing the centre: **P, U, Q, S, V, T, W, R** (then back to P).\n\nHow to reach it: fix P. Clue 1 puts U on P's immediate left (clockwise neighbour); clue 2 puts Q on U's immediate left. Clue 6 puts R on P's immediate right (anticlockwise neighbour); clue 7 chains W then T anticlockwise from R. Clue 5 puts V opposite P. Clues 3 and 4 confirm S sits between Q and V (the single seat separating them). This fills all eight seats consistently.\n\nSecond to P's left (clockwise) is U then Q."
+    },
+    {
+      "id": "reasoning-puzzles-v3-q009",
+      "group": "Set 2 — Circular table, facing centre (8 persons)",
+      "context": "Eight persons — P, Q, R, S, T, U, V and W — sit around a circular table, all **facing the centre**. (Standard convention: when a person faces the centre, \"immediate right\" is the neighbour on the anticlockwise side and \"immediate left\" is the neighbour on the clockwise side.)\n\nClues:\n1. U sits to the immediate left of P.\n2. Q sits to the immediate left of U.\n3. Only one person sits between Q and V.\n4. S sits between Q and V.\n5. V sits exactly opposite P.\n6. R sits to the immediate right of P.\n7. W sits to the immediate right of R, and T sits to the immediate right of W.",
+      "question": "In each of the following pairs \"X - Y\", X sits immediately to the right of Y. Four of them follow this rule. Which one does NOT?",
+      "options": [
+        "U - Q",
+        "P - U",
+        "R - P",
+        "S - V",
+        "T - R"
+      ],
+      "correct": 4,
+      "solution": "Going clockwise, all facing the centre: **P, U, Q, S, V, T, W, R** (then back to P).\n\nHow to reach it: fix P. Clue 1 puts U on P's immediate left (clockwise neighbour); clue 2 puts Q on U's immediate left. Clue 6 puts R on P's immediate right (anticlockwise neighbour); clue 7 chains W then T anticlockwise from R. Clue 5 puts V opposite P. Clues 3 and 4 confirm S sits between Q and V (the single seat separating them). This fills all eight seats consistently.\n\nR's immediate right is W, not T; the other four pairs are genuine \"immediate right\" pairs.",
+      "trick": "Odd-one-out seating items are usually a broken adjacency — test each pair against the ring."
+    },
+    {
+      "id": "reasoning-puzzles-v3-q010",
+      "group": "Set 2 — Circular table, facing centre (8 persons)",
+      "context": "Eight persons — P, Q, R, S, T, U, V and W — sit around a circular table, all **facing the centre**. (Standard convention: when a person faces the centre, \"immediate right\" is the neighbour on the anticlockwise side and \"immediate left\" is the neighbour on the clockwise side.)\n\nClues:\n1. U sits to the immediate left of P.\n2. Q sits to the immediate left of U.\n3. Only one person sits between Q and V.\n4. S sits between Q and V.\n5. V sits exactly opposite P.\n6. R sits to the immediate right of P.\n7. W sits to the immediate right of R, and T sits to the immediate right of W.",
+      "question": "Who are the immediate neighbours of Q?",
+      "options": [
+        "P and S",
+        "U and S",
+        "U and V",
+        "S and V",
+        "P and U"
+      ],
+      "correct": 1,
+      "solution": "Going clockwise, all facing the centre: **P, U, Q, S, V, T, W, R** (then back to P).\n\nHow to reach it: fix P. Clue 1 puts U on P's immediate left (clockwise neighbour); clue 2 puts Q on U's immediate left. Clue 6 puts R on P's immediate right (anticlockwise neighbour); clue 7 chains W then T anticlockwise from R. Clue 5 puts V opposite P. Clues 3 and 4 confirm S sits between Q and V (the single seat separating them). This fills all eight seats consistently.\n\nQ's neighbours are U (left) and S (right)."
+    },
+    {
+      "id": "reasoning-puzzles-v3-q011",
+      "group": "Set 3 — Floors and fruits (double variable)",
+      "context": "An eight-storey building has floors numbered 1 (bottom) to 8 (top). Eight persons — A, B, C, D, E, F, G and H — live on separate floors, one per floor. Each likes a different fruit among Apple, Banana, Cherry, Date, Fig, Grape, Kiwi and Lemon.\n\nClues:\n1. A lives on the lowest floor.\n2. E lives on floor 2.\n3. F lives on floor 4.\n4. G lives on the topmost floor.\n5. C lives immediately above E.\n6. B lives immediately above F.\n7. D lives immediately above B.\n8. A likes Fig and G likes Kiwi.\n9. E likes Date.\n10. H likes Lemon.\n11. C likes Banana.\n12. The one who likes Cherry lives immediately above the one who likes Banana.\n13. The one who likes Grape lives immediately above the one who likes Apple.",
+      "question": "Who lives on floor 5?",
+      "options": [
+        "D",
+        "H",
+        "B",
+        "F",
+        "C"
+      ],
+      "correct": 2,
+      "solution": "Floor 8 (top) down to floor 1 (bottom):\n\n| Floor | Person | Fruit |\n|-------|--------|-------|\n| 8 | G | Kiwi |\n| 7 | H | Lemon |\n| 6 | D | Grape |\n| 5 | B | Apple |\n| 4 | F | Cherry |\n| 3 | C | Banana |\n| 2 | E | Date |\n| 1 | A | Fig |\n\nHow to reach it: A=1, E=2, F=4, G=8 are given. Clue 5 puts C on floor 3 (above E); clue 6 puts B on floor 5 (above F); clue 7 puts D on floor 6 (above B); floor 7 is then H. Fruits: A=Fig, G=Kiwi, E=Date, H=Lemon, C=Banana are fixed. Clue 12 (Cherry immediately above Banana) makes floor 4 = Cherry (F). The remaining Apple and Grape go to floors 5 and 6; clue 13 (Grape immediately above Apple) forces Apple=5 (B), Grape=6 (D).\n\nFloor 5 is B."
+    },
+    {
+      "id": "reasoning-puzzles-v3-q012",
+      "group": "Set 3 — Floors and fruits (double variable)",
+      "context": "An eight-storey building has floors numbered 1 (bottom) to 8 (top). Eight persons — A, B, C, D, E, F, G and H — live on separate floors, one per floor. Each likes a different fruit among Apple, Banana, Cherry, Date, Fig, Grape, Kiwi and Lemon.\n\nClues:\n1. A lives on the lowest floor.\n2. E lives on floor 2.\n3. F lives on floor 4.\n4. G lives on the topmost floor.\n5. C lives immediately above E.\n6. B lives immediately above F.\n7. D lives immediately above B.\n8. A likes Fig and G likes Kiwi.\n9. E likes Date.\n10. H likes Lemon.\n11. C likes Banana.\n12. The one who likes Cherry lives immediately above the one who likes Banana.\n13. The one who likes Grape lives immediately above the one who likes Apple.",
+      "question": "Which fruit does D like?",
+      "options": [
+        "Apple",
+        "Grape",
+        "Lemon",
+        "Cherry",
+        "Kiwi"
+      ],
+      "correct": 1,
+      "solution": "Floor 8 (top) down to floor 1 (bottom):\n\n| Floor | Person | Fruit |\n|-------|--------|-------|\n| 8 | G | Kiwi |\n| 7 | H | Lemon |\n| 6 | D | Grape |\n| 5 | B | Apple |\n| 4 | F | Cherry |\n| 3 | C | Banana |\n| 2 | E | Date |\n| 1 | A | Fig |\n\nHow to reach it: A=1, E=2, F=4, G=8 are given. Clue 5 puts C on floor 3 (above E); clue 6 puts B on floor 5 (above F); clue 7 puts D on floor 6 (above B); floor 7 is then H. Fruits: A=Fig, G=Kiwi, E=Date, H=Lemon, C=Banana are fixed. Clue 12 (Cherry immediately above Banana) makes floor 4 = Cherry (F). The remaining Apple and Grape go to floors 5 and 6; clue 13 (Grape immediately above Apple) forces Apple=5 (B), Grape=6 (D).\n\nD on floor 6 likes Grape."
+    },
+    {
+      "id": "reasoning-puzzles-v3-q013",
+      "group": "Set 3 — Floors and fruits (double variable)",
+      "context": "An eight-storey building has floors numbered 1 (bottom) to 8 (top). Eight persons — A, B, C, D, E, F, G and H — live on separate floors, one per floor. Each likes a different fruit among Apple, Banana, Cherry, Date, Fig, Grape, Kiwi and Lemon.\n\nClues:\n1. A lives on the lowest floor.\n2. E lives on floor 2.\n3. F lives on floor 4.\n4. G lives on the topmost floor.\n5. C lives immediately above E.\n6. B lives immediately above F.\n7. D lives immediately above B.\n8. A likes Fig and G likes Kiwi.\n9. E likes Date.\n10. H likes Lemon.\n11. C likes Banana.\n12. The one who likes Cherry lives immediately above the one who likes Banana.\n13. The one who likes Grape lives immediately above the one who likes Apple.",
+      "question": "Who lives immediately above the person who likes Cherry?",
+      "options": [
+        "D",
+        "H",
+        "F",
+        "B",
+        "G"
+      ],
+      "correct": 3,
+      "solution": "Floor 8 (top) down to floor 1 (bottom):\n\n| Floor | Person | Fruit |\n|-------|--------|-------|\n| 8 | G | Kiwi |\n| 7 | H | Lemon |\n| 6 | D | Grape |\n| 5 | B | Apple |\n| 4 | F | Cherry |\n| 3 | C | Banana |\n| 2 | E | Date |\n| 1 | A | Fig |\n\nHow to reach it: A=1, E=2, F=4, G=8 are given. Clue 5 puts C on floor 3 (above E); clue 6 puts B on floor 5 (above F); clue 7 puts D on floor 6 (above B); floor 7 is then H. Fruits: A=Fig, G=Kiwi, E=Date, H=Lemon, C=Banana are fixed. Clue 12 (Cherry immediately above Banana) makes floor 4 = Cherry (F). The remaining Apple and Grape go to floors 5 and 6; clue 13 (Grape immediately above Apple) forces Apple=5 (B), Grape=6 (D).\n\nCherry is on floor 4 (F); immediately above is floor 5 = B.",
+      "trick": "\"Immediately above\" means +1 floor — do not confuse with the fruit's own lover."
+    },
+    {
+      "id": "reasoning-puzzles-v3-q014",
+      "group": "Set 3 — Floors and fruits (double variable)",
+      "context": "An eight-storey building has floors numbered 1 (bottom) to 8 (top). Eight persons — A, B, C, D, E, F, G and H — live on separate floors, one per floor. Each likes a different fruit among Apple, Banana, Cherry, Date, Fig, Grape, Kiwi and Lemon.\n\nClues:\n1. A lives on the lowest floor.\n2. E lives on floor 2.\n3. F lives on floor 4.\n4. G lives on the topmost floor.\n5. C lives immediately above E.\n6. B lives immediately above F.\n7. D lives immediately above B.\n8. A likes Fig and G likes Kiwi.\n9. E likes Date.\n10. H likes Lemon.\n11. C likes Banana.\n12. The one who likes Cherry lives immediately above the one who likes Banana.\n13. The one who likes Grape lives immediately above the one who likes Apple.",
+      "question": "How many persons live between the one who likes Fig and the one who likes Lemon?",
+      "options": [
+        "Four",
+        "Five",
+        "Three",
+        "Six",
+        "Two"
+      ],
+      "correct": 1,
+      "solution": "Floor 8 (top) down to floor 1 (bottom):\n\n| Floor | Person | Fruit |\n|-------|--------|-------|\n| 8 | G | Kiwi |\n| 7 | H | Lemon |\n| 6 | D | Grape |\n| 5 | B | Apple |\n| 4 | F | Cherry |\n| 3 | C | Banana |\n| 2 | E | Date |\n| 1 | A | Fig |\n\nHow to reach it: A=1, E=2, F=4, G=8 are given. Clue 5 puts C on floor 3 (above E); clue 6 puts B on floor 5 (above F); clue 7 puts D on floor 6 (above B); floor 7 is then H. Fruits: A=Fig, G=Kiwi, E=Date, H=Lemon, C=Banana are fixed. Clue 12 (Cherry immediately above Banana) makes floor 4 = Cherry (F). The remaining Apple and Grape go to floors 5 and 6; clue 13 (Grape immediately above Apple) forces Apple=5 (B), Grape=6 (D).\n\nFig = floor 1, Lemon = floor 7; floors 2–6 give five persons.",
+      "trick": "Between-count = 7 − 1 − 1 = 5."
+    },
+    {
+      "id": "reasoning-puzzles-v3-q015",
+      "group": "Set 3 — Floors and fruits (double variable)",
+      "context": "An eight-storey building has floors numbered 1 (bottom) to 8 (top). Eight persons — A, B, C, D, E, F, G and H — live on separate floors, one per floor. Each likes a different fruit among Apple, Banana, Cherry, Date, Fig, Grape, Kiwi and Lemon.\n\nClues:\n1. A lives on the lowest floor.\n2. E lives on floor 2.\n3. F lives on floor 4.\n4. G lives on the topmost floor.\n5. C lives immediately above E.\n6. B lives immediately above F.\n7. D lives immediately above B.\n8. A likes Fig and G likes Kiwi.\n9. E likes Date.\n10. H likes Lemon.\n11. C likes Banana.\n12. The one who likes Cherry lives immediately above the one who likes Banana.\n13. The one who likes Grape lives immediately above the one who likes Apple.",
+      "question": "Which of the following combinations (person - fruit - floor) is correct?",
+      "options": [
+        "C - Cherry - Floor 3",
+        "D - Grape - Floor 6",
+        "B - Apple - Floor 6",
+        "F - Banana - Floor 4",
+        "H - Kiwi - Floor 7"
+      ],
+      "correct": 1,
+      "solution": "Floor 8 (top) down to floor 1 (bottom):\n\n| Floor | Person | Fruit |\n|-------|--------|-------|\n| 8 | G | Kiwi |\n| 7 | H | Lemon |\n| 6 | D | Grape |\n| 5 | B | Apple |\n| 4 | F | Cherry |\n| 3 | C | Banana |\n| 2 | E | Date |\n| 1 | A | Fig |\n\nHow to reach it: A=1, E=2, F=4, G=8 are given. Clue 5 puts C on floor 3 (above E); clue 6 puts B on floor 5 (above F); clue 7 puts D on floor 6 (above B); floor 7 is then H. Fruits: A=Fig, G=Kiwi, E=Date, H=Lemon, C=Banana are fixed. Clue 12 (Cherry immediately above Banana) makes floor 4 = Cherry (F). The remaining Apple and Grape go to floors 5 and 6; clue 13 (Grape immediately above Apple) forces Apple=5 (B), Grape=6 (D).\n\nOnly this triple matches the grid."
+    },
+    {
+      "id": "reasoning-puzzles-v3-q016",
+      "group": "Set 4 — Comparison / ranking by weight (7 persons)",
+      "context": "Seven persons — P, Q, R, S, T, U and V — have different weights.\n\nClues:\n1. P is heavier than Q, who is heavier than R.\n2. S is heavier than exactly two of the others.\n3. Only one person is heavier than T.\n4. U is neither the heaviest nor the lightest.\n5. R is heavier than V.\n6. P is heavier than T.\n7. Exactly three persons lie between Q and V in the weight order.\n8. R is heavier than U.",
+      "question": "Who is the heaviest?",
+      "options": [
+        "T",
+        "P",
+        "Q",
+        "S",
+        "R"
+      ],
+      "correct": 1,
+      "solution": "Heaviest to lightest: **P > T > Q > R > S > U > V.**\n\nHow to reach it: clue 3 makes T the 2nd heaviest; clue 6 (P heavier than T) makes P the heaviest. Clue 1 keeps P > Q > R. Clue 2 fixes S at 5th (heavier than exactly two = U, V). Clue 7 (three persons between Q and V) with Q high forces V lightest and Q 3rd. Clues 5 and 8 (R heavier than both V and U) place R 4th, U 6th.",
+      "trick": "\"Only one heavier than T\" ranks T second; combined with \"P heavier than T\", P must top the list."
+    },
+    {
+      "id": "reasoning-puzzles-v3-q017",
+      "group": "Set 4 — Comparison / ranking by weight (7 persons)",
+      "context": "Seven persons — P, Q, R, S, T, U and V — have different weights.\n\nClues:\n1. P is heavier than Q, who is heavier than R.\n2. S is heavier than exactly two of the others.\n3. Only one person is heavier than T.\n4. U is neither the heaviest nor the lightest.\n5. R is heavier than V.\n6. P is heavier than T.\n7. Exactly three persons lie between Q and V in the weight order.\n8. R is heavier than U.",
+      "question": "Who is the lightest?",
+      "options": [
+        "U",
+        "S",
+        "V",
+        "R",
+        "Q"
+      ],
+      "correct": 2,
+      "solution": "Heaviest to lightest: **P > T > Q > R > S > U > V.**\n\nHow to reach it: clue 3 makes T the 2nd heaviest; clue 6 (P heavier than T) makes P the heaviest. Clue 1 keeps P > Q > R. Clue 2 fixes S at 5th (heavier than exactly two = U, V). Clue 7 (three persons between Q and V) with Q high forces V lightest and Q 3rd. Clues 5 and 8 (R heavier than both V and U) place R 4th, U 6th.\n\nV is at the bottom."
+    },
+    {
+      "id": "reasoning-puzzles-v3-q018",
+      "group": "Set 4 — Comparison / ranking by weight (7 persons)",
+      "context": "Seven persons — P, Q, R, S, T, U and V — have different weights.\n\nClues:\n1. P is heavier than Q, who is heavier than R.\n2. S is heavier than exactly two of the others.\n3. Only one person is heavier than T.\n4. U is neither the heaviest nor the lightest.\n5. R is heavier than V.\n6. P is heavier than T.\n7. Exactly three persons lie between Q and V in the weight order.\n8. R is heavier than U.",
+      "question": "How many persons are heavier than R?",
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "One",
+        "Five"
+      ],
+      "correct": 1,
+      "solution": "Heaviest to lightest: **P > T > Q > R > S > U > V.**\n\nHow to reach it: clue 3 makes T the 2nd heaviest; clue 6 (P heavier than T) makes P the heaviest. Clue 1 keeps P > Q > R. Clue 2 fixes S at 5th (heavier than exactly two = U, V). Clue 7 (three persons between Q and V) with Q high forces V lightest and Q 3rd. Clues 5 and 8 (R heavier than both V and U) place R 4th, U 6th.\n\nP, T, Q are heavier than R."
+    },
+    {
+      "id": "reasoning-puzzles-v3-q019",
+      "group": "Set 4 — Comparison / ranking by weight (7 persons)",
+      "context": "Seven persons — P, Q, R, S, T, U and V — have different weights.\n\nClues:\n1. P is heavier than Q, who is heavier than R.\n2. S is heavier than exactly two of the others.\n3. Only one person is heavier than T.\n4. U is neither the heaviest nor the lightest.\n5. R is heavier than V.\n6. P is heavier than T.\n7. Exactly three persons lie between Q and V in the weight order.\n8. R is heavier than U.",
+      "question": "Who is just heavier than S?",
+      "options": [
+        "Q",
+        "U",
+        "R",
+        "T",
+        "V"
+      ],
+      "correct": 2,
+      "solution": "Heaviest to lightest: **P > T > Q > R > S > U > V.**\n\nHow to reach it: clue 3 makes T the 2nd heaviest; clue 6 (P heavier than T) makes P the heaviest. Clue 1 keeps P > Q > R. Clue 2 fixes S at 5th (heavier than exactly two = U, V). Clue 7 (three persons between Q and V) with Q high forces V lightest and Q 3rd. Clues 5 and 8 (R heavier than both V and U) place R 4th, U 6th.\n\nJust above S (5th) is R (4th).",
+      "trick": "\"Just heavier than X\" = the person exactly one rank above X."
+    },
+    {
+      "id": "reasoning-puzzles-v3-q020",
+      "group": "Set 4 — Comparison / ranking by weight (7 persons)",
+      "context": "Seven persons — P, Q, R, S, T, U and V — have different weights.\n\nClues:\n1. P is heavier than Q, who is heavier than R.\n2. S is heavier than exactly two of the others.\n3. Only one person is heavier than T.\n4. U is neither the heaviest nor the lightest.\n5. R is heavier than V.\n6. P is heavier than T.\n7. Exactly three persons lie between Q and V in the weight order.\n8. R is heavier than U.",
+      "question": "Who are, respectively, the 2nd heaviest and the 6th heaviest?",
+      "options": [
+        "Q and U",
+        "T and U",
+        "T and S",
+        "P and V",
+        "R and U"
+      ],
+      "correct": 1,
+      "solution": "Heaviest to lightest: **P > T > Q > R > S > U > V.**\n\nHow to reach it: clue 3 makes T the 2nd heaviest; clue 6 (P heavier than T) makes P the heaviest. Clue 1 keeps P > Q > R. Clue 2 fixes S at 5th (heavier than exactly two = U, V). Clue 7 (three persons between Q and V) with Q high forces V lightest and Q 3rd. Clues 5 and 8 (R heavier than both V and U) place R 4th, U 6th.\n\n2nd heaviest = T, 6th heaviest = U."
+    },
+    {
+      "id": "reasoning-puzzles-v3-q021",
+      "group": "Set 5 — Month puzzle (7 persons)",
+      "context": "Seven persons — L, M, N, O, P, Q and R — each attend a workshop in a different month among seven consecutive months from February to August (one person per month).\n\nClues:\n1. L attends in April.\n2. M attends in February.\n3. P attends in August.\n4. N attends after L.\n5. O attends in the month immediately after N.\n6. Q attends in the month immediately before L.\n7. R attends after O.",
+      "question": "Who attends in the earliest month?",
+      "options": [
+        "Q",
+        "L",
+        "M",
+        "P",
+        "N"
+      ],
+      "correct": 2,
+      "solution": "Earliest to latest: **M (Feb) -> Q (Mar) -> L (Apr) -> N (May) -> O (Jun) -> R (Jul) -> P (Aug).**\n\nHow to reach it: L = April, M = February, P = August fixed. Clue 6 puts Q in March (just before April). N is after April (clue 4) and O is the very next month (clue 5); R is after O (clue 7). The only way to fit N, O, R into May, June, July with N before O before... is N = May, O = June, R = July (if N = June, O = July then R would need August, already P's — impossible).\n\nFebruary is the earliest of the seven months."
+    },
+    {
+      "id": "reasoning-puzzles-v3-q022",
+      "group": "Set 5 — Month puzzle (7 persons)",
+      "context": "Seven persons — L, M, N, O, P, Q and R — each attend a workshop in a different month among seven consecutive months from February to August (one person per month).\n\nClues:\n1. L attends in April.\n2. M attends in February.\n3. P attends in August.\n4. N attends after L.\n5. O attends in the month immediately after N.\n6. Q attends in the month immediately before L.\n7. R attends after O.",
+      "question": "How many persons attend between L and R (exclusive)?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four",
+        "None"
+      ],
+      "correct": 1,
+      "solution": "Earliest to latest: **M (Feb) -> Q (Mar) -> L (Apr) -> N (May) -> O (Jun) -> R (Jul) -> P (Aug).**\n\nHow to reach it: L = April, M = February, P = August fixed. Clue 6 puts Q in March (just before April). N is after April (clue 4) and O is the very next month (clue 5); R is after O (clue 7). The only way to fit N, O, R into May, June, July with N before O before... is N = May, O = June, R = July (if N = June, O = July then R would need August, already P's — impossible).\n\nBetween April (L) and July (R) sit May (N) and June (O).",
+      "trick": "Convert names to month numbers and subtract: 7 − 4 − 1 = 2."
+    },
+    {
+      "id": "reasoning-puzzles-v3-q023",
+      "group": "Set 5 — Month puzzle (7 persons)",
+      "context": "Seven persons — L, M, N, O, P, Q and R — each attend a workshop in a different month among seven consecutive months from February to August (one person per month).\n\nClues:\n1. L attends in April.\n2. M attends in February.\n3. P attends in August.\n4. N attends after L.\n5. O attends in the month immediately after N.\n6. Q attends in the month immediately before L.\n7. R attends after O.",
+      "question": "Who attends in June?",
+      "options": [
+        "N",
+        "O",
+        "R",
+        "L",
+        "Q"
+      ],
+      "correct": 1,
+      "solution": "Earliest to latest: **M (Feb) -> Q (Mar) -> L (Apr) -> N (May) -> O (Jun) -> R (Jul) -> P (Aug).**\n\nHow to reach it: L = April, M = February, P = August fixed. Clue 6 puts Q in March (just before April). N is after April (clue 4) and O is the very next month (clue 5); R is after O (clue 7). The only way to fit N, O, R into May, June, July with N before O before... is N = May, O = June, R = July (if N = June, O = July then R would need August, already P's — impossible).\n\nJune belongs to O."
+    },
+    {
+      "id": "reasoning-puzzles-v3-q024",
+      "group": "Set 5 — Month puzzle (7 persons)",
+      "context": "Seven persons — L, M, N, O, P, Q and R — each attend a workshop in a different month among seven consecutive months from February to August (one person per month).\n\nClues:\n1. L attends in April.\n2. M attends in February.\n3. P attends in August.\n4. N attends after L.\n5. O attends in the month immediately after N.\n6. Q attends in the month immediately before L.\n7. R attends after O.",
+      "question": "If everyone is ordered from the earliest month to the latest, who is exactly in the middle (4th)?",
+      "options": [
+        "L",
+        "N",
+        "O",
+        "Q",
+        "R"
+      ],
+      "correct": 1,
+      "solution": "Earliest to latest: **M (Feb) -> Q (Mar) -> L (Apr) -> N (May) -> O (Jun) -> R (Jul) -> P (Aug).**\n\nHow to reach it: L = April, M = February, P = August fixed. Clue 6 puts Q in March (just before April). N is after April (clue 4) and O is the very next month (clue 5); R is after O (clue 7). The only way to fit N, O, R into May, June, July with N before O before... is N = May, O = June, R = July (if N = June, O = July then R would need August, already P's — impossible).\n\nWith 7 people, the 4th is the middle = May = N."
+    },
+    {
+      "id": "reasoning-puzzles-v3-q025",
+      "group": "Set 5 — Month puzzle (7 persons)",
+      "context": "Seven persons — L, M, N, O, P, Q and R — each attend a workshop in a different month among seven consecutive months from February to August (one person per month).\n\nClues:\n1. L attends in April.\n2. M attends in February.\n3. P attends in August.\n4. N attends after L.\n5. O attends in the month immediately after N.\n6. Q attends in the month immediately before L.\n7. R attends after O.",
+      "question": "Who attends in the month immediately before P?",
+      "options": [
+        "O",
+        "N",
+        "R",
+        "L",
+        "M"
+      ],
+      "correct": 2,
+      "solution": "Earliest to latest: **M (Feb) -> Q (Mar) -> L (Apr) -> N (May) -> O (Jun) -> R (Jul) -> P (Aug).**\n\nHow to reach it: L = April, M = February, P = August fixed. Clue 6 puts Q in March (just before April). N is after April (clue 4) and O is the very next month (clue 5); R is after O (clue 7). The only way to fit N, O, R into May, June, July with N before O before... is N = May, O = June, R = July (if N = June, O = July then R would need August, already P's — impossible).\n\nAugust is P; the month just before is July = R."
+    },
+    {
+      "id": "reasoning-puzzles-v3-q026",
+      "group": "Set 6 — Blood relations (family of 8)",
+      "context": "A family has exactly eight members — A, B, C, D, E, F, G and H — spanning three generations, and it contains exactly three married couples.\n\nClues:\n1. A is the husband of B.\n2. B is the mother of C.\n3. C is the brother of D.\n4. E is the daughter-in-law of B.\n5. F is the son-in-law of A.\n6. G is the son of E.\n7. D is the mother of H.\n8. H is the daughter of F.",
+      "question": "How is G related to A?",
+      "options": [
+        "Son",
+        "Grandson",
+        "Nephew",
+        "Brother",
+        "Grandfather"
+      ],
+      "correct": 1,
+      "solution": "Three generations:\n- Generation 1: **A (M)** married to **B (F)**.\n- Generation 2: their children **C (M)** and **D (F)**. C is married to **E (F)**; D is married to **F (M)**.\n- Generation 3: **G (M)**, son of C and E; **H (F)**, daughter of D and F.\n\nMales: A, C, F, G. Females: B, D, E, H.\n\nHow to reach it: A husband of B (A male, B female). C brother of D (C male). E is B's daughter-in-law, so E (female) married B's son C. F is A's son-in-law, so F (male) married A's daughter — since C is male, the daughter is D, so D is female and married F. G (son of E) is male; H (daughter of F, also daughter of D) is female.\n\nG is the son of C, who is the son of A; so G is A's grandson.",
+      "trick": "Climb generations — child of a child = grandchild; gender of G (son) makes it grandson."
+    },
+    {
+      "id": "reasoning-puzzles-v3-q027",
+      "group": "Set 6 — Blood relations (family of 8)",
+      "context": "A family has exactly eight members — A, B, C, D, E, F, G and H — spanning three generations, and it contains exactly three married couples.\n\nClues:\n1. A is the husband of B.\n2. B is the mother of C.\n3. C is the brother of D.\n4. E is the daughter-in-law of B.\n5. F is the son-in-law of A.\n6. G is the son of E.\n7. D is the mother of H.\n8. H is the daughter of F.",
+      "question": "How is E related to D?",
+      "options": [
+        "Sister",
+        "Mother",
+        "Sister-in-law",
+        "Aunt",
+        "Daughter"
+      ],
+      "correct": 2,
+      "solution": "Three generations:\n- Generation 1: **A (M)** married to **B (F)**.\n- Generation 2: their children **C (M)** and **D (F)**. C is married to **E (F)**; D is married to **F (M)**.\n- Generation 3: **G (M)**, son of C and E; **H (F)**, daughter of D and F.\n\nMales: A, C, F, G. Females: B, D, E, H.\n\nHow to reach it: A husband of B (A male, B female). C brother of D (C male). E is B's daughter-in-law, so E (female) married B's son C. F is A's son-in-law, so F (male) married A's daughter — since C is male, the daughter is D, so D is female and married F. G (son of E) is male; H (daughter of F, also daughter of D) is female.\n\nE is the wife of C, and C is D's brother, so E is D's sister-in-law."
+    },
+    {
+      "id": "reasoning-puzzles-v3-q028",
+      "group": "Set 6 — Blood relations (family of 8)",
+      "context": "A family has exactly eight members — A, B, C, D, E, F, G and H — spanning three generations, and it contains exactly three married couples.\n\nClues:\n1. A is the husband of B.\n2. B is the mother of C.\n3. C is the brother of D.\n4. E is the daughter-in-law of B.\n5. F is the son-in-law of A.\n6. G is the son of E.\n7. D is the mother of H.\n8. H is the daughter of F.",
+      "question": "How is F related to G?",
+      "options": [
+        "Father",
+        "Brother",
+        "Uncle",
+        "Grandfather",
+        "Cousin"
+      ],
+      "correct": 2,
+      "solution": "Three generations:\n- Generation 1: **A (M)** married to **B (F)**.\n- Generation 2: their children **C (M)** and **D (F)**. C is married to **E (F)**; D is married to **F (M)**.\n- Generation 3: **G (M)**, son of C and E; **H (F)**, daughter of D and F.\n\nMales: A, C, F, G. Females: B, D, E, H.\n\nHow to reach it: A husband of B (A male, B female). C brother of D (C male). E is B's daughter-in-law, so E (female) married B's son C. F is A's son-in-law, so F (male) married A's daughter — since C is male, the daughter is D, so D is female and married F. G (son of E) is male; H (daughter of F, also daughter of D) is female.\n\nF is the husband of D, and D is the sister of G's father C; so F is G's uncle.",
+      "trick": "Spouse of a parent's sibling = uncle/aunt."
+    },
+    {
+      "id": "reasoning-puzzles-v3-q029",
+      "group": "Set 6 — Blood relations (family of 8)",
+      "context": "A family has exactly eight members — A, B, C, D, E, F, G and H — spanning three generations, and it contains exactly three married couples.\n\nClues:\n1. A is the husband of B.\n2. B is the mother of C.\n3. C is the brother of D.\n4. E is the daughter-in-law of B.\n5. F is the son-in-law of A.\n6. G is the son of E.\n7. D is the mother of H.\n8. H is the daughter of F.",
+      "question": "How is H related to C?",
+      "options": [
+        "Daughter",
+        "Niece",
+        "Sister",
+        "Cousin",
+        "Aunt"
+      ],
+      "correct": 1,
+      "solution": "Three generations:\n- Generation 1: **A (M)** married to **B (F)**.\n- Generation 2: their children **C (M)** and **D (F)**. C is married to **E (F)**; D is married to **F (M)**.\n- Generation 3: **G (M)**, son of C and E; **H (F)**, daughter of D and F.\n\nMales: A, C, F, G. Females: B, D, E, H.\n\nHow to reach it: A husband of B (A male, B female). C brother of D (C male). E is B's daughter-in-law, so E (female) married B's son C. F is A's son-in-law, so F (male) married A's daughter — since C is male, the daughter is D, so D is female and married F. G (son of E) is male; H (daughter of F, also daughter of D) is female.\n\nH is the daughter of D, and C is D's brother; so H is C's niece."
+    },
+    {
+      "id": "reasoning-puzzles-v3-q030",
+      "group": "Set 6 — Blood relations (family of 8)",
+      "context": "A family has exactly eight members — A, B, C, D, E, F, G and H — spanning three generations, and it contains exactly three married couples.\n\nClues:\n1. A is the husband of B.\n2. B is the mother of C.\n3. C is the brother of D.\n4. E is the daughter-in-law of B.\n5. F is the son-in-law of A.\n6. G is the son of E.\n7. D is the mother of H.\n8. H is the daughter of F.",
+      "question": "How many male members are there in the family?",
+      "options": [
+        "Three",
+        "Four",
+        "Five",
+        "Six",
+        "Two"
+      ],
+      "correct": 1,
+      "solution": "Three generations:\n- Generation 1: **A (M)** married to **B (F)**.\n- Generation 2: their children **C (M)** and **D (F)**. C is married to **E (F)**; D is married to **F (M)**.\n- Generation 3: **G (M)**, son of C and E; **H (F)**, daughter of D and F.\n\nMales: A, C, F, G. Females: B, D, E, H.\n\nHow to reach it: A husband of B (A male, B female). C brother of D (C male). E is B's daughter-in-law, so E (female) married B's son C. F is A's son-in-law, so F (male) married A's daughter — since C is male, the daughter is D, so D is female and married F. G (son of E) is male; H (daughter of F, also daughter of D) is female.\n\nMales are A, C, F and G.",
+      "trick": "Nail down every member's gender from marriage/parent clues first — \"husband/wife\", \"son/daughter\", \"brother/sister\" each fix a gender."
+    }
+  ]
+}

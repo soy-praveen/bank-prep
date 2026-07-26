@@ -1,0 +1,708 @@
+{
+  "title": "Quant Speed Drills (100 rapid calcs)",
+  "section": "quant",
+  "kind": "speed",
+  "source": "quant-speed-drill.md",
+  "questions": [
+    {
+      "id": "quant-speed-drill-q001",
+      "group": "A",
+      "question": "15% of 240",
+      "answerText": "36",
+      "solution": "10%=24, +5%=12 → 24+12"
+    },
+    {
+      "id": "quant-speed-drill-q002",
+      "group": "A",
+      "question": "35% of 180",
+      "answerText": "63",
+      "solution": "10%=18 → ×3 = 54, +5%=9"
+    },
+    {
+      "id": "quant-speed-drill-q003",
+      "group": "A",
+      "question": "12% of 350",
+      "answerText": "42",
+      "solution": "10%=35, +2×(1%=3.5)=7 → 35+7"
+    },
+    {
+      "id": "quant-speed-drill-q004",
+      "group": "A",
+      "question": "45% of 260",
+      "answerText": "117",
+      "solution": "10%=26 → ×4 = 104, +5%=13"
+    },
+    {
+      "id": "quant-speed-drill-q005",
+      "group": "A",
+      "question": "8% of 450",
+      "answerText": "36",
+      "solution": "1%=4.5 → ×8"
+    },
+    {
+      "id": "quant-speed-drill-q006",
+      "group": "A",
+      "question": "25% of 640",
+      "answerText": "160",
+      "solution": "10%=64 → ×2 = 128, +5%=32"
+    },
+    {
+      "id": "quant-speed-drill-q007",
+      "group": "A",
+      "question": "18% of 300",
+      "answerText": "54",
+      "solution": "10%=30, +5%=15, +3×(1%=3)=9 → 30+15+9"
+    },
+    {
+      "id": "quant-speed-drill-q008",
+      "group": "A",
+      "question": "65% of 120",
+      "answerText": "78",
+      "solution": "10%=12 → ×6 = 72, +5%=6"
+    },
+    {
+      "id": "quant-speed-drill-q009",
+      "group": "A",
+      "question": "22% of 550",
+      "answerText": "121",
+      "solution": "10%=55 → ×2 = 110, +2×(1%=5.5)=11"
+    },
+    {
+      "id": "quant-speed-drill-q010",
+      "group": "A",
+      "question": "55% of 340",
+      "answerText": "187",
+      "solution": "10%=34 → ×5 = 170, +5%=17"
+    },
+    {
+      "id": "quant-speed-drill-q011",
+      "group": "A",
+      "question": "14% of 250",
+      "answerText": "35",
+      "solution": "10%=25, +4×(1%=2.5)=10 → 25+10"
+    },
+    {
+      "id": "quant-speed-drill-q012",
+      "group": "A",
+      "question": "32% of 150",
+      "answerText": "48",
+      "solution": "10%=15 → ×3 = 45, +2×(1%=1.5)=3"
+    },
+    {
+      "id": "quant-speed-drill-q013",
+      "group": "A",
+      "question": "7% of 800",
+      "answerText": "56",
+      "solution": "1%=8 → ×7"
+    },
+    {
+      "id": "quant-speed-drill-q014",
+      "group": "A",
+      "question": "85% of 160",
+      "answerText": "136",
+      "solution": "10%=16 → ×8 = 128, +5%=8"
+    },
+    {
+      "id": "quant-speed-drill-q015",
+      "group": "A",
+      "question": "16% of 375",
+      "answerText": "60",
+      "solution": "10%=37.5, +5%=18.75, +1%=3.75"
+    },
+    {
+      "id": "quant-speed-drill-q016",
+      "group": "A",
+      "question": "28% of 425",
+      "answerText": "119",
+      "solution": "10%=42.5 → ×2 = 85, +5%=21.25, +3×(1%=4.25)=12.75"
+    },
+    {
+      "id": "quant-speed-drill-q017",
+      "group": "A",
+      "question": "48% of 225",
+      "answerText": "108",
+      "solution": "10%=22.5 → ×4 = 90, +5%=11.25, +3×(1%=2.25)=6.75"
+    },
+    {
+      "id": "quant-speed-drill-q018",
+      "group": "A",
+      "question": "6% of 950",
+      "answerText": "57",
+      "solution": "1%=9.5 → ×6"
+    },
+    {
+      "id": "quant-speed-drill-q019",
+      "group": "A",
+      "question": "72% of 200",
+      "answerText": "144",
+      "solution": "10%=20 → ×7 = 140, +2×(1%=2)=4"
+    },
+    {
+      "id": "quant-speed-drill-q020",
+      "group": "A",
+      "question": "95% of 140",
+      "answerText": "133",
+      "solution": "10%=14 → ×9 = 126, +5%=7"
+    },
+    {
+      "id": "quant-speed-drill-q021",
+      "group": "B",
+      "question": "12.5% of 320",
+      "answerText": "40",
+      "solution": "12.5% = 1/8; 320÷8"
+    },
+    {
+      "id": "quant-speed-drill-q022",
+      "group": "B",
+      "question": "33⅓% of 690",
+      "answerText": "230",
+      "solution": "33⅓% = 1/3; 690÷3"
+    },
+    {
+      "id": "quant-speed-drill-q023",
+      "group": "B",
+      "question": "16⅔% of 540",
+      "answerText": "90",
+      "solution": "16⅔% = 1/6; 540÷6"
+    },
+    {
+      "id": "quant-speed-drill-q024",
+      "group": "B",
+      "question": "37.5% of 240",
+      "answerText": "90",
+      "solution": "37.5% = 3/8; 240×3÷8"
+    },
+    {
+      "id": "quant-speed-drill-q025",
+      "group": "B",
+      "question": "62.5% of 160",
+      "answerText": "100",
+      "solution": "62.5% = 5/8; 160×5÷8"
+    },
+    {
+      "id": "quant-speed-drill-q026",
+      "group": "B",
+      "question": "66⅔% of 420",
+      "answerText": "280",
+      "solution": "66⅔% = 2/3; 420×2÷3"
+    },
+    {
+      "id": "quant-speed-drill-q027",
+      "group": "B",
+      "question": "87.5% of 480",
+      "answerText": "420",
+      "solution": "87.5% = 7/8; 480×7÷8"
+    },
+    {
+      "id": "quant-speed-drill-q028",
+      "group": "B",
+      "question": "8⅓% of 720",
+      "answerText": "60",
+      "solution": "8⅓% = 1/12; 720÷12"
+    },
+    {
+      "id": "quant-speed-drill-q029",
+      "group": "B",
+      "question": "14²⁄₇% of 490",
+      "answerText": "70",
+      "solution": "14²⁄₇% = 1/7; 490÷7"
+    },
+    {
+      "id": "quant-speed-drill-q030",
+      "group": "B",
+      "question": "11⅑% of 810",
+      "answerText": "90",
+      "solution": "11⅑% = 1/9; 810÷9"
+    },
+    {
+      "id": "quant-speed-drill-q031",
+      "group": "B",
+      "question": "83⅓% of 360",
+      "answerText": "300",
+      "solution": "83⅓% = 5/6; 360×5÷6"
+    },
+    {
+      "id": "quant-speed-drill-q032",
+      "group": "B",
+      "question": "40% of 355",
+      "answerText": "142",
+      "solution": "40% = 2/5; 355×2÷5"
+    },
+    {
+      "id": "quant-speed-drill-q033",
+      "group": "B",
+      "question": "75% of 448",
+      "answerText": "336",
+      "solution": "75% = 3/4; 448×3÷4"
+    },
+    {
+      "id": "quant-speed-drill-q034",
+      "group": "B",
+      "question": "60% of 285",
+      "answerText": "171",
+      "solution": "60% = 3/5; 285×3÷5"
+    },
+    {
+      "id": "quant-speed-drill-q035",
+      "group": "B",
+      "question": "9¹⁄₁₁% of 550",
+      "answerText": "50",
+      "solution": "9¹⁄₁₁% = 1/11; 550÷11"
+    },
+    {
+      "id": "quant-speed-drill-q036",
+      "group": "B",
+      "question": "20% of 665",
+      "answerText": "133",
+      "solution": "20% = 1/5; 665÷5"
+    },
+    {
+      "id": "quant-speed-drill-q037",
+      "group": "B",
+      "question": "80% of 215",
+      "answerText": "172",
+      "solution": "80% = 4/5; 215×4÷5"
+    },
+    {
+      "id": "quant-speed-drill-q038",
+      "group": "B",
+      "question": "25% of 528",
+      "answerText": "132",
+      "solution": "25% = 1/4; 528÷4"
+    },
+    {
+      "id": "quant-speed-drill-q039",
+      "group": "B",
+      "question": "6.25% of 464",
+      "answerText": "29",
+      "solution": "6.25% = 1/16; 464÷16"
+    },
+    {
+      "id": "quant-speed-drill-q040",
+      "group": "B",
+      "question": "18.75% of 320",
+      "answerText": "60",
+      "solution": "18.75% = 3/16; 320×3÷16"
+    },
+    {
+      "id": "quant-speed-drill-q041",
+      "group": "C",
+      "question": "13²",
+      "answerText": "169",
+      "solution": "13² = 169"
+    },
+    {
+      "id": "quant-speed-drill-q042",
+      "group": "C",
+      "question": "14²",
+      "answerText": "196",
+      "solution": "14² = 196"
+    },
+    {
+      "id": "quant-speed-drill-q043",
+      "group": "C",
+      "question": "17²",
+      "answerText": "289",
+      "solution": "17² = 289"
+    },
+    {
+      "id": "quant-speed-drill-q044",
+      "group": "C",
+      "question": "19²",
+      "answerText": "361",
+      "solution": "19² = 361"
+    },
+    {
+      "id": "quant-speed-drill-q045",
+      "group": "C",
+      "question": "23²",
+      "answerText": "529",
+      "solution": "23² = 529"
+    },
+    {
+      "id": "quant-speed-drill-q046",
+      "group": "C",
+      "question": "24²",
+      "answerText": "576",
+      "solution": "24² = 576"
+    },
+    {
+      "id": "quant-speed-drill-q047",
+      "group": "C",
+      "question": "27²",
+      "answerText": "729",
+      "solution": "27² = 729"
+    },
+    {
+      "id": "quant-speed-drill-q048",
+      "group": "C",
+      "question": "29²",
+      "answerText": "841",
+      "solution": "29² = 841"
+    },
+    {
+      "id": "quant-speed-drill-q049",
+      "group": "C",
+      "question": "12³",
+      "answerText": "1728",
+      "solution": "12³ = 1728"
+    },
+    {
+      "id": "quant-speed-drill-q050",
+      "group": "C",
+      "question": "13³",
+      "answerText": "2197",
+      "solution": "13³ = 2197"
+    },
+    {
+      "id": "quant-speed-drill-q051",
+      "group": "C",
+      "question": "8³",
+      "answerText": "512",
+      "solution": "8³ = 512"
+    },
+    {
+      "id": "quant-speed-drill-q052",
+      "group": "C",
+      "question": "15²",
+      "answerText": "225",
+      "solution": "15² = 225"
+    },
+    {
+      "id": "quant-speed-drill-q053",
+      "group": "C",
+      "question": "16²",
+      "answerText": "256",
+      "solution": "16² = 256"
+    },
+    {
+      "id": "quant-speed-drill-q054",
+      "group": "C",
+      "question": "18²",
+      "answerText": "324",
+      "solution": "18² = 324"
+    },
+    {
+      "id": "quant-speed-drill-q055",
+      "group": "C",
+      "question": "21²",
+      "answerText": "441",
+      "solution": "21² = 441"
+    },
+    {
+      "id": "quant-speed-drill-q056",
+      "group": "C",
+      "question": "√784",
+      "answerText": "28",
+      "solution": "28²=784"
+    },
+    {
+      "id": "quant-speed-drill-q057",
+      "group": "C",
+      "question": "√961",
+      "answerText": "31",
+      "solution": "31²=961"
+    },
+    {
+      "id": "quant-speed-drill-q058",
+      "group": "C",
+      "question": "√1156",
+      "answerText": "34",
+      "solution": "34²=1156"
+    },
+    {
+      "id": "quant-speed-drill-q059",
+      "group": "C",
+      "question": "∛3375",
+      "answerText": "15",
+      "solution": "15³=3375"
+    },
+    {
+      "id": "quant-speed-drill-q060",
+      "group": "C",
+      "question": "∛4096",
+      "answerText": "16",
+      "solution": "16³=4096"
+    },
+    {
+      "id": "quant-speed-drill-q061",
+      "group": "D",
+      "question": "63 × 11",
+      "answerText": "693",
+      "solution": "×11: 6 (6+3) 3 → 6·9·3"
+    },
+    {
+      "id": "quant-speed-drill-q062",
+      "group": "D",
+      "question": "48 × 11",
+      "answerText": "528",
+      "solution": "×11: 4 (4+8=12→carry) 8 → 5·2·8"
+    },
+    {
+      "id": "quant-speed-drill-q063",
+      "group": "D",
+      "question": "72 × 11",
+      "answerText": "792",
+      "solution": "×11: 7 (7+2) 2"
+    },
+    {
+      "id": "quant-speed-drill-q064",
+      "group": "D",
+      "question": "234 × 11",
+      "answerText": "2574",
+      "solution": "×11: 2 (2+3) (3+4) 4 → 2·5·7·4"
+    },
+    {
+      "id": "quant-speed-drill-q065",
+      "group": "D",
+      "question": "64 × 25",
+      "answerText": "1600",
+      "solution": "×25 = ×100÷4: 6400÷4"
+    },
+    {
+      "id": "quant-speed-drill-q066",
+      "group": "D",
+      "question": "88 × 25",
+      "answerText": "2200",
+      "solution": "8800÷4"
+    },
+    {
+      "id": "quant-speed-drill-q067",
+      "group": "D",
+      "question": "132 × 25",
+      "answerText": "3300",
+      "solution": "13200÷4"
+    },
+    {
+      "id": "quant-speed-drill-q068",
+      "group": "D",
+      "question": "36 × 25",
+      "answerText": "900",
+      "solution": "3600÷4"
+    },
+    {
+      "id": "quant-speed-drill-q069",
+      "group": "D",
+      "question": "86 × 5",
+      "answerText": "430",
+      "solution": "×5 = ×10÷2: 860÷2"
+    },
+    {
+      "id": "quant-speed-drill-q070",
+      "group": "D",
+      "question": "148 × 5",
+      "answerText": "740",
+      "solution": "1480÷2"
+    },
+    {
+      "id": "quant-speed-drill-q071",
+      "group": "D",
+      "question": "264 × 5",
+      "answerText": "1320",
+      "solution": "2640÷2"
+    },
+    {
+      "id": "quant-speed-drill-q072",
+      "group": "D",
+      "question": "78 × 5",
+      "answerText": "390",
+      "solution": "780÷2"
+    },
+    {
+      "id": "quant-speed-drill-q073",
+      "group": "D",
+      "question": "47 × 9",
+      "answerText": "423",
+      "solution": "×9 = ×10−x: 470−47"
+    },
+    {
+      "id": "quant-speed-drill-q074",
+      "group": "D",
+      "question": "66 × 9",
+      "answerText": "594",
+      "solution": "660−66"
+    },
+    {
+      "id": "quant-speed-drill-q075",
+      "group": "D",
+      "question": "123 × 9",
+      "answerText": "1107",
+      "solution": "1230−123"
+    },
+    {
+      "id": "quant-speed-drill-q076",
+      "group": "D",
+      "question": "88 × 9",
+      "answerText": "792",
+      "solution": "880−88"
+    },
+    {
+      "id": "quant-speed-drill-q077",
+      "group": "D",
+      "question": "45 × 99",
+      "answerText": "4455",
+      "solution": "×99 = ×100−x: 4500−45"
+    },
+    {
+      "id": "quant-speed-drill-q078",
+      "group": "D",
+      "question": "78 × 99",
+      "answerText": "7722",
+      "solution": "7800−78"
+    },
+    {
+      "id": "quant-speed-drill-q079",
+      "group": "D",
+      "question": "123 × 99",
+      "answerText": "12177",
+      "solution": "12300−123"
+    },
+    {
+      "id": "quant-speed-drill-q080",
+      "group": "D",
+      "question": "250 × 99",
+      "answerText": "24750",
+      "solution": "25000−250"
+    },
+    {
+      "id": "quant-speed-drill-q081",
+      "group": "E",
+      "question": "248 + 199",
+      "answerText": "447",
+      "solution": "+200 then −1 (248+200−1)"
+    },
+    {
+      "id": "quant-speed-drill-q082",
+      "group": "E",
+      "question": "512 − 298",
+      "answerText": "214",
+      "solution": "−300 then +2 (512−300+2)"
+    },
+    {
+      "id": "quant-speed-drill-q083",
+      "group": "E",
+      "question": "1998 + 2003",
+      "answerText": "4001",
+      "solution": "2000+2000, adjust −2+1"
+    },
+    {
+      "id": "quant-speed-drill-q084",
+      "group": "E",
+      "question": "49 × 51",
+      "answerText": "2499",
+      "solution": "50²−1 (a²−b² with 50±1)"
+    },
+    {
+      "id": "quant-speed-drill-q085",
+      "group": "E",
+      "question": "37 × 43",
+      "answerText": "1591",
+      "solution": "40²−3² = 1600−9"
+    },
+    {
+      "id": "quant-speed-drill-q086",
+      "group": "E",
+      "question": "96 × 104",
+      "answerText": "9984",
+      "solution": "100²−4² = 10000−16"
+    },
+    {
+      "id": "quant-speed-drill-q087",
+      "group": "E",
+      "question": "999 × 6",
+      "answerText": "5994",
+      "solution": "×1000−×1: 6000−6"
+    },
+    {
+      "id": "quant-speed-drill-q088",
+      "group": "E",
+      "question": "45²",
+      "answerText": "2025",
+      "solution": "4×5=20, append 25 (n5² rule)"
+    },
+    {
+      "id": "quant-speed-drill-q089",
+      "group": "E",
+      "question": "65²",
+      "answerText": "4225",
+      "solution": "6×7=42, append 25"
+    },
+    {
+      "id": "quant-speed-drill-q090",
+      "group": "E",
+      "question": "105²",
+      "answerText": "11025",
+      "solution": "10×11=110, append 25"
+    },
+    {
+      "id": "quant-speed-drill-q091",
+      "group": "E",
+      "question": "34 × 36",
+      "answerText": "1224",
+      "solution": "same tens, units sum 10: 3×4=12 | 4×6=24"
+    },
+    {
+      "id": "quant-speed-drill-q092",
+      "group": "E",
+      "question": "62 × 68",
+      "answerText": "4216",
+      "solution": "6×7=42 | 2×8=16"
+    },
+    {
+      "id": "quant-speed-drill-q093",
+      "group": "E",
+      "question": "720 ÷ 5",
+      "answerText": "144",
+      "solution": "÷5 = ×2÷10: 1440÷10"
+    },
+    {
+      "id": "quant-speed-drill-q094",
+      "group": "E",
+      "question": "3600 ÷ 25",
+      "answerText": "144",
+      "solution": "÷25 = ×4÷100: 14400÷100"
+    },
+    {
+      "id": "quant-speed-drill-q095",
+      "group": "E",
+      "question": "4/5 + 3/10",
+      "answerText": "1.1",
+      "solution": "8/10 + 3/10 = 11/10"
+    },
+    {
+      "id": "quant-speed-drill-q096",
+      "group": "E",
+      "question": "39.8% of 1980 (approx)",
+      "answerText": "≈792",
+      "solution": "≈40% of 1980 = 2/5 × 1980"
+    },
+    {
+      "id": "quant-speed-drill-q097",
+      "group": "E",
+      "question": "5940 ÷ 11",
+      "answerText": "540",
+      "solution": "5940÷11 (5940 = 11×540)"
+    },
+    {
+      "id": "quant-speed-drill-q098",
+      "group": "E",
+      "question": "√2025",
+      "answerText": "45",
+      "solution": "45²=2025"
+    },
+    {
+      "id": "quant-speed-drill-q099",
+      "group": "E",
+      "question": "88 × 12",
+      "answerText": "1056",
+      "solution": "88×12 = 880 + 176"
+    },
+    {
+      "id": "quant-speed-drill-q100",
+      "group": "E",
+      "question": "15 × 16",
+      "answerText": "240",
+      "solution": "15×16 = 15×16"
+    }
+  ]
+}

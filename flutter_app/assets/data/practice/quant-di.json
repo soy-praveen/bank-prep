@@ -1,0 +1,408 @@
+{
+  "title": "Data Interpretation — Practice",
+  "section": "quant",
+  "kind": "quiz",
+  "source": "quant-di.md",
+  "questions": [
+    {
+      "id": "quant-di-q001",
+      "group": "Set 1 — Table DI",
+      "context": "The table below shows the number of Fiction and Non-Fiction books sold by five stores (A–E) in a month.\n\n| Store | Fiction | Non-Fiction |\n|-------|---------|-------------|\n| A | 240 | 160 |\n| B | 180 | 120 |\n| C | 300 | 200 |\n| D | 150 | 250 |\n| E | 210 | 190 |",
+      "question": "What is the total number of books (Fiction + Non-Fiction) sold by all five stores together?",
+      "options": [
+        "1800",
+        "1900",
+        "2000",
+        "2100",
+        "2200"
+      ],
+      "correct": 2,
+      "solution": "Fiction total = 240+180+300+150+210 = 1080. Non-Fiction total = 160+120+200+250+190 = 920. Grand total = 1080+920 = **2000**.",
+      "trick": "Add each *row* to a store total first (A=400, B=300, C=500, D=400, E=400), then sum the store totals: 400+300+500+400+400 = 2000. Round numbers add faster than columns."
+    },
+    {
+      "id": "quant-di-q002",
+      "group": "Set 1 — Table DI",
+      "context": "The table below shows the number of Fiction and Non-Fiction books sold by five stores (A–E) in a month.\n\n| Store | Fiction | Non-Fiction |\n|-------|---------|-------------|\n| A | 240 | 160 |\n| B | 180 | 120 |\n| C | 300 | 200 |\n| D | 150 | 250 |\n| E | 210 | 190 |",
+      "question": "What is the average number of Fiction books sold per store?",
+      "options": [
+        "200",
+        "208",
+        "216",
+        "220",
+        "224"
+      ],
+      "correct": 2,
+      "solution": "Fiction total 1080 ÷ 5 stores = **216**.",
+      "trick": "Average = total ÷ count. Get the column total once and divide — never average each store separately."
+    },
+    {
+      "id": "quant-di-q003",
+      "group": "Set 1 — Table DI",
+      "context": "The table below shows the number of Fiction and Non-Fiction books sold by five stores (A–E) in a month.\n\n| Store | Fiction | Non-Fiction |\n|-------|---------|-------------|\n| A | 240 | 160 |\n| B | 180 | 120 |\n| C | 300 | 200 |\n| D | 150 | 250 |\n| E | 210 | 190 |",
+      "question": "The Non-Fiction books sold by store C are what percent of the Fiction books sold by store C?",
+      "options": [
+        "60%",
+        "66⅔%",
+        "75%",
+        "80%",
+        "150%"
+      ],
+      "correct": 1,
+      "solution": "Store C: Non-Fiction 200, Fiction 300. 200/300 = 2/3 = **66⅔%**.",
+      "trick": "\"% of\" = (part ÷ base) × 100 = A/B. Cancel 200/300 to 2/3 on sight; 2/3 is the standard 66⅔%."
+    },
+    {
+      "id": "quant-di-q004",
+      "group": "Set 1 — Table DI",
+      "context": "The table below shows the number of Fiction and Non-Fiction books sold by five stores (A–E) in a month.\n\n| Store | Fiction | Non-Fiction |\n|-------|---------|-------------|\n| A | 240 | 160 |\n| B | 180 | 120 |\n| C | 300 | 200 |\n| D | 150 | 250 |\n| E | 210 | 190 |",
+      "question": "The Fiction books sold by store A are what percent more than the Fiction books sold by store D?",
+      "options": [
+        "40%",
+        "50%",
+        "60%",
+        "66⅔%",
+        "90%"
+      ],
+      "correct": 2,
+      "solution": "A = 240, D = 150. Difference = 90. 90/150 = 0.6 = **60%**.",
+      "trick": "\"% more than D\" uses D as the base: diff/base = 90/150. Cancel to 3/5 = 60%."
+    },
+    {
+      "id": "quant-di-q005",
+      "group": "Set 1 — Table DI",
+      "context": "The table below shows the number of Fiction and Non-Fiction books sold by five stores (A–E) in a month.\n\n| Store | Fiction | Non-Fiction |\n|-------|---------|-------------|\n| A | 240 | 160 |\n| B | 180 | 120 |\n| C | 300 | 200 |\n| D | 150 | 250 |\n| E | 210 | 190 |",
+      "question": "What is the ratio of the total books sold by store B to the total books sold by store D?",
+      "options": [
+        "2:3",
+        "3:4",
+        "4:5",
+        "3:5",
+        "4:3"
+      ],
+      "correct": 1,
+      "solution": "Store B total = 300, Store D total = 400. 300:400 = **3:4**.",
+      "trick": "Cancel common zeros/factors immediately: 300:400 → 3:4."
+    },
+    {
+      "id": "quant-di-q006",
+      "group": "Set 2 — Bar Graph DI",
+      "context": "The bar graph shows the number of cars of two models (X and Y) produced by a company over five years. The underlying values are given below.\n\n| Year | Model X | Model Y |\n|------|---------|---------|\n| 2018 | 400 | 300 |\n| 2019 | 500 | 400 |\n| 2020 | 450 | 300 |\n| 2021 | 600 | 480 |\n| 2022 | 550 | 440 |",
+      "question": "What is the total number of cars (both models) produced in 2021?",
+      "options": [
+        "980",
+        "1000",
+        "1040",
+        "1080",
+        "1100"
+      ],
+      "correct": 3,
+      "solution": "2021: X = 600, Y = 480. Total = **1080**.",
+      "trick": "Read only the two bars for the asked year; ignore the rest."
+    },
+    {
+      "id": "quant-di-q007",
+      "group": "Set 2 — Bar Graph DI",
+      "context": "The bar graph shows the number of cars of two models (X and Y) produced by a company over five years. The underlying values are given below.\n\n| Year | Model X | Model Y |\n|------|---------|---------|\n| 2018 | 400 | 300 |\n| 2019 | 500 | 400 |\n| 2020 | 450 | 300 |\n| 2021 | 600 | 480 |\n| 2022 | 550 | 440 |",
+      "question": "What is the average annual production of Model X over the five years?",
+      "options": [
+        "450",
+        "480",
+        "500",
+        "520",
+        "550"
+      ],
+      "correct": 2,
+      "solution": "Model X = 400+500+450+600+550 = 2500. 2500 ÷ 5 = **500**.",
+      "trick": "Pair values that round nicely: (400+600)=1000, (450+550)=1000, +500 = 2500."
+    },
+    {
+      "id": "quant-di-q008",
+      "group": "Set 2 — Bar Graph DI",
+      "context": "The bar graph shows the number of cars of two models (X and Y) produced by a company over five years. The underlying values are given below.\n\n| Year | Model X | Model Y |\n|------|---------|---------|\n| 2018 | 400 | 300 |\n| 2019 | 500 | 400 |\n| 2020 | 450 | 300 |\n| 2021 | 600 | 480 |\n| 2022 | 550 | 440 |",
+      "question": "In 2021, the production of Model Y is what percent of the production of Model X?",
+      "options": [
+        "75%",
+        "80%",
+        "85%",
+        "90%",
+        "120%"
+      ],
+      "correct": 1,
+      "solution": "2021: Y = 480, X = 600. 480/600 = 0.8 = **80%**.",
+      "trick": "\"% of X\" = Y/X. 480/600 cancels to 4/5 = 80%."
+    },
+    {
+      "id": "quant-di-q009",
+      "group": "Set 2 — Bar Graph DI",
+      "context": "The bar graph shows the number of cars of two models (X and Y) produced by a company over five years. The underlying values are given below.\n\n| Year | Model X | Model Y |\n|------|---------|---------|\n| 2018 | 400 | 300 |\n| 2019 | 500 | 400 |\n| 2020 | 450 | 300 |\n| 2021 | 600 | 480 |\n| 2022 | 550 | 440 |",
+      "question": "By what percent did the production of Model X increase from 2018 to 2021?",
+      "options": [
+        "33⅓%",
+        "40%",
+        "50%",
+        "60%",
+        "66⅔%"
+      ],
+      "correct": 2,
+      "solution": "X: 2018 = 400, 2021 = 600. Increase = 200. 200/400 = **50%**.",
+      "trick": "% increase = rise/original = 200/400 = 1/2 = 50%. Base is always the earlier value."
+    },
+    {
+      "id": "quant-di-q010",
+      "group": "Set 2 — Bar Graph DI",
+      "context": "The bar graph shows the number of cars of two models (X and Y) produced by a company over five years. The underlying values are given below.\n\n| Year | Model X | Model Y |\n|------|---------|---------|\n| 2018 | 400 | 300 |\n| 2019 | 500 | 400 |\n| 2020 | 450 | 300 |\n| 2021 | 600 | 480 |\n| 2022 | 550 | 440 |",
+      "question": "What is the difference between the total production (both models) in 2019 and in 2020?",
+      "options": [
+        "100",
+        "120",
+        "150",
+        "180",
+        "200"
+      ],
+      "correct": 2,
+      "solution": "2019 total = 500+400 = 900. 2020 total = 450+300 = 750. Difference = **150**.",
+      "trick": "Compute each year's total, then subtract — 900 − 750 = 150."
+    },
+    {
+      "id": "quant-di-q011",
+      "group": "Set 3 — Pie Chart DI",
+      "context": "A family's total monthly expenditure is Rs. 36,000. The pie chart shows how it is distributed across five heads (percentage share given below).\n\n| Category | Share (%) |\n|----------|-----------|\n| Food | 25% |\n| Rent | 30% |\n| Education | 15% |\n| Transport | 10% |\n| Savings | 20% |",
+      "question": "What amount (in Rs.) is spent on Rent?",
+      "options": [
+        "9000",
+        "10800",
+        "7200",
+        "5400",
+        "3600"
+      ],
+      "correct": 1,
+      "solution": "Rent = 30% of 36000. 10% of 36000 = 3600, so 30% = **10800**.",
+      "trick": "Find 1% (or 10%) of the total once. 1% of 36000 = 360; scale up as needed."
+    },
+    {
+      "id": "quant-di-q012",
+      "group": "Set 3 — Pie Chart DI",
+      "context": "A family's total monthly expenditure is Rs. 36,000. The pie chart shows how it is distributed across five heads (percentage share given below).\n\n| Category | Share (%) |\n|----------|-----------|\n| Food | 25% |\n| Rent | 30% |\n| Education | 15% |\n| Transport | 10% |\n| Savings | 20% |",
+      "question": "What is the difference (in Rs.) between the amounts spent on Food and on Education?",
+      "options": [
+        "1800",
+        "2700",
+        "3600",
+        "4500",
+        "5400"
+      ],
+      "correct": 2,
+      "solution": "Food − Education = (25% − 15%) = 10% of 36000 = **3600**.",
+      "trick": "Subtract the *percentages first* (25−15 = 10), then take one % of the total. Avoids computing both amounts."
+    },
+    {
+      "id": "quant-di-q013",
+      "group": "Set 3 — Pie Chart DI",
+      "context": "A family's total monthly expenditure is Rs. 36,000. The pie chart shows how it is distributed across five heads (percentage share given below).\n\n| Category | Share (%) |\n|----------|-----------|\n| Food | 25% |\n| Rent | 30% |\n| Education | 15% |\n| Transport | 10% |\n| Savings | 20% |",
+      "question": "The amount kept as Savings is what percent more than the amount spent on Transport?",
+      "options": [
+        "50%",
+        "66⅔%",
+        "100%",
+        "150%",
+        "200%"
+      ],
+      "correct": 2,
+      "solution": "Savings 20%, Transport 10%. \"% more\" = (20−10)/10 = **100%**.",
+      "trick": "With a common total, compare the shares directly: diff/base = 10/10 = 100%. No need to convert to rupees."
+    },
+    {
+      "id": "quant-di-q014",
+      "group": "Set 3 — Pie Chart DI",
+      "context": "A family's total monthly expenditure is Rs. 36,000. The pie chart shows how it is distributed across five heads (percentage share given below).\n\n| Category | Share (%) |\n|----------|-----------|\n| Food | 25% |\n| Rent | 30% |\n| Education | 15% |\n| Transport | 10% |\n| Savings | 20% |",
+      "question": "What is the ratio of the amount spent on Food to the amount spent on Rent?",
+      "options": [
+        "2:3",
+        "3:4",
+        "5:6",
+        "4:5",
+        "6:5"
+      ],
+      "correct": 2,
+      "solution": "Food:Rent = 25%:30% = 25:30 = **5:6**.",
+      "trick": "Ratios can be taken straight from the percentage shares. 25:30 → divide by 5 → 5:6."
+    },
+    {
+      "id": "quant-di-q015",
+      "group": "Set 3 — Pie Chart DI",
+      "context": "A family's total monthly expenditure is Rs. 36,000. The pie chart shows how it is distributed across five heads (percentage share given below).\n\n| Category | Share (%) |\n|----------|-----------|\n| Food | 25% |\n| Rent | 30% |\n| Education | 15% |\n| Transport | 10% |\n| Savings | 20% |",
+      "question": "What is the average amount (in Rs.) spent on Food, Rent, and Education taken together?",
+      "options": [
+        "7200",
+        "8000",
+        "8400",
+        "9000",
+        "12000"
+      ],
+      "correct": 2,
+      "solution": "Food+Rent+Education = (25+30+15)% = 70% of 36000 = 25200. Average of 3 = 25200 ÷ 3 = **8400**.",
+      "trick": "Sum the shares (70%), take that % of total, then divide by the count. 70% of 36000 = 25200; ÷3 = 8400."
+    },
+    {
+      "id": "quant-di-q016",
+      "group": "Set 4 — Line Graph DI",
+      "context": "The line graph shows the footfall (number of visitors, in thousands) at two malls P and Q across five months. Values are tabulated below.\n\n| Month | Mall P (’000) | Mall Q (’000) |\n|-------|---------------|---------------|\n| Jan | 20 | 25 |\n| Feb | 30 | 20 |\n| Mar | 25 | 35 |\n| Apr | 40 | 30 |\n| May | 35 | 40 |",
+      "question": "What is the total footfall at Mall P over all five months (in thousands)?",
+      "options": [
+        "140",
+        "145",
+        "150",
+        "155",
+        "160"
+      ],
+      "correct": 2,
+      "solution": "Mall P = 20+30+25+40+35 = **150** (thousand).",
+      "trick": "Group friendly pairs: (20+30)=50, (25+35)=60, +40 = 150."
+    },
+    {
+      "id": "quant-di-q017",
+      "group": "Set 4 — Line Graph DI",
+      "context": "The line graph shows the footfall (number of visitors, in thousands) at two malls P and Q across five months. Values are tabulated below.\n\n| Month | Mall P (’000) | Mall Q (’000) |\n|-------|---------------|---------------|\n| Jan | 20 | 25 |\n| Feb | 30 | 20 |\n| Mar | 25 | 35 |\n| Apr | 40 | 30 |\n| May | 35 | 40 |",
+      "question": "In which month was the footfall at Mall Q the highest?",
+      "options": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May"
+      ],
+      "correct": 4,
+      "solution": "Mall Q values: 25, 20, 35, 30, 40. Highest = 40 in **May**.",
+      "trick": "For \"highest/lowest,\" just scan the row for the peak value — no arithmetic needed."
+    },
+    {
+      "id": "quant-di-q018",
+      "group": "Set 4 — Line Graph DI",
+      "context": "The line graph shows the footfall (number of visitors, in thousands) at two malls P and Q across five months. Values are tabulated below.\n\n| Month | Mall P (’000) | Mall Q (’000) |\n|-------|---------------|---------------|\n| Jan | 20 | 25 |\n| Feb | 30 | 20 |\n| Mar | 25 | 35 |\n| Apr | 40 | 30 |\n| May | 35 | 40 |",
+      "question": "The footfall at Mall P in April is what percent more than its footfall in January?",
+      "options": [
+        "50%",
+        "75%",
+        "100%",
+        "150%",
+        "200%"
+      ],
+      "correct": 2,
+      "solution": "P: Apr = 40, Jan = 20. \"% more\" = (40−20)/20 = **100%**.",
+      "trick": "Doubling (20 → 40) is always a 100% increase. Spot the double instantly."
+    },
+    {
+      "id": "quant-di-q019",
+      "group": "Set 4 — Line Graph DI",
+      "context": "The line graph shows the footfall (number of visitors, in thousands) at two malls P and Q across five months. Values are tabulated below.\n\n| Month | Mall P (’000) | Mall Q (’000) |\n|-------|---------------|---------------|\n| Jan | 20 | 25 |\n| Feb | 30 | 20 |\n| Mar | 25 | 35 |\n| Apr | 40 | 30 |\n| May | 35 | 40 |",
+      "question": "What is the average monthly footfall at Mall Q (in thousands)?",
+      "options": [
+        "25",
+        "28",
+        "30",
+        "32",
+        "35"
+      ],
+      "correct": 2,
+      "solution": "Mall Q = 25+20+35+30+40 = 150. 150 ÷ 5 = **30** (thousand).",
+      "trick": "Average = total ÷ count. Q's values are symmetric around 30, which also confirms the mean."
+    },
+    {
+      "id": "quant-di-q020",
+      "group": "Set 4 — Line Graph DI",
+      "context": "The line graph shows the footfall (number of visitors, in thousands) at two malls P and Q across five months. Values are tabulated below.\n\n| Month | Mall P (’000) | Mall Q (’000) |\n|-------|---------------|---------------|\n| Jan | 20 | 25 |\n| Feb | 30 | 20 |\n| Mar | 25 | 35 |\n| Apr | 40 | 30 |\n| May | 35 | 40 |",
+      "question": "What is the difference between the combined footfall (P + Q) in March and the combined footfall in April (in thousands)?",
+      "options": [
+        "5",
+        "10",
+        "15",
+        "20",
+        "25"
+      ],
+      "correct": 1,
+      "solution": "March total = 25+35 = 60. April total = 40+30 = 70. Difference = **10** (thousand).",
+      "trick": "Combine both malls per month, then subtract: 70 − 60 = 10."
+    },
+    {
+      "id": "quant-di-q021",
+      "group": "Set 5 — Caselet DI",
+      "context": "In a college there are 2000 students. 60% of them are boys and the rest are girls. Among the boys, 40% opted for Science, 25% for Commerce and the remaining for Arts. Among the girls, 50% opted for Science, 25% for Commerce and the remaining for Arts.",
+      "question": "What is the total number of students who opted for Science?",
+      "options": [
+        "840",
+        "860",
+        "880",
+        "900",
+        "920"
+      ],
+      "correct": 2,
+      "solution": "Base figures: Boys = 60% of 2000 = 1200; Girls = 800.\n- Boys: Science 40% = 480, Commerce 25% = 300, Arts 35% = 420. (480+300+420 = 1200 ✓)\n- Girls: Science 50% = 400, Commerce 25% = 200, Arts 25% = 200. (400+200+200 = 800 ✓)\n\n**Trick (whole set):** Build the base table first — split boys/girls, then break each into streams — before touching any question. One clean table answers all five parts.\nScience = boys 480 + girls 400 = **880**.",
+      "trick": "Add the two Science cells from the base table; don't recompute percentages."
+    },
+    {
+      "id": "quant-di-q022",
+      "group": "Set 5 — Caselet DI",
+      "context": "In a college there are 2000 students. 60% of them are boys and the rest are girls. Among the boys, 40% opted for Science, 25% for Commerce and the remaining for Arts. Among the girls, 50% opted for Science, 25% for Commerce and the remaining for Arts.",
+      "question": "How many boys opted for Arts?",
+      "options": [
+        "360",
+        "400",
+        "420",
+        "440",
+        "480"
+      ],
+      "correct": 2,
+      "solution": "Boys Arts = 35% of 1200. (Boys are 100% − 40% − 25% = 35% Arts.) 35% of 1200 = **420**.",
+      "trick": "Find the leftover share by subtracting the given ones from 100% before multiplying."
+    },
+    {
+      "id": "quant-di-q023",
+      "group": "Set 5 — Caselet DI",
+      "context": "In a college there are 2000 students. 60% of them are boys and the rest are girls. Among the boys, 40% opted for Science, 25% for Commerce and the remaining for Arts. Among the girls, 50% opted for Science, 25% for Commerce and the remaining for Arts.",
+      "question": "The number of boys who opted for Commerce is what percent more than the number of girls who opted for Commerce?",
+      "options": [
+        "33⅓%",
+        "40%",
+        "50%",
+        "60%",
+        "66⅔%"
+      ],
+      "correct": 2,
+      "solution": "Boys Commerce = 300, Girls Commerce = 200. \"% more\" = (300−200)/200 = **50%**.",
+      "trick": "% more = diff/base, base = girls' value: 100/200 = 50%."
+    },
+    {
+      "id": "quant-di-q024",
+      "group": "Set 5 — Caselet DI",
+      "context": "In a college there are 2000 students. 60% of them are boys and the rest are girls. Among the boys, 40% opted for Science, 25% for Commerce and the remaining for Arts. Among the girls, 50% opted for Science, 25% for Commerce and the remaining for Arts.",
+      "question": "What is the ratio of the number of boys who opted for Arts to the number of girls who opted for Arts?",
+      "options": [
+        "2:1",
+        "21:10",
+        "11:5",
+        "20:9",
+        "10:21"
+      ],
+      "correct": 1,
+      "solution": "Boys Arts = 420, Girls Arts = 200. 420:200 = **21:10**.",
+      "trick": "Cancel the common factor 20: 420:200 → 21:10."
+    },
+    {
+      "id": "quant-di-q025",
+      "group": "Set 5 — Caselet DI",
+      "context": "In a college there are 2000 students. 60% of them are boys and the rest are girls. Among the boys, 40% opted for Science, 25% for Commerce and the remaining for Arts. Among the girls, 50% opted for Science, 25% for Commerce and the remaining for Arts.",
+      "question": "The total number of students who opted for Commerce is what percent of the total number of students in the college?",
+      "options": [
+        "20%",
+        "22.5%",
+        "25%",
+        "27.5%",
+        "30%"
+      ],
+      "correct": 2,
+      "solution": "Total Commerce = 300 + 200 = 500. 500/2000 = **25%**.",
+      "trick": "500 out of 2000 → divide by 20 to get per-100 → 25%. (500/2000 = 1/4 = 25%.)"
+    }
+  ]
+}

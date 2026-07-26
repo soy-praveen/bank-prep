@@ -1,0 +1,308 @@
+{
+  "title": "Simplification, Approximation & Number Series — Practice",
+  "section": "quant",
+  "kind": "quiz",
+  "source": "quant-simplification-series.md",
+  "questions": [
+    {
+      "id": "quant-simplification-series-q001",
+      "group": "Part A — Simplification & Approximation",
+      "question": "25% of 480 + 40% of 350 = ?",
+      "options": [
+        "250",
+        "260",
+        "270",
+        "280",
+        "290"
+      ],
+      "correct": 1,
+      "solution": "25% of 480 = 480 ÷ 4 = 120; 40% of 350 = 140. Sum = 260.",
+      "trick": "**fraction-% table:** memorise the small anchors. 25% = ×1/4, 40% = ×2/5. Dividing/multiplying by these beats long multiplication every time."
+    },
+    {
+      "id": "quant-simplification-series-q002",
+      "group": "Part A — Simplification & Approximation",
+      "question": "15 × 14 + 18 × 12 = ?",
+      "options": [
+        "410",
+        "416",
+        "420",
+        "426",
+        "430"
+      ],
+      "correct": 3,
+      "solution": "15 × 14 = 210; 18 × 12 = 216. Sum = 426.",
+      "trick": "**10/5/1 percent blocks generalised:** 15 × 14 = (10×14) + (5×14) = 140 + 70 = 210. Split one factor into round chunks (tens, fives, ones) and add."
+    },
+    {
+      "id": "quant-simplification-series-q003",
+      "group": "Part A — Simplification & Approximation",
+      "question": "√1296 + √2025 = ?",
+      "options": [
+        "81",
+        "76",
+        "86",
+        "91",
+        "71"
+      ],
+      "correct": 0,
+      "solution": "√1296 = 36, √2025 = 45. Sum = 81.",
+      "trick": "**prime-square / perfect-square recognition:** the last digit 6 means the root ends in 4 or 6; 30²=900, 40²=1600, so √1296 sits near 36 → 36²=1296. Root ending 5 with …25 tail: 45²=2025."
+    },
+    {
+      "id": "quant-simplification-series-q004",
+      "group": "Part A — Simplification & Approximation",
+      "question": "39.9% of 649.87 + 24.98% of 320.12 ≈ ?",
+      "options": [
+        "320",
+        "330",
+        "340",
+        "350",
+        "360"
+      ],
+      "correct": 2,
+      "solution": "round first — 40% of 650 = 260; 25% of 320 = 80. Sum ≈ 340.",
+      "trick": "**round-first approximation + fraction-%:** 39.9%→40% (=2/5), 24.98%→25% (=1/4). 650×2/5 = 260, 320×1/4 = 80."
+    },
+    {
+      "id": "quant-simplification-series-q005",
+      "group": "Part A — Simplification & Approximation",
+      "question": "(17.98)² + (12.02)² ≈ ?",
+      "options": [
+        "456",
+        "468",
+        "472",
+        "480",
+        "484"
+      ],
+      "correct": 1,
+      "solution": "17.98 ≈ 18, 12.02 ≈ 12. 18² = 324, 12² = 144. Sum ≈ 468.",
+      "trick": "**round-first on near-integers:** decimals within 0.05 of a whole number contribute nothing at approximation scale; square the rounded value."
+    },
+    {
+      "id": "quant-simplification-series-q006",
+      "group": "Part A — Simplification & Approximation",
+      "question": "3600 ÷ 15 × 4 = ?",
+      "options": [
+        "900",
+        "920",
+        "940",
+        "980",
+        "960"
+      ],
+      "correct": 4,
+      "solution": "strictly left to right for ÷ and × (same BODMAS rank): 3600 ÷ 15 = 240, then 240 × 4 = 960.",
+      "trick": "**BODMAS order:** × and ÷ share one tier — evaluate them left to right, do NOT do all × before ÷. Doing 15×4=60 first (3600÷60=60) is the classic trap."
+    },
+    {
+      "id": "quant-simplification-series-q007",
+      "group": "Part A — Simplification & Approximation",
+      "question": "5/8 of 728 = ?",
+      "options": [
+        "445",
+        "450",
+        "455",
+        "460",
+        "465"
+      ],
+      "correct": 2,
+      "solution": "728 ÷ 8 = 91, 91 × 5 = 455.",
+      "trick": "**fraction of a number:** always divide by the denominator first (smaller, cleaner numbers), then multiply by the numerator."
+    },
+    {
+      "id": "quant-simplification-series-q008",
+      "group": "Part A — Simplification & Approximation",
+      "question": "√624.99 × 15.02 ≈ ?",
+      "options": [
+        "360",
+        "365",
+        "370",
+        "375",
+        "380"
+      ],
+      "correct": 3,
+      "solution": "√624.99 ≈ √625 = 25; 15.02 ≈ 15. 25 × 15 = 375.",
+      "trick": "**prime-square recognition + round:** 625 = 25² is a must-know square (…25 tail, 25²). Round the multiplier and go."
+    },
+    {
+      "id": "quant-simplification-series-q009",
+      "group": "Part A — Simplification & Approximation",
+      "question": "72 ÷ 8 × 3 + 15 − 6 = ?",
+      "options": [
+        "36",
+        "34",
+        "38",
+        "40",
+        "32"
+      ],
+      "correct": 0,
+      "solution": "72 ÷ 8 = 9; 9 × 3 = 27; 27 + 15 = 42; 42 − 6 = 36.",
+      "trick": "**BODMAS order:** finish all ÷ and × (left to right) before touching + and −. Resolve 72÷8×3 = 27 as one block, then add/subtract."
+    },
+    {
+      "id": "quant-simplification-series-q010",
+      "group": "Part A — Simplification & Approximation",
+      "question": "? % of 850 = 306",
+      "options": [
+        "32%",
+        "34%",
+        "36%",
+        "38%",
+        "40%"
+      ],
+      "correct": 2,
+      "solution": "required % = 306 ÷ 850 = 0.36 = 36%.",
+      "trick": "**reverse percent via anchors:** 10% of 850 = 85, so 30% = 255, 5% = 42.5 → 35% = 297.5; you still need 8.5 more = another 1% → 36%. Build the target from 10/5/1 blocks instead of dividing blind."
+    },
+    {
+      "id": "quant-simplification-series-q011",
+      "group": "Part B — Number Series",
+      "question": "3, 7, 15, 31, 63, ?",
+      "options": [
+        "121",
+        "123",
+        "125",
+        "127",
+        "129"
+      ],
+      "correct": 3,
+      "solution": "Pattern: ×2 + 1. 3→7→15→31→63→**127** (63×2+1).",
+      "trick": "**×2±1 family:** when each term is roughly double the previous, test ×2 then read the small constant offset (+1 here) from the first pair."
+    },
+    {
+      "id": "quant-simplification-series-q012",
+      "group": "Part B — Number Series",
+      "question": "5, 6, 8, 11, 15, ?",
+      "options": [
+        "19",
+        "20",
+        "21",
+        "18",
+        "22"
+      ],
+      "correct": 1,
+      "solution": "Pattern: growing difference +1, +2, +3, +4, +5. 5,6,8,11,15,**20**.",
+      "trick": "**write the differences row:** 1, 2, 3, 4, … below the series. A clean arithmetic ladder of differences means \"add the next step.\""
+    },
+    {
+      "id": "quant-simplification-series-q013",
+      "group": "Part B — Number Series",
+      "question": "2, 5, 10, 17, 26, ?",
+      "options": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39"
+      ],
+      "correct": 2,
+      "solution": "Pattern: n² + 1 for n = 1,2,3,4,5,6 → 2,5,10,17,26,**37**.",
+      "trick": "**squares ± offset:** differences are 3,5,7,9 (consecutive odd numbers) — the signature of a squares series. Next term = 6²+1 = 37."
+    },
+    {
+      "id": "quant-simplification-series-q014",
+      "group": "Part B — Number Series",
+      "question": "0, 7, 26, 63, 124, ?",
+      "options": [
+        "205",
+        "210",
+        "218",
+        "220",
+        "215"
+      ],
+      "correct": 4,
+      "solution": "Pattern: n³ − 1 for n = 1,2,3,4,5,6 → 0,7,26,63,124,**215**.",
+      "trick": "**cubes ± offset:** recognise 1,8,27,64,125,216 shifted down by 1. Next cube 216 − 1 = 215."
+    },
+    {
+      "id": "quant-simplification-series-q015",
+      "group": "Part B — Number Series",
+      "question": "4, 9, 25, 49, 121, ?",
+      "options": [
+        "144",
+        "169",
+        "121",
+        "196",
+        "165"
+      ],
+      "correct": 1,
+      "solution": "Pattern: squares of consecutive primes 2,3,5,7,11,13 → 4,9,25,49,121,**169**.",
+      "trick": "**prime-square recognition:** jumps that don't fit a fixed difference or ratio, but each term is a perfect square — check the roots for the prime sequence 2,3,5,7,11,13."
+    },
+    {
+      "id": "quant-simplification-series-q016",
+      "group": "Part B — Number Series",
+      "question": "2, 3, 8, 27, 112, ?",
+      "options": [
+        "540",
+        "555",
+        "560",
+        "565",
+        "575"
+      ],
+      "correct": 3,
+      "solution": "Pattern: growing multiplier ×1+1, ×2+2, ×3+3, ×4+4, ×5+5. 2×1+1=3, 3×2+2=8, 8×3+3=27, 27×4+4=112, 112×5+5=**565**.",
+      "trick": "**growing-multiplier pattern:** when ratios rise (~×1, ×3, ×4…), test ×n+n with n increasing each step."
+    },
+    {
+      "id": "quant-simplification-series-q017",
+      "group": "Part B — Number Series",
+      "question": "1, 2, 5, 12, 27, 58, ?",
+      "options": [
+        "115",
+        "118",
+        "121",
+        "124",
+        "127"
+      ],
+      "correct": 2,
+      "solution": "Pattern: ×2 + (0,1,2,3,4,5). 1×2+0=2, 2×2+1=5, 5×2+2=12, 12×2+3=27, 27×2+4=58, 58×2+5=**121**.",
+      "trick": "**×2 plus a growing add:** a near-doubling series whose offset creeps up by 1 each step; track the add-on separately."
+    },
+    {
+      "id": "quant-simplification-series-q018",
+      "group": "Part B — Number Series",
+      "question": "Find the wrong number: 3, 4, 10, 33, 135, 685, 4116",
+      "options": [
+        "4",
+        "10",
+        "33",
+        "135",
+        "685"
+      ],
+      "correct": 3,
+      "solution": "Pattern: ×1+1, ×2+2, ×3+3, ×4+4, ×5+5, ×6+6. 3, 4, 10, 33, **136**(=33×4+4), 685, 4116. The listed 135 breaks it.",
+      "trick": "**growing-multiplier check:** verify each step forward; 33×4+4 = 136, and 136×5+5 = 685 confirms the intended term. The stated 135 is the odd one out."
+    },
+    {
+      "id": "quant-simplification-series-q019",
+      "group": "Part B — Number Series",
+      "question": "Find the wrong number: 1, 4, 9, 16, 24, 36, 49",
+      "options": [
+        "9",
+        "16",
+        "24",
+        "36",
+        "49"
+      ],
+      "correct": 2,
+      "solution": "Pattern: consecutive squares 1,4,9,16,**25**,36,49. The listed 24 should be 5² = 25.",
+      "trick": "**write the roots row:** under each term write its intended root (1,2,3,4,5,6,7). 24 has no integer root while its neighbours are perfect squares — it's the plant."
+    },
+    {
+      "id": "quant-simplification-series-q020",
+      "group": "Part B — Number Series",
+      "question": "Find the wrong number: 2, 5, 11, 23, 48, 95, 191",
+      "options": [
+        "5",
+        "11",
+        "23",
+        "48",
+        "95"
+      ],
+      "correct": 3,
+      "solution": "Pattern: ×2 + 1. 2→5→11→23→**47**(=23×2+1)→95→191. The listed 48 should be 47 (and 47×2+1 = 95 confirms).",
+      "trick": "**×2±1 verification:** apply the rule both directions from a known-good term. 23×2+1 = 47 and 47×2+1 = 95 pin the error at 48."
+    }
+  ]
+}

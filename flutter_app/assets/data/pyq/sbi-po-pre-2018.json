@@ -1,0 +1,2602 @@
+{
+ "sets": [
+  {
+   "id": "pyq-sbipo-pre18-set1",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "title": "Eight Persons and Eight Countries",
+   "context": "Eight persons - A, B, C, D, E, F, G and H - belong to eight different countries - P, Q, R, S, T, U, V and W - not necessarily in that order.\nA does not belong to country P or U.\nD does not belong to country P or Q.\nC belongs to country T.\nNeither D, B nor G belongs to country S.\nF does not belong to country R or Q.\nNeither G nor B belongs to country P or V.\nH belongs to country U.\nA does not belong to country V.\nF does not belong to country P.\nB and D do not belong to country R or V."
+  },
+  {
+   "id": "pyq-sbipo-pre18-set2",
+   "section": "reasoning",
+   "topic": "coding-decoding",
+   "title": "Sentence Coding - Village, People, Heat",
+   "context": "In a certain code language:\n'Coming from the village' is written as '543 721 689 384'.\n'The innocent village people' is written as '827 543 962 721'.\n'Village heat for people' is written as '235 827 721 475'."
+  },
+  {
+   "id": "pyq-sbipo-pre18-set3",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "title": "Row of Persons Liking Different Flowers (Uncertain Count)",
+   "context": "A certain number of persons sit in a single row, all facing north. Each person likes a different flower.\nThe one who likes Rose sits fourth to the right of the one who likes Jasmine.\nW sits second to the right of the one who likes Rose.\nK sits immediate left of the one who likes Jasmine.\nOnly two persons sit between the one who likes Rose and T.\nQ sits fifth to the left of T.\nThe one who likes Lily sits fifth to the left of the one who likes Jasmine.\nN sits immediate left of Q, and he does not like Lily.\nOnly one person sits between N and H.\nOnly six persons sit to the left of K.\nH likes Dahlia, and only one person sits between the one who likes Dahlia and the one who likes Lotus.\nN does not like Lotus.\nThe one who likes Lotus sits sixth from the right end."
+  },
+  {
+   "id": "pyq-sbipo-pre18-set4",
+   "section": "reasoning",
+   "topic": "blood-relations",
+   "title": "G, H and A's Family",
+   "context": "G is the only sister of H.\nA is the only son of H.\nB and D are siblings of A.\nA is married to the daughter of P.\nG is unmarried."
+  },
+  {
+   "id": "pyq-sbipo-pre18-set5",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "title": "Ten Persons in a Five-Storey Building (Two Flats per Floor)",
+   "context": "Ten persons - A, B, C, D, E, F, G, H, I and J - live in a five-storey building; the ground floor is numbered 1 and the topmost floor is numbered 5. Each floor has two flats, flat-1 and flat-2 (flat-1 of floor-2 is immediately above flat-1 of floor-1 and immediately below flat-1 of floor-3, and so on; the same rule applies to flat-2 across floors).\nB lives on floor-2, and E lives to the west of B.\nThere are two floors' gap between B and G.\nI lives to the east of H.\nG does not live on the same flat number as H.\nThere are two floors' gap between D and F.\nA lives to the west of D but does not live on the ground floor.\nJ lives above C, and J and C live on the same flat number."
+  },
+  {
+   "id": "pyq-sbipo-pre18-set6",
+   "section": "reasoning",
+   "topic": "order-ranking",
+   "title": "Six Plates Ranked by Size",
+   "context": "The sizes of plates F and B are both greater than plate A.\nPlate C is greater than A but smaller than both F and B.\nD is not the smallest plate but is smaller than C.\nPlate F is smaller than plate E but greater than plate B.\nThe 3rd largest plate measures 132 cm.\nThe smallest plate measures 69 cm."
+  },
+  {
+   "id": "pyq-sbipo-pre18-set7",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "title": "Pens Sold by a Retailer (Bar Graph, Reconstructed)",
+   "context": "A bar graph shows the number of pens sold by a retailer on five different days (data reconstructed from the solutions' arithmetic, since the source bar-graph image has no extractable text):\n\n| Day | Pens Sold |\n|---|---|\n| Monday | 25 |\n| Tuesday | 75 |\n| Wednesday | 30 |\n| Thursday | 45 |\n| Friday | 50 |"
+  },
+  {
+   "id": "pyq-sbipo-pre18-set8",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "title": "Officers and Workers in Three Companies (Pie Chart)",
+   "context": "A pie chart shows the total number of workers (900 in all) spread across three companies: A - 32%, B - 44%, C - 24%. A table gives the ratio of officers to workers in each company:\n\n| Company | Officers : Workers |\n|---|---|\n| A | 1 : 16 |\n| B | 1 : 18 |\n| C | 1 : 12 |\n\nTotal employees in a company = officers + workers."
+  },
+  {
+   "id": "pyq-sbipo-pre18-set9",
+   "section": "quant",
+   "topic": "partnership",
+   "title": "Three Partners, Two Investment Schemes",
+   "context": "A, B and C each invest in two schemes, S1 and S2. A invests Rs. 80,000 for 2 years in S1 and Rs. 30,000 for 4 years in S2. B invests Rs. 30,000 for 3 years in S1 only (he does not invest in S2), and separately earns a one-time profit of Rs. 10,000 from selling his car. C invests Rs. 50,000 for 5 years in S1 and Rs. 10,000 for 3 years in S2. The total profit from scheme S1 is Rs. 2,00,000, and from scheme S2 is Rs. 90,000."
+  },
+  {
+   "id": "pyq-sbipo-pre18-set10",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "title": "Is the Economy Really Like a Car? (Consumption vs Investment)",
+   "context": "Have you heard that the economy is like a car? It's the most popular analogy in financial reporting and political discourse. The American people are repeatedly told by financial pundits and politicians that consumption is an 'engine' that 'drives' economic growth because it makes up 70% of GDP. One notable Nobel-winning economics pundit with a penchant for bizarre growth theories even recently noted that an economy can be 'based on purchases of yachts, luxury cars, and the services of personal trainers and celebrity chefs.' Conversely, other economists including Nobel-winner Joseph Stiglitz claim that our economy is stuck in 'first gear' due to inequality: too much income is concentrated among too few rich people who tend to save a larger share of their income and thus have a lower 'marginal propensity to consume'. The Keynesian message is clear: if you want to put the economic pedal to the metal, get out there and consume!\n\nNot so fast, Speed Racer. The systematic failure by Keynesian economists and pundits to distinguish between consuming and producing value is the single most damaging fallacy in popular economic thinking. If the economy were a car, consumer preferences would surely be the steering wheel, but real savings and investment would be the engine that drives it forward.\n\nEconomic growth (booms) and declines (busts) have always been led by changes in business and durable goods investment, while final consumer goods spending has been relatively stable through the business cycle. Booms and busts in financial markets, heavy industry and housing have always been leading indicators of recession and recovery.\n\nAs John Stuart Mill put it two centuries ago, 'the demand for commodities is not the demand for labor.' Consumer demand does not necessarily translate into increased employment. That's because 'consumers' don't employ people. Businesses do. Since new hires are a risky and costly investment with unknown future returns, employers must rely on their expectations about the future and weigh those decisions very carefully. As economic historian Robert Higgs' pioneering work on the Great Depression suggests, increased uncertainty can depress job growth even in the face of booming consumption. As recent years have demonstrated, consumer demand that appears to be driven by temporary or unsustainable policies is unlikely to induce businesses to hire."
+  }
+ ],
+ "questions": [
+  {
+   "id": "pyq-sbipo-pre18-q001",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre18-set1",
+   "question": "Which of the following combinations is incorrect?",
+   "options": [
+    "B-Q",
+    "F-V",
+    "D-W",
+    "A-P",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "Working through the clues: C=T and H=U are given directly. D cannot be P, Q, S, R or V, leaving only W, so D=W. B cannot be S, R, V or P, leaving Q or W; since W is taken, B=Q. G cannot be S, P or V, and Q, W are taken, so G=R. Of the remaining countries P, S, V for A, E, F: F cannot be P, and A cannot be P or V, so A=S, then F=V (since F cannot be P) and E=P. Final mapping: A-S, B-Q, C-T, D-W, E-P, F-V, G-R, H-U. Since A actually belongs to S (not P), the combination A-P is incorrect.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q002",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre18-set1",
+   "question": "Who among the following belongs to country Q?",
+   "options": [
+    "D",
+    "B",
+    "E",
+    "G",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "From the final mapping (A-S, B-Q, C-T, D-W, E-P, F-V, G-R, H-U), B belongs to country Q.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q003",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre18-set1",
+   "question": "G belongs to which of the following countries?",
+   "options": [
+    "T",
+    "P",
+    "W",
+    "S",
+    "None of these"
+   ],
+   "correct": 4,
+   "explanation": "G actually belongs to country R (see the derivation for question 1), which is not among the first four options, so the answer is None of these.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q004",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre18-set1",
+   "question": "Who among the following persons belongs to country W?",
+   "options": [
+    "D",
+    "E",
+    "F",
+    "H",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "From the final mapping (A-S, B-Q, C-T, D-W, E-P, F-V, G-R, H-U), D belongs to country W.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q005",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "data-sufficiency-reasoning",
+   "difficulty": 3,
+   "question": "In a certain code language, 'Notice seeking his location' is coded as 'ti ki lo ab'. What is the code for 'Seeking' in that language?\nI. 'Court Notice seeking permission' is coded as 'ro ti rm ki'.\nII. 'Countries permit seeking cooperation' is coded as 'nu mi ki po'.",
+   "options": [
+    "If the data in statement I alone are sufficient to answer the question, while the data in statement II alone are not sufficient to answer the question.",
+    "If the data in statement II alone are sufficient to answer the question, while the data in statement I alone are not sufficient to answer the question.",
+    "If the data either in statement I alone or in statement II alone are sufficient to answer the question.",
+    "If the data even in both statements I and II together are not sufficient to answer the question.",
+    "If the data in both statements I and II together are necessary to answer the question."
+   ],
+   "correct": 1,
+   "explanation": "Statement I shares the words 'Notice' and 'seeking' with the original sentence, and the two sets of codes overlap in {ti, ki} - so we know {Notice, seeking} map to {ti, ki} but cannot tell which word gets which code; I alone is insufficient. Statement II shares only the word 'seeking' with the original sentence, and only one code, 'ki', is common between the two coded strings, so 'seeking' = 'ki' is pinned down uniquely by statement II alone. Hence II alone is sufficient, I alone is not.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q006",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "data-sufficiency-reasoning",
+   "difficulty": 3,
+   "question": "Six persons - A, B, C, D, E and F - are sitting around a circular table, facing the centre. Who sits second to the right of E?\nI. B sits second to the right of A. D is not an immediate neighbour of B. Only one person sits between D and E. Neither F nor C is an immediate neighbour of E. C is not a neighbour of B.\nII. Only two persons sit between B and C. D sits second to the right of A. E sits second to the left of F. E is not an immediate neighbour of B.",
+   "options": [
+    "If the data in statement I alone are sufficient to answer the question, while the data in statement II alone are not sufficient to answer the question.",
+    "If the data in statement II alone are sufficient to answer the question, while the data in statement I alone are not sufficient to answer the question.",
+    "If the data either in statement I alone or in statement II alone are sufficient to answer the question.",
+    "If the data even in both statements I and II together are not sufficient to answer the question.",
+    "If the data in both statements I and II together are necessary to answer the question."
+   ],
+   "correct": 2,
+   "explanation": "Statement I alone: placing A, then B second to A's right, and applying 'D not a neighbour of B', 'only one person between D and E' and 'neither F nor C neighbours E' forces the unique clockwise seating A-D-C-F-B-E, in which F sits second to the right of E. Statement II alone: placing A, then D second to A's right, with 'two persons between B and C' and 'E second to the left of F' forces the unique clockwise seating A-F-C-E-D-B, which again places F second to the right of E. Since each statement alone leads to the same definite answer (F), either statement alone is sufficient.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q007",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "data-sufficiency-reasoning",
+   "difficulty": 3,
+   "question": "Five persons - M, N, O, P and Q - are standing in an open ground in certain directions with respect to one another. In which direction is M with respect to P?\nI. Q is in the south of N, who is in the west of M. O is in the northeast of P, who is in the east of Q. O is in the east of M. The distance between Q and P is the same as the distance between M and N.\nII. N is in the southwest of O and in the south of P. O is in the east of M.",
+   "options": [
+    "If the data in statement I alone are sufficient to answer the question, while the data in statement II alone are not sufficient to answer the question.",
+    "If the data in statement II alone are sufficient to answer the question, while the data in statement I alone are not sufficient to answer the question.",
+    "If the data either in statement I alone or in statement II alone are sufficient to answer the question.",
+    "If the data even in both statements I and II together are not sufficient to answer the question.",
+    "If the data in both statements I and II together are necessary to answer the question."
+   ],
+   "correct": 0,
+   "explanation": "Statement I alone: place N at the origin; M is east of N (same latitude), Q is south of N (same longitude as N), and P is east of Q (same latitude as Q). Since distance QP equals distance MN, P ends up at exactly the same longitude as M, making M due north of P - a fixed, unique direction. Statement II alone only fixes M and P up to unknown magnitudes (M could be north, north-east or north-west of P depending on how far O and N are placed), so no single direction can be pinned down - insufficient.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q008",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "coding-decoding",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre18-set2",
+   "question": "If 'people for money' is written as '827 235 735', what will be the code for 'money heat village'?",
+   "options": [
+    "735 475 721",
+    "735 235 543",
+    "543 721 827",
+    "235 827 475",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "'Village' is the only word common to all three base sentences, and code 721 is the only code common to all three coded strings, so village=721. 'People' is common to sentences 2 and 3, with common code 827, so people=827. The new sentence 'people for money'=827 235 735 confirms people=827 and tells us for=235 (resolving the earlier for/heat ambiguity from sentence 3), leaving heat=475, and money=735 (a new word). So 'money heat village' = 735 475 721.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q009",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "coding-decoding",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre18-set2",
+   "question": "What is the code for 'village'?",
+   "options": [
+    "543",
+    "721",
+    "235",
+    "475",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "'Village' is the only word repeated in all three base sentences, and 721 is the only code common to all three coded strings, so village=721.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q010",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "coding-decoding",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre18-set2",
+   "question": "If 'coming heat village' is written as '384 475 721', what will be the code for 'heat coming tax'?",
+   "options": [
+    "384 475 689",
+    "475 384 543",
+    "475 384 119",
+    "384 475 235",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "This confirms coming=384 (resolving the coming/from ambiguity from sentence 1, so from=689) and heat=475, village=721. 'Tax' is a brand-new word, so it takes a fresh, previously unused code; only 119 among the options is unused elsewhere, giving heat(475) coming(384) tax(119).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q011",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "coding-decoding",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre18-set2",
+   "question": "What is the code for 'coming'?",
+   "options": [
+    "689",
+    "543",
+    "721",
+    "either 689 or 384",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "Using only the three original base sentences, 'coming' and 'from' are the two unresolved words in sentence 1, and 689 and 384 are the two codes left unassigned between them. Nothing in the base data alone tells us which word gets which code, so the code for 'coming' could be either 689 or 384.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q012",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "coding-decoding",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre18-set2",
+   "question": "What is the code for 'the'?",
+   "options": [
+    "543",
+    "962",
+    "721",
+    "235",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "'The' and 'village' are the two words common to sentences 1 and 2, mapped to codes 543 and 721. Since village=721 is already fixed from all three sentences, 'the' must be 543.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q013",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-pre18-set3",
+   "question": "What is the total number of persons sitting in the row?",
+   "options": [
+    "14",
+    "18",
+    "16",
+    "15",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "Fixing K seventh from the left (since six persons sit to its left) places the Jasmine-liker at position 8, the Rose-liker at 12, and W at 14. Testing T at Jasmine+7=15 (the branch consistent with 'N does not like Lily') gives Q=10 and N=9. H must be two seats from N without clashing with K, so H=11 (Dahlia). Since the Dahlia- and Lotus-likers are two seats apart and N (position 9) does not like Lotus, the Lotus-liker sits at 13. As the Lotus-liker sits sixth from the right end, position 13 = Total - 5, giving Total = 18.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q014",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre18-set3",
+   "question": "How many persons sit between K and H?",
+   "options": [
+    "Four",
+    "Two",
+    "Three",
+    "One",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "K sits at position 7 and H (who likes Dahlia) sits at position 11, so positions 8, 9 and 10 - three persons - sit between them.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q015",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre18-set3",
+   "question": "Which flower is liked by the one who sits second to the left of Q?",
+   "options": [
+    "Jasmine",
+    "Lily",
+    "Dahlia",
+    "Rose",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "Q sits at position 10; two seats to its left is position 8, which is the Jasmine-liker's seat.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q016",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre18-set3",
+   "question": "Who among the following sits third from the left end?",
+   "options": [
+    "The one who likes Jasmine",
+    "The one who likes Lily",
+    "W",
+    "N",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "Position 3 (third from the left) is occupied by the Lily-liker, since the Lily-liker sits fifth to the left of the Jasmine-liker (position 8 - 5 = 3).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q017",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "seating-arrangement",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre18-set3",
+   "question": "How many persons sit between the one who likes Rose and N?",
+   "options": [
+    "Four",
+    "Two",
+    "Three",
+    "One",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "The Rose-liker sits at position 12 and N sits at position 9, so positions 10 and 11 - two persons (Q and H) - sit between them.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q018",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "blood-relations",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre18-set4",
+   "question": "If S is married to P, then how is S related to A?",
+   "options": [
+    "Father",
+    "Mother",
+    "Mother-in-law",
+    "Either father-in-law or mother-in-law",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "A is married to P's daughter, so P is a parent of A's spouse, making P either A's father-in-law or mother-in-law (P's gender is not stated). If S is married to P, S is the other parent of A's spouse - so S, too, is either A's father-in-law or mother-in-law.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q019",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "blood-relations",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre18-set4",
+   "question": "If J is the mother of A, then how is G related to J?",
+   "options": [
+    "Sister",
+    "Brother-in-law",
+    "Sister-in-law",
+    "Mother",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "Since J is introduced separately as A's mother, H (already established as A's parent) must be A's father, and J is H's wife. G is H's only sister, so G is the sister of J's husband - making G the sister-in-law of J.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q020",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "blood-relations",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre18-set4",
+   "question": "How is B related to A?",
+   "options": [
+    "Father",
+    "Sister",
+    "Father-in-law",
+    "Mother",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "B is given as a sibling of A. Of the five options, only 'Sister' describes a sibling relationship at all (Father, Mother and Father-in-law are all a generation removed from A), so B is A's sister.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q021",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre18-set5",
+   "question": "Who among the following lives on flat-1 of floor-3?",
+   "options": [
+    "E",
+    "C",
+    "H",
+    "F",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "The full layout is: Floor-5 - J(flat-1), G(flat-2); Floor-4 - A(flat-1), D(flat-2); Floor-3 - H(flat-1), I(flat-2); Floor-2 - E(flat-1), B(flat-2); Floor-1 - C(flat-1), F(flat-2). So flat-1 of floor-3 is occupied by H.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q022",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre18-set5",
+   "question": "Who among the following lives to the east of C?",
+   "options": [
+    "E",
+    "G",
+    "D",
+    "F",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "C occupies flat-1 (west) of floor-1; the east flat (flat-2) on the same floor is F.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q023",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre18-set5",
+   "question": "How many floors' gap is there between J and E?",
+   "options": [
+    "One",
+    "Two",
+    "None",
+    "Three",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "J lives on floor-5 and E lives on floor-2, so floors 3 and 4 lie between them - a two-floor gap.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q024",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre18-set5",
+   "question": "I lives on which of the following floors?",
+   "options": [
+    "Floor-1",
+    "Floor-2",
+    "Floor-3",
+    "Floor-4",
+    "Floor-5"
+   ],
+   "correct": 2,
+   "explanation": "I occupies flat-2 of floor-3, alongside H in flat-1 of the same floor.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q025",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "puzzles",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre18-set5",
+   "question": "Who among the following lives to the west of G?",
+   "options": [
+    "J",
+    "C",
+    "D",
+    "F",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "G occupies flat-2 (east) of floor-5; the west flat (flat-1) on the same floor is J.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q026",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "alphanumeric-series",
+   "difficulty": 2,
+   "question": "What will come in place of the question mark in the given series?\nBX-7, DV-14, FT-28, HR-56, ?",
+   "options": [
+    "JQ-112",
+    "JP-112",
+    "KP-112",
+    "JP-114",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "The first letters move forward by 2 through the alphabet (B, D, F, H, J), the second letters move backward by 2 (X, V, T, R, P), and the numbers double each time (7, 14, 28, 56, 112). So the next term is JP-112.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q027",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "alphanumeric-series",
+   "difficulty": 3,
+   "question": "How many pairs of letters are there in the word 'KILOGRAM', each of which has as many letters between them (in both forward and backward directions) in the word as they have between them in the English alphabetical series?",
+   "options": [
+    "None",
+    "One",
+    "Two",
+    "Three",
+    "More than three"
+   ],
+   "correct": 1,
+   "explanation": "Numbering the letters by word position - K(1) I(2) L(3) O(4) G(5) R(6) A(7) M(8) - and checking every pair's positional gap in the word against its alphabetical gap: only K (word position 1, alphabet position 11) and G (word position 5, alphabet position 7) match, since both gaps equal 3 (positions 2-4, i.e. I, L, O, sit between them in the word, and letters H, I, J sit between them in the alphabet). No other pair among the 28 possible pairs matches, so exactly one pair qualifies.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q028",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "coding-decoding",
+   "difficulty": 1,
+   "question": "If '3265' is the input, the output is '6532'. Similarly, for input '7489', the output is '9874'. What will be the output for input '8154'?",
+   "options": [
+    "8451",
+    "5481",
+    "8541",
+    "4581",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "The rule is: arrange the digits of the input in descending order. Check: 3265 -> digits 6,5,3,2 -> 6532; 7489 -> digits 9,8,7,4 -> 9874. Applying the same rule to 8154: digits 8,1,5,4 sorted in descending order give 8,5,4,1 -> 8541.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q029",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "order-ranking",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre18-set6",
+   "question": "What may be the value of plate C?",
+   "options": [
+    "117 cm",
+    "135 cm",
+    "169 cm",
+    "158 cm",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "Combining all the clues gives the order (largest to smallest) E > F > B(132 cm, 3rd largest) > C > D > A(69 cm, smallest). Since C ranks just below B (132 cm), C must be smaller than 132 cm - only 117 cm fits, as 135, 169 and 158 cm would all make C exceed the 3rd-largest plate, which is impossible for the 4th-ranked plate.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q030",
+   "stage": "prelims",
+   "section": "reasoning",
+   "topic": "order-ranking",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre18-set6",
+   "question": "Which one is the greatest plate (according to size)?",
+   "options": [
+    "F",
+    "B",
+    "D",
+    "E",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "From the derived order E > F > B > C > D > A, E is the largest plate.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q031",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre18-set7",
+   "question": "Find the difference between the total number of pens sold on Monday and Tuesday together and the total number of pens sold on Thursday and Friday together.",
+   "options": [
+    "15",
+    "10",
+    "5",
+    "20",
+    "0"
+   ],
+   "correct": 2,
+   "explanation": "Monday + Tuesday = 25 + 75 = 100. Thursday + Friday = 45 + 50 = 95. Required difference = 100 - 95 = 5.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q032",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre18-set7",
+   "question": "The total number of pens sold on Saturday is 40% more than the total number of pens sold on Wednesday. Find the total number of pens sold on Friday and Saturday together.",
+   "options": [
+    "92",
+    "110",
+    "72",
+    "108",
+    "85"
+   ],
+   "correct": 0,
+   "explanation": "Saturday = Wednesday x 1.4 = 30 x 1.4 = 42. Friday + Saturday = 50 + 42 = 92.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q033",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre18-set7",
+   "question": "The total number of pens sold on Tuesday is 25% more than the total number of pens sold on Sunday. Find the total number of pens sold on Sunday.",
+   "options": [
+    "64",
+    "50",
+    "94",
+    "60",
+    "55"
+   ],
+   "correct": 3,
+   "explanation": "Tuesday = Sunday x 1.25, so Sunday = 75 / 1.25 = 60.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q034",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre18-set7",
+   "question": "Out of the total pens sold on Thursday, 20% are blue-ink pens. Of the remainder, 25% are red-ink pens and the rest are black-ink pens. Find the total number of blue and black ink pens sold on Thursday.",
+   "options": [
+    "27",
+    "36",
+    "45",
+    "39",
+    "30"
+   ],
+   "correct": 1,
+   "explanation": "Thursday total = 45. Blue = 20% of 45 = 9. Remaining = 36; red = 25% of 36 = 9; black = 75% of 36 = 27. Blue + black = 9 + 27 = 36.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q035",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre18-set7",
+   "question": "Out of the total pens sold on Tuesday, the ratio of defective pens to total pens is 7:15. Find the total number of non-defective pens sold on Tuesday.",
+   "options": [
+    "20",
+    "25",
+    "30",
+    "35",
+    "40"
+   ],
+   "correct": 4,
+   "explanation": "Tuesday total = 75. Non-defective : total = (15-7) : 15 = 8:15, so non-defective = 75 x 8/15 = 40.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq",
+    "reconstructed-data"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q036",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "quadratic-equations",
+   "difficulty": 2,
+   "question": "Quantity I: 'x', where x squared + x - 6 = 0.\nQuantity II: 'y', where y squared + 7y + 12 = 0.",
+   "options": [
+    "Quantity I > Quantity II",
+    "Quantity I < Quantity II",
+    "Quantity I >= Quantity II",
+    "Quantity I <= Quantity II",
+    "Quantity I = Quantity II or no relation"
+   ],
+   "correct": 2,
+   "explanation": "x^2+x-6=0 factors as (x+3)(x-2)=0, so x=-3 or 2. y^2+7y+12=0 factors as (y+4)(y+3)=0, so y=-4 or -3. Comparing every combination (-3 vs -4, -3 vs -3, 2 vs -4, 2 vs -3), x is always greater than or equal to y, so Quantity I >= Quantity II.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q037",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "quantity-comparison",
+   "difficulty": 2,
+   "question": "A's efficiency is 25% more than B's.\nQuantity I - 'x': the number of days in which A can complete 5/6th of a total work.\nQuantity II - 'y': the number of days in which B can complete 4/5th of the same total work.",
+   "options": [
+    "Quantity I > Quantity II",
+    "Quantity I < Quantity II",
+    "Quantity I >= Quantity II",
+    "Quantity I <= Quantity II",
+    "Quantity I = Quantity II or no relation"
+   ],
+   "correct": 1,
+   "explanation": "Efficiency ratio A:B = 5:4. Taking total work = 60 units: A's rate = 5 units/day, B's rate = 4 units/day. Quantity I: 5/6 of 60 = 50 units, so x = 50/5 = 10 days. Quantity II: 4/5 of 60 = 48 units, so y = 48/4 = 12 days. Since 10 < 12, Quantity I < Quantity II.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q038",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "quantity-comparison",
+   "difficulty": 2,
+   "question": "The sum of 8 consecutive even numbers is S1.\nQuantity I - the sum of the 2nd and 8th numbers in S1.\nQuantity II - the sum of the 3rd and 6th numbers in S1.",
+   "options": [
+    "Quantity I > Quantity II",
+    "Quantity I < Quantity II",
+    "Quantity I >= Quantity II",
+    "Quantity I <= Quantity II",
+    "Quantity I = Quantity II or no relation"
+   ],
+   "correct": 0,
+   "explanation": "Let the numbers be x, x+2, ..., x+14. Quantity I = (x+2)+(x+14) = 2x+16. Quantity II = (x+4)+(x+10) = 2x+14. Since 2x+16 is always greater than 2x+14, Quantity I > Quantity II.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q039",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "quantity-comparison",
+   "difficulty": 2,
+   "question": "An article is sold for Rs. 1500 after a discount of 12.5% on the marked price.\nQuantity I - Rs. 550.\nQuantity II - the marked price of the article.",
+   "options": [
+    "Quantity I > Quantity II",
+    "Quantity I < Quantity II",
+    "Quantity I >= Quantity II",
+    "Quantity I <= Quantity II",
+    "Quantity I = Quantity II or no relation"
+   ],
+   "correct": 1,
+   "explanation": "Marked price = 1500 / (7/8) = 1500 x 8/7 = Rs. 12000/7, approximately Rs. 1714.29 (Quantity II), which is far greater than Rs. 550 (Quantity I). So Quantity I < Quantity II.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q040",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "boats-streams",
+   "difficulty": 2,
+   "question": "The speed of a boat in still water is 500% more than the speed of the current.\nQuantity I - 'x': if the boat travels 63 km downstream in 3 hours, this is the speed of the boat upstream (km/hr).\nQuantity II - 15 km/hr.",
+   "options": [
+    "Quantity I > Quantity II",
+    "Quantity I < Quantity II",
+    "Quantity I >= Quantity II",
+    "Quantity I <= Quantity II",
+    "Quantity I = Quantity II or no relation"
+   ],
+   "correct": 4,
+   "explanation": "Boat speed = 6 x current speed (500% more means 6 times). Downstream speed = boat + current = 7 x current = 63/3 = 21 km/hr, so current = 3 km/hr and boat speed = 18 km/hr. Upstream speed = 18 - 3 = 15 km/hr, which equals Quantity II. So Quantity I = Quantity II.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q041",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "number-series",
+   "difficulty": 3,
+   "question": "Find the wrong number in the series: 1, 3, 9, 31, 128, 651, 3913",
+   "options": [
+    "9",
+    "1",
+    "128",
+    "31",
+    "3913"
+   ],
+   "correct": 2,
+   "explanation": "The pattern is term(n+1) = term(n) x (n+1) + (n+2): 1x1+2=3, 3x2+3=9, 9x3+4=31, 31x4+5=129 (not 128), 129x5+6=651, 651x6+7=3913. Since the true 5th term should be 129, the given 128 is the wrong number.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q042",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "number-series",
+   "difficulty": 3,
+   "question": "Find the wrong number in the series: 291, 147, 75, 39, 22, 12, 7.5",
+   "options": [
+    "22",
+    "291",
+    "147",
+    "75",
+    "7.5"
+   ],
+   "correct": 0,
+   "explanation": "The pattern is each term = (previous term)/2 + 1.5: 291/2+1.5=147, 147/2+1.5=75, 75/2+1.5=39, 39/2+1.5=21 (not 22), 21/2+1.5=12, 12/2+1.5=7.5. Since the true 5th term should be 21, the given 22 is the wrong number.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q043",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "number-series",
+   "difficulty": 3,
+   "question": "Find the wrong number in the series: 26, 27, 34, 58, 106, 186, 306",
+   "options": [
+    "26",
+    "34",
+    "58",
+    "106",
+    "27"
+   ],
+   "correct": 4,
+   "explanation": "From the third term onward, the first differences are 24, 48, 80, 120, and their second differences (24, 32, 40) increase by a constant 8 - a clean pattern. Extending this pattern backward shows the second term should equal the first term, 26, not 27, so 27 is the wrong number.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q044",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "number-series",
+   "difficulty": 3,
+   "question": "Find the wrong number in the series: 5.9, 6, 6.1, 6.4, 7.9, 18.5, 112.9",
+   "options": [
+    "6",
+    "5.9",
+    "6.1",
+    "18.5",
+    "112.9"
+   ],
+   "correct": 3,
+   "explanation": "The differences between consecutive terms grow by successive odd multiples of 0.1: +0.1(x1), +0.1(x1), +0.3(x3), +1.5(x5). The next multiplier is x7, giving +10.5, so the 6th term should be 7.9+10.5=18.4, not 18.5. Continuing with x9 gives +94.5, landing on 18.4+94.5=112.9, matching the last given term. So 18.5 is the wrong number (it should be 18.4).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q045",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "number-series",
+   "difficulty": 3,
+   "question": "Find the wrong number in the series: 330, 80, 280, 120, 250, 130, 240",
+   "options": [
+    "330",
+    "130",
+    "280",
+    "240",
+    "80"
+   ],
+   "correct": 1,
+   "explanation": "The series interleaves two patterns: the 1st/3rd/5th/7th terms (330, 280, 250, 240) decrease by 50, 30, 10 - a consistent pattern. The 2nd/4th/6th terms should follow a x1.5 pattern: 80, 120, 180 - but the given 6th term is 130, not 180. So 130 is the wrong number.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q046",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "mensuration",
+   "difficulty": 2,
+   "question": "The sum of the volume of a cylinder (S) and the volume of a cone (C) is 2190(pi) cm cubed, and the height of both the cylinder and the cone is the same, 10 cm. If the radius of the cone is 15 cm, find the ratio of the radius of S to the radius of C.",
+   "options": [
+    "1:2",
+    "3:4",
+    "2:5",
+    "4:5",
+    "3:5"
+   ],
+   "correct": 3,
+   "explanation": "pi*r^2*h + (1/3)*pi*R^2*h = 2190*pi, with h=10 and R=15: 10[r^2 + (1/3)(225)] = 2190 -> r^2 + 75 = 219 -> r^2 = 144 -> r = 12. Ratio r:R = 12:15 = 4:5.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q047",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "probability",
+   "difficulty": 1,
+   "question": "A box contains 6 blue balls, X red balls and 10 green balls. The probability of choosing one red ball from the box is 1/3. Find the sum of the red and blue balls in the box.",
+   "options": [
+    "20",
+    "12",
+    "14",
+    "18",
+    "16"
+   ],
+   "correct": 2,
+   "explanation": "P(red) = X/(X+16) = 1/3 -> 3X = X+16 -> X=8. Red + blue = 8 + 6 = 14.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q048",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "ages",
+   "difficulty": 2,
+   "question": "The sum of A's and B's ages 6 years ago was 88. A's age 18 years ago equals B's age 6 years ago. Find A's age two years hence.",
+   "options": [
+    "58 yrs",
+    "64 yrs",
+    "42 yrs",
+    "52 yrs",
+    "48 yrs"
+   ],
+   "correct": 0,
+   "explanation": "Let present ages be a and b. (a-6)+(b-6)=88 -> a+b=100. a-18=b-6 -> a-b=12. Solving, a=56, b=44. A's age two years hence = 56+2 = 58 years.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q049",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "trains",
+   "difficulty": 2,
+   "question": "Train A of length 120 m crosses a platform of length 240 m in 18 seconds. The ratio of the speeds of Train A and Train B is 4:5. Find the length of Train B if it crosses a pole in 12 seconds.",
+   "options": [
+    "280 m",
+    "300 m",
+    "320 m",
+    "350 m",
+    "240 m"
+   ],
+   "correct": 1,
+   "explanation": "Speed of A = (120+240)/18 = 20 m/s. Speed of B = 20 x 5/4 = 25 m/s. Length of B = speed x time (crossing a pole) = 25 x 12 = 300 m.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q050",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "permutation-combination",
+   "difficulty": 2,
+   "question": "What is the probability of forming a word from the letters of the word 'IMPEACH' such that all the vowels come together?",
+   "options": [
+    "8/35",
+    "1/7",
+    "3/35",
+    "17/35",
+    "2/7"
+   ],
+   "correct": 1,
+   "explanation": "IMPEACH has 7 letters with 3 vowels (I, E, A). Treating the vowels as one block gives 5 units, arranged in 5! ways, with the vowels internally arranged in 3! ways. Probability = (5! x 3!)/7! = 720/5040 = 1/7.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q051",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "simplification-approximation",
+   "difficulty": 1,
+   "question": "2 raised to the power (?) = 32.01 / 128.01 x 1023.99 / 7.99",
+   "options": [
+    "7",
+    "3",
+    "4",
+    "5",
+    "8"
+   ],
+   "correct": 3,
+   "explanation": "Approximating: 2^? = 32/128 x 1024/8 = 32 = 2^5, so ? = 5.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q052",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "simplification-approximation",
+   "difficulty": 1,
+   "question": "339.99 / (?) = square root of 143.99 + square root of 64.01",
+   "options": [
+    "17",
+    "20",
+    "10",
+    "34",
+    "40"
+   ],
+   "correct": 0,
+   "explanation": "Approximating: 340/? = 12+8 = 20, so ? = 340/20 = 17.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q053",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "simplification-approximation",
+   "difficulty": 2,
+   "question": "34.02% of 550.09 divided by (?) = 297.07 divided by square root of 728.95",
+   "options": [
+    "14",
+    "21",
+    "8",
+    "27",
+    "17"
+   ],
+   "correct": 4,
+   "explanation": "Approximating: 34% of 550 = 187; 297/sqrt(729) = 297/27 = 11. So 187/? = 11, giving ? = 17.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q054",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "simplification-approximation",
+   "difficulty": 2,
+   "question": "((?) divided by 9.97) x 12.08 = 20.12% of 1319.97",
+   "options": [
+    "220",
+    "240",
+    "260",
+    "280",
+    "200"
+   ],
+   "correct": 0,
+   "explanation": "Approximating: (?/10) x 12 = 20% of 1320 = 264, so ? = 264 x 10/12 = 220.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q055",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "simplification-approximation",
+   "difficulty": 2,
+   "question": "(?)% of 179.99 = square root of [(24.02) squared + (17.98) squared + 60.01% of 659.98]",
+   "options": [
+    "80",
+    "60",
+    "40",
+    "20",
+    "10"
+   ],
+   "correct": 3,
+   "explanation": "Approximating: ?% x 180 = sqrt(24^2 + 18^2 + 60% of 660) = sqrt(576+324+396) = sqrt(1296) = 36, so ? = 36/180 x 100 = 20.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q056",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre18-set8",
+   "question": "Find the ratio of the total number of workers in companies A and C together to the total number of officers in companies A and C together.",
+   "options": [
+    "16:1",
+    "12:1",
+    "14:1",
+    "18:1",
+    "20:1"
+   ],
+   "correct": 2,
+   "explanation": "Workers: A = 900x32% = 288, C = 900x24% = 216; together = 504. Officers: A = 288/16 = 18, C = 216/12 = 18; together = 36. Ratio = 504:36 = 14:1.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q057",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre18-set8",
+   "question": "The total number of employees in company B is how much more than the total number of employees in company C?",
+   "options": [
+    "174",
+    "194",
+    "204",
+    "214",
+    "184"
+   ],
+   "correct": 4,
+   "explanation": "Workers B = 900x44% = 396, officers B = 396/18 = 22, employees B = 418. Workers C = 216, officers C = 18, employees C = 234. Difference = 418-234 = 184.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q058",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre18-set8",
+   "question": "The total number of officers in company A is how much less than the total number of officers in company B?",
+   "options": [
+    "4",
+    "2",
+    "0",
+    "6",
+    "8"
+   ],
+   "correct": 0,
+   "explanation": "Officers A = 288/16 = 18. Officers B = 396/18 = 22. Difference = 22-18 = 4.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q059",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre18-set8",
+   "question": "The total number of officers and workers in company D are 50% and 25% more, respectively, than the total number of officers and workers in company C. Find the total number of employees in company D.",
+   "options": [
+    "279",
+    "297",
+    "342",
+    "324",
+    "306"
+   ],
+   "correct": 1,
+   "explanation": "Officers D = 18x1.5 = 27. Workers D = 216x1.25 = 270. Total employees D = 27+270 = 297.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q060",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "data-interpretation",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre18-set8",
+   "question": "Find the difference between the total number of workers in company A and the total number of workers in companies B and C together.",
+   "options": [
+    "432",
+    "396",
+    "360",
+    "324",
+    "288"
+   ],
+   "correct": 3,
+   "explanation": "Workers A = 288. Workers B+C = 396+216 = 612. Difference = 612-288 = 324.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q061",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "partnership",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre18-set9",
+   "question": "What is the ratio of B's total profit to C's profit from scheme S1?",
+   "options": [
+    "23:47",
+    "54:47",
+    "36:43",
+    "23:50",
+    "27:50"
+   ],
+   "correct": 3,
+   "explanation": "S1 profit ratio A:B:C = (80000x2):(30000x3):(50000x5) = 16:9:25, so on a total of Rs. 2,00,000, A gets 64000, B gets 36000, C gets 100000. B's total profit = his S1 share (36000) plus his one-time car-sale profit (10000) = 46000. Ratio to C's S1 profit = 46000:100000 = 23:50.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q062",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "partnership",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre18-set9",
+   "question": "A's profit from scheme S1 is what percent of C's profit from scheme S2?",
+   "options": [
+    "346 7/9 %",
+    "347 8/9 %",
+    "356 7/9 %",
+    "345 4/9 %",
+    "355 5/9 %"
+   ],
+   "correct": 4,
+   "explanation": "S2 profit ratio A:C = (30000x4):(10000x3) = 4:1, so on a total of Rs. 90,000, A gets 72000 and C gets 18000. A's S1 profit is 64000 (see the ratio 16:9:25 on Rs. 2,00,000). Required % = 64000/18000 x 100 = 3200/9 = 355 5/9%.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q063",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "simple-compound-interest",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre18-set9",
+   "question": "If the sum of A's investment in both schemes and his total profit from both schemes is invested at compound interest at 20% p.a., find the total compound interest earned in 2 years.",
+   "options": [
+    "108240",
+    "104206",
+    "105208",
+    "109280",
+    "106220"
+   ],
+   "correct": 0,
+   "explanation": "A's total investment = 80000+30000 = 110000. A's total profit = 64000+72000 = 136000. Principal = 110000+136000 = 246000. Effective 2-year CI rate at 20% p.a. = 20+20+(20x20/100) = 44%. CI = 44% of 246000 = 108240.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q064",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "averages",
+   "difficulty": 1,
+   "setId": "pyq-sbipo-pre18-set9",
+   "question": "What is the average of A's profit from scheme S1 and C's profit from scheme S2?",
+   "options": [
+    "41000",
+    "42000",
+    "44000",
+    "55000",
+    "40000"
+   ],
+   "correct": 0,
+   "explanation": "A's S1 profit = 64000, C's S2 profit = 18000. Average = (64000+18000)/2 = 41000.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q065",
+   "stage": "prelims",
+   "section": "quant",
+   "topic": "simple-compound-interest",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre18-set9",
+   "question": "If A had invested his S1 sum (Rs. 80,000) at simple interest for 3 years at R% p.a. instead, and B invested his sum (Rs. 30,000) at compound interest at (R+5)% p.a. for 1 year, and the difference in interest earned is Rs. 30,000, find R.",
+   "options": [
+    "10%",
+    "9%",
+    "15%",
+    "18%",
+    "12%"
+   ],
+   "correct": 2,
+   "explanation": "SI for A = 80000xRx3/100 = 2400R. CI for B over 1 year equals simple interest for 1 year = 30000x(R+5)/100 = 300R+1500. Difference: 2400R-(300R+1500)=30000 -> 2100R=31500 -> R=15%.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q066",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "phrase-replacement",
+   "difficulty": 2,
+   "question": "Nobody can deny the fact that Indian economy is very different than American economy. (bold part: 'is very different than')",
+   "options": [
+    "are very different than",
+    "is so much different than",
+    "are very different from",
+    "is very different from",
+    "No replacement required"
+   ],
+   "correct": 3,
+   "explanation": "'Different' should be followed by 'from', not 'than' (the 'than' usage applies only when 'different' is directly followed by a noun phrase, e.g. 'a different novel than this'). The singular subject 'Indian economy' correctly takes 'is'. So 'is very different from' is right.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q067",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "phrase-replacement",
+   "difficulty": 2,
+   "question": "Accurate statistics with regards to the area occupied in different forms of cultivation are difficult to obtain. (bold part: 'statistics with regards to')",
+   "options": [
+    "statistic with regards to",
+    "statistics with regard to",
+    "statistic with regard to",
+    "statistics in regards to",
+    "No replacement required"
+   ],
+   "correct": 1,
+   "explanation": "The correct idiom is 'with regard to' (singular 'regard'), and 'statistics' here denotes data (not the discipline), correctly taking the plural verb 'are'. So 'statistics with regard to' is correct.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q068",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "phrase-replacement",
+   "difficulty": 1,
+   "question": "Seldom if ever was there any training or instructions in such tactics for either the tank crews or the infantry formations. (bold part: 'Seldom if ever')",
+   "options": [
+    "Seldom or never",
+    "Seldom if never",
+    "Seldom or ever",
+    "Seldom has ever",
+    "No replacement required"
+   ],
+   "correct": 4,
+   "explanation": "'Seldom if ever' is an established, correct idiomatic phrase meaning 'rarely, if at all' - no replacement is needed.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q069",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "phrase-replacement",
+   "difficulty": 2,
+   "question": "As soon as I opened the front door of my house, than I smelled the distinctive aroma of fresh coffee. (bold part: 'than I smelled')",
+   "options": [
+    "then I smelled",
+    "that I smelled",
+    "I smelled",
+    "I smell",
+    "No replacement required"
+   ],
+   "correct": 2,
+   "explanation": "'As soon as' should not be followed by 'than' or 'then' - the clause simply continues with subject and verb: '...house, I smelled the distinctive aroma...'.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q070",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "phrase-replacement",
+   "difficulty": 2,
+   "question": "Although he had fewer supporters among the governing class, but he was able to get the popular vote. (bold part: 'but he was able')",
+   "options": [
+    "he was able",
+    "and he was able",
+    "else he was able",
+    "or he was able",
+    "No replacement required"
+   ],
+   "correct": 0,
+   "explanation": "'Although/Though' is never paired with 'but' in the same sentence - the second clause simply follows (often after a comma), so it should read '...governing class, he was able to get the popular vote.'",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q071",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "phrase-replacement",
+   "difficulty": 2,
+   "question": "The party explicitly denies that they are not involved in mainstream politics. (bold part: 'denies that they are not')",
+   "options": [
+    "denied that they are not",
+    "denies that they were",
+    "denied that they are",
+    "deny that they are not",
+    "No replacement required"
+   ],
+   "correct": 2,
+   "explanation": "'Deny' already means 'to refuse to admit', so adding 'not' creates a double negative that reverses the intended meaning; the correct form is 'denies that they are' (without 'not').",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q072",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "phrase-replacement",
+   "difficulty": 1,
+   "question": "I would rather be a poor man in a garret with plenty of good books to read than a king who did not loved reading. (bold part: 'who did not loved')",
+   "options": [
+    "who do not loved",
+    "who did not love",
+    "whom did not loved",
+    "whom did not love",
+    "No replacement required"
+   ],
+   "correct": 1,
+   "explanation": "After the auxiliary 'did', the verb must be in its base (first) form - 'love', not 'loved'. So 'who did not love' is correct.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q073",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "phrase-replacement",
+   "difficulty": 2,
+   "question": "The relatively static lattice in a diamond ensures that the scattering is at a minimum and the thermal conductivity is exceptional good. (bold part: 'is exceptional good')",
+   "options": [
+    "are exceptional",
+    "was exceptional",
+    "are exceptionally",
+    "is exceptionally",
+    "No replacement required"
+   ],
+   "correct": 3,
+   "explanation": "'Good' is an adjective and cannot be modified by another adjective ('exceptional'); it needs the adverb 'exceptionally'. The singular subject 'thermal conductivity' correctly takes 'is'. So 'is exceptionally good' is right.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q074",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "sentence-connectors",
+   "difficulty": 2,
+   "question": "We see ourselves repeating our ordinary routine. We realize how much wealth surrounds our life.\n(i) When we see ourselves ...\n(ii) Our ordinary routine ...\n(iii) Realizing how much wealth ...",
+   "options": [
+    "Only (i)",
+    "Both (ii) and (iii)",
+    "Only (iii)",
+    "Only (ii)",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "Only opening (i) reads smoothly when completed: 'When we see ourselves repeating our ordinary routine, we realize how much wealth surrounds our life.' Completions built from (ii) or (iii) produce awkward, illogical constructions.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q075",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "sentence-connectors",
+   "difficulty": 2,
+   "question": "There is a growing influence of the Indian Diaspora on Capitol Hill. Trump will certainly see the advantages of doing business with India.\n(i) As there is a growing influence of ...\n(ii) The growing influence of the Indian ...\n(iii) With the growing influence of the Indian ...",
+   "options": [
+    "Only (i) is correct",
+    "Only (iii) is correct",
+    "Both (i) and (ii) are correct",
+    "Both (i) and (iii) are correct",
+    "All are correct"
+   ],
+   "correct": 4,
+   "explanation": "All three openings work: (i) 'As there is a growing influence of the Indian Diaspora on Capitol Hill, Trump will certainly see the advantages...'; (ii) 'The growing influence of the Indian Diaspora on Capitol Hill will certainly allow Trump to see the advantages...'; (iii) 'With the growing influence of the Indian Diaspora on Capitol Hill, Trump will certainly see the advantages...' - each forms a grammatically correct, meaningful sentence.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q076",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "sentence-connectors",
+   "difficulty": 2,
+   "question": "There was no democracy in British India. The rulers could take bold decisions fearlessly without bothering about repercussions.\n(i) As there was no democracy in British India ...\n(ii) Since there was no democracy in British ...\n(iii) With the rulers taking bold decisions ...",
+   "options": [
+    "Only (i) is correct",
+    "Only (ii) is correct",
+    "Both (i) and (ii) are correct",
+    "Both (ii) and (iii) are correct",
+    "All are correct"
+   ],
+   "correct": 2,
+   "explanation": "Both 'As there was no democracy in British India, the rulers could take bold decisions fearlessly...' and 'Since there was no democracy in British India, the rulers could take bold decisions fearlessly...' read correctly, since 'as' and 'since' both work as cause connectors here; opening (iii) does not combine the two ideas coherently.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q077",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "sentence-connectors",
+   "difficulty": 2,
+   "question": "Twelve million youth enter the Indian work force every year. Eighty per cent of these youth are unskilled.\n(i) While eighty per cent ...\n(ii) Since twelve million ...\n(iii) Of the twelve million ...",
+   "options": [
+    "Only (i)",
+    "Only (iii)",
+    "Only (i) and (iii)",
+    "All (i), (ii) and (iii)",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "'Of the twelve million youth entering the Indian workforce every year, eighty per cent are unskilled' (opening iii) combines the two sentences smoothly. Opening (i) is wrong because 'while' signals a contrast, which does not fit here (and the required construction cannot start the sentence with 'while'); opening (ii) creates an awkward, illogical cause-effect link.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q078",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "sentence-connectors",
+   "difficulty": 2,
+   "question": "Scientists build climate models - computer simulations of the climate system. They are doing this to further explore the causes and effects of global warming.\n(i) To further explore ...\n(ii) Scientists are building ...\n(iii) Predicting effects of global warming ...",
+   "options": [
+    "Only (i) is correct",
+    "Only (ii) is correct",
+    "Only (iii) is correct",
+    "Both (i) and (ii) are correct",
+    "All are correct"
+   ],
+   "correct": 3,
+   "explanation": "Both (i) 'To further explore the causes and effects of global warming, scientists build climate models - computer simulations of the climate system' and (ii) 'Scientists are building climate models - computer simulations of the climate system - to further explore the causes and effects of global warming and to predict future warming' form grammatically correct, meaningful sentences; (iii) does not combine the ideas coherently.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q079",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "para-jumbles",
+   "difficulty": 2,
+   "question": "Rearrange the four lettered parts (a)-(d) after the fixed opening to form a correct sentence: 'The apex court had ordered that the / of the biometric scheme and the enabling law (a) / deadline be extended till the five-judge constitution (b) / on petitions challenging the validity (c) / bench delivers its judgment (d)'",
+   "options": [
+    "ACDB",
+    "BCAD",
+    "BDCA",
+    "CADB",
+    "None of the above"
+   ],
+   "correct": 1,
+   "explanation": "The correct order BCAD reconstructs: 'The apex court had ordered that the deadline be extended till the five-judge constitution bench delivers its judgment on petitions challenging the validity of the biometric scheme and the enabling law.'",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q080",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "para-jumbles",
+   "difficulty": 2,
+   "question": "Rearrange the four lettered parts (a)-(d) after the fixed opening to form a correct sentence: 'Repealing the law that safeguards / the floodgates of poaching (a) / and it would lead to (b) / marginalisation of the indigenous people (c) / the indigenous people would open (d)'",
+   "options": [
+    "DCBA",
+    "DABC",
+    "ACBD",
+    "BACD",
+    "None of the above"
+   ],
+   "correct": 1,
+   "explanation": "The correct order DABC reconstructs: 'Repealing the law that safeguards the indigenous people would open the floodgates of poaching and it would lead to marginalisation of the indigenous people.'",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q081",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "para-jumbles",
+   "difficulty": 2,
+   "question": "Rearrange the four lettered parts (a)-(d) after the fixed opening to form a correct sentence: 'My thoughts are with the families / in this unfortunate accident (a) / recovery of the injured (b) / of those who have lost their loved ones (c) / I pray for the speedy (d)'",
+   "options": [
+    "BCAD",
+    "DACB",
+    "ACBD",
+    "CADB",
+    "None of the above"
+   ],
+   "correct": 3,
+   "explanation": "The correct order CADB reconstructs: 'My thoughts are with the families of those who have lost their loved ones in this unfortunate accident. I pray for the speedy recovery of the injured.'",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q082",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "para-jumbles",
+   "difficulty": 2,
+   "question": "Rearrange the four lettered parts (a)-(d) after the fixed opening to form a correct sentence: 'Several people became leaders / remained where they were (a) / and Ministers after that (b) / rally but the people (c) / belonging to the community (d)'",
+   "options": [
+    "ABCD",
+    "BCDA",
+    "CABD",
+    "DACB",
+    "None of the above"
+   ],
+   "correct": 1,
+   "explanation": "The correct order BCDA reconstructs: 'Several people became leaders and Ministers after that rally but the people belonging to the community remained where they were.'",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q083",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "para-jumbles",
+   "difficulty": 2,
+   "question": "Rearrange the four lettered parts (a)-(d) after the fixed opening to form a correct sentence: 'He also directed the department / to develop the new schools as model (a) / completion of construction work (b) / construction technology for early (c) / institutions and engage modern (d)'",
+   "options": [
+    "ADCB",
+    "ABCD",
+    "DACB",
+    "CADB",
+    "None of the above"
+   ],
+   "correct": 0,
+   "explanation": "The correct order ADCB reconstructs: 'He also directed the department to develop the new schools as model institutions and engage modern construction technology for early completion of construction work.'",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q084",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "para-jumbles",
+   "difficulty": 2,
+   "question": "Rearrange the four lettered parts (a)-(d) after the fixed opening to form a correct sentence: 'The U.S. is a / to its being an open society (a) / nation of immigrants (b) / in the present global order (c) / and owes its predominant position (d)'",
+   "options": [
+    "ADCB",
+    "ABCD",
+    "BDCA",
+    "CADB",
+    "None of the above"
+   ],
+   "correct": 2,
+   "explanation": "The correct order BDCA reconstructs: 'The U.S. is a nation of immigrants and owes its predominant position in the present global order to its being an open society.'",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q085",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "vocabulary",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre18-set10",
+   "question": "Choose the word which is MOST SIMILAR to the word given in the passage: UNKNOWN",
+   "options": [
+    "Recognize",
+    "Perceived",
+    "Unpredictable",
+    "Unruly",
+    "Uncanny"
+   ],
+   "correct": 4,
+   "explanation": "In context ('unknown future returns'), 'unknown' means not known or familiar. Among the given choices the book's key treats 'uncanny' (strange, mysterious, hard to account for) as the closest match.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q086",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre18-set10",
+   "question": "Which of the following is the most suitable title for the passage above?",
+   "options": [
+    "Recession and Recovery",
+    "Consumer: The driving force for Economy",
+    "Economy: a Distant Dream?",
+    "Is Consumption necessary for economic Growth?",
+    "None of the Above"
+   ],
+   "correct": 3,
+   "explanation": "The passage's central argument is that consumption is often wrongly credited as the 'engine' of growth, when savings and investment are what truly drive it - making 'Is Consumption necessary for economic Growth?' the fitting title.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q087",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 3,
+   "setId": "pyq-sbipo-pre18-set10",
+   "question": "In the statement 'consumer preferences would surely be the steering wheel, but real savings and investment would be the engine that drives it forward', what can we infer from the line 'consumer preferences would surely be the steering wheel'?",
+   "options": [
+    "Consumer likings regulate the economy individually.",
+    "If you want to regulate the economy, consumption is the only force.",
+    "The penchant of the consumers controls the economy.",
+    "The consumer preferences are not at par with savings and economy in driving the economy.",
+    "None of the Above"
+   ],
+   "correct": 2,
+   "explanation": "A steering wheel determines direction/control, not propulsion - so consumer preferences 'control' (steer) the economy's direction, while the actual driving force behind growth is savings and investment (the engine), matching option (c).",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q088",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "reading-comprehension",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre18-set10",
+   "question": "Which of the following is/are likely to induce businesses to hire?",
+   "options": [
+    "Consumer Demand",
+    "Consumer Spending",
+    "Increased certainty in future returns.",
+    "Makeshift policies",
+    "Both (b) and (c)"
+   ],
+   "correct": 2,
+   "explanation": "The passage states that 'increased uncertainty can depress job growth even in the face of booming consumption', implying the reverse: increased certainty in future returns would encourage businesses to hire.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q089",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "vocabulary",
+   "difficulty": 2,
+   "setId": "pyq-sbipo-pre18-set10",
+   "question": "Choose the word which is MOST OPPOSITE to the word given in the passage: ANALOGY",
+   "options": [
+    "Similarity",
+    "Narrative",
+    "Contrast",
+    "Reciprocate",
+    "Variance"
+   ],
+   "correct": 4,
+   "explanation": "'Analogy' means a comparison highlighting similarity between two things; the book's key treats 'variance' (the quality of being different, divergent or inconsistent) as its precise opposite among the given choices.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q090",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "match-the-columns",
+   "difficulty": 2,
+   "question": "Match the columns to form a grammatically and contextually correct sentence.\nColumn 1: (A) As the head of the family, he ensures that / (B) Ravi is such a disorganized fellow that / (C) The boy next door nags his parents because\nColumn 2: (D) he runs around like a headless chicken / (E) he succeeds to make everyone laugh / (F) he goes out and earns a living for his family",
+   "options": [
+    "C-E and B-F",
+    "A-F",
+    "B-E",
+    "A-D",
+    "None of these"
+   ],
+   "correct": 1,
+   "explanation": "A-F combines correctly: 'As the head of the family, he ensures that he goes out and earns a living for his family.' No other pairing forms a coherent sentence.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q091",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "match-the-columns",
+   "difficulty": 2,
+   "question": "Match the columns to form a grammatically and contextually correct sentence.\nColumn 1: (A) Some rich guy from Boston / (B) People tend to raise their voices when they / (C) As soon as the herd heard the gunshots, they\nColumn 2: (D) are losing an argument / (E) all were fatally injured / (F) just bought the house next to mine",
+   "options": [
+    "C-F",
+    "A-D",
+    "B-E",
+    "B-D",
+    "None of these"
+   ],
+   "correct": 3,
+   "explanation": "B-D combines correctly: 'People tend to raise their voices when they are losing an argument.'",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q092",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "match-the-columns",
+   "difficulty": 2,
+   "question": "Match the columns to form a grammatically and contextually correct sentence.\nColumn 1: (A) Tom always drinks at least / (B) If he had taken his doctor's advice / (C) I can still remember the time when\nColumn 2: (D) he might still be alive. / (E) we went on a picnic together. / (F) three cups of coffee in the morning.",
+   "options": [
+    "C-E",
+    "B-F",
+    "A-D",
+    "C-F",
+    "None of these"
+   ],
+   "correct": 0,
+   "explanation": "C-E combines correctly: 'I can still remember the time when we went on a picnic together.'",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q093",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "match-the-columns",
+   "difficulty": 3,
+   "question": "Match the columns to form a grammatically and contextually correct sentence.\nColumn 1: (A) It seems like yesterday, but it's actually / (B) I can't believe Vijay is still talking about / (C) The only thing that really matters is\nColumn 2: (D) whether or not you are happy. / (E) nearly ten years since we first met. / (F) what happens two years ago.",
+   "options": [
+    "A-D",
+    "B-E",
+    "C-E",
+    "A-F",
+    "None of these"
+   ],
+   "correct": 4,
+   "explanation": "None of the listed pairings forms a fully correct sentence - for instance B-F ('I can't believe Vijay is still talking about what happens two years ago') has a tense mismatch ('happens' should be 'happened') - so 'None of these' is correct.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  },
+  {
+   "id": "pyq-sbipo-pre18-q094",
+   "stage": "prelims",
+   "section": "english",
+   "topic": "match-the-columns",
+   "difficulty": 2,
+   "question": "Match the columns to form a grammatically and contextually correct sentence (more than one pairing may work).\nColumn 1: (A) After school, Jack usually sticks around as long as / (B) We're planning on doing the sights / (C) Even the repairman couldn't figure out what\nColumn 2: (D) had gone wrong with the microwave. / (E) he can because he doesn't want to go home. / (F) of the city tomorrow morning.",
+   "options": [
+    "A-F and B-D",
+    "B-E and C-F",
+    "B-F and C-D",
+    "A-D and C-E",
+    "None of these"
+   ],
+   "correct": 2,
+   "explanation": "Both B-F ('We're planning on doing the sights of the city tomorrow morning') and C-D ('Even the repairman couldn't figure out what had gone wrong with the microwave') are correct combinations.",
+   "source": {
+    "kind": "pyq",
+    "ref": "SBI PO Prelims 2018 (memory-based, 50+ Papers book)",
+    "year": 2018
+   },
+   "tags": [
+    "pyq"
+   ]
+  }
+ ],
+ "paper": {
+  "id": "sbi-po-pre-2018",
+  "name": "SBI PO Prelims 2018 (partial)",
+  "exam": "sbi-po",
+  "stage": "prelims",
+  "year": 2018,
+  "sections": [
+   {
+    "name": "Reasoning Ability",
+    "pool": "reasoning",
+    "minutes": 20,
+    "marksPerQuestion": 1,
+    "questionIds": [
+     "pyq-sbipo-pre18-q001",
+     "pyq-sbipo-pre18-q002",
+     "pyq-sbipo-pre18-q003",
+     "pyq-sbipo-pre18-q004",
+     "pyq-sbipo-pre18-q005",
+     "pyq-sbipo-pre18-q006",
+     "pyq-sbipo-pre18-q007",
+     "pyq-sbipo-pre18-q008",
+     "pyq-sbipo-pre18-q009",
+     "pyq-sbipo-pre18-q010",
+     "pyq-sbipo-pre18-q011",
+     "pyq-sbipo-pre18-q012",
+     "pyq-sbipo-pre18-q013",
+     "pyq-sbipo-pre18-q014",
+     "pyq-sbipo-pre18-q015",
+     "pyq-sbipo-pre18-q016",
+     "pyq-sbipo-pre18-q017",
+     "pyq-sbipo-pre18-q018",
+     "pyq-sbipo-pre18-q019",
+     "pyq-sbipo-pre18-q020",
+     "pyq-sbipo-pre18-q021",
+     "pyq-sbipo-pre18-q022",
+     "pyq-sbipo-pre18-q023",
+     "pyq-sbipo-pre18-q024",
+     "pyq-sbipo-pre18-q025",
+     "pyq-sbipo-pre18-q026",
+     "pyq-sbipo-pre18-q027",
+     "pyq-sbipo-pre18-q028",
+     "pyq-sbipo-pre18-q029",
+     "pyq-sbipo-pre18-q030"
+    ]
+   },
+   {
+    "name": "Quantitative Aptitude",
+    "pool": "quant",
+    "minutes": 20,
+    "marksPerQuestion": 1,
+    "questionIds": [
+     "pyq-sbipo-pre18-q031",
+     "pyq-sbipo-pre18-q032",
+     "pyq-sbipo-pre18-q033",
+     "pyq-sbipo-pre18-q034",
+     "pyq-sbipo-pre18-q035",
+     "pyq-sbipo-pre18-q036",
+     "pyq-sbipo-pre18-q037",
+     "pyq-sbipo-pre18-q038",
+     "pyq-sbipo-pre18-q039",
+     "pyq-sbipo-pre18-q040",
+     "pyq-sbipo-pre18-q041",
+     "pyq-sbipo-pre18-q042",
+     "pyq-sbipo-pre18-q043",
+     "pyq-sbipo-pre18-q044",
+     "pyq-sbipo-pre18-q045",
+     "pyq-sbipo-pre18-q046",
+     "pyq-sbipo-pre18-q047",
+     "pyq-sbipo-pre18-q048",
+     "pyq-sbipo-pre18-q049",
+     "pyq-sbipo-pre18-q050",
+     "pyq-sbipo-pre18-q051",
+     "pyq-sbipo-pre18-q052",
+     "pyq-sbipo-pre18-q053",
+     "pyq-sbipo-pre18-q054",
+     "pyq-sbipo-pre18-q055",
+     "pyq-sbipo-pre18-q056",
+     "pyq-sbipo-pre18-q057",
+     "pyq-sbipo-pre18-q058",
+     "pyq-sbipo-pre18-q059",
+     "pyq-sbipo-pre18-q060",
+     "pyq-sbipo-pre18-q061",
+     "pyq-sbipo-pre18-q062",
+     "pyq-sbipo-pre18-q063",
+     "pyq-sbipo-pre18-q064",
+     "pyq-sbipo-pre18-q065"
+    ]
+   },
+   {
+    "name": "English Language",
+    "pool": "english",
+    "minutes": 20,
+    "marksPerQuestion": 1,
+    "questionIds": [
+     "pyq-sbipo-pre18-q066",
+     "pyq-sbipo-pre18-q067",
+     "pyq-sbipo-pre18-q068",
+     "pyq-sbipo-pre18-q069",
+     "pyq-sbipo-pre18-q070",
+     "pyq-sbipo-pre18-q071",
+     "pyq-sbipo-pre18-q072",
+     "pyq-sbipo-pre18-q073",
+     "pyq-sbipo-pre18-q074",
+     "pyq-sbipo-pre18-q075",
+     "pyq-sbipo-pre18-q076",
+     "pyq-sbipo-pre18-q077",
+     "pyq-sbipo-pre18-q078",
+     "pyq-sbipo-pre18-q079",
+     "pyq-sbipo-pre18-q080",
+     "pyq-sbipo-pre18-q081",
+     "pyq-sbipo-pre18-q082",
+     "pyq-sbipo-pre18-q083",
+     "pyq-sbipo-pre18-q084",
+     "pyq-sbipo-pre18-q085",
+     "pyq-sbipo-pre18-q086",
+     "pyq-sbipo-pre18-q087",
+     "pyq-sbipo-pre18-q088",
+     "pyq-sbipo-pre18-q089",
+     "pyq-sbipo-pre18-q090",
+     "pyq-sbipo-pre18-q091",
+     "pyq-sbipo-pre18-q092",
+     "pyq-sbipo-pre18-q093",
+     "pyq-sbipo-pre18-q094"
+    ]
+   }
+  ]
+ }
+}

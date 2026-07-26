@@ -1,0 +1,476 @@
+{
+  "title": "Mixed Mini-Mock 2",
+  "section": "mixed",
+  "kind": "quiz",
+  "source": "mini-mock-2.md",
+  "questions": [
+    {
+      "id": "mini-mock-2-q001",
+      "subject": "english",
+      "question": "Spot the error. \"The committee have decided (A)/ to postpone the meeting (B)/ until the chairman returns (C)/ from his official tour. (D)/ No error (E)\"",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "correct": 0,
+      "solution": "\"Committee\" here acts as a single unit, so it takes a singular verb: \"has decided,\" not \"have decided.\"",
+      "trick": "Collective nouns (committee, jury, team, government) take a singular verb when the group acts as one body; only use a plural verb when members act individually."
+    },
+    {
+      "id": "mini-mock-2-q002",
+      "subject": "reasoning",
+      "question": "Statements: All pens are pencils. All pencils are erasers.\nConclusions: I. All pens are erasers. II. Some erasers are pens.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both I and II follow",
+        "Neither follows",
+        "Either I or II follows"
+      ],
+      "correct": 2,
+      "solution": "All pens → pencils → erasers, so \"All pens are erasers\" (I) is valid. Since all pens are erasers, \"Some erasers are pens\" (II) is the valid converse.",
+      "trick": "A-type + A-type in a chain gives an A-type conclusion; any universal (\"all X are Y\") automatically yields the particular converse \"some Y are X.\""
+    },
+    {
+      "id": "mini-mock-2-q003",
+      "subject": "quant",
+      "question": "45% of 240 + 30% of 150 = ?",
+      "options": [
+        "143",
+        "153",
+        "163",
+        "150",
+        "158"
+      ],
+      "correct": 1,
+      "solution": "45% of 240 = 108; 30% of 150 = 45; 108 + 45 = 153.",
+      "trick": "45% of 240 = 240 × 0.45 = 108 fast if you read it as \"half of 240 minus 5% of 240\" = 120 − 12 = 108."
+    },
+    {
+      "id": "mini-mock-2-q004",
+      "subject": "english",
+      "question": "Despite the ______ evidence against him, the accused remained ______ throughout the trial.",
+      "options": [
+        "damning / composed",
+        "flimsy / anxious",
+        "overwhelming / agitated",
+        "scanty / calm",
+        "mounting / nervous"
+      ],
+      "correct": 0,
+      "solution": "\"Despite\" signals contrast: strong (damning) evidence, yet the accused stayed calm (composed). Options (c) and (e) pair a strong first word with a *matching* reaction, breaking the required contrast.",
+      "trick": "With \"Despite/In spite of,\" the two blanks must pull in opposite directions."
+    },
+    {
+      "id": "mini-mock-2-q005",
+      "subject": "quant",
+      "question": "Find the next term: 5, 6, 10, 19, 35, ?",
+      "options": [
+        "55",
+        "58",
+        "60",
+        "61",
+        "56"
+      ],
+      "correct": 2,
+      "solution": "Differences are perfect squares: +1, +4, +9, +16, so next is +25 → 35 + 25 = 60.",
+      "trick": "When gaps grow fast, test the difference pattern for 1², 2², 3², 4²..."
+    },
+    {
+      "id": "mini-mock-2-q006",
+      "subject": "reasoning",
+      "question": "Given P ≥ Q > R = S ≥ T, which relation is definitely true?",
+      "options": [
+        "P > T",
+        "P < T",
+        "P = T",
+        "T ≥ Q",
+        "R > P"
+      ],
+      "correct": 0,
+      "solution": "Chain: P ≥ Q > R = S ≥ T. The strict \">\" between Q and R forces Q > T, and P ≥ Q, so P > T.",
+      "trick": "A relation is strict end-to-end only if at least one \">\" (or \"<\") lies on the path between the two variables; \"≥\" links alone would give \"≥.\""
+    },
+    {
+      "id": "mini-mock-2-q007",
+      "subject": "english",
+      "question": "The idiom \"to beat around the bush\" means:",
+      "options": [
+        "to work very hard",
+        "to avoid the main topic",
+        "to destroy something",
+        "to search everywhere",
+        "to win easily"
+      ],
+      "correct": 1,
+      "solution": "\"Beat around the bush\" = to speak evasively instead of coming to the point.",
+      "trick": "Memorise it as the opposite of \"get straight to the point.\""
+    },
+    {
+      "id": "mini-mock-2-q008",
+      "group": "Seating set",
+      "subject": "reasoning",
+      "context": "Seven friends — P, Q, R, S, T, U, V — sit in a row facing north.\n- R sits third from the left end.\n- P sits at one of the extreme ends.\n- Q sits immediately to the right of R.\n- Two people sit between Q and S.\n- T sits immediately to the left of P.\n- U is not at any extreme end.\n- V sits immediately to the right of S.",
+      "question": "Who sits at the extreme left end?",
+      "options": [
+        "P",
+        "S",
+        "V",
+        "R",
+        "U"
+      ],
+      "correct": 1,
+      "solution": "R is 3rd from left → position 3. Q immediately right of R → 4. T immediately left of P and P at an extreme end: P can't be position 1 (no seat to its left), so P = 7, T = 6. \"Two people between Q(4) and S\" with S = 7 clashes with P, so S = 1 (positions 2,3 lie between). V immediately right of S → V = 2. That leaves U at 5 (non-extreme, satisfied). Final row: **S, V, R, Q, U, T, P** (positions 1-7).\n\nExtreme left = position 1 = S.",
+      "trick": "Anchor the fixed position (R at 3) first, then the \"immediately right/left\" clues cascade."
+    },
+    {
+      "id": "mini-mock-2-q009",
+      "group": "Seating set",
+      "subject": "reasoning",
+      "context": "Seven friends — P, Q, R, S, T, U, V — sit in a row facing north.\n- R sits third from the left end.\n- P sits at one of the extreme ends.\n- Q sits immediately to the right of R.\n- Two people sit between Q and S.\n- T sits immediately to the left of P.\n- U is not at any extreme end.\n- V sits immediately to the right of S.",
+      "question": "How many people sit between R and T?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "None"
+      ],
+      "correct": 1,
+      "solution": "R is 3rd from left → position 3. Q immediately right of R → 4. T immediately left of P and P at an extreme end: P can't be position 1 (no seat to its left), so P = 7, T = 6. \"Two people between Q(4) and S\" with S = 7 clashes with P, so S = 1 (positions 2,3 lie between). V immediately right of S → V = 2. That leaves U at 5 (non-extreme, satisfied). Final row: **S, V, R, Q, U, T, P** (positions 1-7).\n\nR = 3, T = 6; between them are positions 4 and 5 (Q and U) = 2 people.",
+      "trick": "\"Between\" excludes the endpoints — count only the seats strictly in between."
+    },
+    {
+      "id": "mini-mock-2-q010",
+      "group": "Seating set",
+      "subject": "reasoning",
+      "context": "Seven friends — P, Q, R, S, T, U, V — sit in a row facing north.\n- R sits third from the left end.\n- P sits at one of the extreme ends.\n- Q sits immediately to the right of R.\n- Two people sit between Q and S.\n- T sits immediately to the left of P.\n- U is not at any extreme end.\n- V sits immediately to the right of S.",
+      "question": "Who sits immediately to the left of U?",
+      "options": [
+        "R",
+        "Q",
+        "T",
+        "V",
+        "P"
+      ],
+      "correct": 1,
+      "solution": "R is 3rd from left → position 3. Q immediately right of R → 4. T immediately left of P and P at an extreme end: P can't be position 1 (no seat to its left), so P = 7, T = 6. \"Two people between Q(4) and S\" with S = 7 clashes with P, so S = 1 (positions 2,3 lie between). V immediately right of S → V = 2. That leaves U at 5 (non-extreme, satisfied). Final row: **S, V, R, Q, U, T, P** (positions 1-7).\n\nU = 5; immediately to its left is position 4 = Q.",
+      "trick": "Once the full line is fixed, \"immediately left\" = position number minus 1."
+    },
+    {
+      "id": "mini-mock-2-q011",
+      "subject": "quant",
+      "question": "I. x² − 7x + 12 = 0  II. y² − 9y + 20 = 0. Find the relation between x and y.",
+      "options": [
+        "x > y",
+        "x < y",
+        "x ≥ y",
+        "x ≤ y",
+        "x = y or no relation"
+      ],
+      "correct": 3,
+      "solution": "x² − 7x + 12 = 0 → x = 3, 4. y² − 9y + 20 = 0 → y = 4, 5. Largest x (4) is not greater than smallest y (4), so x ≤ y in every pairing.",
+      "trick": "Compare the max of one variable's roots against the min of the other's — if max(x) ≤ min(y), the answer is x ≤ y."
+    },
+    {
+      "id": "mini-mock-2-q012",
+      "subject": "english",
+      "question": "Improve the underlined part: \"Scarcely had he entered the room _than_ the lights went off.\"",
+      "options": [
+        "then",
+        "when",
+        "that",
+        "as",
+        "No improvement"
+      ],
+      "correct": 1,
+      "solution": "\"Scarcely/Hardly ... when\" is the fixed correlative pair.",
+      "trick": "Scarcely/Hardly → \"when\"; No sooner → \"than.\" Don't mix them."
+    },
+    {
+      "id": "mini-mock-2-q013",
+      "subject": "english",
+      "question": "Choose the word most nearly meaning PRUDENT.",
+      "options": [
+        "reckless",
+        "wise",
+        "generous",
+        "hasty",
+        "stubborn"
+      ],
+      "correct": 1,
+      "solution": "Prudent = careful, wise, showing good judgment. Antonym is reckless (a).",
+      "trick": "Link prudent ↔ prudence ↔ \"prude-nt planning\" = cautious foresight."
+    },
+    {
+      "id": "mini-mock-2-q014",
+      "group": "DI caselet",
+      "subject": "quant",
+      "context": "A shopkeeper sold three items in a week — pens, notebooks, and erasers. Total items sold = 300. Pens were 40% of the total. Notebooks sold were 90 more than erasers.",
+      "question": "How many notebooks were sold?",
+      "options": [
+        "120",
+        "135",
+        "145",
+        "150",
+        "130"
+      ],
+      "correct": 1,
+      "solution": "Total = 300. Pens = 40% × 300 = 120. Remaining (notebooks + erasers) = 180. Notebooks = erasers + 90, so 2 × erasers + 90 = 180 → erasers = 45, notebooks = 135.\n\nAs solved above.",
+      "trick": "Reduce two-item \"sum and difference\" problems to erasers = (180 − 90)/2 = 45 instantly."
+    },
+    {
+      "id": "mini-mock-2-q015",
+      "group": "DI caselet",
+      "subject": "quant",
+      "context": "A shopkeeper sold three items in a week — pens, notebooks, and erasers. Total items sold = 300. Pens were 40% of the total. Notebooks sold were 90 more than erasers.",
+      "question": "What is the ratio of pens sold to erasers sold?",
+      "options": [
+        "8 : 3",
+        "3 : 8",
+        "5 : 2",
+        "7 : 3",
+        "8 : 5"
+      ],
+      "correct": 0,
+      "solution": "Total = 300. Pens = 40% × 300 = 120. Remaining (notebooks + erasers) = 180. Notebooks = erasers + 90, so 2 × erasers + 90 = 180 → erasers = 45, notebooks = 135.\n\nPens : erasers = 120 : 45 = 8 : 3.",
+      "trick": "Divide both by the HCF (15) in one step."
+    },
+    {
+      "id": "mini-mock-2-q016",
+      "group": "DI caselet",
+      "subject": "quant",
+      "context": "A shopkeeper sold three items in a week — pens, notebooks, and erasers. Total items sold = 300. Pens were 40% of the total. Notebooks sold were 90 more than erasers.",
+      "question": "Notebooks sold are what percent more than erasers sold?",
+      "options": [
+        "150%",
+        "180%",
+        "200%",
+        "100%",
+        "90%"
+      ],
+      "correct": 2,
+      "solution": "Total = 300. Pens = 40% × 300 = 120. Remaining (notebooks + erasers) = 180. Notebooks = erasers + 90, so 2 × erasers + 90 = 180 → erasers = 45, notebooks = 135.\n\n(135 − 45)/45 × 100 = 90/45 × 100 = 200%.",
+      "trick": "When the bigger value is 3× the smaller, it is exactly 200% more (not 300%)."
+    },
+    {
+      "id": "mini-mock-2-q017",
+      "subject": "reasoning",
+      "question": "If 'MANGO' is coded as 'NBOHP', how is 'APPLE' coded?",
+      "options": [
+        "BQQMF",
+        "BQQME",
+        "AQQMF",
+        "BPPMF",
+        "BQPMF"
+      ],
+      "correct": 0,
+      "solution": "MANGO → NBOHP is a +1 shift on each letter. APPLE → B, Q, Q, M, F = BQQMF.",
+      "trick": "Verify the rule on the given pair first (M→N confirms +1), then apply blindly."
+    },
+    {
+      "id": "mini-mock-2-q018",
+      "subject": "english",
+      "question": "Arrange the sentences into a coherent paragraph.\nA. However, this convenience comes at a hidden cost to our privacy.\nB. Smartphones have become indispensable in modern life.\nC. They store our contacts, photos, messages, and even banking details.\nD. Users must therefore stay vigilant about the permissions they grant to apps.",
+      "options": [
+        "BCAD",
+        "BACD",
+        "CBAD",
+        "BCDA",
+        "ABCD"
+      ],
+      "correct": 0,
+      "solution": "B introduces the topic (smartphones indispensable); C elaborates what they store; A (\"However ... hidden cost to privacy\") pivots; D (\"therefore ... vigilant\") concludes.",
+      "trick": "Locate the opener (a general statement with no back-reference) and let signal words \"However\" and \"therefore\" fix the middle and end."
+    },
+    {
+      "id": "mini-mock-2-q019",
+      "subject": "quant",
+      "question": "A father's present age is three times his son's. After 5 years, the father will be two-and-a-half times the son's age. Find the son's present age.",
+      "options": [
+        "10",
+        "12",
+        "15",
+        "18",
+        "20"
+      ],
+      "correct": 2,
+      "solution": "Son = s, father = 3s. After 5 yrs: 3s + 5 = 2.5(s + 5) → 3s + 5 = 2.5s + 12.5 → 0.5s = 7.5 → s = 15. Check: 45 & 15 → after 5, 50 & 20 = 2.5×.",
+      "trick": "Clear the decimal by doubling: 6s + 10 = 5s + 25 → s = 15."
+    },
+    {
+      "id": "mini-mock-2-q020",
+      "subject": "english",
+      "question": "Spot the error. \"Each of the students (A)/ were given (B)/ a separate room (C)/ for the examination. (D)/ No error (E)\"",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "correct": 1,
+      "solution": "\"Each of the students\" takes a singular verb → \"was given,\" not \"were given.\"",
+      "trick": "\"Each / Every / Either / Neither / One of + plural noun\" always takes a singular verb."
+    },
+    {
+      "id": "mini-mock-2-q021",
+      "subject": "reasoning",
+      "question": "Pointing to a photograph, a man said, \"She is the daughter of my grandfather's only son.\" How is the woman related to the man?",
+      "options": [
+        "Mother",
+        "Sister",
+        "Daughter",
+        "Aunt",
+        "Cousin"
+      ],
+      "correct": 1,
+      "solution": "Grandfather's only son = the man's father; the father's daughter = the man's sister.",
+      "trick": "Solve the innermost relation first (\"only son\" = father), then move outward."
+    },
+    {
+      "id": "mini-mock-2-q022",
+      "group": "Cloze passage",
+      "subject": "english",
+      "context": "Fill each blank with the most appropriate option.\n\"Financial literacy is no longer a luxury but a **(22)**______. In a world where digital transactions **(23)**______ everyday life, sound money habits can **(24)**______ ordinary people from costly mistakes.\"",
+      "question": "Blank (22):",
+      "options": [
+        "burden",
+        "necessity",
+        "choice",
+        "reward",
+        "tradition"
+      ],
+      "correct": 1,
+      "solution": "The passage argues financial literacy is essential in a digital economy.\n\n\"Not a luxury but a ______\" needs the opposite of luxury → necessity.",
+      "trick": "\"not X but Y\" demands Y to contrast X."
+    },
+    {
+      "id": "mini-mock-2-q023",
+      "group": "Cloze passage",
+      "subject": "english",
+      "context": "Fill each blank with the most appropriate option.\n\"Financial literacy is no longer a luxury but a **(22)**______. In a world where digital transactions **(23)**______ everyday life, sound money habits can **(24)**______ ordinary people from costly mistakes.\"",
+      "question": "Blank (23):",
+      "options": [
+        "dominate",
+        "ignore",
+        "reduce",
+        "escape",
+        "abandon"
+      ],
+      "correct": 0,
+      "solution": "The passage argues financial literacy is essential in a digital economy.\n\nDigital transactions ______ everyday life → dominate (fill/pervade).",
+      "trick": "Pick the verb that keeps the sentence's positive-to-warning momentum; \"ignore/escape/abandon\" contradict \"in a world where.\""
+    },
+    {
+      "id": "mini-mock-2-q024",
+      "group": "Cloze passage",
+      "subject": "english",
+      "context": "Fill each blank with the most appropriate option.\n\"Financial literacy is no longer a luxury but a **(22)**______. In a world where digital transactions **(23)**______ everyday life, sound money habits can **(24)**______ ordinary people from costly mistakes.\"",
+      "question": "Blank (24):",
+      "options": [
+        "prevent",
+        "shield",
+        "remove",
+        "attract",
+        "invite"
+      ],
+      "correct": 1,
+      "solution": "The passage argues financial literacy is essential in a digital economy.\n\n\"Shield ordinary people from costly mistakes\" is the idiomatic collocation. \"Prevent\" would need \"from making\" to be correct.",
+      "trick": "\"shield/protect/save someone FROM something\" — match the preposition to the verb."
+    },
+    {
+      "id": "mini-mock-2-q025",
+      "subject": "quant",
+      "question": "A man buys an article for ₹800 and sells it at a profit of 15%. What is the selling price?",
+      "options": [
+        "₹900",
+        "₹915",
+        "₹920",
+        "₹940",
+        "₹960"
+      ],
+      "correct": 2,
+      "solution": "15% of 800 = 120; 800 + 120 = 920.",
+      "trick": "15% = 10% + 5% = 80 + 40 = 120."
+    },
+    {
+      "id": "mini-mock-2-q026",
+      "subject": "english",
+      "question": "The scientist's ______ approach to the problem impressed the entire panel.",
+      "options": [
+        "methodical",
+        "chaotic",
+        "careless",
+        "reluctant",
+        "indifferent"
+      ],
+      "correct": 0,
+      "solution": "The approach \"impressed the panel,\" so a positive word is needed → methodical (orderly, systematic).",
+      "trick": "Match blank polarity to the outcome word; \"impressed\" demands a positive filler."
+    },
+    {
+      "id": "mini-mock-2-q027",
+      "subject": "reasoning",
+      "question": "A man walks 5 km north, turns right and walks 3 km, then turns right and walks 5 km. How far is he from the starting point?",
+      "options": [
+        "3 km",
+        "5 km",
+        "8 km",
+        "13 km",
+        "10 km"
+      ],
+      "correct": 0,
+      "solution": "North 5 → right (east) 3 → right (south) 5. The 5 north and 5 south cancel; net displacement = 3 km east.",
+      "trick": "Sketch it; equal opposite legs cancel, leaving only the perpendicular leg as the answer."
+    },
+    {
+      "id": "mini-mock-2-q028",
+      "subject": "quant",
+      "question": "A train 180 m long crosses a pole in 9 seconds. Find its speed in km/h.",
+      "options": [
+        "54",
+        "64",
+        "72",
+        "80",
+        "60"
+      ],
+      "correct": 2,
+      "solution": "Speed = 180/9 = 20 m/s = 20 × 18/5 = 72 km/h.",
+      "trick": "Convert m/s → km/h by ×18/5 (and km/h → m/s by ×5/18)."
+    },
+    {
+      "id": "mini-mock-2-q029",
+      "subject": "english",
+      "question": "She was accused ______ stealing the documents.",
+      "options": [
+        "for",
+        "of",
+        "with",
+        "about",
+        "on"
+      ],
+      "correct": 1,
+      "solution": "\"Accused of\" is the fixed preposition.",
+      "trick": "accused OF a crime, but charged WITH a crime — don't swap them."
+    },
+    {
+      "id": "mini-mock-2-q030",
+      "subject": "reasoning",
+      "question": "In a class, Amit ranks 12th from the top and 18th from the bottom. How many students are in the class?",
+      "options": [
+        "28",
+        "29",
+        "30",
+        "31",
+        "27"
+      ],
+      "correct": 1,
+      "solution": "Total = rank from top + rank from bottom − 1 = 12 + 18 − 1 = 29.",
+      "trick": "Always subtract 1 because the person is counted twice."
+    }
+  ]
+}

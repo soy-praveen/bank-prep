@@ -1,0 +1,615 @@
+{
+  "title": "Blood Relations, Direction, Coding, Alphanumeric & Ranking — Practice (Vol. 2)",
+  "section": "reasoning",
+  "kind": "quiz",
+  "source": "reasoning-misc-v2.md",
+  "questions": [
+    {
+      "id": "reasoning-misc-v2-q001",
+      "group": "Blood Relations",
+      "question": "Pointing to a photograph, a woman said, \"He is the son of the only daughter of my mother.\" How is the woman related to the man?",
+      "options": [
+        "Sister",
+        "Aunt",
+        "Mother",
+        "Grandmother",
+        "Cannot be determined"
+      ],
+      "correct": 2,
+      "solution": "**Mother.** The woman is a daughter of her own mother, and her mother has only one daughter — so the \"only daughter of my mother\" is the woman herself. The man is her son, so she is his mother.",
+      "trick": "When a female speaker says \"the only daughter of my mother,\" that only daughter is the speaker. Substitute \"me\" and read the sentence again."
+    },
+    {
+      "id": "reasoning-misc-v2-q002",
+      "group": "Blood Relations",
+      "question": "Rahul, who has no brothers, said pointing to a girl, \"She is the daughter-in-law of my mother.\" How is Rahul related to the girl?",
+      "options": [
+        "Father",
+        "Brother",
+        "Husband",
+        "Father-in-law",
+        "Son"
+      ],
+      "correct": 2,
+      "solution": "**Husband.** \"Daughter-in-law of my mother\" = the wife of Rahul's mother's son. Rahul has no brothers, so his mother's only son is Rahul himself. Thus the girl is Rahul's wife, and Rahul is her husband.",
+      "trick": "\"Daughter-in-law of X\" = \"wife of X's son.\" Pin down who that son is; here it collapses to Rahul."
+    },
+    {
+      "id": "reasoning-misc-v2-q003",
+      "group": "Blood Relations",
+      "question": "A is the father of B. C is the son of D. E is the brother of A. D is the wife of B. How is C related to E?",
+      "options": [
+        "Grandson",
+        "Nephew",
+        "Grand-nephew",
+        "Son",
+        "Brother"
+      ],
+      "correct": 2,
+      "solution": "**Grand-nephew.** A is B's father, so B is A's son. E is A's brother, hence B's uncle. D is B's wife; C is D's son, so C is B's son. C (third generation) relative to E is two levels down a sibling line = grand-nephew.",
+      "trick": "Draw generations top to bottom. Uncle-to-(nephew's child) is grand-nephew."
+    },
+    {
+      "id": "reasoning-misc-v2-q004",
+      "group": "Blood Relations",
+      "question": "P × Q means P is the mother of Q; P + Q means P is the brother of Q; P − Q means P is the sister of Q; P ÷ Q means P is the father of Q. Which expression shows that M is the grandmother of T?",
+      "options": [
+        "M × N ÷ T",
+        "M − N + T",
+        "M × N + T",
+        "M ÷ N × T",
+        "M + N × T"
+      ],
+      "correct": 0,
+      "solution": "**M × N ÷ T.** M × N: M is the mother of N. N ÷ T: N is the father of T. So M is the mother of T's father = T's grandmother.",
+      "trick": "For \"grandmother,\" chain a \"mother\" link into a \"parent\" link that reaches the target."
+    },
+    {
+      "id": "reasoning-misc-v2-q005",
+      "group": "Blood Relations",
+      "question": "Introducing a woman, Sohan said, \"She is the mother of the only son of my wife's father.\" How is the woman related to Sohan?",
+      "options": [
+        "Mother",
+        "Wife",
+        "Sister-in-law",
+        "Mother-in-law",
+        "Aunt"
+      ],
+      "correct": 3,
+      "solution": "**Mother-in-law.** \"Only son of my wife's father\" = the wife's brother. The mother of the wife's brother is the wife's mother = Sohan's mother-in-law.",
+      "trick": "\"Only son of wife's father\" is just \"wife's brother\"; his mother is the wife's mother."
+    },
+    {
+      "id": "reasoning-misc-v2-q006",
+      "group": "Blood Relations",
+      "question": "If A + B means A is the son of B; A − B means A is the wife of B; A × B means A is the brother of B; A ÷ B means A is the mother of B, then which of the following means P is the maternal uncle of Q?",
+      "options": [
+        "P × R ÷ Q",
+        "P × R − Q",
+        "P − R ÷ Q",
+        "P + R × Q",
+        "P ÷ R × Q"
+      ],
+      "correct": 0,
+      "solution": "**P × R ÷ Q.** P × R: P is the brother of R. R ÷ Q: R is the mother of Q. So P is the brother of Q's mother = Q's maternal uncle.",
+      "trick": "Maternal uncle = brother of the mother. Need \"brother\" chained into \"mother\" reaching Q."
+    },
+    {
+      "id": "reasoning-misc-v2-q007",
+      "group": "Blood Relations",
+      "question": "Six members — F, G, H, I, J, K — belong to one family. F is the mother of G. H is the brother of G. J is the wife of G. I and K are the children of G and J, and K is the sister of I. I is male. How many female members are in the family?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "1",
+        "Cannot be determined"
+      ],
+      "correct": 1,
+      "solution": "**3.** Genders: F (mother, female), G (male), H (brother of G, male), J (wife, female), I (male), K (sister of I, female). Females = F, J, K = 3.",
+      "trick": "Tag each member male/female straight from its relation word before counting."
+    },
+    {
+      "id": "reasoning-misc-v2-q008",
+      "group": "Blood Relations",
+      "question": "Pointing to a man, a woman said, \"His mother is the only daughter of my mother.\" How is the woman related to the man?",
+      "options": [
+        "Grandmother",
+        "Sister",
+        "Aunt",
+        "Mother",
+        "Daughter"
+      ],
+      "correct": 3,
+      "solution": "**Mother.** The woman is a daughter of her mother, and her mother's \"only daughter\" is therefore the woman herself. The man's mother is the woman, so she is his mother.",
+      "trick": "Same self-reference rule as Q1 — \"only daughter of my mother\" said by a female = the speaker."
+    },
+    {
+      "id": "reasoning-misc-v2-q009",
+      "group": "Blood Relations",
+      "question": "A is the son of B. C, who is B's sister, has a son D and a daughter E. How is A related to D?",
+      "options": [
+        "Nephew",
+        "Uncle",
+        "Cousin",
+        "Brother",
+        "Grandfather"
+      ],
+      "correct": 2,
+      "solution": "**Cousin.** A is B's son. C is B's sister; D is C's son. A and D are children of two siblings (B and C), so they are cousins.",
+      "trick": "Children of a brother-and-sister pair are cousins."
+    },
+    {
+      "id": "reasoning-misc-v2-q010",
+      "group": "Blood Relations",
+      "question": "Pointing to a lady in a photograph, Ravi said, \"The father of her brother is the only son of my grandfather.\" How is the lady related to Ravi?",
+      "options": [
+        "Mother",
+        "Aunt",
+        "Sister",
+        "Niece",
+        "Cousin"
+      ],
+      "correct": 2,
+      "solution": "**Sister.** \"The father of her brother\" is simply the lady's father. \"The only son of my grandfather\" is Ravi's father. Setting them equal, the lady and Ravi share the same father, so the lady is Ravi's sister.",
+      "trick": "\"Father of her brother\" reduces to \"her father.\" Equal fathers => siblings."
+    },
+    {
+      "id": "reasoning-misc-v2-q011",
+      "group": "Direction Sense",
+      "question": "A man walks 5 km towards North, then turns right and walks 3 km, then turns right and walks 5 km. How far and in which direction is he from the starting point?",
+      "options": [
+        "3 km East",
+        "3 km West",
+        "8 km East",
+        "5 km North",
+        "3 km South"
+      ],
+      "correct": 0,
+      "solution": "**3 km East.** North 5, right = East 3, right = South 5. The 5 North and 5 South cancel, leaving 3 km East.",
+      "trick": "Equal-and-opposite legs cancel; only the unmatched East leg remains."
+    },
+    {
+      "id": "reasoning-misc-v2-q012",
+      "group": "Direction Sense",
+      "question": "Priya starts from her home, walks 4 km East, then turns left and walks 3 km. What is the shortest distance between her home and her current position?",
+      "options": [
+        "7 km",
+        "5 km",
+        "1 km",
+        "6 km",
+        "4 km"
+      ],
+      "correct": 1,
+      "solution": "**5 km.** East 4, then left = North 3. Legs 4 and 3 form a right angle: distance = √(4²+3²) = 5.",
+      "trick": "The 3-4-5 triple gives the hypotenuse instantly."
+    },
+    {
+      "id": "reasoning-misc-v2-q013",
+      "group": "Direction Sense",
+      "question": "A boy walks 12 m South, turns left and walks 5 m, then turns left again and walks 12 m. In which direction is he now facing, and how far is he from the start?",
+      "options": [
+        "North, 13 m",
+        "East, 5 m",
+        "North, 5 m",
+        "West, 12 m",
+        "South, 13 m"
+      ],
+      "correct": 2,
+      "solution": "**North, 5 m.** South 12, left = East 5, left = North 12. The two 12 m legs (South then North) cancel, leaving 5 m. He is now facing North.",
+      "trick": "Track \"facing direction\" separately from displacement; opposite equal legs cancel, leaving the single side leg (5 m)."
+    },
+    {
+      "id": "reasoning-misc-v2-q014",
+      "group": "Direction Sense",
+      "question": "From a point, Ankit walks 10 m North, then 6 m East, then 2 m South, then 6 m West. How far is he from the starting point and in which direction?",
+      "options": [
+        "8 m North",
+        "8 m South",
+        "4 m North",
+        "12 m North",
+        "6 m East"
+      ],
+      "correct": 0,
+      "solution": "**8 m North.** North 10, East 6, South 2, West 6. East 6 and West 6 cancel; 10 North − 2 South = 8 North.",
+      "trick": "Net vertical = 10 − 2 = 8 N; net horizontal = 6 − 6 = 0."
+    },
+    {
+      "id": "reasoning-misc-v2-q015",
+      "group": "Direction Sense",
+      "question": "P is North of Q. R is East of Q. S is South of R. In which direction is S with respect to Q?",
+      "options": [
+        "North",
+        "South",
+        "South-East",
+        "South-West",
+        "North-East"
+      ],
+      "correct": 2,
+      "solution": "**South-East.** Take Q at origin. R is East of Q (positive x). S is South of R (same x, lower y). So S is both East and South of Q => South-East.",
+      "trick": "Assign coordinates from Q; right-and-down of the origin = South-East. (P is a distractor — it plays no role.)"
+    },
+    {
+      "id": "reasoning-misc-v2-q016",
+      "group": "Direction Sense",
+      "question": "A person walks 9 m towards North, turns right and walks 4 m, turns right and walks 12 m, then turns right again and walks 4 m. How far is he from the starting point?",
+      "options": [
+        "3 m",
+        "4 m",
+        "21 m",
+        "12 m",
+        "9 m"
+      ],
+      "correct": 0,
+      "solution": "**3 m.** North 9, right = East 4, right = South 12, right = West 4. East 4 and West 4 cancel; 9 North − 12 South = 3 South. Distance = 3 m.",
+      "trick": "Horizontal legs cancel; vertical net 9 − 12 = 3."
+    },
+    {
+      "id": "reasoning-misc-v2-q017",
+      "group": "Direction Sense",
+      "question": "Two friends start from the same point. Amit walks 12 m towards North; Sumit walks 5 m towards East. How far apart are the two friends?",
+      "options": [
+        "17 m",
+        "7 m",
+        "13 m",
+        "11 m",
+        "15 m"
+      ],
+      "correct": 2,
+      "solution": "**13 m.** From the common start, Amit is 12 m North and Sumit is 5 m East — perpendicular paths. Gap = √(12²+5²) = 13.",
+      "trick": "Perpendicular displacements from one point form a right triangle: 5-12-13 triple."
+    },
+    {
+      "id": "reasoning-misc-v2-q018",
+      "group": "Direction Sense",
+      "question": "A car travels 20 km towards East, turns right and travels 15 km, then turns right and travels 20 km, then turns left and travels 10 km. How far is the car from the starting point?",
+      "options": [
+        "25 km",
+        "45 km",
+        "35 km",
+        "10 km",
+        "15 km"
+      ],
+      "correct": 0,
+      "solution": "**25 km.** East 20, right = South 15, right = West 20, left = South 10. East 20 and West 20 cancel; South 15 + South 10 = 25 South. Distance = 25 km.",
+      "trick": "Cancel the equal E/W legs, then add the two southward legs 15 + 10."
+    },
+    {
+      "id": "reasoning-misc-v2-q019",
+      "group": "Coding-Decoding",
+      "question": "In a certain code, \"TABLE\" is written as \"UBCMF\". How is \"CHAIR\" written in that code?",
+      "options": [
+        "DIBJS",
+        "BGZHQ",
+        "DIBIS",
+        "DJBJS",
+        "DICJS"
+      ],
+      "correct": 0,
+      "solution": "**DIBJS.** TABLE -> UBCMF is +1 on each letter. CHAIR: C->D, H->I, A->B, I->J, R->S = DIBJS.",
+      "trick": "Fix the shift from the sample (+1), then apply it uniformly."
+    },
+    {
+      "id": "reasoning-misc-v2-q020",
+      "group": "Coding-Decoding",
+      "question": "In a certain code, \"POINT\" is written as \"RQKPV\". How is \"BRAIN\" written in that code?",
+      "options": [
+        "DTCKP",
+        "DTCKO",
+        "CTCKP",
+        "DSCKP",
+        "DTBKP"
+      ],
+      "correct": 0,
+      "solution": "**DTCKP.** POINT -> RQKPV is +2 on each letter (P->R, O->Q, I->K, N->P, T->V). BRAIN: B->D, R->T, A->C, I->K, N->P = DTCKP.",
+      "trick": "Same idea — confirm +2 from the sample, then shift BRAIN forward by two."
+    },
+    {
+      "id": "reasoning-misc-v2-q021",
+      "group": "Coding-Decoding",
+      "question": "Each letter is replaced by its position in the English alphabet (A=1 … Z=26). If \"MANGO\" becomes \"13-1-14-7-15\", how is \"PEAR\" written?",
+      "options": [
+        "16-5-1-18",
+        "16-5-11-8",
+        "17-5-1-18",
+        "16-5-1-8",
+        "16-6-1-18"
+      ],
+      "correct": 0,
+      "solution": "**16-5-1-18.** Positions: P=16, E=5, A=1, R=18.",
+      "trick": "Anchor letters A=1, E=5, J=10, O=15, T=20, Z=26 and count from the nearest anchor."
+    },
+    {
+      "id": "reasoning-misc-v2-q022",
+      "group": "Coding-Decoding",
+      "question": "What is the code for \"sun\"?",
+      "options": [
+        "pa",
+        "na",
+        "ra",
+        "la",
+        "ka"
+      ],
+      "correct": 0,
+      "solution": "**pa.** \"sun rises east\" = pa la ka and \"sun sets slowly\" = pa na ra share only the word \"sun\" and only the code \"pa\". So sun = pa.",
+      "context": "In a code language, \"sun rises east\" is written as \"pa la ka\", \"moon sets west\" is written as \"ta na sa\", and \"sun sets slowly\" is written as \"pa na ra\".",
+      "trick": "Intersect the two sentences that both contain \"sun\"; the shared code is the answer."
+    },
+    {
+      "id": "reasoning-misc-v2-q023",
+      "group": "Coding-Decoding",
+      "question": "What is the code for \"sets\"?",
+      "options": [
+        "pa",
+        "na",
+        "ta",
+        "sa",
+        "ra"
+      ],
+      "correct": 1,
+      "solution": "**na.** \"moon sets west\" = ta na sa and \"sun sets slowly\" = pa na ra share only \"sets\" and only \"na\". So sets = na.",
+      "context": "In a code language, \"sun rises east\" is written as \"pa la ka\", \"moon sets west\" is written as \"ta na sa\", and \"sun sets slowly\" is written as \"pa na ra\".",
+      "trick": "Same intersection method on the two \"sets\" sentences."
+    },
+    {
+      "id": "reasoning-misc-v2-q024",
+      "group": "Coding-Decoding",
+      "question": "In a certain code, \"FROST\" is written as \"COLPQ\" (each letter shifted the same way). How is \"GHOST\" written in that code?",
+      "options": [
+        "DELPQ",
+        "DELPR",
+        "DEKPQ",
+        "EELPQ",
+        "DFLPQ"
+      ],
+      "correct": 0,
+      "solution": "**DELPQ.** FROST -> COLPQ is −3 on each letter (F->C, R->O, O->L, S->P, T->Q). GHOST: G->D, H->E, O->L, S->P, T->Q = DELPQ.",
+      "trick": "Read the shift off any clear pair (O->L = −3), then move each letter of GHOST back three."
+    },
+    {
+      "id": "reasoning-misc-v2-q025",
+      "group": "Coding-Decoding",
+      "question": "In a code, \"BOARD\" is written as \"24153\", where each digit is the rank of that letter when the word's own letters are arranged in alphabetical order. Using the same rule, how is \"TABLE\" written?",
+      "options": [
+        "51234",
+        "51243",
+        "52134",
+        "51324",
+        "51423"
+      ],
+      "correct": 1,
+      "solution": "**51243.** Sort TABLE's letters alphabetically: A,B,E,L,T => A=1, B=2, E=3, L=4, T=5. Now read the word in original order: T,A,B,L,E = 5,1,2,4,3 = 51243. (Check with BOARD: A,B,D,O,R = 1,2,3,4,5 => B,O,A,R,D = 24153, matches the given code.)",
+      "trick": "Alphabetize the word's own letters, number them 1..n, then read the numbers in the word's order."
+    },
+    {
+      "id": "reasoning-misc-v2-q026",
+      "group": "Coding-Decoding",
+      "question": "In a code language, \"green is fresh\" is \"mo ti ka\", \"fresh and clean\" is \"ka du re\", and \"clean is best\" is \"re ti bo\". What is the code for \"fresh\"?",
+      "options": [
+        "ka",
+        "ti",
+        "re",
+        "mo",
+        "du"
+      ],
+      "correct": 0,
+      "solution": "**ka.** \"green is fresh\" = mo ti ka and \"fresh and clean\" = ka du re share only \"fresh\" and only \"ka\". So fresh = ka.",
+      "trick": "Intersect the two \"fresh\" sentences => ka."
+    },
+    {
+      "id": "reasoning-misc-v2-q027",
+      "group": "Coding-Decoding",
+      "question": "In a certain code, \"CALCUTTA\" is written as \"82589662\" (each letter a fixed digit). How is \"TACT\" written in that code?",
+      "options": [
+        "6286",
+        "6826",
+        "6288",
+        "6296",
+        "2686"
+      ],
+      "correct": 0,
+      "solution": "**6286.** From CALCUTTA = 82589662: C=8, A=2, L=5, C=8, U=9, T=6, T=6, A=2. So C=8, A=2, T=6. TACT = T,A,C,T = 6,2,8,6 = 6286.",
+      "trick": "Build a letter->digit table from the given word, then spell the target letter by letter."
+    },
+    {
+      "id": "reasoning-misc-v2-q028",
+      "group": "Coding-Decoding",
+      "question": "In a certain code, each letter is shifted forward by its position in the word (1st letter +1, 2nd +2, 3rd +3). If \"ACE\" becomes \"BEH\", what does \"DOG\" become?",
+      "options": [
+        "EQJ",
+        "EPJ",
+        "EQI",
+        "FQJ",
+        "EQK"
+      ],
+      "correct": 0,
+      "solution": "**EQJ.** Rule: add the letter's position in the word. Check ACE: A+1=B, C+2=E, E+3=H = BEH. Apply to DOG: D+1=E, O+2=Q, G+3=J = EQJ.",
+      "trick": "+1 to the first letter, +2 to the second, +3 to the third."
+    },
+    {
+      "id": "reasoning-misc-v2-q029",
+      "group": "Coding-Decoding",
+      "question": "In a certain code, \"PLANET\" is written as \"QMBOFU\". In the same code, how is \"STAR\" written?",
+      "options": [
+        "TUBS",
+        "TUBR",
+        "TVBS",
+        "SUBS",
+        "TUAS"
+      ],
+      "correct": 0,
+      "solution": "**TUBS.** PLANET -> QMBOFU is +1 on each letter. STAR: S->T, T->U, A->B, R->S = TUBS.",
+      "trick": "Confirm +1, then shift each letter of STAR forward by one."
+    },
+    {
+      "id": "reasoning-misc-v2-q030",
+      "group": "Coding-Decoding",
+      "question": "In a certain code, \"42\" means \"good boy\", \"43\" means \"good girl\", and \"51\" means \"bad boy\". Which digit stands for \"boy\"?",
+      "options": [
+        "4",
+        "3",
+        "5",
+        "2",
+        "1"
+      ],
+      "correct": 3,
+      "solution": "**2.** \"42\" = good boy and \"43\" = good girl share the digit 4, which must be the shared word \"good\". So in \"good boy\" (42), the remaining digit 2 = \"boy\". (\"51\" = bad boy just confirms boy is a single digit, here 2 does not appear because 51 uses different digits for bad/boy — the pin comes from 42 vs 43.) Arrangement with positions:",
+      "trick": "Find \"good\" from the two sentences that share it (4), then the leftover digit of \"good boy\" is boy = 2."
+    },
+    {
+      "id": "reasoning-misc-v2-q031",
+      "group": "Alphanumeric Series",
+      "question": "How many symbols in the arrangement are each immediately preceded by a number and immediately followed by a letter?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four",
+        "None"
+      ],
+      "correct": 1,
+      "solution": "**Two.** A symbol with a number on its left and a letter on its right: @ (pos 13) has 9 on the left and B on the right — yes; $ (pos 19) has 6 on the left and Q on the right — yes. # and % have letters on their left; © has F on its left. So exactly two.\n\nPositions: `1:R 2:4 3:P 4:# 5:M 6:7 7:K 8:% 9:2 10:J 11:D 12:9 13:@ 14:B 15:5 16:W 17:N 18:6 19:$ 20:Q 21:8 22:F 23:© 24:3 25:H 26:T`",
+      "context": "`R 4 P # M 7 K % 2 J D 9 @ B 5 W N 6 $ Q 8 F © 3 H T`",
+      "trick": "Check only the symbols; for each, test \"digit on left AND letter on right.\""
+    },
+    {
+      "id": "reasoning-misc-v2-q032",
+      "group": "Alphanumeric Series",
+      "question": "Which element is fifth to the right of the twelfth element from the left end?",
+      "options": [
+        "5",
+        "W",
+        "B",
+        "N",
+        "@"
+      ],
+      "correct": 3,
+      "solution": "**N.** 12th from the left = position 12 = 9. Fifth to its right = position 17 = N.\n\nPositions: `1:R 2:4 3:P 4:# 5:M 6:7 7:K 8:% 9:2 10:J 11:D 12:9 13:@ 14:B 15:5 16:W 17:N 18:6 19:$ 20:Q 21:8 22:F 23:© 24:3 25:H 26:T`",
+      "context": "`R 4 P # M 7 K % 2 J D 9 @ B 5 W N 6 $ Q 8 F © 3 H T`",
+      "trick": "\"kth to the right of the mth from left\" = position (m + k) = 12 + 5 = 17."
+    },
+    {
+      "id": "reasoning-misc-v2-q033",
+      "group": "Alphanumeric Series",
+      "question": "How many numbers in the arrangement are each immediately preceded by a symbol?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four",
+        "None"
+      ],
+      "correct": 1,
+      "solution": "**Two.** Numbers with a symbol immediately before them: 2 (pos 9) is preceded by % (pos 8) — yes; 3 (pos 24) is preceded by © (pos 23) — yes. No other number has a symbol on its left. So two.\n\nPositions: `1:R 2:4 3:P 4:# 5:M 6:7 7:K 8:% 9:2 10:J 11:D 12:9 13:@ 14:B 15:5 16:W 17:N 18:6 19:$ 20:Q 21:8 22:F 23:© 24:3 25:H 26:T`",
+      "context": "`R 4 P # M 7 K % 2 J D 9 @ B 5 W N 6 $ Q 8 F © 3 H T`",
+      "trick": "Scan each digit's left neighbour; count only those that are symbols."
+    },
+    {
+      "id": "reasoning-misc-v2-q034",
+      "group": "Alphanumeric Series",
+      "question": "If all the symbols are dropped from the arrangement, which element will be seventh from the right end?",
+      "options": [
+        "6",
+        "W",
+        "N",
+        "5",
+        "Q"
+      ],
+      "correct": 0,
+      "solution": "**6.** Drop the symbols (# % @ $ ©). Remaining, in order: R 4 P M 7 K 2 J D 9 B 5 W N 6 Q 8 F 3 H T (20 elements). Counting from the right: T, H, 3, F, 8, Q, 6 — the 7th is 6.\n\nPositions: `1:R 2:4 3:P 4:# 5:M 6:7 7:K 8:% 9:2 10:J 11:D 12:9 13:@ 14:B 15:5 16:W 17:N 18:6 19:$ 20:Q 21:8 22:F 23:© 24:3 25:H 26:T`",
+      "context": "`R 4 P # M 7 K % 2 J D 9 @ B 5 W N 6 $ Q 8 F © 3 H T`",
+      "trick": "After deletion, count straight from the right end; the 7th element is 6."
+    },
+    {
+      "id": "reasoning-misc-v2-q035",
+      "group": "Alphanumeric Series",
+      "question": "How many letters in the arrangement are each immediately preceded by a symbol and immediately followed by a number?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "None",
+        "Four"
+      ],
+      "correct": 2,
+      "solution": "**Three.** A letter with a symbol before it and a number after it: M (pos 5) has # before and 7 after — yes; B (pos 14) has @ before and 5 after — yes; Q (pos 20) has $ before and 8 after — yes. So three.\n\nPositions: `1:R 2:4 3:P 4:# 5:M 6:7 7:K 8:% 9:2 10:J 11:D 12:9 13:@ 14:B 15:5 16:W 17:N 18:6 19:$ 20:Q 21:8 22:F 23:© 24:3 25:H 26:T`",
+      "context": "`R 4 P # M 7 K % 2 J D 9 @ B 5 W N 6 $ Q 8 F © 3 H T`",
+      "trick": "For each symbol, look at the letter just to its right and check whether a digit follows that letter. M, B, Q qualify."
+    },
+    {
+      "id": "reasoning-misc-v2-q036",
+      "group": "Order & Ranking",
+      "question": "In a row of 40 students, Rohit is 12th from the left end. What is his position from the right end?",
+      "options": [
+        "28th",
+        "29th",
+        "27th",
+        "30th",
+        "26th"
+      ],
+      "correct": 1,
+      "solution": "**29th.** Position from right = Total − Position from left + 1 = 40 − 12 + 1 = 29.",
+      "trick": "Right rank = Total − Left rank + 1 (the +1 counts the person themselves)."
+    },
+    {
+      "id": "reasoning-misc-v2-q037",
+      "group": "Order & Ranking",
+      "question": "In a class, Sita ranks 15th from the top and 20th from the bottom. How many students are there in the class?",
+      "options": [
+        "33",
+        "35",
+        "34",
+        "36",
+        "32"
+      ],
+      "correct": 2,
+      "solution": "**34.** Total = rank from top + rank from bottom − 1 = 15 + 20 − 1 = 34.",
+      "trick": "Both ranks count the person once, so subtract 1 for the overlap."
+    },
+    {
+      "id": "reasoning-misc-v2-q038",
+      "group": "Order & Ranking",
+      "question": "In a row of children, Amit is 7th from the left and Bina is 9th from the right. When they interchange their positions, Amit becomes 15th from the left. How many children are there in the row?",
+      "options": [
+        "21",
+        "22",
+        "23",
+        "24",
+        "20"
+      ],
+      "correct": 2,
+      "solution": "**23.** After the swap, Amit sits in Bina's old seat and is 15th from the left, so Bina's original position was 15th from the left. Bina is also 9th from the right. Total = 15 + 9 − 1 = 23.",
+      "trick": "The interchange transfers Bina's exact position to Amit; then Total = left rank + right rank − 1."
+    },
+    {
+      "id": "reasoning-misc-v2-q039",
+      "group": "Order & Ranking",
+      "question": "Among five friends P, Q, R, S and T: P is taller than Q but shorter than R; S is taller than T but shorter than Q. Who is the tallest?",
+      "options": [
+        "P",
+        "Q",
+        "R",
+        "S",
+        "T"
+      ],
+      "correct": 2,
+      "solution": "**R.** Combine the clues: R > P > Q (P is below R, above Q) and Q > S > T (S is below Q, above T). Full order: R > P > Q > S > T. Tallest = R.",
+      "trick": "Merge the inequalities into one chain and read the top end."
+    },
+    {
+      "id": "reasoning-misc-v2-q040",
+      "group": "Order & Ranking",
+      "question": "In a row of 25 people all facing North, M is 9th from the left end and N is 7th from the right end. How many people are sitting between M and N?",
+      "options": [
+        "8",
+        "9",
+        "10",
+        "7",
+        "11"
+      ],
+      "correct": 1,
+      "solution": "**9.** N is 7th from the right in a row of 25, so N is 25 − 7 + 1 = 19th from the left. People between the 9th (M) and the 19th (N) = 19 − 9 − 1 = 9.",
+      "trick": "Convert both to positions from the same end, then between = difference − 1."
+    }
+  ]
+}

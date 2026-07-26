@@ -1,0 +1,311 @@
+{
+  "title": "Blood Relations, Direction, Coding, Alphanumeric & Ranking — Practice",
+  "section": "reasoning",
+  "kind": "quiz",
+  "source": "reasoning-misc.md",
+  "questions": [
+    {
+      "id": "reasoning-misc-q001",
+      "group": "Blood Relations",
+      "question": "In a coded relation system: `P + Q` means P is the father of Q, `P - Q` means P is the sister of Q, `P × Q` means P is the brother of Q, and `P ÷ Q` means P is the mother of Q. How is A related to D in the expression **A + B × C ÷ D**?",
+      "options": [
+        "Father",
+        "Maternal grandfather",
+        "Paternal grandfather",
+        "Maternal uncle",
+        "Cannot be determined"
+      ],
+      "correct": 1,
+      "solution": "**Maternal grandfather.** `A + B` -> A is father of B. `B × C` -> B is brother of C, so A is also father of C. `C ÷ D` -> C is mother of D, so C is female. A is the father of C (D's mother), i.e. A is D's mother's father = maternal grandfather of D.",
+      "trick": "Solve coded relations symbol by symbol, left to right, and pin down each person's gender as you go (here C is female because C is a \"mother\"). The parent of the mother is always the *maternal* grandparent."
+    },
+    {
+      "id": "reasoning-misc-q002",
+      "group": "Blood Relations",
+      "question": "Pointing to a photograph, a man said, \"I have no brother or sister, but that man's father is my father's son.\" Who is the man in the photograph?",
+      "options": [
+        "His father",
+        "His son",
+        "His cousin",
+        "His uncle",
+        "Himself"
+      ],
+      "correct": 1,
+      "solution": "**His son.** \"My father's son\" — since the speaker has no brother, that son is the speaker himself. So \"that man's father\" is the speaker. Therefore the man in the photograph is the speaker's son.",
+      "trick": "**self-reference:** Whenever you see \"my father's only son / my mother's only son\" and the speaker is male with no brothers, it collapses to *the speaker himself*. Substitute that in and re-read the sentence."
+    },
+    {
+      "id": "reasoning-misc-q003",
+      "group": "Blood Relations",
+      "question": "A man, pointing towards a lady, says, \"Her mother is the only daughter of my mother.\" How is the man related to the lady?",
+      "options": [
+        "Father",
+        "Brother",
+        "Maternal uncle",
+        "Grandfather",
+        "Son"
+      ],
+      "correct": 2,
+      "solution": "**Maternal uncle.** \"The only daughter of my mother\" — the man cannot be a daughter, so this is his sister. That sister is the lady's mother. So the man is the brother of the lady's mother = her maternal uncle.",
+      "trick": "For \"only son/only daughter of my X\" phrases, first identify who that unique person is from the speaker's side of the generation tree, then trace forward to the target person."
+    },
+    {
+      "id": "reasoning-misc-q004",
+      "group": "Blood Relations",
+      "question": "A and B are siblings. C is the daughter of A. D is the brother of B. E is the mother of D. How is E related to C?",
+      "options": [
+        "Mother",
+        "Aunt",
+        "Grandmother",
+        "Sister",
+        "Cannot be determined"
+      ],
+      "correct": 2,
+      "solution": "**Grandmother.** A and B are siblings; D is the brother of B, so D is also a sibling of A. E is the mother of D, hence E is the mother of A, B and D. C is the daughter of A, so E (A's mother) is C's grandmother.",
+      "trick": "**generation tree:** Draw horizontal lines for siblings (A, B, D on one level) and vertical lines for parent-child. Once everyone sits on the correct generation line, the relation is read off directly: two levels up = grand-relation."
+    },
+    {
+      "id": "reasoning-misc-q005",
+      "group": "Blood Relations",
+      "question": "In a family, `M @ N` means M is the wife of N, `M # N` means M is the son of N, and `M & N` means M is the daughter of N. In **P @ Q # R & S**, how is P related to S?",
+      "options": [
+        "Daughter-in-law",
+        "Granddaughter",
+        "Granddaughter-in-law (wife of grandson)",
+        "Daughter",
+        "Cannot be determined"
+      ],
+      "correct": 2,
+      "solution": "**Granddaughter-in-law (wife of grandson).** `R & S` -> R is daughter of S (R is female). `Q # R` -> Q is son of R, so Q is the grandson of S. `P @ Q` -> P is wife of Q. Therefore P is the wife of S's grandson = granddaughter-in-law of S.",
+      "trick": "Resolve the chain from the far end (S) inward, marking gender from each defining word (\"daughter\" -> female, \"son\" -> male, \"wife\" -> female). Q is two generations below S, so P (Q's wife) is a \"grand-in-law\"."
+    },
+    {
+      "id": "reasoning-misc-q006",
+      "group": "Direction Sense",
+      "question": "A man walks 6 km towards North and then 8 km towards East. How far is he now from his starting point?",
+      "options": [
+        "12 km",
+        "14 km",
+        "10 km",
+        "2 km",
+        "48 km"
+      ],
+      "correct": 2,
+      "solution": "**10 km.** North and East are perpendicular, so the displacement is the hypotenuse: distance = √(6² + 8²) = √(36 + 64) = √100 = 10 km.",
+      "trick": "**Pythagoras:** When the two legs of the walk are at right angles, shortest distance = √(a² + b²). Memorise the 3-4-5, 6-8-10 and 5-12-13 triples to spot the answer instantly."
+    },
+    {
+      "id": "reasoning-misc-q007",
+      "group": "Direction Sense",
+      "question": "Starting from home, Priya walks 12 km towards North, then turns right and walks 5 km. How far is she from home, and in which direction with respect to home?",
+      "options": [
+        "13 km, North-East",
+        "17 km, East",
+        "13 km, South-East",
+        "7 km, North-East",
+        "13 km, North-West"
+      ],
+      "correct": 0,
+      "solution": "**13 km, North-East.** North 12 km, then a right turn (now facing East) 5 km East. Displacement = √(12² + 5²) = √(144 + 25) = √169 = 13 km. Net movement is North and East, so the final position is to the North-East of home.",
+      "trick": "**\"with respect to\":** The reference point (home) is the origin. Net Northward + net Eastward movement lands you in the North-East quadrant relative to it. Use the 5-12-13 triple for the distance."
+    },
+    {
+      "id": "reasoning-misc-q008",
+      "group": "Direction Sense",
+      "question": "Point B is 5 m to the East of point A. Point C is 5 m to the North of B. Point D is 5 m to the West of C. What is the position of D with respect to A?",
+      "options": [
+        "5 m North",
+        "5 m South",
+        "5 m East",
+        "10 m North",
+        "5 m West"
+      ],
+      "correct": 0,
+      "solution": "**5 m North.** Set A = (0, 0). B = (5, 0) [East]. C = (5, 5) [North of B]. D = (0, 5) [West of C]. D is directly above A, so D is 5 m North of A.",
+      "trick": "Convert each step to coordinates (East = +x, North = +y). \"D with respect to A\" means treat A as origin and read D's coordinates: same x, higher y -> due North."
+    },
+    {
+      "id": "reasoning-misc-q009",
+      "group": "Direction Sense",
+      "question": "A man is facing North. He turns 90° clockwise, then 180° anticlockwise, and finally 90° clockwise. Which direction is he facing now?",
+      "options": [
+        "East",
+        "West",
+        "North",
+        "South",
+        "South-West"
+      ],
+      "correct": 2,
+      "solution": "**North.** Start North. 90° clockwise -> East. 180° anticlockwise from East -> West. 90° clockwise from West -> North.",
+      "trick": "Clockwise adds degrees, anticlockwise subtracts, on the compass N(0)-E(90)-S(180)-W(270). Track only the net turn: +90 − 180 + 90 = 0, so he ends up facing the original North."
+    },
+    {
+      "id": "reasoning-misc-q010",
+      "group": "Coding-Decoding",
+      "question": "If `CAT` is coded as `DBU`, then how is `DOG` coded?",
+      "options": [
+        "EPH",
+        "CPF",
+        "EPF",
+        "FPH",
+        "EQH"
+      ],
+      "correct": 0,
+      "solution": "**EPH.** Each letter shifts +1: C->D, A->B, T->U (given). So D->E, O->P, G->H = EPH.",
+      "trick": "**find the shift from one letter:** Compare just one letter of the code with its original (C->D = +1). Apply that same shift to every letter of the new word."
+    },
+    {
+      "id": "reasoning-misc-q011",
+      "group": "Coding-Decoding",
+      "question": "In a certain code, `FLOWER` is written as `EKNVDQ`. How is `GARDEN` written in that code?",
+      "options": [
+        "FZQCDM",
+        "HBSEFO",
+        "FBQCDM",
+        "FZPCDM",
+        "FZQDCM"
+      ],
+      "correct": 0,
+      "solution": "**FZQCDM.** FLOWER -> EKNVDQ is a −1 shift (F->E, L->K, O->N, W->V, E->D, R->Q). Apply −1 to GARDEN: G->F, A->Z, R->Q, D->C, E->D, N->M = FZQCDM. (A wraps back to Z.)",
+      "trick": "For backward shifts, remember A wraps to Z. Verify the shift on two letters before applying it to the whole word."
+    },
+    {
+      "id": "reasoning-misc-q012",
+      "group": "Coding-Decoding",
+      "question": "In a code language: \"she is intelligent\" = `la pa ta`; \"he is smart\" = `ni pa sa`; \"she is smart\" = `la pa sa`. What is the code for the word **intelligent**?",
+      "options": [
+        "la",
+        "pa",
+        "sa",
+        "ta",
+        "ni"
+      ],
+      "correct": 3,
+      "solution": "**ta.** \"is\" appears in all three sentences and `pa` appears in all three -> is = pa. \"she\" is common to sentences 1 and 3 (`la`) -> she = la. \"smart\" is common to sentences 2 and 3 (`sa`) -> smart = sa. In sentence 1, the leftover word \"intelligent\" maps to the leftover code `ta`.",
+      "trick": "**match the common word:** Line up sentences that share a word; the code they share is that word. Eliminate the known words in a sentence, and whatever word and code are left must pair up."
+    },
+    {
+      "id": "reasoning-misc-q013",
+      "group": "Coding-Decoding",
+      "question": "In a certain code, `MATH` is written as `13-1-20-8`. How is `BEAD` written in the same code?",
+      "options": [
+        "2-5-1-4",
+        "2-4-1-5",
+        "1-5-2-4",
+        "2-5-4-1",
+        "3-5-1-4"
+      ],
+      "correct": 0,
+      "solution": "**2-5-1-4.** Positional (A=1 … Z=26) coding: B=2, E=5, A=1, D=4 -> 2-5-1-4.",
+      "trick": "**position value:** Learn anchor positions (A=1, E=5, J=10, O=15, T=20, Z=26) and count from the nearest anchor to get any letter's number fast."
+    },
+    {
+      "id": "reasoning-misc-q014",
+      "group": "Coding-Decoding",
+      "question": "In a certain code, `CAT` is written as `XZG`. How is `DOG` written in that code?",
+      "options": [
+        "WOT",
+        "WLT",
+        "VLT",
+        "WLS",
+        "XLT"
+      ],
+      "correct": 1,
+      "solution": "**WLT.** Opposite-letter coding (A<->Z, positions add to 27): C(3)->X(24), A(1)->Z(26), T(20)->G(7) — all pairs sum to 27. For DOG: D(4)->W(23), O(15)->L(12), G(7)->T(20). Check: 4+23 = 15+12 = 7+20 = 27. Answer = WLT.",
+      "trick": "**opposite letters sum to 27:** The mirror of a letter at position n sits at position (27 − n). A<->Z, B<->Y, C<->X, M<->N. Compute 27 − n and convert back to a letter."
+    },
+    {
+      "id": "reasoning-misc-q015",
+      "group": "Alphanumeric Series",
+      "question": "How many symbols in the series are immediately preceded by a number and immediately followed by a letter?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four",
+        "None"
+      ],
+      "correct": 1,
+      "solution": "**Two.** Series: `7 B % 3 P @ K 9 R # 2 M W 5 & T 8 * N 4 Q`. Symbols and their neighbours — `%` (before B/letter: no), `@` (before P/letter: no), `#` (before R/letter: no), `&` (before 5/number, after T/letter: **yes**), `*` (before 8/number, after N/letter: **yes**). Count = 2.",
+      "context": "`7 B % 3 P @ K 9 R # 2 M W 5 & T 8 * N 4 Q`",
+      "trick": "**number-symbol-letter:** Scan only the symbols, then check the \"preceded-by / followed-by\" condition one symbol at a time. Read the pattern as [number][symbol][letter]."
+    },
+    {
+      "id": "reasoning-misc-q016",
+      "group": "Alphanumeric Series",
+      "question": "How many numbers in the series are immediately followed by a letter?",
+      "options": [
+        "Three",
+        "Four",
+        "Five",
+        "Six",
+        "Two"
+      ],
+      "correct": 2,
+      "solution": "**Five.** Numbers followed by a letter: 7->B (yes), 3->P (yes), 9->R (yes), 2->M (yes), 5->& (no), 8->* (no), 4->Q (yes). Total = 5.",
+      "context": "`7 B % 3 P @ K 9 R # 2 M W 5 & T 8 * N 4 Q`",
+      "trick": "For \"immediately followed by\" questions, look only at the element to the *right* of each target; ignore everything else in the series."
+    },
+    {
+      "id": "reasoning-misc-q017",
+      "group": "Alphanumeric Series",
+      "question": "Which element is third to the left of the 15th element from the left end?",
+      "options": [
+        "M",
+        "W",
+        "2",
+        "5",
+        "&"
+      ],
+      "correct": 0,
+      "solution": "**M.** The 15th element from the left is `&`. Third to its left is 15 − 3 = 12th element = `M`.",
+      "context": "`7 B % 3 P @ K 9 R # 2 M W 5 & T 8 * N 4 Q`",
+      "trick": "\"kth to the left of the mth from the left\" = the (m − k)th element from the left. Here 15 − 3 = 12, so just count to the 12th element."
+    },
+    {
+      "id": "reasoning-misc-q018",
+      "group": "Order & Ranking",
+      "question": "In a row of students, Rahul is 7th from the left end and 11th from the right end. How many students are there in the row?",
+      "options": [
+        "16",
+        "18",
+        "17",
+        "19",
+        "15"
+      ],
+      "correct": 2,
+      "solution": "**17.** Total = (rank from left) + (rank from right) − 1 = 7 + 11 − 1 = 17.",
+      "trick": "**total formula:** When both ranks point to the *same* person, Total = left rank + right rank − 1 (subtract 1 so the person isn't counted twice)."
+    },
+    {
+      "id": "reasoning-misc-q019",
+      "group": "Order & Ranking",
+      "question": "In a class of 40 students, Sita's rank is 12th from the top. What is her rank from the bottom?",
+      "options": [
+        "28th",
+        "29th",
+        "30th",
+        "27th",
+        "31st"
+      ],
+      "correct": 1,
+      "solution": "**29th.** Rank from bottom = Total − rank from top + 1 = 40 − 12 + 1 = 29.",
+      "trick": "Rank from bottom = Total − rank from top + 1. It's the \"total − 1\" formula rearranged for one known rank."
+    },
+    {
+      "id": "reasoning-misc-q020",
+      "group": "Order & Ranking",
+      "question": "In a row of 25 children, A is 10th from the left end and B is 9th from the right end. How many children are there between A and B?",
+      "options": [
+        "5",
+        "7",
+        "6",
+        "8",
+        "4"
+      ],
+      "correct": 2,
+      "solution": "**6.** A is 10th from the left. B is 9th from the right in a row of 25, so B's position from the left = 25 − 9 + 1 = 17. Children between them = 17 − 10 − 1 = 6.",
+      "trick": "Convert both people to positions from the *same* end, then children between = (higher position − lower position − 1). Subtracting the extra 1 excludes the two endpoints themselves."
+    }
+  ]
+}

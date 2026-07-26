@@ -1,0 +1,479 @@
+{
+  "title": "Data Interpretation — Practice (Vol. 3)",
+  "section": "quant",
+  "kind": "quiz",
+  "source": "quant-di-v3.md",
+  "questions": [
+    {
+      "id": "quant-di-v3-q001",
+      "group": "Set 1 — Table: Employees across departments (Type: Table)",
+      "context": "A firm has employees spread across five departments. The table shows the total headcount and the percentage of women in each department.\n\n| Department | Total Employees | % Female |\n|-----------|-----------------|----------|\n| IT | 600 | 40% |\n| HR | 250 | 60% |\n| Sales | 450 | 20% |\n| Marketing | 400 | 45% |\n| Finance | 300 | 50% |",
+      "question": "What is the total number of male employees across all five departments?",
+      "options": [
+        "1090",
+        "1150",
+        "1190",
+        "1210",
+        "1290"
+      ],
+      "correct": 2,
+      "solution": "Males = Total − Females per row.\nIT: 600 − 40% = 360; HR: 250 − 60% = 100; Sales: 450 − 20% = 360; Marketing: 400 − 45% = 220; Finance: 300 − 50% = 150. Sum = 360 + 100 + 360 + 220 + 150 = **1190**.",
+      "trick": "Male% = (100 − Female%). Compute males directly as Total × Male% in one pass instead of finding females first: 600×60% + 250×40% + 450×80% + 400×55% + 300×50%."
+    },
+    {
+      "id": "quant-di-v3-q002",
+      "group": "Set 1 — Table: Employees across departments (Type: Table)",
+      "context": "A firm has employees spread across five departments. The table shows the total headcount and the percentage of women in each department.\n\n| Department | Total Employees | % Female |\n|-----------|-----------------|----------|\n| IT | 600 | 40% |\n| HR | 250 | 60% |\n| Sales | 450 | 20% |\n| Marketing | 400 | 45% |\n| Finance | 300 | 50% |",
+      "question": "The ratio of total male employees to total female employees in the firm is:",
+      "options": [
+        "81:119",
+        "119:81",
+        "7:5",
+        "5:7",
+        "3:2"
+      ],
+      "correct": 1,
+      "solution": "Total employees = 600+250+450+400+300 = 2000. Females = 2000 − 1190 = 810. Ratio = 1190:810 = **119:81** (divide both by 10).",
+      "trick": "Once you have one part and the grand total, the other part is just a subtraction — no need to re-add all the female figures."
+    },
+    {
+      "id": "quant-di-v3-q003",
+      "group": "Set 1 — Table: Employees across departments (Type: Table)",
+      "context": "A firm has employees spread across five departments. The table shows the total headcount and the percentage of women in each department.\n\n| Department | Total Employees | % Female |\n|-----------|-----------------|----------|\n| IT | 600 | 40% |\n| HR | 250 | 60% |\n| Sales | 450 | 20% |\n| Marketing | 400 | 45% |\n| Finance | 300 | 50% |",
+      "question": "The number of female employees in IT and Sales together is:",
+      "options": [
+        "300",
+        "320",
+        "330",
+        "340",
+        "350"
+      ],
+      "correct": 2,
+      "solution": "Females: IT = 240, Sales = 90. 240 + 90 = **330**.",
+      "trick": "40% of 600 = 240 and 20% of 450 = 90 are one-step mental products (move the decimal, take the fraction)."
+    },
+    {
+      "id": "quant-di-v3-q004",
+      "group": "Set 1 — Table: Employees across departments (Type: Table)",
+      "context": "A firm has employees spread across five departments. The table shows the total headcount and the percentage of women in each department.\n\n| Department | Total Employees | % Female |\n|-----------|-----------------|----------|\n| IT | 600 | 40% |\n| HR | 250 | 60% |\n| Sales | 450 | 20% |\n| Marketing | 400 | 45% |\n| Finance | 300 | 50% |",
+      "question": "What is the difference between the number of male employees in Marketing and the number of female employees in HR?",
+      "options": [
+        "50",
+        "60",
+        "70",
+        "80",
+        "90"
+      ],
+      "correct": 2,
+      "solution": "Males in Marketing = 220; Females in HR = 150. 220 − 150 = **70**.",
+      "trick": "45% of 400 = 180 female, so male = 220. HR female 60% of 250 = 150. Keep a running male/female table as you read — it serves every sub-question."
+    },
+    {
+      "id": "quant-di-v3-q005",
+      "group": "Set 1 — Table: Employees across departments (Type: Table)",
+      "context": "A firm has employees spread across five departments. The table shows the total headcount and the percentage of women in each department.\n\n| Department | Total Employees | % Female |\n|-----------|-----------------|----------|\n| IT | 600 | 40% |\n| HR | 250 | 60% |\n| Sales | 450 | 20% |\n| Marketing | 400 | 45% |\n| Finance | 300 | 50% |",
+      "question": "By what percent is the total number of employees in Sales more than that in Marketing?",
+      "options": [
+        "10%",
+        "11.5%",
+        "12%",
+        "12.5%",
+        "15%"
+      ],
+      "correct": 3,
+      "solution": "(450 − 400)/400 × 100 = 50/400 = **12.5%**.",
+      "trick": "\"One-eighth = 12.5%.\" Since the extra 50 is 1/8 of 400, recognise the fraction instead of dividing."
+    },
+    {
+      "id": "quant-di-v3-q006",
+      "group": "Set 2 — Table: Five trains, distance and time (Type: Table)",
+      "context": "The table shows the distance covered by five trains and the time taken.\n\n| Train | Distance (km) | Time (hours) |\n|-------|---------------|--------------|\n| A | 300 | 5 |\n| B | 420 | 6 |\n| C | 400 | 5 |\n| D | 360 | 8 |\n| E | 550 | 10 |",
+      "question": "What is the speed of Train B?",
+      "options": [
+        "60 kmph",
+        "65 kmph",
+        "70 kmph",
+        "72 kmph",
+        "75 kmph"
+      ],
+      "correct": 2,
+      "solution": "Speed = 420 ÷ 6 = **70 kmph**."
+    },
+    {
+      "id": "quant-di-v3-q007",
+      "group": "Set 2 — Table: Five trains, distance and time (Type: Table)",
+      "context": "The table shows the distance covered by five trains and the time taken.\n\n| Train | Distance (km) | Time (hours) |\n|-------|---------------|--------------|\n| A | 300 | 5 |\n| B | 420 | 6 |\n| C | 400 | 5 |\n| D | 360 | 8 |\n| E | 550 | 10 |",
+      "question": "What is the average speed of all five trains?",
+      "options": [
+        "60 kmph",
+        "61 kmph",
+        "62 kmph",
+        "63 kmph",
+        "64 kmph"
+      ],
+      "correct": 2,
+      "solution": "Speeds: A = 300/5 = 60, B = 70, C = 400/5 = 80, D = 360/8 = 45, E = 550/10 = 55. Average = (60+70+80+45+55)/5 = 310/5 = **62**.",
+      "trick": "Average of speeds ≠ total distance ÷ total time here (times differ). Since the question says \"average speed of the trains,\" average the five individual speeds."
+    },
+    {
+      "id": "quant-di-v3-q008",
+      "group": "Set 2 — Table: Five trains, distance and time (Type: Table)",
+      "context": "The table shows the distance covered by five trains and the time taken.\n\n| Train | Distance (km) | Time (hours) |\n|-------|---------------|--------------|\n| A | 300 | 5 |\n| B | 420 | 6 |\n| C | 400 | 5 |\n| D | 360 | 8 |\n| E | 550 | 10 |",
+      "question": "What is the total distance covered by all five trains together?",
+      "options": [
+        "1930 km",
+        "2000 km",
+        "2030 km",
+        "2050 km",
+        "2130 km"
+      ],
+      "correct": 2,
+      "solution": "300 + 420 + 400 + 360 + 550 = **2030**.",
+      "trick": "Pair to round numbers: (300+400) + (420+... ) → 700 + 550 = 1250, +420 = 1670, +360 = 2030."
+    },
+    {
+      "id": "quant-di-v3-q009",
+      "group": "Set 2 — Table: Five trains, distance and time (Type: Table)",
+      "context": "The table shows the distance covered by five trains and the time taken.\n\n| Train | Distance (km) | Time (hours) |\n|-------|---------------|--------------|\n| A | 300 | 5 |\n| B | 420 | 6 |\n| C | 400 | 5 |\n| D | 360 | 8 |\n| E | 550 | 10 |",
+      "question": "The ratio of the speed of Train A to that of Train C is:",
+      "options": [
+        "2:3",
+        "3:4",
+        "4:3",
+        "3:5",
+        "5:4"
+      ],
+      "correct": 1,
+      "solution": "Speed A : Speed C = 60 : 80 = **3:4**."
+    },
+    {
+      "id": "quant-di-v3-q010",
+      "group": "Set 2 — Table: Five trains, distance and time (Type: Table)",
+      "context": "The table shows the distance covered by five trains and the time taken.\n\n| Train | Distance (km) | Time (hours) |\n|-------|---------------|--------------|\n| A | 300 | 5 |\n| B | 420 | 6 |\n| C | 400 | 5 |\n| D | 360 | 8 |\n| E | 550 | 10 |",
+      "question": "If Train D increases its speed by 15 kmph, how long will it take to cover the same distance?",
+      "options": [
+        "5 hours",
+        "5.5 hours",
+        "6 hours",
+        "6.5 hours",
+        "7 hours"
+      ],
+      "correct": 2,
+      "solution": "New speed = 45 + 15 = 60 kmph. Time = 360 ÷ 60 = **6 hours**.",
+      "trick": "Distance is fixed, so time is inversely proportional to speed: old time 8 h at 45 → 45×8 = 360; divide by the new 60 to get 6."
+    },
+    {
+      "id": "quant-di-v3-q011",
+      "group": "Set 3 — Bar: Car production by two companies (Type: Bar)",
+      "context": "The bar chart shows the number of cars produced (in units) by Company X and Company Y from 2019 to 2023.\n\n| Year | Company X | Company Y |\n|------|-----------|-----------|\n| 2019 | 200 | 150 |\n| 2020 | 250 | 300 |\n| 2021 | 300 | 250 |\n| 2022 | 350 | 400 |\n| 2023 | 400 | 320 |",
+      "question": "What is the total production of Company X over all five years?",
+      "options": [
+        "1400",
+        "1450",
+        "1500",
+        "1550",
+        "1600"
+      ],
+      "correct": 2,
+      "solution": "200 + 250 + 300 + 350 + 400 = **1500**.",
+      "trick": "The X values form an arithmetic series (step 50). Sum = average × count = 300 × 5 = 1500."
+    },
+    {
+      "id": "quant-di-v3-q012",
+      "group": "Set 3 — Bar: Car production by two companies (Type: Bar)",
+      "context": "The bar chart shows the number of cars produced (in units) by Company X and Company Y from 2019 to 2023.\n\n| Year | Company X | Company Y |\n|------|-----------|-----------|\n| 2019 | 200 | 150 |\n| 2020 | 250 | 300 |\n| 2021 | 300 | 250 |\n| 2022 | 350 | 400 |\n| 2023 | 400 | 320 |",
+      "question": "In which year is the combined production of both companies the highest?",
+      "options": [
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023"
+      ],
+      "correct": 3,
+      "solution": "Combined totals: 2019 = 350, 2020 = 550, 2021 = 550, 2022 = **750**, 2023 = 720. Highest is 2022.",
+      "trick": "Only the top few candidates matter — eyeball the two tallest pairs (2022 and 2023) and add just those."
+    },
+    {
+      "id": "quant-di-v3-q013",
+      "group": "Set 3 — Bar: Car production by two companies (Type: Bar)",
+      "context": "The bar chart shows the number of cars produced (in units) by Company X and Company Y from 2019 to 2023.\n\n| Year | Company X | Company Y |\n|------|-----------|-----------|\n| 2019 | 200 | 150 |\n| 2020 | 250 | 300 |\n| 2021 | 300 | 250 |\n| 2022 | 350 | 400 |\n| 2023 | 400 | 320 |",
+      "question": "What is the difference between the total production of Company X and that of Company Y over the five years?",
+      "options": [
+        "60",
+        "70",
+        "80",
+        "90",
+        "100"
+      ],
+      "correct": 2,
+      "solution": "X total = 1500; Y total = 150+300+250+400+320 = 1420. Difference = 1500 − 1420 = **80**."
+    },
+    {
+      "id": "quant-di-v3-q014",
+      "group": "Set 3 — Bar: Car production by two companies (Type: Bar)",
+      "context": "The bar chart shows the number of cars produced (in units) by Company X and Company Y from 2019 to 2023.\n\n| Year | Company X | Company Y |\n|------|-----------|-----------|\n| 2019 | 200 | 150 |\n| 2020 | 250 | 300 |\n| 2021 | 300 | 250 |\n| 2022 | 350 | 400 |\n| 2023 | 400 | 320 |",
+      "question": "In 2020, the production of Company Y is what percent of the production of Company X?",
+      "options": [
+        "100%",
+        "110%",
+        "120%",
+        "125%",
+        "130%"
+      ],
+      "correct": 2,
+      "solution": "300 ÷ 250 × 100 = **120%**.",
+      "trick": "300/250 = 6/5 = 1.2 → 120%."
+    },
+    {
+      "id": "quant-di-v3-q015",
+      "group": "Set 3 — Bar: Car production by two companies (Type: Bar)",
+      "context": "The bar chart shows the number of cars produced (in units) by Company X and Company Y from 2019 to 2023.\n\n| Year | Company X | Company Y |\n|------|-----------|-----------|\n| 2019 | 200 | 150 |\n| 2020 | 250 | 300 |\n| 2021 | 300 | 250 |\n| 2022 | 350 | 400 |\n| 2023 | 400 | 320 |",
+      "question": "What is the average annual production of Company X over the five years?",
+      "options": [
+        "280",
+        "290",
+        "300",
+        "310",
+        "320"
+      ],
+      "correct": 2,
+      "solution": "1500 ÷ 5 = **300** (already computed in Q11)."
+    },
+    {
+      "id": "quant-di-v3-q016",
+      "group": "Set 4 — Pie: Monthly household budget (Type: Pie)",
+      "context": "A family's monthly income is Rs. 60,000, distributed across six heads as shown in the pie chart (percentages).\n\n| Head | % of Income |\n|------|-------------|\n| Rent | 25% |\n| Food | 20% |\n| Education | 15% |\n| Savings | 20% |\n| Transport | 10% |\n| Others | 10% |",
+      "question": "What amount is spent on Rent each month?",
+      "options": [
+        "12,000",
+        "13,500",
+        "15,000",
+        "16,000",
+        "18,000"
+      ],
+      "correct": 2,
+      "solution": "25% of 60,000 = **15,000**.",
+      "trick": "25% = one-quarter; just divide 60,000 by 4."
+    },
+    {
+      "id": "quant-di-v3-q017",
+      "group": "Set 4 — Pie: Monthly household budget (Type: Pie)",
+      "context": "A family's monthly income is Rs. 60,000, distributed across six heads as shown in the pie chart (percentages).\n\n| Head | % of Income |\n|------|-------------|\n| Rent | 25% |\n| Food | 20% |\n| Education | 15% |\n| Savings | 20% |\n| Transport | 10% |\n| Others | 10% |",
+      "question": "What is the difference between the amounts allocated to Education and Transport?",
+      "options": [
+        "2,000",
+        "2,500",
+        "3,000",
+        "3,500",
+        "4,000"
+      ],
+      "correct": 2,
+      "solution": "Education 15% = 9,000; Transport 10% = 6,000. Difference = the 5% gap = 5% of 60,000 = **3,000**.",
+      "trick": "Skip both amounts — take the percentage difference (15% − 10% = 5%) of the total directly."
+    },
+    {
+      "id": "quant-di-v3-q018",
+      "group": "Set 4 — Pie: Monthly household budget (Type: Pie)",
+      "context": "A family's monthly income is Rs. 60,000, distributed across six heads as shown in the pie chart (percentages).\n\n| Head | % of Income |\n|------|-------------|\n| Rent | 25% |\n| Food | 20% |\n| Education | 15% |\n| Savings | 20% |\n| Transport | 10% |\n| Others | 10% |",
+      "question": "What is the central angle (in degrees) of the sector representing Savings?",
+      "options": [
+        "60",
+        "66",
+        "72",
+        "80",
+        "90"
+      ],
+      "correct": 2,
+      "solution": "20% of 360° = **72°**.",
+      "trick": "1% = 3.6°, so 20% = 20 × 3.6 = 72."
+    },
+    {
+      "id": "quant-di-v3-q019",
+      "group": "Set 4 — Pie: Monthly household budget (Type: Pie)",
+      "context": "A family's monthly income is Rs. 60,000, distributed across six heads as shown in the pie chart (percentages).\n\n| Head | % of Income |\n|------|-------------|\n| Rent | 25% |\n| Food | 20% |\n| Education | 15% |\n| Savings | 20% |\n| Transport | 10% |\n| Others | 10% |",
+      "question": "How much is spent on Rent and Food together?",
+      "options": [
+        "25,000",
+        "26,000",
+        "27,000",
+        "28,000",
+        "30,000"
+      ],
+      "correct": 2,
+      "solution": "(25% + 20%) = 45% of 60,000 = **27,000**."
+    },
+    {
+      "id": "quant-di-v3-q020",
+      "group": "Set 4 — Pie: Monthly household budget (Type: Pie)",
+      "context": "A family's monthly income is Rs. 60,000, distributed across six heads as shown in the pie chart (percentages).\n\n| Head | % of Income |\n|------|-------------|\n| Rent | 25% |\n| Food | 20% |\n| Education | 15% |\n| Savings | 20% |\n| Transport | 10% |\n| Others | 10% |",
+      "question": "If the income rises to Rs. 75,000 while the percentages stay the same, what amount goes to Savings?",
+      "options": [
+        "12,000",
+        "13,500",
+        "15,000",
+        "16,500",
+        "18,000"
+      ],
+      "correct": 2,
+      "solution": "20% of 75,000 = **15,000**.",
+      "trick": "Savings is 1/5 of income; 75,000 ÷ 5 = 15,000."
+    },
+    {
+      "id": "quant-di-v3-q021",
+      "group": "Set 5 — Line: Website visitors over six months (Type: Line)",
+      "context": "The line graph shows the number of visitors (in thousands) to a website across six months.\n\n| Month | Visitors (thousands) |\n|-------|----------------------|\n| Jan | 40 |\n| Feb | 55 |\n| Mar | 50 |\n| Apr | 68 |\n| May | 72 |\n| Jun | 60 |",
+      "question": "What is the total number of visitors over the six months?",
+      "options": [
+        "335 thousand",
+        "340 thousand",
+        "345 thousand",
+        "350 thousand",
+        "355 thousand"
+      ],
+      "correct": 2,
+      "solution": "40+55+50+68+72+60 = **345**.",
+      "trick": "Group: (40+60) + (55+72) + (50+68) = 100 + 127 + 118 = 345."
+    },
+    {
+      "id": "quant-di-v3-q022",
+      "group": "Set 5 — Line: Website visitors over six months (Type: Line)",
+      "context": "The line graph shows the number of visitors (in thousands) to a website across six months.\n\n| Month | Visitors (thousands) |\n|-------|----------------------|\n| Jan | 40 |\n| Feb | 55 |\n| Mar | 50 |\n| Apr | 68 |\n| May | 72 |\n| Jun | 60 |",
+      "question": "What is the percentage increase in visitors from January to May?",
+      "options": [
+        "70%",
+        "75%",
+        "80%",
+        "85%",
+        "90%"
+      ],
+      "correct": 2,
+      "solution": "(72 − 40)/40 × 100 = 32/40 × 100 = **80%**.",
+      "trick": "32/40 = 4/5 = 80%."
+    },
+    {
+      "id": "quant-di-v3-q023",
+      "group": "Set 5 — Line: Website visitors over six months (Type: Line)",
+      "context": "The line graph shows the number of visitors (in thousands) to a website across six months.\n\n| Month | Visitors (thousands) |\n|-------|----------------------|\n| Jan | 40 |\n| Feb | 55 |\n| Mar | 50 |\n| Apr | 68 |\n| May | 72 |\n| Jun | 60 |",
+      "question": "In which month is the increase in visitors over the previous month the greatest?",
+      "options": [
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun"
+      ],
+      "correct": 2,
+      "solution": "Month-on-month changes: Feb +15, Mar −5, Apr +18, May +4, Jun −12. Largest rise = **Apr (+18)**.",
+      "trick": "Only compare the \"up\" jumps; Feb (+15) and Apr (+18) are the contenders — Apr wins."
+    },
+    {
+      "id": "quant-di-v3-q024",
+      "group": "Set 5 — Line: Website visitors over six months (Type: Line)",
+      "context": "The line graph shows the number of visitors (in thousands) to a website across six months.\n\n| Month | Visitors (thousands) |\n|-------|----------------------|\n| Jan | 40 |\n| Feb | 55 |\n| Mar | 50 |\n| Apr | 68 |\n| May | 72 |\n| Jun | 60 |",
+      "question": "What is the average number of visitors per month?",
+      "options": [
+        "55 thousand",
+        "56.5 thousand",
+        "57.5 thousand",
+        "58 thousand",
+        "60 thousand"
+      ],
+      "correct": 2,
+      "solution": "345 ÷ 6 = **57.5**.",
+      "trick": "Reuse the Q21 total; 345/6 = 57.5."
+    },
+    {
+      "id": "quant-di-v3-q025",
+      "group": "Set 5 — Line: Website visitors over six months (Type: Line)",
+      "context": "The line graph shows the number of visitors (in thousands) to a website across six months.\n\n| Month | Visitors (thousands) |\n|-------|----------------------|\n| Jan | 40 |\n| Feb | 55 |\n| Mar | 50 |\n| Apr | 68 |\n| May | 72 |\n| Jun | 60 |",
+      "question": "What is the ratio of visitors in February to visitors in June?",
+      "options": [
+        "11:12",
+        "12:11",
+        "5:6",
+        "6:5",
+        "10:11"
+      ],
+      "correct": 0,
+      "solution": "55 : 60 = **11:12** (divide both by 5)."
+    },
+    {
+      "id": "quant-di-v3-q026",
+      "group": "Set 6 — Caselet: Population and literacy of a town (Type: Caselet)",
+      "context": "The total population of a town is 8,000. The ratio of males to females is 5:3. Among the males, 40% are literate. Among the females, 60% are literate.",
+      "question": "What is the number of literate males in the town?",
+      "options": [
+        "1,800",
+        "2,000",
+        "2,200",
+        "2,400",
+        "2,500"
+      ],
+      "correct": 1,
+      "solution": "Males = 8,000 × 5/8 = 5,000. Literate males = 40% of 5,000 = **2,000**.",
+      "trick": "Ratio 5:3 over 8 parts means 1 part = 8,000/8 = 1,000; males = 5 parts = 5,000."
+    },
+    {
+      "id": "quant-di-v3-q027",
+      "group": "Set 6 — Caselet: Population and literacy of a town (Type: Caselet)",
+      "context": "The total population of a town is 8,000. The ratio of males to females is 5:3. Among the males, 40% are literate. Among the females, 60% are literate.",
+      "question": "What is the total literate population of the town?",
+      "options": [
+        "3,600",
+        "3,700",
+        "3,800",
+        "3,900",
+        "4,000"
+      ],
+      "correct": 2,
+      "solution": "Females = 3 parts = 3,000. Literate females = 60% of 3,000 = 1,800. Total literate = 2,000 + 1,800 = **3,800**."
+    },
+    {
+      "id": "quant-di-v3-q028",
+      "group": "Set 6 — Caselet: Population and literacy of a town (Type: Caselet)",
+      "context": "The total population of a town is 8,000. The ratio of males to females is 5:3. Among the males, 40% are literate. Among the females, 60% are literate.",
+      "question": "What is the number of illiterate females?",
+      "options": [
+        "1,000",
+        "1,100",
+        "1,200",
+        "1,300",
+        "1,400"
+      ],
+      "correct": 2,
+      "solution": "Illiterate females = 40% of 3,000 = **1,200** (or 3,000 − 1,800)."
+    },
+    {
+      "id": "quant-di-v3-q029",
+      "group": "Set 6 — Caselet: Population and literacy of a town (Type: Caselet)",
+      "context": "The total population of a town is 8,000. The ratio of males to females is 5:3. Among the males, 40% are literate. Among the females, 60% are literate.",
+      "question": "By what percent is the male population more than the female population?",
+      "options": [
+        "40%",
+        "50%",
+        "60%",
+        "66.67%",
+        "75%"
+      ],
+      "correct": 3,
+      "solution": "(5,000 − 3,000)/3,000 × 100 = 2,000/3,000 = **66.67%**.",
+      "trick": "With ratio 5:3, \"how much more is 5 than 3\" = 2/3 = 66.67% — read it straight off the ratio, no headcounts needed."
+    },
+    {
+      "id": "quant-di-v3-q030",
+      "group": "Set 6 — Caselet: Population and literacy of a town (Type: Caselet)",
+      "context": "The total population of a town is 8,000. The ratio of males to females is 5:3. Among the males, 40% are literate. Among the females, 60% are literate.",
+      "question": "What is the ratio of literate males to literate females?",
+      "options": [
+        "9:10",
+        "10:9",
+        "5:4",
+        "4:5",
+        "11:9"
+      ],
+      "correct": 1,
+      "solution": "Literate males : literate females = 2,000 : 1,800 = **10:9** (divide both by 200)."
+    }
+  ]
+}
